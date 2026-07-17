@@ -4,6 +4,7 @@
   const WINDOW_AHEAD = 6;
   const AXIS_LOCK_PX = 12;
   const SWIPE_THRESHOLD_PX = 90;
+  const TAP_MOVE_THRESHOLD_PX = 24;
 
   const feed = document.getElementById('feed');
   const hint = document.getElementById('hint');
@@ -184,15 +185,25 @@
     function endGesture(e) {
       if (!pointer || e.pointerId !== pointer.id) return;
       const dx = e.clientX - pointer.x0;
+      const dy = e.clientY - pointer.y0;
+      const distance = Math.hypot(dx, dy);
+
       if (pointer.mode === 'horizontal') {
         const flash = card.querySelector('.swipe-flash');
         if (flash) flash.style.opacity = '0';
         if (Math.abs(dx) > SWIPE_THRESHOLD_PX) {
           react(card, fact, dx > 0 ? 1 : -1);
-        } else {
-          snapBack(card);
+          pointer = null;
+          return;
         }
-      } else if (pointer.mode === 'undecided' && !e.target.closest('.card-actions')) {
+        snapBack(card);
+      }
+
+      // A real finger tap rarely stays under AXIS_LOCK_PX, so `mode` often
+      // already flipped to 'vertical' (or a too-small 'horizontal') by the
+      // time the finger lifts. Judge tap-vs-drag on total distance here
+      // instead of trusting `mode`, so double-tap stays reliable on touch.
+      if (distance < TAP_MOVE_THRESHOLD_PX && !e.target.closest('.card-actions')) {
         const now = Date.now();
         if (now - lastTapTime < DOUBLE_TAP_MS) {
           react(card, fact, 1);
