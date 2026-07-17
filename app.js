@@ -37,9 +37,32 @@
   }
 
   function weightFor(category) {
-    const stats = categoryStats[category] || { likes: 0, dislikes: 0 };
-    const score = stats.likes - stats.dislikes;
+    const stats = categoryStats[category] || { likes: 0, dislikes: 0, dwell: 0 };
+    const score = stats.likes - stats.dislikes + (stats.dwell || 0);
     return clamp(1 + 0.4 * score, 0.15, 6);
+  }
+
+  // Implicit signal alongside explicit likes/dislikes: how long a fact stayed
+  // the active (>60% visible) card versus how long its text takes to read.
+  // Lingering well past the expected reading time counts as mild interest,
+  // scrolling past almost immediately counts as mild disinterest — same idea
+  // as watch-time/completion-rate weighting, just scaled down since it's an
+  // inferred rather than an explicit signal.
+  const DWELL_LINGER_RATIO = 1.4;
+  const DWELL_SKIP_RATIO = 0.35;
+  const DWELL_LINGER_SCORE = 0.3;
+  const DWELL_SKIP_SCORE = -0.2;
+
+  function applyDwellSignal(card, dwellMs) {
+    const category = card.dataset.category;
+    const expectedMs = Number(card.dataset.expectedMs) || 3000;
+    const ratio = dwellMs / expectedMs;
+    if (ratio > DWELL_SKIP_RATIO && ratio < DWELL_LINGER_RATIO) return; // normal reading pace
+
+    const stats = categoryStats[category] || { likes: 0, dislikes: 0, dwell: 0 };
+    stats.dwell = (stats.dwell || 0) + (ratio > DWELL_LINGER_RATIO ? DWELL_LINGER_SCORE : DWELL_SKIP_SCORE);
+    categoryStats[category] = stats;
+    saveStats();
   }
 
   function pickNextFact() {
@@ -156,6 +179,8 @@
     card.className = 'card';
     card.dataset.factId = String(fact.id);
     card.dataset.category = fact.category;
+    const words = fact.text.trim().split(/\s+/).length;
+    card.dataset.expectedMs = String(clamp(words * 240, 1200, 8000));
 
     card.innerHTML = `
       <div class="swipe-flash"></div>
@@ -177,10 +202,22 @@
     return card;
   }
 
+  let activeCard = null;
+  let activeSince = 0;
+
+  function setActiveCard(card) {
+    if (card === activeCard) return;
+    const now = Date.now();
+    if (activeCard) applyDwellSignal(activeCard, now - activeSince);
+    activeCard = card;
+    activeSince = now;
+  }
+
   const observer = new IntersectionObserver(
     (entries) => {
       entries.forEach((entry) => {
         if (entry.isIntersecting && entry.intersectionRatio > 0.6) {
+          setActiveCard(entry.target);
           const idx = Array.from(feed.children).indexOf(entry.target);
           if (idx > feed.children.length - 3) {
             appendCard();
