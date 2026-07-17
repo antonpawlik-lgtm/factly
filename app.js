@@ -65,16 +65,28 @@
     saveStats();
   }
 
+  // Even if one category ends up completely dominant (heavily liked while
+  // others sit at the weight floor), every so often ignore the weights
+  // entirely and pull from a uniformly random category. Keeps the feed from
+  // fully locking into one bubble — same idea as "interest exploration" in
+  // recommender systems.
+  const EXPLORE_RATE = 0.15;
+
   function pickNextFact() {
-    const weights = categories.map((c) => weightFor(c));
-    const total = weights.reduce((a, b) => a + b, 0);
-    let r = Math.random() * total;
-    let chosenCategory = categories[categories.length - 1];
-    for (let i = 0; i < categories.length; i++) {
-      r -= weights[i];
-      if (r <= 0) {
-        chosenCategory = categories[i];
-        break;
+    let chosenCategory;
+    if (Math.random() < EXPLORE_RATE) {
+      chosenCategory = categories[Math.floor(Math.random() * categories.length)];
+    } else {
+      const weights = categories.map((c) => weightFor(c));
+      const total = weights.reduce((a, b) => a + b, 0);
+      let r = Math.random() * total;
+      chosenCategory = categories[categories.length - 1];
+      for (let i = 0; i < categories.length; i++) {
+        r -= weights[i];
+        if (r <= 0) {
+          chosenCategory = categories[i];
+          break;
+        }
       }
     }
 
