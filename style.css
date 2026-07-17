@@ -96,17 +96,18 @@ html, body {
   align-items: center;
   justify-content: center;
   -webkit-tap-highlight-color: transparent;
+  transition: background 0.15s ease;
 }
 
 .card-actions button:active {
   transform: scale(0.92);
 }
 
-.btn-like:active {
+.btn-like.selected {
   background: var(--like);
 }
 
-.btn-dislike:active {
+.btn-dislike.selected {
   background: var(--dislike);
 }
 

@@ -77,22 +77,24 @@
 
   function react(card, fact, direction) {
     const stats = categoryStats[fact.category] || { likes: 0, dislikes: 0 };
+    const prev = card.dataset.reaction;
+    if (prev === 'like') stats.likes -= 1;
+    if (prev === 'dislike') stats.dislikes -= 1;
     if (direction > 0) stats.likes += 1;
     else stats.dislikes += 1;
     categoryStats[fact.category] = stats;
     saveStats();
-    flyAndReset(card, direction);
+
+    card.dataset.reaction = direction > 0 ? 'like' : 'dislike';
+    card.querySelector('.btn-like').classList.toggle('selected', direction > 0);
+    card.querySelector('.btn-dislike').classList.toggle('selected', direction < 0);
+    snapBack(card);
   }
 
-  function flyAndReset(card, direction) {
-    card.style.transition = 'transform 0.25s ease, opacity 0.25s ease';
-    card.style.transform = `translateX(${direction * 60}px) rotate(${direction * 8}deg)`;
-    card.style.opacity = '0.4';
-    setTimeout(() => {
-      card.style.transition = 'transform 0.2s ease, opacity 0.2s ease';
-      card.style.transform = 'translateX(0) rotate(0)';
-      card.style.opacity = '1';
-    }, 160);
+  function snapBack(card) {
+    card.style.transition = 'transform 0.2s ease, opacity 0.2s ease';
+    card.style.transform = 'translateX(0) rotate(0)';
+    card.style.opacity = '1';
   }
 
   function attachGestures(card, fact) {
@@ -139,9 +141,7 @@
         if (Math.abs(dx) > SWIPE_THRESHOLD_PX) {
           react(card, fact, dx > 0 ? 1 : -1);
         } else {
-          card.style.transition = 'transform 0.2s ease, opacity 0.2s ease';
-          card.style.transform = 'translateX(0) rotate(0)';
-          card.style.opacity = '1';
+          snapBack(card);
         }
       }
       pointer = null;
