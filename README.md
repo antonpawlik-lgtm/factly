@@ -31,6 +31,10 @@ Dann `http://localhost:8080` öffnen (ein simpler statischer Server ist nötig, 
    ```
    GitHub Pages baut daraufhin automatisch neu.
 
-## Deployment (einmalig)
+## Deployment
 
-Noch nicht auf GitHub gepusht. Empfohlener Weg: eigenes Repo `fact-feed`, GitHub Pages auf `main`/Root aktivieren. Ergebnis-URL: `https://<github-username>.github.io/fact-feed/`. Auf dem iPhone danach über Safari "Zum Home-Bildschirm hinzufügen" für App-artiges Icon.
+Läuft über GitHub Pages auf `main`/Root: https://antonpawlik-lgtm.github.io/fact-feed/. Auf dem iPhone über Safari "Zum Home-Bildschirm hinzufügen" für ein App-artiges Icon.
+
+## Lizenz
+
+Alle Rechte vorbehalten, siehe [LICENSE](LICENSE). Der Code ist öffentlich einsehbar, aber nicht zur Nutzung freigegeben.
