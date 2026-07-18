@@ -7,10 +7,11 @@
   <meta name="theme-color" content="#0e0e10" />
   <link rel="manifest" href="manifest.json" />
   <link rel="apple-touch-icon" href="icons/icon-192.png" />
-  <link rel="stylesheet" href="style.css?v=7" />
+  <link rel="stylesheet" href="style.css?v=8" />
 </head>
 <body>
   <div class="hint" id="hint">↑↓ nächster Fact · ←→ liken/disliken</div>
+  <div class="toast hidden" id="toast" role="status" aria-live="polite"></div>
   <div id="feed" class="view"></div>
   <section id="saved-view" class="view panel hidden" aria-label="Gespeicherte Facts"></section>
   <section id="settings-view" class="view panel hidden" aria-label="Einstellungen"></section>
@@ -22,6 +23,6 @@
   <!-- Bump the ?v= numbers AND the CACHE version in sw.js whenever
        src/*.js or style.css change — iOS caches aggressively, especially
        once the app is on the home screen. -->
-  <script type="module" src="src/main.js?v=7"></script>
+  <script type="module" src="src/main.js?v=8"></script>
 </body>
 </html>

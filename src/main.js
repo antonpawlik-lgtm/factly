@@ -9,6 +9,7 @@ const STORAGE_SESSION = 'factfeed_session';
 const STORAGE_SHOW_COUNTS = 'factfeed_showCounts';
 const STORAGE_REACTIONS = 'factfeed_reactions';
 const STORAGE_FAVORITES = 'factfeed_favorites';
+const STORAGE_BOOSTED = 'factfeed_boosted';
 const STORAGE_LANGUAGE = 'factfeed_language';
 const WINDOW_AHEAD = 6;
 const AXIS_LOCK_PX = 12;
@@ -18,6 +19,7 @@ const SESSION_DECAY = 0.98;
 
 const feed = document.getElementById('feed');
 const hint = document.getElementById('hint');
+const toast = document.getElementById('toast');
 const savedView = document.getElementById('saved-view');
 const settingsView = document.getElementById('settings-view');
 const nav = document.getElementById('nav');
@@ -32,14 +34,52 @@ const seenAt = readJSON(STORAGE_SEEN_AT, {}); // { "17": 12 } — session number
 const showCounts = readJSON(STORAGE_SHOW_COUNTS, {}); // { history: 42 } — how often each category was shown
 const reactions = readJSON(STORAGE_REACTIONS, {}); // { "17": "like", "48": "dislike" }
 const favorites = new Set(readJSON(STORAGE_FAVORITES, []));
+const boostedIds = new Set(readJSON(STORAGE_BOOSTED, [])); // "Mehr davon" is once per fact
 let selectedLanguage = localStorage.getItem(STORAGE_LANGUAGE) || 'all'; // 'de' | 'en' | 'all'
 let hintTimer = null;
+let toastTimer = null;
+
+// German display labels for the otherwise-English category slugs. Unmapped
+// (future) categories fall back to the raw slug.
+const CATEGORY_LABELS = {
+  science: 'Wissenschaft',
+  history: 'Geschichte',
+  nature: 'Natur',
+  space: 'Weltraum',
+  animals: 'Tiere',
+  geography: 'Geografie',
+  technology: 'Technik',
+  psychology: 'Psychologie',
+  food: 'Essen',
+  curiosities: 'Kurioses',
+};
+
+const categoryLabel = (category) => CATEGORY_LABELS[category] || category;
+
+// Per-category accent color, shown on the category label so categories are
+// distinguishable at a glance. Unmapped (future) categories fall back to
+// the default --accent color via CSS.
+const CATEGORY_COLORS = {
+  science: '#a78bfa',
+  history: '#f59e0b',
+  nature: '#14b8a6',
+  space: '#6366f1',
+  animals: '#22c55e',
+  geography: '#f97316',
+  technology: '#3b82f6',
+  psychology: '#ec4899',
+  food: '#ef4444',
+  curiosities: '#eab308',
+};
+
+const categoryColor = (category) => CATEGORY_COLORS[category] || null;
 
 const saveStats = () => writeJSON(STORAGE_STATS, categoryStats);
 const saveTagStats = () => writeJSON(STORAGE_TAG_STATS, tagStats);
 const saveSeenAt = () => writeJSON(STORAGE_SEEN_AT, seenAt);
 const saveShowCounts = () => writeJSON(STORAGE_SHOW_COUNTS, showCounts);
 const saveFavorites = () => writeJSON(STORAGE_FAVORITES, [...favorites]);
+const saveBoosted = () => writeJSON(STORAGE_BOOSTED, [...boostedIds]);
 const saveReactions = () => writeJSON(STORAGE_REACTIONS, reactions);
 
 // Session counter drives the novelty cooldown (facts seen in recent sessions
@@ -75,16 +115,26 @@ const DWELL_CAP_MS = 30000;
 // same card doesn't stack the same signal repeatedly.
 const dwellRecorded = new Set();
 
-function applyDwellSignal(card, dwellMs) {
+function applyDwellSignal(card, dwellMs, reason = 'scroll') {
   const factId = card.dataset.factId;
   if (dwellRecorded.has(factId)) return;
   const category = card.dataset.category;
   const expectedMs = Number(card.dataset.expectedMs) || 3000;
   const ratio = Math.min(dwellMs, DWELL_CAP_MS) / expectedMs;
-  if (ratio > DWELL_SKIP_RATIO && ratio < DWELL_LINGER_RATIO) return; // normal reading pace
+  // The FIRST verdict on a fact stands, including a neutral one — otherwise
+  // scrolling back up over already-read cards would re-judge each of them
+  // as an instant skip.
   dwellRecorded.add(factId);
+  if (ratio > DWELL_SKIP_RATIO && ratio < DWELL_LINGER_RATIO) return; // normal reading pace
 
   const delta = ratio > DWELL_LINGER_RATIO ? DWELL_LINGER_SCORE : DWELL_SKIP_SCORE;
+  // A skip is only meaningful when the user actively scrolled past. Locking
+  // the phone or switching tabs one second after a card appeared is not a
+  // judgement on the card — count only positive lingering in that case.
+  if (delta < 0 && reason !== 'scroll') {
+    dwellRecorded.delete(factId); // no verdict passed — the card gets a fresh chance
+    return;
+  }
   const stats = categoryStats[category] || { likes: 0, dislikes: 0, dwell: 0 };
   stats.dwell = (stats.dwell || 0) + delta;
   categoryStats[category] = stats;
@@ -119,10 +169,16 @@ let streakCount = 0;
 function pickNextFact() {
   if (facts.length === 0) return null;
 
+  // Never pick a fact whose card is still in the visible DOM window — after
+  // a full pool cycle the uniform recycle could otherwise put the same fact
+  // on screen twice.
+  const inDom = new Set([...feed.children].map((c) => Number(c.dataset.factId)));
+  let candidates = facts.filter((f) => !inDom.has(f.id));
+  if (candidates.length === 0) candidates = facts;
+
   // Diversity rule: after MAX_CATEGORY_STREAK same-category cards in a row,
   // the next pick must come from a different category (unless that would
   // leave nothing to pick from).
-  let candidates = facts;
   if (streakCategory && streakCount >= MAX_CATEGORY_STREAK) {
     const diverse = candidates.filter((f) => f.category !== streakCategory);
     if (diverse.length > 0) candidates = diverse;
@@ -241,18 +297,19 @@ async function shareFact(fact) {
       return;
     }
     await navigator.clipboard.writeText(`${fact.text}\n${url}`);
-    flashHint('Link kopiert');
+    showToast('Link kopiert');
   } catch {
     // user cancelled the share sheet — nothing to do
   }
 }
 
-function flashHint(text) {
-  if (!hint) return;
-  hint.textContent = text;
-  hint.classList.remove('hidden');
-  clearTimeout(hintTimer);
-  hintTimer = setTimeout(() => hint.classList.add('hidden'), 1500);
+// Toasts get their own element so they never overwrite the gesture hint.
+function showToast(text) {
+  if (!toast) return;
+  toast.textContent = text;
+  toast.classList.remove('hidden');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => toast.classList.add('hidden'), 1500);
 }
 
 // ---------- gestures ----------
@@ -347,7 +404,17 @@ function attachGestures(card, fact) {
   }
 
   card.addEventListener('pointerup', endGesture);
-  card.addEventListener('pointercancel', endGesture);
+  // A cancelled pointer (browser took over the gesture, common on iOS) can
+  // carry garbage coordinates — treating it like pointerup could read as a
+  // full-distance swipe and fire an unintended dislike. Only clean up.
+  card.addEventListener('pointercancel', () => {
+    if (pointer) {
+      const flash = card.querySelector('.swipe-flash');
+      if (flash) flash.style.opacity = '0';
+      snapBack(card);
+    }
+    pointer = null;
+  });
 }
 
 // ---------- cards ----------
@@ -375,7 +442,7 @@ function createCard(fact) {
   card.innerHTML = `
     <div class="swipe-flash"></div>
     <div class="card-inner">
-      <p class="card-category">${escapeHtml(fact.category)}</p>
+      <p class="card-category">${escapeHtml(categoryLabel(fact.category))}</p>
       <p class="card-text">${escapeHtml(fact.text)}</p>
       <p class="card-lang">${fact.lang.toUpperCase()}</p>
       <button class="btn-more gesture-exempt" type="button">Mehr davon</button>
@@ -404,16 +471,25 @@ function createCard(fact) {
   saveBtn.addEventListener('click', () => {
     const nowSaved = toggleFavorite(fact.id);
     renderSaved(nowSaved);
-    flashHint(nowSaved ? 'Gespeichert' : 'Entfernt');
+    showToast(nowSaved ? 'Gespeichert' : 'Entfernt');
   });
 
   card.querySelector('.btn-share').addEventListener('click', () => shareFact(fact));
 
+  // "Mehr davon" is a one-time boost per fact — persisted, so the button
+  // can't be farmed for +2 every time the fact cycles back around.
   const moreBtn = card.querySelector('.btn-more');
-  moreBtn.addEventListener('click', () => {
-    boostFactTopics(fact);
+  const renderBoosted = () => {
     moreBtn.textContent = '✓ Kommt öfter';
     moreBtn.disabled = true;
+  };
+  if (boostedIds.has(fact.id)) renderBoosted();
+  moreBtn.addEventListener('click', () => {
+    if (boostedIds.has(fact.id)) return;
+    boostFactTopics(fact);
+    boostedIds.add(fact.id);
+    saveBoosted();
+    renderBoosted();
   });
 
   // Restore a previously stored reaction so re-shown facts display it.
@@ -428,9 +504,9 @@ function createCard(fact) {
 let activeCard = null;
 let activeSince = null;
 
-function flushActiveDwell() {
+function flushActiveDwell(reason = 'scroll') {
   if (!activeCard || activeSince === null) return;
-  applyDwellSignal(activeCard, performance.now() - activeSince);
+  applyDwellSignal(activeCard, performance.now() - activeSince, reason);
   activeSince = null;
 }
 
@@ -445,14 +521,14 @@ function setActiveCard(card) {
 // flush the dwell clock when hidden, restart it when visible again.
 document.addEventListener('visibilitychange', () => {
   if (document.hidden) {
-    flushActiveDwell();
+    flushActiveDwell('hide');
   } else if (activeCard) {
     activeSince = performance.now();
   }
 });
 // pagehide (not beforeunload — unreliable on iOS) captures the last card's
 // dwell when the app is closed.
-window.addEventListener('pagehide', flushActiveDwell);
+window.addEventListener('pagehide', () => flushActiveDwell('hide'));
 
 const observer = new IntersectionObserver(
   (entries) => {
@@ -495,7 +571,7 @@ document.addEventListener('keydown', (e) => {
         btn.classList.toggle('selected', nowSaved);
         btn.setAttribute('aria-pressed', String(nowSaved));
       }
-      flashHint(nowSaved ? 'Gespeichert' : 'Entfernt');
+      showToast(nowSaved ? 'Gespeichert' : 'Entfernt');
     }
   } else if (e.key === 'Enter') {
     const link = activeCard.querySelector('.fact-source');
@@ -565,7 +641,7 @@ function switchView(name) {
   nav.querySelectorAll('button').forEach((b) => b.classList.toggle('active', b.dataset.view === name));
   if (name === 'saved') renderSavedView();
   if (name === 'settings') renderSettingsView();
-  if (name !== 'feed') flushActiveDwell();
+  if (name !== 'feed') flushActiveDwell('hide');
   else if (activeCard) activeSince = performance.now();
 }
 
@@ -587,7 +663,7 @@ function renderSavedView() {
     const item = document.createElement('article');
     item.className = 'saved-item';
     item.innerHTML = `
-      <p class="saved-item-category">${escapeHtml(fact.category)}</p>
+      <p class="saved-item-category">${escapeHtml(categoryLabel(fact.category))}</p>
       <p class="saved-item-text">${escapeHtml(fact.text)}</p>
       <div class="saved-item-actions">
         <button class="saved-share" type="button">Teilen</button>
@@ -658,6 +734,7 @@ function renderSettingsView() {
       STORAGE_SHOW_COUNTS,
       STORAGE_REACTIONS,
       STORAGE_FAVORITES,
+      STORAGE_BOOSTED,
     ].forEach((k) => localStorage.removeItem(k));
     location.reload();
   });
@@ -716,7 +793,12 @@ async function init() {
     // Deep link (#fact=123): show the shared fact first, then the normal feed.
     const requestedId = getRequestedFactId();
     const requested = requestedId !== null ? factById.get(requestedId) : null;
-    if (requested) appendCard(requested);
+    if (requested) {
+      appendCard(requested);
+      // Book it like a regular pick so it doesn't come around again shortly.
+      seenAt[String(requested.id)] = session;
+      saveSeenAt();
+    }
 
     fillWindow();
   } catch (error) {

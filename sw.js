@@ -1,6 +1,6 @@
 // Bump this version whenever app.js/style.css/index.html change — it
 // invalidates the old cache on activate (replaces relying on ?v= alone).
-const CACHE = 'factfeed-v7';
+const CACHE = 'factfeed-v8';
 const ASSETS = [
   './',
   'index.html',
@@ -16,7 +16,12 @@ const ASSETS = [
 ];
 
 self.addEventListener('install', (e) => {
-  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(ASSETS)));
+  // cache: 'reload' bypasses the HTTP cache — otherwise a new worker could
+  // populate its fresh cache with STALE files the browser had lying around,
+  // silently freezing the old version under a new cache name.
+  e.waitUntil(
+    caches.open(CACHE).then((c) => c.addAll(ASSETS.map((a) => new Request(a, { cache: 'reload' }))))
+  );
   self.skipWaiting();
 });
 
@@ -32,6 +37,22 @@ self.addEventListener('activate', (e) => {
 self.addEventListener('fetch', (e) => {
   const url = new URL(e.request.url);
   if (url.origin !== location.origin || e.request.method !== 'GET') return;
+
+  // Navigations (the HTML itself): network first, so a deploy is visible on
+  // the very next load instead of needing one load to update the worker and
+  // a second one to see the new shell. Offline falls back to the cache.
+  if (e.request.mode === 'navigate') {
+    e.respondWith(
+      fetch(e.request)
+        .then((res) => {
+          const copy = res.clone();
+          caches.open(CACHE).then((c) => c.put('index.html', copy));
+          return res;
+        })
+        .catch(() => caches.match('index.html'))
+    );
+    return;
+  }
 
   // facts.json: network first, so new facts arrive as soon as they're
   // deployed; fall back to the cached copy offline.
