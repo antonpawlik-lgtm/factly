@@ -1,6 +1,6 @@
 // Bump this version whenever app.js/style.css/index.html change — it
 // invalidates the old cache on activate (replaces relying on ?v= alone).
-const CACHE = 'factly-v14';
+const CACHE = 'factly-v15';
 const ASSETS = [
   './',
   'index.html',
