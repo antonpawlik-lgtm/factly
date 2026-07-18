@@ -2,6 +2,7 @@
   const STORAGE_STATS = 'factfeed_categoryStats';
   const STORAGE_TAG_STATS = 'factfeed_tagStats';
   const STORAGE_SEEN = 'factfeed_seenIds';
+  const STORAGE_REACTIONS = 'factfeed_reactions';
   const WINDOW_AHEAD = 6;
   const AXIS_LOCK_PX = 12;
   const SWIPE_THRESHOLD_PX = 90;
@@ -13,9 +14,11 @@
   let facts = [];
   let byCategory = {};
   let categories = [];
+  let factById = new Map();
   const categoryStats = loadJSON(STORAGE_STATS, {});
   const tagStats = loadJSON(STORAGE_TAG_STATS, {});
   const seenIds = loadJSON(STORAGE_SEEN, {});
+  const reactions = loadJSON(STORAGE_REACTIONS, {}); // { "17": "like", "48": "dislike" }
   let hintTimer = null;
 
   function loadJSON(key, fallback) {
@@ -27,16 +30,26 @@
     }
   }
 
+  function saveJSON(key, value) {
+    try {
+      localStorage.setItem(key, JSON.stringify(value));
+      return true;
+    } catch (e) {
+      console.warn(`Could not save ${key}`, e);
+      return false;
+    }
+  }
+
   function saveStats() {
-    localStorage.setItem(STORAGE_STATS, JSON.stringify(categoryStats));
+    saveJSON(STORAGE_STATS, categoryStats);
   }
 
   function saveTagStats() {
-    localStorage.setItem(STORAGE_TAG_STATS, JSON.stringify(tagStats));
+    saveJSON(STORAGE_TAG_STATS, tagStats);
   }
 
   function saveSeen() {
-    localStorage.setItem(STORAGE_SEEN, JSON.stringify(seenIds));
+    saveJSON(STORAGE_SEEN, seenIds);
   }
 
   function clamp(n, min, max) {
@@ -78,12 +91,21 @@
   const DWELL_SKIP_RATIO = 0.35;
   const DWELL_LINGER_SCORE = 0.3;
   const DWELL_SKIP_SCORE = -0.2;
+  // Hard cap: even if a card somehow stays "active" for minutes (missed
+  // visibility event, stuck tab), it can never count as more than 30s.
+  const DWELL_CAP_MS = 30000;
+  // One dwell signal per fact per session, so bouncing up and down over the
+  // same card doesn't stack the same signal repeatedly.
+  const dwellRecorded = new Set();
 
   function applyDwellSignal(card, dwellMs) {
+    const factId = card.dataset.factId;
+    if (dwellRecorded.has(factId)) return;
     const category = card.dataset.category;
     const expectedMs = Number(card.dataset.expectedMs) || 3000;
-    const ratio = dwellMs / expectedMs;
+    const ratio = Math.min(dwellMs, DWELL_CAP_MS) / expectedMs;
     if (ratio > DWELL_SKIP_RATIO && ratio < DWELL_LINGER_RATIO) return; // normal reading pace
+    dwellRecorded.add(factId);
 
     const delta = ratio > DWELL_LINGER_RATIO ? DWELL_LINGER_SCORE : DWELL_SKIP_SCORE;
     const stats = categoryStats[category] || { likes: 0, dislikes: 0, dwell: 0 };
@@ -92,9 +114,9 @@
     saveStats();
 
     // Each tag gets the full delta (not divided by tag count) — consistent
-    // with react() giving each tag a full like, and tag-count-neutral overall
-    // because factWeightFor averages. filter(Boolean) makes tagless cards
-    // (e.g. future news cards) a silent no-op: ''.split(',') is [''].
+    // with reactions giving each tag a full like, and tag-count-neutral
+    // overall because factWeightFor averages. filter(Boolean) makes tagless
+    // cards (e.g. future news cards) a silent no-op: ''.split(',') is [''].
     const tags = (card.dataset.tags || '').split(',').filter(Boolean);
     tags.forEach((tag) => {
       const ts = tagStats[tag] || { likes: 0, dislikes: 0, dwell: 0 };
@@ -112,6 +134,7 @@
   const EXPLORE_RATE = 0.15;
 
   function pickNextFact() {
+    if (categories.length === 0) return null;
     let chosenCategory;
     if (Math.random() < EXPLORE_RATE) {
       chosenCategory = categories[Math.floor(Math.random() * categories.length)];
@@ -159,44 +182,48 @@
     return div.innerHTML;
   }
 
-  function applyReactionDelta(stats, prev, label, togglingOff) {
-    if (prev === 'like') stats.likes -= 1;
-    if (prev === 'dislike') stats.dislikes -= 1;
-    if (!togglingOff) {
-      if (label === 'like') stats.likes += 1;
-      else stats.dislikes += 1;
-    }
-    return stats;
+  function updateReactionStats(store, key, previous, next) {
+    const stats = store[key] || { likes: 0, dislikes: 0, dwell: 0 };
+    if (previous === 'like') stats.likes = Math.max(0, stats.likes - 1);
+    if (previous === 'dislike') stats.dislikes = Math.max(0, stats.dislikes - 1);
+    if (next === 'like') stats.likes += 1;
+    if (next === 'dislike') stats.dislikes += 1;
+    store[key] = stats;
+  }
+
+  // Reactions are persisted per fact id, so a fact that comes around again
+  // (after a category cycle reset or a reload) shows its stored reaction and
+  // re-rating it rebooks the stats instead of double-counting.
+  function setFactReaction(fact, requested, allowToggleOff) {
+    const factId = String(fact.id);
+    const previous = reactions[factId] || null;
+    if (previous === requested && !allowToggleOff) return previous;
+
+    // Same reaction again = toggle it off; anything else switches to it.
+    const next = previous === requested ? null : requested;
+
+    updateReactionStats(categoryStats, fact.category, previous, next);
+    (fact.tags || []).forEach((tag) => updateReactionStats(tagStats, tag, previous, next));
+
+    if (next) reactions[factId] = next;
+    else delete reactions[factId];
+    saveJSON(STORAGE_REACTIONS, reactions);
+    saveStats();
+    saveTagStats();
+    return next;
+  }
+
+  function renderReaction(card, reaction) {
+    if (reaction) card.dataset.reaction = reaction;
+    else delete card.dataset.reaction;
+    card.querySelector('.btn-like').classList.toggle('selected', reaction === 'like');
+    card.querySelector('.btn-dislike').classList.toggle('selected', reaction === 'dislike');
   }
 
   function react(card, fact, direction, { allowToggleOff = true } = {}) {
-    const prev = card.dataset.reaction; // 'like' | 'dislike' | undefined
-    const label = direction > 0 ? 'like' : 'dislike';
-
-    if (prev === label && !allowToggleOff) return; // e.g. double-tap: always likes, never unlikes
-
-    // Pressing the already-active button (or swiping the same direction)
-    // again undoes the reaction instead of just reaffirming it.
-    const togglingOff = prev === label;
-
-    categoryStats[fact.category] = applyReactionDelta(
-      categoryStats[fact.category] || { likes: 0, dislikes: 0 },
-      prev, label, togglingOff
-    );
-    (fact.tags || []).forEach((tag) => {
-      tagStats[tag] = applyReactionDelta(
-        tagStats[tag] || { likes: 0, dislikes: 0 },
-        prev, label, togglingOff
-      );
-    });
-    saveStats();
-    saveTagStats();
-
-    if (togglingOff) delete card.dataset.reaction;
-    else card.dataset.reaction = label;
-
-    card.querySelector('.btn-like').classList.toggle('selected', card.dataset.reaction === 'like');
-    card.querySelector('.btn-dislike').classList.toggle('selected', card.dataset.reaction === 'dislike');
+    const requested = direction > 0 ? 'like' : 'dislike';
+    const reaction = setFactReaction(fact, requested, allowToggleOff);
+    renderReaction(card, reaction);
     snapBack(card);
   }
 
@@ -325,19 +352,41 @@
     card.querySelector('.btn-like').addEventListener('click', () => react(card, fact, 1));
     card.querySelector('.btn-dislike').addEventListener('click', () => react(card, fact, -1));
 
+    // Restore a previously stored reaction so re-shown facts display it.
+    const stored = reactions[String(fact.id)] || null;
+    if (stored) renderReaction(card, stored);
+
     return card;
   }
 
   let activeCard = null;
-  let activeSince = 0;
+  let activeSince = null;
+
+  function flushActiveDwell() {
+    if (!activeCard || activeSince === null) return;
+    applyDwellSignal(activeCard, performance.now() - activeSince);
+    activeSince = null;
+  }
 
   function setActiveCard(card) {
     if (card === activeCard) return;
-    const now = Date.now();
-    if (activeCard) applyDwellSignal(activeCard, now - activeSince);
+    flushActiveDwell();
     activeCard = card;
-    activeSince = now;
+    activeSince = performance.now();
   }
+
+  // Backgrounding the tab / locking the phone must not count as reading time:
+  // flush the dwell clock when hidden, restart it when visible again.
+  document.addEventListener('visibilitychange', () => {
+    if (document.hidden) {
+      flushActiveDwell();
+    } else if (activeCard) {
+      activeSince = performance.now();
+    }
+  });
+  // pagehide (not beforeunload — unreliable on iOS) captures the last card's
+  // dwell when the app is closed.
+  window.addEventListener('pagehide', flushActiveDwell);
 
   const observer = new IntersectionObserver(
     (entries) => {
@@ -358,8 +407,23 @@
     { threshold: [0.6] }
   );
 
+  document.addEventListener('keydown', (e) => {
+    if (!activeCard) return;
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
+      const target = e.key === 'ArrowDown' ? activeCard.nextElementSibling : activeCard.previousElementSibling;
+      if (target) {
+        e.preventDefault();
+        target.scrollIntoView({ behavior: 'smooth' });
+      }
+    } else if (e.key === 'ArrowRight' || e.key === 'ArrowLeft') {
+      const fact = factById.get(Number(activeCard.dataset.factId));
+      if (fact) react(activeCard, fact, e.key === 'ArrowRight' ? 1 : -1);
+    }
+  });
+
   function appendCard() {
     const fact = pickNextFact();
+    if (!fact) return;
     const card = createCard(fact);
     feed.appendChild(card);
     observer.observe(card);
@@ -369,8 +433,12 @@
   function trimOldCards() {
     while (feed.children.length > WINDOW_AHEAD * 3) {
       const first = feed.firstElementChild;
+      const h = first.offsetHeight;
       observer.unobserve(first);
       first.remove();
+      // Safari has no scroll anchoring: removing a card from the top would
+      // otherwise visually jump the feed by one viewport height.
+      feed.scrollTop -= h;
     }
   }
 
@@ -380,20 +448,57 @@
     }
   }
 
-  fetch('facts.json')
-    .then((r) => r.json())
-    .then((data) => {
-      facts = data;
+  function isValidFact(fact) {
+    return Boolean(
+      fact &&
+      Number.isInteger(fact.id) &&
+      typeof fact.text === 'string' &&
+      fact.text.trim() &&
+      typeof fact.category === 'string' &&
+      ['de', 'en'].includes(fact.lang) &&
+      Array.isArray(fact.tags)
+    );
+  }
+
+  function renderFatalError(error) {
+    feed.innerHTML = `<div class="card"><div class="card-inner">Facts konnten nicht geladen werden: ${escapeHtml(
+      String(error && error.message ? error.message : error)
+    )}</div></div>`;
+  }
+
+  async function loadFacts() {
+    const response = await fetch('facts.json');
+    if (!response.ok) {
+      throw new Error(`facts.json konnte nicht geladen werden: HTTP ${response.status}`);
+    }
+    const data = await response.json();
+    if (!Array.isArray(data)) {
+      throw new Error('facts.json enthält kein Array.');
+    }
+    const validFacts = data.filter(isValidFact);
+    if (validFacts.length === 0) {
+      throw new Error('Keine gültigen Facts gefunden.');
+    }
+    if (validFacts.length !== data.length) {
+      console.warn(`${data.length - validFacts.length} ungültige Facts wurden ignoriert.`);
+    }
+    return validFacts;
+  }
+
+  async function init() {
+    try {
+      facts = await loadFacts();
+      factById = new Map(facts.map((f) => [f.id, f]));
       categories = [...new Set(facts.map((f) => f.category))];
       byCategory = {};
       categories.forEach((c) => {
         byCategory[c] = facts.filter((f) => f.category === c);
       });
       fillWindow();
-    })
-    .catch((err) => {
-      feed.innerHTML = `<div class="card"><div class="card-inner">Facts konnten nicht geladen werden: ${escapeHtml(
-        String(err)
-      )}</div></div>`;
-    });
+    } catch (error) {
+      renderFatalError(error);
+    }
+  }
+
+  init();
 })();
