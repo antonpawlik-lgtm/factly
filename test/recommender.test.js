@@ -3,9 +3,12 @@ import assert from 'node:assert/strict';
 import {
   clamp,
   statScore,
+  smoothedScore,
   categoryWeight,
   tagWeight,
   factWeight,
+  noveltyFactor,
+  scoreFact,
   weightedRandom,
   decayStats,
 } from '../src/recommender.js';
@@ -33,14 +36,46 @@ test('tag weight uses the tighter clamp', () => {
   assert.equal(tagWeight({ likes: 0, dislikes: 100 }), 0.25);
 });
 
+test('smoothedScore damps low-volume signals and converges with volume', () => {
+  assert.equal(smoothedScore(undefined), 0);
+  assert.equal(smoothedScore({}), 0);
+  // one dislike: raw -1, smoothed by 1/(1+2) — a third of the old impact
+  assert.ok(Math.abs(smoothedScore({ likes: 0, dislikes: 1 }) - -1 / 3) < 1e-9);
+  // heavy history keeps nearly full effect: 10 * (10/12)
+  assert.ok(Math.abs(smoothedScore({ likes: 10, dislikes: 0 }) - 10 * (10 / 12)) < 1e-9);
+});
+
 test('factWeight is the mean of tag weights, neutral without tags', () => {
-  const tagStats = { dinosaurs: { likes: 3, dislikes: 0 } }; // weight 2.2
+  // 3 likes: smoothed 3*(3/5)=1.8 -> tag weight 1 + 0.4*1.8 = 1.72
+  const tagStats = { dinosaurs: { likes: 3, dislikes: 0 } };
   assert.equal(factWeight({ tags: [] }, tagStats), 1);
   assert.equal(factWeight({}, tagStats), 1);
   assert.equal(factWeight(null, tagStats), 1);
-  assert.ok(Math.abs(factWeight({ tags: ['dinosaurs'] }, tagStats) - 2.2) < 1e-9);
-  // mean(2.2, 1) = 1.6 — a multi-tag fact is diluted, not doubled
-  assert.ok(Math.abs(factWeight({ tags: ['dinosaurs', 'fossils'] }, tagStats) - 1.6) < 1e-9);
+  assert.ok(Math.abs(factWeight({ tags: ['dinosaurs'] }, tagStats) - 1.72) < 1e-9);
+  // mean(1.72, 1) = 1.36 — a multi-tag fact is diluted, not doubled
+  assert.ok(Math.abs(factWeight({ tags: ['dinosaurs', 'fossils'] }, tagStats) - 1.36) < 1e-9);
+});
+
+test('noveltyFactor: excluded this session, damped for the cooldown, then fresh', () => {
+  assert.equal(noveltyFactor(undefined, 10), 1); // never seen
+  assert.equal(noveltyFactor(10, 10), 0); // seen this session
+  assert.equal(noveltyFactor(9, 10), 0.1); // 1 session ago
+  assert.equal(noveltyFactor(8, 10), 0.1); // 2 sessions ago
+  assert.equal(noveltyFactor(7, 10), 1); // cooldown over
+});
+
+test('scoreFact combines category, tags, and novelty', () => {
+  const ctx = {
+    categoryStats: { history: { likes: 10, dislikes: 0 } },
+    tagStats: {},
+    seenAt: { 7: 5 },
+    session: 5,
+  };
+  const fresh = { id: 1, category: 'history', tags: [] };
+  const seenNow = { id: 7, category: 'history', tags: [] };
+  const catW = categoryWeight(ctx.categoryStats.history);
+  assert.ok(Math.abs(scoreFact(fresh, ctx) - catW) < 1e-9); // tags neutral, novelty 1
+  assert.equal(scoreFact(seenNow, ctx), 0); // seen this session -> zero
 });
 
 test('weightedRandom picks deterministically with a fixed rng', () => {

@@ -1,10 +1,12 @@
 import { readJSON, writeJSON } from './storage.js';
-import { clamp, categoryWeight, tagWeight, factWeight, weightedRandom, decayStats } from './recommender.js';
+import { clamp, weightedRandom, decayStats, scoreFact, noveltyFactor } from './recommender.js';
 import { nextReaction, applyReactionDelta } from './reactions.js';
 
 const STORAGE_STATS = 'factfeed_categoryStats';
 const STORAGE_TAG_STATS = 'factfeed_tagStats';
-const STORAGE_SEEN = 'factfeed_seenIds';
+const STORAGE_SEEN_AT = 'factfeed_seenAt';
+const STORAGE_SESSION = 'factfeed_session';
+const STORAGE_SHOW_COUNTS = 'factfeed_showCounts';
 const STORAGE_REACTIONS = 'factfeed_reactions';
 const STORAGE_FAVORITES = 'factfeed_favorites';
 const STORAGE_LANGUAGE = 'factfeed_language';
@@ -22,12 +24,12 @@ const nav = document.getElementById('nav');
 
 let allFacts = [];
 let facts = [];
-let byCategory = {};
 let categories = [];
 let factById = new Map();
 const categoryStats = readJSON(STORAGE_STATS, {});
 const tagStats = readJSON(STORAGE_TAG_STATS, {});
-const seenIds = readJSON(STORAGE_SEEN, {});
+const seenAt = readJSON(STORAGE_SEEN_AT, {}); // { "17": 12 } — session number a fact was last shown
+const showCounts = readJSON(STORAGE_SHOW_COUNTS, {}); // { history: 42 } — how often each category was shown
 const reactions = readJSON(STORAGE_REACTIONS, {}); // { "17": "like", "48": "dislike" }
 const favorites = new Set(readJSON(STORAGE_FAVORITES, []));
 let selectedLanguage = localStorage.getItem(STORAGE_LANGUAGE) || 'all'; // 'de' | 'en' | 'all'
@@ -35,9 +37,17 @@ let hintTimer = null;
 
 const saveStats = () => writeJSON(STORAGE_STATS, categoryStats);
 const saveTagStats = () => writeJSON(STORAGE_TAG_STATS, tagStats);
-const saveSeen = () => writeJSON(STORAGE_SEEN, seenIds);
+const saveSeenAt = () => writeJSON(STORAGE_SEEN_AT, seenAt);
+const saveShowCounts = () => writeJSON(STORAGE_SHOW_COUNTS, showCounts);
 const saveFavorites = () => writeJSON(STORAGE_FAVORITES, [...favorites]);
 const saveReactions = () => writeJSON(STORAGE_REACTIONS, reactions);
+
+// Session counter drives the novelty cooldown (facts seen in recent sessions
+// are damped, not hard-excluded). Increments once per app start.
+const session = (readJSON(STORAGE_SESSION, 0) || 0) + 1;
+writeJSON(STORAGE_SESSION, session);
+// The old hard seen-list is superseded by seenAt; clean up the legacy key.
+try { localStorage.removeItem('factfeed_seenIds'); } catch { /* ignore */ }
 
 // Gentle per-session decay so weights reflect current taste; explicit
 // per-fact reactions stay stored exactly, only the aggregate signal fades.
@@ -54,7 +64,10 @@ saveTagStats();
 const DWELL_LINGER_RATIO = 1.4;
 const DWELL_SKIP_RATIO = 0.35;
 const DWELL_LINGER_SCORE = 0.3;
-const DWELL_SKIP_SCORE = -0.2;
+// Scrolling past almost immediately is a "silent dislike" — weaker than an
+// explicit one (1.0), but strong enough that the feed learns from pure
+// scrolling behavior without the user ever pressing a button.
+const DWELL_SKIP_SCORE = -0.3;
 // Hard cap: even if a card somehow stays "active" for minutes (missed
 // visibility event, stuck tab), it can never count as more than 30s.
 const DWELL_CAP_MS = 30000;
@@ -92,31 +105,55 @@ function applyDwellSignal(card, dwellMs) {
 
 // ---------- fact picking ----------
 
-// Even if one category ends up completely dominant, every so often ignore
-// the weights entirely and pull from a uniformly random category ("interest
-// exploration") so the feed never fully locks into one bubble.
+// Every so often ignore taste entirely and explore — but explore *where the
+// algorithm knows least*: the category shown least often so far, so data
+// gets collected exactly where preferences are still unknown.
 const EXPLORE_RATE = 0.15;
+// Feed diversity: never more than this many cards of one category in a row,
+// no matter how dominant its weight is.
+const MAX_CATEGORY_STREAK = 2;
+
+let streakCategory = null;
+let streakCount = 0;
 
 function pickNextFact() {
-  if (categories.length === 0) return null;
-  let chosenCategory;
+  if (facts.length === 0) return null;
+
+  // Diversity rule: after MAX_CATEGORY_STREAK same-category cards in a row,
+  // the next pick must come from a different category (unless that would
+  // leave nothing to pick from).
+  let candidates = facts;
+  if (streakCategory && streakCount >= MAX_CATEGORY_STREAK) {
+    const diverse = candidates.filter((f) => f.category !== streakCategory);
+    if (diverse.length > 0) candidates = diverse;
+  }
+
+  let fact;
   if (Math.random() < EXPLORE_RATE) {
-    chosenCategory = categories[Math.floor(Math.random() * categories.length)];
+    const leastShown = categories.reduce(
+      (min, c) => ((showCounts[c] || 0) < (showCounts[min] || 0) ? c : min),
+      categories[0]
+    );
+    const pool = candidates.filter((f) => f.category === leastShown);
+    fact = weightedRandom(pool.length > 0 ? pool : candidates, (f) =>
+      noveltyFactor(seenAt[String(f.id)], session)
+    );
   } else {
-    chosenCategory = weightedRandom(categories, (c) => categoryWeight(categoryStats[c]));
+    // Direct per-fact scoring (category taste x tag taste x freshness) —
+    // a great fact in a weak category can still win the slot.
+    fact = weightedRandom(candidates, (f) => scoreFact(f, { categoryStats, tagStats, seenAt, session }));
   }
+  if (!fact) return null;
 
-  const pool = byCategory[chosenCategory];
-  const seen = seenIds[chosenCategory] || [];
-  let candidates = pool.filter((f) => !seen.includes(f.id));
-  if (candidates.length === 0) {
-    seenIds[chosenCategory] = [];
-    candidates = pool;
+  seenAt[String(fact.id)] = session;
+  saveSeenAt();
+  showCounts[fact.category] = (showCounts[fact.category] || 0) + 1;
+  saveShowCounts();
+  if (fact.category === streakCategory) streakCount += 1;
+  else {
+    streakCategory = fact.category;
+    streakCount = 1;
   }
-  const fact = weightedRandom(candidates, (f) => factWeight(f, tagStats));
-
-  seenIds[chosenCategory] = [...(seenIds[chosenCategory] || []), fact.id];
-  saveSeen();
   return fact;
 }
 
@@ -504,15 +541,13 @@ function rebuildPools() {
   facts = applyLanguageFilter(allFacts);
   if (facts.length === 0) facts = allFacts; // never leave the feed empty
   categories = [...new Set(facts.map((f) => f.category))];
-  byCategory = {};
-  categories.forEach((c) => {
-    byCategory[c] = facts.filter((f) => f.category === c);
-  });
 }
 
 function resetFeed() {
   activeCard = null;
   activeSince = null;
+  streakCategory = null;
+  streakCount = 0;
   feed.innerHTML = '';
   fillWindow();
   feed.scrollTop = 0;
@@ -615,9 +650,15 @@ function renderSettingsView() {
       resetBtn.textContent = 'Wirklich alles zurücksetzen?';
       return;
     }
-    [STORAGE_STATS, STORAGE_TAG_STATS, STORAGE_SEEN, STORAGE_REACTIONS, STORAGE_FAVORITES].forEach((k) =>
-      localStorage.removeItem(k)
-    );
+    [
+      STORAGE_STATS,
+      STORAGE_TAG_STATS,
+      STORAGE_SEEN_AT,
+      STORAGE_SESSION,
+      STORAGE_SHOW_COUNTS,
+      STORAGE_REACTIONS,
+      STORAGE_FAVORITES,
+    ].forEach((k) => localStorage.removeItem(k));
     location.reload();
   });
 }
