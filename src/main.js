@@ -189,6 +189,7 @@ function applyDwellSignal(card, dwellMs, reason = 'scroll') {
 const NEWS_RATE = 0.12; // ~every 8th card
 const NEWS_MAX_AGE_MS = 48 * 3600 * 1000;
 let newsPool = [];
+const newsById = new Map(); // lets the saved view render a saved headline
 const seenNewsIds = new Set();
 
 function pickNextNews() {
@@ -213,6 +214,8 @@ fetch('news.json')
     const freshEnough =
       data && data.generatedAt && Date.now() - new Date(data.generatedAt).getTime() < NEWS_MAX_AGE_MS;
     newsPool = freshEnough ? (data.items || []).filter((n) => n && n.id && n.headline && n.url) : [];
+    newsById.clear();
+    newsPool.forEach((n) => newsById.set(n.id, n));
     // Reactions on rotated-out headlines are dead weight — prune them.
     const alive = new Set(newsPool.map((n) => n.id));
     let pruned = false;
@@ -547,7 +550,9 @@ function createNewsCard(item) {
     <div class="card-actions gesture-exempt">
       <button class="btn-like" type="button" aria-label="Gefällt mir" aria-pressed="false">&#10084;&#65039;</button>
       <button class="btn-dislike" type="button" aria-label="Gefällt mir nicht" aria-pressed="false">&#128078;</button>
-      <button class="btn-share" type="button" aria-label="Artikel teilen">&#128228;</button>
+      <button class="btn-save more-option hidden" type="button" aria-label="Artikel speichern" aria-pressed="false">&#128278;</button>
+      <button class="btn-share more-option hidden" type="button" aria-label="Artikel teilen">&#128228;</button>
+      <button class="btn-overflow" type="button" aria-label="Weitere Optionen" aria-expanded="false">&#8942;</button>
     </div>
   `;
 
@@ -555,7 +560,36 @@ function createNewsCard(item) {
   attachGestures(card, pseudoFact);
   card.querySelector('.btn-like').addEventListener('click', () => react(card, pseudoFact, 1));
   card.querySelector('.btn-dislike').addEventListener('click', () => react(card, pseudoFact, -1));
-  card.querySelector('.btn-share').addEventListener('click', () => shareNews(item));
+
+  const saveBtn = card.querySelector('.btn-save');
+  const renderSaved = (saved) => {
+    saveBtn.classList.toggle('selected', saved);
+    saveBtn.setAttribute('aria-pressed', String(saved));
+  };
+  renderSaved(favorites.has(item.id));
+
+  const overflowBtn = card.querySelector('.btn-overflow');
+  const collapseOverflow = () => {
+    overflowBtn.setAttribute('aria-expanded', 'false');
+    card.querySelectorAll('.more-option').forEach((el) => el.classList.add('hidden'));
+  };
+  overflowBtn.addEventListener('click', () => {
+    const expanded = overflowBtn.getAttribute('aria-expanded') === 'true';
+    overflowBtn.setAttribute('aria-expanded', String(!expanded));
+    card.querySelectorAll('.more-option').forEach((el) => el.classList.toggle('hidden', expanded));
+  });
+
+  saveBtn.addEventListener('click', () => {
+    const nowSaved = toggleFavorite(item.id);
+    renderSaved(nowSaved);
+    showToast(nowSaved ? 'Gespeichert' : 'Entfernt');
+    collapseOverflow();
+  });
+
+  card.querySelector('.btn-share').addEventListener('click', () => {
+    shareNews(item);
+    collapseOverflow();
+  });
 
   const stored = reactions[String(item.id)] || null;
   if (stored) renderReaction(card, stored);
@@ -841,21 +875,40 @@ function renderSavedView() {
     return;
   }
   ids.forEach((id) => {
+    // A saved id is either a fact (integer id, in factById) or a news headline
+    // (string id, in newsById while still in the current pool). Normalise both
+    // into { category, label, text, color, share } so one renderer handles them.
     const fact = factById.get(id);
-    if (!fact) return;
+    const news = fact ? null : newsById.get(id);
+    if (!fact && !news) return; // rotated-out headline — nothing to show
+
+    const view = fact
+      ? {
+          category: fact.category,
+          label: categoryLabel(fact.category),
+          text: fact.text,
+          share: () => shareFact(fact),
+        }
+      : {
+          category: `news-${news.topic}`,
+          label: `News · ${news.topic === 'tech' ? 'Tech' : 'Welt'}`,
+          text: news.headline,
+          share: () => shareNews(news),
+        };
+
     const item = document.createElement('article');
     item.className = 'saved-item';
-    const color = categoryColor(fact.category);
+    const color = categoryColor(view.category);
     if (color) item.style.setProperty('--cat-color', color);
     item.innerHTML = `
-      <p class="saved-item-category">${escapeHtml(categoryLabel(fact.category))}</p>
-      <p class="saved-item-text">${escapeHtml(fact.text)}</p>
+      <p class="saved-item-category">${escapeHtml(view.label)}</p>
+      <p class="saved-item-text">${escapeHtml(view.text)}</p>
       <div class="saved-item-actions">
         <button class="saved-share" type="button">Teilen</button>
         <button class="saved-remove" type="button">Entfernen</button>
       </div>
     `;
-    item.querySelector('.saved-share').addEventListener('click', () => shareFact(fact));
+    item.querySelector('.saved-share').addEventListener('click', view.share);
     item.querySelector('.saved-remove').addEventListener('click', () => {
       favorites.delete(id);
       saveFavorites();
