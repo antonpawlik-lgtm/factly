@@ -11,6 +11,7 @@ const STORAGE_REACTIONS = 'factly_reactions';
 const STORAGE_FAVORITES = 'factly_favorites';
 const STORAGE_BOOSTED = 'factly_boosted';
 const STORAGE_MUTED = 'factly_mutedCategories';
+const STORAGE_FAVORITE_CATS = 'factly_favoriteCategories';
 const STORAGE_LANGUAGE = 'factly_language';
 const WINDOW_AHEAD = 6;
 // Real thumb swipes are diagonal: decide the axis early (10px) and accept
@@ -66,9 +67,13 @@ const showCounts = readJSON(STORAGE_SHOW_COUNTS, {}); // { history: 42 } — how
 const reactions = readJSON(STORAGE_REACTIONS, {}); // { "17": "like", "48": "dislike" }
 const favorites = new Set(readJSON(STORAGE_FAVORITES, []));
 const boostedIds = new Set(readJSON(STORAGE_BOOSTED, [])); // "Mehr davon" is once per fact
-// Profil > "Deine Themen": tapping a chip mutes/unmutes the category — muted
+// Profil > "Deine Themen": tapping a chip cycles normal -> favorite ->
+// muted -> normal. Favorites rank first and get a scoring boost; muted
 // ones disappear from the feed pool and the header chips entirely.
 const mutedCategories = new Set(readJSON(STORAGE_MUTED, []));
+const favoriteCategories = new Set(readJSON(STORAGE_FAVORITE_CATS, []));
+// How much a starred topic's facts are boosted in the picker.
+const FAVORITE_CATEGORY_BOOST = 1.8;
 let selectedLanguage = localStorage.getItem(STORAGE_LANGUAGE) || 'all'; // 'de' | 'en' | 'all'
 let hintTimer = null;
 let toastTimer = null;
@@ -179,9 +184,15 @@ function renderChips() {
   };
   chipsEl.replaceChildren(
     mk('all', 'Alle', 'var(--accent)'),
-    ...CHIP_CATEGORIES.filter((slug) => !mutedCategories.has(slug)).map((slug) =>
-      mk(slug, categoryLabel(slug), categoryColor(slug) || 'var(--accent)')
-    )
+    ...orderedChipCategories()
+      .filter((slug) => !mutedCategories.has(slug))
+      .map((slug) =>
+        mk(
+          slug,
+          `${favoriteCategories.has(slug) ? '★ ' : ''}${categoryLabel(slug)}`,
+          categoryColor(slug) || 'var(--accent)'
+        )
+      )
   );
 }
 
@@ -202,6 +213,14 @@ const saveShowCounts = () => writeJSON(STORAGE_SHOW_COUNTS, showCounts);
 const saveFavorites = () => writeJSON(STORAGE_FAVORITES, [...favorites]);
 const saveBoosted = () => writeJSON(STORAGE_BOOSTED, [...boostedIds]);
 const saveMuted = () => writeJSON(STORAGE_MUTED, [...mutedCategories]);
+const saveFavoriteCats = () => writeJSON(STORAGE_FAVORITE_CATS, [...favoriteCategories]);
+
+// Display order for topic chips: starred topics first, then normal, muted
+// last (profile only — the header hides muted entirely).
+function orderedChipCategories() {
+  const rank = (slug) => (favoriteCategories.has(slug) ? 0 : mutedCategories.has(slug) ? 2 : 1);
+  return [...CHIP_CATEGORIES].sort((a, b) => rank(a) - rank(b) || CHIP_CATEGORIES.indexOf(a) - CHIP_CATEGORIES.indexOf(b));
+}
 const saveReactions = () => writeJSON(STORAGE_REACTIONS, reactions);
 
 // Session counter drives the novelty cooldown (facts seen in recent sessions
@@ -369,7 +388,12 @@ function pickNextFact() {
   } else {
     // Direct per-fact scoring (category taste x tag taste x freshness) —
     // a great fact in a weak category can still win the slot.
-    fact = weightedRandom(candidates, (f) => scoreFact(f, { categoryStats, tagStats, seenAt, session }));
+    fact = weightedRandom(
+      candidates,
+      (f) =>
+        scoreFact(f, { categoryStats, tagStats, seenAt, session }) *
+        (favoriteCategories.has(f.category) ? FAVORITE_CATEGORY_BOOST : 1)
+    );
   }
   if (!fact) return null;
 
@@ -1046,13 +1070,15 @@ function renderSettingsView() {
     )
     .join('');
 
-  const themeChips = CHIP_CATEGORIES.map(
-    (slug) =>
-      `<button class="theme-chip${mutedCategories.has(slug) ? ' muted' : ''}" type="button" data-slug="${slug}"
-        style="--c:${categoryColor(slug) || 'var(--accent)'}" aria-pressed="${!mutedCategories.has(slug)}"><span class="cat-dot"></span>${escapeHtml(
-        categoryLabel(slug)
-      )}</button>`
-  ).join('');
+  const themeChips = orderedChipCategories()
+    .map((slug) => {
+      const state = favoriteCategories.has(slug) ? 'fav' : mutedCategories.has(slug) ? 'muted' : '';
+      return `<button class="theme-chip${state ? ' ' + state : ''}" type="button" data-slug="${slug}"
+        style="--c:${categoryColor(slug) || 'var(--accent)'}" aria-pressed="${!mutedCategories.has(slug)}">${
+        state === 'fav' ? '★ ' : '<span class="cat-dot"></span>'
+      }${escapeHtml(categoryLabel(slug))}</button>`;
+    })
+    .join('');
 
   const likedTotal = favorites.size;
   const ratedTotal = Object.keys(reactions).length;
@@ -1076,7 +1102,7 @@ function renderSettingsView() {
 
     <div class="section-label">Deine Themen</div>
     <div class="theme-chips">${themeChips}</div>
-    <p class="panel-sub">Tippe ein Thema an, um es aus- oder wieder einzublenden.</p>
+    <p class="panel-sub">Tippen wechselt: normal → ★ Favorit (kommt öfter) → ausgeblendet.</p>
 
     <div class="section-label">Sprache der Fakten</div>
     <div class="settings-block">${langOptions}</div>
@@ -1096,22 +1122,27 @@ function renderSettingsView() {
   settingsView.querySelectorAll('.theme-chip').forEach((chip) => {
     chip.addEventListener('click', () => {
       const slug = chip.dataset.slug;
-      if (mutedCategories.has(slug)) {
+      // Cycle: normal -> favorite -> muted -> normal.
+      if (favoriteCategories.has(slug)) {
+        favoriteCategories.delete(slug);
+        if (mutedCategories.size < CHIP_CATEGORIES.length - 1) {
+          // at least one topic always stays on
+          mutedCategories.add(slug);
+          if (selectedCategory === slug) selectedCategory = 'all';
+        } else {
+          showToast('Mindestens ein Thema muss aktiv bleiben');
+        }
+      } else if (mutedCategories.has(slug)) {
         mutedCategories.delete(slug);
-      } else if (mutedCategories.size < CHIP_CATEGORIES.length - 1) {
-        // at least one topic always stays on
-        mutedCategories.add(slug);
-        if (selectedCategory === slug) selectedCategory = 'all';
       } else {
-        showToast('Mindestens ein Thema muss aktiv bleiben');
-        return;
+        favoriteCategories.add(slug);
       }
       saveMuted();
-      chip.classList.toggle('muted', mutedCategories.has(slug));
-      chip.setAttribute('aria-pressed', String(!mutedCategories.has(slug)));
+      saveFavoriteCats();
       renderChips();
       rebuildPools();
       resetFeed();
+      renderSettingsView(); // re-render so chip order and states stay consistent
     });
   });
 
@@ -1132,6 +1163,7 @@ function renderSettingsView() {
       STORAGE_FAVORITES,
       STORAGE_BOOSTED,
       STORAGE_MUTED,
+      STORAGE_FAVORITE_CATS,
     ].forEach((k) => localStorage.removeItem(k));
     location.reload();
   });

@@ -669,6 +669,11 @@ html, body {
   text-decoration: line-through;
 }
 .theme-chip.muted .cat-dot { background: var(--muted); box-shadow: none; }
+.theme-chip.fav {
+  background: color-mix(in oklab, var(--c) 34%, transparent);
+  border-color: var(--c);
+  font-weight: 700;
+}
 
 .settings-block {
   border-radius: 18px;
