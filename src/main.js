@@ -14,12 +14,6 @@ const STORAGE_MUTED = 'factly_mutedCategories';
 const STORAGE_FAVORITE_CATS = 'factly_favoriteCategories';
 const STORAGE_LANGUAGE = 'factly_language';
 const WINDOW_AHEAD = 6;
-// Real thumb swipes are diagonal: decide the axis early (10px) and accept
-// anything within ±40° of horizontal as a like/dislike swipe. Wider than
-// that misreads diagonal scroll attempts as swipes.
-const AXIS_LOCK_PX = 10;
-const HORIZONTAL_MAX_ANGLE = 40;
-const SWIPE_THRESHOLD_PX = 70;
 const TAP_MOVE_THRESHOLD_PX = 24;
 const SESSION_DECAY = 0.98;
 
@@ -148,8 +142,6 @@ const ICON = {
 // and the save/share wiring identical across card types.
 function actionRailHTML() {
   return `
-    <div class="swipe-badge swipe-like">MAG ICH ♥</div>
-    <div class="swipe-badge swipe-nope">NÖ</div>
     <div class="card-actions gesture-exempt">
       <button class="btn-like" type="button" aria-label="Mag ich" aria-pressed="false">${ICON.like}</button>
       <button class="btn-dislike" type="button" aria-label="Nicht interessiert" aria-pressed="false">${ICON.dislike}</button>
@@ -454,13 +446,6 @@ function react(card, fact, direction, { allowToggleOff = true } = {}) {
   const requested = direction > 0 ? 'like' : 'dislike';
   const reaction = setFactReaction(fact, requested, allowToggleOff);
   renderReaction(card, reaction);
-  snapBack(card);
-}
-
-function snapBack(card) {
-  card.style.transition = 'transform 0.2s ease, opacity 0.2s ease';
-  card.style.transform = 'translateX(0) rotate(0)';
-  card.style.opacity = '1';
 }
 
 // ---------- favorites / boost / share ----------
@@ -538,90 +523,27 @@ function showHeartBurst(card, clientX, clientY) {
   el.addEventListener('animationend', () => el.remove());
 }
 
+// Horizontal swipe-to-like was removed on tester feedback — it fought the
+// vertical scroll on real devices. Cards only detect double-tap-to-like now;
+// everything else is buttons. Scrolling stays fully native.
 function attachGestures(card, fact) {
   let pointer = null;
   let lastTapTime = 0;
 
   card.addEventListener('pointerdown', (e) => {
     if (e.pointerType === 'mouse' && e.button !== 0) return;
-    // Let taps on interactive elements (action buttons, source link, boost
-    // button) stay plain native clicks — if the swipe gesture below claims
-    // this pointer (e.g. via a bit of jitter reading as a horizontal drag)
-    // and calls setPointerCapture, the element's own click event can
-    // silently fail to fire on real touch devices.
+    // Taps on interactive elements (action buttons, source link) stay plain
+    // native clicks and never count toward a double-tap.
     if (e.target.closest('.gesture-exempt')) return;
-    // Defensive: a previous gesture that ended without pointerup/-cancel
-    // (iOS edge cases) must not leave a lingering transform behind.
-    if (card.style.transform) snapBack(card);
-    pointer = { id: e.pointerId, x0: e.clientX, y0: e.clientY, mode: 'undecided' };
+    pointer = { id: e.pointerId, x0: e.clientX, y0: e.clientY };
   });
 
-  // iOS: preventDefault() on POINTER events does not stop native scrolling —
-  // only a non-passive TOUCH listener can. Without this, a diagonal swipe
-  // runs our horizontal drag and the native vertical pan simultaneously,
-  // leaving the feed stuck between two snap points.
-  card.addEventListener(
-    'touchmove',
-    (e) => {
-      if (pointer && pointer.mode === 'horizontal') e.preventDefault();
-    },
-    { passive: false }
-  );
-
-  card.addEventListener('pointermove', (e) => {
+  card.addEventListener('pointerup', (e) => {
     if (!pointer || e.pointerId !== pointer.id) return;
-    const dx = e.clientX - pointer.x0;
-    const dy = e.clientY - pointer.y0;
-
-    if (pointer.mode === 'undecided') {
-      if (Math.hypot(dx, dy) < AXIS_LOCK_PX) return;
-      const angle = Math.abs((Math.atan2(dy, dx) * 180) / Math.PI);
-      pointer.mode =
-        angle < HORIZONTAL_MAX_ANGLE || angle > 180 - HORIZONTAL_MAX_ANGLE ? 'horizontal' : 'vertical';
-      if (pointer.mode === 'horizontal') {
-        card.setPointerCapture(pointer.id);
-      }
-    }
-
-    if (pointer.mode === 'horizontal') {
-      e.preventDefault();
-      card.style.transition = 'none';
-      card.style.transform = `translateX(${dx}px) rotate(${dx / 20}deg)`;
-      card.style.opacity = String(1 - Math.min(Math.abs(dx) / 300, 0.5));
-      const like = card.querySelector('.swipe-like');
-      const nope = card.querySelector('.swipe-nope');
-      if (like) like.style.opacity = dx > 0 ? String(Math.min(1, dx / 90)) : '0';
-      if (nope) nope.style.opacity = dx < 0 ? String(Math.min(1, -dx / 90)) : '0';
-    }
-  });
-
-  const clearBadges = () => {
-    const like = card.querySelector('.swipe-like');
-    const nope = card.querySelector('.swipe-nope');
-    if (like) like.style.opacity = '0';
-    if (nope) nope.style.opacity = '0';
-  };
-
-  function endGesture(e) {
-    if (!pointer || e.pointerId !== pointer.id) return;
-    const dx = e.clientX - pointer.x0;
-    const dy = e.clientY - pointer.y0;
-    const distance = Math.hypot(dx, dy);
-
-    if (pointer.mode === 'horizontal') {
-      clearBadges();
-      if (Math.abs(dx) > SWIPE_THRESHOLD_PX) {
-        react(card, fact, dx > 0 ? 1 : -1);
-        pointer = null;
-        return;
-      }
-      snapBack(card);
-    }
-
-    // A real finger tap rarely stays under AXIS_LOCK_PX, so `mode` often
-    // already flipped to 'vertical' (or a too-small 'horizontal') by the
-    // time the finger lifts. Judge tap-vs-drag on total distance here
-    // instead of trusting `mode`, so double-tap stays reliable on touch.
+    const distance = Math.hypot(e.clientX - pointer.x0, e.clientY - pointer.y0);
+    pointer = null;
+    // Judge tap-vs-scroll on total travel: a real finger tap wobbles a few
+    // pixels, a scroll moves far.
     if (distance < TAP_MOVE_THRESHOLD_PX && !e.target.closest('.gesture-exempt')) {
       const now = Date.now();
       if (now - lastTapTime < DOUBLE_TAP_MS) {
@@ -632,25 +554,10 @@ function attachGestures(card, fact) {
         lastTapTime = now;
       }
     }
-    pointer = null;
-  }
+  });
 
-  card.addEventListener('pointerup', endGesture);
-  // A cancelled pointer (browser took over the gesture, common on iOS) can
-  // carry garbage coordinates — treating it like pointerup could read as a
-  // full-distance swipe and fire an unintended dislike. Only clean up.
-  const cleanupGesture = () => {
-    if (pointer) {
-      clearBadges();
-      snapBack(card);
-    }
+  card.addEventListener('pointercancel', () => {
     pointer = null;
-  };
-  card.addEventListener('pointercancel', cleanupGesture);
-  card.addEventListener('lostpointercapture', () => {
-    // Capture can vanish without a pointerup/-cancel on iOS; never leave a
-    // half-dragged card behind.
-    if (pointer && pointer.mode === 'horizontal') cleanupGesture();
   });
 }
 
@@ -999,7 +906,7 @@ function renderSavedView() {
     empty.innerHTML = `
       <div class="empty-icon">${ICON.save}</div>
       <div class="empty-title">Noch nichts gemerkt</div>
-      <div class="empty-text">Swipe im Feed nach <span class="accent">rechts</span> oder tippe auf ♥, um Fakten hier zu sammeln.</div>
+      <div class="empty-text">Tippe im Feed auf das <span class="accent">Lesezeichen</span>, um Fakten hier zu sammeln.</div>
       <button class="empty-cta" type="button">Zum Feed</button>
     `;
     empty.querySelector('.empty-cta').addEventListener('click', () => switchView('feed'));

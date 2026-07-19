@@ -324,34 +324,6 @@ html, body {
   100% { transform: scale(1); }
 }
 
-/* ---------- swipe overlays ---------- */
-.swipe-badge {
-  position: absolute;
-  top: 24px;
-  z-index: 5;
-  padding: 7px 16px;
-  border-radius: 12px;
-  font-family: var(--display);
-  font-weight: 800;
-  font-size: 20px;
-  letter-spacing: 1px;
-  opacity: 0;
-  transition: opacity 0.12s ease;
-  pointer-events: none;
-}
-.swipe-like {
-  left: 24px;
-  border: 3px solid var(--like);
-  color: var(--like);
-  transform: rotate(-12deg);
-}
-.swipe-nope {
-  right: 24px;
-  border: 3px solid var(--dislike);
-  color: var(--dislike);
-  transform: rotate(12deg);
-}
-
 .heart-burst {
   position: absolute;
   font-size: 64px;
