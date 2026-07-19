@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-07-19T09:25:22.804Z",
+  "generatedAt": "2026-07-19T10:17:48.959Z",
   "items": [
+    {
+      "id": "n_68b249cd8c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Abwesend in Brüssel: Wie oft deutsche Minister bei EU-Treffen fehlen",
+      "summary": "Friedrich Merz hat mehrmals eine hohe Präsenz seiner Bundesregierung bei der EU angekündigt. Eine Auswertung des ARD-Studios Brüssel zeigt aber: Die deutschen Minister fehlen bei Ministerräten immer wieder. Von Sarah López.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ministerrat-abwesenheit-100.html",
+      "publishedAt": "2026-07-19T10:09:09.000Z"
+    },
+    {
+      "id": "n_f649c65155",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Zahl der Ausbildungsverträge im Handwerk gestiegen",
+      "summary": "Das Handwerk in Deutschland findet wieder mehr Nachwuchs - die Zahl der Ausbildungverträge hat zugenommen. Handwerkspräsident Dittrich spricht von einem Lichtblick und nennt für den Anstieg mehrere Gründe.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/handwerk-ausbildungsvertraege-100.html",
+      "publishedAt": "2026-07-19T09:44:08.000Z"
+    },
+    {
+      "id": "n_cee09506af",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Neue Angriffe zwischen USA und Iran",
+      "summary": "Die USA haben erneut Luftangriffe auf Iran gemeldet. Teheran reagierte mit Attacken auf US-Stützpunkte in Kuwait. Zuvor waren bei iranischem Beschuss in Jordanien zwei US-Soldaten getötet worden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/nahost-lage-108.html",
+      "publishedAt": "2026-07-19T09:38:13.000Z"
+    },
     {
       "id": "n_f44347f73a",
       "type": "news",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/bahn-sanierung-bundesregierung-100.html",
       "publishedAt": "2026-07-19T06:12:45.000Z"
-    },
-    {
-      "id": "n_cee09506af",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Neue Angriffe zwischen USA und Iran",
-      "summary": "Die USA haben erneut Luftangriffe auf Iran gemeldet - Iran reagierte mit Attacken auf zwei US-Militärstützpunkte in Kuwait. Zuvor waren bei iranischem Beschuss in Jordanien zwei US-Soldaten getötet worden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/nahost-lage-108.html",
-      "publishedAt": "2026-07-19T03:34:03.000Z"
-    },
-    {
-      "id": "n_bde71da629",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "WM-Finale: Eine Halbzeitshow wie beim Super Bowl",
-      "summary": "Erstmals wird es bei einem Finale der Fußball-WM eine Halbzeitshow nach US-Vorbild geben. Wenn Shakira, Madonna, Justin Bieber und weitere Stars heute auftreten, könnte die vorgeschriebene 15-Minuten-Pause klar überzogen werden. Von Martin Ganslmeier.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/wm-halbzeitshow-106.html",
-      "publishedAt": "2026-07-19T03:26:56.000Z"
-    },
-    {
-      "id": "n_4eeff71ef8",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Ungarns Staatspräsident macht Weg zu eigener Absetzung frei",
-      "summary": "Mit einer Verfassungsnovelle will Ungarns neue Regierung Präsident Sulyok loswerden, der als Vertrauter Orbans gilt. Tagelang hatte Sulyok gezögert - der Änderung nun aber zugestimmt, die seine eigene Absetzung bedeutet. Von O. Soos.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/ungarn-praesident-100.html",
-      "publishedAt": "2026-07-19T00:45:49.000Z"
     },
     {
       "id": "n_56a94ecd80",
@@ -178,6 +178,17 @@
       "publishedAt": "2026-07-15T08:02:00.000Z"
     },
     {
+      "id": "n_7ab02ed005",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "42-mal längere Laufzeit: Nächster Ubuntu-Kernel bremst AMD-GPUs drastisch aus",
+      "summary": "Wer auf AMD-GPUs rechnet, kann von extremen Leistungseinbußen betroffen sein. Schuld ist ein bereits behobener Programmierfehler. (Ubuntu, AMD)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/42-mal-laengere-laufzeit-naechster-ubuntu-kernel-bremst-amd-gpus-drastisch-aus-2607-211036.html",
+      "publishedAt": "2026-07-19T10:07:01.000Z"
+    },
+    {
       "id": "n_4e0190b876",
       "type": "news",
       "topic": "tech",
@@ -255,26 +266,15 @@
       "publishedAt": "2026-07-18T12:53:02.000Z"
     },
     {
-      "id": "n_396c78ed77",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Urteil: BGH stärkt das Recht des Einzelnen auf Klimaanlage",
-      "summary": "Wohnungseigentümer dürfen ein Klima-Splitgerät künftig leichter durchsetzen, notfalls auch gegen den Willen der Gemeinschaft. (Bundesgerichtshof, Klima)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/urteil-bgh-staerkt-das-recht-des-einzelnen-auf-klimaanlage-2607-211031.html",
-      "publishedAt": "2026-07-18T11:57:02.000Z"
-    },
-    {
       "id": "n_fbd02ff0c1",
       "type": "news",
       "topic": "general",
       "lang": "en",
       "headline": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
-      "summary": "Eight passengers have so far been rescued after the vessel capsized between Georgetown and Port Kaituma.",
+      "summary": "The vessel capsized between Georgetown and Port Kaituma, with 53 people so far rescued.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T09:20:58.000Z"
+      "publishedAt": "2026-07-19T09:59:41.000Z"
     },
     {
       "id": "n_f4bd263aa0",
@@ -285,7 +285,18 @@
       "summary": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T08:37:48.000Z"
+      "publishedAt": "2026-07-19T09:54:50.000Z"
+    },
+    {
+      "id": "n_8b7fdb3f78",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Tate brothers arrested in US as further UK charges take total to 59",
+      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-19T09:37:32.000Z"
     },
     {
       "id": "n_01637d9d0c",
@@ -308,17 +319,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-19T05:10:57.000Z"
-    },
-    {
-      "id": "n_8b7fdb3f78",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
-      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T02:17:07.000Z"
     },
     {
       "id": "n_4910473a0c",
