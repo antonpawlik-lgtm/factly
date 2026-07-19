@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-07-19T10:17:48.959Z",
+  "generatedAt": "2026-07-19T12:46:24.044Z",
   "items": [
+    {
+      "id": "n_a0ad523bfd",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Spahn-Rücktritt: Merz erwägt Kabinettsumbau",
+      "summary": "Für die Nachfolge von Unions-Fraktionschef Spahn kann sich Kanzler Merz auch einen Regierungsumbau vorstellen. Er und CSU-Chef Söder wollten \"relativ bald\" einen Vorschlag machen. Im ZDF übte er zugleich Kritik an Spahn.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/spahn-ruecktritt-leihmutterschaft-merz-100.html",
+      "publishedAt": "2026-07-19T11:39:28.000Z"
+    },
+    {
+      "id": "n_d115254f27",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Erneut massiver russischer Raketenangriff auf Kiew",
+      "summary": "Russland hat Kiew erneut mit ballistischen Raketen angegriffen, dabei wurden auch ein Wohngebäude und ein Einkaufszentrum getroffen. Ein Mensch kam nach Angaben von Präsident Selenskyj ums Leben, es gibt mehrere Verletzte.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-180.html",
+      "publishedAt": "2026-07-19T11:27:28.000Z"
+    },
+    {
+      "id": "n_eeb15df9bd",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach Studie: Was tut sich gegen Rassismus in Behörden?",
+      "summary": "Eine vom Innenministerium initiierte Studie zeigte im Februar: Rassismus ist in Behörden ein strukturelles Problem. Nur war die Veröffentlichung auffällig zurückhaltend. Was folgt jetzt auf die Ergebnisse? Von Christina Sianides.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/inra-studie-rassismus-behoerden-100.html",
+      "publishedAt": "2026-07-19T11:02:56.000Z"
+    },
     {
       "id": "n_68b249cd8c",
       "type": "news",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wissen/klima/eu-verbot-kleidung-vernichtung-100.html",
       "publishedAt": "2026-07-19T08:20:59.000Z"
-    },
-    {
-      "id": "n_d115254f27",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Erneut massiver russischer Raketenangriff auf Kiew",
-      "summary": "Russland hat Kiew erneut mit ballistischen Raketen angegriffen, dabei wurden laut Behörden auch ein Wohngebäude und ein Einkaufszentrum getroffen. Demnach kam mindestens ein Mensch ums Leben, es gebe mehrere Verletzte.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-180.html",
-      "publishedAt": "2026-07-19T07:35:47.000Z"
-    },
-    {
-      "id": "n_dbeb7a0a04",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Führerschein für viele Menschen unbezahlbar",
-      "summary": "Der Führerschein ist für viele junge Menschen der Schlüssel zur Ausbildung, zum ersten Job und zur eigenen Mobilität. Doch in Deutschland wird er zunehmend zum Luxus. Von Christoph Peters.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/fuehrerschein-in-deutschland-immer-teurer-100.html",
-      "publishedAt": "2026-07-19T07:11:05.000Z"
-    },
-    {
-      "id": "n_90f512fe01",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Problemfall Generalsanierungen: Haben Bahn und Politik einen Plan?",
-      "summary": "Das kaputtgesparte Schienennetz soll Stück für Stück repariert werden. Doch bei Sanierungen gab es häufig Probleme. Verkehrsminister Schnieder verweist auf die Bahn - aber das lässt ihm nicht jeder durchgehen. Von Jim-Bob Nickschas.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bahn-sanierung-bundesregierung-100.html",
-      "publishedAt": "2026-07-19T06:12:45.000Z"
     },
     {
       "id": "n_56a94ecd80",
@@ -178,6 +178,28 @@
       "publishedAt": "2026-07-15T08:02:00.000Z"
     },
     {
+      "id": "n_cec7b5b013",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "AWS: Airbus schickt sensible Daten in die französische Cloud",
+      "summary": "Airbus verlagert kritische Systeme von Amazon Web Services zum französischen Anbieter Scaleway. (Souveränität, Web Service)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/aws-airbus-schickt-sensible-daten-in-die-franzoesische-cloud-2607-211034.html",
+      "publishedAt": "2026-07-19T12:05:02.000Z"
+    },
+    {
+      "id": "n_a61681f33d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "81 Prozent wollen gehen: Samsung-Angestellte wollen wegen ungleicher Boni kündigen",
+      "summary": "Samsungs Speichersparte bekommt Rekordboni, andere Abteilungen deutlich weniger. Viele Mitarbeiter denken ans Kündigen. (Samsung, Wirtschaft)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/81-prozent-wollen-gehen-samsung-angestellte-wollen-wegen-ungleicher-boni-kuendigen-2607-211038.html",
+      "publishedAt": "2026-07-19T11:00:02.000Z"
+    },
+    {
       "id": "n_7ab02ed005",
       "type": "news",
       "topic": "tech",
@@ -244,26 +266,37 @@
       "publishedAt": "2026-07-19T05:30:01.000Z"
     },
     {
-      "id": "n_337f053c5d",
+      "id": "n_fdf722c98f",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: IT-Jobs in Sicherheit, Administration und Entwicklung",
-      "summary": "Von Informationssicherheit über IT-Betrieb bis Netzwerktechnik - sechs IT-Jobs mit vielseitigen Aufgaben und moderner Technik. (Golem Karrierewelt, Unternehmenssoftware)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-it-jobs-in-sicherheit-administration-und-entwicklung-2607-210993.html",
-      "publishedAt": "2026-07-19T05:00:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "summary": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-19T11:57:10.000Z"
     },
     {
-      "id": "n_8c81165a76",
+      "id": "n_f4bd263aa0",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Laufrad: Tesla verkauft Fahrrad für 225 Dollar",
-      "summary": "Tesla erweitert sein Sortiment um ein motorloses Laufrad für Kleinkinder, komplett im Markendesign und mit stolzem Preis. (Tesla, Elektroauto)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/laufrad-tesla-verkauft-fahrrad-fuer-225-dollar-2607-211032.html",
-      "publishedAt": "2026-07-18T12:53:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "summary": "Four people are killed and at least 36 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-19T11:28:24.000Z"
+    },
+    {
+      "id": "n_8b7fdb3f78",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Tate brothers arrested in US as further UK charges take total to 59",
+      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-19T11:04:50.000Z"
     },
     {
       "id": "n_fbd02ff0c1",
@@ -277,26 +310,15 @@
       "publishedAt": "2026-07-19T09:59:41.000Z"
     },
     {
-      "id": "n_f4bd263aa0",
+      "id": "n_dc69425262",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Russia launches major ballistic missile attack on Kyiv",
-      "summary": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
+      "headline": "Messi on the brink of history - will it be his last World Cup game?",
+      "summary": "Argentina captain Lionel Messi will play his 34th World Cup match in Sunday's final, but will it be his last appearance?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T09:54:50.000Z"
-    },
-    {
-      "id": "n_8b7fdb3f78",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Tate brothers arrested in US as further UK charges take total to 59",
-      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T09:37:32.000Z"
+      "url": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-19T09:55:22.000Z"
     },
     {
       "id": "n_01637d9d0c",
@@ -308,17 +330,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-19T07:47:02.000Z"
-    },
-    {
-      "id": "n_fdf722c98f",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-      "summary": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T05:10:57.000Z"
     },
     {
       "id": "n_4910473a0c",
@@ -341,17 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwyr498vqqpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-19T01:11:23.000Z"
-    },
-    {
-      "id": "n_e492fd47f9",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Russians turn to cash, putting more strain on slowing wartime economy",
-      "summary": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T23:59:26.000Z"
     },
     {
       "id": "n_c1779f93f4",
@@ -442,6 +442,17 @@
       "publishedAt": "2026-07-14T20:00:00.000Z"
     },
     {
+      "id": "n_7cdad1f0f7",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "As mosquito ranges expand, better monitoring is key to preventing disease",
+      "summary": "Monitoring is expensive and labor intensive. But it helps public health officials stop outbreaks.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/",
+      "publishedAt": "2026-07-19T11:19:31.000Z"
+    },
+    {
       "id": "n_4ff484c6b4",
       "type": "news",
       "topic": "tech",
@@ -517,17 +528,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/space/2026/07/will-russias-answer-to-the-falcon-9-rocket-ever-take-flight/",
       "publishedAt": "2026-07-17T16:42:19.000Z"
-    },
-    {
-      "id": "n_9ea5d4c517",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Fubo hikes prices by $15 after restoring some NBCU channels lost in November",
-      "summary": "Fubo subscribers still don't have Versant channels.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/07/fubo-hikes-prices-by-15-after-restoring-some-nbcu-channels-lost-in-november/",
-      "publishedAt": "2026-07-17T16:24:21.000Z"
     },
     {
       "id": "n_80ddfeeeb7",
