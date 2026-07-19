@@ -25,6 +25,8 @@ html, body {
   color: var(--text);
   font-family: var(--font);
   overscroll-behavior-y: contain;
+  /* Never allow the page itself to pan sideways. */
+  overflow-x: clip;
 }
 
 /* ---------- top header (feed only) ---------- */
@@ -96,8 +98,13 @@ html, body {
 #feed {
   height: 100dvh;
   overflow-y: scroll;
+  /* Hard-lock the horizontal axis: iOS lets a scroll container rubber-band
+     sideways (and get stuck there) if any card content overflows by even a
+     pixel. Vertical scrolling is the only movement the feed allows. */
+  overflow-x: hidden;
   scroll-snap-type: y mandatory;
   touch-action: pan-y;
+  overscroll-behavior-x: none;
 }
 
 .card {
@@ -109,7 +116,8 @@ html, body {
   justify-content: center;
   position: relative;
   padding: calc(env(safe-area-inset-top) + 104px) 16px calc(env(safe-area-inset-bottom) + 96px);
-  will-change: transform;
+  max-width: 100vw;
+  overflow-x: clip;
 }
 
 /* ambient category glow filling the space behind the card */
