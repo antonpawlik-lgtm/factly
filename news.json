@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-07-18T21:38:29.239Z",
+  "generatedAt": "2026-07-19T01:22:16.981Z",
   "items": [
+    {
+      "id": "n_4eeff71ef8",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ungarns Staatspräsident macht Weg zu eigener Absetzung frei",
+      "summary": "Mit einer Verfassungsnovelle will Ungarns neue Regierung Präsident Sulyok loswerden, der als Vertrauter Orbans gilt. Tagelang hatte Sulyok gezögert - der Änderung nun aber zugestimmt, die seine eigene Absetzung bedeutet. Von O. Soos.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/ungarn-praesident-100.html",
+      "publishedAt": "2026-07-19T00:45:49.000Z"
+    },
     {
       "id": "n_74fec3be6a",
       "type": "news",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/spahn-nachfolger-unionsfraktion-100.html",
       "publishedAt": "2026-07-18T16:20:20.000Z"
-    },
-    {
-      "id": "n_6c91c20974",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Regierung plant Bürokratie-Abbau: Betriebe bleiben skeptisch",
-      "summary": "Mit dem \"Programm für Aufschwung und Beschäftigung\" will die Regierung Bürokratie abbauen. Doch das Problem liegt nur zum Teil auf Bundesebene. Von Thomas Falkner.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/buerokratie-bremst-wirtschaft-regierung-plant-reform-100.html",
-      "publishedAt": "2026-07-18T14:14:02.000Z"
     },
     {
       "id": "n_56a94ecd80",
@@ -266,6 +266,28 @@
       "publishedAt": "2026-07-18T09:00:02.000Z"
     },
     {
+      "id": "n_c4fef43d2b",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Why the World Cup half-time show may be a taste of things to come",
+      "summary": "The 2026 World Cup's spectacle is creating debate about the place of music in sport - and how it could infiltrate other tournaments.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyr498vqqpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-19T01:11:23.000Z"
+    },
+    {
+      "id": "n_8b7fdb3f78",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Tate brothers arrested in US after more charges laid against them in UK",
+      "summary": "The new charges announced on Saturday include rape and sex trafficking.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-19T00:57:18.000Z"
+    },
+    {
       "id": "n_239300016e",
       "type": "news",
       "topic": "general",
@@ -274,7 +296,29 @@
       "summary": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T21:12:28.000Z"
+      "publishedAt": "2026-07-19T00:18:47.000Z"
+    },
+    {
+      "id": "n_e492fd47f9",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Russians turn to cash, putting more strain on slowing wartime economy",
+      "summary": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T23:59:26.000Z"
+    },
+    {
+      "id": "n_148ad489f6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Private jets flock to Montana - but locals can't afford the trailer park",
+      "summary": "Rents in Bozeman, Montana have skyrocketed as wealthy out-of-towners flock to the city to experience the American West.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg92d8d40yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T23:44:04.000Z"
     },
     {
       "id": "n_a6a3a34900",
@@ -308,50 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-18T15:23:31.000Z"
-    },
-    {
-      "id": "n_5212a67cda",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-      "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T13:06:25.000Z"
-    },
-    {
-      "id": "n_d5511899f1",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Laos says it can't determine cause of tourist deaths linked to methanol",
-      "summary": "Officials say they have no evidence of poisoning over the 2024 deaths because autopsies were not conducted.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T11:10:20.000Z"
-    },
-    {
-      "id": "n_eefb445cee",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Helicopters dump water as huge Norway fire destroys homes",
-      "summary": "The blaze has destroyed more than 100 homes in Drammen and has spread to a nearby forest, authorities say.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c4gj5944n4ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T07:13:07.000Z"
-    },
-    {
-      "id": "n_c4e41a9689",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Space start-up launches India’s first commercial rocket designed for orbit",
-      "summary": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-18T07:05:19.000Z"
     },
     {
       "id": "n_c1779f93f4",
