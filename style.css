@@ -190,17 +190,24 @@ html, body {
   text-wrap: pretty;
 }
 
-/* "Beide"-Modus: die Übersetzung steht gedämpft unter dem Originaltext.
-   Beide Texte teilen sich die Kartenhöhe, daher etwas kleiner. */
-.card-body:has(.card-text-alt) { flex-direction: column; align-items: flex-start; justify-content: center; gap: 14px; }
-.card-body:has(.card-text-alt) .card-text { font-size: clamp(19px, 5.2vw, 26px); }
+/* "Beide"-Modus: beide Sprachen gleichberechtigt untereinander, getrennt
+   durch eine feine Linie. Beide Texte teilen sich die Kartenhöhe, daher
+   etwas kleiner als einsprachige Karten. */
+.card-body:has(.card-text-alt) { flex-direction: column; align-items: flex-start; justify-content: center; gap: 16px; }
+.card-body:has(.card-text-alt) .card-text,
 .card-text-alt {
   margin: 0;
-  color: var(--muted);
-  font-weight: 500;
-  font-size: clamp(15px, 4.2vw, 19px);
-  line-height: 1.4;
+  color: #fff;
+  font-weight: 700;
+  font-size: clamp(19px, 5.2vw, 26px);
+  line-height: 1.28;
+  letter-spacing: -0.6px;
   text-wrap: pretty;
+}
+.card-text-alt {
+  padding-top: 16px;
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+  width: 100%;
 }
 
 /* Decorative category emoji, watermark-style in the card corner. */
