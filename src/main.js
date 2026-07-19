@@ -12,6 +12,8 @@ const STORAGE_FAVORITES = 'factly_favorites';
 const STORAGE_BOOSTED = 'factly_boosted';
 const STORAGE_MUTED = 'factly_mutedCategories';
 const STORAGE_FAVORITE_CATS = 'factly_favoriteCategories';
+const STORAGE_MUTED_NEWS = 'factly_mutedNewsTopics';
+const STORAGE_FAVORITE_NEWS = 'factly_favoriteNewsTopics';
 const STORAGE_LANGUAGE = 'factly_language';
 const WINDOW_AHEAD = 6;
 const TAP_MOVE_THRESHOLD_PX = 24;
@@ -66,7 +68,12 @@ const boostedIds = new Set(readJSON(STORAGE_BOOSTED, [])); // "Mehr davon" is on
 // ones disappear from the feed pool and the header chips entirely.
 const mutedCategories = new Set(readJSON(STORAGE_MUTED, []));
 const favoriteCategories = new Set(readJSON(STORAGE_FAVORITE_CATS, []));
-// How much a starred topic's facts are boosted in the picker.
+// Same normal/favorite/muted cycle, but for news topics (general/tech/ai/
+// video) — steered from a separate "Deine News-Themen" block in the profile.
+const NEWS_TOPICS = ['general', 'tech', 'ai', 'video'];
+const mutedNewsTopics = new Set(readJSON(STORAGE_MUTED_NEWS, []));
+const favoriteNewsTopics = new Set(readJSON(STORAGE_FAVORITE_NEWS, []));
+// How much a starred topic's items are boosted in the picker.
 const FAVORITE_CATEGORY_BOOST = 1.8;
 let selectedLanguage = localStorage.getItem(STORAGE_LANGUAGE) || 'all'; // 'de' | 'en' | 'all'
 let hintTimer = null;
@@ -216,6 +223,8 @@ const saveFavorites = () => writeJSON(STORAGE_FAVORITES, [...favorites]);
 const saveBoosted = () => writeJSON(STORAGE_BOOSTED, [...boostedIds]);
 const saveMuted = () => writeJSON(STORAGE_MUTED, [...mutedCategories]);
 const saveFavoriteCats = () => writeJSON(STORAGE_FAVORITE_CATS, [...favoriteCategories]);
+const saveMutedNews = () => writeJSON(STORAGE_MUTED_NEWS, [...mutedNewsTopics]);
+const saveFavoriteNews = () => writeJSON(STORAGE_FAVORITE_NEWS, [...favoriteNewsTopics]);
 
 // Display order for topic chips: starred topics first, then normal, muted
 // last (profile only — the header hides muted entirely).
@@ -308,14 +317,18 @@ const newsById = new Map(); // lets the saved view render a saved headline
 const seenNewsIds = new Set();
 
 function pickNextNews() {
-  const pool = selectedLanguage === 'all' ? newsPool : newsPool.filter((n) => n.lang === selectedLanguage);
+  let pool = selectedLanguage === 'all' ? newsPool : newsPool.filter((n) => n.lang === selectedLanguage);
+  // Drop muted news topics (unless that would empty the pool entirely).
+  const unmuted = pool.filter((n) => !mutedNewsTopics.has(n.topic));
+  if (unmuted.length > 0) pool = unmuted;
   if (pool.length === 0) return null;
   let candidates = pool.filter((n) => !seenNewsIds.has(n.id));
   if (candidates.length === 0) {
     seenNewsIds.clear();
     candidates = pool;
   }
-  const item = candidates[Math.floor(Math.random() * candidates.length)];
+  // Starred topics come up more often; everything else is uniform.
+  const item = weightedRandom(candidates, (n) => (favoriteNewsTopics.has(n.topic) ? FAVORITE_CATEGORY_BOOST : 1));
   seenNewsIds.add(item.id);
   return item;
 }
@@ -1005,6 +1018,21 @@ function renderSettingsView() {
     })
     .join('');
 
+  const orderedNewsTopics = [...NEWS_TOPICS].sort((a, b) => {
+    const rank = (t) => (favoriteNewsTopics.has(t) ? 0 : mutedNewsTopics.has(t) ? 2 : 1);
+    return rank(a) - rank(b) || NEWS_TOPICS.indexOf(a) - NEWS_TOPICS.indexOf(b);
+  });
+  const newsThemeChips = orderedNewsTopics
+    .map((topic) => {
+      const state = favoriteNewsTopics.has(topic) ? 'fav' : mutedNewsTopics.has(topic) ? 'muted' : '';
+      const color = categoryColor(`news-${topic}`) || 'var(--accent)';
+      return `<button class="theme-chip${state ? ' ' + state : ''}" type="button" data-news-topic="${topic}"
+        style="--c:${color}" aria-pressed="${!mutedNewsTopics.has(topic)}">${
+        state === 'fav' ? '★ ' : '<span class="cat-dot"></span>'
+      }${escapeHtml(topicLabel(topic))}</button>`;
+    })
+    .join('');
+
   const likedTotal = favorites.size;
   const ratedTotal = Object.keys(reactions).length;
 
@@ -1029,6 +1057,10 @@ function renderSettingsView() {
     <div class="theme-chips">${themeChips}</div>
     <p class="panel-sub">Tippen wechselt: normal → ★ Favorit (kommt öfter) → ausgeblendet.</p>
 
+    <div class="section-label">Deine News-Themen</div>
+    <div class="theme-chips">${newsThemeChips}</div>
+    <p class="panel-sub">Steuert, welche News im Feed auftauchen — gleiche Tipp-Logik.</p>
+
     <div class="section-label">Sprache der Fakten</div>
     <div class="settings-block">${langOptions}</div>
 
@@ -1044,7 +1076,7 @@ function renderSettingsView() {
     });
   });
 
-  settingsView.querySelectorAll('.theme-chip').forEach((chip) => {
+  settingsView.querySelectorAll('.theme-chip[data-slug]').forEach((chip) => {
     chip.addEventListener('click', () => {
       const slug = chip.dataset.slug;
       // Cycle: normal -> favorite -> muted -> normal.
@@ -1071,6 +1103,30 @@ function renderSettingsView() {
     });
   });
 
+  settingsView.querySelectorAll('.theme-chip[data-news-topic]').forEach((chip) => {
+    chip.addEventListener('click', () => {
+      const topic = chip.dataset.newsTopic;
+      // Same normal -> favorite -> muted -> normal cycle for news topics.
+      if (favoriteNewsTopics.has(topic)) {
+        favoriteNewsTopics.delete(topic);
+        if (mutedNewsTopics.size < NEWS_TOPICS.length - 1) {
+          mutedNewsTopics.add(topic);
+        } else {
+          showToast('Mindestens ein News-Thema muss aktiv bleiben');
+        }
+      } else if (mutedNewsTopics.has(topic)) {
+        mutedNewsTopics.delete(topic);
+      } else {
+        favoriteNewsTopics.add(topic);
+      }
+      saveMutedNews();
+      saveFavoriteNews();
+      seenNewsIds.clear(); // re-pick from the changed topic set
+      resetFeed();
+      renderSettingsView();
+    });
+  });
+
   const resetBtn = settingsView.querySelector('.btn-reset');
   resetBtn.addEventListener('click', () => {
     if (!resetBtn.dataset.confirming) {
@@ -1089,6 +1145,8 @@ function renderSettingsView() {
       STORAGE_BOOSTED,
       STORAGE_MUTED,
       STORAGE_FAVORITE_CATS,
+      STORAGE_MUTED_NEWS,
+      STORAGE_FAVORITE_NEWS,
     ].forEach((k) => localStorage.removeItem(k));
     location.reload();
   });
