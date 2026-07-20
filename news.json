@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-07-20T19:21:15.422Z",
+  "generatedAt": "2026-07-20T21:54:22.943Z",
   "items": [
+    {
+      "id": "n_13ef7bedab",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Spanien feiert seine Fußballweltmeister",
+      "summary": "Die spanische Fußballnationalmannschaft ist nach ihrem WM-Sieg euphorisch in der Heimat empfangen worden - von Fans, König Felipe und dem Ministerpräsidenten Sanchez. Von Nicholas Buschschlüter, zzt. ARD Madrid.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-fussball-nationalmannschaft-ankunft-100.html",
+      "publishedAt": "2026-07-20T20:05:48.000Z"
+    },
     {
       "id": "n_37ad67eeea",
       "type": "news",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-396.html",
       "publishedAt": "2026-07-20T16:15:56.000Z"
-    },
-    {
-      "id": "n_c364f976a6",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Faktenfinder: In NRW wird es keine Prüfungen auf Arabisch geben",
-      "summary": "Im NRW-Landtag ist ein Antrag zu Förderung von Mehrsprachigkeit in Schulen beschlossen worden. Die FDP behauptet, damit müssten Prüfungen in Zukunft nicht mehr auf Deutsch geschrieben werden. Doch das ist falsch. Von Karin König.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/faktenfinder/nrw-landtag-klassenarbeiten-100.html",
-      "publishedAt": "2026-07-20T15:45:51.000Z"
     },
     {
       "id": "n_7a83b5247e",
@@ -266,15 +266,15 @@
       "publishedAt": "2026-07-20T14:39:02.000Z"
     },
     {
-      "id": "n_292796248e",
+      "id": "n_eadcf94226",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "'If only people knew what a tick could do' - the deadly meat allergies caused by tick bites",
-      "summary": "Mammalian meat allergy is a growing problem along Australia's east coast - and it's caused by tick bites.",
+      "headline": "Trump imposes 50% tariff on Canadian imports",
+      "summary": "The duties take effect within 30 days and mark a major escalation in trade tensions between the North American neighbours.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj6g03567edo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T18:01:00.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T21:51:55.000Z"
     },
     {
       "id": "n_208d8c1141",
@@ -285,7 +285,18 @@
       "summary": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T17:33:02.000Z"
+      "publishedAt": "2026-07-20T21:30:19.000Z"
+    },
+    {
+      "id": "n_d299f4599f",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US launches fresh strikes on Iran, as Trump warns of retaliation for death of soldiers",
+      "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T21:09:31.000Z"
     },
     {
       "id": "n_c785d19763",
@@ -296,18 +307,40 @@
       "summary": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T17:21:27.000Z"
+      "publishedAt": "2026-07-20T21:03:24.000Z"
     },
     {
-      "id": "n_9a7f8b7533",
+      "id": "n_584df09dc6",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-      "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
+      "headline": "Merger deal between Paramount and Warner Bros paused by judge",
+      "summary": "US court temporarily stops Paramount and Warner Bros merging after 12 states launched legal action.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T17:20:37.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c5ywxy41vg6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T19:48:13.000Z"
+    },
+    {
+      "id": "n_1853e3f6b4",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Tate brothers appear in US court for extradition proceedings",
+      "summary": "They were arrested on Saturday after the UK announced dozens of new charges, including rape and sex trafficking, which they deny.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T19:05:50.000Z"
+    },
+    {
+      "id": "n_292796248e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'If only people knew what a tick could do' - the deadly meat allergies caused by tick bites",
+      "summary": "Mammalian meat allergy is a growing problem along Australia's east coast - and it's caused by tick bites.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj6g03567edo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T18:01:00.000Z"
     },
     {
       "id": "n_9f48a4adb6",
@@ -321,37 +354,15 @@
       "publishedAt": "2026-07-20T17:16:20.000Z"
     },
     {
-      "id": "n_9e0bf94c76",
+      "id": "n_e5a3d8cf55",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Police block thousands of 'cockroach' protesters marching on India's parliament",
-      "summary": "Some protesters demanding education reforms said they were injured in clashes with police who banned the march.",
+      "headline": "Thousands of websites taken down for illegal World Cup streams",
+      "summary": "More than 1,000 illegal streaming sites were shut down in the US during the tournament, with a similar amount blocked in Colombia.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T16:26:40.000Z"
-    },
-    {
-      "id": "n_dd160ecdfb",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
-      "summary": "Russian strikes on the Odesa region have killed 28 people in July alone, local authorities say.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T16:10:38.000Z"
-    },
-    {
-      "id": "n_a050501923",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Newcastle, Liverpool and England legend Keegan dies",
-      "summary": "Former England captain and manager Kevin Keegan dies at the age of 75, seven weeks after he revealed he had been diagnosed with stage four cancer.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T14:38:28.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T20:08:56.000Z"
     },
     {
       "id": "n_7764566d61",
@@ -431,15 +442,37 @@
       "publishedAt": "2026-07-16T10:52:26.000Z"
     },
     {
-      "id": "n_9981f2ffce",
+      "id": "n_8ee67fb961",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "SpaceX share price drops below stock market debut",
-      "summary": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-15T18:11:57.000Z"
+      "headline": "The Space Force is now seeking to buy up to $30 billion in rocket launches",
+      "summary": "The Trump administration is asking the Space Force to do a lot. This will require more launches.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
+      "publishedAt": "2026-07-20T20:30:25.000Z"
+    },
+    {
+      "id": "n_29ab0b1413",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "AT&T loses key ruling in bid to stop offering basic phone service in California",
+      "summary": "AT&T suffers setback but will keep asking court and FCC to preempt state rules.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/att-loses-key-ruling-in-bid-to-stop-offering-basic-phone-service-in-california/",
+      "publishedAt": "2026-07-20T19:20:49.000Z"
+    },
+    {
+      "id": "n_4e6210c836",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "RIP bargain bin: The price impact of Sony's disc-free PlayStation plan",
+      "summary": "Used discs are often cheaper than even deep digital discounts.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/07/our-playstation-price-analysis-shows-why-physical-games-still-matter/",
+      "publishedAt": "2026-07-20T18:06:05.000Z"
     },
     {
       "id": "n_c3d19f5d3e",
@@ -497,37 +530,48 @@
       "publishedAt": "2026-07-20T11:20:10.000Z"
     },
     {
-      "id": "n_209d29820b",
+      "id": "n_a76ea83eb2",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "India's first privately developed rocket reaches orbit on dramatic debut launch",
-      "summary": "\"On the first attempt, reaching orbit, I never thought it was possible.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "publishedAt": "2026-07-19T22:11:21.000Z"
+      "headline": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "publishedAt": "2026-07-20T21:21:15.000Z"
     },
     {
-      "id": "n_7cdad1f0f7",
+      "id": "n_72b5d5f105",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "As mosquito ranges expand, better monitoring is key to preventing disease",
-      "summary": "Monitoring is expensive and labor intensive. But it helps public health officials stop outbreaks.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/",
-      "publishedAt": "2026-07-19T11:19:31.000Z"
+      "headline": "AI’s most important protocol is getting a little bit easier to use",
+      "summary": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It’s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead ",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "publishedAt": "2026-07-20T20:50:40.000Z"
     },
     {
-      "id": "n_4ff484c6b4",
+      "id": "n_dc09e7342f",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Will AI fix prior authorization—or make it worse?",
-      "summary": "The government is piloting a program that uses AI for insurance-coverage decisions.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-      "publishedAt": "2026-07-18T11:18:25.000Z"
+      "headline": "X relaunches a rebuilt Android app after year-long effort",
+      "summary": "X says the rebuilt version of its Android app is now available globally.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "publishedAt": "2026-07-20T19:37:39.000Z"
+    },
+    {
+      "id": "n_84b84aa152",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI is scared of open-weight models. Should the US be?",
+      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "publishedAt": "2026-07-20T19:33:25.000Z"
     },
     {
       "id": "n_45a58f0562",
@@ -574,48 +618,15 @@
       "publishedAt": "2026-07-19T19:24:45.000Z"
     },
     {
-      "id": "n_66f92f75ad",
+      "id": "n_98f0a6b315",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-      "summary": "\"Everybody knows the Greeks are inside.\"",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-      "publishedAt": "2026-07-19T14:52:08.000Z"
-    },
-    {
-      "id": "n_c4619a8d04",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-      "summary": "Current AI, a nonprofit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat, and more.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "publishedAt": "2026-07-19T14:00:00.000Z"
-    },
-    {
-      "id": "n_80ddfeeeb7",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Kimi: Threat or menace?",
-      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "publishedAt": "2026-07-18T18:51:07.000Z"
-    },
-    {
-      "id": "n_d20ffc9f0f",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Neil Rimer thinks the AI money is coming back out",
-      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "publishedAt": "2026-07-18T04:47:25.000Z"
+      "headline": "SpaceX in your index fund, explained",
+      "summary": "AUUUUUGH | Image: Cath Virginia / The Verge, Getty Images Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble,",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+      "publishedAt": "2026-07-20T21:00:00.000Z"
     },
     {
       "id": "n_a549b2f248",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
       "publishedAt": "2026-07-17T17:41:32.000Z"
-    },
-    {
-      "id": "n_3ba9165b86",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
-      "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single rule, ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-      "publishedAt": "2026-07-16T17:58:37.000Z"
     },
     {
       "id": "n_cec1ebe5d2",
@@ -1225,18 +1225,6 @@
       "url": "https://www.youtube.com/watch?v=DUgPFNRmsCQ",
       "thumbnail": "https://i.ytimg.com/vi/DUgPFNRmsCQ/hqdefault.jpg",
       "publishedAt": "2026-07-07T10:31:42.000Z"
-    },
-    {
-      "id": "n_221e881c6b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Best Car I've Ever Driven: McLaren W1",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=7KRabLH7jcE",
-      "thumbnail": "https://i.ytimg.com/vi/7KRabLH7jcE/hqdefault.jpg",
-      "publishedAt": "2026-07-02T20:42:45.000Z"
     }
   ]
 }
