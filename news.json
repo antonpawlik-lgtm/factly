@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-07-19T21:39:55.655Z",
+  "generatedAt": "2026-07-20T01:25:51.180Z",
   "items": [
+    {
+      "id": "n_89788722d6",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ukraine wirft Russland Angriff auf ziviles Schiff vor",
+      "summary": "In der Schwarzmeer-Region Odessa soll Russland einen Frachter angegriffen haben. Dabei sollen mindestens fünf Besatzungsmitgliedern getötet worden sein. Unklar ist, wieso das Schiff aus Westafrika in der umkämpften Region unterwegs war.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-schiff-100.html",
+      "publishedAt": "2026-07-19T23:59:26.000Z"
+    },
+    {
+      "id": "n_ab10c4d763",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Spanien ist Fußball-Weltmeister 2026",
+      "summary": "Spanien ist zum zweiten Mal Fußball-Weltmeister. Das Team siegte im Finale in New Jersay durch ein Tor von Ferran Torres mit 1:0 nach Verlängerung gegen Titelverteidiger Argentinien um Superstar Lionel Messi.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/sport/spanien-fussball-weltmeister-100.html",
+      "publishedAt": "2026-07-19T22:27:23.000Z"
+    },
     {
       "id": "n_45f14c9317",
       "type": "news",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-brantner-100.html",
       "publishedAt": "2026-07-19T15:36:16.000Z"
-    },
-    {
-      "id": "n_bc4fd4294a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Spanien: Großer Waldbrand bei Madrid außer Kontrolle",
-      "summary": "Nordöstlich von Madrid versuchen mehr als 500 Einsatzkräfte am Boden und in der Luft, einen großen Waldbrand einzudämmen. Doch das Feuer breitet sich immer weiter aus. Mehrere Orte mussten bereits evakuiert werden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbrand-madrid-100.html",
-      "publishedAt": "2026-07-19T14:26:55.000Z"
-    },
-    {
-      "id": "n_2876c59068",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wut in Venezuela: \"Ihr habt Müll gebaut!\"",
-      "summary": "Viele Venezolaner werden ihre Verwandten und Freunde wohl nie aus den Erdbeben-Trümmern bergen können. Umso größer ist die Wut auf die Regierung. Angesichts der Katastrophe trauen sich nun viele, die Regierung offen zu kritisieren. Von A. Demmer.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/venezuela-wut-baupfusch-100.html",
-      "publishedAt": "2026-07-19T14:13:51.000Z"
     },
     {
       "id": "n_3de3b46aa2",
@@ -266,6 +266,61 @@
       "publishedAt": "2026-07-19T05:30:01.000Z"
     },
     {
+      "id": "n_84d92b3fdb",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Norway opens new memorial for victims of 2011 Breivik massacre",
+      "summary": "The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T01:11:08.000Z"
+    },
+    {
+      "id": "n_23e2ec7d5c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
+      "summary": "Aggression against recruitment officers has become increasingly threatening, police say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T00:19:12.000Z"
+    },
+    {
+      "id": "n_b4bae36397",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "This farmer wanted to quit the cocaine industry - he couldn't",
+      "summary": "Colombians who grow cocaine's raw material bemoan a lack of support to help them switch crops.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-19T23:18:03.000Z"
+    },
+    {
+      "id": "n_1573541d16",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
+      "summary": "Robbie Williams and Jennifer Hudson also performed, with Kylie Jenner and Timothee Chalamet among the celebrities in the crowds.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-19T22:16:39.000Z"
+    },
+    {
+      "id": "n_8b790c104e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
+      "summary": "Water cascaded into subway stations and flooded streets, with people seen wading through water.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-19T21:43:54.000Z"
+    },
+    {
       "id": "n_fdf722c98f",
       "type": "news",
       "topic": "general",
@@ -297,61 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-19T18:18:05.000Z"
-    },
-    {
-      "id": "n_49ff843df2",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Health officials identify source of US explosive diarrhoea outbreak",
-      "summary": "The US Food and Drug Administration says iceberg lettuce supplied by Taylor Farms and sold at Taco Bell and Walmart locations was the source of cyclosporiasis infections.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T15:17:23.000Z"
-    },
-    {
-      "id": "n_68349f10e6",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
-      "summary": "The newlyweds were first linked in 2023 after Healy's brief relationship with Taylor Swift.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T14:50:11.000Z"
-    },
-    {
-      "id": "n_dab5a3fca8",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Runners complete 'world's coolest marathon' on drifting North Pole ice",
-      "summary": "Organisers say 23 runners from seven countries took part in races at the Arctic's geographic North Pole.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c9q9lw5rql4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T14:06:08.000Z"
-    },
-    {
-      "id": "n_8b7fdb3f78",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Tate brothers arrested in US as further UK charges take total to 59",
-      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T12:53:20.000Z"
-    },
-    {
-      "id": "n_dc69425262",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Messi on the brink of history - will it be his last World Cup game?",
-      "summary": "Argentina captain Lionel Messi will play his 34th World Cup match in Sunday's final, but will it be his last appearance?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-19T09:55:22.000Z"
     },
     {
       "id": "n_c1779f93f4",
@@ -431,15 +431,26 @@
       "publishedAt": "2026-07-15T11:24:29.000Z"
     },
     {
-      "id": "n_f4912db232",
+      "id": "n_1b486223bc",
       "type": "news",
       "topic": "tech",
       "lang": "en",
       "headline": "Tech Life",
       "summary": "Surgeons remotely control two human-like robots in an operating theatre.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_news_internet?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy4?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-14T20:00:00.000Z"
+    },
+    {
+      "id": "n_209d29820b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+      "summary": "\"On the first attempt, reaching orbit, I never thought it was possible.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+      "publishedAt": "2026-07-19T22:11:21.000Z"
     },
     {
       "id": "n_7cdad1f0f7",
@@ -517,17 +528,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/",
       "publishedAt": "2026-07-17T17:08:05.000Z"
-    },
-    {
-      "id": "n_7e99fdef2a",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Will Russia's answer to the Falcon 9 rocket ever take flight?",
-      "summary": "Grasshopper-like tests could begin in 2028.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/07/will-russias-answer-to-the-falcon-9-rocket-ever-take-flight/",
-      "publishedAt": "2026-07-17T16:42:19.000Z"
     },
     {
       "id": "n_18b4e5bf12",
