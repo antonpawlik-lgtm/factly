@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-07-20T21:54:22.943Z",
+  "generatedAt": "2026-07-21T01:21:50.440Z",
   "items": [
+    {
+      "id": "n_2c03fbbb15",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "DR Kongo: Zahl der Ebola-Infizierten steigt weiter",
+      "summary": "Der Ebola-Ausbruch in der DR Kongo ist weiterhin nicht unter Kontrolle. Die instabile Sicherheitslage, der allgemeine Mangel und das Misstrauen in der Bevölkerung erschweren die Eindämmung. Doch es gibt auch Lichtblicke. Von B. Rühl.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/afrika/kongo-ebola-122.html",
+      "publishedAt": "2026-07-21T00:48:28.000Z"
+    },
+    {
+      "id": "n_5145302b0b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Großbritanniens neuer Premier Burnham bildet Kabinett um",
+      "summary": "Nach seiner Ernennung zum britischen Premier hat der Labour-Politiker Burnham Ministerposten neu besetzt. Mehrere Vertraute seines Vorgängers Starmer müssen das Kabinett verlassen. Ex-Parteichef Miliband wurde überraschend Außenminister.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-burnham-minister-100.html",
+      "publishedAt": "2026-07-20T22:40:52.000Z"
+    },
     {
       "id": "n_13ef7bedab",
       "type": "news",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/afd-nrw-machtkampf-kommission-100.html",
       "publishedAt": "2026-07-20T17:06:14.000Z"
-    },
-    {
-      "id": "n_17b68e8046",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Neuer Premier Burnham will Briten wieder Hoffnung geben",
-      "summary": "Andy Burnham, der siebte britische Premier in zehn Jahren, muss ein tief gespaltenes Land einen. Seine Pläne sind ehrgeizig: Er will die Lebenshaltungskosten senken, die Wirtschaft ankurbeln und Sozialsysteme entlasten. Von Lisa-Maria Röhling.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-neuer-premier-burnham-100.html",
-      "publishedAt": "2026-07-20T16:32:27.000Z"
-    },
-    {
-      "id": "n_35968388d8",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: DAX-Hängepartie geht weiter",
-      "summary": "Die Eskalation der Lage im Nahen Osten nagt ebenso an den Nerven der Anleger wie die Sorge um eine Korrektur im KI-Sektor. DAX-Anleger hielten sich daher zum Wochenstart bedeckt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-396.html",
-      "publishedAt": "2026-07-20T16:15:56.000Z"
     },
     {
       "id": "n_7a83b5247e",
@@ -270,11 +270,22 @@
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Trump imposes 50% tariff on Canadian imports",
-      "summary": "The duties take effect within 30 days and mark a major escalation in trade tensions between the North American neighbours.",
+      "headline": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T21:51:55.000Z"
+      "publishedAt": "2026-07-21T00:34:47.000Z"
+    },
+    {
+      "id": "n_d299f4599f",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-21T00:14:27.000Z"
     },
     {
       "id": "n_208d8c1141",
@@ -286,17 +297,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-20T21:30:19.000Z"
-    },
-    {
-      "id": "n_d299f4599f",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US launches fresh strikes on Iran, as Trump warns of retaliation for death of soldiers",
-      "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T21:09:31.000Z"
     },
     {
       "id": "n_c785d19763",
@@ -336,7 +336,7 @@
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "'If only people knew what a tick could do' - the deadly meat allergies caused by tick bites",
+      "headline": "'If only people knew what a tick could do' - the deadly meat allergy caused by tick bites",
       "summary": "Mammalian meat allergy is a growing problem along Australia's east coast - and it's caused by tick bites.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj6g03567edo?at_medium=RSS&at_campaign=rss",
@@ -352,6 +352,17 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c309vzn676go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-20T17:16:20.000Z"
+    },
+    {
+      "id": "n_1dfc301506",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Craft and keyboard: The trainees mastering tech and age-old skills",
+      "summary": "Firms have to balance hi-tech and age-old skills when training up young workers.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8dg1kpj48o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T23:07:40.000Z"
     },
     {
       "id": "n_e5a3d8cf55",
@@ -431,25 +442,47 @@
       "publishedAt": "2026-07-16T11:08:33.000Z"
     },
     {
-      "id": "n_6b8a5ed087",
+      "id": "n_11a5d5cb49",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Teen hackers who live streamed cyber-attack on TfL jailed",
-      "summary": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-16T10:52:26.000Z"
+      "headline": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
+      "summary": "Pennsylvania cop charged with oppression and obstruction.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
+      "publishedAt": "2026-07-20T22:15:51.000Z"
     },
     {
-      "id": "n_8ee67fb961",
+      "id": "n_594b8c3470",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Firefighting drones in the works as wildfires plague US nearly year-round",
+      "summary": "California and XPRIZE competition tests whether drones can stop wildfires early.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
+      "publishedAt": "2026-07-20T21:55:52.000Z"
+    },
+    {
+      "id": "n_a395bb32fd",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
+      "summary": "Judge grants restraining order, saying merger \"likely to violate antitrust laws.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
+      "publishedAt": "2026-07-20T21:10:14.000Z"
+    },
+    {
+      "id": "n_98ef2225af",
       "type": "news",
       "topic": "tech",
       "lang": "en",
       "headline": "The Space Force is now seeking to buy up to $30 billion in rocket launches",
       "summary": "The Trump administration is asking the Space Force to do a lot. This will require more launches.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
+      "url": "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
       "publishedAt": "2026-07-20T20:30:25.000Z"
     },
     {
@@ -497,37 +530,26 @@
       "publishedAt": "2026-07-20T15:32:45.000Z"
     },
     {
-      "id": "n_1637896330",
+      "id": "n_758b6cd171",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "The first trailer for Avengers: Doomsday is finally here",
-      "summary": "\"Something's coming. Something we may not be able to deter.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/07/the-first-trailer-for-avengers-doomsday-is-finally-here/",
-      "publishedAt": "2026-07-20T14:33:46.000Z"
+      "headline": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "publishedAt": "2026-07-21T00:12:24.000Z"
     },
     {
-      "id": "n_577ded9569",
+      "id": "n_764b04b08a",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Pay up or not? Ransomware surge has victims facing tough choices.",
-      "summary": "Governments look at banning ransom payments in face of increasingly sophisticated threats.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/07/pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices/",
-      "publishedAt": "2026-07-20T14:00:50.000Z"
-    },
-    {
-      "id": "n_942f283953",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Beyond grep: The case for a context-rich AI coding harness",
-      "summary": "Augment Code's Vinay Perneti talks models, harnesses, and context.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
-      "publishedAt": "2026-07-20T11:20:10.000Z"
+      "headline": "Trump’s latest AI czar has already resigned",
+      "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "publishedAt": "2026-07-20T22:21:04.000Z"
     },
     {
       "id": "n_a76ea83eb2",
@@ -546,7 +568,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "AI’s most important protocol is getting a little bit easier to use",
-      "summary": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It’s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead ",
+      "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
       "publishedAt": "2026-07-20T20:50:40.000Z"
@@ -596,26 +618,15 @@
       "publishedAt": "2026-07-20T15:23:06.000Z"
     },
     {
-      "id": "n_18b4e5bf12",
+      "id": "n_f09cbf6a0e",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "What to watch for after Jensen Huang’s Japan visit",
-      "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-      "publishedAt": "2026-07-19T21:16:07.000Z"
-    },
-    {
-      "id": "n_94f3c8d716",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "publishedAt": "2026-07-19T19:24:45.000Z"
+      "headline": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+      "summary": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyoncé's Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "publishedAt": "2026-07-20T22:19:12.000Z"
     },
     {
       "id": "n_98f0a6b315",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
       "publishedAt": "2026-07-17T19:34:30.000Z"
-    },
-    {
-      "id": "n_a49eed2391",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Apple’s plot to crush OpenAI",
-      "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On thi",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "publishedAt": "2026-07-17T17:41:32.000Z"
     },
     {
       "id": "n_cec1ebe5d2",
