@@ -1,38 +1,60 @@
 {
-  "generatedAt": "2026-07-21T05:39:08.071Z",
+  "generatedAt": "2026-07-21T08:04:18.131Z",
   "items": [
     {
-      "id": "n_b530d02770",
+      "id": "n_8eae487329",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Marktbericht: Nahost-Hoffnung könnte Börsen antreiben",
-      "summary": "Die Hoffnung auf eine Waffenruhe im Nahen Osten steigt, nachdem bekannt wurde, dass Vermittler dem Iran einen zehntägigen Waffenstillstand vorgeschlagen haben. Der Ölpreis entfernte sich von seinem Einmonatshoch.",
+      "headline": "Klimawandel bedroht lebenswichtige Mikroalgen",
+      "summary": "Während Seetang am Strand eher stört, ist die Mikroalge für unser Überleben unabdingbar. Forschende haben herausgefunden, dass schon geringe Temperaturveränderungen Mikroalgen aus dem Gleichgewicht bringen können. Von Florian Zinner.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-krieg-102.html",
-      "publishedAt": "2026-07-21T05:23:02.000Z"
+      "url": "https://www.tagesschau.de/wissen/klima/mikroalgen-klimawandel-100.html",
+      "publishedAt": "2026-07-21T07:59:07.000Z"
     },
     {
-      "id": "n_4ded3fd39f",
+      "id": "n_be69f0ab3f",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "USA verhängen Zölle in Höhe von 50 Prozent auf Produkte aus Kanada",
-      "summary": "Der Handelsstreit zwischen den USA und Kanada spitzt sich zu. Washington verhängte nun neue Zölle in Höhe von 50 Prozent. Betroffen sind auch Produkte, die bislang unter ein Freihandelsabkommen fallen.",
+      "headline": "Spahn-Rücktritt entfacht neue Debatte um Leihmutterschaft",
+      "summary": "Der Rücktritt von Unionsfraktionschef Spahn hat eine neue Debatte über die in Deutschland verbotene Leihmutterschaft ausgelöst. Die Grünen möchten sich erneut damit befassen, der Ethikrat warnt vor \"Doppelmoral\". Die CDU hält bislang am Verbot fest.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-zoelle-kanada-102.html",
-      "publishedAt": "2026-07-21T05:16:59.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/leihmutterschaft-debatte-100.html",
+      "publishedAt": "2026-07-21T07:25:07.000Z"
     },
     {
-      "id": "n_b80846658f",
+      "id": "n_db18cb1751",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Aoun in Washington: Die Libanesen haben wenig Hoffnung auf Veränderung",
-      "summary": "Mit der Hoffnung auf eine stabile Waffenruhe in seinem Land reist Libanons Präsident Aoun nach Washington. Seine Landsleute haben keine großen Erwartungen - zumal die Hisbollah immer noch nicht mit am Verhandlungstisch sitzt. Von S. Männer.",
+      "headline": "Chile ruft nach schweren Unwettern den Katastrophenzustand aus",
+      "summary": "Es sind die schlimmsten Unwetter seit Jahrzehnten: In Chile kamen infolge heftiger Regenfälle mindestens zehn Menschen ums Leben. 150.000 Menschen sind ohne Strom. Das ganze Ausmaß der Schäden lässt sich noch nicht abschätzen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/libanon-aoun-washington-100.html",
-      "publishedAt": "2026-07-21T04:32:15.000Z"
+      "url": "https://www.tagesschau.de/ausland/amerika/chile-katastrophenzustand-unwetter-100.html",
+      "publishedAt": "2026-07-21T07:09:51.000Z"
+    },
+    {
+      "id": "n_e2be0a5a27",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Gericht setzt Paramount-Übernahme von Warner vorerst aus",
+      "summary": "Ein US-Gericht hat die milliardenschwere Übernahme von Warner Bros. Discovery durch Paramount für zunächst zwei Wochen gestoppt. Zwölf Bundesstaaten sehen in dem Zusammenschluss eine Gefahr für den Wettbewerb.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/paramount-warner-uebernahme-100.html",
+      "publishedAt": "2026-07-21T06:50:42.000Z"
+    },
+    {
+      "id": "n_94d9922373",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Vor diesen Herausforderung steht Großbritanniens neuer Premier Burnham",
+      "summary": "Bereits vor seinem Amtsantritt hat der neue britische Premier Burnham über geplante Reformen gesprochen. Was will er verändern und mit welchen Hürden hat er zu kämpfen? Von Lisa-Maria Röhling.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/grossbritannien-burnham-premier-huerden-102.html",
+      "publishedAt": "2026-07-21T06:48:13.000Z"
     },
     {
       "id": "n_6966cdb166",
@@ -40,54 +62,32 @@
       "topic": "general",
       "lang": "de",
       "headline": "US-Militär bombadiert Iran die zehnte Nacht in Folge",
-      "summary": "Statt Waffenruhe nun die zehnte Nacht in Folge schwere Angriffe: Die USA haben wieder Iran bombardiert. Die Islamische Republik griff ihrerseits Ziele in Kuwait an. Auch ein Tanker wurde getroffen. US-Präsident Trump droht mit Vergeltung.",
+      "summary": "Statt Waffenruhe nun die zehnte Nacht in Folge schwere Angriffe: Die USA haben wieder Iran bombardiert. Die Islamische Republik griff ihrerseits US-Ziele in der Region an. US-Präsident Trump droht mit Vergeltung.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/asien/iran-krieg-angriffe-104.html",
-      "publishedAt": "2026-07-21T04:30:16.000Z"
+      "publishedAt": "2026-07-21T06:27:34.000Z"
     },
     {
-      "id": "n_5145302b0b",
+      "id": "n_02c64dec56",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Großbritanniens neuer Premier Burnham bildet Kabinett um",
-      "summary": "Nach seiner Ernennung zum britischen Premier hat der Labour-Politiker Burnham Ministerposten neu besetzt. Mehrere Vertraute seines Vorgängers Starmer müssen das Kabinett verlassen. Ex-Parteichef Miliband wurde überraschend Außenminister.",
+      "headline": "Förderung der Filmbranche: Was kann der \"Filmbooster\" bewirken?",
+      "summary": "Deutsche Filme sind wieder weltweit erfolgreich, doch der Produktionsstandort Deutschland hat schwere Zeiten hinter sich. Die Regierung will die Branche jetzt gesetzlich stärken. Wie wirkungsvoll ist der \"Filmbooster\"? Von Anke Hahn.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-burnham-minister-100.html",
-      "publishedAt": "2026-07-21T04:10:03.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/filmwirtschaft-100.html",
+      "publishedAt": "2026-07-21T06:01:02.000Z"
     },
     {
-      "id": "n_2c03fbbb15",
+      "id": "n_dbd4dd439e",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "DR Kongo: Zahl der Ebola-Infizierten steigt weiter",
-      "summary": "Der Ebola-Ausbruch in der DR Kongo ist weiterhin nicht unter Kontrolle. Die instabile Sicherheitslage, der allgemeine Mangel und das Misstrauen in der Bevölkerung erschweren die Eindämmung. Doch es gibt auch Lichtblicke. Von B. Rühl.",
+      "headline": "Wie viel Hilfe es jetzt für den Heizungstausch gibt",
+      "summary": "Wer plant, sich eine klimafreundliche Heizung einzubauen, kann ab heute einen neuen Förderantrag stellen. Die KfW-Bank hat das Antragsportal angepasst. Wer kann wie viel Förderung bekommen? Von Lissy Kaufmann.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/kongo-ebola-122.html",
-      "publishedAt": "2026-07-21T00:48:28.000Z"
-    },
-    {
-      "id": "n_13ef7bedab",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Spanien feiert seine Fußballweltmeister",
-      "summary": "Die spanische Fußballnationalmannschaft ist nach ihrem WM-Sieg euphorisch in der Heimat empfangen worden - von Fans, König Felipe und dem Ministerpräsidenten Sanchez. Von Nicholas Buschschlüter.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-fussball-nationalmannschaft-ankunft-100.html",
-      "publishedAt": "2026-07-20T20:05:48.000Z"
-    },
-    {
-      "id": "n_37ad67eeea",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Schachgroßmeisterin Polgar will nicht Ungarns Präsidentin werden",
-      "summary": "In Ungarn gab es einen Dämpfer für den neuen Premier Magyar: Seine Wunschkandidatin für die Präsidentschaft, die Schachgroßmeisterin Judit Polgar, hat abgesagt. Die \"historische Verantwortung\" sei zu groß. Von Oliver Soos.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ungarn-praesidentschaft-polgar-absage-100.html",
-      "publishedAt": "2026-07-20T19:12:39.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/klima-heizungstausch-kuerzungen-100.html",
+      "publishedAt": "2026-07-21T05:52:19.000Z"
     },
     {
       "id": "n_7a83b5247e",
@@ -178,92 +178,103 @@
       "publishedAt": "2026-07-16T13:33:00.000Z"
     },
     {
-      "id": "n_4453418093",
+      "id": "n_9268e51388",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Regulierung und Strompreis: OpenAI plante Rechenzentrum in Deutschland",
-      "summary": "Ein milliardenschweres OpenAI-Rechenzentrum für Deutschland ist offenbar bis zum Kanzler verhandelt worden. (OpenAI, KI)",
+      "headline": "Toyota: \"Ich glaube, wir verlieren gegen China\"",
+      "summary": "In einer Doku sprechen Toyota-Mitarbeiter über die Krise beim weltgrößten Autohersteller. Die Hoffnung liegt auf dem nächsten Corolla-Modell. (Toyota, Elektroauto)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/regulierung-und-strompreis-openai-plante-rechenzentrum-in-deutschland-2607-211091.html",
-      "publishedAt": "2026-07-21T05:29:02.000Z"
+      "url": "https://www.golem.de/news/toyota-ich-glaube-wir-verlieren-gegen-china-2607-211097.html",
+      "publishedAt": "2026-07-21T07:50:02.000Z"
     },
     {
-      "id": "n_d899e5630e",
+      "id": "n_ab1e872d96",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Inbus Schraubendreher mit Ratsche befristet im Amazon-Angebot",
-      "summary": "Ein Ratschenschraubendreher von Inbus mit zwölf Bits ist kurze Zeit bei Amazon günstiger als im 90-Tage-Schnitt. (Technik/Hardware)",
+      "headline": "KI-Training: Tesla lässt Grünheide-Belegschaft für Roboter Optimus filmen",
+      "summary": "Ausgewählte Tesla-Teams sollen Kameras am Arbeitsplatz tragen. Die Aufnahmen sollen dem Roboter Optimus beibringen, wie Menschen arbeiten. (Gigafactory Berlin, Roboter)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-inbus-schraubendreher-mit-ratsche-befristet-im-amazon-angebot-2607-211087.html",
-      "publishedAt": "2026-07-20T16:54:02.000Z"
+      "url": "https://www.golem.de/news/ki-training-tesla-laesst-gruenheide-belegschaft-fuer-roboter-optimus-filmen-2607-211096.html",
+      "publishedAt": "2026-07-21T07:39:02.000Z"
     },
     {
-      "id": "n_f6850421ea",
+      "id": "n_8975e4b11f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Wingtech: Nexperia kann Kapazitäten wieder etwas steigern",
-      "summary": "Die deutsche und europäische Automobilindustrie leidet weiterhin darunter, dass die USA den Nexperia-Eigner Wingtech auf die Blacklist gesetzt haben. Langsam erholt sich Nexperia. (Chipknappheit, Prozessor)",
+      "headline": "Feuer an Bord: Warum Powerbanks zur größten Brandgefahr im Flugzeug werden",
+      "summary": "Powerbanks werden zur Gefahr: Ein ausgebranntes Flugzeug in Südkorea, fast wöchentliche Zwischenfälle und neue Regeln zeigen, wie ernst die Lage ist. Von Michael Linden (Luftfahrt, Flugzeug)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/wingtech-nexperia-kann-kapazitaeten-wieder-etwas-steigern-2607-211086.html",
-      "publishedAt": "2026-07-20T16:19:01.000Z"
+      "url": "https://www.golem.de/news/feuer-an-bord-warum-powerbanks-zur-groessten-brandgefahr-im-flugzeug-werden-2607-210842.html",
+      "publishedAt": "2026-07-21T07:22:02.000Z"
     },
     {
-      "id": "n_35c1520881",
+      "id": "n_d8ebd2052c",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) House & Home: How smart tech is being weaponised in the home",
-      "summary": "Remote access to domestic devices is increasingly being used to manipulate, intimidate and disturb. Policymakers and tech companies are grappling with safeguards. Von Emma Jacobs (Security, Tracking)",
+      "headline": "Bezahlen beim Verkäufer: Media Markt will Kasse abschaffen",
+      "summary": "Media Markt will den Bezahlvorgang künftig direkt ins Beratungsgespräch verlegen. Kunden sollen ihren Einkauf auf der Verkaufsfläche abschließen können. (Media Markt, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/house-home-how-smart-tech-is-being-weaponised-in-the-home-2607-211072.html",
-      "publishedAt": "2026-07-20T16:07:01.000Z"
+      "url": "https://www.golem.de/news/bezahlen-beim-verkaeufer-media-markt-will-kasse-abschaffen-2607-211095.html",
+      "publishedAt": "2026-07-21T07:03:01.000Z"
     },
     {
-      "id": "n_65eccb6411",
+      "id": "n_743ea8afc0",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Marvel Cinematic Universe: Marvel zeigt ersten Trailer zu Avengers: Doomsday",
-      "summary": "Marvel zeigt den ersten Trailer zu Avengers: Doomsday. Doctor Doom führt die Bedrohung an, Steve Rogers kehrt zurück. (Marvel, Film)",
+      "headline": "RAN: Vodafone testet Mobilfunkmasten mit Roboterarm",
+      "summary": "Mit einem KI-gesteuerten Roboterarm will Vodafone Antennen an Mobilfunkmasten rasch neu ausrichten. Damit soll auf schwankende Auslastungen und Wetterlagen reagiert werden. (Vodafone, Roboter)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/marvel-cinematic-universe-marvel-zeigt-ersten-trailer-zu-avengers-doomsday-2607-211085.html",
-      "publishedAt": "2026-07-20T15:44:02.000Z"
+      "url": "https://www.golem.de/news/ran-vodafone-testet-mobilfunkmasten-mit-roboterarm-2607-211088.html",
+      "publishedAt": "2026-07-21T07:00:01.000Z"
     },
     {
-      "id": "n_155df57f30",
+      "id": "n_13f6abfa24",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "FTTH: Telekom bereitet Einsatz von 50G-PON für Kunden vor",
-      "summary": "Die Deutsche Telekom plant den Einsatz von 50G-PON als Nachfolger von XGS-PON. Erste Labor-Tests finden bereits statt, um die Netze für Multigigabit-Bandbreiten vorzubereiten. (Telekom, Huawei)",
+      "headline": "Kampfdrohne: US-Luftwaffe feuert Rakete von Loyal Wingman ab",
+      "summary": "Die US-Luftwaffe hat erstmals eine scharfe Rakete von einer Loyal-Wingman-Drohne von Anduril abgefeuert. (Drohne, Test)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/ftth-telekom-bereitet-einsatz-von-50g-pon-fuer-kunden-vor-2607-211084.html",
-      "publishedAt": "2026-07-20T15:37:02.000Z"
+      "url": "https://www.golem.de/news/kampfdrohne-us-luftwaffe-feuert-rakete-von-loyal-wingman-ab-2607-211094.html",
+      "publishedAt": "2026-07-21T06:54:01.000Z"
     },
     {
-      "id": "n_9fcdd90f95",
+      "id": "n_d9977e1cff",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Wetterstation mit Außensensor und WLAN reduziert bei Amazon",
-      "summary": "Eine smarte Wetterstation von SwitchBot mit Innenthermometer, Außensensor und Matter-fähigem WLAN-Hub gibt es bei Amazon zum Aktionspreis. (Technik/Hardware, Matter)",
+      "headline": "Hunderttausende Opfer: BKA zerschlägt große Phishing-Plattform",
+      "summary": "Über einen Dienst namens Kratos wurden jeden Monat rund 15.000 Phishing-Kampagnen abgewickelt. Jetzt hat das BKA dem ein Ende gesetzt. (Phishing, Microsoft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-wetterstation-mit-aussensensor-und-wlan-reduziert-bei-amazon-2607-211081.html",
-      "publishedAt": "2026-07-20T15:10:01.000Z"
+      "url": "https://www.golem.de/news/hunderttausende-opfer-bka-zerschlaegt-grosse-phishing-plattform-2607-211093.html",
+      "publishedAt": "2026-07-21T06:41:01.000Z"
     },
     {
-      "id": "n_cce1a26d00",
+      "id": "n_0633675c88",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "China-Support für Pentagon: Microsoft-Mittelsmänner vertrauten blind auf Codesicherheit",
-      "summary": "Neue Informationen zeigen im Detail, wie Microsoft getrickst hat, um für den IT-Support im Pentagon chinesische Ingenieure einsetzen zu können. (Microsoft, Datenschutz)",
+      "headline": "Millionenkosten für Paramount: Gericht pausiert Warner-Übernahme wegen Nachteilen für Zuschauer",
+      "summary": "Erfolg für US-Bundesstaaten: Ein Gericht bestätigt befürchtete Wettbewerbsnachteile, falls Paramount Warner Bros. Discovery schluckt. (Paramount, Larry Ellison)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/china-support-fuer-pentagon-microsoft-mittelsmaenner-vertrauten-blind-auf-codesicherheit-2607-211083.html",
-      "publishedAt": "2026-07-20T15:07:02.000Z"
+      "url": "https://www.golem.de/news/millionenkosten-fuer-paramount-gericht-pausiert-warner-uebernahme-wegen-nachteilen-fuer-zuschauer-2607-211092.html",
+      "publishedAt": "2026-07-21T06:31:05.000Z"
+    },
+    {
+      "id": "n_eadcf94226",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-21T07:56:13.000Z"
     },
     {
       "id": "n_d299f4599f",
@@ -271,10 +282,10 @@
       "topic": "general",
       "lang": "en",
       "headline": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+      "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T02:41:28.000Z"
+      "publishedAt": "2026-07-21T06:16:06.000Z"
     },
     {
       "id": "n_fbd02ff0c1",
@@ -286,17 +297,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-21T02:07:48.000Z"
-    },
-    {
-      "id": "n_eadcf94226",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T00:34:47.000Z"
     },
     {
       "id": "n_208d8c1141",
@@ -343,26 +343,15 @@
       "publishedAt": "2026-07-20T19:05:50.000Z"
     },
     {
-      "id": "n_292796248e",
+      "id": "n_9f48a4adb6",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "'If only people knew what a tick could do' - the deadly meat allergy caused by tick bites",
-      "summary": "Mammalian meat allergy is a growing problem along Australia's east coast - and it's caused by tick bites.",
+      "headline": "‘All I think about is her’: Families demand answers as Nigeria's boat disasters keep happening",
+      "summary": "Hundreds of lives are lost each year in Nigeria as a result of boat accidents yet nothing seems to change.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj6g03567edo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T18:01:00.000Z"
-    },
-    {
-      "id": "n_1dfc301506",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Craft and keyboard: The trainees mastering tech and age-old skills",
-      "summary": "Firms have to balance hi-tech and age-old skills when training up young workers.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8dg1kpj48o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T23:07:40.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c309vzn676go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-20T17:16:20.000Z"
     },
     {
       "id": "n_e5a3d8cf55",
@@ -440,6 +429,17 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-16T11:08:33.000Z"
+    },
+    {
+      "id": "n_6b8a5ed087",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Teen hackers who live streamed cyber-attack on TfL jailed",
+      "summary": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-16T10:52:26.000Z"
     },
     {
       "id": "n_11a5d5cb49",
@@ -1093,6 +1093,102 @@
       "url": "https://www.youtube.com/watch?v=1yBU41auQhw",
       "thumbnail": "https://i.ytimg.com/vi/1yBU41auQhw/hqdefault.jpg",
       "publishedAt": "2026-07-07T16:33:29.000Z"
+    },
+    {
+      "id": "n_39feb22ff6",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
+      "thumbnail": "https://i.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
+      "publishedAt": "2026-06-30T21:16:13.000Z"
+    },
+    {
+      "id": "n_6a7b36e7cd",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
+      "thumbnail": "https://i.ytimg.com/vi/1M3Vdl6DRkU/hqdefault.jpg",
+      "publishedAt": "2026-05-29T16:18:31.000Z"
+    },
+    {
+      "id": "n_c402ebf7aa",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
+      "thumbnail": "https://i.ytimg.com/vi/nepKKz-MzFM/hqdefault.jpg",
+      "publishedAt": "2026-05-06T22:03:16.000Z"
+    },
+    {
+      "id": "n_854df813c0",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
+      "thumbnail": "https://i.ytimg.com/vi/iKx3gAODybU/hqdefault.jpg",
+      "publishedAt": "2026-04-09T17:35:20.000Z"
+    },
+    {
+      "id": "n_10ab80aff4",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "This $12 billion startup finally shipped something...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=M51asSwRLxA",
+      "thumbnail": "https://i.ytimg.com/vi/M51asSwRLxA/hqdefault.jpg",
+      "publishedAt": "2026-07-20T17:02:30.000Z"
+    },
+    {
+      "id": "n_f826171ec0",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "OpenAI gets sued for stealing, again…",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=5D4Zqp9GLSc",
+      "thumbnail": "https://i.ytimg.com/vi/5D4Zqp9GLSc/hqdefault.jpg",
+      "publishedAt": "2026-07-17T17:56:42.000Z"
+    },
+    {
+      "id": "n_55e883283e",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The most controversial rewrite in history just shipped...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=CXSvKcLovAk",
+      "thumbnail": "https://i.ytimg.com/vi/CXSvKcLovAk/hqdefault.jpg",
+      "publishedAt": "2026-07-15T17:39:02.000Z"
+    },
+    {
+      "id": "n_3d5096cd58",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "OpenAI is so back... GPT 5.6 Sol first look",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=URKml8lgw8Y",
+      "thumbnail": "https://i.ytimg.com/vi/URKml8lgw8Y/hqdefault.jpg",
+      "publishedAt": "2026-07-10T17:25:44.000Z"
     },
     {
       "id": "n_6742ca94db",
