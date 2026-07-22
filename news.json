@@ -1,93 +1,104 @@
 {
-  "generatedAt": "2026-07-22T01:20:23.030Z",
+  "generatedAt": "2026-07-22T08:04:58.603Z",
   "items": [
     {
-      "id": "n_e4c67ddc4d",
+      "id": "n_caaa03873d",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Mittelamerika: Nicaraguas Präsident Ortega will Wahlen abschaffen",
-      "summary": "Bisher wahrte das Regime in Nicaragua den Schein von Wahlen, nächstes Jahr hätten Präsidentschaftswahlen stattfinden sollen. Doch es wird keine mehr geben: Nie wieder, verkündete jetzt Präsident Ortega. Von J. Barke, ARD Mexiko City.",
+      "headline": "Zehn Jahre nach OEZ-Anschlag: Hinterbliebene fühlen sich im Stich gelassen",
+      "summary": "Vor zehn Jahren tötete ein rechtsextremer Attentäter neun Menschen am Olympia-Einkaufszentrum in München. Behörden werteten die Tat lange als unpolitischen Amoklauf - mit Folgen für die Betroffenen. Von T. Marsen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/ortega-nicaragua-wahlen-100.html",
-      "publishedAt": "2026-07-22T00:27:52.000Z"
+      "url": "https://www.tagesschau.de/inland/gesellschaft/oez-attentat-muenchen-100.html",
+      "publishedAt": "2026-07-22T07:28:53.000Z"
     },
     {
-      "id": "n_35d56fe485",
+      "id": "n_c24e1b0be4",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Frankreich: Die Not der Weinbauern nach den Waldbränden",
-      "summary": "Seit Wochen wüten in Südfrankreich massive Waldbrände. Eine Region, die es hart getroffen hat, sind die Pyrénées-Orientales - dort fielen den Flammen auch zahlreiche Weinhänge zum Opfer. Die Winzer stehen vor dem Nichts. Von Julia Borutta, ARD Paris",
+      "headline": "Lob für Alkoholverbot an Bahnhöfen - aber Fragen zur Umsetzung",
+      "summary": "Für das geplante Alkoholverbot an Bahnhöfen gibt es Lob aus der Politik und von Polizeigewerkschaften. Zugleich werden Zweifel an der Umsetzung und Kritik an den Folgen für bestimmte Personengruppen laut.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-weinbauern-100.html",
-      "publishedAt": "2026-07-21T22:38:36.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-alkoholverbot-bahnhoefe-100.html",
+      "publishedAt": "2026-07-22T07:21:58.000Z"
     },
     {
-      "id": "n_d18a827625",
+      "id": "n_49e6ff1dd8",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Ukrainischer Präsident Selenskyj entlässt Oberbefehlshaber Syrskyj",
-      "summary": "Der ukrainische Präsident Selenskyj hat nach tagelangen Protesten Armeechef Syrskyj entlassen und einen Nachfolger ernannt. Auslöser für die Demonstrationen war die Entlassung des populären Verteidigungsministers Fedorow.",
+      "headline": "Bis zu 200 Prozent: Trump kündigt Zölle auf Arzneimittel an",
+      "summary": "US-Präsident Donald Trump will Arzneimittelhersteller zu einer Produktion in den USA bewegen. Für Generika kündigte er deshalb ab Sommer 2028 Strafzölle an - die auf bis zu 200 Prozent steigen sollen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-oberbefehlshaber-entlassen-100.html",
-      "publishedAt": "2026-07-21T20:46:37.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/trump-zoelle-arnzeimittel-generika-100.html",
+      "publishedAt": "2026-07-22T06:55:28.000Z"
     },
     {
-      "id": "n_3ddd59aadb",
+      "id": "n_b76a55a65e",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Frankreich beschließt Social-Media-Verbot für Kinder unter 15 Jahren",
-      "summary": "Frankreich führt als erstes EU-Land ein Social-Media-Verbot für Kinder und Jugendliche unter 15 Jahren ein. Nach dem französischen Senat stimmte auch die Nationalversammlung mit großer Mehrheit für das Gesetz.",
+      "headline": "KI von OpenAI steuert eigenständig Hackerangriff",
+      "summary": "OpenAI spricht selbst von einem \"beispiellosen Cybervorfall\": KI-Modelle der Firma brachen eigenständig aus einer Testumgebung aus, verschafften sich Zugang zum offenen Internet - und hackten ein externes Unternehmen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-social-media-verbot-102.html",
-      "publishedAt": "2026-07-21T20:11:42.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-ki-hackerangriff-100.html",
+      "publishedAt": "2026-07-22T05:46:49.000Z"
     },
     {
-      "id": "n_8d233ce26b",
+      "id": "n_069d482a62",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Bonn zieht vorübergehend Großteil der Stadtbahnen aus dem Verkehr",
-      "summary": "In Bonn müssen vorübergehend 60 von insgesamt 75 Straßenbahnen aus dem Verkehr gezogen werden. Nach WDR-Information hatten Prüfer Schäden an Rädern und eine lange Liste mit Mängeln festgestellt. Nun müssen die Bahnen überprüft werden.",
+      "headline": "Hegseth beziffert Kriegskosten in Iran auf 37,5 Milliarden Dollar",
+      "summary": "US-Verteidigungsminister Hegseth hat sich den Fragen des Senatsausschusses gestellt. Denn er will mehr Geld für den Iran-Krieg. 37,5 Milliarden Dollar hat der Konflikt die USA schon gekostet - mehr als bisher angenommen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/bonn-stadtbahnen-schaeden-100.html",
-      "publishedAt": "2026-07-21T18:23:00.000Z"
+      "url": "https://www.tagesschau.de/ausland/amerika/hegseth-haushaltsausschuss-irankrieg-100.html",
+      "publishedAt": "2026-07-22T05:41:20.000Z"
     },
     {
-      "id": "n_7412deb91b",
+      "id": "n_43ed50dd59",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Seeblockade: Huthi-Miliz zwingt offenbar Schiffe zur Umkehr",
-      "summary": "Die Huthi-Miliz lässt ihrer Ankündigung einer Seeblockade gegen das verfeindete Saudi-Arabien offenbar Taten folgen. Die Gruppe aus dem Jemen hat nach eigenen Angaben mehrere Schiffe zur Umkehr gezwungen.",
+      "headline": "Handelsroute: Nordwestpassage als neuer globaler Seeweg?",
+      "summary": "Die Nordwestpassage galt lange als gefährlichster Seeweg der Welt. Der Klimawandel weckt Hoffnungen, dass hier eine neue Handelsroute zwischen Ostasien und Nordamerika entstehen könnte. Ein realistisches Szenario? Von M. Ganslmeier.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/huthi-seeblockade-saudi-arabien-100.html",
-      "publishedAt": "2026-07-21T17:32:50.000Z"
+      "url": "https://www.tagesschau.de/ausland/nordwestpassage-kanada-100.html",
+      "publishedAt": "2026-07-22T05:35:58.000Z"
     },
     {
-      "id": "n_4e6670c971",
+      "id": "n_3cbc444895",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Chalil al-Haja: Was die Wahl des neuen Hamas-Chefs bedeutet",
-      "summary": "Nach einer fast zweijährigen Übergangsphase hat die Terrororganisation Hamas einen neuen Anführer. Die Wahl von Chalil al-Haja steht laut Experten für eine Richtungsentscheidung - gegen pragmatischere Strömungen. Von M. Marks.",
+      "headline": "Braunau in Österreich: Hitlers Geburtshaus wird zu Polizeistation",
+      "summary": "Erst ein Schulgebäude, dann ein Standort der Lebenshilfe, zuletzt Leerstand: Lange wurde im österreichischen Braunau diskutiert, was aus dem Geburtshaus von Hitler werden soll. Nun soll die Polizei den Ort \"neutralisieren\". Von D. Freches.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/hamas-neuer-chef-100.html",
-      "publishedAt": "2026-07-21T16:52:50.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/hitler-geburtshaus-polizei-100.html",
+      "publishedAt": "2026-07-22T04:50:17.000Z"
     },
     {
-      "id": "n_b530d02770",
+      "id": "n_a866aff6b9",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Marktbericht: DAX hält sich auf hohem Niveau",
-      "summary": "Mit etwas Rückenwind aus New York hat sich der DAX leicht stabilisiert - und bleibt damit auf hohem Niveau nahe der runden Marke von 25.000 Punkten. Sogar eine positive Überraschung gab es heute.",
+      "headline": "Londoner Polizei: Festnahmen mithilfe von Gesichtserkennung",
+      "summary": "Die Londoner Polizei preist ihre Erfahrungen mit automatisierter Gesichtserkennung. Mehr als 2.000 Gesuchte seien mit ihrer Hilfe festgenommen worden. Nun soll das Projekt ausgerollt werden. Datenschützer sind erschrocken. Von C. Prössl.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-krieg-102.html",
-      "publishedAt": "2026-07-21T16:12:50.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/london-gesichtserkennung-100.html",
+      "publishedAt": "2026-07-22T04:23:02.000Z"
+    },
+    {
+      "id": "n_9f8c6dd203",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "KI-Modelle von OpenAI steckten hinter IT-Angriff auf Hugging Face",
+      "summary": "Bei einem Test der Fähigkeiten neuer KI-Modelle sind die aus ihrer Umgebung ausgebrochen und haben Hugging Face kompromittiert. Das hat OpenAI eingestanden.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/KI-Modelle-von-OpenAI-haben-Cyberangriff-auf-Hugging-Face-autonom-ausgefuehrt-11372797.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-07-22T05:11:00.000Z"
     },
     {
       "id": "n_b35574e35a",
@@ -167,15 +178,70 @@
       "publishedAt": "2026-07-17T08:02:00.000Z"
     },
     {
-      "id": "n_03410db667",
+      "id": "n_89c8808e44",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Google Chrome: Außerplanmäßiges zweites Update in der Woche",
-      "summary": "Google aktualisiert Chrome eigentlich jeden Mittwoch. Diese Woche folgt ein zweites Update, das mehrere kritische Lücken schließt.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Google-Chrome-Ungeplantes-Sicherheitsupdate-Nummer-zwei-in-dieser-Woche-11368362.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-07-17T06:27:00.000Z"
+      "headline": "Jugendschutzgesetz wirkungslos: Australiens Social-Media-Verbot scheitert an Teenagern",
+      "summary": "Eine Studie zeigt: Die Befolgungsquote des Social-Media-Verbots für Jugendliche unter 16 Jahren in Australien sinkt dramatisch. (Social-Media-Verbot, Studien)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/jugendschutzgesetz-wirkungslos-australiens-social-media-verbot-scheitert-an-teenagern-2607-211139.html",
+      "publishedAt": "2026-07-22T07:52:02.000Z"
+    },
+    {
+      "id": "n_debf81b844",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "China: Weltweit größte Hybrid-Solaranlage liefert Energie auch bei Nacht",
+      "summary": "Damit dies funktioniert, wird mit Solarenergie Salz erhitzt, dessen Abwärme über Nacht eine Dampfmaschine antreibt. (Solarenergie, Umweltschutz)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/china-weltweit-groesste-hybrid-solaranlage-liefert-energie-auch-bei-nacht-2607-211135.html",
+      "publishedAt": "2026-07-22T07:20:02.000Z"
+    },
+    {
+      "id": "n_f1bde45c1f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Garmin Instinct 3 Solar mit unbegrenzter Akkulaufzeit zum Bestpreis",
+      "summary": "Die Garmin Instinct 3 Solar (45 mm) ist bei Amazon zum Bestpreis erhältlich und bietet dank Solarladung eine nahezu unbegrenzte Akkulaufzeit. (Smartwatch, GPS)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-garmin-instinct-3-solar-mit-unbegrenzter-akkulaufzeit-zum-bestpreis-2607-211136.html",
+      "publishedAt": "2026-07-22T07:03:02.000Z"
+    },
+    {
+      "id": "n_d9e9ab2268",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Frankreich: Social Media wird ab September für unter 15-Jährige gesperrt",
+      "summary": "Die Französische Nationalversammlung und der Senat haben sich auf ein Gesetz geeinigt, das Jugendlichen unter 15 Jahren den Zugang zu sozialen Netzwerken verbietet. (Soziales Netz, Politik)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/frankreich-social-media-wird-ab-september-fuer-unter-15-jaehrige-gesperrt-2607-211138.html",
+      "publishedAt": "2026-07-22T06:59:02.000Z"
+    },
+    {
+      "id": "n_de91e34fa6",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Bei internen KI-Tests: OpenAI hat versehentlich Hugging Face gehackt",
+      "summary": "Der kürzlich bekannt gewordene Cyberangriff auf Hugging Face kam von OpenAI. Das Unternehmen hatte seine KI-Modelle bei internen Cybertests nicht im Griff. (KI, Cyberwar)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/bei-internen-ki-tests-openai-hat-versehentlich-hugging-face-gehackt-2607-211137.html",
+      "publishedAt": "2026-07-22T06:46:02.000Z"
+    },
+    {
+      "id": "n_e8d523c138",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Booking.com: Geschäftsmodell Endreinigung",
+      "summary": "Wie Ferienhausanbieter auf Booking.com den Preis nach der Buchung durch Pflichtgebühren massiv erhöhen. Eine Recherche von Markus Feilner (Reisen, Elektroauto)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/booking-com-geschaeftsmodell-endreinigung-2607-211054.html",
+      "publishedAt": "2026-07-22T06:24:01.000Z"
     },
     {
       "id": "n_549a1b1a81",
@@ -183,7 +249,7 @@
       "topic": "tech",
       "lang": "de",
       "headline": "Mattel Film: Masters of the Universe gratis bei Prime Video",
-      "summary": "Amazon MGM Studios wechselt zum digitalen Vertrieb: Ab Mittwoch, 22. Juli 2026, ist Masters of the Universe weltweit direkt im Abo auf Amazon Prime Video verfügbar. (Prime Video, Digitalkino)",
+      "summary": "Amazon MGM Studios wechselt zum digitalen Vertrieb: Ab dem heutigen Mittwoch ist Masters of the Universe weltweit im Abo auf Amazon Prime Video verfügbar. (Prime Video, Digitalkino)",
       "source": "Golem.de",
       "url": "https://www.golem.de/news/mattel-film-masters-of-the-universe-ab-morgen-gratis-bei-prime-video-2607-211131.html",
       "publishedAt": "2026-07-21T20:24:02.000Z"
@@ -200,70 +266,26 @@
       "publishedAt": "2026-07-21T16:49:01.000Z"
     },
     {
-      "id": "n_da5eb71307",
+      "id": "n_e08dce5b34",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: 16,1 Zoll großer Portable Monitor mit Full-HD-Auflösung für unter 90 Euro",
-      "summary": "Der unter Amazon-Kunden beliebte Arzopa Z1C ist im befristeten Angebot zum Tiefpreis erhältlich. Weniger als jetzt kostet er selten. (TV & Monitore, Display)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-16-1-zoll-grosser-portable-monitor-mit-full-hd-aufloesung-fuer-unter-90-euro-2607-211129.html",
-      "publishedAt": "2026-07-21T16:23:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "More warehouses of Russian online retailer Wildberries hit by Ukraine, officials say",
+      "summary": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight on Tuesday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-22T07:38:20.000Z"
     },
     {
-      "id": "n_caaf7a134e",
+      "id": "n_6e1127131d",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Bluetooth-Kopfhörer von Anker Soundcore bei Amazon günstig wie am Prime Day",
-      "summary": "Bei Amazon sind In-Ear-Kopfhörer von Anker Soundcore jetzt zu Preisen wie am Prime Day erhältlich. Diesmal gilt der Preis allerdings für alle. (Kopfhörer, Audio/Video)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-bluetooth-kopfhoerer-von-anker-soundcore-bei-amazon-guenstig-wie-am-prime-day-2607-211127.html",
-      "publishedAt": "2026-07-21T15:38:08.000Z"
-    },
-    {
-      "id": "n_8ec704e008",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Zölle: Käufer wollen Geld zurück - Nintendo sagt Nein",
-      "summary": "Einige Spieler verlangen eine Rückzahlung, falls Nintendo bereits gezahlte US-Strafzölle vom Staat zurückerhält. Das Unternehmen wehrt sich. (Nintendo, Spiele)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/zoelle-kaeufer-wollen-geld-zurueck-nintendo-sagt-nein-2607-211123.html",
-      "publishedAt": "2026-07-21T14:54:01.000Z"
-    },
-    {
-      "id": "n_d7b81685f4",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Elektronische Parkscheibe mit Solar für nur 20,79 Euro bei Amazon",
-      "summary": "Amazon hat eine elektronische Parkscheibe im Angebot, die die Parkzeit automatisch einstellt und dank Solarunterstützung lange läuft. (Technik/Hardware)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-elektronische-parkscheibe-mit-solar-fuer-nur-20-79-euro-bei-amazon-2607-211125.html",
-      "publishedAt": "2026-07-21T14:44:01.000Z"
-    },
-    {
-      "id": "n_9bba39d873",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Bürgerenergie: Warum Energy Sharing in Österreich funktioniert",
-      "summary": "In Österreich teilt man Energie lokal, auf Bundesebene, zwischen Nachbarn oder via Onlineplattform. Das hat nicht nur technische Gründe. Von Mario Petzold (Strom, Solarenergie)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/buergerenergie-warum-energy-sharing-in-oesterreich-funktioniert-2607-211114.html",
-      "publishedAt": "2026-07-21T14:38:01.000Z"
-    },
-    {
-      "id": "n_5260d8a11e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Scheppach-Werkzeugkoffer mit 173 Teilen zum neuen Bestpreis für unter 80 Euro bei Amazon",
-      "summary": "Der Scheppach TB173 packt 173 Werkzeuge aus Chrom-Vanadium-Stahl zum neuen Bestpreis in einen 6,3-kg-Koffer. (Technik/Hardware, Bosch)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-scheppach-werkzeugkoffer-mit-173-teilen-zum-neuen-bestpreis-fuer-unter-80-euro-bei-amazon-2607-211126.html",
-      "publishedAt": "2026-07-21T14:28:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Japan temperatures soar over 40C, marking first 'cruelly hot day'",
+      "summary": "The term was introduced in April by the weather agency to describe days when temperatures reach 40C.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rz07grngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-22T07:00:24.000Z"
     },
     {
       "id": "n_4ce2c9e1e4",
@@ -274,95 +296,62 @@
       "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T23:59:34.000Z"
+      "publishedAt": "2026-07-22T05:37:43.000Z"
     },
     {
-      "id": "n_31d16025de",
+      "id": "n_c2a32cb73b",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-      "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
+      "headline": "Rebel Wilson cleared in defamation case brought by actress in her own film",
+      "summary": "Wilson was accused of defaming young Australian actress Charlotte MacInnes, but cleared by a Sydney court.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T18:07:34.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c80nv4eevero?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-22T05:33:04.000Z"
     },
     {
-      "id": "n_eadcf94226",
+      "id": "n_0e7091949c",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
-      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+      "headline": "Meet the women breaking world records in lumberjack sports",
+      "summary": "The BBC finds out what is driving the sports' increasing popularity with women and what it takes to be the best.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T17:33:22.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c6293zk14njo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-22T05:06:35.000Z"
     },
     {
-      "id": "n_403f1f71e2",
+      "id": "n_48ff62bff3",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Two French firefighters die tackling blaze near Bordeaux airport",
-      "summary": "The blaze close to the parking lots at Bordeaux-Mérignac Airport is said to have originated from a brush fire.",
+      "headline": "Beluga whales relocated from closed Canadian marine park arrive in US",
+      "summary": "Six beluga whales have arrived in the US after being moved from a Canadian marine park that could no longer care for them.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy0j9yyed1lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T16:44:30.000Z"
+      "url": "https://www.bbc.co.uk/news/videos/ckg4x8lpe50o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-22T05:03:42.000Z"
     },
     {
-      "id": "n_d299f4599f",
+      "id": "n_85229a18fb",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
+      "headline": "France passes law banning under-15s from social media",
+      "summary": "The law will require social media platforms in France to verify all users age from January.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T16:10:56.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-22T03:50:55.000Z"
     },
     {
-      "id": "n_68f67680e0",
+      "id": "n_5aa0ecfc23",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Brazil's Amazon sees sharp decline in size of area burned in 2025",
-      "summary": "The amount of land burned in the world's largest rainforest was the smallest since MapBiomas records began in 1985.",
+      "headline": "Michelin-starred restaurateur faces jail for using ants as dessert garnish",
+      "summary": "Officials say the restaurant in South Korea used some 49,000 ants in various dishes over four years.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx78eplqqlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T15:57:29.000Z"
-    },
-    {
-      "id": "n_0277db438e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Israeli strikes in Gaza kill 12, including family of six, medics say",
-      "summary": "Firas al-Masri, his wife and their four children died in one attack, which the Israeli military says targeted a Hamas operative.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T15:54:11.000Z"
-    },
-    {
-      "id": "n_e3ec262ec6",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Watch Texas police officer pull man from burning car",
-      "summary": "Bodycam and dashcam footage shows a police officer rescue a man seconds before his car was engulfed in flames in Texas.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/clyej920j5po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T13:01:09.000Z"
-    },
-    {
-      "id": "n_a311ebb8f9",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Will AI help you do your job or replace you?",
-      "summary": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T23:04:42.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-22T03:32:56.000Z"
     },
     {
       "id": "n_82fb0002ba",
@@ -440,6 +429,17 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-17T16:53:04.000Z"
+    },
+    {
+      "id": "n_a231404316",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Trump Media to sell instant access to 'market-moving' social posts",
+      "summary": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-17T07:25:31.000Z"
     },
     {
       "id": "n_dd5b31d5f9",
@@ -530,6 +530,28 @@
       "publishedAt": "2026-07-21T17:33:14.000Z"
     },
     {
+      "id": "n_fcb6886118",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+      "summary": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "publishedAt": "2026-07-22T08:00:00.000Z"
+    },
+    {
+      "id": "n_fedcdccad6",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "publishedAt": "2026-07-22T03:20:57.000Z"
+    },
+    {
       "id": "n_a749668288",
       "type": "news",
       "topic": "ai",
@@ -594,28 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
       "publishedAt": "2026-07-21T17:11:50.000Z"
-    },
-    {
-      "id": "n_a837463434",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "US threatens sanctions against Chinese AI models over IP theft",
-      "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-      "publishedAt": "2026-07-21T15:37:05.000Z"
-    },
-    {
-      "id": "n_0a6ee92cfb",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
-      "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-      "publishedAt": "2026-07-21T13:27:42.000Z"
     },
     {
       "id": "n_4509519814",
