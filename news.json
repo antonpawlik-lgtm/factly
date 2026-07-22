@@ -1,27 +1,60 @@
 {
-  "generatedAt": "2026-07-22T10:56:36.243Z",
+  "generatedAt": "2026-07-22T13:16:48.835Z",
   "items": [
     {
-      "id": "n_1c4d9cb034",
+      "id": "n_fca6b310c2",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Proteste in Indien: Modi hat ein \"Kakerlaken\"-Problem",
-      "summary": "Was als Internet-Meme begann, hat sich in Indien zu einer großen Protestbewegung entwickelt. Die \"Kakerlaken\" erhöhen weiter den Druck auf die Regierung Modi - und bekommen inzwischen Rückendeckung aus der Opposition. Von F. Amler.",
+      "headline": "Könnten KI-gestützte Hackerangriffe zur neuen Gefahr werden?",
+      "summary": "Erstmals ist ein KI-System eigenständig aus einer Testumgebung ausgebrochen und hat ein anderes Unternehmen angegriffen. Welche Risiken stecken dahinter? Wie können sich Firmen und Privatpersonen schützen? Von Michelle Goddemeier.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/indien-kakerlaken-100.html",
-      "publishedAt": "2026-07-22T10:52:50.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/ki-hackerangriff-folgen-100.html",
+      "publishedAt": "2026-07-22T13:04:19.000Z"
     },
     {
-      "id": "n_6e9306ea35",
+      "id": "n_6db97e09bb",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Reichsbürger-Gruppe \"Königreich Deutschland\": Mutmaßliche Anführer angeklagt",
-      "summary": "Seit Mai 2025 ist die Reichsbürger-Gruppe \"Königreich Deutschland\" verboten. Jetzt hat die Bundesanwaltschaft Anklage gegen vier mutmaßliche Köpfe der Gruppierung erhoben - darunter auch der sogenannte \"Oberste Souverän\" Peter Fitzek.",
+      "headline": "Millionenprozess: Bonner Landgericht weist Klage wegen Corona-Masken ab",
+      "summary": "Eine Hamburger Firma forderte im Prozess um Corona-Masken fast eine halbe Milliarde Euro vom Bund. Denn der damalige Gesundheitsminister Spahn habe mehr als 350 Millionen Masken bestellt, so die Begründung. Heute ist das Urteil gefallen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/anklage-reichsbuerger-anfuehrer-100.html",
-      "publishedAt": "2026-07-22T10:36:38.000Z"
+      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-urteil-bei-maskenprozess-landgericht-bonn-weist-millionenklage-gegen-bund-ab-100.html",
+      "publishedAt": "2026-07-22T12:56:00.000Z"
+    },
+    {
+      "id": "n_08983e4dc6",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Galeria prüft mögliche Schließungen von 33 Filialen",
+      "summary": "Beschäftigte der angeschlagene Kaufhauskette Galeria müssen erneut um ihre Zukunft bangen: An insgesamt 33 Standorten will das Unternehmen den Fortbestand seiner Filialen prüfen. Ein Überblick, wo Schließungen drohen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/galeria-filialen-pruefstand-schliessung-100.html",
+      "publishedAt": "2026-07-22T12:53:35.000Z"
+    },
+    {
+      "id": "n_3a2c47a88b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Großeinsatz in JVA Siegburg - Aufstand geplant?",
+      "summary": "Andeutungen eines Inhaftierten haben in einer Justizvollzugsanstalt in Nordrhein-Westfalen einen Großeinsatz der Polizei ausgelöst. War ein gewaltsamer Aufstand geplant?",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/polizeieinsatz-jva-siegburg-100.html",
+      "publishedAt": "2026-07-22T12:48:37.000Z"
+    },
+    {
+      "id": "n_aab38cfa44",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Steigende Kraftstoffpreise: Reiche gegen neuen Tankrabatt",
+      "summary": "Der Tankrabatt ist ausgelaufen, die Lage im Nahen Osten spitzt sich zu und die Preise an den Zapfsäulen steigen wieder: Trotzdem schließt Wirtschaftsministerin Reiche weitere staatliche Eingriffe aus.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/reiche-gegen-tankrabatt-preisdeckel-100.html",
+      "publishedAt": "2026-07-22T12:44:26.000Z"
     },
     {
       "id": "n_d1ad13e531",
@@ -32,62 +65,29 @@
       "summary": "An vielen Orten in Europa zeigt sich der Klimawandel in extremer Form: Waldbrände auf Sizilien breiten sich bei Temperaturen um 45 Grad aus. In Frankreich sterben zwei Feuerwehrleute, Hunderte Menschen müssen fliehen.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-frankreich-sizilien-spanien-100.html",
-      "publishedAt": "2026-07-22T09:57:28.000Z"
+      "publishedAt": "2026-07-22T12:27:12.000Z"
     },
     {
-      "id": "n_b757754787",
+      "id": "n_f6aac8453b",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Verdacht auf Cum-Cum-Geschäfte: Ermittler durchsuchen Deutsche Bank",
-      "summary": "Ermittler durchsuchen seit dem Morgen Büros der Deutschen Bank: Es geht um möglicherweise rechtswidrige Steuergeschäfte der Postbank. Der Schaden für den Fiskus soll sich auf Hunderte Millionen Euro belaufen, so der Verdacht. Von P. Blum und V. von Ondarza.",
+      "headline": "Airbus begeistert die Anleger",
+      "summary": "Airbus hat sich neue ehrgeizige Ziele gesetzt. Getragen von einer hohen Nachfrage nach Fracht- und Passagierflugzeugen soll der Gewinn des DAX-Konzerns bis 2029 deutlich steigen. Die Börse ist begeistert.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/investigativ/ndr-wdr/razzia-deutsche-bank-cum-cum-100.html",
-      "publishedAt": "2026-07-22T09:55:11.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/mittags-mb-airbus-100.html",
+      "publishedAt": "2026-07-22T11:52:54.000Z"
     },
     {
-      "id": "n_71a820562f",
+      "id": "n_1c4d9cb034",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Anschläge in Norwegen vor 15 Jahren: \"Das Trauma sitzt in deinem Körper\"",
-      "summary": "15 Jahre nach dem rechtsextremistischen Anschlag in Norwegen gedenkt das Land mit einem neuen Denkmal der Opfer. Die damals 17-jährige Hanne überlebte den Anschlag auf der Insel Utøya. Das Trauma begleitet sie bis heute. Von E. Kuch.",
+      "headline": "Proteste in Indien: Modi hat ein \"Kakerlaken\"-Problem",
+      "summary": "Was als Internet-Meme begann, hat sich in Indien zu einer großen Protestbewegung entwickelt. Die \"Kakerlaken\" erhöhen weiter den Druck auf die Regierung Modi - und bekommen inzwischen Rückendeckung aus der Opposition. Von F. Amler.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/norwegen-erinnerung-anschlag-utoya-100.html",
-      "publishedAt": "2026-07-22T09:30:05.000Z"
-    },
-    {
-      "id": "n_86da78c2be",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Samsung erwägt Milliarden-Investment bei KI-Start-up Mistral",
-      "summary": "Der französische KI-Entwickler Mistral könnte bald einen weiteren prominenten Investor gewinnen. Medienberichten zufolge prüft der südkoreanische Chipkonzern Samsung einen Einstieg in Milliardenhöhe.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/samsung-ki-investition-mistral-100.html",
-      "publishedAt": "2026-07-22T09:23:40.000Z"
-    },
-    {
-      "id": "n_983b241f58",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Iran-Krieg: Erstmals wieder Luftalarm in Teheran",
-      "summary": "Auch in der vergangenen Nacht hat die US-Armee Iran mit einer Welle von Angriffen überzogen. Erstmals seit dem jüngsten Aufflammen des Krieges war auch in der Hauptstadt Teheran wieder Luftalarm zu hören.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/teheran-iran-usa-100.html",
-      "publishedAt": "2026-07-22T09:10:09.000Z"
-    },
-    {
-      "id": "n_26fdafb07a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "So will die Bundesregierung deutsche Start-ups fördern",
-      "summary": "36 Seiten, 150 Maßnahmen: Mit einer neuen Strategie will die Bundesregierung neu gegründeten Unternehmen zum Durchbruch verhelfen - und verhindern, dass sie ins Ausland abwandern. Wie soll das gelingen?",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/start-up-strategie-bundesregierung-102.html",
-      "publishedAt": "2026-07-22T08:46:28.000Z"
+      "url": "https://www.tagesschau.de/ausland/asien/indien-kakerlaken-100.html",
+      "publishedAt": "2026-07-22T10:52:50.000Z"
     },
     {
       "id": "n_9f8c6dd203",
@@ -178,92 +178,103 @@
       "publishedAt": "2026-07-17T08:02:00.000Z"
     },
     {
-      "id": "n_94763e0be0",
+      "id": "n_374fc56a51",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Ubuntu: Root-Lücke in snapd gefährdet unzählige Linux-Systeme",
-      "summary": "Zwei Race Conditions in snap-confine verleihen Angreifern unter Linux Root-Zugriff. Mehrere Ubuntu-Versionen sind per Default anfällig. (Sicherheitslücke, Ubuntu)",
+      "headline": "Neue Galaxy Watches: Samsungs neue Galaxy Watch Ultra 2 kommt mit Trinkerinnerung",
+      "summary": "Samsung bringt zwei neue Smartwatches - und behält die Trennung zwischen Sport- und Freizeituhr bei. Die Preise starten bei 409 Euro. (Samsung, Smartwatch)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/ubuntu-root-luecke-in-snapd-gefaehrdet-unzaehlige-linux-systeme-2607-211151.html",
-      "publishedAt": "2026-07-22T10:54:05.000Z"
+      "url": "https://www.golem.de/news/neue-galaxy-watches-samsungs-neue-galaxy-watch-ultra-2-kommt-mit-trinkerinnerung-2607-211163.html",
+      "publishedAt": "2026-07-22T13:10:02.000Z"
     },
     {
-      "id": "n_a8e7c71977",
+      "id": "n_0ee85f74f6",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Großes Display für Apple Carplay und Android Auto für Prime-Mitglieder jetzt 55 Euro ...",
-      "summary": "Das Krunia-Carplay-Display bringt Apple Carplay, Android Auto und Rückfahrkamera ins Auto. Jetzt für Prime-Mitglieder mit starkem Rabatt. (Technik/Hardware)",
+      "headline": "Neue Fold-Modelle im Hands-on: Samsung bietet die volle Falter-Dröhnung",
+      "summary": "Samsungs neues Galaxy Z Fold 8 kommt im Reisepass-Format - und bietet damit einen Kompromiss zwischen dem neuen Fold 8 Ultra und dem Flip 8. Ein Hands-on von Tobias Költzsch (Samsung, Smartphone)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-grosses-display-fuer-apple-carplay-und-android-auto-fuer-prime-mitglieder-jetzt-55-euro-guenstiger-2607-211152.html",
-      "publishedAt": "2026-07-22T10:45:02.000Z"
+      "url": "https://www.golem.de/news/neue-fold-modelle-im-hands-on-samsung-bietet-die-volle-falter-droehnung-2607-211069.html",
+      "publishedAt": "2026-07-22T13:00:02.000Z"
     },
     {
-      "id": "n_7646a38977",
+      "id": "n_2d85f981d7",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Ask me anything am 29.7.: Selbstständig in der IT? Stellt eure Fragen unseren Experten!",
-      "summary": "Stundensatz, der erste Kunde, Formalkram: In unserem Live-Video-AMA am 29. Juli könnt ihr den IT-Unternehmer Pierre Wilken alles rund ums IT-Freelancertum fragen. (Arbeit, Wirtschaft)",
+      "headline": "Anzeige: 4K-Webcam von Ugreen für nur 29,99 Euro bei Amazon",
+      "summary": "Eine Webcam von Ugreen mit 4K-Auflösung, automatischer Lichtkorrektur und Rauschunterdrückung gibt es bei Amazon zum Tiefpreis. (Webcam, Ultra-HD)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/ask-me-anything-am-29-7-selbststaendig-in-der-it-stellt-eure-fragen-unseren-experten-2607-210634.html",
-      "publishedAt": "2026-07-22T10:42:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-4k-webcam-von-ugreen-fuer-nur-29-99-euro-bei-amazon-2607-211157.html",
+      "publishedAt": "2026-07-22T12:00:01.000Z"
     },
     {
-      "id": "n_0ed4033610",
+      "id": "n_fa9bdf51af",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Xbox: Microsoft will Support für gehackte Konten verbessern",
-      "summary": "Laut einem Bericht arbeitet Microsoft an besseren Prozessen für gehackte Konten. Bislang konnten Betroffene dauerhaft den Zugriff verlieren. (Microsoft, Spiele)",
+      "headline": "KI statt Kino: Musk will eigene Odyssee per KI bis Jahresende drehen",
+      "summary": "Elon Musk plant eine KI-Verfilmung der Odyssee. Sie soll noch 2026 erscheinen und historisch korrekt sein. (Grok, Film)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/xbox-microsoft-will-support-fuer-gehackte-konten-verbessern-2607-211149.html",
-      "publishedAt": "2026-07-22T10:35:02.000Z"
+      "url": "https://www.golem.de/news/ki-statt-kino-musk-will-eigene-odyssee-per-ki-bis-jahresende-drehen-2607-211156.html",
+      "publishedAt": "2026-07-22T11:47:02.000Z"
     },
     {
-      "id": "n_879655995c",
+      "id": "n_9d582e5a51",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Folgeschäden nicht eingerechnet: Jeder Hitzetag kostet IT-Branche 17 Millionen Euro",
-      "summary": "Die große Menge an IT-Beschäftigten und die Herausforderungen für die kognitive Arbeit bei Hitze verursachen Folgekosten in weiteren Branchen. Ein Bericht von Mike Faust (Arbeit, Studien)",
+      "headline": "Anzeige: Massiver 360-Grad-Laptop-Ständer fällt im Preis auf unter 50 Euro",
+      "summary": "Wer täglich stundenlang auf den Laptop-Bildschirm hinabschaut, kennt Nacken- und Rückenschmerzen nur zu gut. Amazon reduziert aktuell Laptop-Ständer auf unter 50 Euro. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/folgeschaeden-nicht-eingerechnet-jeder-hitzetag-kostet-it-branche-17-millionen-euro-2607-211118.html",
-      "publishedAt": "2026-07-22T10:22:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-massiver-360-grad-laptop-staender-faellt-im-preis-auf-unter-50-euro-2607-211153.html",
+      "publishedAt": "2026-07-22T11:45:02.000Z"
     },
     {
-      "id": "n_bf10678969",
+      "id": "n_e84fad6356",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "ME-South-1: Iran will AWS-Instanz in Bahrain zerstört haben",
-      "summary": "Der Iran will die AWS-Rechenzentren in Bahrain mit Marschflugkörpern zerstört haben. Der Angriff wurde von den USA, Amazon oder unabhängiger Seite bislang weder bestritten noch verifiziert. (AWS, Web Service)",
+      "headline": "(g+) Freie Office-Suite für den Desktop: Collabora schließt zur Konkurrenz auf",
+      "summary": "Mit Version 26.04 bringt die webbasierte Office-Suite für Nextcloud & Co. viele überfällige Neuerungen. Einige Details sind jedoch noch undurchdacht. Ein Test von Erik Bärwaldt (Office-Suite, API)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/me-south-1-iran-will-aws-instanz-in-bahrain-zerstoert-haben-2607-211150.html",
-      "publishedAt": "2026-07-22T10:15:02.000Z"
+      "url": "https://www.golem.de/news/freie-office-suite-fuer-den-desktop-collabora-schliesst-zur-konkurrenz-auf-2607-211082.html",
+      "publishedAt": "2026-07-22T11:30:02.000Z"
     },
     {
-      "id": "n_68055005bf",
+      "id": "n_5737db6c2f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: KI-Agenten im Unternehmen: Workshop mit Praxisdemos",
-      "summary": "KI-Agenten versprechen mehr Autonomie als Chatbots. Für Unternehmen zählt, ob Sicherheit, Kosten und Nutzen belastbar sind. Ein Workshop ordnet die Praxis ein. (Golem Karrierewelt, Programmiersprachen)",
+      "headline": "Gas statt Batterien: Technologieoffen ist Auschreibung zu Reservekraftwerken nicht",
+      "summary": "Die Bundesnetzagentur schreibt 4,5 Gigawatt Reserveleistung aus. Batteriespeicher werden dabei auf fast absurde Weise benachteiligt. (Bundesnetzagentur, Energiewende)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-ki-agenten-im-unternehmen-workshop-mit-praxisdemos-2607-209735.html",
-      "publishedAt": "2026-07-22T09:49:02.000Z"
+      "url": "https://www.golem.de/news/gas-statt-batterien-technologieoffen-ist-auschreibung-zu-reservekraftwerken-nicht-2607-211155.html",
+      "publishedAt": "2026-07-22T11:20:02.000Z"
     },
     {
-      "id": "n_0b8f0eb284",
+      "id": "n_51b8a5669c",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Upscaler: Nvidia verspricht mehr Kontrolle über DLSS 5",
-      "summary": "Nach Kritik an der neuen KI-Technik erklärt Nvidia erstmals ausführlich, wie DLSS 5 funktionieren soll. (DLSS, Nvidia)",
+      "headline": "Anzeige: Beliebtes Samsung Galaxy Tab für unter 200 Euro bei Amazon",
+      "summary": "Amazon hat das Samsung Galaxy Tab A11+ im Angebot, das mit 11''-Display, Octa-Core-Prozessor und Dolby-Atmos-Lautsprechern überzeugt. (Galaxy Tab, Samsung)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/upscaler-nvidia-verspricht-mehr-kontrolle-ueber-dlss-5-2607-211148.html",
-      "publishedAt": "2026-07-22T09:24:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-beliebtes-samsung-galaxy-tab-fuer-unter-200-euro-bei-amazon-2607-211146.html",
+      "publishedAt": "2026-07-22T11:05:01.000Z"
+    },
+    {
+      "id": "n_7e875643c8",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Police station opens at Hitler's birthplace in bid to rid site of Nazi link",
+      "summary": "The opening follows years of controversy about what to do with the 17th-Century former inn, where the Nazi dictator was born.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-22T12:32:13.000Z"
     },
     {
       "id": "n_2ab9c18182",
@@ -274,7 +285,18 @@
       "summary": "Daniel Siad, whose name appears in the Epstein files thousands of times, had previously denied knowledge of the threat Jeffrey Epstein posed.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-22T10:40:14.000Z"
+      "publishedAt": "2026-07-22T12:08:41.000Z"
+    },
+    {
+      "id": "n_042067488c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Cocaine worth $370m seized in Liberia's biggest-ever drugs bust",
+      "summary": "The seizure follows a long-running investigation into drug-trafficking networks, police say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl3zgr3v4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-22T11:32:11.000Z"
     },
     {
       "id": "n_4feeb7425b",
@@ -285,7 +307,7 @@
       "summary": "Thousands of mostly young people tried to march on India's parliament to demand changes to how the education system is run.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-22T10:18:32.000Z"
+      "publishedAt": "2026-07-22T11:30:59.000Z"
     },
     {
       "id": "n_d27a33d94c",
@@ -310,17 +332,6 @@
       "publishedAt": "2026-07-22T10:00:04.000Z"
     },
     {
-      "id": "n_7e875643c8",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Police station opens at Hitler's birthplace in bid to rid site of Nazi link",
-      "summary": "The opening follows years of controversy about what to do with the 17th-Century former inn, where the Nazi dictator was born.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-22T08:38:21.000Z"
-    },
-    {
       "id": "n_c3ccc63a85",
       "type": "news",
       "topic": "general",
@@ -343,17 +354,6 @@
       "publishedAt": "2026-07-22T07:00:24.000Z"
     },
     {
-      "id": "n_f3acc1f795",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Tunnel collapse in India kills 12 workers",
-      "summary": "Rescue operation is ongoing but hazardous conditions have hampered efforts to reach those still inside.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c80nv79204eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-22T05:38:22.000Z"
-    },
-    {
       "id": "n_023141ecda",
       "type": "news",
       "topic": "tech",
@@ -362,7 +362,7 @@
       "summary": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-22T10:21:15.000Z"
+      "publishedAt": "2026-07-22T11:40:11.000Z"
     },
     {
       "id": "n_82fb0002ba",
@@ -530,6 +530,17 @@
       "publishedAt": "2026-07-21T17:33:14.000Z"
     },
     {
+      "id": "n_b7e6966e47",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "publishedAt": "2026-07-22T10:00:00.000Z"
+    },
+    {
       "id": "n_fcb6886118",
       "type": "news",
       "topic": "ai",
@@ -607,22 +618,22 @@
       "publishedAt": "2026-07-21T18:06:38.000Z"
     },
     {
-      "id": "n_ec57ba11b1",
+      "id": "n_cd499e47d0",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Google releases three new Gemini models — but no 3.5 Pro",
-      "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-      "publishedAt": "2026-07-21T17:11:50.000Z"
+      "headline": "Meta made its own AI detection system. It should have just used Google’s",
+      "summary": "Content Seal sounds a lot like a less accessible and reliable version of SynthID. | Image: Meta / The Verge IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI conten",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+      "publishedAt": "2026-07-22T11:00:00.000Z"
     },
     {
       "id": "n_cd41dfa172",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Utility companies are promising to spare us from AI’s energy bill",
+      "headline": "Utility companies promise to spare us from AI’s energy bill",
       "summary": "The pledge was introduced in March, and has done little to quell concerns so far. | Image: Cath Virginia / The Verge, Getty Images In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in",
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables",
       "publishedAt": "2026-07-21T13:00:00.000Z"
-    },
-    {
-      "id": "n_ed3452d70a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "America needs to stop getting shocked by Chinese AI",
-      "summary": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, Monday, July 20, 2026. | Image: LONG WEI/ Feature China/Future Publishing via Getty Images Last week, two Chinese AI companies unveiled models they",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
-      "publishedAt": "2026-07-21T11:08:56.000Z"
     },
     {
       "id": "n_cec1ebe5d2",
