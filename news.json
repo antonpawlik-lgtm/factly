@@ -1,93 +1,115 @@
 {
-  "generatedAt": "2026-07-23T08:07:21.308Z",
+  "generatedAt": "2026-07-23T10:56:59.734Z",
   "items": [
     {
-      "id": "n_7f0dd34847",
+      "id": "n_967d2b19a5",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Treffen der Außenminister: Rubio und Lawrow kommen in Manila zusammen",
-      "summary": "Es sind die ersten Gespräche auf dieser Ebene seit Langem: Die Außenminister der USA und Russlands, Rubio und Lawrow, haben sich persönlich getroffen. Die EU verhängt unterdessen neue Russland-Sanktionen.",
+      "headline": "Rotes Meer: Huthi beschießen Tanker aus Saudi-Arabien",
+      "summary": "Die von Iran unterstützte Huthi-Miliz hat saudi-arabische Öltanker im Roten Meer angegriffen. Die Schiffe hätten gegen das Durchfahrtsverbot verstoßen. Saudi-Arabien spricht von einem Verstoß gegen das Völkerrecht. Von Nina Amin.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/rubio-lawrow-treffen-manila-100.html",
-      "publishedAt": "2026-07-23T07:39:09.000Z"
+      "url": "https://www.tagesschau.de/ausland/asien/huthi-rotes-meer-oeltanker-angriff-100.html",
+      "publishedAt": "2026-07-23T10:55:25.000Z"
     },
     {
-      "id": "n_68281a48a0",
+      "id": "n_43e13c55c6",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Abkommen mit den USA: Das saudische Streben nach Atomkraft",
-      "summary": "Mit der Unterzeichnung eines Atomabkommens mit den USA hat Saudi-Arabien ein lange verfolgtes Ziel erreicht. Atomkraft ist Teil eines größeren Plans, zu dem auch strategische Überlegungen gehören. Von Moritz Behrendt.",
+      "headline": "Mehr als 1.000 Ebola-Tote in Demokratischer Republik Kongo",
+      "summary": "In der Demokratischen Republik Kongo sind inzwischen mehr als 1.000 Menschen an Ebola gestorben. Medikamente und Impfstoffe gibt es für die aktuelle Virusvariante nicht.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/saudi-arabien-atomprogramm-100.html",
-      "publishedAt": "2026-07-23T07:13:29.000Z"
+      "url": "https://www.tagesschau.de/ausland/afrika/ebola-tote-102.html",
+      "publishedAt": "2026-07-23T10:51:01.000Z"
     },
     {
-      "id": "n_151a52d888",
+      "id": "n_ec7182587c",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Waldbrände in Frankreich und Spanien: Tausende in Sicherheit gebracht",
-      "summary": "Im Südwesten Frankreichs sind mehrere Campingplätze und Ortsteile aufgrund von Waldbränden evakuiert worden. Auch in Spanien und Italien mussten Hunderte Menschen vor Bränden in Sicherheit gebracht werden.",
+      "headline": "Reiseverkehr: ADAC warnt vor erhöhter Staugefahr am Wochenende",
+      "summary": "In fast allen Bundesländern sind Sommerferien - und mit ihnen der Reiseverkehr auf den deutschen Straßen. Der ADAC warnt für das bevorstehende Wochenende vor Stau, auch durch Baustellen und Streckensperrungen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-spanien-waldbrand-evakuierungen-100.html",
-      "publishedAt": "2026-07-23T06:41:36.000Z"
+      "url": "https://www.tagesschau.de/inland/gesellschaft/reise-verkehr-sommerferien-deutschland-100.html",
+      "publishedAt": "2026-07-23T10:44:40.000Z"
     },
     {
-      "id": "n_fbbd06287f",
+      "id": "n_4516cfeea4",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Google-Mutter Alphabet erhöht Milliardeninvestitionen in KI",
-      "summary": "Der Google-Mutterkonzern Alphabet hat Umsatz und Gewinn deutlich stärker gesteigert als erwartet. Vor allem das Cloud-Geschäft wächst rasant. Gleichzeitig erhöht der Konzern seine KI-Ausgaben erneut.",
+      "headline": "Wacken Open Air 2026: Zwischen Dorfacker und Wall Street",
+      "summary": "Das Wacken Open Air findet jedes Jahr in einem kleinen Dorf in Schleswig-Holstein statt. Doch längst ist es ein weltweites Ereignis. Mittlerweile sind auch die Besitzverhältnisse international. Was heißt das für das Festival? Von Lornz Lorenzen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/google-cloud-ki-zahlen-investitionen-100.html",
-      "publishedAt": "2026-07-23T06:19:10.000Z"
+      "url": "https://www.tagesschau.de/kultur/heavy-metal-festival-wacken-als-marke-100.html",
+      "publishedAt": "2026-07-23T10:32:17.000Z"
     },
     {
-      "id": "n_5e199fb52d",
+      "id": "n_c1e081ba55",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Bundesregierung spricht nach KI-Hackerangriff von \"Paradigmenwechsel\"",
-      "summary": "Der eigenständige Hackerangriff eines KI-Modells hat die Bundesregierung alarmiert. Die zunehmenden Fähigkeiten Künstlicher Intelligenz verändere auch die Bedrohungslage im Cyberbereich massiv, warnt das Digitalministerium.",
+      "headline": "Klage gegen Bundesregierung: Ehefrau von Deutschem sitzt in Gaza fest",
+      "summary": "Faruk Doghmosh und Mohannd R. bangen um ihre Ehefrauen. Die Partnerinnen der beiden Deutschen sitzen im Gazastreifen fest und kommen nicht raus. Nun klagt das Ehepaar Doghmosh gegen die Bundesregierung. Von T. Friedrich und T. Mandalka.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reaktion-ki-angriff-100.html",
-      "publishedAt": "2026-07-23T05:47:47.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-gaza-klage-100.html",
+      "publishedAt": "2026-07-23T10:29:24.000Z"
     },
     {
-      "id": "n_aa71875477",
+      "id": "n_bfd266f8c2",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Marktbericht: Anleger schwanken zwischen Bilanzen und Ölpreisen",
-      "summary": "Die Berichtssaison in den USA ist in vollem Gange. Anleger schauen genau darauf, ob sich die hohen KI-Investitionen auszahlen. Doch nicht alle Tech-Giganten legen überzeugende Zahlen vor.",
+      "headline": "Verstoß gegen Digitalregeln: EU verhängt Rekordstrafe gegen Google",
+      "summary": "Die EU-Kommission verhängt eine Strafe in Höhe von 890 Millionen Euro gegen Google. Die bekannte Suchmaschine bevorzuge die eigenen Angebote und etabliere unfaire Bedingungen im eigenen Play Store. Von Kathrin Schmid.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-iran-100.html",
-      "publishedAt": "2026-07-23T05:26:58.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/eu-strafe-digitalgesetze-100.html",
+      "publishedAt": "2026-07-23T10:12:57.000Z"
     },
     {
-      "id": "n_33aaabfd54",
+      "id": "n_90fe10a800",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Huthi-Miliz beschießt saudischen Tanker im Roten Meer",
-      "summary": "Am Montag hatte die Huthi-Miliz eine Seeblockade ausgerufen - nun hat sie offenbar einen saudi-arabischen Tanker im Roten Meer attackiert. Die Miliz selbst spricht von noch einem zweiten angegriffenen Schiff.",
+      "headline": "Wadephul: \"Afrika sollte für uns Chancenkontinent sein\"",
+      "summary": "Außenminister Wadephul wirbt im Rahmen seiner Afrika-Reise für mehr Zusammenarbeit. Der Kontinent biete Chancen, aber diese müsse man auch nutzen - denn China sei in der Region bereits jetzt präsent.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/huthi-rotes-meer-104.html",
-      "publishedAt": "2026-07-23T05:12:43.000Z"
+      "url": "https://www.tagesschau.de/ausland/afrika/wadephul-afrika-reise-102.html",
+      "publishedAt": "2026-07-23T09:28:33.000Z"
     },
     {
-      "id": "n_83623fdafe",
+      "id": "n_c9444c5d21",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "EZB-Präsidentin Lagarde: Bleibt sie oder geht sie?",
-      "summary": "Verlässt Lagarde die EZB vor dem Ende ihrer Amtszeit? Vor einer weiteren Zinsentscheidung sind Mitarbeitende irritiert über Spekulationen. Denn die Aufgaben der Notenbank sind nicht erledigt: Die Inflation ist viel zu hoch. Von K.-J. Jackisch.",
+      "headline": "Verfassungsklage wegen Beratungszeit für \"Heizungsgesetz\" abgewiesen",
+      "summary": "Der Zeitplan der damaligen Ampelkoalition für das Gebäudeenergiegesetz im Sommer 2023 war nicht zu knapp. Das hat das Bundesverfassungsgericht entschieden. Im Eilverfahren hatte der klagende CDU-Politiker noch Recht bekommen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-lagarde-104.html",
-      "publishedAt": "2026-07-23T04:30:10.000Z"
+      "url": "https://www.tagesschau.de/inland/gebaeudeenergiegesetz-verfassungsgericht-urteil-100.html",
+      "publishedAt": "2026-07-23T09:15:41.000Z"
+    },
+    {
+      "id": "n_88a201d745",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Google-Verstöße gegen DMA: EU verhängt insgesamt 890 Millionen Euro Strafe",
+      "summary": "Seit Monaten untersucht Brüssel mögliche Verstöße von Google gegen den Digital Markets Act. Jetzt wurden Strafen über zusammen fast 900 Millionen Euro verhängt.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Google-Verstoesse-gegen-DMA-EU-verhaengt-insgesamt-890-Millionen-Euro-Strafe-11375724.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-07-23T10:39:00.000Z"
+    },
+    {
+      "id": "n_a0dd3e4e9c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Thunderbird: Neue ESR-Version mit Exchange-Support",
+      "summary": "Thunderbird 153 „Meadow“ bringt einen neuen Einrichtungsdialog, native Exchange-Anbindung per EWS und mehr Funktionen in Benachrichtigungen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Thunderbird-Neue-ESR-Version-mit-Exchange-Support-11375490.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-07-23T09:44:00.000Z"
     },
     {
       "id": "n_cbf3fb1c36",
@@ -156,114 +178,114 @@
       "publishedAt": "2026-07-20T09:56:00.000Z"
     },
     {
-      "id": "n_3de3b46aa2",
+      "id": "n_6dc49b7933",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "WTF: Billionenbeträge berechnet: Abrechnungsfehler bei Amazon Web Services",
-      "summary": "Kunden wurden plötzlich astronomische Kosten für Amazon Web Services angezeigt. Dahinter steckt ein technischer Fehler.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Billionenbetraege-berechnet-Abrechnungsfehler-bei-Amazon-Web-Services-11370078.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-07-19T15:43:00.000Z"
-    },
-    {
-      "id": "n_56a94ecd80",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Moonshot AI präsentiert Kimi K3: Chinas Antwort auf OpenAI und Anthropic",
-      "summary": "Chinas KI-Start-up Moonshot AI setzt die USA mit seinem neuen Sprachmodell unter Druck. Wie reagieren Washington und das Silicon Valley auf den Wettbewerb?",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Chinas-neuer-KI-Riese-Moonshot-AI-fordert-US-Dominanz-heraus-11369310.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-07-17T12:58:00.000Z"
-    },
-    {
-      "id": "n_6663b19320",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Batteriehersteller: Varta droht Insolvenz und Zerschlagung",
-      "summary": "Da dem Management immer noch ein tragfähiges Konzept fehlt, sollen Gläubiger ihr Geld zurückverlangen. Dem Unternehmen droht damit das Aus. (Akku, Wirtschaft)",
+      "headline": "Streamingabo: Interessenten können Netflix wieder kostenlos ausprobieren",
+      "summary": "Nach fast sechs Jahren können Interessenten in Deutschland Netflix wieder kostenlos testen. Der Probezeitraum variiert neuerdings. (Netflix, Streaming)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/batteriehersteller-varta-droht-insolvenz-und-zerschlagung-2607-211185.html",
-      "publishedAt": "2026-07-23T07:42:01.000Z"
+      "url": "https://www.golem.de/news/streamingabo-interessenten-koennen-netflix-wieder-kostenlos-ausprobieren-2607-211196.html",
+      "publishedAt": "2026-07-23T10:47:02.000Z"
     },
     {
-      "id": "n_79f9a97afa",
+      "id": "n_b71393ac72",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Strange New Worlds Staffel 4: Mutig dorthin gehen, wo noch nie ein Star Trek war",
-      "summary": "Die dritte Staffel kam nicht bei jedem gut an. Fraglich ist, ob die vierte Staffel mehr Erfolg hat. Jedenfalls ist sie spannend. Eine Rezension von Peter Osteried (Star Trek, Science-Fiction)",
+      "headline": "Tokenmaxxing: US-Militär verbrennt KI-Jahresbudget innerhalb eines Monats",
+      "summary": "Das Pentagon hatte Militärangehörigen unbegrenzte Token versprochen und diese zur KI-Nutzung gedrängt. (KI, Politik)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/strange-new-worlds-staffel-4-mutig-dorthin-gehen-wo-noch-nie-ein-star-trek-war-2607-211100.html",
-      "publishedAt": "2026-07-23T07:30:01.000Z"
+      "url": "https://www.golem.de/news/tokenmaxxing-us-militaer-verbrennt-ki-jahresbudget-innerhalb-eines-monats-2607-211193.html",
+      "publishedAt": "2026-07-23T10:35:01.000Z"
     },
     {
-      "id": "n_d5e7fe1acc",
+      "id": "n_c8da04fd7f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "US-Vorwürfe: Moonshot soll auf exportbeschränkte Nvidia-Systeme zugegriffen haben",
-      "summary": "Nach dem Erfolg von Kimi K3 geraten die Methoden des chinesischen KI-Unternehmens Moonshot zunehmend in den Fokus der US-Regierung. (KI, Nvidia)",
+      "headline": "Playstation: Sony hat offenbar mit Disc-Wut gerechnet",
+      "summary": "Laut Ex-Autorin erhielten Mitarbeiter der Playstation Studios vor der Ankündigung ungewöhnlich strenge Vorgaben für öffentliche Äußerungen. (Playstation, Sony)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/us-vorwuerfe-moonshot-soll-auf-exportbeschraenkte-nvidia-systeme-zugegriffen-haben-2607-211184.html",
-      "publishedAt": "2026-07-23T07:13:01.000Z"
+      "url": "https://www.golem.de/news/playstation-sony-hat-offenbar-mit-disc-wut-gerechnet-2607-211195.html",
+      "publishedAt": "2026-07-23T10:15:02.000Z"
     },
     {
-      "id": "n_fc90eded18",
+      "id": "n_a3fd9613cc",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Abonnements für Onstar und Super Cruise: GM baut Softwaregeschäft mit Abo-Modellen aus",
-      "summary": "General Motors baut sein Software- und Abogeschäft aus. Assistenzsysteme und digitale Dienste bringen hohe Margen ein. (General Motors, Auto)",
+      "headline": "Anzeige: iPhone 17 mit Rabattcode extra günstig bei Back Market",
+      "summary": "Das iPhone 17 mit 6,3'' großem 120-Hz-Display, A19-Chip und 18-MP-Frontkamera ist professionell erneuert bei Back Market stark reduziert. (iPhone 17, Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/abonnements-fuer-onstar-und-super-cruise-gm-baut-softwaregeschaeft-mit-abo-modellen-aus-2607-211183.html",
-      "publishedAt": "2026-07-23T06:59:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-iphone-17-mit-rabattcode-extra-guenstig-bei-back-market-2607-211194.html",
+      "publishedAt": "2026-07-23T10:06:01.000Z"
     },
     {
-      "id": "n_e12e5db815",
+      "id": "n_c63c48aa50",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Nach Cyberangriff: Hacker erpressen Zugbauer Stadler um Millionenbetrag",
-      "summary": "Hacker fordern von dem Zughersteller Stadler nach einem IT-Einbruch 10 Millionen Schweizer Franken. Doch Stadler hält sich für \"nicht erpressbar\". (Cybercrime, Cyberwar)",
+      "headline": "Smart Devices im Kinderzimmer: Warum Toy Story 5 ein schlimmer Horrorfilm ist",
+      "summary": "Ein Tablet mit KI übernimmt in Toy Story 5 das Kinderzimmer. Was Pixar hier verniedlicht, ist der blanke Horror für alle Eltern. Eine Rezension von Daniel Pook (Filmkritik, Digitalkino)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/nach-cyberangriff-hacker-erpressen-zugbauer-stadler-um-millionenbetrag-2607-211182.html",
-      "publishedAt": "2026-07-23T06:51:01.000Z"
+      "url": "https://www.golem.de/news/smart-devices-im-kinderzimmer-warum-toy-story-5-ein-schlimmer-horrorfilm-ist-2607-211090.html",
+      "publishedAt": "2026-07-23T10:00:02.000Z"
     },
     {
-      "id": "n_6d8cce1b57",
+      "id": "n_45ecd4d05b",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "KI-Infrastruktur: US-Tech-Konzerne binden Billionen in verdeckten Verträgen",
-      "summary": "Meta, Oracle und Co. lassen 1,65 Billionen US-Dollar KI-Schulden aus ihren Bilanzen verschwinden. (KI, Microsoft)",
+      "headline": "Unerlaubte Preiserhöhung und Aboänderung: Verbraucherschützer beschuldigen Starlink des Rechtsbruchs",
+      "summary": "So geht das nicht, sagen Verbraucherschützer. Starlink hat Abos teurer gemacht und für Kunden ohne Zustimmung ein teureres Abo gebucht. (Starlink, Rechtsstreitigkeiten)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/ki-infrastruktur-us-tech-konzerne-binden-billionen-in-verdeckten-vertraegen-2607-211181.html",
-      "publishedAt": "2026-07-23T06:40:02.000Z"
+      "url": "https://www.golem.de/news/unerlaubte-preiserhoehung-und-aboaenderung-verbraucherschuetzer-beschuldigen-starlink-des-rechtsbruchs-2607-211192.html",
+      "publishedAt": "2026-07-23T09:50:01.000Z"
     },
     {
-      "id": "n_66e718bbbe",
+      "id": "n_7628128e55",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Chuo Shinkansen: Baugenehmigung für Japans Highspeed-Magnetbahn für den Fernverkehr",
-      "summary": "Mit bis zu 500 km/h durch Japan zu rasen wird mit der neuen Magnetschwebebahn Chuo Shinkansen möglich. Die Inbetriebnahme dauert aber noch. (Transrapid, Verkehr)",
+      "headline": "PEGI: EA Sports FC 27 bekommt höhere Altersfreigabe",
+      "summary": "Ultimate Team könnte das Fußballspiel erstmals auf Pegi 16 heben. Hintergrund sind verschärfte Regeln für Lootboxen in Europa. (Jugendschutz, Electronic Arts)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/chuo-shinkansen-baugenehmigung-fuer-japans-highspeed-magnetbahn-fuer-den-fernverkehr-2607-211132.html",
-      "publishedAt": "2026-07-23T06:15:01.000Z"
+      "url": "https://www.golem.de/news/pegi-ea-sports-fc-27-bekommt-hoehere-altersfreigabe-2607-211190.html",
+      "publishedAt": "2026-07-23T09:37:02.000Z"
     },
     {
-      "id": "n_f683878cc3",
+      "id": "n_6cd49679f8",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anduril Thunder: Autonomer Kampfhubschrauber soll extrem tief fliegen können",
-      "summary": "Anduril hat mit Thunder ein unbemanntes Kipprotor-Fluggerät vorgestellt. Es soll künftig gemeinsam mit bemannten Kampfhubschraubern im Tiefflug operieren. (Luftfahrt, Politik)",
+      "headline": "Über Add-on von Adobe: Forscher zeigen Whatsapp-Datenklau mit nur einem Klick",
+      "summary": "Über 300 Millionen Nutzer vertrauen einer Chrome-Erweiterung von Adobe. Angreifer konnten darüber jedoch leicht Whatsapp-Chats ausleiten. (Sicherheitslücke, Browser)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anduril-thunder-autonomer-kampfhubschrauber-soll-extrem-tief-fliegen-koennen-2607-211180.html",
-      "publishedAt": "2026-07-23T05:53:02.000Z"
+      "url": "https://www.golem.de/news/adobe-acrobat-populaeres-chrome-add-on-hat-whatsapp-datenklau-ermoeglicht-2607-211189.html",
+      "publishedAt": "2026-07-23T09:24:02.000Z"
+    },
+    {
+      "id": "n_85bd07a046",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Thousands evacuated in France fires",
+      "summary": "A third firefighter has died in Europe while tackling ongoing wildfires across the continent.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T10:53:43.000Z"
+    },
+    {
+      "id": "n_b9a681b562",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US signs landmark nuclear deal with Saudi Arabia",
+      "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T09:17:50.000Z"
     },
     {
       "id": "n_4e23ac16bf",
@@ -321,17 +343,6 @@
       "publishedAt": "2026-07-23T03:48:27.000Z"
     },
     {
-      "id": "n_b9a681b562",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US signs landmark nuclear deal with Saudi Arabia",
-      "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T00:21:53.000Z"
-    },
-    {
       "id": "n_b3a4117e16",
       "type": "news",
       "topic": "general",
@@ -341,17 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-23T00:15:12.000Z"
-    },
-    {
-      "id": "n_e2725649fb",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Even camels can't cope: Africa's ships of the desert hit by rising temperatures",
-      "summary": "Herders and experts tell the BBC how Africa's camels are suffering because of extreme heat.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxvvw06pqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-22T23:22:53.000Z"
     },
     {
       "id": "n_83a53c3a25",
@@ -860,6 +860,17 @@
       "publishedAt": "2026-07-07T11:10:52.000Z"
     },
     {
+      "id": "n_07a185f1e6",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop",
+      "summary": "With “blessings” from the original Jibo founders, iKairos is a wearable or desk-mounted “AI journal” that turns your family moments into AI images and video.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable/",
+      "publishedAt": "2026-07-23T09:15:00.000Z"
+    },
+    {
       "id": "n_aec56dd379",
       "type": "news",
       "topic": "ai",
@@ -935,17 +946,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/",
       "publishedAt": "2026-07-21T13:00:00.000Z"
-    },
-    {
-      "id": "n_8370f51c54",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "‘It’s a Modern-Day Draft’: Why Stanford Students Walked Out on Sundar Pichai’s Commencement Speech",
-      "summary": "Last month, more than a hundred Stanford students left their own graduation to protest Google’s military contracts and deals with ICE. Two organizers, Amanda Campos and Eva Jones, tell us why.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/",
-      "publishedAt": "2026-07-21T10:30:00.000Z"
     },
     {
       "id": "n_37c9890bc3",
