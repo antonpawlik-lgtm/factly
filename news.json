@@ -1,82 +1,38 @@
 {
-  "generatedAt": "2026-07-23T10:56:59.734Z",
+  "generatedAt": "2026-07-23T13:19:37.612Z",
   "items": [
     {
-      "id": "n_967d2b19a5",
+      "id": "n_f871e886ea",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Rotes Meer: Huthi beschießen Tanker aus Saudi-Arabien",
-      "summary": "Die von Iran unterstützte Huthi-Miliz hat saudi-arabische Öltanker im Roten Meer angegriffen. Die Schiffe hätten gegen das Durchfahrtsverbot verstoßen. Saudi-Arabien spricht von einem Verstoß gegen das Völkerrecht. Von Nina Amin.",
+      "headline": "EZB lässt Leitzins unverändert nach Zinserhöhung im Juni",
+      "summary": "Die Europäische Zentralbank legt eine Zinspause ein. Der für Banken und Sparer wichtige Einlagensatz bleibt bei 2,25 Prozent. Gut möglich jedoch, dass im September die nächste Erhöhung folgt.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/huthi-rotes-meer-oeltanker-angriff-100.html",
-      "publishedAt": "2026-07-23T10:55:25.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinsentscheidung-juli-100.html",
+      "publishedAt": "2026-07-23T13:14:29.000Z"
     },
     {
-      "id": "n_43e13c55c6",
+      "id": "n_085469e3ef",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Mehr als 1.000 Ebola-Tote in Demokratischer Republik Kongo",
-      "summary": "In der Demokratischen Republik Kongo sind inzwischen mehr als 1.000 Menschen an Ebola gestorben. Medikamente und Impfstoffe gibt es für die aktuelle Virusvariante nicht.",
+      "headline": "Wie gerecht ist das Reformpaket der Koalition?",
+      "summary": "Mehr Aufschwung, mehr Beschäftigung - mit ihrem Reformpaket will die Koalition das Land wieder fit machen. Nach der Sommerpause soll es verabschiedet werden. Doch wie gerecht sind die Gesetzentwürfe? Von Frank Aischmann.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/ebola-tote-102.html",
-      "publishedAt": "2026-07-23T10:51:01.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/reformpaket-koalition-100.html",
+      "publishedAt": "2026-07-23T12:38:17.000Z"
     },
     {
-      "id": "n_ec7182587c",
+      "id": "n_65cc86cb86",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Reiseverkehr: ADAC warnt vor erhöhter Staugefahr am Wochenende",
-      "summary": "In fast allen Bundesländern sind Sommerferien - und mit ihnen der Reiseverkehr auf den deutschen Straßen. Der ADAC warnt für das bevorstehende Wochenende vor Stau, auch durch Baustellen und Streckensperrungen.",
+      "headline": "Batteriehersteller in der Krise: Varta soll zerschlagen werden",
+      "summary": "Die Zukunft von Varta ist ungewiss. Beim angeschlagenen Batteriehersteller rückt eine Zerschlagung näher. Die wichtigsten Gläubiger wollen das Geschäft mit Haushaltsbatterien aus dem Konzern herauslösen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/reise-verkehr-sommerferien-deutschland-100.html",
-      "publishedAt": "2026-07-23T10:44:40.000Z"
-    },
-    {
-      "id": "n_4516cfeea4",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wacken Open Air 2026: Zwischen Dorfacker und Wall Street",
-      "summary": "Das Wacken Open Air findet jedes Jahr in einem kleinen Dorf in Schleswig-Holstein statt. Doch längst ist es ein weltweites Ereignis. Mittlerweile sind auch die Besitzverhältnisse international. Was heißt das für das Festival? Von Lornz Lorenzen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kultur/heavy-metal-festival-wacken-als-marke-100.html",
-      "publishedAt": "2026-07-23T10:32:17.000Z"
-    },
-    {
-      "id": "n_c1e081ba55",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Klage gegen Bundesregierung: Ehefrau von Deutschem sitzt in Gaza fest",
-      "summary": "Faruk Doghmosh und Mohannd R. bangen um ihre Ehefrauen. Die Partnerinnen der beiden Deutschen sitzen im Gazastreifen fest und kommen nicht raus. Nun klagt das Ehepaar Doghmosh gegen die Bundesregierung. Von T. Friedrich und T. Mandalka.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-gaza-klage-100.html",
-      "publishedAt": "2026-07-23T10:29:24.000Z"
-    },
-    {
-      "id": "n_bfd266f8c2",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Verstoß gegen Digitalregeln: EU verhängt Rekordstrafe gegen Google",
-      "summary": "Die EU-Kommission verhängt eine Strafe in Höhe von 890 Millionen Euro gegen Google. Die bekannte Suchmaschine bevorzuge die eigenen Angebote und etabliere unfaire Bedingungen im eigenen Play Store. Von Kathrin Schmid.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-strafe-digitalgesetze-100.html",
-      "publishedAt": "2026-07-23T10:12:57.000Z"
-    },
-    {
-      "id": "n_90fe10a800",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wadephul: \"Afrika sollte für uns Chancenkontinent sein\"",
-      "summary": "Außenminister Wadephul wirbt im Rahmen seiner Afrika-Reise für mehr Zusammenarbeit. Der Kontinent biete Chancen, aber diese müsse man auch nutzen - denn China sei in der Region bereits jetzt präsent.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/wadephul-afrika-reise-102.html",
-      "publishedAt": "2026-07-23T09:28:33.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/varta-batterieunternehmen-zerschlagung-100.html",
+      "publishedAt": "2026-07-23T12:36:10.000Z"
     },
     {
       "id": "n_c9444c5d21",
@@ -87,7 +43,51 @@
       "summary": "Der Zeitplan der damaligen Ampelkoalition für das Gebäudeenergiegesetz im Sommer 2023 war nicht zu knapp. Das hat das Bundesverfassungsgericht entschieden. Im Eilverfahren hatte der klagende CDU-Politiker noch Recht bekommen.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/gebaeudeenergiegesetz-verfassungsgericht-urteil-100.html",
-      "publishedAt": "2026-07-23T09:15:41.000Z"
+      "publishedAt": "2026-07-23T12:13:17.000Z"
+    },
+    {
+      "id": "n_e96adaebd5",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach schweren Gefechten: Thailand baut Grenzzaun zu Kambodscha",
+      "summary": "Nach den schweren Gefechten des vergangenen Jahres schafft Thailand Fakten: Entlang der Grenze zu Kambodscha steht der erste Abschnitt eines dauerhaften Grenzzauns. Das Nachbarland reagiert bislang zurückhaltend.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/thailand-kambodscha-grenzzaun-100.html",
+      "publishedAt": "2026-07-23T12:09:59.000Z"
+    },
+    {
+      "id": "n_f318b1b190",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "UniCredit steht kurz vor Commerzbank-Übernahme",
+      "summary": "Die italienische Großbank UniCredit steht kurz vor der Übernahme der Commerzbank. Bankchef Orcel sucht dazu jetzt das Gespräch mit allen Beteiligten. Willkommen ist er allerdings nicht.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-unicredit-100.html",
+      "publishedAt": "2026-07-23T11:37:35.000Z"
+    },
+    {
+      "id": "n_fc5ed19614",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wohnungsbau in Deutschland fällt auf 15-Jahrestief",
+      "summary": "Trotz Wohnraummangels dürfte die Zahl der fertiggestellten Wohnungen in Deutschland weiter sinken. Das ifo Institut rechnet für 2026 mit nur noch 185.000 neuen Wohnungen. Erholung ist kaum in Sicht.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wohnungsbau-deutschland-sinkt-100.html",
+      "publishedAt": "2026-07-23T11:34:49.000Z"
+    },
+    {
+      "id": "n_151a52d888",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Waldbrände in Frankreich und Spanien: Tausende in Sicherheit gebracht",
+      "summary": "Im Südwesten Frankreichs sind mehrere Campingplätze und Ortsteile aufgrund von Waldbränden evakuiert worden. Auch in Spanien und Italien mussten Hunderte Menschen vor Bränden in Sicherheit gebracht werden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-spanien-waldbrand-evakuierungen-100.html",
+      "publishedAt": "2026-07-23T11:21:51.000Z"
     },
     {
       "id": "n_88a201d745",
@@ -178,114 +178,169 @@
       "publishedAt": "2026-07-20T09:56:00.000Z"
     },
     {
-      "id": "n_6dc49b7933",
+      "id": "n_4c51971b19",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Streamingabo: Interessenten können Netflix wieder kostenlos ausprobieren",
-      "summary": "Nach fast sechs Jahren können Interessenten in Deutschland Netflix wieder kostenlos testen. Der Probezeitraum variiert neuerdings. (Netflix, Streaming)",
+      "headline": "Anzeige: Strom auf Reisen: Winziger Reiseadapter von Anker zum neuen Bestpreis bei Amazon",
+      "summary": "Wer im Urlaub keine bösen Überraschungen erleben will, braucht einen Reiseadapter. Das extrem kompakte Anker-Nano-Modell gibt es aktuell zum Bestpreis bei Amazon. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/streamingabo-interessenten-koennen-netflix-wieder-kostenlos-ausprobieren-2607-211196.html",
-      "publishedAt": "2026-07-23T10:47:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-strom-auf-reisen-winziger-reiseadapter-von-anker-zum-neuen-bestpreis-bei-amazon-2607-211209.html",
+      "publishedAt": "2026-07-23T13:06:02.000Z"
     },
     {
-      "id": "n_b71393ac72",
+      "id": "n_476ae5cd82",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Tokenmaxxing: US-Militär verbrennt KI-Jahresbudget innerhalb eines Monats",
-      "summary": "Das Pentagon hatte Militärangehörigen unbegrenzte Token versprochen und diese zur KI-Nutzung gedrängt. (KI, Politik)",
+      "headline": "Kommerzielle Raumfahrt: Russlands Recycling-Rakete kommt nicht vor 2030",
+      "summary": "2020 hatte Russland angekündigt, eine wiederverwendbare Rakete zu konstruieren, die SpaceX endlich Konkurrenz machen würde. Das dürfte aber dauern. (Roskosmos, SpaceX)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/tokenmaxxing-us-militaer-verbrennt-ki-jahresbudget-innerhalb-eines-monats-2607-211193.html",
-      "publishedAt": "2026-07-23T10:35:01.000Z"
+      "url": "https://www.golem.de/news/kommerzielle-raumfahrt-russlands-recycling-rakete-kommt-nicht-vor-2030-2607-211208.html",
+      "publishedAt": "2026-07-23T12:39:01.000Z"
     },
     {
-      "id": "n_c8da04fd7f",
+      "id": "n_1268a32dc5",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Playstation: Sony hat offenbar mit Disc-Wut gerechnet",
-      "summary": "Laut Ex-Autorin erhielten Mitarbeiter der Playstation Studios vor der Ankündigung ungewöhnlich strenge Vorgaben für öffentliche Äußerungen. (Playstation, Sony)",
+      "headline": "Anzeige: Powerbank mit 22,5 W und 10.000 mAh für 18,29 Euro bei Amazon",
+      "summary": "Amazon hat eine beliebte Powerbank von Iniu im Angebot, die im kompakten Format drei USB-Ports, 22,5 W und 10.000 mAh zur Verfügung stellt. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/playstation-sony-hat-offenbar-mit-disc-wut-gerechnet-2607-211195.html",
-      "publishedAt": "2026-07-23T10:15:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-powerbank-mit-22-5-w-und-10-000-mah-fuer-18-29-euro-bei-amazon-2607-211207.html",
+      "publishedAt": "2026-07-23T12:30:02.000Z"
     },
     {
-      "id": "n_a3fd9613cc",
+      "id": "n_0c7e2bee5a",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: iPhone 17 mit Rabattcode extra günstig bei Back Market",
-      "summary": "Das iPhone 17 mit 6,3'' großem 120-Hz-Display, A19-Chip und 18-MP-Frontkamera ist professionell erneuert bei Back Market stark reduziert. (iPhone 17, Technik/Hardware)",
+      "headline": "Raumstation, Mondanzug & mehr: Die großen Pläne von Axiom für den Weltraum",
+      "summary": "Mit der Axiom Station soll eine kommerzielle Raumstation im Erdorbit entstehen. Doch die Pläne des Unternehmens sind noch weitreichender. (Raumstation, Raumfahrt)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-iphone-17-mit-rabattcode-extra-guenstig-bei-back-market-2607-211194.html",
-      "publishedAt": "2026-07-23T10:06:01.000Z"
+      "url": "https://www.golem.de/news/raumstation-mondanzug-mehr-die-grossen-plaene-von-axiom-fuer-den-weltraum-2607-211134.html",
+      "publishedAt": "2026-07-23T12:12:02.000Z"
     },
     {
-      "id": "n_c63c48aa50",
+      "id": "n_514a7cc6b2",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Smart Devices im Kinderzimmer: Warum Toy Story 5 ein schlimmer Horrorfilm ist",
-      "summary": "Ein Tablet mit KI übernimmt in Toy Story 5 das Kinderzimmer. Was Pixar hier verniedlicht, ist der blanke Horror für alle Eltern. Eine Rezension von Daniel Pook (Filmkritik, Digitalkino)",
+      "headline": "Anzeige: Dieser Saugroboter von Roborock war noch nie günstiger",
+      "summary": "Bei Amazon sind die beliebtesten Saugroboter von Roborock im Angebot. Wer die Wohnung mühelos reinigen möchte, kann jetzt günstig zuschlagen. (Saugroboter, Roborock)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/smart-devices-im-kinderzimmer-warum-toy-story-5-ein-schlimmer-horrorfilm-ist-2607-211090.html",
-      "publishedAt": "2026-07-23T10:00:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-dieser-saugroboter-von-roborock-war-noch-nie-guenstiger-2607-211200.html",
+      "publishedAt": "2026-07-23T12:05:02.000Z"
     },
     {
-      "id": "n_45ecd4d05b",
+      "id": "n_e00bbc74f1",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Unerlaubte Preiserhöhung und Aboänderung: Verbraucherschützer beschuldigen Starlink des Rechtsbruchs",
-      "summary": "So geht das nicht, sagen Verbraucherschützer. Starlink hat Abos teurer gemacht und für Kunden ohne Zustimmung ein teureres Abo gebucht. (Starlink, Rechtsstreitigkeiten)",
+      "headline": "DMA: EU verhängt 890 Millionen Euro Strafe gegen Google",
+      "summary": "Was steht oben, wenn Nutzer WM-Spiele, Hotels oder Routen googeln? Zu oft nur Googles eigene Angebote, urteilt Brüssel. (Google, Suchmaschine)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/unerlaubte-preiserhoehung-und-aboaenderung-verbraucherschuetzer-beschuldigen-starlink-des-rechtsbruchs-2607-211192.html",
-      "publishedAt": "2026-07-23T09:50:01.000Z"
+      "url": "https://www.golem.de/news/dma-eu-verhaengt-890-millionen-euro-strafe-gegen-google-2607-211203.html",
+      "publishedAt": "2026-07-23T11:44:01.000Z"
     },
     {
-      "id": "n_7628128e55",
+      "id": "n_295c29d8d3",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "PEGI: EA Sports FC 27 bekommt höhere Altersfreigabe",
-      "summary": "Ultimate Team könnte das Fußballspiel erstmals auf Pegi 16 heben. Hintergrund sind verschärfte Regeln für Lootboxen in Europa. (Jugendschutz, Electronic Arts)",
+      "headline": "Anzeige: USB-C-Kartenleser für Micro-SD-Karten jetzt für unter 9 Euro bei Amazon",
+      "summary": "Laptops und Smartphones haben oft keinen Steckplatz mehr für Speicherkarten. Ein USB-C Kartenleser von Ugreen löst das Problem und kostet aktuell unter 9 Euro. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/pegi-ea-sports-fc-27-bekommt-hoehere-altersfreigabe-2607-211190.html",
-      "publishedAt": "2026-07-23T09:37:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-usb-c-kartenleser-fuer-micro-sd-karten-jetzt-fuer-unter-9-euro-bei-amazon-2607-211202.html",
+      "publishedAt": "2026-07-23T11:35:02.000Z"
     },
     {
-      "id": "n_6cd49679f8",
+      "id": "n_337ea28a2b",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Über Add-on von Adobe: Forscher zeigen Whatsapp-Datenklau mit nur einem Klick",
-      "summary": "Über 300 Millionen Nutzer vertrauen einer Chrome-Erweiterung von Adobe. Angreifer konnten darüber jedoch leicht Whatsapp-Chats ausleiten. (Sicherheitslücke, Browser)",
+      "headline": "(g+) Mehr Gehalt trotz Wirtschaftsflaute?: \"Zum Üben Donald Trump spielen\"",
+      "summary": "Ist jetzt inmitten einer wirtschaftlichen Rezession der richtige Zeitpunkt für eine Gehaltsverhandlung? Ja, sagt unsere Expertin - und erklärt, warum und wie. Ein Interview von Peter Ilg (Gehalt, Wirtschaft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/adobe-acrobat-populaeres-chrome-add-on-hat-whatsapp-datenklau-ermoeglicht-2607-211189.html",
-      "publishedAt": "2026-07-23T09:24:02.000Z"
+      "url": "https://www.golem.de/news/mehr-gehalt-trotz-wirtschaftsflaute-zum-ueben-donald-trump-spielen-2607-210944.html",
+      "publishedAt": "2026-07-23T11:30:01.000Z"
+    },
+    {
+      "id": "n_dedc5a4790",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Saudis must recognise Israel for nuclear deal, says Trump",
+      "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T13:00:38.000Z"
+    },
+    {
+      "id": "n_083f612ab1",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
+      "summary": "Past US presidents insisted that Saudi Arabia normalise relations with Israel in exchange for nuclear technology.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T12:58:40.000Z"
+    },
+    {
+      "id": "n_cd3cfa1cf3",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
+      "summary": "Sonam Wangchuk has been the main draw at the Cockroach Janta Party (CJP) protest in Delhi.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T12:51:55.000Z"
+    },
+    {
+      "id": "n_557e14aee9",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Liquor store employee narrowly escapes leopard attack",
+      "summary": "After nearly five hours, officials captured the animal and it was later released back into the wild, local authorities confirmed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cly893zrjgdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T12:49:55.000Z"
     },
     {
       "id": "n_85bd07a046",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Thousands evacuated in France fires",
-      "summary": "A third firefighter has died in Europe while tackling ongoing wildfires across the continent.",
+      "headline": "France evacuates 20,000 as wildfires spread in south-west",
+      "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T10:53:43.000Z"
+      "publishedAt": "2026-07-23T12:17:13.000Z"
     },
     {
-      "id": "n_b9a681b562",
+      "id": "n_1ec9767c7f",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "US signs landmark nuclear deal with Saudi Arabia",
-      "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+      "headline": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
+      "summary": "Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T09:17:50.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T11:39:11.000Z"
+    },
+    {
+      "id": "n_3d27273a9d",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "South Korea woman acquitted of murdering newborn after hospital delivery",
+      "summary": "The woman, who had wanted to end her pregnancy at 36 weeks, gave birth to a baby who doctors later killed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyrj7ww1gko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T10:04:56.000Z"
     },
     {
       "id": "n_4e23ac16bf",
@@ -297,61 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-23T07:15:59.000Z"
-    },
-    {
-      "id": "n_cd3cfa1cf3",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
-      "summary": "Sonam Wangchuk has been the main draw at the Cockroach Janta Party (CJP) protest in Delhi.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T06:37:23.000Z"
-    },
-    {
-      "id": "n_bea210e2ae",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-      "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T06:15:35.000Z"
-    },
-    {
-      "id": "n_e27be14559",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Blocked by censors, China's animal lovers take fight against abuse offline and overseas",
-      "summary": "The killing of a dog and her puppies in Guangdong has sparked outrage inside and outside the country.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7wd3x420o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T05:46:09.000Z"
-    },
-    {
-      "id": "n_341e3e413a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
-      "summary": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T03:48:27.000Z"
-    },
-    {
-      "id": "n_b3a4117e16",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
-      "summary": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T00:15:12.000Z"
     },
     {
       "id": "n_83a53c3a25",
@@ -420,15 +420,26 @@
       "publishedAt": "2026-07-20T16:57:30.000Z"
     },
     {
-      "id": "n_f61096f5eb",
+      "id": "n_efb9085ea1",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "AliExpress fined record €550m by EU for allowing sale of illegal goods",
-      "summary": "The Chinese retailer allowed unsafe toys and counterfeit clothes to be sold on its site, says the EU.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-20T15:22:54.000Z"
+      "headline": "White House report says Trump can usher in a \"new golden age\" of science",
+      "summary": "The resulting report is a near-random mixture of real problems and grievances.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/",
+      "publishedAt": "2026-07-23T11:23:21.000Z"
+    },
+    {
+      "id": "n_3f482633c7",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "I wanted a clock that never needed setting. Things escalated.",
+      "summary": "Sure, maybe your clock has a backup battery, but mine has a deployment pipeline!",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
+      "publishedAt": "2026-07-23T11:00:50.000Z"
     },
     {
       "id": "n_6061378883",
@@ -497,26 +508,15 @@
       "publishedAt": "2026-07-22T18:18:12.000Z"
     },
     {
-      "id": "n_6f472f51e2",
+      "id": "n_47cc8085e9",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Next Space Force chief throws cold water on the idea of space privateers",
-      "summary": "It turns out some of Benjamin Franklin's opinions from 240 years ago are still relevant today.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/07/next-space-force-chief-throws-cold-water-on-the-idea-of-space-privateers/",
-      "publishedAt": "2026-07-22T17:02:44.000Z"
-    },
-    {
-      "id": "n_5d0c6b9d07",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
-      "summary": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-      "publishedAt": "2026-07-22T16:47:49.000Z"
+      "headline": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+      "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "publishedAt": "2026-07-23T11:00:00.000Z"
     },
     {
       "id": "n_8bdbd9a846",
@@ -596,15 +596,15 @@
       "publishedAt": "2026-07-22T18:13:58.000Z"
     },
     {
-      "id": "n_9cb43306bf",
+      "id": "n_5becd4f5ac",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Monday.com lays off hundreds to focus on AI",
-      "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
-      "publishedAt": "2026-07-22T17:54:14.000Z"
+      "headline": "The right-wing boomers protesting data centers have a lot in common with the left",
+      "summary": "A person holds signs during a nationwide protest against AI data center expansion outside Peace Hall in New Port Richey, Florida. | AFP via Getty Images On a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Lib",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
+      "publishedAt": "2026-07-23T12:00:00.000Z"
     },
     {
       "id": "n_bdbd14d002",
@@ -684,17 +684,6 @@
       "publishedAt": "2026-07-21T19:22:28.000Z"
     },
     {
-      "id": "n_0bd5012770",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
-      "summary": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monday, Judge Araceli Martínez-Olguín writes that the settlement ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
-      "publishedAt": "2026-07-21T16:53:37.000Z"
-    },
-    {
       "id": "n_cec1ebe5d2",
       "type": "news",
       "topic": "ai",
@@ -772,6 +761,17 @@
       "publishedAt": "2026-01-22T14:00:00.000Z"
     },
     {
+      "id": "n_b3ab14e8e0",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "How AI helps scientists design the next generation of medicines",
+      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "publishedAt": "2026-07-23T12:00:00.000Z"
+    },
+    {
       "id": "n_4e01d28ba0",
       "type": "news",
       "topic": "ai",
@@ -847,17 +847,6 @@
       "source": "MIT Technology Review",
       "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
       "publishedAt": "2026-07-09T20:22:28.000Z"
-    },
-    {
-      "id": "n_0ff288a559",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The foundational elements of AI architecture that IT leaders need to scale",
-      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six m",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "publishedAt": "2026-07-07T11:10:52.000Z"
     },
     {
       "id": "n_07a185f1e6",
