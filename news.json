@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-07-23T18:56:18.931Z",
+  "generatedAt": "2026-07-23T21:54:24.790Z",
   "items": [
+    {
+      "id": "n_07c9fcecc6",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Messerattacke: Verdächtiger von Regensburg soll vor Haftrichter",
+      "summary": "Nach dem tödlichen Messerangriff in einer Regensburger Bank soll der Tatverdächtige am Freitag einem Haftrichter vorgeführt werden. Die Ermittler wollen dann auch weitere Details zu dem Fall bekanntgeben.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regensburg-ueberfall-bank-100.html",
+      "publishedAt": "2026-07-23T20:06:51.000Z"
+    },
+    {
+      "id": "n_b24f72f37a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Medienberichte: Gesundheitsministerin Warken soll Kanzleramtschefin werden",
+      "summary": "Die Kabinettsumbildung nimmt Formen an: Warken soll laut Medienberichten neue Kanzleramtschefin werden. Linnemann soll das Gesundheitsministerium übernehmen. Neue CDU-Generalsekretärin dürfte Hoppermann werden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/warken-kanzleramtschefin-100.html",
+      "publishedAt": "2026-07-23T19:43:31.000Z"
+    },
+    {
+      "id": "n_c71dfa8285",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Linnemann: \"Einfach mal machen\" im Gesundheitsministerium?",
+      "summary": "\"Einfach mal machen\" ist das Credo von Carsten Linnemann. Ob das auch im Gesundheitsministerium klappt, das der CDU-Generalsekretär nun offenbar übernehmen soll? Die Herausforderungen sind jedenfalls groß. Von Sabine Henkel.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/linnemann-portraet-gesundheitsministerium-100.html",
+      "publishedAt": "2026-07-23T19:40:02.000Z"
+    },
+    {
+      "id": "n_f13e0cd9d3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Außenminister Wadephul trifft Amtskollegen Lamolla in Südafrika",
+      "summary": "Zum Abschluss seiner viertägigen Reise kritisiert Außenminister Wadephul den Ausschluss Südafrikas vom G20-Gipfel im Dezember in den USA und verspricht: Deutschland wolle sich für das Land einsetzen. Von Georg Schwarte.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/afrika/wadephul-suedafrika-100.html",
+      "publishedAt": "2026-07-23T19:21:04.000Z"
+    },
     {
       "id": "n_99ad48094b",
       "type": "news",
@@ -35,28 +79,6 @@
       "publishedAt": "2026-07-23T16:42:08.000Z"
     },
     {
-      "id": "n_d8d384d326",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Regensburg: Mutmaßlicher Täter nach Messerattacke in Bank festgenommen",
-      "summary": "Nach einer Messerattacke in einer Bank in Regensburg hat die Polizei den mutmaßlichen Täter festgenommen. Es soll sich um einen 20-jährigen Deutschen handeln. Ein Mann wurde tödlich verletzt. Zunächst war von einer Geiselnahme die Rede.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regensburg-geiselnahme-bank-102.html",
-      "publishedAt": "2026-07-23T16:41:19.000Z"
-    },
-    {
-      "id": "n_b24f72f37a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Medienberichte: Gesundheitsministerin Warken soll Kanzleramtschefin werden",
-      "summary": "Die Kabinettsumbildung der Bundesregierung nimmt Formen an: Nina Warken soll laut Medienberichten neue Kanzleramtschefin werden - CDU-Generalsekretär Linnemann das Gesundheitsministerium von ihr übernehmen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/warken-kanzleramtschefin-100.html",
-      "publishedAt": "2026-07-23T16:28:39.000Z"
-    },
-    {
       "id": "n_aa71875477",
       "type": "news",
       "topic": "general",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-iran-100.html",
       "publishedAt": "2026-07-23T16:16:23.000Z"
-    },
-    {
-      "id": "n_7e2568288e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "EU verhängt weiteres Sanktionspaket gegen Russland",
-      "summary": "Die EU-Kommission hat das 21. Sanktionspaket gegen Russland beschlossen. Besonders der Finanzsektor soll stärker betroffen sein. Die Verhandlungen waren zäh, viele Länder hatten Extrawünsche. Von Thomas Spickhofen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-russland-sanktionen-140.html",
-      "publishedAt": "2026-07-23T16:07:54.000Z"
-    },
-    {
-      "id": "n_9b1fb3e19f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "US-Atomabkommen mit Saudi-Arabien: Ein Deal, der Sorgen macht",
-      "summary": "Der Nahe Osten ist eine äußerst unruhige Region, bereits mehrfach wurden Atomanlagen angegriffen. Der saudisch-amerikanische Atomdeal weckt deshalb Sorgen, meint Moritz Behrendt. Denn niemand weiß, wie sich die Konflikte dort entwickeln.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kommentar/saudi-arabien-atomkraft-102.html",
-      "publishedAt": "2026-07-23T15:33:32.000Z"
     },
     {
       "id": "n_939ea51ba0",
@@ -266,6 +266,39 @@
       "publishedAt": "2026-07-23T15:24:02.000Z"
     },
     {
+      "id": "n_ff9b51ec11",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "India activist ends hunger strike after 26 days",
+      "summary": "Sonam Wangchuk, a supporter of youth-led protesters demanding education reforms, says he wants to avert \"possible violence\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T21:27:04.000Z"
+    },
+    {
+      "id": "n_4e23ac16bf",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Google and Tesla shares plunge as AI spending rattles markets",
+      "summary": "As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T20:42:33.000Z"
+    },
+    {
+      "id": "n_85bd07a046",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "France evacuates 20,000 as wildfires spread in south-west",
+      "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T19:17:42.000Z"
+    },
+    {
       "id": "n_dedc5a4790",
       "type": "news",
       "topic": "general",
@@ -286,17 +319,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-23T17:37:59.000Z"
-    },
-    {
-      "id": "n_4e23ac16bf",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Google and Tesla shares plunge as AI spending rattles markets",
-      "summary": "As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T17:25:10.000Z"
     },
     {
       "id": "n_d23acee4b0",
@@ -321,17 +343,6 @@
       "publishedAt": "2026-07-23T16:50:59.000Z"
     },
     {
-      "id": "n_85bd07a046",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "France evacuates 20,000 as wildfires spread in south-west",
-      "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T16:41:52.000Z"
-    },
-    {
       "id": "n_84e965977e",
       "type": "news",
       "topic": "general",
@@ -343,15 +354,15 @@
       "publishedAt": "2026-07-23T16:26:49.000Z"
     },
     {
-      "id": "n_3e311c5611",
+      "id": "n_76aa89281a",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Ex-governor convicted of murdering a pregnant student in Kenya",
-      "summary": "Okoth Obado was found guilty of killing Sharon Otieno with whom he had had an affair.",
+      "headline": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
+      "summary": "A new bill would let the US government order the shutdown AI models that pose a major public threat.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvg9l039ljyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T16:07:24.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T20:58:35.000Z"
     },
     {
       "id": "n_049628d56d",
@@ -420,15 +431,48 @@
       "publishedAt": "2026-07-21T20:00:00.000Z"
     },
     {
-      "id": "n_f29e73fe39",
+      "id": "n_b75fba24a7",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "AI minister role boosted but tech department axed in Burnham shake-up",
-      "summary": "Kanishka Narayan will attend cabinet - but no longer have the leadership of a technology secretary.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-21T09:15:55.000Z"
+      "headline": "Microsoft responds to LG monitors installing McAfee ads on Windows",
+      "summary": "App is installed through Windows Update when certain LG monitors connect to a PC.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
+      "publishedAt": "2026-07-23T20:47:33.000Z"
+    },
+    {
+      "id": "n_5cb2427be3",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
+      "summary": "The FDA hasn't said where the cases are or how they're linked.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
+      "publishedAt": "2026-07-23T19:22:36.000Z"
+    },
+    {
+      "id": "n_e093bf6eb0",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Forgot your Google password? Now you can log in with a selfie.",
+      "summary": "Google's selfie videos can be used for account access, AI Avatars, and age verification.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
+      "publishedAt": "2026-07-23T19:14:25.000Z"
+    },
+    {
+      "id": "n_3e38ac33e5",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+      "summary": "Bill would let Homeland Security chief decide when an AI should be shut down.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+      "publishedAt": "2026-07-23T19:08:01.000Z"
     },
     {
       "id": "n_c1c3a83dd8",
@@ -475,48 +519,26 @@
       "publishedAt": "2026-07-23T16:25:46.000Z"
     },
     {
-      "id": "n_d049e2dcfc",
+      "id": "n_264c4ef28e",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Google just had its first negative cash flow quarter due to massive AI spending",
-      "summary": "Google continues to report big quarterly revenue, but its AI spending has skyrocketed.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-      "publishedAt": "2026-07-23T16:04:19.000Z"
+      "headline": "AMD takes on Nvidia with its Helios AI rack-scale system",
+      "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "publishedAt": "2026-07-23T20:33:02.000Z"
     },
     {
-      "id": "n_382ed85df1",
+      "id": "n_4ee51e0aa6",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "AI arms race in line for a reckoning after OpenAI hacking incident",
-      "summary": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
-      "publishedAt": "2026-07-23T14:45:05.000Z"
-    },
-    {
-      "id": "n_efb9085ea1",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "White House report says Trump can usher in a \"new golden age\" of science",
-      "summary": "The resulting report is a near-random mixture of grievances and real problems.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/",
-      "publishedAt": "2026-07-23T11:23:21.000Z"
-    },
-    {
-      "id": "n_3f482633c7",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "I wanted a clock that never needed setting. Things escalated.",
-      "summary": "Sure, maybe your clock has a backup battery, but mine has a deployment pipeline!",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
-      "publishedAt": "2026-07-23T11:00:50.000Z"
+      "headline": "Anthropic updates Claude voice mode with more capable models",
+      "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "publishedAt": "2026-07-23T19:00:00.000Z"
     },
     {
       "id": "n_b23e90f9cf",
@@ -524,7 +546,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "summary": "The Series A was led by Battery Ventures, bringing AegisAI total funding to $49 million.",
+      "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
       "publishedAt": "2026-07-23T18:38:34.000Z"
@@ -585,26 +607,26 @@
       "publishedAt": "2026-07-23T15:00:00.000Z"
     },
     {
-      "id": "n_81587b96e5",
+      "id": "n_c6bad60c59",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Google’s Gemini nears billion-user milestone",
-      "summary": "Gemini had over 750 million monthly users in February.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-      "publishedAt": "2026-07-23T14:52:44.000Z"
+      "headline": "Alexa Plus is getting an AI update to handle more complicated instructions",
+      "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routi",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+      "publishedAt": "2026-07-23T21:15:06.000Z"
     },
     {
-      "id": "n_47cc8085e9",
+      "id": "n_77885ca812",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-      "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "publishedAt": "2026-07-23T11:00:00.000Z"
+      "headline": "Claude’s voice mode is now available for Opus and Sonnet",
+      "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice m",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "publishedAt": "2026-07-23T19:00:00.000Z"
     },
     {
       "id": "n_440b0110dc",
@@ -671,28 +693,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
       "publishedAt": "2026-07-22T16:35:34.000Z"
-    },
-    {
-      "id": "n_ad3e75f937",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AMD commits up to $5 billion to Anthropic",
-      "summary": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chip",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
-      "publishedAt": "2026-07-22T14:44:27.000Z"
-    },
-    {
-      "id": "n_cd499e47d0",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Meta made its own AI detection system. It should have just used Google’s",
-      "summary": "Content Seal sounds a lot like a less accessible and reliable version of SynthID. | Image: Meta / The Verge IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI conten",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
-      "publishedAt": "2026-07-22T11:00:00.000Z"
     },
     {
       "id": "n_3d6d30af34",
