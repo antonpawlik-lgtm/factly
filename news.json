@@ -1,16 +1,60 @@
 {
-  "generatedAt": "2026-07-23T16:18:15.528Z",
+  "generatedAt": "2026-07-23T18:56:18.931Z",
   "items": [
+    {
+      "id": "n_99ad48094b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Trump: Saudis sollen für Atomdeal auf Israel zugehen",
+      "summary": "Präsident Trump hat das gerade erst vereinbarte Atomabkommen der USA mit Saudi-Arabien nachträglich noch an eine Bedingung geknüpft: Eine Annäherung Riads an Israel. Ob die Saudis da mitmachen, ist aber völlig unklar. Von Nina Barth.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/trump-atomdeal-saudi-arabien-100.html",
+      "publishedAt": "2026-07-23T18:05:23.000Z"
+    },
+    {
+      "id": "n_cc83946b96",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Rubio-Lawrow-Treffen in Manila: \"Nicht übermäßig optimistisch\"",
+      "summary": "Die Außenminister von USA und Russland haben sich in Manila am Rande des ASEAN-Treffens getroffen. Dabei ging es auch um den Angriffskrieg gegen die Ukraine. Doch wirklich näher kam man sich dabei offenbar nicht. Von Björn Blaschke.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/russland-usa-lawrow-rubio-100.html",
+      "publishedAt": "2026-07-23T16:43:11.000Z"
+    },
+    {
+      "id": "n_69853998ce",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Abschiebungen nach Afghanistan bald nicht nur für Straftäter?",
+      "summary": "Seit dem Regierungswechsel wurden 173 Männer nach Afghanistan abgeschoben. Bald könnte es auch Afghanen treffen, die nicht straffällig geworden sind. Die Vorbereitungen dafür laufen. Von Claudia Kornmeier und Philipp Eckstein.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/abschiebungen-afghanistan-144.html",
+      "publishedAt": "2026-07-23T16:42:08.000Z"
+    },
+    {
+      "id": "n_d8d384d326",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Regensburg: Mutmaßlicher Täter nach Messerattacke in Bank festgenommen",
+      "summary": "Nach einer Messerattacke in einer Bank in Regensburg hat die Polizei den mutmaßlichen Täter festgenommen. Es soll sich um einen 20-jährigen Deutschen handeln. Ein Mann wurde tödlich verletzt. Zunächst war von einer Geiselnahme die Rede.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regensburg-geiselnahme-bank-102.html",
+      "publishedAt": "2026-07-23T16:41:19.000Z"
+    },
     {
       "id": "n_b24f72f37a",
       "type": "news",
       "topic": "general",
       "lang": "de",
       "headline": "Medienberichte: Gesundheitsministerin Warken soll Kanzleramtschefin werden",
-      "summary": "Die Kabinettsumbildung nimmt Formen an: Nina Warken soll laut Medienberichten neue Kanzleramtschefin werden - CDU-Generalsekretär Linnemann das Gesundheitsministerium von ihr übernehmen.",
+      "summary": "Die Kabinettsumbildung der Bundesregierung nimmt Formen an: Nina Warken soll laut Medienberichten neue Kanzleramtschefin werden - CDU-Generalsekretär Linnemann das Gesundheitsministerium von ihr übernehmen.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/warken-kanzleramtschefin-100.html",
-      "publishedAt": "2026-07-23T16:16:57.000Z"
+      "publishedAt": "2026-07-23T16:28:39.000Z"
     },
     {
       "id": "n_aa71875477",
@@ -22,17 +66,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-iran-100.html",
       "publishedAt": "2026-07-23T16:16:23.000Z"
-    },
-    {
-      "id": "n_d8d384d326",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Regensburg: Mutmaßlicher Täter nach Messerattacke in Bank festgenommen",
-      "summary": "Nach einer Messerattacke in einer Bank in Regensburg hat die Polizei den mutmaßlichen Täter festgenommen. Es handelt sich demnach um einen 20-Jährigen Deutschen. Bei dem Angriff wurde ein Mann tödlich verletzt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regensburg-geiselnahme-bank-102.html",
-      "publishedAt": "2026-07-23T16:13:16.000Z"
     },
     {
       "id": "n_7e2568288e",
@@ -57,37 +90,26 @@
       "publishedAt": "2026-07-23T15:33:32.000Z"
     },
     {
-      "id": "n_0cba618cbf",
+      "id": "n_939ea51ba0",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Vier Frauen und zwei Männer kämpfen um Nachfolge von UN-Chef Guterres",
-      "summary": "Am Ende des Jahres scheidet UN-Generalsekretär Guterres aus seinem Amt aus. Zwei Männer und vier Frauen kämpfen um seine Nachfolge. Eine Frau stand in der 80-jährigen Geschichte noch nie an der Spitze. Von Martin Ganslmeier.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/korrespondenten/un-nachfolge-guterres-100.html",
-      "publishedAt": "2026-07-23T15:22:20.000Z"
+      "headline": "Chatkontrolle: EU-Rat stimmt für die Verlängerung",
+      "summary": "Nach ihrem parlamentarischen Coup haben die EU-Länder wie erwartet der erneuten Verlängerung einer Ausnahmeregelung für die Chatkontrolle zugestimmt.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Chatkontrolle-EU-Rat-stimmt-fuer-die-Verlaengerung-11376651.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-07-23T16:54:00.000Z"
     },
     {
-      "id": "n_49ef95a269",
+      "id": "n_be414423d3",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Wie Wälder sich nach Großbränden selbst erneuern",
-      "summary": "Ganz Europa ist zu trocken, in vielen Regionen brennen die Wälder. Was für Menschen, Tiere und Vegetation zur Katastrophe werden kann, ist auch Teil eines Kreislaufes. Von Gerald Perschke.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/klima/rolle-waldbraende-natur-100.html",
-      "publishedAt": "2026-07-23T15:21:51.000Z"
-    },
-    {
-      "id": "n_ec46019f6a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Frankreich und Spanien: Feuer wüten weiter - Campingplätze geräumt",
-      "summary": "Für viele Urlauber an der französischen Atlantikküste bei Arcachon heißt es gerade: nichts wie weg. Die Waldbrände breiten sich dort rasant aus. In Spanien scheint sich die Lage hingegen zu entspannen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-spanien-waldbrand-evakuierungen-102.html",
-      "publishedAt": "2026-07-23T15:17:09.000Z"
+      "headline": "Identifikationspflicht: Dobrindt will Informationsfreiheit faktisch stoppen",
+      "summary": "Mit Klarnamenzwang und der Abschaffung der Aufsichtsbehörde will das Innenministerium Transparenzrechte von Bürgern, Presse und Politik massiv beschneiden.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Identifikationspflicht-Dobrindt-will-Informationsfreiheit-faktisch-stoppen-11376595.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-07-23T16:19:00.000Z"
     },
     {
       "id": "n_88a201d745",
@@ -156,26 +178,48 @@
       "publishedAt": "2026-07-21T09:33:00.000Z"
     },
     {
-      "id": "n_7a83b5247e",
+      "id": "n_3db4e8f737",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "AliExpress: EU-Kommission verhängt DSA-Rekordstrafe",
-      "summary": "Der chinesische Onlinemarktplatz AliExpress hat über Jahre gegen den Digital Services Act verstoßen und muss nun 550 Millionen Euro zahlen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/AliExpress-EU-Kommission-verhaengt-DSA-Rekordstrafe-11370852.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-07-20T10:45:00.000Z"
+      "headline": "Wirtschaftskrimi: Prozess um 100-Millionen-Euro-Betrug an Delivery-Hero-Gründer",
+      "summary": "Ein deutscher Investor soll laut Anklage versucht haben, einen Delivery-Hero-Gründer um über 100 Millionen Euro zu betrügen. Es geht um eine Anklage gegen Investor Florian Fritsch. (Lieferdienst, Wirtschaft)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/wirtschaftskrimi-prozess-um-100-millionen-euro-betrug-an-delivery-hero-gruender-2607-211232.html",
+      "publishedAt": "2026-07-23T18:32:02.000Z"
     },
     {
-      "id": "n_3e001150cb",
+      "id": "n_c69c7242da",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Microsoft arbeitet an Lösung für WSUS-Störungen",
-      "summary": "Die Update-Software WSUS hat seit vergangener Woche mit Problemen zu kämpfen, hat Microsoft nun eingeräumt. Es gibt erste Fixes.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Microsoft-raeumt-Stoerungen-der-WSUS-Dienste-ein-11370682.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-07-20T09:56:00.000Z"
+      "headline": "(g+) Space industry: New Zealand's 'rocket man' takes on Elon Musk and Jeff Bezos",
+      "summary": "Peter Beck's Rocket Lab builds internet satellite business to rival Starlink and Amazon Leo. Von Nic Fildes (Weltall, Wirtschaft)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/space-industry-new-zealand-s-rocket-man-takes-on-elon-musk-and-jeff-bezos-2607-211228.html",
+      "publishedAt": "2026-07-23T16:53:01.000Z"
+    },
+    {
+      "id": "n_c2ea225f7a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Platz 33 der damaligen Weltrangliste: Als das US-Militär einen Supercomputer aus 1. ...",
+      "summary": "Einst bestand der schnellste Supercomputer der US Air Force aus Spielekonsolen. Und dann macht Sony selbst das Konzept kaputt. (Playstation 3, Sony)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/platz-33-der-damaligen-weltrangliste-als-das-us-militaer-einen-supercomputer-aus-1-760-playstations-baute-2607-211231.html",
+      "publishedAt": "2026-07-23T16:50:02.000Z"
+    },
+    {
+      "id": "n_23e661492e",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: 6-in-1-Laufband für zu Hause zum Tiefstpreis mit Dreifachrabatt",
+      "summary": "Dank Gutschein und Aktionsrabatt: Ein klappbares Laufband mit Steigung von Runimon ist bei Amazon günstiger als sein bisheriger Tiefstpreis. (Technik/Hardware, Amazon)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-6-in-1-laufband-fuer-zu-hause-zum-tiefstpreis-mit-dreifachrabatt-2607-211229.html",
+      "publishedAt": "2026-07-23T16:38:01.000Z"
     },
     {
       "id": "n_1998fbf213",
@@ -222,50 +266,6 @@
       "publishedAt": "2026-07-23T15:24:02.000Z"
     },
     {
-      "id": "n_fd9bbc581f",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Wärmebildkamera für Smartphones und PCs über 40 Euro günstiger bei Amazon",
-      "summary": "Topdons Wärmebildkamera ist eine preiswerte Alternative zu herkömmlichen Handheld-Modellen. Amazon verkauft sie günstig wie seit Monaten nicht. (Technik/Hardware, Amazon)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-waermebildkamera-fuer-smartphones-und-pcs-ueber-40-euro-guenstiger-bei-amazon-2607-211215.html",
-      "publishedAt": "2026-07-23T15:09:02.000Z"
-    },
-    {
-      "id": "n_99da33d9d2",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Gartner: Billionen US-Dollar für KI werden sich über neue Produkte amortisieren",
-      "summary": "Die Rechenzentren erwirtschaften vielleicht nie die Einnahmen, um die KI-Investitionen zu amortisieren, aber sie ermöglichen neue Produkte und Dienstleistungen, die dies laut Gartner schaffen werden. Ein Interview von Achim Sawall (Gartner, KI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/gartner-billionen-us-dollar-fuer-ki-werden-sich-ueber-neue-produkte-amortisieren-2607-211217.html",
-      "publishedAt": "2026-07-23T15:04:02.000Z"
-    },
-    {
-      "id": "n_fa0b5ea799",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Halo Campaign Evolved im Kurztest: Der bislang schönste Master Chief",
-      "summary": "Halo Campaign Evolved modernisiert den Xbox-Klassiker mit zeitgemäßer Technik und drei neuen Missionen. Ein Test von Peter Steinlechner (Halo, Spieletest)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/halo-campaign-evolved-im-kurztest-der-bislang-schoenste-master-chief-2607-211166.html",
-      "publishedAt": "2026-07-23T15:00:02.000Z"
-    },
-    {
-      "id": "n_1213d2f920",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Beliebtes Anker-Nano-45-W-Ladegerät jetzt zum Amazon-Tiefpreis für nur rund 28 Euro",
-      "summary": "Das Anker-Nano-Ladegerät zum Amazon-Tiefpreis lädt iPhones mit 45 Watt, erkennt viele Modelle automatisch und schont den Akku. (Technik/Hardware, Notebook)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-beliebtes-anker-nano-45-w-ladegeraet-jetzt-zum-amazon-tiefpreis-fuer-nur-rund-28-euro-2607-211213.html",
-      "publishedAt": "2026-07-23T14:52:01.000Z"
-    },
-    {
       "id": "n_dedc5a4790",
       "type": "news",
       "topic": "general",
@@ -274,7 +274,40 @@
       "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T16:17:44.000Z"
+      "publishedAt": "2026-07-23T17:58:02.000Z"
+    },
+    {
+      "id": "n_16c6a00a2c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Ukraine's ousted defence minister insists on being reinstated",
+      "summary": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T17:37:59.000Z"
+    },
+    {
+      "id": "n_4e23ac16bf",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Google and Tesla shares plunge as AI spending rattles markets",
+      "summary": "As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T17:25:10.000Z"
+    },
+    {
+      "id": "n_d23acee4b0",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
+      "summary": "The Iran-backed group in Yemen has threatened to target Saudi vessels in a vital shipping route.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T17:06:08.000Z"
     },
     {
       "id": "n_341e3e413a",
@@ -285,51 +318,7 @@
       "summary": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T16:04:15.000Z"
-    },
-    {
-      "id": "n_31261cd137",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Nicaragua's legislature debates barring opposition from elections",
-      "summary": "The move comes days after President Daniel Ortega demanded 'a wall, a blockade' against opposition parties.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd694w0l30do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T15:54:41.000Z"
-    },
-    {
-      "id": "n_5a577cbb77",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Oil prices hit $100 for the first time since May",
-      "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T15:31:00.000Z"
-    },
-    {
-      "id": "n_cd3cfa1cf3",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
-      "summary": "Sonam Wangchuk has been the main draw at the Cockroach Janta Party (CJP) protest in Delhi.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T15:22:06.000Z"
-    },
-    {
-      "id": "n_930b44176e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Ghanaians' ICC petition over migrant attacks 'opportunistic', says South Africa",
-      "summary": "The petition argues the violence against migrants in South Africa could amount to crimes against humanity.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp87qejzy8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T13:44:19.000Z"
+      "publishedAt": "2026-07-23T16:50:59.000Z"
     },
     {
       "id": "n_85bd07a046",
@@ -340,18 +329,29 @@
       "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T13:25:02.000Z"
+      "publishedAt": "2026-07-23T16:41:52.000Z"
     },
     {
-      "id": "n_083f612ab1",
+      "id": "n_84e965977e",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
-      "summary": "Signing a nuclear pact in the Middle East is a bold move that has drawn criticism in the US and in Israel.",
+      "headline": "Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says",
+      "summary": "Mamadou Djouma Bah, 17, was arrested and sentenced to prison for exam fraud earlier this month.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T12:58:40.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cn0nykz6lweo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T16:26:49.000Z"
+    },
+    {
+      "id": "n_3e311c5611",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Ex-governor convicted of murdering a pregnant student in Kenya",
+      "summary": "Okoth Obado was found guilty of killing Sharon Otieno with whom he had had an affair.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg9l039ljyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T16:07:24.000Z"
     },
     {
       "id": "n_049628d56d",
@@ -385,17 +385,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-23T11:39:11.000Z"
-    },
-    {
-      "id": "n_4e23ac16bf",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Google burning through cash with spiralling AI costs",
-      "summary": "The company said earlier this year it expected to spend as much as $190bn on AI investments.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T07:15:59.000Z"
     },
     {
       "id": "n_83a53c3a25",
@@ -442,6 +431,61 @@
       "publishedAt": "2026-07-21T09:15:55.000Z"
     },
     {
+      "id": "n_c1c3a83dd8",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Final Coyote vs. Acme trailer drops at SDCC",
+      "summary": "Also, the full trailer for Zach Cregger's Resident Evil features a likable everyman.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
+      "publishedAt": "2026-07-23T18:01:46.000Z"
+    },
+    {
+      "id": "n_e6ad834325",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "A woman got a UTI. Two years later, the bacteria had evolved, invaded her brain.",
+      "summary": "The case provides a novel report of the emergence of heterovirulence.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/07/woman-loses-vision-in-one-eye-after-uti-bacteria-evolves-to-invade-her-brain/",
+      "publishedAt": "2026-07-23T16:58:26.000Z"
+    },
+    {
+      "id": "n_e38bcdedf8",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Google hit with $1 billion in fines as EU braces for Trump battle",
+      "summary": "Google becomes third tech giant to face huge fines under the Digital Markets Act.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/google-hit-with-1-billion-in-fines-as-eu-braces-for-trump-battle/",
+      "publishedAt": "2026-07-23T16:41:36.000Z"
+    },
+    {
+      "id": "n_18b891796d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Sony's decision to ditch discs was practically inevitable, data shows",
+      "summary": "Circana numbers show US gamers overwhelmingly voting with their wallets.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/07/the-playstation-game-disc-was-dying-long-before-sony-pulled-the-plug/",
+      "publishedAt": "2026-07-23T16:25:46.000Z"
+    },
+    {
+      "id": "n_d049e2dcfc",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Google just had its first negative cash flow quarter due to massive AI spending",
+      "summary": "Google continues to report big quarterly revenue, but its AI spending has skyrocketed.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+      "publishedAt": "2026-07-23T16:04:19.000Z"
+    },
+    {
       "id": "n_382ed85df1",
       "type": "news",
       "topic": "tech",
@@ -475,59 +519,48 @@
       "publishedAt": "2026-07-23T11:00:50.000Z"
     },
     {
-      "id": "n_6061378883",
+      "id": "n_b23e90f9cf",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Watch orcas ram a sunfish so hard it explodes",
-      "summary": "“We think this may help younger orcas feed more easily, or it could also just be for fun.”",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
-      "publishedAt": "2026-07-23T04:00:38.000Z"
+      "headline": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "summary": "The Series A was led by Battery Ventures, bringing AegisAI total funding to $49 million.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "publishedAt": "2026-07-23T18:38:34.000Z"
     },
     {
-      "id": "n_1ece4b26cf",
+      "id": "n_9954135b21",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Sales were up at Tesla but so were costs and spending",
-      "summary": "Q2 2026 was profitable, but barely.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/",
-      "publishedAt": "2026-07-22T21:15:19.000Z"
+      "headline": "Runway launches AI model router as generative media gets crowded",
+      "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+      "publishedAt": "2026-07-23T17:07:35.000Z"
     },
     {
-      "id": "n_bc7f960078",
+      "id": "n_fba0078191",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Microsoft brings original Xbox backward compatibility to Windows PCs",
-      "summary": "First four compatible titles can be run with an 11-year-old graphics card.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
-      "publishedAt": "2026-07-22T20:36:19.000Z"
+      "headline": "OpenAI makes ChatGPT Health available to all US users",
+      "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "publishedAt": "2026-07-23T17:00:00.000Z"
     },
     {
-      "id": "n_0ee7d54eb1",
+      "id": "n_14cf993c0c",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "ISPs' long nightmare of having to list all the fees they charge is finally over",
-      "summary": "FCC lets ISPs stop listing all fees after companies complained it was too hard.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
-      "publishedAt": "2026-07-22T20:17:18.000Z"
-    },
-    {
-      "id": "n_3edc70c905",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Clayface trailer leans into the body horror",
-      "summary": "\"The people I trusted betrayed me. The justice system failed me.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/",
-      "publishedAt": "2026-07-22T19:18:17.000Z"
+      "headline": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+      "publishedAt": "2026-07-23T16:28:50.000Z"
     },
     {
       "id": "n_1d8fd6e659",
@@ -574,48 +607,48 @@
       "publishedAt": "2026-07-23T11:00:00.000Z"
     },
     {
-      "id": "n_8bdbd9a846",
+      "id": "n_440b0110dc",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-      "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-      "publishedAt": "2026-07-23T06:09:13.000Z"
+      "headline": "Patreon is laying off 20 percent of workers",
+      "summary": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally tra",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+      "publishedAt": "2026-07-23T18:20:30.000Z"
     },
     {
-      "id": "n_ac40ec794b",
+      "id": "n_cb3c46e4e7",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-      "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-      "publishedAt": "2026-07-22T23:47:54.000Z"
+      "headline": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+      "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+      "publishedAt": "2026-07-23T17:00:00.000Z"
     },
     {
-      "id": "n_e99bcac584",
+      "id": "n_01d83a6818",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Google justifies its massive AI spending with a booming cloud business",
-      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "publishedAt": "2026-07-22T22:01:52.000Z"
+      "headline": "Lawmakers prepare bill requiring AI ‘kill switch’",
+      "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expect",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+      "publishedAt": "2026-07-23T14:13:35.000Z"
     },
     {
-      "id": "n_d341226a8b",
+      "id": "n_9ae095cbc6",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-      "publishedAt": "2026-07-22T20:49:03.000Z"
+      "headline": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+      "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m sure most Decoder listeners are familiar with Apple’s allegations in this case.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+      "publishedAt": "2026-07-23T14:00:00.000Z"
     },
     {
       "id": "n_5becd4f5ac",
@@ -662,105 +695,6 @@
       "publishedAt": "2026-07-22T11:00:00.000Z"
     },
     {
-      "id": "n_cd41dfa172",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Utility companies promise to spare us from AI’s energy bill",
-      "summary": "The pledge was introduced in March, and has done little to quell concerns so far. | Image: Cath Virginia / The Verge, Getty Images In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
-      "publishedAt": "2026-07-22T10:12:13.000Z"
-    },
-    {
-      "id": "n_4509519814",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
-      "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
-      "publishedAt": "2026-07-21T22:06:43.000Z"
-    },
-    {
-      "id": "n_3e18d6f571",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-      "summary": "OpenAI CEO Sam Altman. | Bloomberg via Getty Images OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulner",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-      "publishedAt": "2026-07-21T21:48:54.000Z"
-    },
-    {
-      "id": "n_3a68379c08",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Substack adds an AI detector to help spot blogs written by no one",
-      "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according t",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
-      "publishedAt": "2026-07-21T19:22:28.000Z"
-    },
-    {
-      "id": "n_cec1ebe5d2",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none ",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "publishedAt": "2026-07-16T19:16:48.000Z"
-    },
-    {
-      "id": "n_09e86f1db1",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, ",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "publishedAt": "2026-07-16T19:02:38.000Z"
-    },
-    {
-      "id": "n_e9ea1363a1",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-      "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector data",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-      "publishedAt": "2026-07-16T17:06:08.000Z"
-    },
-    {
-      "id": "n_9a3bfba706",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-      "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "publishedAt": "2026-07-16T16:40:48.000Z"
-    },
-    {
-      "id": "n_89c9f7f3ad",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-      "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: mo",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "publishedAt": "2026-07-15T22:24:17.000Z"
-    },
-    {
       "id": "n_3d6d30af34",
       "type": "news",
       "topic": "ai",
@@ -781,6 +715,61 @@
       "source": "VentureBeat",
       "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
       "publishedAt": "2026-01-22T14:00:00.000Z"
+    },
+    {
+      "id": "n_7f96b809b5",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive. Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $2",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "publishedAt": "2026-01-19T14:00:00.000Z"
+    },
+    {
+      "id": "n_26adfe0141",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displayi",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "publishedAt": "2026-01-16T14:01:00.000Z"
+    },
+    {
+      "id": "n_4143ec6f5c",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and takin",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "publishedAt": "2026-01-13T13:00:00.000Z"
+    },
+    {
+      "id": "n_8aadbbf980",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude C",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "publishedAt": "2026-01-12T11:30:00.000Z"
+    },
+    {
+      "id": "n_fed46196ed",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+      "summary": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia's latest",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+      "publishedAt": "2026-01-07T20:00:00.000Z"
     },
     {
       "id": "n_b3ab14e8e0",
@@ -871,6 +860,17 @@
       "publishedAt": "2026-07-09T20:22:28.000Z"
     },
     {
+      "id": "n_99b37b5da5",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
+      "summary": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
+      "publishedAt": "2026-07-23T18:45:52.000Z"
+    },
+    {
       "id": "n_07a185f1e6",
       "type": "news",
       "topic": "ai",
@@ -946,17 +946,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
       "publishedAt": "2026-07-21T15:00:00.000Z"
-    },
-    {
-      "id": "n_b60d168261",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Halliday’s New Smart Glasses Skip the Camera",
-      "summary": "Halliday’s G2 glasses can listen to and summarize your workplace meetings—with no video involved.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/",
-      "publishedAt": "2026-07-21T13:00:00.000Z"
     },
     {
       "id": "n_37c9890bc3",
@@ -1143,6 +1132,18 @@
       "publishedAt": "2026-04-09T17:35:20.000Z"
     },
     {
+      "id": "n_c930172539",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The most interesting \"hack\" in history...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=KOpTWx1Eou4",
+      "thumbnail": "https://i.ytimg.com/vi/KOpTWx1Eou4/hqdefault.jpg",
+      "publishedAt": "2026-07-23T16:53:37.000Z"
+    },
+    {
       "id": "n_c30c73dbe7",
       "type": "video",
       "topic": "video",
@@ -1177,18 +1178,6 @@
       "url": "https://www.youtube.com/watch?v=5D4Zqp9GLSc",
       "thumbnail": "https://i.ytimg.com/vi/5D4Zqp9GLSc/hqdefault.jpg",
       "publishedAt": "2026-07-17T17:56:42.000Z"
-    },
-    {
-      "id": "n_55e883283e",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The most controversial rewrite in history just shipped...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=CXSvKcLovAk",
-      "thumbnail": "https://i.ytimg.com/vi/CXSvKcLovAk/hqdefault.jpg",
-      "publishedAt": "2026-07-15T17:39:02.000Z"
     },
     {
       "id": "n_64ebc2a7bf",
