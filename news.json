@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-07-25T05:33:22.986Z",
+  "generatedAt": "2026-07-25T10:19:13.887Z",
   "items": [
+    {
+      "id": "n_ae56dac830",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Zukünftiger Unionsfraktionschef Frei nennt Panne bei Regierungsumbildung \"Pech\"",
+      "summary": "Kanzler Merz möchte offenbar Verkehrsminister Schnieder ersetzen. Doch einen Nachfolger scheint es noch nicht zu geben. \"Das kann passieren\", meint der designierte Unionsfraktionschef Frei. Kritik kommt von Ex-Kanzleramtsminister Altmaier.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/kabinettsumbildung-reax-frei-100.html",
+      "publishedAt": "2026-07-25T09:48:18.000Z"
+    },
+    {
+      "id": "n_3321e0ceca",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Hunderttausende beim CSD in Berlin erwartet",
+      "summary": "Die Berliner Innenstadt wird voll: Hunderttausende werden zur großen Demonstration zum Christopher Street Day erwartet. Das Motto lautet: \"Haltung ist hot\". Die Polizei stellt sich auf rechte Gegenproteste ein.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/csd-berlin-gegenproteste-100.html",
+      "publishedAt": "2026-07-25T09:17:30.000Z"
+    },
+    {
+      "id": "n_ff5213f289",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "So schützen Kleingärten vor Hitze",
+      "summary": "Natürliche Klimaanlagen bei Hitze: Kleingärten können die Temperaturen ihrer Umgebung um mehrere Grad senken. Gerade in urbanen Räumen gewinnen sie an Bedeutung - auch als Speicher von Kohlenstoff. Von Rebecca Nordin Mencke.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wissen/klima/kleingaerten-klimaschutz-100.html",
+      "publishedAt": "2026-07-25T07:47:36.000Z"
+    },
+    {
+      "id": "n_6eea3cfcb7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach Attacke auf saudisches Schiff: Militärbündnis greift Huthi im Jemen an",
+      "summary": "Ein Militärbündnis unter Führung von Saudi-Arabien hat im Jemen Ziele der Huthi-Miliz angegriffen. Die Angriffe seien eine Vergeltung auf die Attacke auf ein Schiff unter saudischer Flagge gewesen, hieß es. Offenbar gibt es bereits Gegenangriffe der Huthi.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-angriffe-100.html",
+      "publishedAt": "2026-07-25T07:35:38.000Z"
+    },
+    {
+      "id": "n_455daa3747",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Waldbrände in Frankreich: Feuer bewegen sich auf Bordeaux zu",
+      "summary": "Die Waldbrände im Südwesten Frankreichs sind nach wie vor nicht unter Kontrolle. Die Feuer bewegen sich auf die Großstadt Bordeaux zu, erste Vororte wurden evakuiert. Frankreichs Premier Lecornu ordnete den Einsatz des Militärs an.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/waldbraende-frankreich-bordeaux-100.html",
+      "publishedAt": "2026-07-25T07:06:30.000Z"
+    },
+    {
+      "id": "n_001c981e47",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Paramount setzt Warner-Übernahme nach mehreren Klagen aus",
+      "summary": "Der milliardenschwere Kauf des Medienkonzerns Warner Brothers verzögert sich. Zwölf US-Bundesstaaten und Drehbuchautoren wollen den Deal vor Gericht stoppen - aus Sorge vor Wettbewerbsnachteilen und möglichen Folgen für die Medienvielfalt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/paramount-uebernahme-warner-100.html",
+      "publishedAt": "2026-07-25T06:39:57.000Z"
+    },
     {
       "id": "n_ab442b1370",
       "type": "news",
@@ -22,72 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/russland-angriffe-wildberries-petersburg-100.html",
       "publishedAt": "2026-07-25T03:09:29.000Z"
-    },
-    {
-      "id": "n_0305fd4e59",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Mandat von UN-Menschenrechtskommissar Türk um vier Jahre verlängert",
-      "summary": "UN-Menschenrechtskommissar Volker Türk bleibt weitere vier Jahre im Amt. Gegen den Widerstand Russlands, Israels und der USA hat die UN-Generalversammlung mehrheitlich für eine Mandatsverlängerung gestimmt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/volker-tuerk-un-menschenrechtskommissar-100.html",
-      "publishedAt": "2026-07-25T01:44:24.000Z"
-    },
-    {
-      "id": "n_6eea3cfcb7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Nach Attacke auf saudisches Schiff: Militärbündnis greift Huthi im Jemen an",
-      "summary": "Ein Militärbündnis unter Führung von Saudi-Arabien hat im jemenitischen Hodaida Ziele der Huthi-Miliz angegriffen. Die Angriffe seien eine Vergeltung für die Attacke auf ein Schiff unter saudischer Flagge gewesen, teilte das Bündnis mit.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-angriffe-100.html",
-      "publishedAt": "2026-07-25T00:41:42.000Z"
-    },
-    {
-      "id": "n_4e67e680eb",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Gordie-Howe-Brücke zwischen Kanada und den USA eröffnet",
-      "summary": "Eigentlich sollten die Nachbarn Kanada und USA durch die neue Gordie-Howe-Brücke näher zusammenrücken. Doch ihre Eröffnung fällt mitten in einen Zollstreit, der beide Länder weiter entfremdet. Von Benjamin Best.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/gordie-howe-bruecke-100.html",
-      "publishedAt": "2026-07-24T23:40:06.000Z"
-    },
-    {
-      "id": "n_2acf5d49bc",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Internationaler Strafgerichtshof - Chefankläger Khan wird abgesetzt",
-      "summary": "Wegen des Vorwurfs sexueller Übergriffe wurde Karim Khan bereits suspendiert - jetzt haben die Vertragsstaaten des Internationalen Strafgerichtshofs beschlossen: Der Chefankläger wird des Amtes enthoben.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/internationaler-strafgerichtshof-khan-absetzung-100.html",
-      "publishedAt": "2026-07-24T22:50:53.000Z"
-    },
-    {
-      "id": "n_a3a916a33c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Trump droht nach Google-Strafe der EU mit neuen Zöllen",
-      "summary": "US-Präsident Trump hat die EU-Kommission wegen der Milliardenstrafe gegen die Google-Mutter Alphabet scharf kritisiert. Er warf der Behörde \"Raub\" vor, für den Europa \"einen sehr hohen Preis zahlen\" werde.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-google-eu-100.html",
-      "publishedAt": "2026-07-24T19:20:15.000Z"
-    },
-    {
-      "id": "n_b3c8f0fc6e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Nach Kabinettsumbildung: \"Merz hat die Gunst der Stunde genutzt\"",
-      "summary": "Kanzler Merz könnte mit der Kabinettsumbildung die Koalition aus dem derzeitigen Tief retten, sagt der Politikwissenschaftlers Oliver Lembcke im Interview mit tagesschau24. Jetzt müsse er den Wechsel aber noch komplett umsetzen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/kabinettsumbildung-merz-lembcke-100.html",
-      "publishedAt": "2026-07-24T18:18:38.000Z"
     },
     {
       "id": "n_3901b983d4",
@@ -178,6 +178,72 @@
       "publishedAt": "2026-07-24T06:52:00.000Z"
     },
     {
+      "id": "n_1311f56709",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Humanoid: Europas erstes Roboter-Unicorn setzt auf Räder",
+      "summary": "Das Start-up Humanoid hat 134 Millionen Euro eingesammelt und wird mit 1,19 Milliarden Euro bewertet. Laufen können seine ersten Roboter nicht. (Roboter, SAP)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/humanoid-europas-erstes-roboter-unicorn-setzt-auf-raeder-2607-211282.html",
+      "publishedAt": "2026-07-25T09:53:01.000Z"
+    },
+    {
+      "id": "n_e402c3e4ed",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "IT-Fachkräfte: USA dürfen keine 100.000 US-Dollar für Visa verlangen",
+      "summary": "Vor allem IT-Fachkräfte arbeiten häufig mit einem H-1B-Visum in den USA. Unter Präsident Trump wurde die Gebühr dafür drastisch angehoben - zu Unrecht. (Donald Trump, Google)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/it-fachkraefte-usa-duerfen-keine-100-000-us-dollar-fuer-visa-verlangen-2607-211281.html",
+      "publishedAt": "2026-07-25T09:25:02.000Z"
+    },
+    {
+      "id": "n_26ecb19fba",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "SpaceX: Booster und Hitzeschild versagen beim 13. Flug des Starship",
+      "summary": "Erstmals gibt es gute Bilder vom Hitzeschutzschild nach dem Wiedereintritt. Sie zeigen viele Schäden am Starship. Der Booster stürzte ab. Von Frank Wunderlich-Pfeiffer (Starship, Raumfahrt)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/spacex-booster-und-hitzeschild-versagen-beim-13-flug-des-starship-2607-211280.html",
+      "publishedAt": "2026-07-25T08:55:02.000Z"
+    },
+    {
+      "id": "n_772d5b99e1",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Monitor mit 24 Zoll von BenQ für nur 75,98 Euro bei Amazon",
+      "summary": "Einen Monitor von BenQ mit 24 Zoll großem IPS-Display, FHD-Auflösung und 100 Hz für Office und Alltag gibt es bei Amazon zum Sparpreis. (BenQ, Display)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-monitor-mit-24-zoll-von-benq-fuer-nur-75-98-euro-bei-amazon-2607-211263.html",
+      "publishedAt": "2026-07-25T08:40:02.000Z"
+    },
+    {
+      "id": "n_230bdc0e22",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "(g+) Von Apple zu Linux: Alter Mac statt teurer Neukauf",
+      "summary": "Macs eignen sich oft hervorragend für Linux. Worauf beim Umstieg zu achten ist und welche Distributionen sich anbieten. Ein Ratgebertext von Antonio Zambito (Linux, Apple)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/von-apple-zu-linux-alter-mac-statt-teurer-neukauf-2607-210946.html",
+      "publishedAt": "2026-07-25T08:00:02.000Z"
+    },
+    {
+      "id": "n_d25e61259a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Mitmachaktion: Was denkst du über die KI-Blase?",
+      "summary": "Von verbrannter Erde bis zum friedlichen Utopia mit billiger Hardware. Erzähl uns, was passieren könnte, wenn die KI-Blase platzt. (KI, Wirtschaft)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/mitmachaktion-was-denkst-du-ueber-die-ki-blase-2607-211204.html",
+      "publishedAt": "2026-07-25T07:00:01.000Z"
+    },
+    {
       "id": "n_7ed374ca5f",
       "type": "news",
       "topic": "tech",
@@ -200,103 +266,37 @@
       "publishedAt": "2026-07-24T16:00:01.000Z"
     },
     {
-      "id": "n_0224ec6a49",
+      "id": "n_27ed257558",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Tokens: SAP will Ausgaben für KI deutlich einschränken",
-      "summary": "Weil der konzernweite KI-Einsatz die Ausgaben für Tokens in die Höhe treibt, führt SAP ein striktes dreistufiges Controlling-System ein. (KI, Börse)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/tokens-sap-will-ausgaben-fuer-ki-deutlich-einschraenken-2607-211276.html",
-      "publishedAt": "2026-07-24T15:57:02.000Z"
-    },
-    {
-      "id": "n_2722f918c9",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Wirtschaftsblase: Die Tesla-SpaceX-Blase platzt",
-      "summary": "Die Geschäftspläne, die nicht von Science-Fiction-Romanen zu unterscheiden sind, überzeugen nicht mehr. Eine Analyse von Frank Wunderlich-Pfeiffer (SpaceX, Elektroauto)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/wirtschaftsblase-die-tesla-spacex-blase-platzt-2607-211258.html",
-      "publishedAt": "2026-07-24T15:35:02.000Z"
-    },
-    {
-      "id": "n_27423ebaf6",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Starker Smart-TV fällt bei Amazon auf deutlich unter 300 Euro",
-      "summary": "Bei Amazon gibt es derzeit den TCL 50T6C zum Sonderpreis im Angebot. Der Fernseher ist auf weit unter 300 Euro reduziert. (TV & Monitore, Heimkino)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-starker-smart-tv-faellt-bei-amazon-auf-deutlich-unter-300-euro-2607-211272.html",
-      "publishedAt": "2026-07-24T15:23:02.000Z"
-    },
-    {
-      "id": "n_9d16ec9f31",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Cisco-Studie: Deutschlands Firmennetzwerke kommen ohne Ausbau nicht mit KI klar",
-      "summary": "Künstliche Intelligenz bringt die IT-Infrastruktur deutscher Unternehmen in Schwierigkeiten. Viele Betriebe könnten an ihre Kapazitätsgrenzen gelangen. (Netzwerkhardware, API)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/cisco-studie-deutschlands-firmennetzwerke-kommen-ohne-ausbau-nicht-mit-ki-klar-2607-211268.html",
-      "publishedAt": "2026-07-24T15:03:01.000Z"
-    },
-    {
-      "id": "n_bbba154b3f",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Anker Powerbank mit 300 W und 26.500 mAh zum Tiefstpreis bei Amazon",
-      "summary": "Amazon verkauft die Anker Prime Powerbank in der 300-W-Variante über 20 Euro reduziert. Günstiger war sie noch nie. (Technik/Hardware, Amazon)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-anker-powerbank-mit-300-w-und-26-500-mah-zum-tiefstpreis-bei-amazon-2607-211271.html",
-      "publishedAt": "2026-07-24T14:50:02.000Z"
-    },
-    {
-      "id": "n_a4a7499c8b",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Jeff Bezos persönlich beteiligt: Amazon will mehr KI in Prime Video einsetzen",
-      "summary": "Nach einer missglückten Präsentation im Jahr 2025 treibt Jeff Bezos persönlich die KI-gestützte Personalisierung bei Prime Video voran. (KI, Amazon)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/jeff-bezos-persoenlich-beteiligt-amazon-will-mehr-ki-in-prime-video-einsetzen-2607-211270.html",
-      "publishedAt": "2026-07-24T14:43:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T10:14:41.000Z"
     },
     {
       "id": "n_8a47e59434",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Trump pokes fun at press during White House Correspondents' Dinner",
+      "headline": "Trump takes swipes at press during White House Correspondents' Dinner",
       "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T05:12:57.000Z"
+      "publishedAt": "2026-07-25T06:41:42.000Z"
     },
     {
       "id": "n_4cd3f31047",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Saudi Arabia and Houthis exchange fire as US attacks tanker in Hormuz Strait",
+      "headline": "Iran-backed Houthis claim missile attack on Saudi Arabia",
       "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T04:48:40.000Z"
-    },
-    {
-      "id": "n_0008452186",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "More than 220,000 evacuated in France and Spain due to wildfires",
-      "summary": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T02:29:36.000Z"
+      "publishedAt": "2026-07-25T06:34:40.000Z"
     },
     {
       "id": "n_1206ed6269",
@@ -332,26 +332,26 @@
       "publishedAt": "2026-07-25T00:06:53.000Z"
     },
     {
-      "id": "n_27ed257558",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-      "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T23:11:13.000Z"
-    },
-    {
       "id": "n_ec82a06a8a",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "'The dogs were getting upset': How LA band Muna survived their worst ever gig",
+      "headline": "The pop band who went from playing for rescue dogs to selling out arenas",
       "summary": "The group discuss disastrous gigs, putting political action into music and the meaning of \"queer pop\".",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ce85j65r4l2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-24T23:01:10.000Z"
+    },
+    {
+      "id": "n_24be73606f",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+      "summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-24T23:01:06.000Z"
     },
     {
       "id": "n_88aa02b9d5",
@@ -1034,6 +1034,186 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/thinkingmachines-inkling",
       "publishedAt": "2026-07-15T00:00:00.000Z"
+    },
+    {
+      "id": "n_9363752886",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Claude Just Revealed AI's Biggest Problem",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
+      "thumbnail": "https://i.ytimg.com/vi/axOcn--n_lM/hqdefault.jpg",
+      "publishedAt": "2026-07-16T15:39:17.000Z"
+    },
+    {
+      "id": "n_b87b50ece3",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Anthropic Found Something That Shouldn't Exist",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
+      "thumbnail": "https://i.ytimg.com/vi/0CqLVnx-2UM/hqdefault.jpg",
+      "publishedAt": "2026-07-15T13:58:27.000Z"
+    },
+    {
+      "id": "n_d86677f440",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Minecraft Was Missing One Brilliant Idea",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
+      "thumbnail": "https://i.ytimg.com/vi/Ae9q7KsRbuI/hqdefault.jpg",
+      "publishedAt": "2026-07-12T15:48:43.000Z"
+    },
+    {
+      "id": "n_470f11b169",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DeepSeek's Absolutely Insane AI Speed Hack",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=1yBU41auQhw",
+      "thumbnail": "https://i.ytimg.com/vi/1yBU41auQhw/hqdefault.jpg",
+      "publishedAt": "2026-07-07T16:33:29.000Z"
+    },
+    {
+      "id": "n_39feb22ff6",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
+      "thumbnail": "https://i.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
+      "publishedAt": "2026-06-30T21:16:13.000Z"
+    },
+    {
+      "id": "n_6a7b36e7cd",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
+      "thumbnail": "https://i.ytimg.com/vi/1M3Vdl6DRkU/hqdefault.jpg",
+      "publishedAt": "2026-05-29T16:18:31.000Z"
+    },
+    {
+      "id": "n_c402ebf7aa",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
+      "thumbnail": "https://i.ytimg.com/vi/nepKKz-MzFM/hqdefault.jpg",
+      "publishedAt": "2026-05-06T22:03:16.000Z"
+    },
+    {
+      "id": "n_854df813c0",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
+      "thumbnail": "https://i.ytimg.com/vi/iKx3gAODybU/hqdefault.jpg",
+      "publishedAt": "2026-04-09T17:35:20.000Z"
+    },
+    {
+      "id": "n_c930172539",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The most interesting \"hack\" in history...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=KOpTWx1Eou4",
+      "thumbnail": "https://i.ytimg.com/vi/KOpTWx1Eou4/hqdefault.jpg",
+      "publishedAt": "2026-07-23T16:53:37.000Z"
+    },
+    {
+      "id": "n_c30c73dbe7",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Open-weight AI just hit 2.8 trillion parameters…",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=YP73B9D20V4",
+      "thumbnail": "https://i.ytimg.com/vi/YP73B9D20V4/hqdefault.jpg",
+      "publishedAt": "2026-07-22T17:43:52.000Z"
+    },
+    {
+      "id": "n_10ab80aff4",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "This $12 billion startup finally shipped something...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=M51asSwRLxA",
+      "thumbnail": "https://i.ytimg.com/vi/M51asSwRLxA/hqdefault.jpg",
+      "publishedAt": "2026-07-20T17:02:30.000Z"
+    },
+    {
+      "id": "n_f826171ec0",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "OpenAI gets sued for stealing, again…",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=5D4Zqp9GLSc",
+      "thumbnail": "https://i.ytimg.com/vi/5D4Zqp9GLSc/hqdefault.jpg",
+      "publishedAt": "2026-07-17T17:56:42.000Z"
+    },
+    {
+      "id": "n_64ebc2a7bf",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
+      "thumbnail": "https://i.ytimg.com/vi/8Hx2yvWSgs0/hqdefault.jpg",
+      "publishedAt": "2026-07-22T13:01:05.000Z"
+    },
+    {
+      "id": "n_6742ca94db",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "iOS 27 Hands-On: Top 5 New Features!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=_oRgdlJUD18",
+      "thumbnail": "https://i.ytimg.com/vi/_oRgdlJUD18/hqdefault.jpg",
+      "publishedAt": "2026-07-13T22:27:02.000Z"
+    },
+    {
+      "id": "n_d2ac42a2bd",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Apple Lost the AI Race",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=eWKY0OnPByg",
+      "thumbnail": "https://i.ytimg.com/vi/eWKY0OnPByg/hqdefault.jpg",
+      "publishedAt": "2026-07-08T19:44:58.000Z"
     }
   ]
 }
