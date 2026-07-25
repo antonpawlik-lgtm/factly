@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-07-24T21:53:02.265Z",
+  "generatedAt": "2026-07-25T05:33:22.986Z",
   "items": [
+    {
+      "id": "n_ab442b1370",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "CSD 2026: Queere Räume in Berlin unter Druck",
+      "summary": "Während am Pride-Wochenende Hunderttausende buntes Leben in der Hauptstadt feiern, kämpfen Inititativen, die das ganze Jahr über queere Kultur- und Communityarbeit machen, ums Überleben. Von H. Möller und L. Babst.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/kultur/queere-orte-in-berlin-kampf-ums-ueberleben-100.html",
+      "publishedAt": "2026-07-25T04:24:50.000Z"
+    },
+    {
+      "id": "n_6f60a78814",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ukraine nimmt Russlands Online-Handel ins Visier",
+      "summary": "In Russland hat der Online-Händler Wildberries eine ähnliche Bedeutung wie hierzulande Amazon. Nun greift die Ukraine den Händler gezielt und wiederholt an. Das trifft auch viele kleine Unternehmer. Von Silke Diettrich.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/russland-angriffe-wildberries-petersburg-100.html",
+      "publishedAt": "2026-07-25T03:09:29.000Z"
+    },
+    {
+      "id": "n_0305fd4e59",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Mandat von UN-Menschenrechtskommissar Türk um vier Jahre verlängert",
+      "summary": "UN-Menschenrechtskommissar Volker Türk bleibt weitere vier Jahre im Amt. Gegen den Widerstand Russlands, Israels und der USA hat die UN-Generalversammlung mehrheitlich für eine Mandatsverlängerung gestimmt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/volker-tuerk-un-menschenrechtskommissar-100.html",
+      "publishedAt": "2026-07-25T01:44:24.000Z"
+    },
+    {
+      "id": "n_6eea3cfcb7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach Attacke auf saudisches Schiff: Militärbündnis greift Huthi im Jemen an",
+      "summary": "Ein Militärbündnis unter Führung von Saudi-Arabien hat im jemenitischen Hodaida Ziele der Huthi-Miliz angegriffen. Die Angriffe seien eine Vergeltung für die Attacke auf ein Schiff unter saudischer Flagge gewesen, teilte das Bündnis mit.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-angriffe-100.html",
+      "publishedAt": "2026-07-25T00:41:42.000Z"
+    },
+    {
+      "id": "n_4e67e680eb",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Gordie-Howe-Brücke zwischen Kanada und den USA eröffnet",
+      "summary": "Eigentlich sollten die Nachbarn Kanada und USA durch die neue Gordie-Howe-Brücke näher zusammenrücken. Doch ihre Eröffnung fällt mitten in einen Zollstreit, der beide Länder weiter entfremdet. Von Benjamin Best.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/gordie-howe-bruecke-100.html",
+      "publishedAt": "2026-07-24T23:40:06.000Z"
+    },
     {
       "id": "n_2acf5d49bc",
       "type": "news",
@@ -10,7 +65,7 @@
       "summary": "Wegen des Vorwurfs sexueller Übergriffe wurde Karim Khan bereits suspendiert - jetzt haben die Vertragsstaaten des Internationalen Strafgerichtshofs beschlossen: Der Chefankläger wird des Amtes enthoben.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/internationaler-strafgerichtshof-khan-absetzung-100.html",
-      "publishedAt": "2026-07-24T20:50:16.000Z"
+      "publishedAt": "2026-07-24T22:50:53.000Z"
     },
     {
       "id": "n_a3a916a33c",
@@ -33,61 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/kabinettsumbildung-merz-lembcke-100.html",
       "publishedAt": "2026-07-24T18:18:38.000Z"
-    },
-    {
-      "id": "n_f9226f0fb2",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Russische Zentralbank senkt Leitzins erneut",
-      "summary": "Russlands Zentralbank hat den Leitzins weiter gesenkt, auf nun 14 Prozent. Damit will sie die zunehmend unter dem Angriffskrieg gegen die Ukraine leidende Wirtschaft stützen. Gleichzeitig steigt jedoch die Inflationsgefahr. Von Björn Blaschke.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/russland-leitzins-102.html",
-      "publishedAt": "2026-07-24T17:45:12.000Z"
-    },
-    {
-      "id": "n_8cfb62c2dc",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Russischer Raketenangriff auf Rüstungsmesse nahe Kiew",
-      "summary": "Russland hat offenbar gezielt eine Veranstaltung von Vertretern der ukrainischen Drohnenbranche in der Nähe von Kiew angegriffen. Mindestens zehn Menschen sollen getötet und fast 100 weitere verletzt worden sein.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-ruestungstreffen-100.html",
-      "publishedAt": "2026-07-24T17:22:54.000Z"
-    },
-    {
-      "id": "n_9c5727559b",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Türkei: Kann sich Özels \"Neue Partei\" durchsetzen?",
-      "summary": "Der türkische Oppositionspolitiker Özel gründet eine neue Partei. Ein Großteil der Abgeordneten seiner früheren Partei CHP will ihm folgen - doch die Neugründung birgt auch Risiken. Von Gabriele Dunkel.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/chp-spaltung-oezel-100.html",
-      "publishedAt": "2026-07-24T16:20:29.000Z"
-    },
-    {
-      "id": "n_2525127337",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: DAX erholt sich zum Wochenschluss",
-      "summary": "Zwischen neuen US-Zöllen, hohen Ölpreisen, anhaltender Unruhe in Nahost und schwachen VW-Zahlen gelingt dem DAX ein Anstieg. Dazu trug vor dem Wochenende vor allem Schwergewicht SAP bei.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-iran-100.html",
-      "publishedAt": "2026-07-24T16:18:50.000Z"
-    },
-    {
-      "id": "n_3fc4035577",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Mehr als 65.000 Menschen wegen Waldbränden in Frankreich evakuiert",
-      "summary": "Wegen der Waldbrände an der französischen Atlantikküste müssen Zehntausende Menschen evakuiert werden, inzwischen werden dafür auch Schiffe eingesetzt. Eines der beiden großen Feuer ist auf die Größe von Paris angewachsen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-frankreich-108.html",
-      "publishedAt": "2026-07-24T15:42:34.000Z"
     },
     {
       "id": "n_3901b983d4",
@@ -178,6 +178,17 @@
       "publishedAt": "2026-07-24T06:52:00.000Z"
     },
     {
+      "id": "n_7ed374ca5f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Mobile Games: Nintendo und Goblin-Sushi bringen Spaß aufs Smartphone",
+      "summary": "Katzenmagier, Goblin-Sushi und ein neues Nintendo-Spiel: Diese Mobile-Games lohnen sich auf iPhone und Android. Von Rainer Sigl (Mobile Games, Spieletest)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/mobile-games-nintendo-und-goblin-sushi-bringen-spass-aufs-smartphone-2607-211017.html",
+      "publishedAt": "2026-07-25T05:30:02.000Z"
+    },
+    {
       "id": "n_5299ecc85c",
       "type": "news",
       "topic": "tech",
@@ -255,48 +266,59 @@
       "publishedAt": "2026-07-24T14:43:02.000Z"
     },
     {
-      "id": "n_7af09dd377",
+      "id": "n_8a47e59434",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "60 Jahre später: Flüssigsalzreaktor in den USA erhält Sicherheitsbestätigung",
-      "summary": "Das ehemals vielversprechende Prinzip eines Atomreaktors ohne Brennstäbe soll wiederbelebt werden. Der Aufbau wurde genehmigt. (Atomkraft, Strom)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/60-jahre-spaeter-fluessigsalzreaktor-in-den-usa-erhaelt-sicherheitsbestaetigung-2607-211256.html",
-      "publishedAt": "2026-07-24T14:28:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump pokes fun at press during White House Correspondents' Dinner",
+      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T05:12:57.000Z"
+    },
+    {
+      "id": "n_4cd3f31047",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Saudi Arabia and Houthis exchange fire as US attacks tanker in Hormuz Strait",
+      "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T04:48:40.000Z"
     },
     {
       "id": "n_0008452186",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-      "summary": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
+      "headline": "More than 220,000 evacuated in France and Spain due to wildfires",
+      "summary": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T21:47:16.000Z"
+      "publishedAt": "2026-07-25T02:29:36.000Z"
     },
     {
-      "id": "n_1c31122fa3",
+      "id": "n_1206ed6269",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "ICC top prosecutor removed over sexual misconduct allegations",
-      "summary": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
+      "headline": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+      "summary": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T21:02:30.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T02:23:09.000Z"
     },
     {
-      "id": "n_b94db87565",
+      "id": "n_f76de72188",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Trump vows to investigate EU over fining of US tech companies",
-      "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+      "headline": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+      "summary": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T20:23:58.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T02:14:50.000Z"
     },
     {
       "id": "n_8518093b41",
@@ -307,51 +329,40 @@
       "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T18:51:17.000Z"
+      "publishedAt": "2026-07-25T00:06:53.000Z"
     },
     {
-      "id": "n_22c51bb32b",
+      "id": "n_27ed257558",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+      "headline": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T18:19:23.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-24T23:11:13.000Z"
     },
     {
-      "id": "n_29bf8be0c9",
+      "id": "n_ec82a06a8a",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-      "summary": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
+      "headline": "'The dogs were getting upset': How LA band Muna survived their worst ever gig",
+      "summary": "The group discuss disastrous gigs, putting political action into music and the meaning of \"queer pop\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T18:13:02.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/ce85j65r4l2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-24T23:01:10.000Z"
     },
     {
-      "id": "n_813631473f",
+      "id": "n_88aa02b9d5",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "India cockroach protests: Videos show officers firing 'pellet guns'",
-      "summary": "Thousands of people have taken to the streets in Delhi as part of the cockroach protests, calling for educational reforms.",
+      "headline": "Tech Now",
+      "summary": "Highlights from the Esports World Cup in Paris and how to build a gaming PC.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cgje5l292g2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T16:12:34.000Z"
-    },
-    {
-      "id": "n_7ab1c997b0",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "World chess chief faces endgame after EU announces Russia war sanctions",
-      "summary": "Arkady Dvorkovich, a former Russian deputy prime minister, now faces an EU travel ban and asset freeze.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T16:08:51.000Z"
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002zn5l?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T01:00:00.000Z"
     },
     {
       "id": "n_dd41179d8d",
@@ -363,6 +374,17 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-24T20:37:21.000Z"
+    },
+    {
+      "id": "n_b94db87565",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Trump vows to investigate EU over fining of US tech companies",
+      "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-24T20:23:58.000Z"
     },
     {
       "id": "n_1acb1ce660",
@@ -409,26 +431,26 @@
       "publishedAt": "2026-07-23T20:42:33.000Z"
     },
     {
-      "id": "n_c74682a6b6",
+      "id": "n_f56159eaff",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Amazon gaming boss predicts future where players no longer need consoles",
-      "summary": "Jeff Gattis said the rising cost of gaming tech is likely to mean more people will stream their games online.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9803j74091o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T13:24:16.000Z"
+      "headline": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
+      "summary": "\"Any potential damage will be assessed when it is safe to do so.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
+      "publishedAt": "2026-07-24T22:28:20.000Z"
     },
     {
-      "id": "n_1ec9767c7f",
+      "id": "n_3921932808",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
-      "summary": "Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T11:39:11.000Z"
+      "headline": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
+      "summary": "“Halting this merger while our case proceeds is a critical victory,\" NY AG said.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
+      "publishedAt": "2026-07-24T21:56:02.000Z"
     },
     {
       "id": "n_c1670995ed",
@@ -468,7 +490,7 @@
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "RFK Jr.'s hand-picked committee approves manufacture of peptides he uses",
+      "headline": "RFK Jr.'s handpicked committee approves manufacture of peptides he uses",
       "summary": "There's no human safety or efficacy data, but that no longer seems to matter.",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/",
@@ -497,26 +519,26 @@
       "publishedAt": "2026-07-24T17:45:05.000Z"
     },
     {
-      "id": "n_e401388c26",
+      "id": "n_658d80679c",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-      "summary": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-      "publishedAt": "2026-07-24T17:31:26.000Z"
+      "headline": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "publishedAt": "2026-07-25T00:23:11.000Z"
     },
     {
-      "id": "n_4e721fc7c0",
+      "id": "n_e887b32468",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "This is the world's most advanced robotic servicing satellite—that we know about",
-      "summary": "\"These are things that tend to be really hard.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
-      "publishedAt": "2026-07-24T15:23:06.000Z"
+      "headline": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "publishedAt": "2026-07-24T22:25:58.000Z"
     },
     {
       "id": "n_a913682517",
@@ -524,7 +546,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief t",
+      "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
       "publishedAt": "2026-07-24T18:07:32.000Z"
@@ -583,28 +605,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
       "publishedAt": "2026-07-24T14:00:00.000Z"
-    },
-    {
-      "id": "n_75e11e424e",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "publishedAt": "2026-07-24T13:36:42.000Z"
-    },
-    {
-      "id": "n_2a6bd5e033",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "publishedAt": "2026-07-24T01:00:00.000Z"
     },
     {
       "id": "n_2bbb3806a8",
@@ -864,7 +864,7 @@
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+      "headline": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
       "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use.",
       "source": "Wired",
       "url": "https://www.wired.com/story/uncanny-valley-podcast/",
@@ -1034,186 +1034,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/thinkingmachines-inkling",
       "publishedAt": "2026-07-15T00:00:00.000Z"
-    },
-    {
-      "id": "n_9363752886",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude Just Revealed AI's Biggest Problem",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
-      "thumbnail": "https://i.ytimg.com/vi/axOcn--n_lM/hqdefault.jpg",
-      "publishedAt": "2026-07-16T15:39:17.000Z"
-    },
-    {
-      "id": "n_b87b50ece3",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Anthropic Found Something That Shouldn't Exist",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
-      "thumbnail": "https://i.ytimg.com/vi/0CqLVnx-2UM/hqdefault.jpg",
-      "publishedAt": "2026-07-15T13:58:27.000Z"
-    },
-    {
-      "id": "n_d86677f440",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Minecraft Was Missing One Brilliant Idea",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
-      "thumbnail": "https://i.ytimg.com/vi/Ae9q7KsRbuI/hqdefault.jpg",
-      "publishedAt": "2026-07-12T15:48:43.000Z"
-    },
-    {
-      "id": "n_470f11b169",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek's Absolutely Insane AI Speed Hack",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=1yBU41auQhw",
-      "thumbnail": "https://i.ytimg.com/vi/1yBU41auQhw/hqdefault.jpg",
-      "publishedAt": "2026-07-07T16:33:29.000Z"
-    },
-    {
-      "id": "n_39feb22ff6",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
-      "thumbnail": "https://i.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
-      "publishedAt": "2026-06-30T21:16:13.000Z"
-    },
-    {
-      "id": "n_6a7b36e7cd",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
-      "thumbnail": "https://i.ytimg.com/vi/1M3Vdl6DRkU/hqdefault.jpg",
-      "publishedAt": "2026-05-29T16:18:31.000Z"
-    },
-    {
-      "id": "n_c402ebf7aa",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
-      "thumbnail": "https://i.ytimg.com/vi/nepKKz-MzFM/hqdefault.jpg",
-      "publishedAt": "2026-05-06T22:03:16.000Z"
-    },
-    {
-      "id": "n_854df813c0",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "thumbnail": "https://i.ytimg.com/vi/iKx3gAODybU/hqdefault.jpg",
-      "publishedAt": "2026-04-09T17:35:20.000Z"
-    },
-    {
-      "id": "n_c930172539",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The most interesting \"hack\" in history...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=KOpTWx1Eou4",
-      "thumbnail": "https://i.ytimg.com/vi/KOpTWx1Eou4/hqdefault.jpg",
-      "publishedAt": "2026-07-23T16:53:37.000Z"
-    },
-    {
-      "id": "n_c30c73dbe7",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Open-weight AI just hit 2.8 trillion parameters…",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=YP73B9D20V4",
-      "thumbnail": "https://i.ytimg.com/vi/YP73B9D20V4/hqdefault.jpg",
-      "publishedAt": "2026-07-22T17:43:52.000Z"
-    },
-    {
-      "id": "n_10ab80aff4",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "This $12 billion startup finally shipped something...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=M51asSwRLxA",
-      "thumbnail": "https://i.ytimg.com/vi/M51asSwRLxA/hqdefault.jpg",
-      "publishedAt": "2026-07-20T17:02:30.000Z"
-    },
-    {
-      "id": "n_f826171ec0",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI gets sued for stealing, again…",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=5D4Zqp9GLSc",
-      "thumbnail": "https://i.ytimg.com/vi/5D4Zqp9GLSc/hqdefault.jpg",
-      "publishedAt": "2026-07-17T17:56:42.000Z"
-    },
-    {
-      "id": "n_64ebc2a7bf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
-      "thumbnail": "https://i.ytimg.com/vi/8Hx2yvWSgs0/hqdefault.jpg",
-      "publishedAt": "2026-07-22T13:01:05.000Z"
-    },
-    {
-      "id": "n_6742ca94db",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "iOS 27 Hands-On: Top 5 New Features!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=_oRgdlJUD18",
-      "thumbnail": "https://i.ytimg.com/vi/_oRgdlJUD18/hqdefault.jpg",
-      "publishedAt": "2026-07-13T22:27:02.000Z"
-    },
-    {
-      "id": "n_d2ac42a2bd",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Apple Lost the AI Race",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=eWKY0OnPByg",
-      "thumbnail": "https://i.ytimg.com/vi/eWKY0OnPByg/hqdefault.jpg",
-      "publishedAt": "2026-07-08T19:44:58.000Z"
     }
   ]
 }
