@@ -1,93 +1,93 @@
 {
-  "generatedAt": "2026-07-25T10:19:13.887Z",
+  "generatedAt": "2026-07-25T21:42:15.888Z",
   "items": [
-    {
-      "id": "n_ae56dac830",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Zukünftiger Unionsfraktionschef Frei nennt Panne bei Regierungsumbildung \"Pech\"",
-      "summary": "Kanzler Merz möchte offenbar Verkehrsminister Schnieder ersetzen. Doch einen Nachfolger scheint es noch nicht zu geben. \"Das kann passieren\", meint der designierte Unionsfraktionschef Frei. Kritik kommt von Ex-Kanzleramtsminister Altmaier.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/kabinettsumbildung-reax-frei-100.html",
-      "publishedAt": "2026-07-25T09:48:18.000Z"
-    },
     {
       "id": "n_3321e0ceca",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Hunderttausende beim CSD in Berlin erwartet",
-      "summary": "Die Berliner Innenstadt wird voll: Hunderttausende werden zur großen Demonstration zum Christopher Street Day erwartet. Das Motto lautet: \"Haltung ist hot\". Die Polizei stellt sich auf rechte Gegenproteste ein.",
+      "headline": "CSD in Berlin vorzeitig abgebrochen",
+      "summary": "Der Christopher Street Day in Berlin ist frühzeitig abgebrochen worden. Die Hintergründe sind noch unklar. Medienberichte sprechen von mehreren Verletzten.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/regional/berlin/csd-berlin-gegenproteste-100.html",
-      "publishedAt": "2026-07-25T09:17:30.000Z"
+      "publishedAt": "2026-07-25T21:29:28.000Z"
     },
     {
-      "id": "n_ff5213f289",
+      "id": "n_2bcf797481",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "So schützen Kleingärten vor Hitze",
-      "summary": "Natürliche Klimaanlagen bei Hitze: Kleingärten können die Temperaturen ihrer Umgebung um mehrere Grad senken. Gerade in urbanen Räumen gewinnen sie an Bedeutung - auch als Speicher von Kohlenstoff. Von Rebecca Nordin Mencke.",
+      "headline": "Berliner CSD abgebrochen - mutmaßlich Fahrzeug in Menschenmenge gefahren",
+      "summary": "Der Berliner Christopher Street Day ist abgebrochen worden. Laut Polizei ist mutmaßlich ein Fahrzeug in eine Menschenmenge gefahren, mehrere Menschen seien verletzt.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/klima/kleingaerten-klimaschutz-100.html",
-      "publishedAt": "2026-07-25T07:47:36.000Z"
+      "url": "https://www.tagesschau.de/inland/gesellschaft/csd-berlin-verletzte-100.html",
+      "publishedAt": "2026-07-25T21:22:06.000Z"
     },
     {
-      "id": "n_6eea3cfcb7",
+      "id": "n_4e0f5a2814",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Nach Attacke auf saudisches Schiff: Militärbündnis greift Huthi im Jemen an",
-      "summary": "Ein Militärbündnis unter Führung von Saudi-Arabien hat im Jemen Ziele der Huthi-Miliz angegriffen. Die Angriffe seien eine Vergeltung auf die Attacke auf ein Schiff unter saudischer Flagge gewesen, hieß es. Offenbar gibt es bereits Gegenangriffe der Huthi.",
+      "headline": "ARD-Korrespondent: \"Dimensionen, die Frankreich bisher nicht kannte\"",
+      "summary": "Die Waldbrände in Frankreich erreichen ein historisches Ausmaß. Die Einsatzkräfte versuchten das Schlimmste zu verhindern, berichtet ARD-Korrespondent Rienäcker von vor Ort. Doch den eigentlichen Brand könnten sie derzeit nicht löschen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-jemen-angriffe-100.html",
-      "publishedAt": "2026-07-25T07:35:38.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-102.html",
+      "publishedAt": "2026-07-25T19:32:04.000Z"
     },
     {
-      "id": "n_455daa3747",
+      "id": "n_a8951bfc7b",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Waldbrände in Frankreich: Feuer bewegen sich auf Bordeaux zu",
-      "summary": "Die Waldbrände im Südwesten Frankreichs sind nach wie vor nicht unter Kontrolle. Die Feuer bewegen sich auf die Großstadt Bordeaux zu, erste Vororte wurden evakuiert. Frankreichs Premier Lecornu ordnete den Einsatz des Militärs an.",
+      "headline": "Spanien: Großfeuer bei Madrid sind \"nicht zu löschen\"",
+      "summary": "In Spanien scheint die Lage der Einsatzkräfte im Kampf gegen das Feuer immer aussichtsloser: Die Brände in der Region Madrid sind nach Einschätzung des Katastrophenschutzes nicht zu löschen. Bei einem anderen Brand gab es einen Todesfall.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/waldbraende-frankreich-bordeaux-100.html",
-      "publishedAt": "2026-07-25T07:06:30.000Z"
+      "url": "https://www.tagesschau.de/ausland/waldbraende-spanien-122.html",
+      "publishedAt": "2026-07-25T18:32:30.000Z"
     },
     {
-      "id": "n_001c981e47",
+      "id": "n_1d961a956a",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Paramount setzt Warner-Übernahme nach mehreren Klagen aus",
-      "summary": "Der milliardenschwere Kauf des Medienkonzerns Warner Brothers verzögert sich. Zwölf US-Bundesstaaten und Drehbuchautoren wollen den Deal vor Gericht stoppen - aus Sorge vor Wettbewerbsnachteilen und möglichen Folgen für die Medienvielfalt.",
+      "headline": "150. Jubiläum der Bayreuther Festspiele mit Polit-Prominenz gestartet",
+      "summary": "Zum 150. Mal wurden die Bayreuther Festspiele eröffnet. Zu dem Jubiläum kamen auch viele prominente Gäste, darunter Kanzler Merz und Bayerns Ministerpräsident Söder. Zum Auftakt gab es - anders als üblich - Beethoven statt Wagner.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/paramount-uebernahme-warner-100.html",
-      "publishedAt": "2026-07-25T06:39:57.000Z"
+      "url": "https://www.tagesschau.de/inland/regional/bayern/bayreuther-festspiele-116.html",
+      "publishedAt": "2026-07-25T18:29:12.000Z"
     },
     {
-      "id": "n_ab442b1370",
+      "id": "n_8dae2b0731",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "CSD 2026: Queere Räume in Berlin unter Druck",
-      "summary": "Während am Pride-Wochenende Hunderttausende buntes Leben in der Hauptstadt feiern, kämpfen Inititativen, die das ganze Jahr über queere Kultur- und Communityarbeit machen, ums Überleben. Von H. Möller und L. Babst.",
+      "headline": "Guterres besucht als erster UN-Generalsekretär seit 15 Jahren Syrien",
+      "summary": "Erstmals seit 2009 ist ein Generalsekretär der Vereinten Nationen nach Damaskus gereist. Dort sprach Guterres mit dem syrischen Übergangspräsidenten. Auch das berüchtigte Saidnaja-Militärgefägnis besuchte er.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kultur/queere-orte-in-berlin-kampf-ums-ueberleben-100.html",
-      "publishedAt": "2026-07-25T04:24:50.000Z"
+      "url": "https://www.tagesschau.de/ausland/asien/guterres-besuch-syrien-102.html",
+      "publishedAt": "2026-07-25T18:22:06.000Z"
     },
     {
-      "id": "n_6f60a78814",
+      "id": "n_756233c880",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Ukraine nimmt Russlands Online-Handel ins Visier",
-      "summary": "In Russland hat der Online-Händler Wildberries eine ähnliche Bedeutung wie hierzulande Amazon. Nun greift die Ukraine den Händler gezielt und wiederholt an. Das trifft auch viele kleine Unternehmer. Von Silke Diettrich.",
+      "headline": "Waldbrände in Frankreich: Dauereinsatz gegen die Flammen",
+      "summary": "Mehr als 200.000 Menschen wurden vor den Bränden im Südwesten Frankreichs in Sicherheit gebracht. Trotz günstigerer Wetterbedingungen ist das Feuer weiter außer Kontrolle. Die Einsatzkräfte werden mit zusätzlichen Soldaten verstärkt. Von C. Dylla.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/russland-angriffe-wildberries-petersburg-100.html",
-      "publishedAt": "2026-07-25T03:09:29.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-frankreich-110.html",
+      "publishedAt": "2026-07-25T17:37:22.000Z"
+    },
+    {
+      "id": "n_abcaaaf9ef",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Elster, App, Steuerberater: Frist für die Steuererklärung endet",
+      "summary": "Noch bis zum 31. Juli bleibt vielen Steuerpflichtigen Zeit für die Steuererklärung für 2025. Ob Elster, Apps oder Steuerberater: Oft winkt eine Erstattung von mehr als 1.000 Euro. Von Philipp Wundersee.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/steuererklaerung-abgabefrist-100.html",
+      "publishedAt": "2026-07-25T16:10:14.000Z"
     },
     {
       "id": "n_3901b983d4",
@@ -178,6 +178,72 @@
       "publishedAt": "2026-07-24T06:52:00.000Z"
     },
     {
+      "id": "n_f37035c3c9",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "(g+) Tech Asia: Inside Taiwan's most ambitious space mission yet",
+      "summary": "Big spending increase propels aim of homegrown satellite constellation, launch site and first rocket by 2034 Von Cheng Ting-Fang und Lauly Li (Raumfahrt, Golem Plus)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/tech-asia-inside-taiwan-s-most-ambitious-space-mission-yet-2607-211275.html",
+      "publishedAt": "2026-07-25T16:00:02.000Z"
+    },
+    {
+      "id": "n_dd628899ab",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Elektroauto: Audi A2 E-Tron gesichtet, Preise starten bei 38.200 Euro",
+      "summary": "Audis kommender A2 E-Tron ist in Kopenhagen gesichtet worden. Der Einstiegspreis soll merklich über dem des ID.3 liegen. (Audi, Elektroauto)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/elektroauto-audi-a2-e-tron-gesichtet-preise-starten-bei-38-200-euro-2607-211286.html",
+      "publishedAt": "2026-07-25T12:14:02.000Z"
+    },
+    {
+      "id": "n_34ea906808",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Diese Heißluftfritteuse von Ninja kostet bei Amazon nur noch 79,99 Euro",
+      "summary": "Leckere Gerichte schnell und gesund zubereiten ist der Wunsch vieler. Mit einem Airfryer von Ninja geht das jetzt bei Amazon zum Sparpreis. (Technik/Hardware, Amazon)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-diese-heissluftfritteuse-von-ninja-kostet-bei-amazon-nur-noch-79-99-euro-2607-211274.html",
+      "publishedAt": "2026-07-25T11:40:02.000Z"
+    },
+    {
+      "id": "n_4c9b2fcfea",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Mausersatz: Mit Mouthpad steuert die Zunge den Mauszeiger",
+      "summary": "Augmental bringt seinen Maus- und Toucheingaben-Ersatz Mouthpad in den Handel: Der Mauszeiger wird über die Zunge gesteuert. (Barrierefreiheit, Eingabegerät)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/mausersatz-mit-mouthpad-steuert-die-zunge-den-mauszeiger-2607-211285.html",
+      "publishedAt": "2026-07-25T11:38:02.000Z"
+    },
+    {
+      "id": "n_027a77a675",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Nach OpenAI-Hack: US-Abgeordnete wollen Kill Switch für KI",
+      "summary": "Der eigenständige Hackerangriff von OpenAIs KI hat Nachwirkungen: Abgeordnete fordern mehr Kontrolle - und einen Kill Switch. (OpenAI, KI)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/nach-openai-hack-us-abgeordnete-wollen-kill-switch-fuer-ki-2607-211284.html",
+      "publishedAt": "2026-07-25T11:04:02.000Z"
+    },
+    {
+      "id": "n_9c7f95a0cb",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anthropic: Claude Opus 5 schlägt das teurere Modell aus eigenem Haus",
+      "summary": "Anthropic bringt mit Claude Opus 5 ein Modell für den täglichen Einsatz, das teilweise das teurere Claude Fable 5 schlägt. (Claude, KI)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anthropic-claude-opus-5-schlaegt-das-teurere-modell-aus-eigenem-haus-2607-211279.html",
+      "publishedAt": "2026-07-25T10:27:01.000Z"
+    },
+    {
       "id": "n_1311f56709",
       "type": "news",
       "topic": "tech",
@@ -200,70 +266,70 @@
       "publishedAt": "2026-07-25T09:25:02.000Z"
     },
     {
-      "id": "n_26ecb19fba",
+      "id": "n_1e4ce5560c",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "SpaceX: Booster und Hitzeschild versagen beim 13. Flug des Starship",
-      "summary": "Erstmals gibt es gute Bilder vom Hitzeschutzschild nach dem Wiedereintritt. Sie zeigen viele Schäden am Starship. Der Booster stürzte ab. Von Frank Wunderlich-Pfeiffer (Starship, Raumfahrt)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/spacex-booster-und-hitzeschild-versagen-beim-13-flug-des-starship-2607-211280.html",
-      "publishedAt": "2026-07-25T08:55:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
+      "summary": "Police say an intensive manhunt is under way after the incident in Berlin's city centre.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T21:33:00.000Z"
     },
     {
-      "id": "n_772d5b99e1",
+      "id": "n_65ece58a00",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Monitor mit 24 Zoll von BenQ für nur 75,98 Euro bei Amazon",
-      "summary": "Einen Monitor von BenQ mit 24 Zoll großem IPS-Display, FHD-Auflösung und 100 Hz für Office und Alltag gibt es bei Amazon zum Sparpreis. (BenQ, Display)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-monitor-mit-24-zoll-von-benq-fuer-nur-75-98-euro-bei-amazon-2607-211263.html",
-      "publishedAt": "2026-07-25T08:40:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "India's 'cockroach' protest called off after education minister quits",
+      "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T17:44:46.000Z"
     },
     {
-      "id": "n_230bdc0e22",
+      "id": "n_cb4ec34d33",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "(g+) Von Apple zu Linux: Alter Mac statt teurer Neukauf",
-      "summary": "Macs eignen sich oft hervorragend für Linux. Worauf beim Umstieg zu achten ist und welche Distributionen sich anbieten. Ein Ratgebertext von Antonio Zambito (Linux, Apple)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/von-apple-zu-linux-alter-mac-statt-teurer-neukauf-2607-210946.html",
-      "publishedAt": "2026-07-25T08:00:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "More than 250,000 flee wildfires in France and Spain",
+      "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T17:13:40.000Z"
     },
     {
-      "id": "n_d25e61259a",
+      "id": "n_8a47e59434",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Mitmachaktion: Was denkst du über die KI-Blase?",
-      "summary": "Von verbrannter Erde bis zum friedlichen Utopia mit billiger Hardware. Erzähl uns, was passieren könnte, wenn die KI-Blase platzt. (KI, Wirtschaft)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/mitmachaktion-was-denkst-du-ueber-die-ki-blase-2607-211204.html",
-      "publishedAt": "2026-07-25T07:00:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T13:51:07.000Z"
     },
     {
-      "id": "n_7ed374ca5f",
+      "id": "n_1e88c3b787",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Mobile Games: Nintendo und Goblin-Sushi bringen Spaß aufs Smartphone",
-      "summary": "Katzenmagier, Goblin-Sushi und ein neues Nintendo-Spiel: Diese Mobile-Games lohnen sich auf iPhone und Android. Von Rainer Sigl (Mobile Games, Spieletest)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/mobile-games-nintendo-und-goblin-sushi-bringen-spass-aufs-smartphone-2607-211017.html",
-      "publishedAt": "2026-07-25T05:30:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Protesters celebrate resignation of India's education minister",
+      "summary": "The youth-led Cockroach Janta Party (CJP) has called off its protest, hours after the resignation of India's education minister",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cly949k3g1do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T13:44:01.000Z"
     },
     {
-      "id": "n_5299ecc85c",
+      "id": "n_82ccbacb5c",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "(g+) Opinion: Japan automakers bought time with hybrids, now must spend it on software",
-      "summary": "Competition between intelligent vehicles and merely electrified ones has just begun Von Hans Greimel (Wirtschaft, Elektroauto)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/opinion-japan-automakers-bought-time-with-hybrids-now-must-spend-it-on-software-2607-211273.html",
-      "publishedAt": "2026-07-24T16:00:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "CJP protest: The youth movement India's Modi didn't see coming",
+      "summary": "The CJP protest began with exam paper leaks. It became India's biggest student movement in years - why?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T13:26:04.000Z"
     },
     {
       "id": "n_27ed257558",
@@ -277,17 +343,6 @@
       "publishedAt": "2026-07-25T10:14:41.000Z"
     },
     {
-      "id": "n_8a47e59434",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump takes swipes at press during White House Correspondents' Dinner",
-      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T06:41:42.000Z"
-    },
-    {
       "id": "n_4cd3f31047",
       "type": "news",
       "topic": "general",
@@ -297,61 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-25T06:34:40.000Z"
-    },
-    {
-      "id": "n_1206ed6269",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-      "summary": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T02:23:09.000Z"
-    },
-    {
-      "id": "n_f76de72188",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-      "summary": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T02:14:50.000Z"
-    },
-    {
-      "id": "n_8518093b41",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T00:06:53.000Z"
-    },
-    {
-      "id": "n_ec82a06a8a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "The pop band who went from playing for rescue dogs to selling out arenas",
-      "summary": "The group discuss disastrous gigs, putting political action into music and the meaning of \"queer pop\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce85j65r4l2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T23:01:10.000Z"
-    },
-    {
-      "id": "n_24be73606f",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-      "summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T23:01:06.000Z"
     },
     {
       "id": "n_88aa02b9d5",
@@ -431,6 +431,39 @@
       "publishedAt": "2026-07-23T20:42:33.000Z"
     },
     {
+      "id": "n_188d7ad09a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+      "summary": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+      "publishedAt": "2026-07-25T17:47:22.000Z"
+    },
+    {
+      "id": "n_6408b7f717",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "With help from data, art museums are reframing the visitor experience",
+      "summary": "Museums are embracing data-driven curation and a shifting technology landscape.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
+      "publishedAt": "2026-07-25T11:00:32.000Z"
+    },
+    {
+      "id": "n_2ebe7af529",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Big Tech accused of stonewalling European social media researchers",
+      "summary": "Researchers say TikTok, X, and Meta aren't providing data they're legally required to.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
+      "publishedAt": "2026-07-25T10:45:32.000Z"
+    },
+    {
       "id": "n_f56159eaff",
       "type": "news",
       "topic": "tech",
@@ -486,37 +519,26 @@
       "publishedAt": "2026-07-24T19:41:06.000Z"
     },
     {
-      "id": "n_3332d1baf2",
+      "id": "n_1a62571104",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "RFK Jr.'s handpicked committee approves manufacture of peptides he uses",
-      "summary": "There's no human safety or efficacy data, but that no longer seems to matter.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/",
-      "publishedAt": "2026-07-24T19:10:09.000Z"
+      "headline": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+      "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "publishedAt": "2026-07-25T16:00:00.000Z"
     },
     {
-      "id": "n_ef9d3bc193",
+      "id": "n_ed13e18ec7",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Judge rebuffs Trump admin demand for phone records from NYT reporters",
-      "summary": "\"We can quash the subpoenas, or you could withdraw the subpoenas,” judge told US.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/07/judge-rebuffs-trump-admin-demand-for-phone-records-from-nyt-reporters/",
-      "publishedAt": "2026-07-24T18:02:21.000Z"
-    },
-    {
-      "id": "n_57fb05ef8b",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "European Union grants US request to restrict satellite images of Iran War region",
-      "summary": "New delay on Copernicus satellite pics comes as US ramps up war with Iran again.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/",
-      "publishedAt": "2026-07-24T17:45:05.000Z"
+      "headline": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "publishedAt": "2026-07-25T13:05:00.000Z"
     },
     {
       "id": "n_658d80679c",
@@ -583,28 +605,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
       "publishedAt": "2026-07-24T15:13:57.000Z"
-    },
-    {
-      "id": "n_bdcfabfbbf",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Midjourney acquired the astrology app Co-Star",
-      "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-      "publishedAt": "2026-07-24T15:09:55.000Z"
-    },
-    {
-      "id": "n_b9480a06f4",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
-      "summary": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
-      "publishedAt": "2026-07-24T14:00:00.000Z"
     },
     {
       "id": "n_2bbb3806a8",
@@ -860,6 +860,17 @@
       "publishedAt": "2026-07-09T20:22:28.000Z"
     },
     {
+      "id": "n_fb71af4bb4",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+      "summary": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+      "publishedAt": "2026-07-25T10:30:00.000Z"
+    },
+    {
       "id": "n_2a35d21db5",
       "type": "news",
       "topic": "ai",
@@ -935,17 +946,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
       "publishedAt": "2026-07-22T19:01:38.000Z"
-    },
-    {
-      "id": "n_823d9bb37f",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI Models Escaped Containment and Hacked Hugging Face",
-      "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
-      "publishedAt": "2026-07-21T22:50:01.000Z"
     },
     {
       "id": "n_37c9890bc3",
