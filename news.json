@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T05:49:54.272Z",
+  "generatedAt": "2026-07-26T08:03:28.697Z",
   "items": [
     {
       "id": "n_26c45d2ada",
@@ -10,7 +10,29 @@
       "summary": "Ein Transporter ist am Rande des Berliner CSD in eine Menschenmenge gefahren. Eine Frau starb, mindestens 16 weitere Menschen wurden verletzt. Die Polizei fahndet nach dem mutmaßlichen Täter mit einem öffentlichen Fahndungsaufruf. Er soll der islamistischen Szene angehören.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/newsticker/liveblog-berlin-csd-sonntag-100.html",
-      "publishedAt": "2026-07-26T05:36:50.000Z"
+      "publishedAt": "2026-07-26T07:21:08.000Z"
+    },
+    {
+      "id": "n_12d77ad83f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "So steht es um die weltweite Aids-Bekämpfung",
+      "summary": "In Rio de Janeiro treffen sich von heute an Tausende Menschen zur internationalen Aids-Konferenz - dem größten und wichtigsten Forum zum Thema HIV und Aids. Wie steht es um die Forschung? Ein Überblick von Daniela Remus.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/aids-stand-der-forschung-100.html",
+      "publishedAt": "2026-07-26T06:27:34.000Z"
+    },
+    {
+      "id": "n_4006c894ae",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "So regeln EU-Staaten die Leihmutterschaft",
+      "summary": "Anders als in Deutschland ist Leihmutterschaft in einigen EU-Ländern möglich. Doch die Regelungen unterscheiden sich stark. Im Zentrum steht dabei die \"altruistische\" Leihmutterschaft - ein Begriff, der auch auf Kritik stößt. Von K. Schmid.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-leihmutterschaft-100.html",
+      "publishedAt": "2026-07-26T06:26:46.000Z"
     },
     {
       "id": "n_2bcf797481",
@@ -18,10 +40,10 @@
       "topic": "general",
       "lang": "de",
       "headline": "CSD in Berlin: Fahrzeug in Menschenmenge gefahren - eine Tote und Verletzte",
-      "summary": "Der Berliner Christopher Street Day ist abgebrochen worden, nachdem ein Fahrzeug in eine Menschenmenge gefahren war. Laut Polizei starb ein Mensch, mehrere weitere wurden verletzt. Der Fahrer gehört laut Polizei der islamistischen Szene an",
+      "summary": "Der Berliner Christopher Street Day ist abgebrochen worden, nachdem ein Fahrzeug in eine Menschenmenge gefahren war. Laut Polizei starb ein Mensch, mehrere weitere wurden verletzt. Der Fahrer gehört laut Polizei der islamistischen Szene an.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/gesellschaft/csd-berlin-verletzte-100.html",
-      "publishedAt": "2026-07-26T02:52:32.000Z"
+      "publishedAt": "2026-07-26T06:21:34.000Z"
     },
     {
       "id": "n_3321e0ceca",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/regional/bayern/bayreuther-festspiele-116.html",
       "publishedAt": "2026-07-25T18:29:12.000Z"
-    },
-    {
-      "id": "n_8dae2b0731",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Guterres besucht als erster UN-Generalsekretär seit 15 Jahren Syrien",
-      "summary": "Erstmals seit 2009 ist ein Generalsekretär der Vereinten Nationen nach Damaskus gereist. Dort sprach Guterres mit dem syrischen Übergangspräsidenten. Auch das berüchtigte Saidnaja-Militärgefägnis besuchte er.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/guterres-besuch-syrien-102.html",
-      "publishedAt": "2026-07-25T18:22:06.000Z"
-    },
-    {
-      "id": "n_756233c880",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Waldbrände in Frankreich: Dauereinsatz gegen die Flammen",
-      "summary": "Mehr als 200.000 Menschen wurden vor den Bränden im Südwesten Frankreichs in Sicherheit gebracht. Trotz günstigerer Wetterbedingungen ist das Feuer weiter außer Kontrolle. Die Einsatzkräfte werden mit zusätzlichen Soldaten verstärkt. Von C. Dylla.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-frankreich-110.html",
-      "publishedAt": "2026-07-25T17:37:22.000Z"
     },
     {
       "id": "n_3901b983d4",
@@ -178,6 +178,17 @@
       "publishedAt": "2026-07-24T06:52:00.000Z"
     },
     {
+      "id": "n_9b22da5d83",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "(g+) IT-Karriere im Ausland: Nach Kanada auswandern - was ich vorher gern gewusst hätte",
+      "summary": "Von Visa über Steuern bis Wohnungssuche: Ein Informatiker berichtet, worauf Auswanderer vorbereitet sein sollten. Ein Ratgebertext von Pierre Wilken (Raus aus Deutschland, CAD)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/it-karriere-im-ausland-nach-kanada-auswandern-was-ich-vorher-gern-gewusst-haette-2607-210956.html",
+      "publishedAt": "2026-07-26T08:00:02.000Z"
+    },
+    {
       "id": "n_3809f2e41a",
       "type": "news",
       "topic": "tech",
@@ -255,15 +266,15 @@
       "publishedAt": "2026-07-25T11:04:02.000Z"
     },
     {
-      "id": "n_9c7f95a0cb",
+      "id": "n_2bec49ca65",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anthropic: Claude Opus 5 schlägt das teurere Modell aus eigenem Haus",
-      "summary": "Anthropic bringt mit Claude Opus 5 ein Modell für den täglichen Einsatz, das teilweise das teurere Claude Fable 5 schlägt. (Claude, KI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anthropic-claude-opus-5-schlaegt-das-teurere-modell-aus-eigenem-haus-2607-211279.html",
-      "publishedAt": "2026-07-25T10:27:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "France battles fire 'whirlwinds' as another 55,000 evacuated",
+      "summary": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T07:21:11.000Z"
     },
     {
       "id": "n_5a665a1378",
@@ -275,17 +286,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5y3rrd32jlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-26T03:58:51.000Z"
-    },
-    {
-      "id": "n_cb4ec34d33",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "More than 300,000 flee wildfires in France and Spain",
-      "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-26T00:54:06.000Z"
     },
     {
       "id": "n_02f6dfe5c8",
