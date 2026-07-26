@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-07-26T01:27:40.415Z",
+  "generatedAt": "2026-07-26T05:49:54.272Z",
   "items": [
-    {
-      "id": "n_2bcf797481",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "CSD in Berlin: Fahrzeug in Menschenmenge gefahren - ein Toter und Verletzte",
-      "summary": "Der Berliner Christopher Street Day ist abgebrochen worden, nachdem ein Fahrzeug in eine Menschenmenge gefahren war. Laut Polizei starb ein Mensch, mehrere weitere wurden verletzt. Der Fahrer gehört laut Polizei der islamistischen Szene an",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/csd-berlin-verletzte-100.html",
-      "publishedAt": "2026-07-26T01:26:42.000Z"
-    },
     {
       "id": "n_26c45d2ada",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "CSD-Liveblog: ++ Ein Toter und Verletzte bei CSD in Berlin ++",
-      "summary": "Ein Transporter fährt am Rande des Berliner Christopher Street Day in eine Menschenmenge. Ein Mensch stirbt, mindestens 14 weitere werden verletzt.",
+      "headline": "CSD-Liveblog: ++ Anschlagsverdacht - Polizei ermittelt mit Fahndungsaufruf ++",
+      "summary": "Ein Transporter ist am Rande des Berliner CSD in eine Menschenmenge gefahren. Eine Frau starb, mindestens 16 weitere Menschen wurden verletzt. Die Polizei fahndet nach dem mutmaßlichen Täter mit einem öffentlichen Fahndungsaufruf. Er soll der islamistischen Szene angehören.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/newsticker/liveblog-berlin-csd-sonntag-100.html",
-      "publishedAt": "2026-07-26T00:38:10.000Z"
+      "publishedAt": "2026-07-26T05:36:50.000Z"
+    },
+    {
+      "id": "n_2bcf797481",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "CSD in Berlin: Fahrzeug in Menschenmenge gefahren - eine Tote und Verletzte",
+      "summary": "Der Berliner Christopher Street Day ist abgebrochen worden, nachdem ein Fahrzeug in eine Menschenmenge gefahren war. Laut Polizei starb ein Mensch, mehrere weitere wurden verletzt. Der Fahrer gehört laut Polizei der islamistischen Szene an",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/csd-berlin-verletzte-100.html",
+      "publishedAt": "2026-07-26T02:52:32.000Z"
     },
     {
       "id": "n_3321e0ceca",
@@ -178,6 +178,28 @@
       "publishedAt": "2026-07-24T06:52:00.000Z"
     },
     {
+      "id": "n_3809f2e41a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Nachhaltige Luftfahrt der Zukunft: Wie sieht das klimafreundliche Flugzeug der Zukunft aus?",
+      "summary": "Andere Aerodynamik, neue Triebwerke, Alternativen zum Kerosin: Es gibt viele Ideen, wie Europas Luftverkehr bis 2050 klimaneutral werden könnte. Eine Analyse von Friedrich List (Flugzeug, Brennstoffzelle)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/nachhaltige-luftfahrt-der-zukunft-wie-sieht-das-klimafreundliche-flugzeug-der-zukunft-aus-2607-210512.html",
+      "publishedAt": "2026-07-26T05:30:01.000Z"
+    },
+    {
+      "id": "n_f465d51419",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: IT-Jobs in Support, Administration und Entwicklung",
+      "summary": "Von Microsoft-365-Support bis zur Teamleitung in der Azure-Cloud: Diese sechs IT-Jobs bieten vielseitige Aufgaben zu guten Konditionen. (Golem Karrierewelt, Unternehmenssoftware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-it-jobs-in-support-administration-und-entwicklung-2607-211259.html",
+      "publishedAt": "2026-07-26T05:00:02.000Z"
+    },
+    {
       "id": "n_f37035c3c9",
       "type": "news",
       "topic": "tech",
@@ -244,26 +266,15 @@
       "publishedAt": "2026-07-25T10:27:01.000Z"
     },
     {
-      "id": "n_1311f56709",
+      "id": "n_5a665a1378",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Humanoid: Europas erstes Roboter-Unicorn setzt auf Räder",
-      "summary": "Das Start-up Humanoid hat 134 Millionen Euro eingesammelt und wird mit 1,19 Milliarden Euro bewertet. Laufen können seine ersten Roboter nicht. (Roboter, SAP)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/humanoid-europas-erstes-roboter-unicorn-setzt-auf-raeder-2607-211282.html",
-      "publishedAt": "2026-07-25T09:53:01.000Z"
-    },
-    {
-      "id": "n_e402c3e4ed",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "IT-Fachkräfte: USA dürfen keine 100.000 US-Dollar für Visa verlangen",
-      "summary": "Vor allem IT-Fachkräfte arbeiten häufig mit einem H-1B-Visum in den USA. Unter Präsident Trump wurde die Gebühr dafür drastisch angehoben - zu Unrecht. (Donald Trump, Google)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/it-fachkraefte-usa-duerfen-keine-100-000-us-dollar-fuer-visa-verlangen-2607-211281.html",
-      "publishedAt": "2026-07-25T09:25:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Left-wing Democrats are on a winning run - but can they lure back crucial swing voters?",
+      "summary": "They have seen a flurry of recent wins, but Michigan will test their ability to win back working-class voters in crucial states.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3rrd32jlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T03:58:51.000Z"
     },
     {
       "id": "n_cb4ec34d33",
@@ -341,17 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-25T17:44:46.000Z"
-    },
-    {
-      "id": "n_8a47e59434",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump takes swipes at press during White House Correspondents' Dinner",
-      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T13:51:07.000Z"
     },
     {
       "id": "n_27ed257558",
@@ -530,6 +530,17 @@
       "publishedAt": "2026-07-24T21:05:51.000Z"
     },
     {
+      "id": "n_a43cd096a1",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "publishedAt": "2026-07-26T01:30:00.000Z"
+    },
+    {
       "id": "n_1a62571104",
       "type": "news",
       "topic": "ai",
@@ -605,17 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
       "publishedAt": "2026-07-24T15:51:49.000Z"
-    },
-    {
-      "id": "n_983cb96222",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Bluesky’s AI assistant Attie expands into an open social research tool",
-      "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-      "publishedAt": "2026-07-24T15:13:57.000Z"
     },
     {
       "id": "n_2bbb3806a8",
