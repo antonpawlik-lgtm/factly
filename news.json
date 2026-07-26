@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-07-26T12:52:55.608Z",
+  "generatedAt": "2026-07-26T15:52:38.912Z",
   "items": [
     {
       "id": "n_26c45d2ada",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Liveblog zu Angriff auf CSD: ++ Fahndung laut Dobrindt mit \"\"sehr hohem\" Einsatz ++",
-      "summary": "Bundesinnenminister Dobrindt geht bei dem mutmaßlichen Anschlag auf den CSD in Berlin von islamistischen Terror aus, die Fahndung laufe mit \"sehr hohem Einsatz\" der Polizei. Der Tatverdächtige Abdul B. ist weiter auf der Flucht.",
+      "headline": "Liveblog zu Angriff auf CSD: ++ Bundesanwaltschaft soll Ermittlungen übernehmen ++",
+      "summary": "Die Bundesanwaltschaft soll die Ermittlungen zum Anschlag auf den CSD übernehmen. Alle Verletzen sind laut Polizei außer Lebensgefahr. Der Tatverdächtige Abdul B. ist weiter auf der Flucht.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/newsticker/liveblog-berlin-csd-sonntag-100.html",
-      "publishedAt": "2026-07-26T12:49:41.000Z"
+      "publishedAt": "2026-07-26T15:38:50.000Z"
     },
     {
       "id": "n_ad360b55b8",
@@ -18,10 +18,54 @@
       "topic": "general",
       "lang": "de",
       "headline": "FAQ: Was über den Angriff auf den Berliner CSD bekannt ist",
-      "summary": "Eine Tote, mehrere Verletzte: Nach dem mutmaßlichen Anschlag auf den CSD in Berlin herrschen Trauer und Entsetzen. Die Polizei sucht einen Tatverdächtigen, der der islamistischen Szene zugerechnet wird. Noch sind viele Fragen offen.",
+      "summary": "Eine Tote, mehrere Verletzte: Nach dem Anschlag auf den CSD in Berlin herrschen Trauer und Entsetzen. Die Polizei sucht einen Tatverdächtigen, der der islamistischen Szene zugerechnet wird. Noch sind viele Fragen offen.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/anschlag-csd-100.html",
-      "publishedAt": "2026-07-26T12:29:55.000Z"
+      "publishedAt": "2026-07-26T15:14:46.000Z"
+    },
+    {
+      "id": "n_14486f3f14",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Angriff auf CSD Berlin: Tatverdächtiger polizeibekannter Islamist",
+      "summary": "Wie konnte ein polizeibekannter Islamist offenbar einen Angriff in Berlin verüben? Nach dem Anschlag auf Teilnehmer des CSD in Berlin werden die Fragen an die Behörden lauter. Eine Recherche von NDR, WDR und der Süddeutschen Zeitung.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/csd-berlin-anschlag-tatverdaechtiger-100.html",
+      "publishedAt": "2026-07-26T15:03:18.000Z"
+    },
+    {
+      "id": "n_b380825335",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Angriff auf CSD: Dobrindt spricht von islamistischem Terroranschlag",
+      "summary": "Nach dem Angriff beim Berliner CSD spricht Innenminister Dobrindt von einem islamistischen Terroranschlag. Der Verdächtige soll mit dem Auto einen Menschen getötet und 29 verletzt haben. Er soll auch eine Machete bei sich gehabt haben.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-csd-berlin-anschlag-100.html",
+      "publishedAt": "2026-07-26T14:51:05.000Z"
+    },
+    {
+      "id": "n_f2d839b7c9",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Volksparteien im Osten: Die Geschichte einer Entfremdung?",
+      "summary": "In Sachsen-Anhalt, Mecklenburg-Vorpommern und Berlin werden bald neue Landesparlamente gewählt. Für CDU und SPD zeichnen sich schwierige Wahlkämpfe ab. Eine Doku geht der Frage nach, warum die Parteien in Ostdeutschland in der Krise sind. Von M. Polansky.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/volksparteien-ostdeutschland-100.html",
+      "publishedAt": "2026-07-26T14:06:15.000Z"
+    },
+    {
+      "id": "n_a3965d3850",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Welt-AIDS-Konferenz: Brasiliens Kampf um neue HIV-Medikamente",
+      "summary": "Brasilien gilt als Vorreiter im Kampf gegen HIV: Die Behandlung ist kostenlos. Doch der Zugang zu modernen Medikamenten bleibt schwierig. Die Welt-AIDS-Konferenz rückt das Problem in den Fokus. Von. O. Neuroth.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/suedamerika-brasilien-welt-aids-konferenz-100.html",
+      "publishedAt": "2026-07-26T13:46:21.000Z"
     },
     {
       "id": "n_8c7c39f61f",
@@ -44,50 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-valencia-100.html",
       "publishedAt": "2026-07-26T11:49:54.000Z"
-    },
-    {
-      "id": "n_d7d56cf3ad",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Waldsiedlung in Berlin-Zehlendorf gehört jetzt zum UNESCO-Welterbe",
-      "summary": "Zu ihrer Entstehungszeit umstritten, heute als wegweisende Architektur anerkannt: Die Waldsiedlung in Berlin-Zehlendorf ist in die UNESCO-Welterbeliste aufgenommen worden - und erweitert nun die \"Siedlungen der Berliner Moderne\".",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-waldsiedlung-zehlendorf-unesco-welterbe-100.html",
-      "publishedAt": "2026-07-26T10:52:41.000Z"
-    },
-    {
-      "id": "n_8f768d6ea7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Kreuzfahrt-Boom hält trotz Iran-Krieg und Wirtschaftsflaute an",
-      "summary": "Trübere Aussichten für die Wirtschaft, teurere Energie und globale Unruhen können der Kreuzfahrt-Branche wenig anhaben. Verbände rechnen mit Passagier-Rekorden. Doch es gibt Risiken. Von Heidi Radvilas.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/krise-kriege-kreuzfahrten-boom-boerse-100.html",
-      "publishedAt": "2026-07-26T10:29:56.000Z"
-    },
-    {
-      "id": "n_1d283120c5",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Mit Verboten gegen Wasserknappheit",
-      "summary": "Wasserentnahme untersagt, Bewässerung begrenzt: Wegen Trockenheit gelten in Brandenburg teils strenge Regeln. Privatleute müssen sich anpassen - auch im Kleingartenverein. Von Mirja Fiedler.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/trockenheit-wasserverbrauch-brandenburg-100.html",
-      "publishedAt": "2026-07-26T09:34:40.000Z"
-    },
-    {
-      "id": "n_558511f22f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Waldbrände in Frankreich: Feuer rückt näher an Bordeaux heran",
-      "summary": "In Südwestfrankreich sind die Waldbrände weiterhin außer Kontrolle. Das Feuer nähert sich der Stadt Bordeaux, in der Nacht mussten weitere Ortschaften evakuiert werden. Auch anderswo wüten Brände. Von Cai Rienäcker.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-feuer-breitet-sich-aus-bordeaux-100.html",
-      "publishedAt": "2026-07-26T09:26:27.000Z"
     },
     {
       "id": "n_3901b983d4",
@@ -178,6 +178,17 @@
       "publishedAt": "2026-07-24T06:52:00.000Z"
     },
     {
+      "id": "n_b35f554722",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Changxin Memory Technologies: Börsengang von CXMT verändert den globalen DRAM- und HBM-Markt",
+      "summary": "Speicherchiphersteller CXMT steht vor einem Rekordbörsengang. Der Apple-Partner steht in den USA auf der schwarzen Liste. Ein Bericht von Achim Sawall (China, Apple)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/changxin-memory-technologies-boersengang-von-cxmt-veraendert-den-globalen-dram-und-hbm-markt-2607-211291.html",
+      "publishedAt": "2026-07-26T13:10:02.000Z"
+    },
+    {
       "id": "n_33381f35fb",
       "type": "news",
       "topic": "tech",
@@ -255,28 +266,6 @@
       "publishedAt": "2026-07-26T08:00:02.000Z"
     },
     {
-      "id": "n_3809f2e41a",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Nachhaltige Luftfahrt der Zukunft: Wie sieht das klimafreundliche Flugzeug der Zukunft aus?",
-      "summary": "Andere Aerodynamik, neue Triebwerke, Alternativen zum Kerosin: Es gibt viele Ideen, wie Europas Luftverkehr bis 2050 klimaneutral werden könnte. Eine Analyse von Friedrich List (Flugzeug, Brennstoffzelle)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/nachhaltige-luftfahrt-der-zukunft-wie-sieht-das-klimafreundliche-flugzeug-der-zukunft-aus-2607-210512.html",
-      "publishedAt": "2026-07-26T05:30:01.000Z"
-    },
-    {
-      "id": "n_9289efc8a1",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "What we know so far about the Berlin Pride ramming attack",
-      "summary": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-26T11:41:04.000Z"
-    },
-    {
       "id": "n_2bec49ca65",
       "type": "news",
       "topic": "general",
@@ -285,7 +274,18 @@
       "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-26T11:29:07.000Z"
+      "publishedAt": "2026-07-26T15:50:41.000Z"
+    },
+    {
+      "id": "n_9289efc8a1",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "What we know so far about the Berlin Pride ramming attack",
+      "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T13:40:29.000Z"
     },
     {
       "id": "n_bb7e9947d7",
