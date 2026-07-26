@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-07-25T21:42:15.888Z",
+  "generatedAt": "2026-07-26T01:27:40.415Z",
   "items": [
+    {
+      "id": "n_2bcf797481",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "CSD in Berlin: Fahrzeug in Menschenmenge gefahren - ein Toter und Verletzte",
+      "summary": "Der Berliner Christopher Street Day ist abgebrochen worden, nachdem ein Fahrzeug in eine Menschenmenge gefahren war. Laut Polizei starb ein Mensch, mehrere weitere wurden verletzt. Der Fahrer gehört laut Polizei der islamistischen Szene an",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/csd-berlin-verletzte-100.html",
+      "publishedAt": "2026-07-26T01:26:42.000Z"
+    },
+    {
+      "id": "n_26c45d2ada",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "CSD-Liveblog: ++ Ein Toter und Verletzte bei CSD in Berlin ++",
+      "summary": "Ein Transporter fährt am Rande des Berliner Christopher Street Day in eine Menschenmenge. Ein Mensch stirbt, mindestens 14 weitere werden verletzt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/newsticker/liveblog-berlin-csd-sonntag-100.html",
+      "publishedAt": "2026-07-26T00:38:10.000Z"
+    },
     {
       "id": "n_3321e0ceca",
       "type": "news",
@@ -10,18 +32,7 @@
       "summary": "Der Christopher Street Day in Berlin ist frühzeitig abgebrochen worden. Die Hintergründe sind noch unklar. Medienberichte sprechen von mehreren Verletzten.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/regional/berlin/csd-berlin-gegenproteste-100.html",
-      "publishedAt": "2026-07-25T21:29:28.000Z"
-    },
-    {
-      "id": "n_2bcf797481",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Berliner CSD abgebrochen - mutmaßlich Fahrzeug in Menschenmenge gefahren",
-      "summary": "Der Berliner Christopher Street Day ist abgebrochen worden. Laut Polizei ist mutmaßlich ein Fahrzeug in eine Menschenmenge gefahren, mehrere Menschen seien verletzt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/csd-berlin-verletzte-100.html",
-      "publishedAt": "2026-07-25T21:22:06.000Z"
+      "publishedAt": "2026-07-25T23:36:42.000Z"
     },
     {
       "id": "n_4e0f5a2814",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-frankreich-110.html",
       "publishedAt": "2026-07-25T17:37:22.000Z"
-    },
-    {
-      "id": "n_abcaaaf9ef",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Elster, App, Steuerberater: Frist für die Steuererklärung endet",
-      "summary": "Noch bis zum 31. Juli bleibt vielen Steuerpflichtigen Zeit für die Steuererklärung für 2025. Ob Elster, Apps oder Steuerberater: Oft winkt eine Erstattung von mehr als 1.000 Euro. Von Philipp Wundersee.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/steuererklaerung-abgabefrist-100.html",
-      "publishedAt": "2026-07-25T16:10:14.000Z"
     },
     {
       "id": "n_3901b983d4",
@@ -266,15 +266,70 @@
       "publishedAt": "2026-07-25T09:25:02.000Z"
     },
     {
-      "id": "n_1e4ce5560c",
+      "id": "n_cb4ec34d33",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Several injured at Berlin Pride after reports vehicle drove into crowd, police say",
-      "summary": "Police say an intensive manhunt is under way after the incident in Berlin's city centre.",
+      "headline": "More than 300,000 flee wildfires in France and Spain",
+      "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyqzylz3zno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T21:33:00.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T00:54:06.000Z"
+    },
+    {
+      "id": "n_02f6dfe5c8",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "The notorious Cameroonian prison with its own record label",
+      "summary": "New Bell's inmates have become mini stars, recording songs and music videos from the confines of the jail.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T00:24:30.000Z"
+    },
+    {
+      "id": "n_ae17f05d59",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Would you pay $58.5m to live in this iconic New York building?",
+      "summary": "With its renovation nearly complete, the Flatiron is ready for its next - and most extravagant - phase of life.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T00:05:03.000Z"
+    },
+    {
+      "id": "n_65e32bfc4e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "What Love Island tells us about the changing face of dating",
+      "summary": "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T23:31:49.000Z"
+    },
+    {
+      "id": "n_281178c87b",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
+      "summary": "The Mediterranean diet was a blueprint for healthy living, yet Italian children are among the most overweight in Europe according to WHO.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T23:30:07.000Z"
+    },
+    {
+      "id": "n_0c7dcd2227",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Smash hit: How Alex Eala's Wimbledon run made everyday Filipinos fall in love with tennis",
+      "summary": "Formerly the preserve of the rich, tennis is booming in the basketball- and boxing-obsessed country.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0lyrndn7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T22:15:14.000Z"
     },
     {
       "id": "n_65ece58a00",
@@ -288,17 +343,6 @@
       "publishedAt": "2026-07-25T17:44:46.000Z"
     },
     {
-      "id": "n_cb4ec34d33",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "More than 250,000 flee wildfires in France and Spain",
-      "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T17:13:40.000Z"
-    },
-    {
       "id": "n_8a47e59434",
       "type": "news",
       "topic": "general",
@@ -310,48 +354,15 @@
       "publishedAt": "2026-07-25T13:51:07.000Z"
     },
     {
-      "id": "n_1e88c3b787",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Protesters celebrate resignation of India's education minister",
-      "summary": "The youth-led Cockroach Janta Party (CJP) has called off its protest, hours after the resignation of India's education minister",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cly949k3g1do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T13:44:01.000Z"
-    },
-    {
-      "id": "n_82ccbacb5c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "CJP protest: The youth movement India's Modi didn't see coming",
-      "summary": "The CJP protest began with exam paper leaks. It became India's biggest student movement in years - why?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T13:26:04.000Z"
-    },
-    {
       "id": "n_27ed257558",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
       "headline": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
       "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-25T10:14:41.000Z"
-    },
-    {
-      "id": "n_4cd3f31047",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-      "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T06:34:40.000Z"
     },
     {
       "id": "n_88aa02b9d5",
@@ -431,6 +442,17 @@
       "publishedAt": "2026-07-23T20:42:33.000Z"
     },
     {
+      "id": "n_cd791503bb",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "SDCC teaser gives us our first good look at Blade Runner 2099",
+      "summary": "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+      "publishedAt": "2026-07-25T20:52:30.000Z"
+    },
+    {
       "id": "n_188d7ad09a",
       "type": "news",
       "topic": "tech",
@@ -506,17 +528,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
       "publishedAt": "2026-07-24T21:05:51.000Z"
-    },
-    {
-      "id": "n_a6f7e270ef",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Roku raises streaming stick prices by up to 60 percent",
-      "summary": "Roku blames RAM shortage after CEO called it \"great\" for business in May.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
-      "publishedAt": "2026-07-24T19:41:06.000Z"
     },
     {
       "id": "n_1a62571104",
