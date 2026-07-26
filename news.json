@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-07-26T15:52:38.912Z",
+  "generatedAt": "2026-07-26T18:52:18.938Z",
   "items": [
     {
-      "id": "n_26c45d2ada",
+      "id": "n_14486f3f14",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Liveblog zu Angriff auf CSD: ++ Bundesanwaltschaft soll Ermittlungen übernehmen ++",
-      "summary": "Die Bundesanwaltschaft soll die Ermittlungen zum Anschlag auf den CSD übernehmen. Alle Verletzen sind laut Polizei außer Lebensgefahr. Der Tatverdächtige Abdul B. ist weiter auf der Flucht.",
+      "headline": "Angriff auf CSD Berlin: Tatverdächtiger war polizeibekannter Islamist",
+      "summary": "Wie konnte ein polizeibekannter Islamist offenbar einen Angriff in Berlin verüben? Nach dem Anschlag auf Teilnehmer des CSD in Berlin werden die Fragen an die Behörden lauter. Eine Recherche von NDR, WDR und der Süddeutschen Zeitung.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/newsticker/liveblog-berlin-csd-sonntag-100.html",
-      "publishedAt": "2026-07-26T15:38:50.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/csd-berlin-anschlag-tatverdaechtiger-100.html",
+      "publishedAt": "2026-07-26T18:51:06.000Z"
     },
     {
       "id": "n_ad360b55b8",
@@ -18,21 +18,65 @@
       "topic": "general",
       "lang": "de",
       "headline": "FAQ: Was über den Angriff auf den Berliner CSD bekannt ist",
-      "summary": "Eine Tote, mehrere Verletzte: Nach dem Anschlag auf den CSD in Berlin herrschen Trauer und Entsetzen. Die Polizei sucht einen Tatverdächtigen, der der islamistischen Szene zugerechnet wird. Noch sind viele Fragen offen.",
+      "summary": "Eine Tote, mehrere Verletzte: Nach dem Anschlag auf den CSD in Berlin herrschen Trauer und Entsetzen. Was ist über den Ablauf der Tat am späten Samstagabend bekannt? Und was über den mutmaßlichen Täter und sein Motiv?",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/anschlag-csd-100.html",
-      "publishedAt": "2026-07-26T15:14:46.000Z"
+      "publishedAt": "2026-07-26T18:21:50.000Z"
     },
     {
-      "id": "n_14486f3f14",
+      "id": "n_26c45d2ada",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Angriff auf CSD Berlin: Tatverdächtiger polizeibekannter Islamist",
-      "summary": "Wie konnte ein polizeibekannter Islamist offenbar einen Angriff in Berlin verüben? Nach dem Anschlag auf Teilnehmer des CSD in Berlin werden die Fragen an die Behörden lauter. Eine Recherche von NDR, WDR und der Süddeutschen Zeitung.",
+      "headline": "Liveblog zu Angriff auf CSD: ++ Bundesanwaltschaft hat Ermittlungen übernommen ++",
+      "summary": "Die Bundesanwaltschaft hat die Ermittlungen zum Anschlag am Rande des CSD in Berlin übernommen. Der Tatverdächtige wurde am späten Nachmittag bei einem Einsatz von Polizisten erschossen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/csd-berlin-anschlag-tatverdaechtiger-100.html",
-      "publishedAt": "2026-07-26T15:03:18.000Z"
+      "url": "https://www.tagesschau.de/newsticker/liveblog-berlin-csd-sonntag-100.html",
+      "publishedAt": "2026-07-26T18:14:26.000Z"
+    },
+    {
+      "id": "n_097e8cd4f2",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Steffen Bilger soll neuer Verkehrsminister werden",
+      "summary": "Bundeskanzler Merz hat einen Nachfolger für Verkehrsminister Schnieder gefunden: den CDU-Politiker Bilger. Schnieder selbst hatte kurz zuvor um seine Entlassung geben - um den \"unwürdigen Zustand\" zu beenden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bilger-nachfolge-verkehrsminister-100.html",
+      "publishedAt": "2026-07-26T18:07:05.000Z"
+    },
+    {
+      "id": "n_b6bb659fa4",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Mordfall Ann Widdecombe: Ein brutaler Mord und viele Fragen",
+      "summary": "Der Mord an Ex-Ministerin Ann Widdecombe hat Großbritannien erschüttert. Noch ist das Motiv des Täters unklar, doch ihre rechtspopulistische Partei Reform UK macht Medien und das politische Klima verantwortlich. Von Mareike Aden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ann-widdecombe-mord-fragen-100.html",
+      "publishedAt": "2026-07-26T17:54:16.000Z"
+    },
+    {
+      "id": "n_25b6353536",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Verkehrsminister Schnieder will Kanzler Merz um Entlassung bitten",
+      "summary": "Am Umgang von Kanzler Merz mit Verkehrsminister Schnieder hatte es innerhalb der CDU massive Kritik gegeben. Nun zieht Schnieder selbst Konsequenzen und bittet um seine Entlassung - um den \"unwürdigen Zustand\" zu beenden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/schnieder-entlassung-102.html",
+      "publishedAt": "2026-07-26T17:35:36.000Z"
+    },
+    {
+      "id": "n_9ad74072e4",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "CSD-Anschlag in Berlin: Bundeskanzler Merz beschwört Zusammenhalt",
+      "summary": "Nach dem Anschlag auf den Berliner CSD trauert die Hauptstadt und das Land. Kanzler Merz appelliert an den Zusammenhalt. Viele Bundespolitiker drücken ihr Entsetzen und Mitgefühl für die Opfer aus. Einige richten bereits den Blick auf mögliche Konsequenzen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/anschlag-csd-berlin-reaktionen-100.html",
+      "publishedAt": "2026-07-26T16:17:33.000Z"
     },
     {
       "id": "n_b380825335",
@@ -44,50 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-csd-berlin-anschlag-100.html",
       "publishedAt": "2026-07-26T14:51:05.000Z"
-    },
-    {
-      "id": "n_f2d839b7c9",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Volksparteien im Osten: Die Geschichte einer Entfremdung?",
-      "summary": "In Sachsen-Anhalt, Mecklenburg-Vorpommern und Berlin werden bald neue Landesparlamente gewählt. Für CDU und SPD zeichnen sich schwierige Wahlkämpfe ab. Eine Doku geht der Frage nach, warum die Parteien in Ostdeutschland in der Krise sind. Von M. Polansky.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/volksparteien-ostdeutschland-100.html",
-      "publishedAt": "2026-07-26T14:06:15.000Z"
-    },
-    {
-      "id": "n_a3965d3850",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Welt-AIDS-Konferenz: Brasiliens Kampf um neue HIV-Medikamente",
-      "summary": "Brasilien gilt als Vorreiter im Kampf gegen HIV: Die Behandlung ist kostenlos. Doch der Zugang zu modernen Medikamenten bleibt schwierig. Die Welt-AIDS-Konferenz rückt das Problem in den Fokus. Von. O. Neuroth.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/suedamerika-brasilien-welt-aids-konferenz-100.html",
-      "publishedAt": "2026-07-26T13:46:21.000Z"
-    },
-    {
-      "id": "n_8c7c39f61f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Leben in Iran: Zaghafte Erleichterung und große Unsicherheit",
-      "summary": "Nach zwei Nächten ohne US-Angriffe keimt in Teheran Hoffnung auf. Doch Inflation, wirtschaftliche Not und die Angst vor einer neuen Eskalation prägen weiter den Alltag der Menschen. Von Benjamin Weber.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/teheran-stimmung-angriffe-100.html",
-      "publishedAt": "2026-07-26T12:10:03.000Z"
-    },
-    {
-      "id": "n_c734c8018c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Waldbrände in Spanien: Neuer Brand bei Valencia",
-      "summary": "Die Waldbrände in Spanien breiten sich weiter aus. Ein neues Feuer bei Valencia hat Tausende Menschen zur Flucht gezwungen. Auch im Großraum Madrid kämpfen Einsatzkräfte weiter gegen die Flammen. Von Hans-Günter Kellner.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-waldbraende-valencia-100.html",
-      "publishedAt": "2026-07-26T11:49:54.000Z"
     },
     {
       "id": "n_3901b983d4",
@@ -178,6 +178,17 @@
       "publishedAt": "2026-07-24T06:52:00.000Z"
     },
     {
+      "id": "n_ef439db82b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "(g+) Opinion: AI can help predict the next pandemic",
+      "summary": "Tech is learning to detect warning signs of outbreaks before hospitals sound the alarm Von Kavitha Yarlagadda (Medizin, KI)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/opinion-ai-can-help-predict-the-next-pandemic-2607-211277.html",
+      "publishedAt": "2026-07-26T16:00:02.000Z"
+    },
+    {
       "id": "n_b35f554722",
       "type": "news",
       "topic": "tech",
@@ -255,17 +266,6 @@
       "publishedAt": "2026-07-26T08:21:02.000Z"
     },
     {
-      "id": "n_9b22da5d83",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "(g+) IT-Karriere im Ausland: Nach Kanada auswandern - was ich vorher gern gewusst hätte",
-      "summary": "Von Visa über Steuern bis Wohnungssuche: Ein Informatiker berichtet, worauf Auswanderer vorbereitet sein sollten. Ein Ratgebertext von Pierre Wilken (Raus aus Deutschland, CAD)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/it-karriere-im-ausland-nach-kanada-auswandern-was-ich-vorher-gern-gewusst-haette-2607-210956.html",
-      "publishedAt": "2026-07-26T08:00:02.000Z"
-    },
-    {
       "id": "n_2bec49ca65",
       "type": "news",
       "topic": "general",
@@ -274,7 +274,7 @@
       "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-26T15:50:41.000Z"
+      "publishedAt": "2026-07-26T18:40:08.000Z"
     },
     {
       "id": "n_9289efc8a1",
@@ -285,7 +285,7 @@
       "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-26T13:40:29.000Z"
+      "publishedAt": "2026-07-26T17:45:30.000Z"
     },
     {
       "id": "n_bb7e9947d7",
@@ -530,6 +530,17 @@
       "publishedAt": "2026-07-24T21:05:51.000Z"
     },
     {
+      "id": "n_381c0186a6",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "publishedAt": "2026-07-26T16:33:13.000Z"
+    },
+    {
       "id": "n_a43cd096a1",
       "type": "news",
       "topic": "ai",
@@ -605,17 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
       "publishedAt": "2026-07-24T17:00:00.000Z"
-    },
-    {
-      "id": "n_4000b95c0a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-      "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-      "publishedAt": "2026-07-24T15:51:49.000Z"
     },
     {
       "id": "n_2bbb3806a8",
