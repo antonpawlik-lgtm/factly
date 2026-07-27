@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-07-26T18:52:18.938Z",
+  "generatedAt": "2026-07-27T06:16:10.373Z",
   "items": [
+    {
+      "id": "n_8e08f44da6",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach CSD-Anschlag: Rufe nach einem schärferen Strafrecht",
+      "summary": "Der mutmaßliche CSD-Attentäter war als Islamist bekannt, verurteilt - und trotzdem auf freiem Fuß. Nun wird Kritik am Umgang der Behörden laut - Politiker fordern ein schärferes Strafrecht.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/csd-anschlag-taeter-aufklaerung-100.html",
+      "publishedAt": "2026-07-27T06:08:38.000Z"
+    },
+    {
+      "id": "n_85f9a07702",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Waldbrände in Frankreich: Dunkle Wolken über Bordeaux",
+      "summary": "Die Waldbrände nähern sich immer mehr der französischen Stadt Bordeaux. Eine Evakuierung ist laut Bürgermeister nicht geplant. Bewohner und Urlauber sind verunsichert. Von Cai Rienäcker.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-braende-bordeaux-100.html",
+      "publishedAt": "2026-07-27T05:10:21.000Z"
+    },
+    {
+      "id": "n_122ead5007",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Zehntausende protestieren gegen Massentourismus auf Mallorca",
+      "summary": "\"Mallorca am Limit\" - Tausende Menschen haben unter diesem Motto gegen zu viele Touristen auf der spanischen Insel demonstriert. Sie fordern etwa die Besucherzahl zu begrenzen. Besonders eng wird es auf dem Wohnungsmarkt. Von Anna Mundt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/mallorca-proteste-106.html",
+      "publishedAt": "2026-07-27T01:43:26.000Z"
+    },
+    {
+      "id": "n_f734b126e5",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Söder verteidigt Merz' Kabinettsumbau nach Kritik an Hängepartie",
+      "summary": "Die Hängepartie um Verkehrsminister Schnieder und seine Nachfolge sorgte auch in der CDU für Unmut. CSU-Chef Söder verteidigt das Vorgehen von Kanzler Merz. In dem Fall liege die \"Verantwortung sicher nicht beim Bundeskanzler\".",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/soeder-kabinettsumbau-100.html",
+      "publishedAt": "2026-07-27T00:41:31.000Z"
+    },
+    {
+      "id": "n_26c45d2ada",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Liveblog zu Angriff auf CSD: ++ Dobrindt: \"Keine weitere Gefährdung\" ++",
+      "summary": "Nach dem Tod des Tatverdächtigen vom Anschlag beim CSD in Berlin geht Bundesinnenminister Dobrindt von keiner weiteren Gefährdung aus. Die Bundesanwaltschaft hat die Ermittlungen in dem Fall übernommen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/newsticker/liveblog-berlin-csd-sonntag-100.html",
+      "publishedAt": "2026-07-26T21:18:16.000Z"
+    },
+    {
+      "id": "n_ad360b55b8",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "FAQ: Was über den Angriff auf den Berliner CSD bekannt ist",
+      "summary": "Eine Tote, mehrere Verletzte: Nach dem Anschlag auf den CSD in Berlin herrschen Trauer und Entsetzen. Was ist über den Ablauf der Tat am späten Samstagabend bekannt? Und was über den mutmaßlichen Täter und sein Motiv?",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/anschlag-csd-100.html",
+      "publishedAt": "2026-07-26T20:04:01.000Z"
+    },
+    {
+      "id": "n_097e8cd4f2",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Steffen Bilger soll neuer Verkehrsminister werden",
+      "summary": "Bundeskanzler Merz hat einen Nachfolger für Verkehrsminister Schnieder gefunden: den CDU-Politiker Bilger. Schnieder selbst hatte kurz zuvor um seine Entlassung gebeten - um den \"unwürdigen Zustand\" zu beenden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bilger-nachfolge-verkehrsminister-100.html",
+      "publishedAt": "2026-07-26T19:03:10.000Z"
+    },
     {
       "id": "n_14486f3f14",
       "type": "news",
@@ -13,81 +90,15 @@
       "publishedAt": "2026-07-26T18:51:06.000Z"
     },
     {
-      "id": "n_ad360b55b8",
+      "id": "n_7c52bfbda4",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "FAQ: Was über den Angriff auf den Berliner CSD bekannt ist",
-      "summary": "Eine Tote, mehrere Verletzte: Nach dem Anschlag auf den CSD in Berlin herrschen Trauer und Entsetzen. Was ist über den Ablauf der Tat am späten Samstagabend bekannt? Und was über den mutmaßlichen Täter und sein Motiv?",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/anschlag-csd-100.html",
-      "publishedAt": "2026-07-26T18:21:50.000Z"
-    },
-    {
-      "id": "n_26c45d2ada",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Liveblog zu Angriff auf CSD: ++ Bundesanwaltschaft hat Ermittlungen übernommen ++",
-      "summary": "Die Bundesanwaltschaft hat die Ermittlungen zum Anschlag am Rande des CSD in Berlin übernommen. Der Tatverdächtige wurde am späten Nachmittag bei einem Einsatz von Polizisten erschossen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/newsticker/liveblog-berlin-csd-sonntag-100.html",
-      "publishedAt": "2026-07-26T18:14:26.000Z"
-    },
-    {
-      "id": "n_097e8cd4f2",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Steffen Bilger soll neuer Verkehrsminister werden",
-      "summary": "Bundeskanzler Merz hat einen Nachfolger für Verkehrsminister Schnieder gefunden: den CDU-Politiker Bilger. Schnieder selbst hatte kurz zuvor um seine Entlassung geben - um den \"unwürdigen Zustand\" zu beenden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bilger-nachfolge-verkehrsminister-100.html",
-      "publishedAt": "2026-07-26T18:07:05.000Z"
-    },
-    {
-      "id": "n_b6bb659fa4",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Mordfall Ann Widdecombe: Ein brutaler Mord und viele Fragen",
-      "summary": "Der Mord an Ex-Ministerin Ann Widdecombe hat Großbritannien erschüttert. Noch ist das Motiv des Täters unklar, doch ihre rechtspopulistische Partei Reform UK macht Medien und das politische Klima verantwortlich. Von Mareike Aden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ann-widdecombe-mord-fragen-100.html",
-      "publishedAt": "2026-07-26T17:54:16.000Z"
-    },
-    {
-      "id": "n_25b6353536",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Verkehrsminister Schnieder will Kanzler Merz um Entlassung bitten",
-      "summary": "Am Umgang von Kanzler Merz mit Verkehrsminister Schnieder hatte es innerhalb der CDU massive Kritik gegeben. Nun zieht Schnieder selbst Konsequenzen und bittet um seine Entlassung - um den \"unwürdigen Zustand\" zu beenden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/schnieder-entlassung-102.html",
-      "publishedAt": "2026-07-26T17:35:36.000Z"
-    },
-    {
-      "id": "n_9ad74072e4",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "CSD-Anschlag in Berlin: Bundeskanzler Merz beschwört Zusammenhalt",
-      "summary": "Nach dem Anschlag auf den Berliner CSD trauert die Hauptstadt und das Land. Kanzler Merz appelliert an den Zusammenhalt. Viele Bundespolitiker drücken ihr Entsetzen und Mitgefühl für die Opfer aus. Einige richten bereits den Blick auf mögliche Konsequenzen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/anschlag-csd-berlin-reaktionen-100.html",
-      "publishedAt": "2026-07-26T16:17:33.000Z"
-    },
-    {
-      "id": "n_b380825335",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Angriff auf CSD: Dobrindt spricht von islamistischem Terroranschlag",
-      "summary": "Nach dem Angriff beim Berliner CSD spricht Innenminister Dobrindt von einem islamistischen Terroranschlag. Der Verdächtige soll mit dem Auto einen Menschen getötet und 29 verletzt haben. Er soll auch eine Machete bei sich gehabt haben.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-csd-berlin-anschlag-100.html",
-      "publishedAt": "2026-07-26T14:51:05.000Z"
+      "headline": "Junge Cyberbande behauptet Datenklau bei Microsoft",
+      "summary": "Eine bislang unbekannte Cyberbande behauptet, vertrauliche Informationen bei Microsoft gestohlen zu haben. Vieles bleibt unklar.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Junge-Cyberbande-behauptet-Datenklau-bei-Microsoft-11378430.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-07-27T05:49:00.000Z"
     },
     {
       "id": "n_3901b983d4",
@@ -167,15 +178,48 @@
       "publishedAt": "2026-07-24T07:11:00.000Z"
     },
     {
-      "id": "n_f39ad7a18e",
+      "id": "n_c49f6226b1",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "heise+ | Neuer Sensorchip der ETH Zürich macht Deepfakes unmöglich",
-      "summary": "Forscher der ETH Zürich haben ein Sensorsystem entwickelt, das Bild- und Tondaten direkt im Chip kryptografisch signiert, um Manipulationen zu verhindern.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Neuer-Sensorchip-der-ETH-Zuerich-macht-Deepfakes-unmoeglich-11374836.html?wt_mc=rss.red.ho.top-news.atom.beitrag_plus.beitrag_plus",
-      "publishedAt": "2026-07-24T06:52:00.000Z"
+      "headline": "Smart Glasses: Apples Datenbrille soll Datenschutz berücksichtigen",
+      "summary": "Apple nimmt sich für seine ersten Smart Glasses mehr Zeit als gedacht. Das Unternehmen will das Vertrauen der Kunden nicht aufs Spiel setzen. (Apple, Datenschutz)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/smart-glasses-apples-datenbrille-soll-datenschutz-beruecksichtigen-2607-211295.html",
+      "publishedAt": "2026-07-27T05:53:02.000Z"
+    },
+    {
+      "id": "n_fc06b7c923",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Blume will höhere Zölle: VW-Elektroautos boomen",
+      "summary": "Volkswagen bekommt mehr Bestellungen für Elektroautos. Konzernchef Blume spricht deshalb kaum noch über ein Verbrennerverbot. (VW, Elektroauto)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/blume-will-hoehere-zoelle-vw-elektroautos-boomen-2607-211294.html",
+      "publishedAt": "2026-07-27T05:33:01.000Z"
+    },
+    {
+      "id": "n_c0189a44fa",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "God of War: Kriegsgott Kratos folgt auf Laufey",
+      "summary": "Anfang 2027 erscheint God of War - Laufey, später setzt Kratos die Geschichte mehr oder weniger unmittelbar fort. (God of War, Sony)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/god-of-war-kriegsgott-kratos-folgt-auf-laufey-2607-211293.html",
+      "publishedAt": "2026-07-27T05:17:02.000Z"
+    },
+    {
+      "id": "n_d88772c569",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: LDAP als Basis für zentrales Identitätsmanagement",
+      "summary": "Für das LDAP-Identitätsmanagement sind saubere Schemata, konsistente Datenmodelle und belastbare Betriebs- und Replikationskonzepte entscheidend. Ein dreitägiger Workshop vertieft diese Themen praxisnah. (Golem Karrierewelt, Server-Applikationen)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-ldap-als-basis-fuer-zentrales-identitaetsmanagement-2607-206058.html",
+      "publishedAt": "2026-07-27T05:15:02.000Z"
     },
     {
       "id": "n_ef439db82b",
@@ -222,70 +266,59 @@
       "publishedAt": "2026-07-26T11:33:01.000Z"
     },
     {
-      "id": "n_8e613e7cc4",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Tablet: Apple soll erstmals wasserdichtes iPad Mini planen",
-      "summary": "Ein neues Lautsprechersystem soll das iPad Mini künftig vor Wasser schützen. Der Marktstart könnte bereits im Oktober erfolgen. (iPad Mini, Apple)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/tablet-apple-soll-erstmals-wasserdichtes-ipad-mini-planen-2607-211289.html",
-      "publishedAt": "2026-07-26T10:14:01.000Z"
-    },
-    {
-      "id": "n_831f47081e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Rechenzentren: Verizon schließt Milliardenvertrag für Dark Fiber mit Google",
-      "summary": "Google sichert sich unbeleuchtete Glasfaser in Nordamerika. Verizon stellt sich personell im Technikvorstand neu auf. (Verizon, Google)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/rechenzentren-verizon-schliesst-milliardenvertrag-fuer-dark-fiber-mit-google-2607-211288.html",
-      "publishedAt": "2026-07-26T09:34:02.000Z"
-    },
-    {
-      "id": "n_e74d36ed53",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Balkonkraftwerk mit Anker-Speicher bei Kleines Kraftwerk über 850 Euro günstiger",
-      "summary": "Bei Kleines Kraftwerk gibt es exklusiv für Golem-Leser jetzt ein Balkonkraftwerk mit Speicher. So kann produzierter Strom später genutzt werden. (Balkonkraftwerk, Solarenergie)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-balkonkraftwerk-mit-anker-speicher-bei-kleines-kraftwerk-ueber-850-euro-guenstiger-2607-211260.html",
-      "publishedAt": "2026-07-26T08:40:02.000Z"
-    },
-    {
-      "id": "n_2563b6b5c3",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Landes-Geheimdienstchef Kramer: OpenAI-Hackerangriff war \"kein Skynet-Szenario\"",
-      "summary": "Nach dem Hackerangriff auf Hugging Face mahnt der Thüringer Verfassungsschutz zur Besonnenheit. Er forderte aber ein KI-Frühwarnsystem für die Sicherheitsbehörden. (KI, Sicherheitslücke)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/landes-geheimdienstchef-kramer-openai-hackerangriff-war-kein-skynet-szenario-2607-211287.html",
-      "publishedAt": "2026-07-26T08:21:02.000Z"
-    },
-    {
-      "id": "n_2bec49ca65",
+      "id": "n_c4214550b2",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-      "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
+      "headline": "Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall",
+      "summary": "Typhoon Noul is the strongest to make landfall in China so far this year, according to state media.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-26T18:40:08.000Z"
+      "url": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-27T01:54:30.000Z"
     },
     {
-      "id": "n_9289efc8a1",
+      "id": "n_144538d221",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "What we know so far about the Berlin Pride ramming attack",
-      "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+      "headline": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
+      "summary": "Javier Milei made the comments while in Brazil at a rally to launch the campaign of right-wing presidential candidate Flávio Bolsonaro.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-26T17:45:30.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-27T01:35:51.000Z"
+    },
+    {
+      "id": "n_c4e62024fa",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+      "summary": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-27T00:27:58.000Z"
+    },
+    {
+      "id": "n_d2eb15cbba",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "The Indian Army's first woman boxer is now chasing Commonwealth gold",
+      "summary": "World champion Jaismine Lamboria targets Commonwealth gold in Glasgow Games.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0m8z6de3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T22:06:46.000Z"
+    },
+    {
+      "id": "n_702c5e1d5d",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+      "summary": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T21:30:20.000Z"
     },
     {
       "id": "n_bb7e9947d7",
@@ -293,65 +326,32 @@
       "topic": "general",
       "lang": "en",
       "headline": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-      "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
+      "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-26T10:26:05.000Z"
+      "publishedAt": "2026-07-26T21:23:53.000Z"
     },
     {
-      "id": "n_d51e5b2399",
+      "id": "n_9289efc8a1",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Watch: At the scene of Berlin Pride attack as manhunt continues",
-      "summary": "A 21-year-old suspect has been identified by police, but he has not been found.",
+      "headline": "What we know so far about the Berlin Pride ramming attack",
+      "summary": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-26T08:14:55.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T20:34:23.000Z"
     },
     {
-      "id": "n_5a665a1378",
+      "id": "n_2098bb2dd7",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Left-wing Democrats are on a winning run - but can they lure back crucial swing voters?",
-      "summary": "They have seen a flurry of recent wins, but Michigan will test their ability to win back working-class voters in crucial states.",
+      "headline": "Berlin Pride attack suspect shot and killed during police operation",
+      "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3rrd32jlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-26T03:58:51.000Z"
-    },
-    {
-      "id": "n_02f6dfe5c8",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "The notorious Cameroonian prison with its own record label",
-      "summary": "New Bell's inmates have become mini stars, recording songs and music videos from the confines of the jail.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-26T00:24:30.000Z"
-    },
-    {
-      "id": "n_ae17f05d59",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Would you pay $58.5m to live in this iconic New York building?",
-      "summary": "With its renovation nearly complete, the Flatiron is ready for its next - and most extravagant - phase of life.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-26T00:05:03.000Z"
-    },
-    {
-      "id": "n_65e32bfc4e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "What Love Island tells us about the changing face of dating",
-      "summary": "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T23:31:49.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T19:21:26.000Z"
     },
     {
       "id": "n_27ed257558",
@@ -442,6 +442,17 @@
       "publishedAt": "2026-07-23T20:42:33.000Z"
     },
     {
+      "id": "n_4fbca79c50",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "First teaser for Apple TV's Neuromancer debuts at SDCC",
+      "summary": "Plus Mike Flanagan's Carrie teaser, trailers for Dark Matter S2 and Matchbox the Movie, and Marvel news.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
+      "publishedAt": "2026-07-26T19:48:43.000Z"
+    },
+    {
       "id": "n_cd791503bb",
       "type": "news",
       "topic": "tech",
@@ -519,15 +530,26 @@
       "publishedAt": "2026-07-24T21:25:15.000Z"
     },
     {
-      "id": "n_c8550037f8",
+      "id": "n_0ab8893ae8",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-      "summary": "Models are improving quickly, but the cheaper options are often good enough.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-      "publishedAt": "2026-07-24T21:05:51.000Z"
+      "headline": "Are brain waves the next unlock for physical AI?",
+      "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "publishedAt": "2026-07-27T00:19:14.000Z"
+    },
+    {
+      "id": "n_44767f7747",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Making sense of the panic over Chinese AI",
+      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "publishedAt": "2026-07-26T19:40:57.000Z"
     },
     {
       "id": "n_381c0186a6",
@@ -594,28 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
       "publishedAt": "2026-07-24T22:25:58.000Z"
-    },
-    {
-      "id": "n_a913682517",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-      "publishedAt": "2026-07-24T18:07:32.000Z"
-    },
-    {
-      "id": "n_204fa3eb1b",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Anthropic launches Opus 5",
-      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "publishedAt": "2026-07-24T17:00:00.000Z"
     },
     {
       "id": "n_2bbb3806a8",
