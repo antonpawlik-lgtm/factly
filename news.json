@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-07-28T16:27:12.051Z",
+  "generatedAt": "2026-07-28T19:02:40.745Z",
   "items": [
+    {
+      "id": "n_c707cde3db",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Messerangriff in Regensburg: Verdächtiger in Psychiatrie verlegt",
+      "summary": "Nach dem tödlichen Messerangriff in einer Bank in Regensburg sahen Ermittler zunächst keine Hinweise auf eine psychische Erkrankung des mutmaßlichen Täters. Ein Gutachter beurteilt die Situation jedoch anders.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/bayern/messerangriff-regensburg-102.html",
+      "publishedAt": "2026-07-28T17:47:06.000Z"
+    },
+    {
+      "id": "n_b5328457ae",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Prozess um Anschlag auf ver.di-Demo: Anklage fordert lebenslange Haft",
+      "summary": "Zwei Menschen starben, als ein Mann im Februar 2025 sein Auto in eine ver.di-Demo lenkte, viele weitere wurden verletzt. Im Prozess hat die Bundesanwaltschaft nun lebenslange Haft für den Angeklagten gefordert.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/bayern/prozess-anschlag-verdi-100.html",
+      "publishedAt": "2026-07-28T17:21:44.000Z"
+    },
+    {
+      "id": "n_6b8da2b03a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Probleme in Beziehungen zu USA: Ein Sicherheitsrisiko für Israel",
+      "summary": "Spätestens der Iran-Krieg hat die Beziehung der USA zu Israel verändert. In Washington wird die israelische Regierung zunehmend als Belastung wahrgenommen. Für Netanjahu ging es bei dem heutigen Treffen um viel. Von J.-C. Kitzler.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/israel-usa-belastete-beziehung-100.html",
+      "publishedAt": "2026-07-28T17:07:48.000Z"
+    },
+    {
+      "id": "n_6d0be6f198",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Waldbrände in Europa: Was Reisende jetzt wissen müssen",
+      "summary": "In ganz Europa wüten derzeit Waldbrände, besonders heftig in Frankreich und Spanien. Auch beliebte Urlaubsregionen sind von den Feuern betroffen. Was Reisende jetzt wissen müssen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/rechte-reisen-waldbraende-100.html",
+      "publishedAt": "2026-07-28T16:59:21.000Z"
+    },
     {
       "id": "n_eacd67dfcd",
       "type": "news",
@@ -46,48 +90,37 @@
       "publishedAt": "2026-07-28T15:12:48.000Z"
     },
     {
-      "id": "n_561dcbb8c8",
+      "id": "n_90f89757a5",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "CSU-Landesgruppe: Eine Klausurtagung im Schatten von Berlin",
-      "summary": "Während Personaldebatten in Berlin für Unruhe sorgen, präsentiert sich die CSU bei ihrer Klausur in Kloster Banz als \"Stabilitätsanker\" der Union und stärkt demonstrativ Merz den Rücken. Von Kerstin Palzer.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/csu-landesgruppe-kabinettsumbildung-100.html",
-      "publishedAt": "2026-07-28T15:04:46.000Z"
+      "headline": "Carsharing: Stellantis verkauft Free2move",
+      "summary": "Carsharing gehört für Stellantis nicht mehr zum Kerngeschäft. Der Autokonzern verkauft seine Tochter Free2move an einen Finanzinvestor.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Carsharing-Stellantis-verkauft-Free2move-11381005.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-07-28T16:36:00.000Z"
     },
     {
-      "id": "n_549a31646e",
+      "id": "n_96b5bba049",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Prekäre Bedingungen für Erntehelfer: EU-Sanktionen greifen kaum",
-      "summary": "Bei Verstößen gegen den Arbeits- und Sozialschutz kann landwirtschaftlichen Betrieben die EU-Förderung gekürzt werden. Recherchen von Report Mainz zeigen, dass dies in der Praxis kaum geschieht. Von Daniel Hoh.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/investigativ/report-mainz/erntehelfer-128.html",
-      "publishedAt": "2026-07-28T15:01:41.000Z"
+      "headline": "Nvidia verhandelt über 250-Milliarden-Dollar-Bürgschaft für OpenAI",
+      "summary": "Nvidia soll OpenAI mit einer 250-Milliarden-Dollar-Garantie den Zugang zu Softbanks geplantem 10-Gigawatt-Rechenzentrum in Ohio ermöglichen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Nvidia-verhandelt-ueber-250-Milliarden-Dollar-Buergschaft-fuer-OpenAI-11380911.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-07-28T16:29:00.000Z"
     },
     {
-      "id": "n_bceec03bca",
+      "id": "n_1b7b5836b0",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Anschlag auf CSD: Bekennervideo auf Handy des mutmaßlichen Täters gefunden",
-      "summary": "Drei Tage nach dem CSD-Anschlag in Berlin haben Ermittler auf dem Handy von Abdul B. ein Video mit Bekenntnis zur Terrormiliz \"Islamischer Staat\" entdeckt. Es zeigt eine vermummte Person - mit hoher Wahrscheinlichkeit handelt es sich um den Tatverdächtigen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/csd-anschlag-bekennervideo-100.html",
-      "publishedAt": "2026-07-28T14:24:35.000Z"
-    },
-    {
-      "id": "n_f1a2e5248c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Keiko Fujimori übernimmt Präsidentenamt in Peru",
-      "summary": "Mit Keiko Fujimori übernimmt eine umstrittene Politikerin die Führung Perus. Viele hoffen auf mehr Sicherheit, andere fürchten eine Fortsetzung der Machtstrukturen ihres Vaters. Von X. Böttcher und O. Neuroth.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/peru-amtseinfuehrung-fujimori-100.html",
-      "publishedAt": "2026-07-28T14:15:05.000Z"
+      "headline": "Fehlgeleitete Xing-Nachricht: BGH spricht Bewerber DSGVO-Schadenersatz zu",
+      "summary": "Wer Bewerberdaten versehentlich an Dritte schickt, riskiert laut dem Bundesgerichtshof Schadensersatz. Das Urteil verdeutlicht mögliche Folgen von Datenpannen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Fehlgeleitete-Xing-Nachricht-BGH-spricht-Bewerber-DSGVO-Schadenersatz-zu-11380985.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-07-28T16:25:00.000Z"
     },
     {
       "id": "n_8aa04ff573",
@@ -145,37 +178,37 @@
       "publishedAt": "2026-07-27T05:49:00.000Z"
     },
     {
-      "id": "n_3901b983d4",
+      "id": "n_3d5c7a0d21",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "IT-Messe: Gitex Europe in Berlin ist schon wieder Geschichte",
-      "summary": "Die mit großen Hoffnungen in die Hauptstadt geholte IT-Messe Gitex Europe sagt zum Abschied leise Servus. Offenbar wurden die Erwartungen nicht erfüllt.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/IT-Messe-Gitex-Europe-verabschiedet-sich-von-Berlin-11377766.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-07-24T13:48:00.000Z"
+      "headline": "VATM: Branchenverband fordert staatliche Förderprogramme für Glasfaser",
+      "summary": "Ein großer Telco-Branchenverband will für Glasfaser dieselbe Förderung wie Solarenergie, Wärmepumpen und E-Mobilität erhalten. (VATM, Open Access)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/vatm-branchenverband-fordert-staatliche-foerderprogramme-fuer-glasfaser-2607-211380.html",
+      "publishedAt": "2026-07-28T17:26:02.000Z"
     },
     {
-      "id": "n_94021ae83f",
+      "id": "n_be66080160",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Web.de und GMX rüsten Passkeys nach",
-      "summary": "Die United-Internet-Töchter GMX und Web.de führen jetzt Passkeys ein. Sie verbessern damit die Sicherheit und den Schutz vor Phishing.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Web-de-und-GMX-ruesten-Passkeys-nach-11377564.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-07-24T11:23:00.000Z"
+      "headline": "Anzeige: Erste Erweiterung der Mini-Blaustein von Bluebrixx im Handel gelandet",
+      "summary": "Bluebrixx hat vor wenigen Tagen die erste Erweiterung der Burg Blaustein aus Mini-Blocks veröffentlicht. (Lego, Unterhaltung & Hobby)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-erste-erweiterung-der-mini-blaustein-von-bluebrixx-im-handel-gelandet-2607-211379.html",
+      "publishedAt": "2026-07-28T16:57:01.000Z"
     },
     {
-      "id": "n_6f42b595b0",
+      "id": "n_5e1b520b56",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "EU-Kommission: TikTok soll Minderjährige besser schützen",
-      "summary": "In der laufenden Untersuchung der chinesischen Plattform TikTok findet die EU-Kommission Mängel beim Kinder- und Jugendschutz.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/EU-Kommission-TikTok-soll-Minderjaehrige-besser-schuetzen-11377570.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-07-24T11:05:00.000Z"
+      "headline": "SES und Eutelsat: Europäische Satellitenbetreiber bekommen Milliarden von der FCC",
+      "summary": "Die europäischen Satellitenbetreiber SES und Eutelsat benötigen das C-Band nicht mehr. Die FCC zahlt viel Geld, wenn die Frequenzen freigegeben werden. (Mobilfunk, FCC)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/ses-und-eutelsat-europaeische-satellitenbetreiber-bekommen-milliarden-von-der-fcc-2607-211378.html",
+      "publishedAt": "2026-07-28T16:38:01.000Z"
     },
     {
       "id": "n_8a4009c226",
@@ -233,45 +266,56 @@
       "publishedAt": "2026-07-28T15:42:02.000Z"
     },
     {
-      "id": "n_6f5b921626",
+      "id": "n_6431850cff",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Fitbit Charge 6 für nur 78 Euro | Guter Gesundheitstracker mit schwachem GPS",
-      "summary": "Aktuell gibt es den Fitbit Charge 6 zum Amazon-Tiefstpreis von nur 78 Euro, so Keepa. Neben dem Preis überzeugt der Fitnesstracker mit etlichen Features - bis aufs schwache GPS. (Fitbit, Google)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-fitbit-charge-6-fuer-nur-78-euro-guter-gesundheitstracker-mit-schwachem-gps-2607-211371.html",
-      "publishedAt": "2026-07-28T15:35:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Ghana mourns its tallest man - a 'generous and popular giant'",
+      "summary": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T18:19:57.000Z"
     },
     {
-      "id": "n_667294796e",
+      "id": "n_087d9a835c",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Paypal als Bank: Amazon Deutschland führt Paypal-Ratenzahlung ein",
-      "summary": "Erstmals können Kunden bei Amazon mit Paypal bezahlen. Doch der Zinssatz ist alles andere als niedrig. (Paypal, Amazon)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/paypal-als-bank-amazon-deutschland-fuehrt-paypal-ratenzahlung-ein-2607-211374.html",
-      "publishedAt": "2026-07-28T15:15:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Japan earthquake: What we know so far",
+      "summary": "Japan is reeling from a major earthquake that hit Kyushu island. Here is what we know so far.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgewgxlpj3po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T17:15:14.000Z"
     },
     {
-      "id": "n_8479bcd5f0",
+      "id": "n_3262d6e041",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "US-Gesetz gegen chinesische Autos: Niemand hat die Absicht, Mercedes zu verbieten",
-      "summary": "Der US-Kongress strebt ein Verkaufsverbot für Autohersteller mit chinesischer Beteiligung an. Das könnte nach aktuellen Plänen Mercedes-Benz treffen. Ein Bericht von Friedhelm Greis (Mercedes Benz, Politik)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/us-gesetz-gegen-chinesische-autos-niemand-hat-die-absicht-mercedes-zu-verbieten-2607-211368.html",
-      "publishedAt": "2026-07-28T14:51:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "'It's a hell of a situation': Spain grapples with devastating wildfires",
+      "summary": "Three fires in the Madrid region have caused particular concern, with a new heatwave expected to hit Spain from Wednesday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T16:49:11.000Z"
+    },
+    {
+      "id": "n_54c9f613cf",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
+      "summary": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T16:37:02.000Z"
     },
     {
       "id": "n_44c682a32a",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Gironde wildfires flare up as French region braces for new 40C heatwave",
-      "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires.",
+      "headline": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+      "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-28T16:14:03.000Z"
@@ -286,17 +330,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-28T16:12:35.000Z"
-    },
-    {
-      "id": "n_087d9a835c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Japan earthquake: What we know so far",
-      "summary": "Japan is reeling from a major 7.1 earthquake that hit Kyushu island. Here is what we know so far.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgewgxlpj3po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T15:45:02.000Z"
     },
     {
       "id": "n_ff59de902d",
@@ -319,39 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-28T15:11:28.000Z"
-    },
-    {
-      "id": "n_3262d6e041",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'It's a hell of a situation': Spain grapples with devastating wildfires",
-      "summary": "Three fires in the Madrid region have caused special concerns, with a new heatwave expected to hit Spain from Wednesday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T15:07:17.000Z"
-    },
-    {
-      "id": "n_b55e0bb786",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Mancini reappointed Italy boss after Pirlo controversy",
-      "summary": "Roberto Mancini is appointed Italy manager for a second time - just a day after Andrea Pirlo rules himself out of the running for the job and technical director Paolo Maldini resigns.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T13:54:00.000Z"
-    },
-    {
-      "id": "n_d3d25218d9",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US singer D4vd to go on trial for murder in death of 14-year-old",
-      "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T12:31:45.000Z"
     },
     {
       "id": "n_a3c19fa8f3",
@@ -442,6 +442,17 @@
       "publishedAt": "2026-07-24T14:27:46.000Z"
     },
     {
+      "id": "n_42ccfbdf5b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link",
+      "summary": "Trump is fixated on the false, long-debunked claim that vaccines cause autism.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/",
+      "publishedAt": "2026-07-28T16:16:25.000Z"
+    },
+    {
       "id": "n_b8d7702767",
       "type": "news",
       "topic": "tech",
@@ -519,17 +530,6 @@
       "publishedAt": "2026-07-27T20:12:42.000Z"
     },
     {
-      "id": "n_7a4b03b1af",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
-      "summary": "Age verification is okay, but filtering is preempted by Section 230, judges find.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
-      "publishedAt": "2026-07-27T19:18:02.000Z"
-    },
-    {
       "id": "n_fa0f2469b5",
       "type": "news",
       "topic": "ai",
@@ -546,7 +546,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-      "summary": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+      "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
       "publishedAt": "2026-07-28T14:00:00.000Z"
@@ -556,8 +556,8 @@
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Recursive Superintelligence signs $410 million compute deal with Amazon",
-      "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+      "headline": "Recursive Superintelligence signs $410M compute deal with Amazon",
+      "summary": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
       "publishedAt": "2026-07-28T13:19:17.000Z"
@@ -959,6 +959,17 @@
       "publishedAt": "2026-07-24T15:00:00.000Z"
     },
     {
+      "id": "n_92e866603d",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "publishedAt": "2026-07-28T16:27:42.000Z"
+    },
+    {
       "id": "n_85dd02699b",
       "type": "news",
       "topic": "ai",
@@ -1023,17 +1034,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/security-incident-july-2026",
       "publishedAt": "2026-07-16T00:00:00.000Z"
-    },
-    {
-      "id": "n_53e3149d2c",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "What building Shippy taught us about building agents",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "publishedAt": "2026-07-15T17:29:41.000Z"
     },
     {
       "id": "n_5c8332d409",
