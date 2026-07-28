@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-07-28T19:02:40.745Z",
+  "generatedAt": "2026-07-28T21:53:53.329Z",
   "items": [
+    {
+      "id": "n_7c7ff90fed",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Gespräche in Washington: Trump empfängt Selenskyj und Netanjahu",
+      "summary": "Zwei hochrangige Besucher an einem Tag: US-Präsident Trump hat den ukrainischen Präsidenten Selenskyj und Israels Premier Netanjahu empfangen. Um Kriege ging es in beiden Gesprächen - unter sehr verschiedenen Vorzeichen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-netanjahu-102.html",
+      "publishedAt": "2026-07-28T19:16:32.000Z"
+    },
+    {
+      "id": "n_8d45ef39d7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach CSD-Attentat: Verschärfungen im Polizei- und Strafrecht machbar?",
+      "summary": "Nach dem Anschlag am Rande des CSD in Berlin werden Verschärfungen im Polizeirecht und im Strafrecht diskutiert. Worum geht es genau und welche Forderungen sind wirklich umsetzbar? Von Antonetta Stephany und Björn-Hendrik Otte.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/csd-anschlag-forderungen-recht-100.html",
+      "publishedAt": "2026-07-28T19:03:56.000Z"
+    },
     {
       "id": "n_c707cde3db",
       "type": "news",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/braende-frankreich-spanien-122.html",
       "publishedAt": "2026-07-28T16:10:31.000Z"
-    },
-    {
-      "id": "n_4c67c8f55d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Deutschland schiebt erneut Menschen nach Afghanistan ab",
-      "summary": "Erneut sind Afghanen per Charterflug in ihre Heimat abgeschoben worden. Laut Innenminister Dobrindt handelte es sich überwiegend um Straftäter. Auf eine Person trifft diese Beschreibung aber nicht zu - was für Diskussionen sorgt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/abschiebeflug-afghanen-102.html",
-      "publishedAt": "2026-07-28T15:16:09.000Z"
-    },
-    {
-      "id": "n_ed9a501d84",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Erdbeben der Stärke 7,1 erschüttert Südwesten Japans",
-      "summary": "Ein schweres Erdbeben hat die Insel Kyushu im Südwesten Japans erschüttert. Medien berichten von mindestens einem Toten und insgesamt 50 Verletzten. Die nationale Wetterbehörde warnt zudem vor Nachbeben.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-158.html",
-      "publishedAt": "2026-07-28T15:12:48.000Z"
     },
     {
       "id": "n_90f89757a5",
@@ -266,6 +266,28 @@
       "publishedAt": "2026-07-28T15:42:02.000Z"
     },
     {
+      "id": "n_b113d8cf11",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'A narcissist' - victim's family blasts Kohberger for challenging Idaho murder conviction",
+      "summary": "The man accused of killing four students in Idaho is taking back his plea, which was made to avoid the death penalty.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgewg57rq2ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T21:43:30.000Z"
+    },
+    {
+      "id": "n_151d6539da",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Bystander video shows teen lifeguard's dramatic ocean rescue",
+      "summary": "The 16-year-old lifeguard rescued a 10-year-old boy from a beach in Santa Cruz, California after the boy had been swept offshore.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c4g3600xw5ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T21:09:21.000Z"
+    },
+    {
       "id": "n_6431850cff",
       "type": "news",
       "topic": "general",
@@ -332,26 +354,15 @@
       "publishedAt": "2026-07-28T16:12:35.000Z"
     },
     {
-      "id": "n_ff59de902d",
+      "id": "n_16b900acb0",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Uefa reacts with fury to Infantino World Cup plan",
-      "summary": "European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+      "headline": "Tech Life",
+      "summary": "What do we need to know about agentic AI?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T15:36:29.000Z"
-    },
-    {
-      "id": "n_2439a2109b",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Odyssey translator writes scathing review of Nolan film adaptation",
-      "summary": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T15:11:28.000Z"
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy6?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T20:00:00.000Z"
     },
     {
       "id": "n_a3c19fa8f3",
@@ -431,15 +442,26 @@
       "publishedAt": "2026-07-24T20:23:58.000Z"
     },
     {
-      "id": "n_1acb1ce660",
+      "id": "n_82fcaac5a7",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "How Jimothy the raccoon became the internet's latest animal obsession",
-      "summary": "It all began with an innocuous video shared by Seattle resident Kiana Hall on Instagram.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T14:27:46.000Z"
+      "headline": "New airliner sets record flying 24 hrs nonstop from Australia to France",
+      "summary": "Record flight shows viability of Qantas Airways’ Project Sunrise routes in 2027.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/",
+      "publishedAt": "2026-07-28T18:43:36.000Z"
+    },
+    {
+      "id": "n_d1f44dacf0",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Judge blocks first state law that would have banned prediction markets",
+      "summary": "Judge may allow Minnesota to ban some types of bets, but not all of them.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/judge-blocks-first-state-law-that-would-have-banned-prediction-markets/",
+      "publishedAt": "2026-07-28T18:31:13.000Z"
     },
     {
       "id": "n_42ccfbdf5b",
@@ -508,26 +530,37 @@
       "publishedAt": "2026-07-27T20:32:45.000Z"
     },
     {
-      "id": "n_d31901bd43",
+      "id": "n_ac59c7d45b",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "A missing underscore sent innocent man to prison for 18 months",
-      "summary": "When the first step goes wrong, bad results follow.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-      "publishedAt": "2026-07-27T20:22:03.000Z"
+      "headline": "Bot-detection startup Spur nabs $200M from Insight",
+      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "publishedAt": "2026-07-28T21:29:34.000Z"
     },
     {
-      "id": "n_545e6c11df",
+      "id": "n_5935209b00",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
-      "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
-      "publishedAt": "2026-07-27T20:12:42.000Z"
+      "headline": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "publishedAt": "2026-07-28T20:45:12.000Z"
+    },
+    {
+      "id": "n_261dce35af",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Sam Altman is ready to decelerate",
+      "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "publishedAt": "2026-07-28T20:17:08.000Z"
     },
     {
       "id": "n_fa0f2469b5",
@@ -585,37 +618,26 @@
       "publishedAt": "2026-07-28T00:13:33.000Z"
     },
     {
-      "id": "n_593821ed00",
+      "id": "n_af8439b14c",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Satya Nadella says companies that trust one AI for everything may not survive",
-      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-      "publishedAt": "2026-07-27T21:17:11.000Z"
+      "headline": "AI leaders sign statement asking the government to do something about automated AI",
+      "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coor",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "publishedAt": "2026-07-28T19:46:43.000Z"
     },
     {
-      "id": "n_6bd1974f42",
+      "id": "n_c889cb1c75",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-      "publishedAt": "2026-07-27T20:19:42.000Z"
-    },
-    {
-      "id": "n_434f3ebbec",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "publishedAt": "2026-07-27T18:32:11.000Z"
+      "headline": "AI’s finally expensive enough to make Wall Street nervous",
+      "summary": "Working hard, or bear-ly working? | Image: Cath Virginia / The Verge, Getty Images It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billi",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+      "publishedAt": "2026-07-28T19:33:03.000Z"
     },
     {
       "id": "n_37db1a04f0",
@@ -682,28 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
       "publishedAt": "2026-07-24T19:06:58.000Z"
-    },
-    {
-      "id": "n_e69b66c366",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "You can’t ignore Google Zero anymore",
-      "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems t",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-      "publishedAt": "2026-07-24T17:29:48.000Z"
-    },
-    {
-      "id": "n_6c939dbf7a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-      "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the cap",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-      "publishedAt": "2026-07-24T17:00:00.000Z"
     },
     {
       "id": "n_3d6d30af34",
@@ -992,6 +992,17 @@
       "publishedAt": "2026-07-27T09:32:20.000Z"
     },
     {
+      "id": "n_8ff67d7712",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "publishedAt": "2026-07-27T00:00:00.000Z"
+    },
+    {
       "id": "n_37c9890bc3",
       "type": "news",
       "topic": "ai",
@@ -1034,17 +1045,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/security-incident-july-2026",
       "publishedAt": "2026-07-16T00:00:00.000Z"
-    },
-    {
-      "id": "n_5c8332d409",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Model Routing Is Simple. Until It Isn’t.",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "publishedAt": "2026-07-15T17:27:01.000Z"
     },
     {
       "id": "n_9363752886",
@@ -1095,6 +1095,18 @@
       "publishedAt": "2026-07-07T16:33:29.000Z"
     },
     {
+      "id": "n_49a7d5405f",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
+      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
+      "publishedAt": "2026-07-28T20:02:11.000Z"
+    },
+    {
       "id": "n_39feb22ff6",
       "type": "video",
       "topic": "video",
@@ -1129,18 +1141,6 @@
       "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
       "thumbnail": "https://i.ytimg.com/vi/nepKKz-MzFM/hqdefault.jpg",
       "publishedAt": "2026-05-06T22:03:16.000Z"
-    },
-    {
-      "id": "n_854df813c0",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "thumbnail": "https://i.ytimg.com/vi/iKx3gAODybU/hqdefault.jpg",
-      "publishedAt": "2026-04-09T17:35:20.000Z"
     },
     {
       "id": "n_c930172539",
