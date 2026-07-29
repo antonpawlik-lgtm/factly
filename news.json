@@ -1,16 +1,60 @@
 {
-  "generatedAt": "2026-07-28T21:53:53.329Z",
+  "generatedAt": "2026-07-29T05:40:45.497Z",
   "items": [
+    {
+      "id": "n_a3be7c3552",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "USA und Saudi-Arabien greifen Ziele im Irak an",
+      "summary": "Am Golf sind die Kampfhandlungen wieder aufgeflammt. Gemeinsam mit Saudi-Arabien griffen US-Streitkräfte pro-iranische Milizen im Irak an. Kurz zuvor wurde Raketenbeschuss aus Iran auf US-Stützpunkte gemeldet.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/nahost-iran-100.html",
+      "publishedAt": "2026-07-29T05:34:54.000Z"
+    },
+    {
+      "id": "n_944f2d7a9f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Fed-Zinsentscheid: Wiederholt die Notenbank den Fehler von 2021?",
+      "summary": "Fed-Chef Warsh warnt vor gestiegenen Inflationsrisiken, hat aber bislang nicht gehandelt. Nun muss sich zeigen, ob die US-Notenbank rechtzeitig reagiert - oder einen alten Fehler wiederholt. Von Angela Göpfert.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/fed-zinsentscheid-inflation-kevin-warsh-100.html",
+      "publishedAt": "2026-07-29T04:51:20.000Z"
+    },
     {
       "id": "n_7c7ff90fed",
       "type": "news",
       "topic": "general",
       "lang": "de",
       "headline": "Gespräche in Washington: Trump empfängt Selenskyj und Netanjahu",
-      "summary": "Zwei hochrangige Besucher an einem Tag: US-Präsident Trump hat den ukrainischen Präsidenten Selenskyj und Israels Premier Netanjahu empfangen. Um Kriege ging es in beiden Gesprächen - unter sehr verschiedenen Vorzeichen.",
+      "summary": "Zwei hochrangige Besucher an einem Tag: US-Präsident Trump hat den ukrainischen Präsidenten Selenskyj und Israels Premier Netanjahu empfangen. Selenskyj sagte nach dem Treffen, Trump habe der Ukraine \"Patriot\"-Lizenzen zugesagt.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-netanjahu-102.html",
-      "publishedAt": "2026-07-28T19:16:32.000Z"
+      "publishedAt": "2026-07-29T04:25:55.000Z"
+    },
+    {
+      "id": "n_8ea56c26fe",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wie Wahlkämpfer in Sachsen-Anhalt auf die Kabinettsumbildung schauen",
+      "summary": "Kanzler Merz wollte mit dem Personalumbau neuen Schwung erzeugen - CDU-Politiker in Sachsen-Anhalt befürchten das Gegenteil. Besonders ein Fall sorgt für Unmut. Zerstritten erscheinen will man aber nicht. Von Hannes Leonard.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-sachsen-anhalt-kritik-100.html",
+      "publishedAt": "2026-07-29T03:18:43.000Z"
+    },
+    {
+      "id": "n_eeccd5c3fb",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Zahl der Toten in Japan steigt auf mindestens 13",
+      "summary": "Nach dem schweren Erdbeben im Südwesten Japans dauern die Rettungsarbeiten an. Die Zahl der Todesopfer stieg auf mindestens 13. In einem Einkaufszentrum war es zu einer enormen Explosion gekommen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-172.html",
+      "publishedAt": "2026-07-29T02:11:03.000Z"
     },
     {
       "id": "n_8d45ef39d7",
@@ -44,50 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/regional/bayern/prozess-anschlag-verdi-100.html",
       "publishedAt": "2026-07-28T17:21:44.000Z"
-    },
-    {
-      "id": "n_6b8da2b03a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Probleme in Beziehungen zu USA: Ein Sicherheitsrisiko für Israel",
-      "summary": "Spätestens der Iran-Krieg hat die Beziehung der USA zu Israel verändert. In Washington wird die israelische Regierung zunehmend als Belastung wahrgenommen. Für Netanjahu ging es bei dem heutigen Treffen um viel. Von J.-C. Kitzler.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-usa-belastete-beziehung-100.html",
-      "publishedAt": "2026-07-28T17:07:48.000Z"
-    },
-    {
-      "id": "n_6d0be6f198",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Waldbrände in Europa: Was Reisende jetzt wissen müssen",
-      "summary": "In ganz Europa wüten derzeit Waldbrände, besonders heftig in Frankreich und Spanien. Auch beliebte Urlaubsregionen sind von den Feuern betroffen. Was Reisende jetzt wissen müssen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/rechte-reisen-waldbraende-100.html",
-      "publishedAt": "2026-07-28T16:59:21.000Z"
-    },
-    {
-      "id": "n_eacd67dfcd",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: DAX behauptet sich in schwierigem Umfeld",
-      "summary": "Weiter fallenden Ölpreisen standen heute wachsende Sorgen im Technologiesektor gegenüber. Dem DAX gelang dennoch ein leichtes Plus, was auch an den Kursgewinnen der Autotitel lag.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oelpreis-100.html",
-      "publishedAt": "2026-07-28T16:20:50.000Z"
-    },
-    {
-      "id": "n_18289074fb",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Frankreich und Spanien: Erste Erfolge im Kampf gegen die Waldbrände",
-      "summary": "In Frankreich und Spanien bekämpfen Tausende Einsatzkräfte die verheerenden Waldbrände. Dabei feiern sie erste Erfolge. Doch die hohen Temperaturen erschweren die Löscharbeiten. Und es droht eine weitere Hitzewelle.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/braende-frankreich-spanien-122.html",
-      "publishedAt": "2026-07-28T16:10:31.000Z"
     },
     {
       "id": "n_90f89757a5",
@@ -178,6 +178,28 @@
       "publishedAt": "2026-07-27T05:49:00.000Z"
     },
     {
+      "id": "n_88616a02e4",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Weltrekord: Qantas fliegt 24 Stunden am Stück",
+      "summary": "Ein Airbus A350 der Flugesellschaft Qantas ist von Melbourne nach Toulouse geflogen, ohne zwischenzulanden. (Luftfahrt, Mobilität)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/weltrekord-qantas-fliegt-24-stunden-am-stueck-2607-211383.html",
+      "publishedAt": "2026-07-29T05:37:01.000Z"
+    },
+    {
+      "id": "n_b439f3c570",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: ISO 27001: Grundlagen für das ISMS",
+      "summary": "ISO 27001 hilft, Informationssicherheit nachvollziehbar zu steuern. Wer ISMS, Risikomanagement und Zertifizierung vorbereitet, findet in diesem Workshop die passenden Grundlagen. (Golem Karrierewelt, Server-Applikationen)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-iso-27001-grundlagen-fuer-das-isms-2607-209736.html",
+      "publishedAt": "2026-07-29T05:15:02.000Z"
+    },
+    {
       "id": "n_3d5c7a0d21",
       "type": "news",
       "topic": "tech",
@@ -244,26 +266,70 @@
       "publishedAt": "2026-07-28T16:05:01.000Z"
     },
     {
-      "id": "n_1834498813",
+      "id": "n_44c682a32a",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "250 Milliarden US-Dollar: Nvidia will Kredite für OpenAI-Rechenzentrum absichern",
-      "summary": "Nvidia will den Bau eines gigantischen Rechenzentrums ermöglichen - vielleicht auch den Hardwarekauf. Um den Bauzuschlag streiten mehrere Interessenten. (OpenAI, Nvidia)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/250-milliarden-us-dollar-nvidia-will-kredite-fuer-openai-rechenzentrum-absichern-2607-211373.html",
-      "publishedAt": "2026-07-28T15:57:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+      "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T04:43:36.000Z"
     },
     {
-      "id": "n_f76f4b2c32",
+      "id": "n_61f1ebc9a8",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Baden-Württemberg: Zeugnisprogramm erzeugt fehlerhafte Abiturnoten",
-      "summary": "Offenbar hat sich in der Berechnungssoftware für Zeugnisse ein Fehler eingeschlichen, durch den Abinoten teils um 20 Prozent abweichen. (Schulen, Unternehmenssoftware)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/baden-wuerttemberg-zeugnisprogramm-erzeugt-fehlerhafte-abiturnoten-2607-211372.html",
-      "publishedAt": "2026-07-28T15:42:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Iran and US trade strikes, shattering brief lull in fighting",
+      "summary": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T04:30:08.000Z"
+    },
+    {
+      "id": "n_087d9a835c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Japan earthquake: What we know so far",
+      "summary": "Japan is reeling from a major earthquake that hit Kyushu island. Here is what we know so far.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgewgxlpj3po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T02:47:08.000Z"
+    },
+    {
+      "id": "n_007288e020",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump administration bans new Chinese humanoid robots",
+      "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T02:30:50.000Z"
+    },
+    {
+      "id": "n_768d9933a9",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+      "summary": "West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T23:25:53.000Z"
+    },
+    {
+      "id": "n_2c6bb52ecd",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+      "summary": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T23:12:09.000Z"
     },
     {
       "id": "n_b113d8cf11",
@@ -282,76 +348,32 @@
       "topic": "general",
       "lang": "en",
       "headline": "Bystander video shows teen lifeguard's dramatic ocean rescue",
-      "summary": "The 16-year-old lifeguard rescued a 10-year-old boy from a beach in Santa Cruz, California after the boy had been swept offshore.",
+      "summary": "The 16-year-old lifeguard rescued a 10-year-old who had been swept offshore at a California beach.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/c4g3600xw5ko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-28T21:09:21.000Z"
     },
     {
-      "id": "n_6431850cff",
+      "id": "n_6bd805ec83",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Ghana mourns its tallest man - a 'generous and popular giant'",
-      "summary": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33.",
+      "headline": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
+      "summary": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T18:19:57.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T23:00:15.000Z"
     },
     {
-      "id": "n_087d9a835c",
+      "id": "n_2331edd040",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Japan earthquake: What we know so far",
-      "summary": "Japan is reeling from a major earthquake that hit Kyushu island. Here is what we know so far.",
+      "headline": "Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack",
+      "summary": "Details have been released of an emergency call with hundreds of cyber-security experts after the ChatGPT hack of a tech company.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgewgxlpj3po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T17:15:14.000Z"
-    },
-    {
-      "id": "n_3262d6e041",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'It's a hell of a situation': Spain grapples with devastating wildfires",
-      "summary": "Three fires in the Madrid region have caused particular concern, with a new heatwave expected to hit Spain from Wednesday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T16:49:11.000Z"
-    },
-    {
-      "id": "n_54c9f613cf",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
-      "summary": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T16:37:02.000Z"
-    },
-    {
-      "id": "n_44c682a32a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
-      "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T16:14:03.000Z"
-    },
-    {
-      "id": "n_7e41bd64ce",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "French Navy carries out 'shooting drill' mid interview",
-      "summary": "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T16:12:35.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-28T23:00:10.000Z"
     },
     {
       "id": "n_16b900acb0",
@@ -420,114 +442,103 @@
       "publishedAt": "2026-07-25T01:00:00.000Z"
     },
     {
-      "id": "n_dd41179d8d",
+      "id": "n_f245bbe785",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "PlayStation Network outage resolved after thousands of gamers unable to play",
-      "summary": "The outage affected gamers' ability to launch games, apps or network features on their PlayStation.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T20:37:21.000Z"
-    },
-    {
-      "id": "n_b94db87565",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Trump vows to investigate EU over fining of US tech companies",
-      "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T20:23:58.000Z"
-    },
-    {
-      "id": "n_82fcaac5a7",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "New airliner sets record flying 24 hrs nonstop from Australia to France",
-      "summary": "Record flight shows viability of Qantas Airways’ Project Sunrise routes in 2027.",
+      "headline": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
+      "summary": "The new full-size flagship SUV starts at $87,700 when it goes on sale in Q4.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/",
-      "publishedAt": "2026-07-28T18:43:36.000Z"
+      "url": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
+      "publishedAt": "2026-07-29T01:00:36.000Z"
     },
     {
-      "id": "n_d1f44dacf0",
+      "id": "n_e312eac4f1",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Judge blocks first state law that would have banned prediction markets",
-      "summary": "Judge may allow Minnesota to ban some types of bets, but not all of them.",
+      "headline": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
+      "summary": "\"Preliminary investigation shows that two of Link's three reaction wheels currently are not operable.\"",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/07/judge-blocks-first-state-law-that-would-have-banned-prediction-markets/",
-      "publishedAt": "2026-07-28T18:31:13.000Z"
+      "url": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
+      "publishedAt": "2026-07-28T22:09:00.000Z"
     },
     {
-      "id": "n_42ccfbdf5b",
+      "id": "n_eaac210075",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link",
-      "summary": "Trump is fixated on the false, long-debunked claim that vaccines cause autism.",
+      "headline": "College lab class ends with 32 people on antibiotics for deadly germ exposure",
+      "summary": "Lab students were supposed to ID a mild germ. They all identified a deadly pathogen.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/",
-      "publishedAt": "2026-07-28T16:16:25.000Z"
+      "url": "https://arstechnica.com/health/2026/07/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-exposure/",
+      "publishedAt": "2026-07-28T21:49:52.000Z"
     },
     {
-      "id": "n_b8d7702767",
+      "id": "n_ed5ec75bea",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "As US measles cases rise, biotech firms start developing new treatments",
-      "summary": "The US is making measles great again, so treatment options are needed for the most vulnerable.",
+      "headline": "We now have a better understanding how OpenAI hacked into Hugging Face",
+      "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/",
-      "publishedAt": "2026-07-28T13:32:23.000Z"
+      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "publishedAt": "2026-07-28T21:36:39.000Z"
     },
     {
-      "id": "n_7b818cd68c",
+      "id": "n_3b790868b5",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Microsoft unveils AI security tools it says outperform competing platforms",
-      "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
+      "headline": "eBay pays $46M to journalists it targeted in bizarre harassment campaign",
+      "summary": "eBay sent bloody pig mask and other macabre deliveries to journalists' home.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-      "publishedAt": "2026-07-27T21:56:14.000Z"
+      "url": "https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case/",
+      "publishedAt": "2026-07-28T21:02:15.000Z"
     },
     {
-      "id": "n_717a05554f",
+      "id": "n_3ea21b504c",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
-      "summary": "Starlink has a Texas factory but also makes routers in Vietnam.",
+      "headline": "Study: Dinosaurs were charbroiled after Chicxulub impact",
+      "summary": "“We're in the realm where we might be essentially killing off everything within that first hour or two.\"",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
-      "publishedAt": "2026-07-27T21:40:27.000Z"
+      "url": "https://arstechnica.com/science/2026/07/dust-cloud-from-dino-killing-asteroid-charbroiled-the-earth/",
+      "publishedAt": "2026-07-28T20:51:45.000Z"
     },
     {
-      "id": "n_ca9e55c9bd",
+      "id": "n_3b3dd86ab4",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
-      "summary": "Kennedy has focused on nutrition but has neglected food safety, critics say.",
+      "headline": "Philly suburb: Sure, build that data center—but first meet our 43 demands",
+      "summary": "The final condition will shock you! (It won’t. It’s taxes.)",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
-      "publishedAt": "2026-07-27T20:42:13.000Z"
+      "url": "https://arstechnica.com/tech-policy/2026/07/philly-suburb-sure-build-that-data-center-but-first-meet-our-43-demands/",
+      "publishedAt": "2026-07-28T20:43:19.000Z"
     },
     {
-      "id": "n_68990a81f3",
+      "id": "n_1fd91bc6f7",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
-      "summary": "These are likely the last updates of note before Apple's bigger fall updates.",
+      "headline": "Despite AI hype, Google's data shows workers aren't automating themselves away",
+      "summary": "Analysis of 15 million real AI interactions finds most tasks at most jobs are unaffected.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
-      "publishedAt": "2026-07-27T20:32:45.000Z"
+      "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+      "publishedAt": "2026-07-28T20:20:20.000Z"
+    },
+    {
+      "id": "n_9108d8d603",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "summary": "The deal is Cyera's third acquisition this year.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "publishedAt": "2026-07-29T00:09:05.000Z"
     },
     {
       "id": "n_ac59c7d45b",
@@ -607,22 +618,11 @@
       "publishedAt": "2026-07-28T04:30:00.000Z"
     },
     {
-      "id": "n_2bc1e718b6",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "publishedAt": "2026-07-28T00:13:33.000Z"
-    },
-    {
       "id": "n_af8439b14c",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "AI leaders sign statement asking the government to do something about automated AI",
+      "headline": "AI leaders sign a statement asking the government to do something about automated AI",
       "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coor",
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
@@ -871,6 +871,17 @@
       "publishedAt": "2026-07-20T18:00:00.000Z"
     },
     {
+      "id": "n_b7f098fe65",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+      "summary": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+      "publishedAt": "2026-07-29T00:15:30.000Z"
+    },
+    {
       "id": "n_612e22fe42",
       "type": "news",
       "topic": "ai",
@@ -946,17 +957,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/uncanny-valley-podcast/",
       "publishedAt": "2026-07-24T17:53:01.000Z"
-    },
-    {
-      "id": "n_9e751f4d5f",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Silicon Valley Is Completely Divided Over Chinese AI",
-      "summary": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
-      "publishedAt": "2026-07-24T15:00:00.000Z"
     },
     {
       "id": "n_92e866603d",
@@ -1045,186 +1045,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/security-incident-july-2026",
       "publishedAt": "2026-07-16T00:00:00.000Z"
-    },
-    {
-      "id": "n_9363752886",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude Just Revealed AI's Biggest Problem",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
-      "thumbnail": "https://i.ytimg.com/vi/axOcn--n_lM/hqdefault.jpg",
-      "publishedAt": "2026-07-16T15:39:17.000Z"
-    },
-    {
-      "id": "n_b87b50ece3",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Anthropic Found Something That Shouldn't Exist",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
-      "thumbnail": "https://i.ytimg.com/vi/0CqLVnx-2UM/hqdefault.jpg",
-      "publishedAt": "2026-07-15T13:58:27.000Z"
-    },
-    {
-      "id": "n_d86677f440",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Minecraft Was Missing One Brilliant Idea",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
-      "thumbnail": "https://i.ytimg.com/vi/Ae9q7KsRbuI/hqdefault.jpg",
-      "publishedAt": "2026-07-12T15:48:43.000Z"
-    },
-    {
-      "id": "n_470f11b169",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek's Absolutely Insane AI Speed Hack",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=1yBU41auQhw",
-      "thumbnail": "https://i.ytimg.com/vi/1yBU41auQhw/hqdefault.jpg",
-      "publishedAt": "2026-07-07T16:33:29.000Z"
-    },
-    {
-      "id": "n_49a7d5405f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
-      "publishedAt": "2026-07-28T20:02:11.000Z"
-    },
-    {
-      "id": "n_39feb22ff6",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
-      "thumbnail": "https://i.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
-      "publishedAt": "2026-06-30T21:16:13.000Z"
-    },
-    {
-      "id": "n_6a7b36e7cd",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
-      "thumbnail": "https://i.ytimg.com/vi/1M3Vdl6DRkU/hqdefault.jpg",
-      "publishedAt": "2026-05-29T16:18:31.000Z"
-    },
-    {
-      "id": "n_c402ebf7aa",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
-      "thumbnail": "https://i.ytimg.com/vi/nepKKz-MzFM/hqdefault.jpg",
-      "publishedAt": "2026-05-06T22:03:16.000Z"
-    },
-    {
-      "id": "n_c930172539",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The most interesting \"hack\" in history...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=KOpTWx1Eou4",
-      "thumbnail": "https://i.ytimg.com/vi/KOpTWx1Eou4/hqdefault.jpg",
-      "publishedAt": "2026-07-23T16:53:37.000Z"
-    },
-    {
-      "id": "n_c30c73dbe7",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Open-weight AI just hit 2.8 trillion parameters…",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=YP73B9D20V4",
-      "thumbnail": "https://i.ytimg.com/vi/YP73B9D20V4/hqdefault.jpg",
-      "publishedAt": "2026-07-22T17:43:52.000Z"
-    },
-    {
-      "id": "n_10ab80aff4",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "This $12 billion startup finally shipped something...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=M51asSwRLxA",
-      "thumbnail": "https://i.ytimg.com/vi/M51asSwRLxA/hqdefault.jpg",
-      "publishedAt": "2026-07-20T17:02:30.000Z"
-    },
-    {
-      "id": "n_f826171ec0",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI gets sued for stealing, again…",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=5D4Zqp9GLSc",
-      "thumbnail": "https://i.ytimg.com/vi/5D4Zqp9GLSc/hqdefault.jpg",
-      "publishedAt": "2026-07-17T17:56:42.000Z"
-    },
-    {
-      "id": "n_bf51349fdf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Framework 13 Pro: The Modular Laptop is Real!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
-      "thumbnail": "https://i.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg",
-      "publishedAt": "2026-07-27T15:38:21.000Z"
-    },
-    {
-      "id": "n_64ebc2a7bf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
-      "thumbnail": "https://i.ytimg.com/vi/8Hx2yvWSgs0/hqdefault.jpg",
-      "publishedAt": "2026-07-22T13:01:05.000Z"
-    },
-    {
-      "id": "n_6742ca94db",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "iOS 27 Hands-On: Top 5 New Features!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=_oRgdlJUD18",
-      "thumbnail": "https://i.ytimg.com/vi/_oRgdlJUD18/hqdefault.jpg",
-      "publishedAt": "2026-07-13T22:27:02.000Z"
     }
   ]
 }
