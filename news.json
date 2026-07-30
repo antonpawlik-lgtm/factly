@@ -1,16 +1,49 @@
 {
-  "generatedAt": "2026-07-30T19:06:13.508Z",
+  "generatedAt": "2026-07-30T21:56:17.298Z",
   "items": [
+    {
+      "id": "n_1e18b4ea7c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ankunft zahlreicher Migranten: Spanien entsendet Soldaten in Exklave Ceuta",
+      "summary": "Binnen weniger Tage sind wohl Tausende Migranten in die spanische Nordafrika-Exklave Ceuta gelangt - am Donnerstag brach offenbar die Grenzsicherung teils zusammen. Hintergrund könnte ein Gerichtsurteil sein. Nun schickt Madrid Soldaten.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/ceuta-migration-102.html",
+      "publishedAt": "2026-07-30T21:51:57.000Z"
+    },
     {
       "id": "n_7707b6d72c",
       "type": "news",
       "topic": "general",
       "lang": "de",
       "headline": "Spanien-Exklave Ceuta ruft wegen Migranten nach Militäreinsatz",
-      "summary": "Zahlreiche Migranten sind zuletzt in die spanische Nordafrika-Exklave Ceuta gelangt - allein heute könnten es mehrere tausend gewesen sein. Der Regionalpräsident rief Madrid auf, das Militär einzusetzen.",
+      "summary": "Zahlreiche Migranten sind zuletzt schwimmend in die spanische Nordafrika-Exklave Ceuta gelangt - allein binnen eines Tages könnten es mehrere tausend gewesen sein. Der Regionalpräsident rief Madrid auf, das Militär einzusetzen.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/ceuta-militaer-forderung-100.html",
-      "publishedAt": "2026-07-30T18:57:05.000Z"
+      "publishedAt": "2026-07-30T19:26:17.000Z"
+    },
+    {
+      "id": "n_cf283a7cc2",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Niedrige Flusspegel: Mehrere Länder drosseln Produktion von Atomstrom",
+      "summary": "Wegen Hitze und ausbleibenden Regens sind die Pegel vieler Flüsse in Europa extrem niedrig. Das wird nicht nur für die Schifffahrt zum Problem, sondern auch für Atomkraftwerke. Denn die benötigen viel Kühlwasser - und das fehlt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/donau-pegel-atomstrom-100.html",
+      "publishedAt": "2026-07-30T19:25:08.000Z"
+    },
+    {
+      "id": "n_a9af0cd278",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "40-Grad-Marke erneut geknackt - Abkühlung nach Gewittern",
+      "summary": "Ganz so heiß wie im Juni war es nicht, doch in drei Bundesländern wurde ein neuer Juli-Rekord aufgestellt - mit bis zu 40,5 Grad. Auf die Hitze folgten vielerorts Gewitter. Am Möhnesee in NRW wurden zwei Jugendliche verletzt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/unwetter-hitzewelle-100.html",
+      "publishedAt": "2026-07-30T19:21:57.000Z"
     },
     {
       "id": "n_6d03937dff",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/polen-rakete-nato-100.html",
       "publishedAt": "2026-07-30T16:51:23.000Z"
-    },
-    {
-      "id": "n_cf283a7cc2",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Niedrige Flusspegel: Mehrere Länder drosseln Produktion von Atomstrom",
-      "summary": "Wegen Hitze und ausbleibenden Regens sind die Pegel vieler Flüsse in Europa extrem niedrig. Das wird nicht nur für die Schifffahrt zum Problem, sondern auch für Atomkraftwerke. Denn die benötigen viel Kühlwasser - und das fehlt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/donau-pegel-atomstrom-100.html",
-      "publishedAt": "2026-07-30T16:49:56.000Z"
-    },
-    {
-      "id": "n_f104377f3a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: DAX ohne klaren Trend",
-      "summary": "Angesichts der gestiegenen Inflation und der weiterhin unsicheren Lage in Iran ist die Stimmung auf dem Parkett verhalten. Für leichte Hoffnung sorgen neueste Konjunkturdaten.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-fed-dow-ki-blase-100.html",
-      "publishedAt": "2026-07-30T16:25:16.000Z"
-    },
-    {
-      "id": "n_ace540f61b",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Kräftige Gewitter und Sturmböen nach Hitze erwartet",
-      "summary": "39 Grad - regional kann es in Deutschland heute sehr heiß werden. Große Temperaturunterschiede bringen ein großes Gewitterrisiko mit sich. Der Deutsche Wetterdienst warnt vor starken Sturmböen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/hitze-und-unwetterwarnung-100.html",
-      "publishedAt": "2026-07-30T15:12:08.000Z"
     },
     {
       "id": "n_31f32ba636",
@@ -266,6 +266,28 @@
       "publishedAt": "2026-07-30T15:12:02.000Z"
     },
     {
+      "id": "n_4ad405e8bf",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+      "summary": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T21:24:31.000Z"
+    },
+    {
+      "id": "n_d2ac6391d5",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Migrants seen swimming around border fence of Spanish enclave Ceuta",
+      "summary": "The North African enclave's leader said resources were being overwhelmed after so many people entered by sea from Morocco.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T19:16:18.000Z"
+    },
+    {
       "id": "n_4087e0c383",
       "type": "news",
       "topic": "general",
@@ -299,15 +321,15 @@
       "publishedAt": "2026-07-30T17:26:01.000Z"
     },
     {
-      "id": "n_4ad405e8bf",
+      "id": "n_6903dfd3bb",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-      "summary": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene.",
+      "headline": "Uefa to boycott World Cups if Fifa plans approved",
+      "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T17:19:27.000Z"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T16:47:40.000Z"
     },
     {
       "id": "n_7811b160cf",
@@ -330,28 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cvg0nlkmzewo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-30T15:47:09.000Z"
-    },
-    {
-      "id": "n_30556073fd",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T15:35:50.000Z"
-    },
-    {
-      "id": "n_0e0252d43d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "At least five members of same family killed in Russian missile attack, Zelensky says",
-      "summary": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T15:20:19.000Z"
     },
     {
       "id": "n_b3d06aebad",
@@ -530,6 +530,28 @@
       "publishedAt": "2026-07-29T18:08:22.000Z"
     },
     {
+      "id": "n_a4b674c645",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "publishedAt": "2026-07-30T20:26:38.000Z"
+    },
+    {
+      "id": "n_8cf237c212",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+      "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+      "publishedAt": "2026-07-30T19:44:16.000Z"
+    },
+    {
       "id": "n_e340cb73f9",
       "type": "news",
       "topic": "ai",
@@ -556,7 +578,7 @@
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Okta buys AI security startup Permiso; source says for about $200M",
+      "headline": "Okta buys AI security startup Permiso — source says for about $200M",
       "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
@@ -568,7 +590,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "Meta says AI is making it easier to build new apps — and more are coming",
-      "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gamin",
+      "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
       "publishedAt": "2026-07-30T15:41:16.000Z"
@@ -596,26 +618,48 @@
       "publishedAt": "2026-07-30T15:00:00.000Z"
     },
     {
-      "id": "n_daaae50bac",
+      "id": "n_2d9d29aee7",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
-      "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
-      "publishedAt": "2026-07-30T14:48:32.000Z"
+      "headline": "The loss of Situational Awareness",
+      "summary": "Neither artificial nor intelligent. I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management,\" or \"Amaranth ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+      "publishedAt": "2026-07-30T20:46:25.000Z"
     },
     {
-      "id": "n_36667e90d9",
+      "id": "n_b5180026e6",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
-      "summary": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
-      "publishedAt": "2026-07-30T14:00:00.000Z"
+      "headline": "LinkedIn actually adds a ‘seems like AI slop’ button",
+      "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+      "publishedAt": "2026-07-30T18:43:26.000Z"
+    },
+    {
+      "id": "n_286e4f2214",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Google DeepMind’s new AI model can control a robot’s entire body",
+      "summary": "Apptronik’s Apollo 2 robot takes a baseball glove off of a shelf. | Image: Google Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Ro",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "publishedAt": "2026-07-30T17:18:45.000Z"
+    },
+    {
+      "id": "n_ec12e93eaf",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+      "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now, it's twic",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+      "publishedAt": "2026-07-30T16:33:32.000Z"
     },
     {
       "id": "n_0434773f64",
@@ -660,50 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
       "publishedAt": "2026-07-29T18:15:02.000Z"
-    },
-    {
-      "id": "n_2faf95088d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Artists are lawyering up against AI slop, and some are even winning",
-      "summary": "Artists whose work has been co-opted by AI are taking to court. | Image: Alex Parkin / The Verge When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artis",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-      "publishedAt": "2026-07-29T12:00:00.000Z"
-    },
-    {
-      "id": "n_e803514874",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-      "summary": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "publishedAt": "2026-07-29T11:54:29.000Z"
-    },
-    {
-      "id": "n_fb6c24829e",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "We’re running out of reasons to ignore AI safety",
-      "summary": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably sil",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-      "publishedAt": "2026-07-29T11:00:00.000Z"
-    },
-    {
-      "id": "n_af8439b14c",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI leaders sign a statement asking the government to do something about automated AI",
-      "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coor",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-      "publishedAt": "2026-07-28T19:46:43.000Z"
     },
     {
       "id": "n_3d6d30af34",
@@ -871,11 +871,22 @@
       "publishedAt": "2026-07-23T12:00:00.000Z"
     },
     {
+      "id": "n_28589c4fa2",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
+      "summary": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs’ push into robotics.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
+      "publishedAt": "2026-07-30T20:12:57.000Z"
+    },
+    {
       "id": "n_daf9457eb4",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Nvidia’s Open Source Alliance Snubs OpenAI and Anthropic",
+      "headline": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
       "summary": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
       "source": "Wired",
       "url": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
@@ -946,17 +957,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
       "publishedAt": "2026-07-30T09:30:00.000Z"
-    },
-    {
-      "id": "n_a2ed0bd146",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "I Got a Free Meal From a Private Chef—Who Filmed It All to Train Robots",
-      "summary": "A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future humanoids.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
-      "publishedAt": "2026-07-30T09:00:00.000Z"
     },
     {
       "id": "n_f684c3a66a",
