@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-07-29T18:50:26.267Z",
+  "generatedAt": "2026-07-30T01:14:11.270Z",
   "items": [
+    {
+      "id": "n_4dd2618bb5",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Medienberichte: Bahn erstmals seit sieben Jahren mit Gewinn",
+      "summary": "Die Deutsche Bahn hat Medienberichten zufolge in der ersten Jahreshälfte einen Überschuss im dreistelligen Millionenbereich erzielt - der erste Gewinn seit sieben Jahren. Auch die Zahl der Fahrgäste stieg demnach deutlich.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/deutsche-bahn-gewinn-100.html",
+      "publishedAt": "2026-07-29T23:40:41.000Z"
+    },
+    {
+      "id": "n_cb5bd67078",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Waldbrände: Auch die Türkei und Griechenland kämpfen gegen Flammen",
+      "summary": "Starke Winde und Hitze haben in der Türkei und Griechenland neue Waldbrände entfacht. Am griechischen Mittelmeer kamen drei Feuerwehrleute ums Leben. Auch in Frankreich und Spanien brachen neue Brände aus. Es gibt aber auch Hoffnungsschimmer.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-126.html",
+      "publishedAt": "2026-07-29T22:42:29.000Z"
+    },
+    {
+      "id": "n_9ae092937f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bilger: Stimmung in der Union und Pläne im Verkehrsministerium",
+      "summary": "Laut dem neuen Verkehrsminister Bilger verlief die Sondersitzung der Unionsfraktion konstruktiv - wenn auch mit Kritik aus den Wahlkreisen. Mit seinem neuen Job will er \"die Infrastruktur in Deutschland aus den Negativschlagzeilen\" holen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/bilger-union-verkehrsministerium-100.html",
+      "publishedAt": "2026-07-29T22:01:20.000Z"
+    },
+    {
+      "id": "n_e3b95045fb",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Personalumbau in der CDU: Merz hat jetzt kein Schutzschild mehr",
+      "summary": "In der Fraktionssitzung machten die Unionsabgeordneten ihrem Unmut Luft. Merz' Personalumbau scheint zwar zu besänftigen - aber der Kanzler hat jetzt ein Instrument verbraucht, das ihm bald fehlen könnte. Von Tina Handel.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/analyse-cdu-personalumbau-100.html",
+      "publishedAt": "2026-07-29T20:18:56.000Z"
+    },
+    {
+      "id": "n_0eb9a7d157",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "US-Notenbank Fed lässt Zinssatz erneut unverändert",
+      "summary": "Die US-Notenbank Fed hält den Leitzins stabil. Beim neuen Chef Warsh hatte US-Präsident Trump auf niedrigere Zinsen gepocht - aber die hohe Inflationsrate durch den Iran-Krieg machte den Schritt praktisch unmöglich.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/us-notenbank-leitzins-100.html",
+      "publishedAt": "2026-07-29T19:11:14.000Z"
+    },
     {
       "id": "n_30544e4484",
       "type": "news",
@@ -33,61 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/investigativ/ndr-wdr/is-attentaeter-100.html",
       "publishedAt": "2026-07-29T16:55:44.000Z"
-    },
-    {
-      "id": "n_175cec2baa",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Meilenstein bei Bauarbeiten am Brennerbasistunnel erreicht",
-      "summary": "Der Brennerbasistunnel ist eines der ganz großen Verkehrsprojekte in Europa. Nun ist der Durchbruch der beiden Röhren des Eisenbahntunnels zwischen Österreich und Italien geschafft. Auf deutscher Seite geht hingegen bislang wenig voran.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/brennerbasistunnel-114.html",
-      "publishedAt": "2026-07-29T16:33:10.000Z"
-    },
-    {
-      "id": "n_3666cfe7af",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Steinmeier ernennt Warken, Bilger und Linnemann zu Ministern",
-      "summary": "Bundespräsident Steinmeier hat drei neue Minister ernannt: Nina Warken, Steffen Bilger und Carsten Linnemann. Die Vereidigung ist aber erst für September geplant, was auf Kritik stößt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/kabinett-umbildung-ernennung-minister-100.html",
-      "publishedAt": "2026-07-29T16:32:09.000Z"
-    },
-    {
-      "id": "n_9e5eea2057",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Frei zum Vorsitzenden der Unionsfraktion gewählt",
-      "summary": "Klare Mehrheit für den neuen Chef: Der bisherige Kanzleramtsminister Frei ist mit 91,9 Prozent der Stimmen zum Vorsitzenden der Unionsfraktion im Bundestag gewählt worden. Er folgt auf den zurückgetretenen Spahn.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/frei-wahl-fraktionschef-100.html",
-      "publishedAt": "2026-07-29T16:25:35.000Z"
-    },
-    {
-      "id": "n_9d93f80242",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: Gute Quartalszahlen grenzen DAX-Verluste ein",
-      "summary": "Gut aufgenommene Quartalszahlen von DAX-Konzernen haben den deutschen Leitindex heute gestützt und neue geopolitische Sorgen etwas in den Hintergrund gedrängt. Größter Gewinner im DAX waren die Papiere von Rheinmetall.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oelpreis-102.html",
-      "publishedAt": "2026-07-29T16:23:48.000Z"
-    },
-    {
-      "id": "n_2d732e5347",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Neue Hitzewelle hat Deutschland im Griff - schwere Gewitter erwartet",
-      "summary": "Erst wenige Wochen ist es her, dass in Deutschland Temperaturrekorde gebrochen wurden. Jetzt hat die nächste Hitzewelle das Land im Griff. Am Donnerstag soll es bis zu 39 Grad heiß werden. Der DWD warnt vor schweren Gewittern.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/wetter-hitze-138.html",
-      "publishedAt": "2026-07-29T15:32:16.000Z"
     },
     {
       "id": "n_665e905b95",
@@ -178,6 +178,17 @@
       "publishedAt": "2026-07-27T08:46:00.000Z"
     },
     {
+      "id": "n_f1faa5cd2f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Netzanschlusspaket: Mobilfunkbetreiber können Stromanschluss nicht planen",
+      "summary": "Eine Gesetzesänderung bringt eher den Energiekonzernen Vorteile. Bitkom und VATM beklagen neue Missstände bei der Stromversorgung von Mobilfunkantennen.. (Mobilfunk, Bitkom)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/netzanschlusspaket-mobilfunkbetreiber-koennen-stromanschluss-nicht-planen-2607-211425.html",
+      "publishedAt": "2026-07-29T22:13:02.000Z"
+    },
+    {
       "id": "n_ed4bb91266",
       "type": "news",
       "topic": "tech",
@@ -255,15 +266,15 @@
       "publishedAt": "2026-07-29T14:40:01.000Z"
     },
     {
-      "id": "n_649a40be49",
+      "id": "n_9293fcbb40",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Samsung: Fold 8 soll sich besser verkaufen als Fold 8 Ultra",
-      "summary": "Samsungs neues Galaxy Z Fold 8 hat ausgeklappt ein breites Format - das scheint gut bei den Kunden anzukommen. (Samsung, Smartphone)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/samsung-fold-8-soll-sich-besser-verkaufen-als-fold-8-ultra-2607-211416.html",
-      "publishedAt": "2026-07-29T14:16:03.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump considering AI controls after OpenAI hacking incidents",
+      "summary": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T00:41:28.000Z"
     },
     {
       "id": "n_37d5840776",
@@ -274,7 +285,51 @@
       "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T17:58:42.000Z"
+      "publishedAt": "2026-07-30T00:14:56.000Z"
+    },
+    {
+      "id": "n_def2e01810",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: Japanese mall explodes after magnitude 6.8 earthquake",
+      "summary": "Search teams are still looking for survivors in the collapsed Aeon shopping centre.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c9d8ggpdgqlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T23:29:53.000Z"
+    },
+    {
+      "id": "n_e90b7203d3",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "India's CJP protests: Why tech alone won't stop exam paper leaks",
+      "summary": "Can computer-based testing stop NEET paper leaks? Experts say governance matters as much as tech.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1m1gz1nx45o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T22:50:14.000Z"
+    },
+    {
+      "id": "n_84fc82ce58",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Salman Rushdie attacker convicted of terror offenses",
+      "summary": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T22:15:33.000Z"
+    },
+    {
+      "id": "n_d2e79310a1",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "The Chinese robot army transforming the UK's retail industry",
+      "summary": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T22:08:29.000Z"
     },
     {
       "id": "n_11c8163e1d",
@@ -285,73 +340,29 @@
       "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T17:04:42.000Z"
+      "publishedAt": "2026-07-29T21:36:06.000Z"
     },
     {
-      "id": "n_607e2fd0ba",
+      "id": "n_e7ece2d69f",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "France fire crews face searing heat in battle to contain flames",
-      "summary": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations.",
+      "headline": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
+      "summary": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T16:49:41.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T20:21:46.000Z"
     },
     {
-      "id": "n_9aea9c4547",
+      "id": "n_bf632bb65c",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
-      "summary": "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the continent also continue to tackle fires.",
+      "headline": "Meta shares fall as frustration grows over AI spending plans",
+      "summary": "Mark Zuckerberg said Meta intends to sell for the first time AI tools to other companies",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T16:23:41.000Z"
-    },
-    {
-      "id": "n_d396d31921",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Oscar-winning songwriter Glen Hansard killed in crash",
-      "summary": "Hansard, who was 56, won the best song Oscar for the 2007 low-budget musical film Once.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T15:33:14.000Z"
-    },
-    {
-      "id": "n_1f4edfa3ec",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Planes dump water on French wildfires as temperatures rise",
-      "summary": "Authorities have been trying to contain the wildfires, which have been burning for days.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cly8xvvj8yro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T14:25:33.000Z"
-    },
-    {
-      "id": "n_61f1ebc9a8",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-      "summary": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T13:48:41.000Z"
-    },
-    {
-      "id": "n_43b086712e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
-      "summary": "The two leaders sound encouraged after holding back-to-back bilaterals at the White House.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T12:17:42.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-29T22:44:18.000Z"
     },
     {
       "id": "n_84de41e36e",
@@ -420,33 +431,66 @@
       "publishedAt": "2026-07-27T23:00:06.000Z"
     },
     {
-      "id": "n_2b9e8f6501",
+      "id": "n_1401ad6c55",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Why budding birders are flocking to Shazam-like apps to identify avians",
-      "summary": "Birdwatchers tell the BBC how apps have changed their lifelong hobby - and attracted new birders.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr59m5nmemno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-27T07:53:30.000Z"
+      "headline": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+      "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+      "publishedAt": "2026-07-29T22:07:06.000Z"
     },
     {
-      "id": "n_27ed257558",
+      "id": "n_0c3121bca9",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-      "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T10:14:41.000Z"
+      "headline": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
+      "summary": "Advertisers agreed to “reset” relationship with X.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
+      "publishedAt": "2026-07-29T20:57:35.000Z"
+    },
+    {
+      "id": "n_3584c79fbc",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Who wins and who loses after US bans foreign robots?",
+      "summary": "Government ban on foreign-made robots may hinder instead of help US robotics.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+      "publishedAt": "2026-07-29T20:03:42.000Z"
+    },
+    {
+      "id": "n_ab17c0bd87",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
+      "summary": "Comcast, accused of negligence, says lawsuit mischaracterized alleged events.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
+      "publishedAt": "2026-07-29T19:33:55.000Z"
+    },
+    {
+      "id": "n_4470558f36",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Customize Ars your way with an Ars Pro subscription",
+      "summary": "Ars Pro subscribers get customizable layouts along with no ads and no trackers.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
+      "publishedAt": "2026-07-29T19:23:27.000Z"
     },
     {
       "id": "n_c02f4e91eb",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Google begins global rollout of age verification API in Google Play",
+      "headline": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
       "summary": "Google's new API relies on parents to set age ranges in Family Link.",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
@@ -475,59 +519,81 @@
       "publishedAt": "2026-07-29T17:37:47.000Z"
     },
     {
-      "id": "n_f9a6456e67",
+      "id": "n_df34ed2151",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Actually, Starliner might fly into space this year",
-      "summary": "\"We're feeling pretty good about that,\" Boeing CEO Kelly Ortberg said.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/",
-      "publishedAt": "2026-07-29T17:24:41.000Z"
+      "headline": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "publishedAt": "2026-07-30T00:21:06.000Z"
     },
     {
-      "id": "n_8095150695",
+      "id": "n_ad9c3055b7",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Anthropic is finding bugs faster than Microsoft can fix them",
-      "summary": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
-      "publishedAt": "2026-07-29T15:52:48.000Z"
+      "headline": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "publishedAt": "2026-07-29T23:00:11.000Z"
     },
     {
-      "id": "n_a3e103d2fb",
+      "id": "n_2413ef2608",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "New AMD Linux patch boosts low-end gaming performance on Steam Deck",
-      "summary": "Improved efficiency in EPP mode leads to ~32% jump in \"1% low\" frame rates.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/07/new-amd-linux-patch-boosts-low-end-gaming-performance-on-steam-deck/",
-      "publishedAt": "2026-07-29T15:33:20.000Z"
+      "headline": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "publishedAt": "2026-07-29T22:46:03.000Z"
     },
     {
-      "id": "n_eeaf36d386",
+      "id": "n_39de907ded",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Gaming and IRL worlds collide in Jumanji: Open World trailer",
-      "summary": "\"I'm beginning to suspect we are not in Jumanji.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/07/gaming-and-irl-worlds-collide-in-jumanji-open-world-trailer/",
-      "publishedAt": "2026-07-29T15:16:22.000Z"
+      "headline": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+      "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "publishedAt": "2026-07-29T22:23:12.000Z"
     },
     {
-      "id": "n_0290e9b6f2",
+      "id": "n_ede83952fe",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "What happens when you put AI to work deciphering lost languages?",
-      "summary": "AI is fantastic at spotting patterns, but human insight is the key.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
-      "publishedAt": "2026-07-29T13:23:31.000Z"
+      "headline": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-07-29T21:16:39.000Z"
+    },
+    {
+      "id": "n_520a785ee3",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "publishedAt": "2026-07-29T21:07:48.000Z"
+    },
+    {
+      "id": "n_a657cafa7e",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+      "publishedAt": "2026-07-29T19:44:49.000Z"
     },
     {
       "id": "n_1bd342b4b3",
@@ -541,81 +607,37 @@
       "publishedAt": "2026-07-29T18:45:27.000Z"
     },
     {
-      "id": "n_b066f12120",
+      "id": "n_0434773f64",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-      "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-      "publishedAt": "2026-07-29T15:35:09.000Z"
+      "headline": "Microsoft confirms Copilot ‘super app’ coming this year",
+      "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is ev",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "publishedAt": "2026-07-29T22:17:38.000Z"
     },
     {
-      "id": "n_21cfdc136e",
+      "id": "n_c5567c95ea",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "publishedAt": "2026-07-29T14:41:06.000Z"
+      "headline": "Mark Zuckerberg is planning a big push into personal AI agents",
+      "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+      "publishedAt": "2026-07-29T21:48:07.000Z"
     },
     {
-      "id": "n_1fcec19a53",
+      "id": "n_5fe08d38c0",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "As AI content floods the internet, Pangram raises $9M to detect it",
-      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-      "publishedAt": "2026-07-29T11:00:00.000Z"
-    },
-    {
-      "id": "n_9108d8d603",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "summary": "The deal is Cyera's third acquisition this year.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "publishedAt": "2026-07-29T00:09:05.000Z"
-    },
-    {
-      "id": "n_ac59c7d45b",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Bot-detection startup Spur nabs $200M from Insight",
-      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "publishedAt": "2026-07-28T21:29:34.000Z"
-    },
-    {
-      "id": "n_5935209b00",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-      "publishedAt": "2026-07-28T20:45:12.000Z"
-    },
-    {
-      "id": "n_261dce35af",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Sam Altman is ready to decelerate",
-      "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-      "publishedAt": "2026-07-28T20:17:08.000Z"
+      "headline": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+      "summary": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok Imagine's image-editing features in vario",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+      "publishedAt": "2026-07-29T21:06:52.000Z"
     },
     {
       "id": "n_453862f893",
@@ -671,39 +693,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
       "publishedAt": "2026-07-28T19:46:43.000Z"
-    },
-    {
-      "id": "n_c889cb1c75",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI’s finally expensive enough to make Wall Street nervous",
-      "summary": "Working hard, or bear-ly working? | Image: Cath Virginia / The Verge, Getty Images It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billi",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-      "publishedAt": "2026-07-28T19:33:03.000Z"
-    },
-    {
-      "id": "n_37db1a04f0",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-      "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a \"general-purp",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-      "publishedAt": "2026-07-28T12:30:00.000Z"
-    },
-    {
-      "id": "n_0f6e69dea1",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Smart rings are looking like my kind of AI gadget",
-      "summary": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fastest, cheapest models are getting very good at understanding and processing speech",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
-      "publishedAt": "2026-07-28T12:00:00.000Z"
     },
     {
       "id": "n_3d6d30af34",
