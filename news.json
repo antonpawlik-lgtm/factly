@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-07-30T01:14:11.270Z",
+  "generatedAt": "2026-07-30T05:29:30.618Z",
   "items": [
+    {
+      "id": "n_2d01479282",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ab heute sind die Ressourcen der Erde aufgebraucht",
+      "summary": "Der Erdüberlastungstag markiert symbolisch den Tag im Jahr, an dem die Menschheit mehr natürliche Ressourcen verbraucht hat als die Erde nachproduzieren kann. In diesem Jahr fällt er auf den 30. Juli. Von Frank Bäumer.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wissen/klima/erdueberlastungstag-ressourcenverbrauch-weltweit-100.html",
+      "publishedAt": "2026-07-30T05:24:51.000Z"
+    },
+    {
+      "id": "n_dac09f46c7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Städtetag fordert Milliardensummen für Klimaanpassung",
+      "summary": "Hitzewellen belasten Körper, Psyche, Infrastruktur - umso mehr in Städten, in denen es kaum Möglichkeit zur Abkühlung gibt. Dem müsse man mit Investitionen entgegenwirken, fordert der Deutsche Städtetag.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/staedtetag-fordert-milliarden-fuer-hitzeschutze-100.html",
+      "publishedAt": "2026-07-30T05:21:49.000Z"
+    },
+    {
+      "id": "n_5d69b5d350",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Russland greift Ukraine landesweit mit Raketen an",
+      "summary": "Russland hat erneut mehrere ukrainische Städte mit Raketen angegriffen, auch Kiew. Es soll landesweit mehrere Tote geben. Präsident Selenskyj hatte zuvor vor einem \"massiven\" russischen Angriff gewarnt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/russische-angriffe-ukraine-106.html",
+      "publishedAt": "2026-07-30T05:05:23.000Z"
+    },
+    {
+      "id": "n_693f995d6b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Rumänien: Mit Kampfjets und Diplomatie gegen russische Drohnen",
+      "summary": "Russland führt seinen Krieg gegen die Ukraine auch in unmittelbarer Nähe zu NATO-Staaten. In Rumänien schlugen schon mehrfach Drohnen ein. Die Regierung will das nicht mehr hinnehmen - und tritt gegenüber Moskau offensiver auf. Von Oliver Soos.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/rumaenien-drohnen-100.html",
+      "publishedAt": "2026-07-30T04:43:16.000Z"
+    },
+    {
+      "id": "n_ab9383c2e4",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Einkommen im Alter: Warum Ängste Aktiensparen verhindern",
+      "summary": "Angesichts klammer Rentenkassen rücken Aktien als Möglichkeit der Altersvorsorge stärker in den Fokus. Doch in Deutschland werden Investments vielfach noch misstrauisch beäugt. Von Heidi Radvilas.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/boerse/aktien-anlage-alterssicherung-100.html",
+      "publishedAt": "2026-07-30T04:16:02.000Z"
+    },
+    {
+      "id": "n_d7e142aebb",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "USA melden nach mehrtägiger Pause neue Angriffe auf Iran",
+      "summary": "Nach fast einer Woche ohne Angriffe hat das US-Militär wieder Ziele direkt in Iran attackiert. Dies sei eine Antwort auf iranische Angriffsversuche auf US-Stützpunkte in der Region, teilte das Regionalkommando CENTCOM mit.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/usa-iran-angriffe-120.html",
+      "publishedAt": "2026-07-30T01:59:02.000Z"
+    },
     {
       "id": "n_4dd2618bb5",
       "type": "news",
@@ -18,76 +84,10 @@
       "topic": "general",
       "lang": "de",
       "headline": "Waldbrände: Auch die Türkei und Griechenland kämpfen gegen Flammen",
-      "summary": "Starke Winde und Hitze haben in der Türkei und Griechenland neue Waldbrände entfacht. Am griechischen Mittelmeer kamen drei Feuerwehrleute ums Leben. Auch in Frankreich und Spanien brachen neue Brände aus. Es gibt aber auch Hoffnungsschimmer.",
+      "summary": "In Frankreich und Spanien brennt es weiter. Auch aus der Türkei und Griechenland werden neue Waldbrände gemeldet. Am griechischen Mittelmeer kamen drei Feuerwehrleute ums Leben.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/waldbraende-suedeuropa-126.html",
       "publishedAt": "2026-07-29T22:42:29.000Z"
-    },
-    {
-      "id": "n_9ae092937f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Bilger: Stimmung in der Union und Pläne im Verkehrsministerium",
-      "summary": "Laut dem neuen Verkehrsminister Bilger verlief die Sondersitzung der Unionsfraktion konstruktiv - wenn auch mit Kritik aus den Wahlkreisen. Mit seinem neuen Job will er \"die Infrastruktur in Deutschland aus den Negativschlagzeilen\" holen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/bilger-union-verkehrsministerium-100.html",
-      "publishedAt": "2026-07-29T22:01:20.000Z"
-    },
-    {
-      "id": "n_e3b95045fb",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Personalumbau in der CDU: Merz hat jetzt kein Schutzschild mehr",
-      "summary": "In der Fraktionssitzung machten die Unionsabgeordneten ihrem Unmut Luft. Merz' Personalumbau scheint zwar zu besänftigen - aber der Kanzler hat jetzt ein Instrument verbraucht, das ihm bald fehlen könnte. Von Tina Handel.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/analyse-cdu-personalumbau-100.html",
-      "publishedAt": "2026-07-29T20:18:56.000Z"
-    },
-    {
-      "id": "n_0eb9a7d157",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "US-Notenbank Fed lässt Zinssatz erneut unverändert",
-      "summary": "Die US-Notenbank Fed hält den Leitzins stabil. Beim neuen Chef Warsh hatte US-Präsident Trump auf niedrigere Zinsen gepocht - aber die hohe Inflationsrate durch den Iran-Krieg machte den Schritt praktisch unmöglich.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/us-notenbank-leitzins-100.html",
-      "publishedAt": "2026-07-29T19:11:14.000Z"
-    },
-    {
-      "id": "n_30544e4484",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Russland: Nach Durow fahnden und Telegram weiter einschränken?",
-      "summary": "Russland hat Telegram-Gründer Durow zur internationalen Fahndung ausgeschrieben - unter dem Vorwurf der Förderung terroristischer Aktivitäten. Durow lebt schon lange im Ausland, doch die Fahndung könnte ein weiteres Warnsignal an Telegram sein. Von B. Blaschke.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/russland-fahndung-durow-telegram-100.html",
-      "publishedAt": "2026-07-29T17:36:22.000Z"
-    },
-    {
-      "id": "n_77e148ffb7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Rekordflug von Melbourne nach Toulouse - 24 Stunden in der Luft",
-      "summary": "Der Flug ging über drei Kontinente und zwei Ozeane - und die Crew erlebte zwei Sonnenaufgänge. Ein spezieller Airbus hat einen Rekordflug absolviert. Bald sollen Passagiere solche Flüge buchen können.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/airbus-langstreckenrekord-melbourne-toulouse-100.html",
-      "publishedAt": "2026-07-29T17:01:14.000Z"
-    },
-    {
-      "id": "n_a49f735787",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "CSD-Attentäter: IS-Flaggen, Dschihad-Lieder und kämpfende Cousins",
-      "summary": "Der mutmaßliche Attentäter von Berlin kam im Mai frei - ein Schöffengericht glaubte ihm, sich vom IS losgesagt zu haben. Doch Recherchen von NDR, WDR und SZ zeigen, wie verbunden Abdul B. mit der Terrormiliz war. Von J. Diehl, F. Flade, R.Lehberger.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/investigativ/ndr-wdr/is-attentaeter-100.html",
-      "publishedAt": "2026-07-29T16:55:44.000Z"
     },
     {
       "id": "n_665e905b95",
@@ -178,6 +178,28 @@
       "publishedAt": "2026-07-27T08:46:00.000Z"
     },
     {
+      "id": "n_991614ee59",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "EA Sports: FC 27 baut Angriffe und Verteidigung grundlegend um",
+      "summary": "Im Mittelpunkt von FC 27 stehen intelligentere Laufwege, weniger Hilfen sowie Änderungen an Angriff, Verteidigung und Standardsituationen. (Fußball, Electronic Arts)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/ea-sports-fc-27-baut-angriffe-und-verteidigung-grundlegend-um-2607-211424.html",
+      "publishedAt": "2026-07-30T05:20:01.000Z"
+    },
+    {
+      "id": "n_d760f4cff9",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Penetration Testing: Schwachstellen in Webanwendungen erkennen",
+      "summary": "Penetration Testing deckt Schwachstellen in Webanwendungen und Netzwerken auf. Ein Online-Workshop vermittelt Methodik und Tools, um Findings nachvollziehbar zu prüfen. (Golem Karrierewelt, Server-Applikationen)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-penetration-testing-schwachstellen-in-webanwendungen-erkennen-2607-208603.html",
+      "publishedAt": "2026-07-30T05:15:01.000Z"
+    },
+    {
       "id": "n_f1faa5cd2f",
       "type": "news",
       "topic": "tech",
@@ -244,26 +266,48 @@
       "publishedAt": "2026-07-29T15:05:01.000Z"
     },
     {
-      "id": "n_9f28e7add4",
+      "id": "n_104673947e",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Bauland gegen Rechenleistung: Pentagon öffnet Militärbasen für Rechenzentren",
-      "summary": "Mindestens einer der Standorte für Rechenzentren auf US-Militärbasen liegt in der Nähe eines Testgeländes für Chemie- und Biowaffen. (Militär, Politik)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/bauland-gegen-rechenleistung-pentagon-oeffnet-militaerbasen-fuer-rechenzentren-2607-211419.html",
-      "publishedAt": "2026-07-29T14:51:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "summary": "The US military said the strikes were in response to Iran firing missiles at US forces in the Middle East on Tuesday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T03:33:01.000Z"
     },
     {
-      "id": "n_432f201a83",
+      "id": "n_51ae39f4b3",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Apple Airpods Max bei Amazon jetzt erstmals unter 400 Euro",
-      "summary": "Apples Premium-Over-Ears Airpods Max mit USB-C fallen bei Amazon auf einen neuen Bestpreis. (Airpods, Amazon)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-apple-airpods-max-bei-amazon-jetzt-erstmals-unter-400-euro-2607-211417.html",
-      "publishedAt": "2026-07-29T14:40:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material",
+      "summary": "Telegram told the BBC it rejects the allegations and will contest them in court.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crmrv4pnexmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T03:03:12.000Z"
+    },
+    {
+      "id": "n_2b30a51e96",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Singapore fines French teen $465 for viral straw-licking stunt",
+      "summary": "The 19-year-old was \"truly sorry\" for causing trouble, his lawyers said.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T02:54:54.000Z"
+    },
+    {
+      "id": "n_9aea9c4547",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
+      "summary": "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T01:53:25.000Z"
     },
     {
       "id": "n_9293fcbb40",
@@ -310,56 +354,12 @@
       "publishedAt": "2026-07-29T22:50:14.000Z"
     },
     {
-      "id": "n_84fc82ce58",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Salman Rushdie attacker convicted of terror offenses",
-      "summary": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T22:15:33.000Z"
-    },
-    {
-      "id": "n_d2e79310a1",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "The Chinese robot army transforming the UK's retail industry",
-      "summary": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T22:08:29.000Z"
-    },
-    {
-      "id": "n_11c8163e1d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Four women accuse Jared Leto of criminal sexual conduct",
-      "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T21:36:06.000Z"
-    },
-    {
-      "id": "n_e7ece2d69f",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-      "summary": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T20:21:46.000Z"
-    },
-    {
       "id": "n_bf632bb65c",
       "type": "news",
       "topic": "tech",
       "lang": "en",
       "headline": "Meta shares fall as frustration grows over AI spending plans",
-      "summary": "Mark Zuckerberg said Meta intends to sell for the first time AI tools to other companies",
+      "summary": "CEO Mark Zuckerberg said the firm intends to sell its AI tools to other companies for the first time.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-29T22:44:18.000Z"
@@ -589,7 +589,7 @@
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "headline": "The Hugging Face AI break-in explained",
       "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
@@ -1036,102 +1036,6 @@
       "publishedAt": "2026-07-16T00:00:00.000Z"
     },
     {
-      "id": "n_a8e1e70bfc",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Kimi K3 Just Broke The Economics Of AI",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
-      "thumbnail": "https://i.ytimg.com/vi/Xj-QdEUxJkE/hqdefault.jpg",
-      "publishedAt": "2026-07-29T12:37:50.000Z"
-    },
-    {
-      "id": "n_9363752886",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude Just Revealed AI's Biggest Problem",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
-      "thumbnail": "https://i.ytimg.com/vi/axOcn--n_lM/hqdefault.jpg",
-      "publishedAt": "2026-07-16T15:39:17.000Z"
-    },
-    {
-      "id": "n_b87b50ece3",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Anthropic Found Something That Shouldn't Exist",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
-      "thumbnail": "https://i.ytimg.com/vi/0CqLVnx-2UM/hqdefault.jpg",
-      "publishedAt": "2026-07-15T13:58:27.000Z"
-    },
-    {
-      "id": "n_d86677f440",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Minecraft Was Missing One Brilliant Idea",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
-      "thumbnail": "https://i.ytimg.com/vi/Ae9q7KsRbuI/hqdefault.jpg",
-      "publishedAt": "2026-07-12T15:48:43.000Z"
-    },
-    {
-      "id": "n_49a7d5405f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
-      "publishedAt": "2026-07-28T20:02:11.000Z"
-    },
-    {
-      "id": "n_39feb22ff6",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
-      "thumbnail": "https://i.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
-      "publishedAt": "2026-06-30T21:16:13.000Z"
-    },
-    {
-      "id": "n_6a7b36e7cd",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
-      "thumbnail": "https://i.ytimg.com/vi/1M3Vdl6DRkU/hqdefault.jpg",
-      "publishedAt": "2026-05-29T16:18:31.000Z"
-    },
-    {
-      "id": "n_c402ebf7aa",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
-      "thumbnail": "https://i.ytimg.com/vi/nepKKz-MzFM/hqdefault.jpg",
-      "publishedAt": "2026-05-06T22:03:16.000Z"
-    },
-    {
       "id": "n_b67d3be64b",
       "type": "video",
       "topic": "video",
@@ -1178,42 +1082,6 @@
       "url": "https://www.youtube.com/watch?v=M51asSwRLxA",
       "thumbnail": "https://i.ytimg.com/vi/M51asSwRLxA/hqdefault.jpg",
       "publishedAt": "2026-07-20T17:02:30.000Z"
-    },
-    {
-      "id": "n_bf51349fdf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Framework 13 Pro: The Modular Laptop is Real!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
-      "thumbnail": "https://i.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg",
-      "publishedAt": "2026-07-27T15:38:21.000Z"
-    },
-    {
-      "id": "n_64ebc2a7bf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
-      "thumbnail": "https://i.ytimg.com/vi/8Hx2yvWSgs0/hqdefault.jpg",
-      "publishedAt": "2026-07-22T13:01:05.000Z"
-    },
-    {
-      "id": "n_6742ca94db",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "iOS 27 Hands-On: Top 5 New Features!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=_oRgdlJUD18",
-      "thumbnail": "https://i.ytimg.com/vi/_oRgdlJUD18/hqdefault.jpg",
-      "publishedAt": "2026-07-13T22:27:02.000Z"
     }
   ]
 }
