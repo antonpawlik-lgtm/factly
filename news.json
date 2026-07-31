@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-07-31T11:15:42.135Z",
+  "generatedAt": "2026-07-31T13:26:34.929Z",
   "items": [
+    {
+      "id": "n_0519c0135e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "GEMA vs. Suno: KI-Firma darf Melodien nicht ungefragt nutzen",
+      "summary": "Eine unlizenzierte Nutzung von Musikstücken durch KI-Anwendungen verstößt gegen deutsches Urheberrecht. Das entschied heute das Landgericht München. Beobachter sehen darin Signalwirkung. Von Fritz Espenlaub.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/kultur/urteil-gema-vs-suno-100.html",
+      "publishedAt": "2026-07-31T11:47:13.000Z"
+    },
+    {
+      "id": "n_55c414a14d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Spanische Exklave in Nordafrika: EU bietet Spanien Hilfe in Ceuta an",
+      "summary": "In Ceuta spitzt sich die Migrationslage zu. Die EU bietet Spanien Hilfe an, Italiens Ministerpräsidentin sieht europäische Grenzen bedroht und erwägt, das Schengen-Abkommen auszusetzen. Frankreich will seine Grenzkontrollen verschärfen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ceuta-eu-reaktionen-100.html",
+      "publishedAt": "2026-07-31T11:27:31.000Z"
+    },
+    {
+      "id": "n_6d7f6d21ba",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach Berlin-Anschlag: Wie bereiten sich die kommenden CSD-Paraden vor?",
+      "summary": "In einigen Städten stehen an den kommenden Wochenenden CSD-Paraden an. Nach dem Anschlag in Berlin sind viele Organisatoren besorgt. Polizei und Veranstalter überprüfen noch einmal ihre Sicherheitskonzepte. Von Carolyn Wißing.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/csd-sicherheit-100.html",
+      "publishedAt": "2026-07-31T11:26:56.000Z"
+    },
+    {
+      "id": "n_40e878b055",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Verbraucherpreise: Inflation in der Eurozone steigt im Juli leicht",
+      "summary": "Inmitten der unsicheren wirtschaftlichen Lage steigt die Inflation in der Eurozone im Juli auf 2,9 Prozent. Im Juni war die Inflation noch gesunken. Volkswirte hatten den Anstieg erwartet.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-juli-100.html",
+      "publishedAt": "2026-07-31T11:20:51.000Z"
+    },
     {
       "id": "n_96ae14b6c9",
       "type": "news",
@@ -24,17 +68,6 @@
       "publishedAt": "2026-07-31T10:35:00.000Z"
     },
     {
-      "id": "n_55c414a14d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Spanische Exklave in Nordafrika: EU bietet Spanien Hilfe in Ceuta an",
-      "summary": "In Ceuta spitzt sich die Migrationslage zu. Die EU bietet Spanien Hilfe an, Italiens Ministerpräsidentin sieht europäische Grenzen bedroht und erwägt, das Schengen-Abkommen auszusetzen. Frankreich will seine Grenzkontrollen verschärfen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ceuta-eu-reaktionen-100.html",
-      "publishedAt": "2026-07-31T10:27:04.000Z"
-    },
-    {
       "id": "n_7b0daec946",
       "type": "news",
       "topic": "general",
@@ -46,17 +79,6 @@
       "publishedAt": "2026-07-31T10:23:13.000Z"
     },
     {
-      "id": "n_40e878b055",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Verbraucherpreise: Inflation in der Eurozone steigt im Juli leicht",
-      "summary": "Inmitten der unsicheren wirtschaftlichen Lage steigt die Inflation in der Eurozone im Juli auf 2,9 Prozent über den Niveau des Vorjahres. Dabei bleibt sie deutlich unter ihrem Höhepunkt im Frühjahr.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-juli-100.html",
-      "publishedAt": "2026-07-31T10:06:36.000Z"
-    },
-    {
       "id": "n_f2b19197c0",
       "type": "news",
       "topic": "general",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/asien/israel-hamas-150.html",
       "publishedAt": "2026-07-31T09:53:43.000Z"
-    },
-    {
-      "id": "n_0d4413f7d8",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Medien berichten von mehr als 40.000 Migranten in Ceuta",
-      "summary": "Medienberichten zufolge sollen mehr als 40.000 Migranten in die spanische Exklave Ceuta gelangt sein - auch befeuert von Gerüchten über eine Grenzöffnung. Spanien hat zusätzliche Soldaten mobilisiert. Von Stefan Ehlert.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/migration-ceuta-100.html",
-      "publishedAt": "2026-07-31T09:18:39.000Z"
-    },
-    {
-      "id": "n_6c58e37545",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Neues Ausbildungsjahr beginnt: Wie KI das Handwerk stärkt",
-      "summary": "Das neue Ausbildungsjahr beginnt. In Zeiten von Künstlicher Intelligenz suchen junge Menschen nach zukunftssicheren Jobs. Das Handwerk scheint davon zu profitieren: Die Bewerberzahl steigt. Von Ole Hilgert.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/handwerk-kuenstliche-intelligenz-100.html",
-      "publishedAt": "2026-07-31T09:12:23.000Z"
     },
     {
       "id": "n_54cd87934e",
@@ -178,6 +178,50 @@
       "publishedAt": "2026-07-30T15:10:00.000Z"
     },
     {
+      "id": "n_5f3e12bc27",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Objektiv: Sony will Tamron vollständig übernehmen",
+      "summary": "Für Besitzer von Fujifilm-, Canon- oder Nikon-Kameras könnte das ein Problem werden: Sony will den Objektivhersteller Tamron aufkaufen. (Tamron, Sony)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/objektiv-sony-will-tamron-vollstaendig-uebernehmen-2607-211492.html",
+      "publishedAt": "2026-07-31T12:39:01.000Z"
+    },
+    {
+      "id": "n_e311d15663",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Node Split: Wie Vodafone seine Gigabit-hungrigen Segmente aufspaltet",
+      "summary": "Vodafone investiert in die Stabilität seines Koaxialnetzes: Mit rund 160 Segmentierungen pro Monat will der Kabelnetz-Betreiber die Überlastung reduzieren. (Vodafone, Glasfaser)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/node-split-wie-vodafone-seine-gigabit-hungrigen-segmente-aufspaltet-2607-211490.html",
+      "publishedAt": "2026-07-31T12:12:02.000Z"
+    },
+    {
+      "id": "n_f4bd0d5b27",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: 34-Zoll-Curved-Gaming-Monitor jetzt nur rund 209 Euro bei Amazon",
+      "summary": "Ultrawide, 165 Hz und mit UWQHD-Auflösung: Dieser 34-Zoll-Gaming-Monitor ist jetzt bei Amazon im Angebot. (TV & Monitore, PC-Hardware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-34-zoll-curved-gaming-monitor-jetzt-nur-rund-209-euro-bei-amazon-2607-211489.html",
+      "publishedAt": "2026-07-31T11:55:01.000Z"
+    },
+    {
+      "id": "n_26ed8de3a9",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "(g+) Agentgateway: Ein Kontrollpunkt für LLMs, Tools und KI-Agenten",
+      "summary": "Je mehr Werkzeuge KI-Agenten nutzen, desto schwieriger wird es nachzuvollziehen, wer worauf zugreift. Agentgateway soll genau dieses Problem lösen. Ein Deep Dive von Philip Lorenz (KI, Cloud Computing)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/agentgateway-ein-kontrollpunkt-fuer-llms-tools-und-ki-agenten-2607-211089.html",
+      "publishedAt": "2026-07-31T11:30:02.000Z"
+    },
+    {
       "id": "n_264a9ca6cc",
       "type": "news",
       "topic": "tech",
@@ -222,59 +266,15 @@
       "publishedAt": "2026-07-31T10:12:02.000Z"
     },
     {
-      "id": "n_b4d9ce41b5",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Speicherpreise: Amazon erhöht KI-Ausgaben auf 220 Milliarden US-Dollar",
-      "summary": "Wegen hoher Speicherpreise muss AWS 20 Milliarden US-Dollar mehr ausgeben. Auch durch die Beteiligung an Anthropic steigt der Gewinn von Amazon rasant. (AWS, Amazon)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/speicherpreise-amazon-erhoeht-ki-ausgaben-auf-220-milliarden-us-dollar-2607-211486.html",
-      "publishedAt": "2026-07-31T09:58:02.000Z"
-    },
-    {
-      "id": "n_c2ed59e1ea",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Gesundheit: Auto soll Herzinfarkte und Schlaganfälle frühzeitig erkennen",
-      "summary": "Das Lenkrad schreibt ein EKG und die Gurte messen den Herzschlag: Die TU Braunschweig forscht an Gesundheitsüberwachung im Auto. (Medizin, KI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/gesundheit-auto-soll-herzinfarkte-und-schlaganfaelle-fruehzeitig-erkennen-2607-211484.html",
-      "publishedAt": "2026-07-31T09:42:02.000Z"
-    },
-    {
-      "id": "n_6da20a6c4f",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Powerstation von DJI noch kurz reduziert bei Amazon",
-      "summary": "Eine Powerstation von DJI mit 1.000 W, 1.008 Wh, sieben Ausgängen und USV-Funktion gibt es bei Amazon noch kurz zum Aktionspreis. (Powerstation, DJI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-powerstation-von-dji-noch-kurz-reduziert-bei-amazon-2607-211483.html",
-      "publishedAt": "2026-07-31T09:41:01.000Z"
-    },
-    {
-      "id": "n_b537988b54",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Terahertzforschung: Photonischer Zeitkristall führt zu neuer Lasertechnik",
-      "summary": "Die Kontrolle optischer Eigenschaften im Bereich der Lichtfrequenz soll neue Laser ermöglichen und Licht ganz anders kontrollierbar machen. (Laser, Glasfaser)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/terahertzforschung-photonischer-zeitkristall-fuehrt-zu-neuer-lasertechnik-2607-211482.html",
-      "publishedAt": "2026-07-31T09:27:01.000Z"
-    },
-    {
       "id": "n_b77056b3f0",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
-      "summary": "The estimated number of arrivals is more than half of the population of the city, which is about 83,600.",
+      "headline": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+      "summary": "The estimated number of arrivals is more than 70% of the population of the city, which is about 83,600.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T11:14:29.000Z"
+      "publishedAt": "2026-07-31T13:04:04.000Z"
     },
     {
       "id": "n_daed8babd9",
@@ -332,17 +332,6 @@
       "publishedAt": "2026-07-31T08:09:17.000Z"
     },
     {
-      "id": "n_2c84d1a306",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-      "summary": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T07:03:29.000Z"
-    },
-    {
       "id": "n_46b062d91b",
       "type": "news",
       "topic": "general",
@@ -352,6 +341,17 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-31T05:21:18.000Z"
+    },
+    {
+      "id": "n_830c7a53ae",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "What could happen to Fifa if Uefa boycotts World Cup?",
+      "summary": "It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and can Fifa's president survive?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T05:14:17.000Z"
     },
     {
       "id": "n_be8dbde603",
