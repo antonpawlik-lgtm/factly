@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T19:03:52.492Z",
+  "generatedAt": "2026-07-31T21:54:58.947Z",
   "items": [
     {
       "id": "n_c30bdf4a3f",
@@ -178,6 +178,17 @@
       "publishedAt": "2026-07-30T15:10:00.000Z"
     },
     {
+      "id": "n_7d9c4f6c0c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Wärmeinsel-Effekt: Wenn KI-Rechenzentren ihre Umgebung aufheizen",
+      "summary": "KI ist nicht nur Teil der Klimakatastrophe, die Rechenzentren heizen auch direkt ihre Umgebung auf. Ein Beratungsunternehmen rät zu besseren Kühlkonzepten. (Klimakrise, Telekommunikation)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/waermeinsel-effekt-wenn-ki-rechenzentren-ihre-umgebung-aufheizen-2607-211506.html",
+      "publishedAt": "2026-07-31T19:05:02.000Z"
+    },
+    {
       "id": "n_6f74879903",
       "type": "news",
       "topic": "tech",
@@ -255,15 +266,15 @@
       "publishedAt": "2026-07-31T14:57:01.000Z"
     },
     {
-      "id": "n_cf7676c0a6",
+      "id": "n_45cd353ca3",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Nur 0,058 Euro/Teil - Audi Sport Quattro von Hot Wheels nie günstiger",
-      "summary": "Bei Amazon gibt es den legendären Audi Sport Quattro als Mattel Brick Shop im Tiefstpreis-Angebot. Dieser Modellbausatz hat etliche Details und viel Zubehör. (Audi, Amazon)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-nur-0-058-euro-teil-audi-sport-quattro-von-hot-wheels-nie-guenstiger-2607-211499.html",
-      "publishedAt": "2026-07-31T14:35:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Body of US climber the latest recovered after Pakistan avalanche",
+      "summary": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T20:22:46.000Z"
     },
     {
       "id": "n_51a6960b8a",
@@ -282,21 +293,10 @@
       "topic": "general",
       "lang": "en",
       "headline": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-      "summary": "Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Spain.",
+      "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-31T17:03:47.000Z"
-    },
-    {
-      "id": "n_45cd353ca3",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
-      "summary": "Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T16:41:59.000Z"
     },
     {
       "id": "n_34de844dc3",
@@ -442,6 +442,39 @@
       "publishedAt": "2026-07-29T11:35:35.000Z"
     },
     {
+      "id": "n_2db26e244b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
+      "summary": "Had the hacks used conventional methods, someone would likely go to prison.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+      "publishedAt": "2026-07-31T20:39:14.000Z"
+    },
+    {
+      "id": "n_67f4e11813",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+      "summary": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+      "publishedAt": "2026-07-31T20:21:05.000Z"
+    },
+    {
+      "id": "n_3bd9cb10d4",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+      "summary": "LemonLime’s CEO got “carried away” with tattoo gimmick.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+      "publishedAt": "2026-07-31T19:04:56.000Z"
+    },
+    {
       "id": "n_e7488e87ea",
       "type": "news",
       "topic": "tech",
@@ -497,37 +530,26 @@
       "publishedAt": "2026-07-31T16:17:55.000Z"
     },
     {
-      "id": "n_4a4b1613ef",
+      "id": "n_9d803b4958",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "AI scammers outperform humans when it comes to building trust",
-      "summary": "The AI chatbot was more effective at creating “exploitable trust” than the humans.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
-      "publishedAt": "2026-07-31T14:01:40.000Z"
+      "headline": "India is starting to pay for apps, not just download them",
+      "summary": "India's app market generated a record $345 million in Q2.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+      "publishedAt": "2026-07-31T21:07:45.000Z"
     },
     {
-      "id": "n_e8d0fd67c7",
+      "id": "n_6422ae0f31",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Pathogenic review: Damn, it feels good to be a virus",
-      "summary": "The hot new roguelite twin-stick shooter lives up to the hype.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/07/pathogenic-review-damn-it-feels-good-to-be-a-virus/",
-      "publishedAt": "2026-07-31T13:00:18.000Z"
-    },
-    {
-      "id": "n_3505ef966d",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
-      "summary": "A disputed exam, an unreliable detector, and one very late Apple Pages file.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
-      "publishedAt": "2026-07-31T11:00:52.000Z"
+      "headline": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "publishedAt": "2026-07-31T19:47:28.000Z"
     },
     {
       "id": "n_8f9218ebc1",
@@ -596,26 +618,15 @@
       "publishedAt": "2026-07-31T14:00:00.000Z"
     },
     {
-      "id": "n_16030aac77",
+      "id": "n_abe78d6275",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Anthropic says its own AI models breached three companies during security tests",
-      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "publishedAt": "2026-07-31T01:06:54.000Z"
-    },
-    {
-      "id": "n_fb1a03f293",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "publishedAt": "2026-07-30T23:25:58.000Z"
+      "headline": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+      "summary": "Pompeii reimagined with Nano Banana 2 in Google Earth. | Image: Google Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+      "publishedAt": "2026-07-31T19:13:29.000Z"
     },
     {
       "id": "n_cb8ef2d60e",
@@ -623,7 +634,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "Here’s the problem with putting an AI image generator in Google Earth",
-      "summary": "Now a text prompt is all it takes to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater near a hospital in Gaza. Googl",
+      "summary": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater ",
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
       "publishedAt": "2026-07-31T17:05:46.000Z"
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
       "publishedAt": "2026-07-30T18:43:26.000Z"
-    },
-    {
-      "id": "n_286e4f2214",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Google DeepMind’s new AI model can control a robot’s entire body",
-      "summary": "Apptronik’s Apollo 2 robot takes a baseball glove off of a shelf. | Image: Google Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Ro",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-      "publishedAt": "2026-07-30T17:18:45.000Z"
     },
     {
       "id": "n_3d6d30af34",
