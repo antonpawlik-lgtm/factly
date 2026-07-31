@@ -1,93 +1,93 @@
 {
-  "generatedAt": "2026-07-31T01:28:00.452Z",
+  "generatedAt": "2026-07-31T08:29:06.269Z",
   "items": [
+    {
+      "id": "n_5499288c7b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Die Verbindungen des CSD-Attentäters nach Mauretanien",
+      "summary": "Der mutmaßliche CSD-Attentäter Abdul B. wollte nach Mauretanien auswandern und sich dort wohl einem radikalen Prediger aus Berlin anschließen. Wird das westafrikanische Land zum neuen Tummelplatz für Europas Dschihadisten? Von J. Diehl, F. Flade und R. Lehberger.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/investigativ/ndr-wdr/csd-attentaeter-mauretanien-100.html",
+      "publishedAt": "2026-07-31T08:00:24.000Z"
+    },
+    {
+      "id": "n_6bb1f23e3d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach Ankunft vieler Migranten: Sánchez reist nach Ceuta",
+      "summary": "In den vergangenen Tagen erreichten viele Migranten das spanische Ceuta in Nordafrika. Die örtlichen Behörden sind beunruhigt, die Aufnahmezentren überfüllt. Heute reist Premierminister Sánchez in die Exklave. Die EU bot Hilfe durch Frontex an.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ceuta-besuch-sanchez-100.html",
+      "publishedAt": "2026-07-31T08:00:00.000Z"
+    },
+    {
+      "id": "n_c903583d2b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Waldbrände in Südeuropa: Starker Wind macht Lage auf Kreta unkontrollierbar",
+      "summary": "Andere griechische Inseln melden leichte Entspannung, aber auf Kreta bleibt die Situation angespannt: Schwere Winde entfachen immer wieder neue Brandherde. Zeitweise musste ein ganzer Urlaubsort evakuiert werden. Von M. Pompl.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbrand-kreta-108.html",
+      "publishedAt": "2026-07-31T06:37:36.000Z"
+    },
+    {
+      "id": "n_96ae14b6c9",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Kretschmer kündigt Ablehnung der Rentenreform im Bundesrat an",
+      "summary": "Die Bundesregierung will die Rentenreform vollständig umsetzen, doch im Osten gibt es Widerstand. Sachsens Ministerpräsident Kretschmer kündigte ein Nein im Bundesrat an, sollte es keine abschlagsfreie Rente nach 45 Beitragsjahren mehr geben.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/kritik-osten-rentenplaene-100.html",
+      "publishedAt": "2026-07-31T06:25:49.000Z"
+    },
+    {
+      "id": "n_bece8f759a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: DAX könnte wieder Kurs Richtung Rekord nehmen",
+      "summary": "Starke Zahlen von Amazon treiben die Börsen in Asien an, auch die Wall Street liefert gute Vorgaben. Vor allem Tech-Titel sind gesucht. Der DAX dürfte mit einem soliden Plus in den Handel starten.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-amazon-100.html",
+      "publishedAt": "2026-07-31T05:28:25.000Z"
+    },
+    {
+      "id": "n_4c771f470f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Der verzweifelte Kampf der Feuerwehr und Freiwilliger in der Gironde",
+      "summary": "Zwischen Asche und Glut kämpfen Feuerwehrleute und Freiwillige gegen die Waldbrände in Frankreich - oft vergeblich. Besonders betroffen: die Gironde. Vor Ort wächst die Wut. Helfer werfen der Regierung Versäumnisse vor. Von Jean-Marie Magro.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-waldbraende-106.html",
+      "publishedAt": "2026-07-31T03:23:02.000Z"
+    },
+    {
+      "id": "n_20e71a5bc0",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Studie belegt den Einfluss des Klimawandels auf Feuerwetter",
+      "summary": "Hunderttausende Hektar sind seit Jahresbeginn in Europa verbrannt - und die Flammen wüten weiter. Eine neue Studie kommt zu dem Schluss: Der Klimawandel erhöht das Risiko für Waldbrände deutlich. Von S. Hübner.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wissen/klima/klimawandel-waldbraende-100.html",
+      "publishedAt": "2026-07-31T03:17:17.000Z"
+    },
     {
       "id": "n_b880a321dc",
       "type": "news",
       "topic": "general",
       "lang": "de",
       "headline": "Trump meldet Erfolg bei Friedensabkommen für Gazastreifen",
-      "summary": "Kommt Bewegung in die Gaza-Verhandlungen? US-Präsident Trump spricht von einer Einigung zur schrittweisen Entwaffnung der Hamas. Israel ziehe dafür sein Militär ab. Die Hamas hat laut US-Kreisen zugestimmt, aus Tel Aviv gibt es noch keine Reaktion.",
+      "summary": "Kommt Bewegung in die Gaza-Verhandlungen? US-Präsident Trump spricht von einer Einigung zur Entwaffnung der Hamas. Israel ziehe sein Militär ab. Die Hamas soll grundsätzlich zugestimmt haben, eine israelische Reaktion gibt es noch nicht.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/hamas-entwaffnung-trump-100.html",
       "publishedAt": "2026-07-31T01:15:49.000Z"
-    },
-    {
-      "id": "n_1a12fe5f0a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Recht auf Reparatur: Neue Pflichten für Händler und Verkäufer",
-      "summary": "Das neue Recht auf Reparatur tritt heute in Kraft. Hersteller müssen Elektrogeräte reparaturfreundlicher machen und Ersatzteile bereitstellen. Doch die neuen Regeln gelten nicht für alle Geräte. Von Frank Bäumer.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-recht-reparatur-102.html",
-      "publishedAt": "2026-07-30T22:02:26.000Z"
-    },
-    {
-      "id": "n_1e18b4ea7c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Ankunft zahlreicher Migranten: Spanien entsendet Soldaten in Exklave Ceuta",
-      "summary": "Binnen weniger Tage sind wohl Tausende Migranten in die spanische Nordafrika-Exklave Ceuta gelangt - am Donnerstag brach offenbar die Grenzsicherung teils zusammen. Hintergrund könnte ein Gerichtsurteil sein. Nun schickt Madrid Soldaten.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/ceuta-migration-102.html",
-      "publishedAt": "2026-07-30T21:51:57.000Z"
-    },
-    {
-      "id": "n_7707b6d72c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Spanien-Exklave Ceuta ruft wegen Migranten nach Militäreinsatz",
-      "summary": "Zahlreiche Migranten sind zuletzt schwimmend in die spanische Nordafrika-Exklave Ceuta gelangt - besonders viele in den vergangenen Stunden. Der Regionalpräsident rief Madrid auf, das Militär einzusetzen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/ceuta-militaer-forderung-100.html",
-      "publishedAt": "2026-07-30T19:26:17.000Z"
-    },
-    {
-      "id": "n_cf283a7cc2",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Niedrige Flusspegel: Mehrere Länder drosseln Produktion von Atomstrom",
-      "summary": "Wegen Hitze und ausbleibenden Regens sind die Pegel vieler Flüsse in Europa extrem niedrig. Das wird nicht nur für die Schifffahrt zum Problem, sondern auch für Atomkraftwerke. Denn die benötigen viel Kühlwasser - und das fehlt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/donau-pegel-atomstrom-100.html",
-      "publishedAt": "2026-07-30T19:25:08.000Z"
-    },
-    {
-      "id": "n_a9af0cd278",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "40-Grad-Marke erneut geknackt - Abkühlung nach Gewittern",
-      "summary": "Ganz so heiß wie im Juni war es nicht, doch in drei Bundesländern wurde ein neuer Juli-Rekord aufgestellt - mit bis zu 40,5 Grad. Auf die Hitze folgten vielerorts Gewitter. Am Möhnesee in NRW wurden zwei Jugendliche verletzt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/unwetter-hitzewelle-100.html",
-      "publishedAt": "2026-07-30T19:21:57.000Z"
-    },
-    {
-      "id": "n_6d03937dff",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Deutsche Bahn mit Gewinn, doch die Baustellen bleiben",
-      "summary": "Die Bahn meldet schwarze Zahlen, die Bahnchefin und den neuen Verkehrsminister freut's. Die bekannten Probleme sind deswegen aber nicht verschwunden. Verkehrsminister Bilger will sie \"nach und nach\" lösen. Von Andreas König.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-schiene-verkehrsminister-100.html",
-      "publishedAt": "2026-07-30T18:21:12.000Z"
-    },
-    {
-      "id": "n_d35d8b9682",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Warum Paare ihre Kinder von Leihmüttern in Mexiko austragen lassen",
-      "summary": "Auch Paare aus Deutschland nutzen das Angebot: In Mexiko ist das Geschäft mit Leihmüttern hochgradig kommerzialisiert. Doch es gibt keine einheitliche Rechtslage, und das birgt Gefahren für Leihmütter und Wunscheltern. Von C. Moebus.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/leihmutterschaft-mexiko-100.html",
-      "publishedAt": "2026-07-30T17:27:13.000Z"
     },
     {
       "id": "n_31f32ba636",
@@ -178,114 +178,136 @@
       "publishedAt": "2026-07-28T16:29:00.000Z"
     },
     {
-      "id": "n_a702861eb1",
+      "id": "n_0353fa3829",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Die Enterprise-D von Lego verließ Amazons Lager nie günstiger",
-      "summary": "Die Enterprise-D von Lego ist auf den bisher besten Amazon-Preis gefallen. (Star Trek, Lego)",
+      "headline": "OpenAI: US-Regierung benutzt falsche KI-Landkarte bei Konferenz",
+      "summary": "Bei einer Aids-Konferenz hat das US-Außenministerium eine Karte verwendet, die von KI erstellt wurde - und Länder komplett falsch platzierte. (KI, Software)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-die-enterprise-d-von-lego-verliess-amazons-lager-nie-guenstiger-2607-211468.html",
-      "publishedAt": "2026-07-30T17:37:01.000Z"
+      "url": "https://www.golem.de/news/openai-us-regierung-benutzt-falsche-ki-landkarte-bei-konferenz-2607-211477.html",
+      "publishedAt": "2026-07-31T08:10:02.000Z"
     },
     {
-      "id": "n_b425b2aadc",
+      "id": "n_f70a0ee689",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Saugroboter mit Wischfunktion von Roborock günstig wie nie bei Amazon",
-      "summary": "Mit dem Roborock Qrevo S5V geschieht die Bodenreinigung wie von selbst. Amazon verkauft den Saugroboter so günstig wie nie im befristeten Angebot. (Saugroboter, Amazon)",
+      "headline": "Betriebssystem: Windows 11 bekommt neues und schnelleres Kontextmenü",
+      "summary": "User sollen die per Rechtsklick erreichbare Liste zudem selbst anpassen können. So wird es übersichtlicher und schneller. (Windows 11, Microsoft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-saugroboter-mit-wischfunktion-von-roborock-guenstig-wie-nie-bei-amazon-2607-211467.html",
-      "publishedAt": "2026-07-30T17:10:05.000Z"
+      "url": "https://www.golem.de/news/betriebssystem-windows-11-bekommt-neues-und-schnelleres-kontextmenue-2607-211476.html",
+      "publishedAt": "2026-07-31T07:55:01.000Z"
     },
     {
-      "id": "n_de6b09dfa9",
+      "id": "n_a5b2575893",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Wohnungsstich: Oberlandesgericht lässt Glasfaser der Telekom wieder rückbauen",
-      "summary": "Das Oberlandesgericht Karlsruhe hat der Deutschen Telekom untersagt, gebäudeinterne Anschlüsse ohne Zustimmung des Eigentümers zu verlegen. (Buglas, Telekom)",
+      "headline": "Fusionsenergie: Iter erhält sechsten Tokamaksektor",
+      "summary": "Innerhalb von 30 Stunden ist das Element in Position gebracht worden. Noch Ende des Jahres soll Iter weiter wachsen. (Iter, Kernfusion)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/wohnungsstich-oberlandesgericht-laesst-telekom-glasfaser-rueckbauen-2607-211469.html",
-      "publishedAt": "2026-07-30T17:07:02.000Z"
+      "url": "https://www.golem.de/news/fusionsenergie-iter-erhaelt-sechsten-tokamaksektor-2607-211475.html",
+      "publishedAt": "2026-07-31T07:40:01.000Z"
     },
     {
-      "id": "n_61a9b34f06",
+      "id": "n_48ead90b30",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: USB-Ladegerät von Anker mit 160 W und drei Anschlüssen zum Tiefstpreis",
-      "summary": "Das Anker Prime USB-Ladegerät in der 160-W-Variante ist bei Amazon wieder zu seinem bisher niedrigsten Preis im Angebot. (Technik/Hardware, Amazon)",
+      "headline": "Sysadmin Day 2026: IT-Jobs aus der Hölle",
+      "summary": "In meinem ersten Job wurde ich mit allem alleingelassen und dann mit den Worten gekündigt: \"IT ist nichts für dich!\". Habt ihr ähnliches erlebt? Ein Erfahrungsbericht von Andrea Maurer (Sysadmin Day, Wirtschaft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-usb-ladegeraet-von-anker-mit-160-w-und-drei-anschluessen-zum-tiefstpreis-2607-211465.html",
-      "publishedAt": "2026-07-30T16:36:01.000Z"
+      "url": "https://www.golem.de/news/sysadmin-day-2026-it-jobs-aus-der-hoelle-2607-211254.html",
+      "publishedAt": "2026-07-31T07:25:02.000Z"
     },
     {
-      "id": "n_b7a0a16d4b",
+      "id": "n_2ed6b23965",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: INIU Mini-Powerbank mit 20.000 mAh zum neuen Bestpreis nur 24,65 Euro bei Amazon",
-      "summary": "Die INIU Powerbank mit 20.000 mAh ist kompakt, lädt schnell mit abnehmbarem USB-C-Kabel und ist bei Amazon gerade so günstig wie nie. (Technik/Hardware, USB-C)",
+      "headline": "Microsoft: Forscher finden Masterkey für Vollzugriff auf Azure-Datenbanken",
+      "summary": "Mit dem Key hätten Angreifer alle Datenbanken bei Microsofts Datenbankdienst Azure Cosmos DB auslesen und manipulieren können - auch die von Microsoft. (Sicherheitslücke, Microsoft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-iniu-mini-powerbank-mit-20-000-mah-zum-neuen-bestpreis-nur-24-65-euro-bei-amazon-2607-211461.html",
-      "publishedAt": "2026-07-30T16:07:01.000Z"
+      "url": "https://www.golem.de/news/microsoft-forscher-finden-masterkey-fuer-vollzugriff-auf-azure-datenbanken-2607-211473.html",
+      "publishedAt": "2026-07-31T07:05:02.000Z"
     },
     {
-      "id": "n_e6307e0b10",
+      "id": "n_2375334847",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) Artificial Intelligence: ByteDance's plan to dominate AI",
-      "summary": "The Chinese company behind TikTok is pouring resources into the technology. Some think it is a big gamble Von Zijing Wu und Eleanor Olcott (Bytedance, KI)",
+      "headline": "Studien zu Wissensarbeitern: Arbeitsfrust durch KI-Einsatz steigt",
+      "summary": "Eine Umfrage zeigt: Viele Wissensarbeiter wünschen sich die Zeit vor KI zurück, da fehlerhafte Ergebnisse oft Mehrarbeit verursachen. (Studien, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/artificial-intelligence-bytedance-s-plan-to-dominate-ai-2607-211431.html",
-      "publishedAt": "2026-07-30T16:00:02.000Z"
+      "url": "https://www.golem.de/news/studien-zu-wissensarbeitern-arbeitsfrust-durch-ki-einsatz-steigt-2607-211471.html",
+      "publishedAt": "2026-07-31T06:31:01.000Z"
     },
     {
-      "id": "n_2f4af12f84",
+      "id": "n_13104ef12c",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "OpenAI: Eine Milliarde User verwenden ChatGPT",
-      "summary": "Von den zahlreichen Nutzern bezahlen wohl nur 5 Prozent für ChatGPT. Konkurrenten sind teilweise finanziell erfolgreicher. (OpenAI, KI)",
+      "headline": "Weiterer Vorfall: Anthropic-KI greift unbeabsichtigt echte Unternehmen an",
+      "summary": "Durch einen Fehler in der Testumgebung sind mehrere Anthropic-Modelle ins offene Netz gelangt und haben reale Unternehmen ins Visier genommen. (Anthropic, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/openai-eine-milliarde-user-verwenden-chatgpt-2607-211464.html",
-      "publishedAt": "2026-07-30T15:37:02.000Z"
+      "url": "https://www.golem.de/news/weiterer-vorfall-anthropic-ki-greift-unbeabsichtigt-echte-unternehmen-an-2607-211470.html",
+      "publishedAt": "2026-07-31T06:11:02.000Z"
     },
     {
-      "id": "n_6ba6103f38",
+      "id": "n_05e8b6c6ba",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Verspätet: EU-Kommission startet nach anderthalb Jahren Ausschreibung für KI-Gigafactories",
-      "summary": "Die EU-Kommission startet doch noch ihre Ausschreibung für KI-Gigafactories. Projekte der Hyperscaler sind selbst in Europa bereits viel weiter. (EU, Telekom)",
+      "headline": "Anzeige: Microsoft 365 mit Zero Trust absichern",
+      "summary": "Microsoft 365 Zero Trust verlangt klare Kontrollen für Identitäten, Daten und Geräte. Ein Online-Workshop zeigt, wie Schutzmechanismen und Monitoring strukturiert umgesetzt werden. (Golem Karrierewelt, Server-Applikationen)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/verspaetet-eu-kommission-startet-nach-anderthalb-jahren-ausschreibung-fuer-ki-gigafactories-2607-211462.html",
-      "publishedAt": "2026-07-30T15:12:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-microsoft-365-mit-zero-trust-absichern-2607-210522.html",
+      "publishedAt": "2026-07-31T05:15:02.000Z"
     },
     {
-      "id": "n_a6d12130c0",
+      "id": "n_5c9e90a27f",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Anthropic says AI models hacked three firms during cyber tests",
-      "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+      "headline": "Fifa says 'nobody selling football' as plan continues",
+      "summary": "Football's governing body Fifa plans to continue the consultation process after Uefa threatens to boycott World Cups.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T01:11:36.000Z"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T08:21:37.000Z"
     },
     {
-      "id": "n_45cd353ca3",
+      "id": "n_b77056b3f0",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Nirmal Purja among 10 climbers feared missing after avalanche",
-      "summary": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.",
+      "headline": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
+      "summary": "This comes after thousands of migrants were reported to have illegally crossed into the territory on Thursday and Friday.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T00:52:54.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T08:20:49.000Z"
+    },
+    {
+      "id": "n_4ad405e8bf",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+      "summary": "At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T08:09:17.000Z"
+    },
+    {
+      "id": "n_63153d3c30",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "AC Milan and Italy great Baresi dies aged 66",
+      "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T07:27:00.000Z"
     },
     {
       "id": "n_2c84d1a306",
@@ -296,62 +318,51 @@
       "summary": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T00:07:17.000Z"
+      "publishedAt": "2026-07-31T07:03:29.000Z"
     },
     {
-      "id": "n_4ad405e8bf",
+      "id": "n_46b062d91b",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-      "summary": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene.",
+      "headline": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+      "summary": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T21:24:31.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T05:21:18.000Z"
     },
     {
-      "id": "n_d2ac6391d5",
+      "id": "n_830c7a53ae",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Migrants seen swimming around border fence of Spanish enclave Ceuta",
-      "summary": "The North African enclave's leader said resources were being overwhelmed after so many people entered by sea from Morocco.",
+      "headline": "What could happen to Fifa if Uefa boycotts World Cup?",
+      "summary": "It's been a seismic 48 hours for football after Uefa threatened to boycott the World Cup and Concacaf rejected Gianni Infantino's funding plan - what happens now, and can Fifa's president survive?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T19:16:18.000Z"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9984d9x1eyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T05:14:17.000Z"
     },
     {
-      "id": "n_4087e0c383",
+      "id": "n_a6d12130c0",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-      "summary": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
+      "headline": "Anthropic's Claude AI escapes tests to hack three organisations",
+      "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T17:55:24.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T04:31:30.000Z"
     },
     {
-      "id": "n_ed867e9117",
+      "id": "n_be8dbde603",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Father of teen school shooter sentenced to 15 years in prison",
-      "summary": "\"It is clear you failed as a parent,\" the judge told Colin Gray, who was found guilty earlier this year on charges stemming from the deadly 2024 school attack.",
+      "headline": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
+      "summary": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c78g4y18rxgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T17:33:41.000Z"
-    },
-    {
-      "id": "n_e762bb8532",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Why limited war with the US may suit Iran better than peace",
-      "summary": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T17:26:01.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T01:31:50.000Z"
     },
     {
       "id": "n_053d35226d",
@@ -429,17 +440,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-29T08:49:27.000Z"
-    },
-    {
-      "id": "n_6bd805ec83",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
-      "summary": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T23:00:15.000Z"
     },
     {
       "id": "n_ae755848e3",
@@ -871,6 +871,17 @@
       "publishedAt": "2026-07-23T12:00:00.000Z"
     },
     {
+      "id": "n_6d0bb6de8f",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+      "summary": "In a review triggered by OpenAI’s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+      "publishedAt": "2026-07-31T01:24:26.000Z"
+    },
+    {
       "id": "n_28589c4fa2",
       "type": "news",
       "topic": "ai",
@@ -946,17 +957,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/",
       "publishedAt": "2026-07-30T10:15:00.000Z"
-    },
-    {
-      "id": "n_47e52ab77d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI Scammers Are Better at Building Trust Than Humans",
-      "summary": "Researchers pitted a person against a Claude agent and found that, after a week of texting, the AI chatbot was more effective at creating “exploitable trust” with others.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
-      "publishedAt": "2026-07-30T09:30:00.000Z"
     },
     {
       "id": "n_f684c3a66a",
