@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-07-30T21:56:17.298Z",
+  "generatedAt": "2026-07-31T01:28:00.452Z",
   "items": [
+    {
+      "id": "n_b880a321dc",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Trump meldet Erfolg bei Friedensabkommen für Gazastreifen",
+      "summary": "Kommt Bewegung in die Gaza-Verhandlungen? US-Präsident Trump spricht von einer Einigung zur schrittweisen Entwaffnung der Hamas. Israel ziehe dafür sein Militär ab. Die Hamas hat laut US-Kreisen zugestimmt, aus Tel Aviv gibt es noch keine Reaktion.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/hamas-entwaffnung-trump-100.html",
+      "publishedAt": "2026-07-31T01:15:49.000Z"
+    },
+    {
+      "id": "n_1a12fe5f0a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Recht auf Reparatur: Neue Pflichten für Händler und Verkäufer",
+      "summary": "Das neue Recht auf Reparatur tritt heute in Kraft. Hersteller müssen Elektrogeräte reparaturfreundlicher machen und Ersatzteile bereitstellen. Doch die neuen Regeln gelten nicht für alle Geräte. Von Frank Bäumer.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-recht-reparatur-102.html",
+      "publishedAt": "2026-07-30T22:02:26.000Z"
+    },
     {
       "id": "n_1e18b4ea7c",
       "type": "news",
@@ -18,7 +40,7 @@
       "topic": "general",
       "lang": "de",
       "headline": "Spanien-Exklave Ceuta ruft wegen Migranten nach Militäreinsatz",
-      "summary": "Zahlreiche Migranten sind zuletzt schwimmend in die spanische Nordafrika-Exklave Ceuta gelangt - allein binnen eines Tages könnten es mehrere tausend gewesen sein. Der Regionalpräsident rief Madrid auf, das Militär einzusetzen.",
+      "summary": "Zahlreiche Migranten sind zuletzt schwimmend in die spanische Nordafrika-Exklave Ceuta gelangt - besonders viele in den vergangenen Stunden. Der Regionalpräsident rief Madrid auf, das Militär einzusetzen.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/ceuta-militaer-forderung-100.html",
       "publishedAt": "2026-07-30T19:26:17.000Z"
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/leihmutterschaft-mexiko-100.html",
       "publishedAt": "2026-07-30T17:27:13.000Z"
-    },
-    {
-      "id": "n_5673586740",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Hamburger Datenschutzbeauftragter: Verbot von Meta Glasses möglich",
-      "summary": "Der Hamburger Datenschutzbeauftragte Fuchs warnt vor Meta Smart Glasses: Die Brillen, die kaum von normalen Brillen zu unterscheiden sind, ermöglichen heimliches Filmen. Ein Verbot sei nicht ausgeschlossen. Von Antonetta Stephany.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/smart-glasses-verbot-100.html",
-      "publishedAt": "2026-07-30T17:24:31.000Z"
-    },
-    {
-      "id": "n_f86530cb9b",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Rakete in Polens Luftraum alarmiert NATO",
-      "summary": "Nach dem Einschlag einer Rakete in Polen hat die NATO dem Land Unterstützung zugesichert. Generalsekretär Rutte sprach von einem weiteren rücksichtslosen Akt Russlands. Das Bündnis hatte als Reaktion Kampfjets aufsteigen lassen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/polen-rakete-nato-100.html",
-      "publishedAt": "2026-07-30T16:51:23.000Z"
     },
     {
       "id": "n_31f32ba636",
@@ -266,6 +266,39 @@
       "publishedAt": "2026-07-30T15:12:02.000Z"
     },
     {
+      "id": "n_a6d12130c0",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Anthropic says AI models hacked three firms during cyber tests",
+      "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T01:11:36.000Z"
+    },
+    {
+      "id": "n_45cd353ca3",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Nirmal Purja among 10 climbers feared missing after avalanche",
+      "summary": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T00:52:54.000Z"
+    },
+    {
+      "id": "n_2c84d1a306",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+      "summary": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T00:07:17.000Z"
+    },
+    {
       "id": "n_4ad405e8bf",
       "type": "news",
       "topic": "general",
@@ -321,37 +354,26 @@
       "publishedAt": "2026-07-30T17:26:01.000Z"
     },
     {
-      "id": "n_6903dfd3bb",
+      "id": "n_053d35226d",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Uefa to boycott World Cups if Fifa plans approved",
-      "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
+      "headline": "Teen hackers tell BBC how police are helping them use their skills for good",
+      "summary": "Cyber Prevent is targeting predominantly boys and young men at risk of being drawn to cyber criminality.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T16:47:40.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T00:42:48.000Z"
     },
     {
-      "id": "n_7811b160cf",
+      "id": "n_e3f83dd99b",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
-      "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+      "headline": "India wants to join the strawberry superpowers",
+      "summary": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T16:04:53.000Z"
-    },
-    {
-      "id": "n_23f9b03778",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Man impaled by a hiking pole treks 10 miles down mountain",
-      "summary": "Instead of calling for a helicopter rescue, David Cifaldi hiked down Montana's Granite Peak with a hiking pole piercing his side.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cvg0nlkmzewo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T15:47:09.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T22:04:09.000Z"
     },
     {
       "id": "n_b3d06aebad",
@@ -418,28 +440,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-28T23:00:15.000Z"
-    },
-    {
-      "id": "n_16b900acb0",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Tech Life",
-      "summary": "What do we need to know about agentic AI?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy6?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T20:00:00.000Z"
-    },
-    {
-      "id": "n_a3c19fa8f3",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Some people's chats with Claude AI found to be publicly available online",
-      "summary": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-28T07:10:37.000Z"
     },
     {
       "id": "n_ae755848e3",
@@ -530,6 +530,50 @@
       "publishedAt": "2026-07-29T18:08:22.000Z"
     },
     {
+      "id": "n_16030aac77",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Anthropic says its own AI models breached three companies during security tests",
+      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "publishedAt": "2026-07-31T01:06:54.000Z"
+    },
+    {
+      "id": "n_fb1a03f293",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "publishedAt": "2026-07-30T23:25:58.000Z"
+    },
+    {
+      "id": "n_bada253870",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "publishedAt": "2026-07-30T23:08:58.000Z"
+    },
+    {
+      "id": "n_0043e5cf7a",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Investors love AI, as long as you’re a cloud host",
+      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "publishedAt": "2026-07-30T22:41:41.000Z"
+    },
+    {
       "id": "n_a4b674c645",
       "type": "news",
       "topic": "ai",
@@ -574,48 +618,15 @@
       "publishedAt": "2026-07-30T18:05:21.000Z"
     },
     {
-      "id": "n_25e60d9496",
+      "id": "n_ee384203db",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Okta buys AI security startup Permiso — source says for about $200M",
-      "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "publishedAt": "2026-07-30T16:09:42.000Z"
-    },
-    {
-      "id": "n_13793f9f32",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Meta says AI is making it easier to build new apps — and more are coming",
-      "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-      "publishedAt": "2026-07-30T15:41:16.000Z"
-    },
-    {
-      "id": "n_acd1de3b41",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-      "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-      "publishedAt": "2026-07-30T15:19:15.000Z"
-    },
-    {
-      "id": "n_0d0a337bbf",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Forward-deployed engineers are the AI industry’s latest talent obsession",
-      "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
-      "publishedAt": "2026-07-30T15:00:00.000Z"
+      "headline": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "publishedAt": "2026-07-30T22:29:45.000Z"
     },
     {
       "id": "n_2d9d29aee7",
@@ -623,7 +634,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "The loss of Situational Awareness",
-      "summary": "Neither artificial nor intelligent. I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management,\" or \"Amaranth ",
+      "summary": "Neither artificial nor intelligent. I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth A",
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
       "publishedAt": "2026-07-30T20:46:25.000Z"
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
       "publishedAt": "2026-07-29T21:06:52.000Z"
-    },
-    {
-      "id": "n_453862f893",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
-      "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenA",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-      "publishedAt": "2026-07-29T18:15:02.000Z"
     },
     {
       "id": "n_3d6d30af34",
