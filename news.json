@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-07-31T16:29:09.033Z",
+  "generatedAt": "2026-07-31T19:03:52.492Z",
   "items": [
+    {
+      "id": "n_c30bdf4a3f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Migranten in Ceuta: Italien setzt Schengen-Abkommen mit Spanien aus",
+      "summary": "Als Reaktion auf den Ansturm von Migranten in der spanischen Exklave Ceuta hat Italien das Schengen-Abkommen mit Spanien ausgesetzt. Auch Frankreich will seine Grenzkontrollen verschärfen. Die EU bot Spanien unterdessen Hilfe an.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ceuta-eu-reaktionen-102.html",
+      "publishedAt": "2026-07-31T18:40:48.000Z"
+    },
+    {
+      "id": "n_d47038e9c5",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Viele Migranten verlassen die spanische Exklave Ceuta wieder",
+      "summary": "Zehntausende Menschen haben den Behörden zufolge die Grenze zwischen Marokko und der spanischen Exklave Ceuta überquert. Dabei kamen mindestens 57 Menschen ums Leben. Inzwischen haben viele Migranten die Stadt wieder verlassen. Von Anna Mundt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/migration-ceuta-102.html",
+      "publishedAt": "2026-07-31T18:36:05.000Z"
+    },
+    {
+      "id": "n_b53f3091a5",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Langzeitstudie zu Frühchen - wie gut holen sie im Leben auf?",
+      "summary": "Britische Forschende haben Langzeitdaten früh geborener Menschen analysiert. Viele der Frühchen führten, so die Ergebnisse, ein gutes Leben. Einige hätten aber Probleme in Beruf, Partnerschaft und Freundschaften. Von Sedir Dabbass.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/fruehgeborene-studie-langzeit-entwicklung-100.html",
+      "publishedAt": "2026-07-31T16:55:18.000Z"
+    },
     {
       "id": "n_0571d2984b",
       "type": "news",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/dobrindt-grenzkontrollen-116.html",
       "publishedAt": "2026-07-31T15:31:11.000Z"
-    },
-    {
-      "id": "n_4255904ed9",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Warum Ceuta und Melilla Ziel vieler Migranten sind",
-      "summary": "Sie gehören zu Spanien, liegen aber in Nordafrika - umgeben von Marokko und dem Mittelmeer: Die beiden autonomen Regionen Ceuta und Melilla sind immer wieder Ziel von Migranten, die irregulär nach Europa gelangen wollen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ceuta-melilla-marokko-spanien-100.html",
-      "publishedAt": "2026-07-31T15:26:38.000Z"
-    },
-    {
-      "id": "n_0519c0135e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "GEMA vs. Suno: KI-Firma darf Melodien nicht ungefragt nutzen",
-      "summary": "Eine unlizenzierte Nutzung von Musikstücken durch KI-Anwendungen verstößt gegen deutsches Urheberrecht. Das entschied heute das Landgericht München. Beobachter sehen darin Signalwirkung. Von Fritz Espenlaub.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kultur/urteil-gema-vs-suno-100.html",
-      "publishedAt": "2026-07-31T15:15:41.000Z"
-    },
-    {
-      "id": "n_55c414a14d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Spanische Exklave in Nordafrika: EU bietet Spanien Hilfe in Ceuta an",
-      "summary": "In Ceuta spitzt sich die Migrationslage zu. Die EU bietet Spanien Hilfe an, Italiens Ministerpräsidentin sieht europäische Grenzen bedroht und erwägt, das Schengen-Abkommen auszusetzen. Frankreich will seine Grenzkontrollen verschärfen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ceuta-eu-reaktionen-100.html",
-      "publishedAt": "2026-07-31T15:01:05.000Z"
     },
     {
       "id": "n_54cd87934e",
@@ -178,6 +178,28 @@
       "publishedAt": "2026-07-30T15:10:00.000Z"
     },
     {
+      "id": "n_6f74879903",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Mehrfarbiger 3D-Drucker für unter 300 Euro bei Amazon",
+      "summary": "Der Anycubic Kobra X ist der meistverkaufte 3D-Drucker bei Amazon. Im befristeten Angebot ist der Kundenliebling mehr als 100 Euro reduziert. (3D-Drucker, Amazon)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-mehrfarbiger-3d-drucker-fuer-unter-300-euro-bei-amazon-2607-211505.html",
+      "publishedAt": "2026-07-31T17:00:02.000Z"
+    },
+    {
+      "id": "n_c538f8341f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Roborock H60 Ultra Akkusauger für Prime-Mitglieder fast zum halben Preis",
+      "summary": "Wer einen saugstarken Akku-Staubsauger sucht und Prime-Mitglied ist, sichert sich den Roborock H60 Ultra zum niedrigsten Preis überhaupt. (Technik/Hardware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-roborock-h60-ultra-akkusauger-fuer-prime-mitglieder-fast-zum-halben-preis-2607-211502.html",
+      "publishedAt": "2026-07-31T16:30:02.000Z"
+    },
+    {
       "id": "n_3123a011b6",
       "type": "news",
       "topic": "tech",
@@ -244,26 +266,37 @@
       "publishedAt": "2026-07-31T14:35:02.000Z"
     },
     {
-      "id": "n_8dc3d51ec7",
+      "id": "n_51a6960b8a",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Spieleplattform: Roblox-Aktie bricht ein",
-      "summary": "Die Aktie von Roblox verliert nach Quartalszahlen zeitweise mehr als 14 Prozent. Das Unternehmen nimmt bewusst Einbußen beim Geschäft in Kauf. (Roblox, Jugendschutz)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/spieleplattform-roblox-aktie-bricht-ein-kinderschutz-kostet-umsatz-2607-211496.html",
-      "publishedAt": "2026-07-31T14:12:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "What triggered the mass migrant crossings into Ceuta?",
+      "summary": "An estimated 60,000 migrants from Morocco have crossed into Ceuta, with dozens dying during the journey.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T18:29:04.000Z"
     },
     {
-      "id": "n_0236b82f8b",
+      "id": "n_b77056b3f0",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Luftreiniger von Philips mit Sensor und App reduziert bei Amazon",
-      "summary": "Amazon hat einen Luftreiniger von Philips im Angebot, der die Luftqualität misst und seine Geschwindigkeit automatisch anpasst. (Technik/Hardware, Philips)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-luftreiniger-von-philips-mit-sensor-und-app-reduziert-bei-amazon-2607-211497.html",
-      "publishedAt": "2026-07-31T13:55:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+      "summary": "Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Spain.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T17:03:47.000Z"
+    },
+    {
+      "id": "n_45cd353ca3",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
+      "summary": "Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T16:41:59.000Z"
     },
     {
       "id": "n_34de844dc3",
@@ -310,17 +343,6 @@
       "publishedAt": "2026-07-31T14:26:07.000Z"
     },
     {
-      "id": "n_b77056b3f0",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
-      "summary": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migrants would be returned to Morocco.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T14:20:18.000Z"
-    },
-    {
       "id": "n_daed8babd9",
       "type": "news",
       "topic": "general",
@@ -332,26 +354,15 @@
       "publishedAt": "2026-07-31T10:32:17.000Z"
     },
     {
-      "id": "n_a6d12130c0",
+      "id": "n_27ac7fbdbc",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Anthropic's Claude AI escapes to hack into three organisations",
-      "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+      "headline": "AI firms must answer for rogue bots, says boss of hacked company",
+      "summary": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T10:18:54.000Z"
-    },
-    {
-      "id": "n_63153d3c30",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "AC Milan and Italy great Baresi dies aged 66",
-      "summary": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T09:44:48.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T18:10:28.000Z"
     },
     {
       "id": "n_be8dbde603",
@@ -431,15 +442,59 @@
       "publishedAt": "2026-07-29T11:35:35.000Z"
     },
     {
-      "id": "n_2331edd040",
+      "id": "n_e7488e87ea",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "OpenAI says its rogue AI tried to hack other companies",
-      "summary": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T08:49:27.000Z"
+      "headline": "High school defends staying silent while boys made AI nudes of 59 classmates",
+      "summary": "Gaps in laws may help Pennsylvania high school escape AI nudes scandal.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+      "publishedAt": "2026-07-31T18:11:55.000Z"
+    },
+    {
+      "id": "n_158b30a670",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Researchers devise a full-color night vision goggle",
+      "summary": "Wavelength and intensity in the infrared are translated into colors in the visible.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/",
+      "publishedAt": "2026-07-31T17:58:38.000Z"
+    },
+    {
+      "id": "n_d3ee5ec69e",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "China could supply EV manufacturing boom with recycled EVs",
+      "summary": "Look at chemistry of batteries and motors shows big opportunity for recycling.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/",
+      "publishedAt": "2026-07-31T17:29:21.000Z"
+    },
+    {
+      "id": "n_4896a3d243",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Sony acknowledges backlash, “cautiously” moves ahead with end of PlayStation discs",
+      "summary": "Sony doesn't think the move will hurt it financially.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/",
+      "publishedAt": "2026-07-31T17:07:42.000Z"
+    },
+    {
+      "id": "n_cda3403c42",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Man invested $45M in a Nicolas Cage movie. It got stolen off Netflix’s desk.",
+      "summary": "Filmmaker sues Netflix over stolen screener of unreleased Nicolas Cage movie.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/man-invested-45m-in-a-nicolas-cage-movie-it-got-stolen-off-netflixs-desk/",
+      "publishedAt": "2026-07-31T16:17:55.000Z"
     },
     {
       "id": "n_4a4b1613ef",
@@ -475,59 +530,26 @@
       "publishedAt": "2026-07-31T11:00:52.000Z"
     },
     {
-      "id": "n_973117e2b5",
+      "id": "n_8f9218ebc1",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Rocket Report: New launch rule may limit environmental regulations, Falcon 9 to hit Moon",
-      "summary": "\"America won the first Space Race, and we can do it again.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/07/rocket-report-big-deals-for-us-launch-firms-rfa-one-debut-is-delayed/",
-      "publishedAt": "2026-07-31T10:30:24.000Z"
+      "headline": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though a",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "publishedAt": "2026-07-31T17:26:32.000Z"
     },
     {
-      "id": "n_2796402a60",
+      "id": "n_43fb41d572",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Tim Cook passes the baton in Apple's Q3 2026 earnings call",
-      "summary": "The iPhone and Mac sold well, but memory costs threaten further price increases.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/07/tim-cooks-last-earnings-call-strong-iphone-sales-but-memory-costs-loom-large/",
-      "publishedAt": "2026-07-30T22:05:35.000Z"
-    },
-    {
-      "id": "n_f50ac02052",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
-      "summary": "Exploits can give persistent server access that survives credential rotation and disk re-imaging.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
-      "publishedAt": "2026-07-30T20:57:22.000Z"
-    },
-    {
-      "id": "n_02b5757677",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Trump FCC faces blowback in attempt to police speech on broadcast TV",
-      "summary": "\"Chilling message to all broadcasters: carry speech we don’t like at your peril.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/07/trump-fccs-war-on-abc-slammed-by-both-conservatives-and-liberals/",
-      "publishedAt": "2026-07-30T20:48:47.000Z"
-    },
-    {
-      "id": "n_a1574e2e59",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Iran struck Amazon data centers again amid widening war, satellites show",
-      "summary": "Satellites show burn scars and fires at AWS data centers and Saudi oil refinery.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/07/satellites-spot-new-war-damage-to-amazon-data-centers-and-saudi-oil-site/",
-      "publishedAt": "2026-07-30T20:45:39.000Z"
+      "headline": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+      "publishedAt": "2026-07-31T16:49:08.000Z"
     },
     {
       "id": "n_27e1d6290b",
@@ -563,6 +585,17 @@
       "publishedAt": "2026-07-31T14:47:11.000Z"
     },
     {
+      "id": "n_e9b5c38dc7",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+      "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though a",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+      "publishedAt": "2026-07-31T14:00:00.000Z"
+    },
+    {
       "id": "n_16030aac77",
       "type": "news",
       "topic": "ai",
@@ -585,37 +618,26 @@
       "publishedAt": "2026-07-30T23:25:58.000Z"
     },
     {
-      "id": "n_bada253870",
+      "id": "n_cb8ef2d60e",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Reddit reports a solid quarter but shows signs of AI’s impact",
-      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "publishedAt": "2026-07-30T23:08:58.000Z"
+      "headline": "Here’s the problem with putting an AI image generator in Google Earth",
+      "summary": "Now a text prompt is all it takes to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater near a hospital in Gaza. Googl",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+      "publishedAt": "2026-07-31T17:05:46.000Z"
     },
     {
-      "id": "n_0043e5cf7a",
+      "id": "n_e8b5e8d005",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Investors love AI, as long as you’re a cloud host",
-      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-      "publishedAt": "2026-07-30T22:41:41.000Z"
-    },
-    {
-      "id": "n_a4b674c645",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-      "publishedAt": "2026-07-30T20:26:38.000Z"
+      "headline": "The major labels propose rules to keep AI slop off the charts",
+      "summary": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. The proposal goes quite a bit further than a labeling proposal put forth by the R",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+      "publishedAt": "2026-07-31T16:36:48.000Z"
     },
     {
       "id": "n_ee70bff51f",
@@ -682,28 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
       "publishedAt": "2026-07-30T17:18:45.000Z"
-    },
-    {
-      "id": "n_ec12e93eaf",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
-      "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now, it's twic",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-      "publishedAt": "2026-07-30T16:33:32.000Z"
-    },
-    {
-      "id": "n_0434773f64",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Microsoft confirms Copilot ‘super app’ coming this year",
-      "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is ev",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-      "publishedAt": "2026-07-29T22:17:38.000Z"
     },
     {
       "id": "n_3d6d30af34",
@@ -871,6 +871,17 @@
       "publishedAt": "2026-07-23T12:00:00.000Z"
     },
     {
+      "id": "n_f112272fb3",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Chinese AI Researchers Are Finding Their Voice on X",
+      "summary": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+      "publishedAt": "2026-07-31T18:14:43.000Z"
+    },
+    {
       "id": "n_e79de7b732",
       "type": "news",
       "topic": "ai",
@@ -946,17 +957,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
       "publishedAt": "2026-07-30T16:00:00.000Z"
-    },
-    {
-      "id": "n_c69240deff",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
-      "summary": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
-      "publishedAt": "2026-07-30T15:04:22.000Z"
     },
     {
       "id": "n_f684c3a66a",
