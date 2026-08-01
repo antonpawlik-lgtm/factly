@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-07-31T21:54:58.947Z",
+  "generatedAt": "2026-08-01T05:44:17.277Z",
   "items": [
+    {
+      "id": "n_b957f379ee",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Neue Waldbrände in Griechenland ausgebrochen",
+      "summary": "Griechenland war in diesem Sommer lange vergleichsweise glimpflich davongekommen, doch auch dort gibt es nun mehrere große Waldbrände. Neben der Insel Kreta und der Halbinsel Peloponnes ist auch die Region westlich von Athen betroffen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/walbraende-griechenland-100.html",
+      "publishedAt": "2026-08-01T03:39:23.000Z"
+    },
+    {
+      "id": "n_7ca40a8f14",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Erneut russischer Angriff auf Kiew",
+      "summary": "Russland verstärkt seit einigen Tagen seine Luftangriffe auf die Ukraine. In der Nacht war erneut die Hauptstadt Kiew ein Ziel. Nach Behördenangaben wurden mehrere Menschen getötet.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-russische-angriffe-100.html",
+      "publishedAt": "2026-08-01T03:20:01.000Z"
+    },
+    {
+      "id": "n_2d97754e07",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Kommentar: Marokko setzt die Not seiner Bevölkerung als Druckmittel ein",
+      "summary": "Angesichts der Ereignisse in Ceuta die Reisefreiheit in Europa in Frage zu stellen, ist reiner Populismus, meint Hans-Günter Kellner. Wichtiger wäre, dass sich die EU weniger erpressbar macht. Denn Marokko setzt Migration als Druckmittel ein.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/kommentar/kommentar-ceuta-100.html",
+      "publishedAt": "2026-08-01T01:34:43.000Z"
+    },
+    {
+      "id": "n_f80fed48bf",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "FIFA-Chef Infantino gibt umstrittene Investorenpläne für Fußball-WM auf",
+      "summary": "Mit seinen Plänen, WM-Anteile an Investoren zu verkaufen, hatte FIFA-Chef Infantino Empörung ausgelöst. In der Nacht teilte der Fußball-Weltverband mit, das Vorhaben werde nicht weiterverfolgt. Auch innerhalb der FIFA hatte es Kritik gegeben.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/sport/fifa-investorenplaene-102.html",
+      "publishedAt": "2026-08-01T01:25:13.000Z"
+    },
+    {
+      "id": "n_1e3342951c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Toter bei Unwetter in Sachsen - Gewitter in mehreren Regionen",
+      "summary": "In mehreren Regionen Deutschlands hat es am Abend schwere Unwetter gegeben. In einem Kurort in der Sächsischen Schweiz wurde ein Mann von einem Baum erschlagen. Starke Gewitter gab es auch in Hamburg und Stuttgart.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/unwetter-deutschland-176.html",
+      "publishedAt": "2026-07-31T23:28:37.000Z"
+    },
+    {
+      "id": "n_b51a5a4b67",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Erdbeben der Stärke 4,7 erschüttert Region um Neapel",
+      "summary": "Es war das stärkste Erdbeben in der Region Neapel seit 40 Jahren. Westlich der Großstadt wurden Häuser und Autos beschädigt. Mindestens acht Menschen wurden verletzt. In der Gegend befindet sich der Supervulkan Phlegräische Felder.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/erdbeben-italien-268.html",
+      "publishedAt": "2026-07-31T22:25:42.000Z"
+    },
     {
       "id": "n_c30bdf4a3f",
       "type": "news",
@@ -22,72 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/migration-ceuta-102.html",
       "publishedAt": "2026-07-31T18:36:05.000Z"
-    },
-    {
-      "id": "n_b53f3091a5",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Langzeitstudie zu Frühchen - wie gut holen sie im Leben auf?",
-      "summary": "Britische Forschende haben Langzeitdaten früh geborener Menschen analysiert. Viele der Frühchen führten, so die Ergebnisse, ein gutes Leben. Einige hätten aber Probleme in Beruf, Partnerschaft und Freundschaften. Von Sedir Dabbass.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/gesundheit/fruehgeborene-studie-langzeit-entwicklung-100.html",
-      "publishedAt": "2026-07-31T16:55:18.000Z"
-    },
-    {
-      "id": "n_0571d2984b",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Trump-Plan für Gaza: Skepsis in Israel und bei Palästinensern",
-      "summary": "\"Historisch\" nennt US-Präsident Trump das Abkommen zur Entwaffnung der Hamas - aber was genau darin steht und wie es umgesetzt werden soll, ist unklar. In Israel ist man daher skeptisch - und in Gaza haben die Menschen gar kein Vertrauen mehr. Von Jan-Christoph Kitzler.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/gaza-abkommen-hamas-100.html",
-      "publishedAt": "2026-07-31T16:24:22.000Z"
-    },
-    {
-      "id": "n_bece8f759a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: KI-Hoffnung stützt den DAX",
-      "summary": "Starke Vorgaben aus den USA haben dem deutschen Aktienmarkt am Freitag Rückenwind gegeben. Vor allem Technologiewerte legten zu. Vor dem Wochenende überwog bei vielen Anlegern jedoch die Vorsicht.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-amazon-100.html",
-      "publishedAt": "2026-07-31T16:15:52.000Z"
-    },
-    {
-      "id": "n_19020d7702",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "UN-Generalsekretär Guterres fordert neue Zypern-Gespräche",
-      "summary": "Nikosia auf Zypern ist die letzte geteilte Hauptstadt der Welt. Durch sie verläuft eine UN-Pufferzone, die auch die Insel teilt. UN-Generalsekretär Guterres fordert nun neue Gespräche zwischen den Parteien. Von Benjamin Weber.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/guterres-fordert-neue-un-gespraeche-zypern-100.html",
-      "publishedAt": "2026-07-31T15:54:32.000Z"
-    },
-    {
-      "id": "n_dd393f7625",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wie \"Rave the Planet\" die Loveparade weiterdenkt",
-      "summary": "Frieden, Liebe, Toleranz - und Kommerz: Die Loveparade ist noch immer Teil der deutschen Technokultur, ihr tragisches Ende inklusive. Die Nachfolge-Veranstaltung will vieles anders machen - mit Erfolg? Von Emma Velasco Willems.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kultur/loveparade-revival-rave-the-planet-100.html",
-      "publishedAt": "2026-07-31T15:41:03.000Z"
-    },
-    {
-      "id": "n_4f20669927",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Dobrindt will Grenzkontrollen in Deutschland verlängern",
-      "summary": "Angesichts zehntausender Flüchtlinge in Ceuta hält Innenminister Dobrindt an den Grenzkontrollen fest - auch wenn sie in der EU umstritten sind. Die Linke dagegen fordert, den Menschen in der spanischen Exklave jetzt schnell zu helfen und sie aufzunehmen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/dobrindt-grenzkontrollen-116.html",
-      "publishedAt": "2026-07-31T15:31:11.000Z"
     },
     {
       "id": "n_54cd87934e",
@@ -178,6 +178,17 @@
       "publishedAt": "2026-07-30T15:10:00.000Z"
     },
     {
+      "id": "n_9bf5350f52",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Was passiert nach dem Crash?: Wenn die KI-Blase platzt, bleibt die Technik",
+      "summary": "Was bleibt vom KI-Boom, wenn überzogene Versprechen, Bewertungen und Geschäftsmodelle verschwinden? Ihr habt uns eure Meinung gesagt. (KI, Börse)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/was-passiert-nach-dem-crash-wenn-die-ki-blase-platzt-bleibt-die-technik-2608-211466.html",
+      "publishedAt": "2026-08-01T05:30:01.000Z"
+    },
+    {
       "id": "n_7d9c4f6c0c",
       "type": "news",
       "topic": "tech",
@@ -255,15 +266,59 @@
       "publishedAt": "2026-07-31T15:00:02.000Z"
     },
     {
-      "id": "n_76001555d1",
+      "id": "n_119215f2d9",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Onlinehandel: EU wirft Temu Behinderungen bei den Ermittlungen vor",
-      "summary": "Die Wettbewerbshüter der EU prüfen einen Einfluss durch ausländisches Geld bei Temu. In Irland soll es dabei Probleme gegeben haben. (Temu, Politik)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/onlinehandel-eu-wirft-temu-behinderungen-bei-den-ermittlungen-vor-2607-211501.html",
-      "publishedAt": "2026-07-31T14:57:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Fifa scraps controversial World Cup investment plan",
+      "summary": "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T05:42:31.000Z"
+    },
+    {
+      "id": "n_937d3ed96e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T05:01:56.000Z"
+    },
+    {
+      "id": "n_c74abc6135",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: Why Fifa dropped plans to sell stakes in the World Cup",
+      "summary": "The BBC's Shaimaa Khalil explains why Gianni Infantino has backed down on his controversial investment proposal.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cvgj0vldr1mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T02:44:09.000Z"
+    },
+    {
+      "id": "n_daed8babd9",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
+      "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T02:21:29.000Z"
+    },
+    {
+      "id": "n_1eb4d70ba6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "What we know about the Pakistan avalanche and missing climbers",
+      "summary": "Three bodies have been recovered so far, with the search continuing for the remaining seven.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c8rny08xnpyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T23:20:35.000Z"
     },
     {
       "id": "n_45cd353ca3",
@@ -299,59 +354,26 @@
       "publishedAt": "2026-07-31T17:03:47.000Z"
     },
     {
-      "id": "n_34de844dc3",
+      "id": "n_9ef32dfc5e",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "What's in the Gaza peace deal roadmap?",
-      "summary": "Hamas says it has accepted a disarmament plan for Gaza which will see it lay down its arms and Israeli troops withdraw from the territory.",
+      "headline": "Tech Now",
+      "summary": "New technologies measuring forests and exclusive access to a hacker rehab programme.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T16:00:56.000Z"
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002zxt1?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T00:00:00.000Z"
     },
     {
-      "id": "n_d2ac6391d5",
+      "id": "n_c6dd489013",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
-      "summary": "Spain's North African territory of Ceuta from Morocco, though more than 25,000 have returned voluntarily, officials said.",
+      "headline": "Snapchat joins other popular platforms in fight against 'AI slop'",
+      "summary": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T15:48:34.000Z"
-    },
-    {
-      "id": "n_ec62d29105",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-      "summary": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T15:18:31.000Z"
-    },
-    {
-      "id": "n_740cdc0903",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
-      "summary": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T14:26:07.000Z"
-    },
-    {
-      "id": "n_daed8babd9",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
-      "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T10:32:17.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T21:57:59.000Z"
     },
     {
       "id": "n_27ac7fbdbc",
@@ -420,33 +442,55 @@
       "publishedAt": "2026-07-30T07:23:11.000Z"
     },
     {
-      "id": "n_bf632bb65c",
+      "id": "n_7c5842c642",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Meta shares fall as frustration grows over AI spending plans",
-      "summary": "CEO Mark Zuckerberg said the firm intends to sell its AI tools to other companies for the first time.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T22:44:18.000Z"
+      "headline": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
+      "summary": "Some group with no modern descendants contributed a lot to our genomes.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
+      "publishedAt": "2026-07-31T22:17:05.000Z"
     },
     {
-      "id": "n_84de41e36e",
+      "id": "n_c30717c14d",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Data centres could pay hundreds of millions in deposits for power demands",
-      "summary": "The regulator said a fee of between £237,500 to £712,500 per megawatt should be charged for upcoming projects.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-29T11:35:35.000Z"
+      "headline": "Doctors took a look at man's painful shoulder—they found the joint was missing",
+      "summary": "The term \"Milwaukee Shoulder Syndrome\" was coined in 1981, based on cases in four women.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
+      "publishedAt": "2026-07-31T21:51:52.000Z"
+    },
+    {
+      "id": "n_4e0eceb3e0",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Google plans to exempt sanctioned nations from Android developer verification",
+      "summary": "Someone in Cuba or Iran can keep installing APKs with no new restrictions, but devs will suffer.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
+      "publishedAt": "2026-07-31T21:35:56.000Z"
+    },
+    {
+      "id": "n_ea66f092f7",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Reddit keeps its strange DMCA fight over Google search results alive",
+      "summary": "Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
+      "publishedAt": "2026-07-31T21:19:39.000Z"
     },
     {
       "id": "n_2db26e244b",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
+      "headline": "Claude published malicious code to the Internet and attacked 3 real companies",
       "summary": "Had the hacks used conventional methods, someone would likely go to prison.",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
@@ -486,48 +530,15 @@
       "publishedAt": "2026-07-31T18:11:55.000Z"
     },
     {
-      "id": "n_158b30a670",
+      "id": "n_ec77bd47db",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Researchers devise a full-color night vision goggle",
-      "summary": "Wavelength and intensity in the infrared are translated into colors in the visible.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/",
-      "publishedAt": "2026-07-31T17:58:38.000Z"
-    },
-    {
-      "id": "n_d3ee5ec69e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "China could supply EV manufacturing boom with recycled EVs",
-      "summary": "Look at chemistry of batteries and motors shows big opportunity for recycling.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/",
-      "publishedAt": "2026-07-31T17:29:21.000Z"
-    },
-    {
-      "id": "n_4896a3d243",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Sony acknowledges backlash, “cautiously” moves ahead with end of PlayStation discs",
-      "summary": "Sony doesn't think the move will hurt it financially.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/",
-      "publishedAt": "2026-07-31T17:07:42.000Z"
-    },
-    {
-      "id": "n_cda3403c42",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Man invested $45M in a Nicolas Cage movie. It got stolen off Netflix’s desk.",
-      "summary": "Filmmaker sues Netflix over stolen screener of unreleased Nicolas Cage movie.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/07/man-invested-45m-in-a-nicolas-cage-movie-it-got-stolen-off-netflixs-desk/",
-      "publishedAt": "2026-07-31T16:17:55.000Z"
+      "headline": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "publishedAt": "2026-07-31T22:47:26.000Z"
     },
     {
       "id": "n_9d803b4958",
@@ -605,17 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
       "publishedAt": "2026-07-31T14:47:11.000Z"
-    },
-    {
-      "id": "n_e9b5c38dc7",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-      "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though a",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-      "publishedAt": "2026-07-31T14:00:00.000Z"
     },
     {
       "id": "n_abe78d6275",
@@ -1045,186 +1045,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
       "publishedAt": "2026-07-16T11:49:48.000Z"
-    },
-    {
-      "id": "n_a8e1e70bfc",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Kimi K3 Just Broke The Economics Of AI",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
-      "thumbnail": "https://i.ytimg.com/vi/Xj-QdEUxJkE/hqdefault.jpg",
-      "publishedAt": "2026-07-29T12:37:50.000Z"
-    },
-    {
-      "id": "n_9363752886",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude Just Revealed AI's Biggest Problem",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
-      "thumbnail": "https://i.ytimg.com/vi/axOcn--n_lM/hqdefault.jpg",
-      "publishedAt": "2026-07-16T15:39:17.000Z"
-    },
-    {
-      "id": "n_b87b50ece3",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Anthropic Found Something That Shouldn't Exist",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
-      "thumbnail": "https://i.ytimg.com/vi/0CqLVnx-2UM/hqdefault.jpg",
-      "publishedAt": "2026-07-15T13:58:27.000Z"
-    },
-    {
-      "id": "n_d86677f440",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Minecraft Was Missing One Brilliant Idea",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
-      "thumbnail": "https://i.ytimg.com/vi/Ae9q7KsRbuI/hqdefault.jpg",
-      "publishedAt": "2026-07-12T15:48:43.000Z"
-    },
-    {
-      "id": "n_49a7d5405f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
-      "publishedAt": "2026-07-28T20:02:11.000Z"
-    },
-    {
-      "id": "n_39feb22ff6",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
-      "thumbnail": "https://i.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
-      "publishedAt": "2026-06-30T21:16:13.000Z"
-    },
-    {
-      "id": "n_6a7b36e7cd",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
-      "thumbnail": "https://i.ytimg.com/vi/1M3Vdl6DRkU/hqdefault.jpg",
-      "publishedAt": "2026-05-29T16:18:31.000Z"
-    },
-    {
-      "id": "n_c402ebf7aa",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
-      "thumbnail": "https://i.ytimg.com/vi/nepKKz-MzFM/hqdefault.jpg",
-      "publishedAt": "2026-05-06T22:03:16.000Z"
-    },
-    {
-      "id": "n_b67d3be64b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did Anthropic just kill the indie hacker...?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=jxGJT1weu4w",
-      "thumbnail": "https://i.ytimg.com/vi/jxGJT1weu4w/hqdefault.jpg",
-      "publishedAt": "2026-07-29T16:33:51.000Z"
-    },
-    {
-      "id": "n_c930172539",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The most interesting \"hack\" in history...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=KOpTWx1Eou4",
-      "thumbnail": "https://i.ytimg.com/vi/KOpTWx1Eou4/hqdefault.jpg",
-      "publishedAt": "2026-07-23T16:53:37.000Z"
-    },
-    {
-      "id": "n_c30c73dbe7",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Open-weight AI just hit 2.8 trillion parameters…",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=YP73B9D20V4",
-      "thumbnail": "https://i.ytimg.com/vi/YP73B9D20V4/hqdefault.jpg",
-      "publishedAt": "2026-07-22T17:43:52.000Z"
-    },
-    {
-      "id": "n_10ab80aff4",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "This $12 billion startup finally shipped something...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=M51asSwRLxA",
-      "thumbnail": "https://i.ytimg.com/vi/M51asSwRLxA/hqdefault.jpg",
-      "publishedAt": "2026-07-20T17:02:30.000Z"
-    },
-    {
-      "id": "n_bf51349fdf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Framework 13 Pro: The Modular Laptop is Real!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
-      "thumbnail": "https://i.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg",
-      "publishedAt": "2026-07-27T15:38:21.000Z"
-    },
-    {
-      "id": "n_64ebc2a7bf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
-      "thumbnail": "https://i.ytimg.com/vi/8Hx2yvWSgs0/hqdefault.jpg",
-      "publishedAt": "2026-07-22T13:01:05.000Z"
-    },
-    {
-      "id": "n_6742ca94db",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "iOS 27 Hands-On: Top 5 New Features!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=_oRgdlJUD18",
-      "thumbnail": "https://i.ytimg.com/vi/_oRgdlJUD18/hqdefault.jpg",
-      "publishedAt": "2026-07-13T22:27:02.000Z"
     }
   ]
 }
