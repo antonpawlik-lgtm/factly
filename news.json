@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-08-01T15:50:01.079Z",
+  "generatedAt": "2026-08-01T21:42:05.330Z",
   "items": [
+    {
+      "id": "n_1cc9f8c8c5",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Extrembergsteiger Nirmal Purja stirbt am Broad Peak",
+      "summary": "Nirmal Purja bestieg 2019 alle Achttausender innerhalb von sechs Monaten. Durch eine Netflix-Dokumentation wurde er international bekannt. Nun starb er bei einem Lawinenunglück in Pakistan. Auch wurde der Tod weiterer Bergsteiger bestätigt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/nepal-bergsteiger-100.html",
+      "publishedAt": "2026-08-01T16:57:14.000Z"
+    },
+    {
+      "id": "n_495859a487",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Deutliche EU-Kritik an Spanien - EU-Innenminister beraten über Ceuta-Krise",
+      "summary": "Der Ansturm auf Ceuta hat auf europäischer Ebene ein Nachspiel: Am Dienstag soll eine Dringlichkeitssitzung der EU-Innenminister stattfinden. Zuvor hatten 22 Mitgliedsstaaten ein koordiniertes Vorgehen gefordert - und Spanien kritisiert.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ceuta-migration-spanien-104.html",
+      "publishedAt": "2026-08-01T16:17:44.000Z"
+    },
     {
       "id": "n_5292242dbc",
       "type": "news",
@@ -46,17 +68,6 @@
       "publishedAt": "2026-08-01T14:44:45.000Z"
     },
     {
-      "id": "n_1cc9f8c8c5",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Extrembergsteiger Nirmal Purja stirbt am Broad Peak",
-      "summary": "Nirmal Purja bestieg 2019 alle Achttausender innerhalb von sechs Monaten. Durch eine Netflix-Dokumentation wurde er international bekannt. Nun starb er bei einem Lawinenunglück in Pakistan.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/nepal-bergsteiger-100.html",
-      "publishedAt": "2026-08-01T14:26:46.000Z"
-    },
-    {
       "id": "n_f8cfc08206",
       "type": "news",
       "topic": "general",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/serbien-festival-novi-sad-100.html",
       "publishedAt": "2026-08-01T13:22:07.000Z"
-    },
-    {
-      "id": "n_5aeaa3af6a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Tricks gegen Hitze in der Stadt: Von A nach B - möglichst im Schatten",
-      "summary": "Deutschland ist mittendrin in der Hitzewelle - an die 40 Grad Celsius kann das Thermometer jetzt anzeigen. Für Menschen in der Stadt wird das besonders zur Belastung. Aber es gibt ein paar Tricks. Von Rebecca Reinhard.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/klima/hitze-schatten-staedtebau-versiegelung-klimawandel-100.html",
-      "publishedAt": "2026-08-01T12:45:42.000Z"
     },
     {
       "id": "n_54cd87934e",
@@ -266,92 +266,92 @@
       "publishedAt": "2026-08-01T08:40:02.000Z"
     },
     {
-      "id": "n_e1980fe091",
+      "id": "n_de5af23a6b",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-      "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+      "headline": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T15:46:08.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T21:13:17.000Z"
     },
     {
-      "id": "n_2402b417b7",
+      "id": "n_947baee6e2",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+      "headline": "Tourist plane crashes in Peru, killing 13",
+      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T15:25:30.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T20:51:09.000Z"
     },
     {
-      "id": "n_c3d9348123",
+      "id": "n_8dcf962fed",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
-      "summary": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
+      "headline": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+      "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T15:00:07.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T20:09:27.000Z"
     },
     {
-      "id": "n_1ff5373d60",
+      "id": "n_6d89d23b7a",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+      "headline": "Crowds line Amsterdam's canals for Pride boat parade",
+      "summary": "Costumed participants danced and waved from a colourful flotilla of 80 decorated vessels as they made their way through the city's waterways.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T13:35:39.000Z"
+      "url": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T19:39:48.000Z"
     },
     {
-      "id": "n_d2ac6391d5",
+      "id": "n_604cac9ea1",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Watch: Tens of thousands of migrants enter Spain's Ceuta from Morocco",
-      "summary": "Most migrants who reached Spain's North African territory of Ceuta from Morocco have returned, officials said.",
+      "headline": "Italy putting nearly all major cities on highest heat alert",
+      "summary": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T12:04:46.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T17:51:46.000Z"
     },
     {
-      "id": "n_732c7c0f5b",
+      "id": "n_1e9b02f326",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Infantino on the brink? Who might replace him if he goes?",
-      "summary": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
+      "headline": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+      "summary": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T10:02:43.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T17:16:51.000Z"
     },
     {
       "id": "n_ced530318b",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
-      "summary": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago.",
+      "headline": "Call for 'full review' as pressure grows on Infantino",
+      "summary": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T09:51:05.000Z"
+      "publishedAt": "2026-08-01T17:07:46.000Z"
     },
     {
-      "id": "n_937d3ed96e",
+      "id": "n_bddd599ff9",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-      "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+      "headline": "Current Ebola outbreak worst ever in DR Congo, WHO says",
+      "summary": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T05:01:56.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T16:16:16.000Z"
     },
     {
       "id": "n_9ef32dfc5e",
@@ -442,6 +442,28 @@
       "publishedAt": "2026-07-30T07:23:11.000Z"
     },
     {
+      "id": "n_3e26c8def1",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+      "summary": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+      "publishedAt": "2026-08-01T18:20:11.000Z"
+    },
+    {
+      "id": "n_9b00352cfa",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Review: Yes, we're still arguing about Nolan's The Odyssey",
+      "summary": "Christopher Nolan's impressionistic remix of Homer's epic poem finds the man behind the myth.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
+      "publishedAt": "2026-08-01T15:19:04.000Z"
+    },
+    {
       "id": "n_9a9a3a92c7",
       "type": "news",
       "topic": "tech",
@@ -508,26 +530,48 @@
       "publishedAt": "2026-07-31T21:51:52.000Z"
     },
     {
-      "id": "n_4e0eceb3e0",
+      "id": "n_e1bf53682c",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Google plans to exempt sanctioned nations from Android developer verification",
-      "summary": "Someone in Cuba or Iran can keep installing APKs with no new restrictions, but devs will suffer.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
-      "publishedAt": "2026-07-31T21:35:56.000Z"
+      "headline": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "publishedAt": "2026-08-01T20:26:04.000Z"
     },
     {
-      "id": "n_ea66f092f7",
+      "id": "n_271ca55a8a",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Reddit keeps its strange DMCA fight over Google search results alive",
-      "summary": "Reddit advances lawsuit accusing Perplexity AI of conspiring with web scraper.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
-      "publishedAt": "2026-07-31T21:19:39.000Z"
+      "headline": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "publishedAt": "2026-08-01T19:45:45.000Z"
+    },
+    {
+      "id": "n_53ed436cb4",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Sam Altman is still making the case for parenting via ChatGPT",
+      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "publishedAt": "2026-08-01T17:07:34.000Z"
+    },
+    {
+      "id": "n_e529c7879a",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "This $9 key physically locks your most addictive apps",
+      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+      "publishedAt": "2026-08-01T15:58:17.000Z"
     },
     {
       "id": "n_ec77bd47db",
@@ -574,48 +618,15 @@
       "publishedAt": "2026-07-31T17:26:32.000Z"
     },
     {
-      "id": "n_43fb41d572",
+      "id": "n_4a8975413a",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Snapchat no longer rewards fully AI-generated Spotlight content",
-      "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-      "publishedAt": "2026-07-31T16:49:08.000Z"
-    },
-    {
-      "id": "n_27e1d6290b",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Siri AI could come with a paywall for power users",
-      "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-      "publishedAt": "2026-07-31T16:08:18.000Z"
-    },
-    {
-      "id": "n_2508e3dc7a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-      "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-      "publishedAt": "2026-07-31T15:16:17.000Z"
-    },
-    {
-      "id": "n_d240f02eb7",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-      "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-      "publishedAt": "2026-07-31T14:47:11.000Z"
+      "headline": "Is this Billboard Hot 100 hit AI slop?",
+      "summary": "That cover art is almost certainly AI, too. | Image: Fenix Flexin Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+      "publishedAt": "2026-08-01T18:20:00.000Z"
     },
     {
       "id": "n_abe78d6275",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
       "publishedAt": "2026-07-30T20:46:25.000Z"
-    },
-    {
-      "id": "n_b5180026e6",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "LinkedIn actually adds a ‘seems like AI slop’ button",
-      "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
-      "publishedAt": "2026-07-30T18:43:26.000Z"
     },
     {
       "id": "n_3d6d30af34",
