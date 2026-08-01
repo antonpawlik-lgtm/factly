@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-08-01T05:44:17.277Z",
+  "generatedAt": "2026-08-01T07:58:46.995Z",
   "items": [
+    {
+      "id": "n_7ca40a8f14",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Mindestens neun Tote und viele Verletzte bei russischem Angriff auf Kiew",
+      "summary": "Russland verstärkt seit einigen Tagen seine Luftangriffe auf die Ukraine. In der Nacht war erneut die Hauptstadt Kiew ein Ziel. Nach Behördenangaben wurden mindestens neun Menschen getötet.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-russische-angriffe-100.html",
+      "publishedAt": "2026-08-01T06:50:54.000Z"
+    },
+    {
+      "id": "n_06c35e1d85",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach Ansturm auf Ceuta: Migranten kehren zurück, Europa diskutiert",
+      "summary": "Die meisten der in die Exklave Ceuta eingedrungenen Migranten sind offenbar bereits zurückgekehrt. Doch auf EU-Ebene haben die Bilder große Sorgen ausgelöst - und eine neue Debatte über Grenzschutz.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ceuta-migration-spanien-100.html",
+      "publishedAt": "2026-08-01T06:30:49.000Z"
+    },
+    {
+      "id": "n_261ef7dfda",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Kusama-Ausstellung in Köln knackt Besucherrekord",
+      "summary": "Yayoi Kusama fasziniert weltweit: Ihre Punkte und Infinity Rooms bescheren dem Museum Ludwig in Köln einen Besucherrekord. Was den Hype ausmacht - und wie es weitergeht. Von Emma Velasco Willems",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/kultur/yayoi-kusama-museum-ludwig-100.html",
+      "publishedAt": "2026-08-01T06:08:21.000Z"
+    },
+    {
+      "id": "n_0006c81700",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Russlands Signale im Ärmelkanal",
+      "summary": "Schiffe der russischen Marine durchfahren regelmäßig den Ärmelkanal. Zuletzt fielen Schüsse auf eine Jacht. Auch hält die russische Marine dort Schießübungen ab. Ein Fingerzeig an die britische Regierung? Von C. Prössl.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-russland-schattenflotte-100.html",
+      "publishedAt": "2026-08-01T06:05:00.000Z"
+    },
+    {
+      "id": "n_9a942ddbcd",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Hitze stellt Landwirte beim Salatanbau vor neue Herausforderungen",
+      "summary": "Mit zunehmender Trockenheit im Sommer müssen Landwirte seit Jahren zurechtkommen. Extreme Hitzewellen aber bringen vor allem im Salatanbau neue Herausforderungen. Von A. Schuster und C. Schulze.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/salatanbau-hitze-100.html",
+      "publishedAt": "2026-08-01T05:54:42.000Z"
+    },
+    {
+      "id": "n_81dc475c69",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Kampf gegen Dengue in Brasilien: 190 Millionen Mücken pro Woche",
+      "summary": "Brasilien sagt der Gelbfiebermücke den Kampf an. Denn sie überträgt Dengue, eines der größten Gesundheitsprobleme des Landes. Helfen soll die Zucht von Mücken, die ein ganz bestimmtes Bakterium in sich tragen. Von Oliver Neuroth.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/mueckenfabrik-brasilien-100.html",
+      "publishedAt": "2026-08-01T05:52:40.000Z"
+    },
+    {
+      "id": "n_cb59b62e4d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ab August greift Rechtsanspruch auf Ganztagsbetreuung",
+      "summary": "Acht Stunden Bildung und Betreuung am Tag: Ab August greift stufenweise der Rechtsanspruch auf eine Ganztagsbetreuung für Grundschulkinder. Was Eltern jetzt wissen müssen. Von Chris Berdrow.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/ganztagsbetreuung-grundschule-start-100.html",
+      "publishedAt": "2026-08-01T05:51:23.000Z"
+    },
     {
       "id": "n_b957f379ee",
       "type": "news",
@@ -11,83 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/walbraende-griechenland-100.html",
       "publishedAt": "2026-08-01T03:39:23.000Z"
-    },
-    {
-      "id": "n_7ca40a8f14",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Erneut russischer Angriff auf Kiew",
-      "summary": "Russland verstärkt seit einigen Tagen seine Luftangriffe auf die Ukraine. In der Nacht war erneut die Hauptstadt Kiew ein Ziel. Nach Behördenangaben wurden mehrere Menschen getötet.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-kiew-russische-angriffe-100.html",
-      "publishedAt": "2026-08-01T03:20:01.000Z"
-    },
-    {
-      "id": "n_2d97754e07",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Kommentar: Marokko setzt die Not seiner Bevölkerung als Druckmittel ein",
-      "summary": "Angesichts der Ereignisse in Ceuta die Reisefreiheit in Europa in Frage zu stellen, ist reiner Populismus, meint Hans-Günter Kellner. Wichtiger wäre, dass sich die EU weniger erpressbar macht. Denn Marokko setzt Migration als Druckmittel ein.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kommentar/kommentar-ceuta-100.html",
-      "publishedAt": "2026-08-01T01:34:43.000Z"
-    },
-    {
-      "id": "n_f80fed48bf",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "FIFA-Chef Infantino gibt umstrittene Investorenpläne für Fußball-WM auf",
-      "summary": "Mit seinen Plänen, WM-Anteile an Investoren zu verkaufen, hatte FIFA-Chef Infantino Empörung ausgelöst. In der Nacht teilte der Fußball-Weltverband mit, das Vorhaben werde nicht weiterverfolgt. Auch innerhalb der FIFA hatte es Kritik gegeben.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/sport/fifa-investorenplaene-102.html",
-      "publishedAt": "2026-08-01T01:25:13.000Z"
-    },
-    {
-      "id": "n_1e3342951c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Toter bei Unwetter in Sachsen - Gewitter in mehreren Regionen",
-      "summary": "In mehreren Regionen Deutschlands hat es am Abend schwere Unwetter gegeben. In einem Kurort in der Sächsischen Schweiz wurde ein Mann von einem Baum erschlagen. Starke Gewitter gab es auch in Hamburg und Stuttgart.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/unwetter-deutschland-176.html",
-      "publishedAt": "2026-07-31T23:28:37.000Z"
-    },
-    {
-      "id": "n_b51a5a4b67",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Erdbeben der Stärke 4,7 erschüttert Region um Neapel",
-      "summary": "Es war das stärkste Erdbeben in der Region Neapel seit 40 Jahren. Westlich der Großstadt wurden Häuser und Autos beschädigt. Mindestens acht Menschen wurden verletzt. In der Gegend befindet sich der Supervulkan Phlegräische Felder.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/erdbeben-italien-268.html",
-      "publishedAt": "2026-07-31T22:25:42.000Z"
-    },
-    {
-      "id": "n_c30bdf4a3f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Migranten in Ceuta: Italien setzt Schengen-Abkommen mit Spanien aus",
-      "summary": "Als Reaktion auf den Ansturm von Migranten in der spanischen Exklave Ceuta hat Italien das Schengen-Abkommen mit Spanien ausgesetzt. Auch Frankreich will seine Grenzkontrollen verschärfen. Die EU bot Spanien unterdessen Hilfe an.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ceuta-eu-reaktionen-102.html",
-      "publishedAt": "2026-07-31T18:40:48.000Z"
-    },
-    {
-      "id": "n_d47038e9c5",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Viele Migranten verlassen die spanische Exklave Ceuta wieder",
-      "summary": "Zehntausende Menschen haben den Behörden zufolge die Grenze zwischen Marokko und der spanischen Exklave Ceuta überquert. Dabei kamen mindestens 57 Menschen ums Leben. Inzwischen haben viele Migranten die Stadt wieder verlassen. Von Anna Mundt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/migration-ceuta-102.html",
-      "publishedAt": "2026-07-31T18:36:05.000Z"
     },
     {
       "id": "n_54cd87934e",
@@ -266,6 +266,28 @@
       "publishedAt": "2026-07-31T15:00:02.000Z"
     },
     {
+      "id": "n_45cd353ca3",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
+      "summary": "Poor weather has been hampering the search for seven still missing after Thursday's avalanche on Broad Peak.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T07:22:30.000Z"
+    },
+    {
+      "id": "n_1ff5373d60",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T07:21:46.000Z"
+    },
+    {
       "id": "n_119215f2d9",
       "type": "news",
       "topic": "general",
@@ -310,48 +332,26 @@
       "publishedAt": "2026-08-01T02:21:29.000Z"
     },
     {
-      "id": "n_1eb4d70ba6",
+      "id": "n_1e9b02f326",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "What we know about the Pakistan avalanche and missing climbers",
-      "summary": "Three bodies have been recovered so far, with the search continuing for the remaining seven.",
+      "headline": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+      "summary": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c8rny08xnpyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T23:20:35.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T00:20:43.000Z"
     },
     {
-      "id": "n_45cd353ca3",
+      "id": "n_732c7c0f5b",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Body of US climber the latest recovered after Pakistan avalanche",
-      "summary": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
+      "headline": "Infantino on the brink? Who might replace him if he goes?",
+      "summary": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T20:22:46.000Z"
-    },
-    {
-      "id": "n_51a6960b8a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "What triggered the mass migrant crossings into Ceuta?",
-      "summary": "An estimated 60,000 migrants from Morocco have crossed into Ceuta, with dozens dying during the journey.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c171nnql1j4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T18:29:04.000Z"
-    },
-    {
-      "id": "n_b77056b3f0",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-      "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T17:03:47.000Z"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T00:04:26.000Z"
     },
     {
       "id": "n_9ef32dfc5e",
@@ -1045,6 +1045,186 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
       "publishedAt": "2026-07-16T11:49:48.000Z"
+    },
+    {
+      "id": "n_a8e1e70bfc",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Kimi K3 Just Broke The Economics Of AI",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
+      "thumbnail": "https://i.ytimg.com/vi/Xj-QdEUxJkE/hqdefault.jpg",
+      "publishedAt": "2026-07-29T12:37:50.000Z"
+    },
+    {
+      "id": "n_9363752886",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Claude Just Revealed AI's Biggest Problem",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
+      "thumbnail": "https://i.ytimg.com/vi/axOcn--n_lM/hqdefault.jpg",
+      "publishedAt": "2026-07-16T15:39:17.000Z"
+    },
+    {
+      "id": "n_b87b50ece3",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Anthropic Found Something That Shouldn't Exist",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
+      "thumbnail": "https://i.ytimg.com/vi/0CqLVnx-2UM/hqdefault.jpg",
+      "publishedAt": "2026-07-15T13:58:27.000Z"
+    },
+    {
+      "id": "n_d86677f440",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Minecraft Was Missing One Brilliant Idea",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
+      "thumbnail": "https://i.ytimg.com/vi/Ae9q7KsRbuI/hqdefault.jpg",
+      "publishedAt": "2026-07-12T15:48:43.000Z"
+    },
+    {
+      "id": "n_49a7d5405f",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
+      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
+      "publishedAt": "2026-07-28T20:02:11.000Z"
+    },
+    {
+      "id": "n_39feb22ff6",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
+      "thumbnail": "https://i.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
+      "publishedAt": "2026-06-30T21:16:13.000Z"
+    },
+    {
+      "id": "n_6a7b36e7cd",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
+      "thumbnail": "https://i.ytimg.com/vi/1M3Vdl6DRkU/hqdefault.jpg",
+      "publishedAt": "2026-05-29T16:18:31.000Z"
+    },
+    {
+      "id": "n_c402ebf7aa",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
+      "thumbnail": "https://i.ytimg.com/vi/nepKKz-MzFM/hqdefault.jpg",
+      "publishedAt": "2026-05-06T22:03:16.000Z"
+    },
+    {
+      "id": "n_b67d3be64b",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Did Anthropic just kill the indie hacker...?",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=jxGJT1weu4w",
+      "thumbnail": "https://i.ytimg.com/vi/jxGJT1weu4w/hqdefault.jpg",
+      "publishedAt": "2026-07-29T16:33:51.000Z"
+    },
+    {
+      "id": "n_c930172539",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The most interesting \"hack\" in history...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=KOpTWx1Eou4",
+      "thumbnail": "https://i.ytimg.com/vi/KOpTWx1Eou4/hqdefault.jpg",
+      "publishedAt": "2026-07-23T16:53:37.000Z"
+    },
+    {
+      "id": "n_c30c73dbe7",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Open-weight AI just hit 2.8 trillion parameters…",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=YP73B9D20V4",
+      "thumbnail": "https://i.ytimg.com/vi/YP73B9D20V4/hqdefault.jpg",
+      "publishedAt": "2026-07-22T17:43:52.000Z"
+    },
+    {
+      "id": "n_10ab80aff4",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "This $12 billion startup finally shipped something...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=M51asSwRLxA",
+      "thumbnail": "https://i.ytimg.com/vi/M51asSwRLxA/hqdefault.jpg",
+      "publishedAt": "2026-07-20T17:02:30.000Z"
+    },
+    {
+      "id": "n_5f31592cac",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Galaxy Z Fold 8 Review: Honeymoon's Over",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=Z6z_feacXW8",
+      "thumbnail": "https://i.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg",
+      "publishedAt": "2026-08-01T00:05:00.000Z"
+    },
+    {
+      "id": "n_bf51349fdf",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Framework 13 Pro: The Modular Laptop is Real!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
+      "thumbnail": "https://i.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg",
+      "publishedAt": "2026-07-27T15:38:21.000Z"
+    },
+    {
+      "id": "n_64ebc2a7bf",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
+      "thumbnail": "https://i.ytimg.com/vi/8Hx2yvWSgs0/hqdefault.jpg",
+      "publishedAt": "2026-07-22T13:01:05.000Z"
     }
   ]
 }
