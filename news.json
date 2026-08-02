@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-02T18:50:22.777Z",
+  "generatedAt": "2026-08-02T21:42:25.689Z",
   "items": [
+    {
+      "id": "n_020104f9a5",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Mahnwache für die Opfer des CSD-Anschlags in Berlin",
+      "summary": "Etwa eine Woche ist der Terroranschlag auf den Christopher Street Day in Berlin her. Die Wut und Trauer ist groß. Die queere Community hat der Opfer der Tat gedacht. Auch vor dem Roten Rathaus versammelten sich Menschen im Gedenken.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/mahnwache-csd-anschlag-100.html",
+      "publishedAt": "2026-08-02T19:05:01.000Z"
+    },
     {
       "id": "n_d1f26e46d1",
       "type": "news",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-soeder-112.html",
       "publishedAt": "2026-08-02T16:43:51.000Z"
-    },
-    {
-      "id": "n_54258fd93f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Feuer bei Athen: Waldbrände in Griechenland weiten sich aus",
-      "summary": "Die Brände westlich von Athen haben sich ausgeweitet. Rund 500 Feuerwehrleute sowie freiwillige Helfer sind im Einsatz. Bei Löscharbeiten kollidierten zwei Hubschrauber - zwei der Piloten kamen beim darauffolgenden Absturz ums Leben.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-156.html",
-      "publishedAt": "2026-08-02T16:42:50.000Z"
     },
     {
       "id": "n_54cd87934e",
@@ -270,11 +270,11 @@
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
+      "headline": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
       "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T18:04:44.000Z"
+      "publishedAt": "2026-08-02T20:36:37.000Z"
     },
     {
       "id": "n_e6787591c2",
@@ -530,6 +530,17 @@
       "publishedAt": "2026-07-31T21:51:52.000Z"
     },
     {
+      "id": "n_8f42055e53",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Sam Altman and AI’s decel debate",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "publishedAt": "2026-08-02T20:54:22.000Z"
+    },
+    {
       "id": "n_e1bf53682c",
       "type": "news",
       "topic": "ai",
@@ -607,15 +618,15 @@
       "publishedAt": "2026-07-31T19:47:28.000Z"
     },
     {
-      "id": "n_8f9218ebc1",
+      "id": "n_59a8551896",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though a",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-      "publishedAt": "2026-07-31T17:26:32.000Z"
+      "headline": "Fender’s CEO seems to think your bandmates are just analog AI",
+      "summary": "Edward “Bud” Cole speaks in Japan in 2023. | Image: Jun Sato/WireImage Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the r",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+      "publishedAt": "2026-08-02T19:36:08.000Z"
     },
     {
       "id": "n_92beec8f13",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
       "publishedAt": "2026-07-31T13:41:17.000Z"
-    },
-    {
-      "id": "n_ee384203db",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Tim Cook hints at iCloud Plus tier for AI power users",
-      "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
-      "publishedAt": "2026-07-30T22:29:45.000Z"
     },
     {
       "id": "n_3d6d30af34",
