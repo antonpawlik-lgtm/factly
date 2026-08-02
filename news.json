@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-02T08:00:34.902Z",
+  "generatedAt": "2026-08-02T10:23:20.588Z",
   "items": [
+    {
+      "id": "n_a4282abbe8",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "US-Bundesstaat Washington: Waldbrand erreicht US-Großstadt Spokane",
+      "summary": "Ein schwerer Waldbrand bedroht die Stadt Spokane im US-Bundesstaat Washington. Tausende Menschen mussten fliehen, die Löscharbeiten werden durch den Wind erschwert. Der Gouverneur rief den Notstand aus.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/washington-state-waldbraende-100.html",
+      "publishedAt": "2026-08-02T10:15:04.000Z"
+    },
+    {
+      "id": "n_6a8cd962e6",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ukraine-Krieg: Moskau meldet 635 abgefangene Drohnen - zwei Tote",
+      "summary": "Die Ukraine wehrt sich gegen Russlands Angriffskrieg inzwischen verstärkt mit Attacken auf russischem Staatsgebiet. Erneut gerieten dabei offenbar eine Raffinerie und ein Militärplatz ins Visier. Moskau meldete zwei Tote.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-angriffe-russland-106.html",
+      "publishedAt": "2026-08-02T10:00:36.000Z"
+    },
+    {
+      "id": "n_0e67b09cc4",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wo Parken, Abwasser und Müll am meisten kosten",
+      "summary": "Bei vielen Städten und Gemeinden sind die Kassen leer. Viele erhöhen nun die Gebühren: fürs Parken, Abwasser oder Müllabholung. Können sich Bürger gegen zu hohe Gebühren wehren? Von M. Schuster und J. Thürmer.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/kosten-kommunen-unterschiede-100.html",
+      "publishedAt": "2026-08-02T09:37:44.000Z"
+    },
     {
       "id": "n_de2387f320",
       "type": "news",
@@ -10,7 +43,40 @@
       "summary": "Das US-Militär stand Berichten zufolge kurz vor einer massiven Angriffswelle auf Ziele in Iran. Nun will Trump offenbar darauf verzichten. Angeblich gibt es Fortschritte bei den Bemühungen um eine diplomatische Einigung.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-216.html",
-      "publishedAt": "2026-08-02T07:12:40.000Z"
+      "publishedAt": "2026-08-02T09:03:47.000Z"
+    },
+    {
+      "id": "n_f409c175b4",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ukraine und Polen: Wie alte Massaker die Nachbarn spalten",
+      "summary": "Zwischen Polen und Ukraine ist ein alter Streit über Massaker während des Zweiten Weltkriegs aufgeflammt. Vor Ort zeigt sich, warum das Thema weiter so heikel ist - und wie die Gräben überwunden werden können. Von Stephan Laack.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-wolhynien-polen-100.html",
+      "publishedAt": "2026-08-02T08:58:48.000Z"
+    },
+    {
+      "id": "n_f280ae8153",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Tote und Verletzte bei Explosion in Moskauer Restaurant",
+      "summary": "In einem Restaurant in Moskau hat es eine Explosion gegeben. Die Ermittler gehen laut Staatsagentur Tass von einem Anschlag mit einem Sprengsatz aus. Drei Menschen wurden getötet, mindestens 21 verletzt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/explosion-moskau-restaurant-100.html",
+      "publishedAt": "2026-08-02T08:48:01.000Z"
+    },
+    {
+      "id": "n_54258fd93f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Feuer bei Athen: Waldbrände in Griechenland weiten sich aus",
+      "summary": "Die Brände westlich von Athen haben sich ausgeweitet. Rund 500 Feuerwehrleute sowie freiwillige Helfer sind im Einsatz, aber starke Winde machen die Löscharbeiten fast unmöglich.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-156.html",
+      "publishedAt": "2026-08-02T08:06:08.000Z"
     },
     {
       "id": "n_55d2012a51",
@@ -22,72 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/asien/iran-krieg-jordanien-zwischen-fronten-100.html",
       "publishedAt": "2026-08-02T07:04:54.000Z"
-    },
-    {
-      "id": "n_536bb376e2",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wie sicher sind KI-Wasserzeichen?",
-      "summary": "Ab sofort müssen KI-Inhalte in der EU gekennzeichnet werden, sichtbar für Menschen und maschinenlesbar. Doch Wasserzeichen sind leicht zu zerstören, offene Modelle umgehen Labels. Was ist heute technisch möglich, und was in Zukunft? Von P. Kiss.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/technologie/ki-eu-wasserzeichen-kennzeichnungspflicht-100.html",
-      "publishedAt": "2026-08-02T06:36:56.000Z"
-    },
-    {
-      "id": "n_8b4d47cffa",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Migrationskrise in Ceuta: Wadephul fordert Schutz der EU-Außengrenzen",
-      "summary": "Nach dem Ansturm Zehntausender Migranten auf die spanische Exklave Ceuta herrscht in der EU Unruhe. Bundesaußenminister Wadephul spricht von einem \"absoluten Stresstest\" und fordert die EU-Kommission zum Handeln auf.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-ceuta-eu-aussengrenze-wadephul-100.html",
-      "publishedAt": "2026-08-02T06:03:55.000Z"
-    },
-    {
-      "id": "n_6fbd330764",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "EU-Richtlinie in Kraft: Wie sich die EU gegen KI-Gefahren wappnet",
-      "summary": "Ein Vorfall bei OpenAI hat es kürzlich gezeigt: Künstliche Intelligenz kann sich selbstständig machen. Von heute an gelten in Europa neue Regeln für Unternehmen. Dabei geht es auch um KI-generierte Bilder, Videos und Audios. Von K. Schmid.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/ki-sicherheit-eu-gesetz-inkraft-100.html",
-      "publishedAt": "2026-08-02T01:13:08.000Z"
-    },
-    {
-      "id": "n_3017ac2ece",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "13 Tote bei Absturz von Kleinflugzeug in Peru",
-      "summary": "In Peru sind beim Absturz eines Kleinflugzeugs 13 Menschen ums Leben gekommen. Laut einem Medienbericht sind darunter zwei Deutsche. Sie wollten die berühmten Nasca-Linien besichtigen, die zum Weltkulturerbe zählen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/peru-absturz-flugzeug-100.html",
-      "publishedAt": "2026-08-02T00:54:52.000Z"
-    },
-    {
-      "id": "n_cbc5df9783",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Selenskyj bittet erneut um Lieferung von \"Patriot\"-Raketen",
-      "summary": "In den vergangenen Tagen hat Russland die Ukraine verstärkt mit ballistischen Raketen angegriffen. Kiew fehlen wirksame Mittel dagegen. Präsident Selenskyj bittet deshalb erneut um die Lieferung von \"Patriot\"-Abwehrraketen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/selenskyj-patriot-raketen-100.html",
-      "publishedAt": "2026-08-01T23:22:00.000Z"
-    },
-    {
-      "id": "n_f280ae8153",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Tote und Verletzte bei Explosion in Moskauer Restaurant",
-      "summary": "In einem Restaurant in Moskau ist es zu einer Explosion gekommen. Die Ermittler gehen laut Staatsagentur Tass von einem Anschlag mit einem Sprengsatz aus. Drei Menschen wurden getötet, mindestens 21 verletzt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/explosion-moskau-restaurant-100.html",
-      "publishedAt": "2026-08-01T21:53:30.000Z"
     },
     {
       "id": "n_54cd87934e",
@@ -178,6 +178,50 @@
       "publishedAt": "2026-07-30T15:10:00.000Z"
     },
     {
+      "id": "n_2bc7f8fa53",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "RAN: Verspätete Stromanschlüsse bremsen Mobilfunkausbau erheblich",
+      "summary": "Der Mast steht, doch der Strom fehlt: Trotz gesetzlicher Nachbesserungen bleibt die Stromanbindung das Nadelöhr beim deutschen Mobilfunk-Ausbau. (Mobilfunk, Bitkom)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/ran-verspaetete-stromanschluesse-bremsen-mobilfunkausbau-erheblich-2608-211515.html",
+      "publishedAt": "2026-08-02T09:55:01.000Z"
+    },
+    {
+      "id": "n_f238493931",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Airtag-Konkurrent: Googles Bluetooth-Tracker Pixel Tag vor dem Start",
+      "summary": "Google soll in Kürze einen Airtag-Konkurrenten vorstellen. In ersten Webshops ist der Pixel Tag bereits aufgetaucht. (Google, Android)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/airtag-konkurrent-googles-bluetooth-tracker-pixel-tag-vor-dem-start-2608-211513.html",
+      "publishedAt": "2026-08-02T09:22:01.000Z"
+    },
+    {
+      "id": "n_a028885097",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Tragbarer Monitor mit 15,6'' FHD für nur 67,95 Euro bei Amazon",
+      "summary": "Einen tragbaren Monitor mit 15,6'' großem IPS-Display, FHD-Auflösung und magnetischer Hülle gibt es bei Amazon zum Aktionspreis. (TV & Monitore, Display)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-tragbarer-monitor-mit-15-6-fhd-fuer-nur-67-95-euro-bei-amazon-2608-211491.html",
+      "publishedAt": "2026-08-02T08:40:01.000Z"
+    },
+    {
+      "id": "n_82b5e8f830",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "(g+) Physische KI: Die stille KI-Revolution in der Fabrik",
+      "summary": "KI macht Industrieroboter flexibler und produktiver. Ein Besuch bei Trumpf und Siemens zeigt, was heute schon möglich ist - und woran selbst moderne Systeme noch scheitern. Eine Reportage von Christian J. Meier (Roboter, KI)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/physische-ki-die-stille-ki-revolution-in-der-fabrik-2608-211011.html",
+      "publishedAt": "2026-08-02T08:00:01.000Z"
+    },
+    {
       "id": "n_bb54379e76",
       "type": "news",
       "topic": "tech",
@@ -222,48 +266,37 @@
       "publishedAt": "2026-08-01T11:40:02.000Z"
     },
     {
-      "id": "n_ea9349b384",
+      "id": "n_2402b417b7",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "SpaceX: Oberstufe von Falcon 9 schlägt in Kürze auf dem Mond ein",
-      "summary": "In wenigen Tagen soll ein Teil einer Falcon-9-Rakete auf dem Mond aufschlagen. Der Zeitpunkt steht inzwischen sehr genau fest. (Falcon-9, Nasa)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/spacex-oberstufe-von-falcon-9-schlaegt-in-kuerze-auf-dem-mond-ein-2608-211511.html",
-      "publishedAt": "2026-08-01T11:37:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+      "summary": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T10:11:26.000Z"
     },
     {
-      "id": "n_d985c1d768",
+      "id": "n_9cb28f9ebe",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Urabstimmung: Baden-Württembergs Grüne votieren für Palantir-Stopp",
-      "summary": "Die Grünen in Baden-Württemberg lehnen den Einsatz von Palantir mit großer Mehrheit ab. Doch die grün-schwarze Landesregierung hält daran fest. (Palantir, Datenschutz)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/urabstimmung-baden-wuerttembergs-gruene-votieren-fuer-palantir-stopp-2608-211510.html",
-      "publishedAt": "2026-08-01T10:40:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "summary": "The vessel with 271 people on board caught fire off Madura island.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T10:02:19.000Z"
     },
     {
-      "id": "n_d2d43e1ea5",
+      "id": "n_f189c87d74",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Nano Banana: KI-Funktion von Google Earth wegen Missbrauchs abgeschaltet",
-      "summary": "Per Textbefehl haben sich eingestürzte Gebäude und russische Panzer auf echte Satellitenbilder setzen lassen. Google hat die Funktion zurückgezogen. (Google Earth, KI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/nano-banana-ki-funktion-von-google-earth-wegen-missbrauchs-abgeschaltet-2608-211508.html",
-      "publishedAt": "2026-08-01T10:05:02.000Z"
-    },
-    {
-      "id": "n_7e7ee4a4ba",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "CRW-H001: Casios Mini-Ring-Uhr bekommt Gesundheitsfunktionen",
-      "summary": "Retro-Optik trifft Gesundheitsfunktionen: Casio bringt seine Ring-Uhr als Smart Ring mit Display, Pulsmessung und Trainingserkennung zurück. (Casio, Wearable)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/crw-h001-casios-mini-ring-uhr-bekommt-gesundheitsfunktionen-2608-211509.html",
-      "publishedAt": "2026-08-01T09:36:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T09:10:51.000Z"
     },
     {
       "id": "n_f1a2a5ceb7",
@@ -277,17 +310,6 @@
       "publishedAt": "2026-08-02T07:58:51.000Z"
     },
     {
-      "id": "n_f189c87d74",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
-      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T06:24:01.000Z"
-    },
-    {
       "id": "n_de5af23a6b",
       "type": "news",
       "topic": "general",
@@ -297,17 +319,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-02T05:40:42.000Z"
-    },
-    {
-      "id": "n_2402b417b7",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T05:26:39.000Z"
     },
     {
       "id": "n_be8ccf657c",
@@ -341,17 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-01T23:56:19.000Z"
-    },
-    {
-      "id": "n_9d8fd6f39a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-      "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T23:03:35.000Z"
     },
     {
       "id": "n_9ef32dfc5e",
@@ -879,7 +879,7 @@
       "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
       "source": "Wired",
       "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-      "publishedAt": "2026-08-02T07:58:13.000Z"
+      "publishedAt": "2026-08-02T10:00:00.000Z"
     },
     {
       "id": "n_98fc443fa5",
