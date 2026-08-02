@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-08-02T10:23:20.588Z",
+  "generatedAt": "2026-08-02T12:52:47.783Z",
   "items": [
+    {
+      "id": "n_f280ae8153",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Tote und Verletzte bei Explosion in Moskauer Restaurant",
+      "summary": "In einem Restaurant in Moskau hat es eine Explosion gegeben. Die Ermittler gehen laut Staatsagentur Tass von einem Anschlag mit einem Sprengsatz aus. Drei Menschen wurden getötet, mindestens 21 verletzt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/explosion-moskau-restaurant-100.html",
+      "publishedAt": "2026-08-02T12:24:48.000Z"
+    },
+    {
+      "id": "n_54258fd93f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Feuer bei Athen: Waldbrände in Griechenland weiten sich aus",
+      "summary": "Die Brände westlich von Athen haben sich ausgeweitet. Rund 500 Feuerwehrleute sowie freiwillige Helfer sind im Einsatz, aber starke Winde machen die Löscharbeiten fast unmöglich.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-156.html",
+      "publishedAt": "2026-08-02T12:22:09.000Z"
+    },
+    {
+      "id": "n_65298d942a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Rhein verzeichnet historisch niedrige Wasserstände",
+      "summary": "Die Pegelstände des Rheins und anderer deutscher Flüsse sind wegen anhaltender Trockenheit teils so niedrig wie noch nie. Das macht auch der Schifffahrt Probleme. Nordrhein-Westfalen fordert nun einen nationalen Krisenstab.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/niedrigwasser-rhein-rekordtief-100.html",
+      "publishedAt": "2026-08-02T11:51:15.000Z"
+    },
+    {
+      "id": "n_de2387f320",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Trump sagt Angriffe auf Iran vorerst ab",
+      "summary": "Das US-Militär stand Berichten zufolge kurz vor einer massiven Angriffswelle auf Ziele in Iran. Nun will Trump offenbar darauf verzichten. Angeblich gibt es Fortschritte bei den Verhandlungen, doch Iran widerspricht.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-216.html",
+      "publishedAt": "2026-08-02T11:31:40.000Z"
+    },
     {
       "id": "n_a4282abbe8",
       "type": "news",
@@ -35,17 +79,6 @@
       "publishedAt": "2026-08-02T09:37:44.000Z"
     },
     {
-      "id": "n_de2387f320",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Trump sagt Angriffe auf Iran vorerst ab",
-      "summary": "Das US-Militär stand Berichten zufolge kurz vor einer massiven Angriffswelle auf Ziele in Iran. Nun will Trump offenbar darauf verzichten. Angeblich gibt es Fortschritte bei den Bemühungen um eine diplomatische Einigung.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-216.html",
-      "publishedAt": "2026-08-02T09:03:47.000Z"
-    },
-    {
       "id": "n_f409c175b4",
       "type": "news",
       "topic": "general",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-wolhynien-polen-100.html",
       "publishedAt": "2026-08-02T08:58:48.000Z"
-    },
-    {
-      "id": "n_f280ae8153",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Tote und Verletzte bei Explosion in Moskauer Restaurant",
-      "summary": "In einem Restaurant in Moskau hat es eine Explosion gegeben. Die Ermittler gehen laut Staatsagentur Tass von einem Anschlag mit einem Sprengsatz aus. Drei Menschen wurden getötet, mindestens 21 verletzt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/explosion-moskau-restaurant-100.html",
-      "publishedAt": "2026-08-02T08:48:01.000Z"
-    },
-    {
-      "id": "n_54258fd93f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Feuer bei Athen: Waldbrände in Griechenland weiten sich aus",
-      "summary": "Die Brände westlich von Athen haben sich ausgeweitet. Rund 500 Feuerwehrleute sowie freiwillige Helfer sind im Einsatz, aber starke Winde machen die Löscharbeiten fast unmöglich.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-156.html",
-      "publishedAt": "2026-08-02T08:06:08.000Z"
-    },
-    {
-      "id": "n_55d2012a51",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wie Jordanien im Iran-Krieg zwischen die Fronten geriet",
-      "summary": "Tourismus ist für Jordanien eine der wichtigsten Einnahmequellen. Doch mit dem Krieg ist vieles weggebrochen. Zuletzt wurde das Land immer öfter zum Angriffsziel - und in der Bevölkerung steigt der Frust über den Partner USA. Von Anne Armbrecht.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/iran-krieg-jordanien-zwischen-fronten-100.html",
-      "publishedAt": "2026-08-02T07:04:54.000Z"
     },
     {
       "id": "n_54cd87934e",
@@ -178,6 +178,61 @@
       "publishedAt": "2026-07-30T15:10:00.000Z"
     },
     {
+      "id": "n_46a6ad0009",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Flugsicherheit: Fluggesellschaften lassen keine Roboter mehr an Bord",
+      "summary": "Immer mehr Fluggesellschaften verbieten humanoide und tierähnliche Roboter an Bord ihrer Maschinen. Grund sind die großen Akkus. (Luftfahrt, Roboter)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/flugsicherheit-fluggesellschaften-lassen-keine-roboter-mehr-an-bord-2608-211520.html",
+      "publishedAt": "2026-08-02T12:42:02.000Z"
+    },
+    {
+      "id": "n_580a49b52e",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "US-Cyberbehörde: Iranische Hacker stecken wohl hinter Angriffen auf US-Wasserwerke",
+      "summary": "Nach einer Angriffswelle auf mehr als 30 kommunale Wasserversorger in Minnesota warnt die US-Behörde Cisa vor Zugriffen auf Steuerungstechnik. (Hacker, Security)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/us-cyberbehoerde-iranische-hacker-stecken-wohl-hinter-angiffen-auf-us-wasserwerke-2608-211519.html",
+      "publishedAt": "2026-08-02T12:20:01.000Z"
+    },
+    {
+      "id": "n_ac959ca5e0",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "KI-Verordnung der EU: KI-generierte Inhalte müssen teilweise gekennzeichnet werden",
+      "summary": "Die neue KI-Behörde der EU startet mit der Durchsetzung von Transparenzpflichten. Die meisten Medien sind davon jedoch nicht betroffen. (AI Act, KI)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/ki-verordnung-der-eu-ki-generierte-inhalte-muessen-teilweise-gekennzeichnet-werden-2608-211518.html",
+      "publishedAt": "2026-08-02T11:46:01.000Z"
+    },
+    {
+      "id": "n_cf22ee4b8d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Atomkraftwerk Paks: Ungarn drosselt den Strom wegen Dürre",
+      "summary": "Ungarn muss sein einziges Atomkraftwerk vom Netz nehmen. Ursache sind die anhaltend niedrigen Pegelstände der Donau. (Atomkraft, Wirtschaft)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/atomkraftwerk-paks-ungarn-drosselt-den-strom-wegen-duerre-2608-211514.html",
+      "publishedAt": "2026-08-02T11:16:02.000Z"
+    },
+    {
+      "id": "n_44ab43d017",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Aktienkurs und KI: Alphabet, Amazon, Microsoft legen um 1,4 Billionen Dollar zu",
+      "summary": "In dieser Woche sind fast 2 Billionen Dollar beim Börsenwert von Megacaps hin- und hergeflossen. Die laufende Berichtssaison steht im Zeichen von KI. (Cloud Computing, Microsoft)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/aktienkurs-und-ki-alphabet-amazon-microsoft-legen-um-1-4-billionen-dollar-zu-2608-211516.html",
+      "publishedAt": "2026-08-02T10:37:01.000Z"
+    },
+    {
       "id": "n_2bc7f8fa53",
       "type": "news",
       "topic": "tech",
@@ -211,59 +266,70 @@
       "publishedAt": "2026-08-02T08:40:01.000Z"
     },
     {
-      "id": "n_82b5e8f830",
+      "id": "n_9cb28f9ebe",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "(g+) Physische KI: Die stille KI-Revolution in der Fabrik",
-      "summary": "KI macht Industrieroboter flexibler und produktiver. Ein Besuch bei Trumpf und Siemens zeigt, was heute schon möglich ist - und woran selbst moderne Systeme noch scheitern. Eine Reportage von Christian J. Meier (Roboter, KI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/physische-ki-die-stille-ki-revolution-in-der-fabrik-2608-211011.html",
-      "publishedAt": "2026-08-02T08:00:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T11:49:40.000Z"
     },
     {
-      "id": "n_bb54379e76",
+      "id": "n_f189c87d74",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Astronomie: Die Sonnenfinsternis 2026 beobachten - so geht es sicher",
-      "summary": "Wer die Sonnenfinsternis am 12. August beobachten will, sollte sich rechtzeitig ausrüsten. Wir erklären, wie und womit und was es genau zu sehen gibt. Ein Ratgebertext von Mario Keller (Astrofotografie, Astronomie)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/astronomie-die-sonnenfinsternis-2026-beobachten-so-geht-es-sicher-2608-211227.html",
-      "publishedAt": "2026-08-02T05:30:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T11:12:00.000Z"
     },
     {
-      "id": "n_edc2528929",
+      "id": "n_68e3e9e829",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: IT-Jobs von Lizenzmanagement bis Embedded-Hardware",
-      "summary": "Von IT-Lizenzmanagement über Embedded-Hardware bis Netzwerksicherheit - sechs neue IT-Jobs bieten vielfältige Aufgaben und Verantwortung. (Golem Karrierewelt, Unternehmenssoftware)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-it-jobs-von-lizenzmanagement-bis-embedded-hardware-2608-211224.html",
-      "publishedAt": "2026-08-02T05:00:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Fastest runner to cross the Alps says it was an incredible experience",
+      "summary": "Sophie Woods ran the Via Alpina through storms, heat of up to 37C and dodged floods and wildfires across eight countries.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T10:59:55.000Z"
     },
     {
-      "id": "n_458c032a4f",
+      "id": "n_de5af23a6b",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Machtkampf: T-Mobile US-Manager opponieren offen gegen Fusion mit der Telekom",
-      "summary": "Die Pläne für eine Verschmelzung der Deutschen Telekom und T-Mobile US sind vom US-Management abgelehnt worden. Auch institutionelle Investoren und US-Regulierungsbehörden haben Bedenken. (Telekom, Mobilfunk)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/machtkampf-t-mobile-us-manager-gegen-fusion-mit-telekom-2608-211512.html",
-      "publishedAt": "2026-08-01T12:56:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T10:54:44.000Z"
     },
     {
-      "id": "n_f332bb08ae",
+      "id": "n_be8ccf657c",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Schneller Netzwerkspeicher von Ugreen zum Tiefstpreis 80 Euro günstiger",
-      "summary": "Wer seine Daten zentral und sicher per NAS-Server speichern möchte, profitiert von starken Angeboten. Das Ugreen NASync DXP2800 GT gibt es aktuell zum Tiefstpreis. (Technik/Hardware, Storage)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-schneller-netzwerkspeicher-von-ugreen-zum-tiefstpreis-80-euro-guenstiger-2608-211493.html",
-      "publishedAt": "2026-08-01T11:40:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T10:32:28.000Z"
+    },
+    {
+      "id": "n_8c29c53638",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Washington state wildfires trigger evacuations",
+      "summary": "State officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T10:20:10.000Z"
     },
     {
       "id": "n_2402b417b7",
@@ -277,28 +343,6 @@
       "publishedAt": "2026-08-02T10:11:26.000Z"
     },
     {
-      "id": "n_9cb28f9ebe",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Five dead, 41 missing, after Indonesia ferry catches fire",
-      "summary": "The vessel with 271 people on board caught fire off Madura island.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T10:02:19.000Z"
-    },
-    {
-      "id": "n_f189c87d74",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T09:10:51.000Z"
-    },
-    {
       "id": "n_f1a2a5ceb7",
       "type": "news",
       "topic": "general",
@@ -308,50 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-02T07:58:51.000Z"
-    },
-    {
-      "id": "n_de5af23a6b",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T05:40:42.000Z"
-    },
-    {
-      "id": "n_be8ccf657c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T00:55:16.000Z"
-    },
-    {
-      "id": "n_947baee6e2",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Tourist plane crashes in Peru, killing 13",
-      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T00:29:55.000Z"
-    },
-    {
-      "id": "n_01a3756bab",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
-      "summary": "A growing number of what the internet has dubbed \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T23:56:19.000Z"
     },
     {
       "id": "n_9ef32dfc5e",
