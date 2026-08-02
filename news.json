@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-08-01T21:42:05.330Z",
+  "generatedAt": "2026-08-02T05:45:17.541Z",
   "items": [
+    {
+      "id": "n_de2387f320",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Trump sagt Angriffe auf Iran vorerst ab",
+      "summary": "Das US-Militär stand Berichten zufolge kurz vor einer massiven Angriffswelle auf Ziele in Iran. Nun will Trump offenbar darauf verzichten. Angeblich gibt es Fortschritte bei den Bemühungen um eine diplomatische Einigung.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-216.html",
+      "publishedAt": "2026-08-02T03:25:18.000Z"
+    },
+    {
+      "id": "n_6fbd330764",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "EU-Richtlinie in Kraft: Wie sich die EU gegen KI-Gefahren wappnet",
+      "summary": "Ein Vorfall bei OpenAI hat es kürzlich gezeigt: Künstliche Intelligenz kann sich selbstständig machen. Von heute an gelten in Europa neue Regeln für Unternehmen. Dabei geht es auch um KI-generierte Bilder, Videos und Audios. Von K. Schmid.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/ki-sicherheit-eu-gesetz-inkraft-100.html",
+      "publishedAt": "2026-08-02T01:13:08.000Z"
+    },
+    {
+      "id": "n_3017ac2ece",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "13 Tote bei Absturz von Kleinflugzeug in Peru",
+      "summary": "In Peru sind beim Absturz eines Kleinflugzeugs 13 Menschen ums Leben gekommen. Laut einem Medienbericht sind darunter zwei Deutsche. Sie wollten die berühmten Nasca-Linien besichtigen, die zum Weltkulturerbe zählen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/peru-absturz-flugzeug-100.html",
+      "publishedAt": "2026-08-02T00:54:52.000Z"
+    },
+    {
+      "id": "n_cbc5df9783",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Selenskyj bittet erneut um Lieferung von Patriot-Raketen",
+      "summary": "In den vergangenen Tagen hat Russland die Ukraine verstärkt mit ballistischen Raketen angegriffen. Kiew fehlen wirksame Mittel dagegen. Präsident Selenskyj bittet deshalb erneut um die Lieferung von Patriot-Abwehrraketen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/selenskyj-patriot-raketen-100.html",
+      "publishedAt": "2026-08-01T23:22:00.000Z"
+    },
+    {
+      "id": "n_f280ae8153",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Tote und Verletzte bei Explosion in Moskauer Restaurant",
+      "summary": "In einem Restaurant in Moskau ist es zu einer Explosion gekommen. Die Ermittler gehen laut Staatsagentur Tass von einem Anschlag mit einem Sprengsatz aus. Drei Menschen wurden getötet, mindestens 21 verletzt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/explosion-moskau-restaurant-100.html",
+      "publishedAt": "2026-08-01T21:53:30.000Z"
+    },
     {
       "id": "n_1cc9f8c8c5",
       "type": "news",
@@ -33,61 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/spanien-ceuta-migration-politik-100.html",
       "publishedAt": "2026-08-01T15:34:53.000Z"
-    },
-    {
-      "id": "n_38bf14db21",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Feuer in Bordeaux unter Kontrolle - Lage bei Athen angespannt",
-      "summary": "Die Waldbrände in der Nähe von Bordeaux sind eingedämmt. Das gab das französische Innenministerium bekannt. Währenddessen verschärft sich die Lage in Griechenland. Dort sind um Athen neue Feuer ausgebrochen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/bordeaux-athen-waldbrand-100.html",
-      "publishedAt": "2026-08-01T15:07:09.000Z"
-    },
-    {
-      "id": "n_d528261c96",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Flüge nach Afghanistan: Deutschland, die Taliban und Abschiebungen",
-      "summary": "Erstmals wurde ein Mann nach Afghanistan abgeschoben, bei dem es sich nicht um einen verurteilten Straftäter handelte. Viele weitere Flüge dürften folgen. Die Kritik bleibt, dass dazu Absprachen mit den Taliban notwendig sind. Von P. Eckstein.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/abschiebungen-afghanistan-146.html",
-      "publishedAt": "2026-08-01T14:46:23.000Z"
-    },
-    {
-      "id": "n_0d33acf2e1",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wie viel Vorbereitung braucht der Neustart im Ausland?",
-      "summary": "Sonne, Meer und Schluss mit Stress: So wird das Auswandern auf Social Media gern dargestellt. Doch es lauern viele finanzielle Fallen. Von N. Ostersehlte, T. Spicker und L.-M. Hiltscher.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/auswandern-beratung-kosten-100.html",
-      "publishedAt": "2026-08-01T14:44:45.000Z"
-    },
-    {
-      "id": "n_f8cfc08206",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Trump und Iran: Neue Angriffswelle - oder doch nur eine Drohung?",
-      "summary": "Wieder einmal droht US-Präsident Trump Iran. Doch diesmal könnte tatsächlich eine der größten Angriffswellen bevorstehen, berichten US-Medien. Irans Revolutionsgarde will schon Pläne für einen Gegenschlag haben.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/iran-krieg-usa-trump-102.html",
-      "publishedAt": "2026-08-01T14:18:03.000Z"
-    },
-    {
-      "id": "n_1ac43b2e61",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Serbien: Wie ein Musikfestival in Ungnade fiel",
-      "summary": "Serbiens Behörden gehen unter Präsident Vucic vehement gegen die regierungskritische Kulturszene vor. Nun hat es das Musikfestival Exit erwischt - das größte des Balkans. Unter staatlichem Druck zog es von Serbien nach Montenegro. Von O. Soos.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/serbien-festival-novi-sad-100.html",
-      "publishedAt": "2026-08-01T13:22:07.000Z"
     },
     {
       "id": "n_54cd87934e",
@@ -178,6 +178,28 @@
       "publishedAt": "2026-07-30T15:10:00.000Z"
     },
     {
+      "id": "n_bb54379e76",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Astronomie: Die Sonnenfinsternis 2026 beobachten - so geht es sicher",
+      "summary": "Wer die Sonnenfinsternis am 12. August beobachten will, sollte sich rechtzeitig ausrüsten. Wir erklären, wie und womit und was es genau zu sehen gibt. Ein Ratgebertext von Mario Keller (Astrofotografie, Astronomie)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/astronomie-die-sonnenfinsternis-2026-beobachten-so-geht-es-sicher-2608-211227.html",
+      "publishedAt": "2026-08-02T05:30:01.000Z"
+    },
+    {
+      "id": "n_edc2528929",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: IT-Jobs von Lizenzmanagement bis Embedded-Hardware",
+      "summary": "Von IT-Lizenzmanagement über Embedded-Hardware bis Netzwerksicherheit - sechs neue IT-Jobs bieten vielfältige Aufgaben und Verantwortung. (Golem Karrierewelt, Unternehmenssoftware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-it-jobs-von-lizenzmanagement-bis-embedded-hardware-2608-211224.html",
+      "publishedAt": "2026-08-02T05:00:01.000Z"
+    },
+    {
       "id": "n_458c032a4f",
       "type": "news",
       "topic": "tech",
@@ -244,28 +266,6 @@
       "publishedAt": "2026-08-01T09:36:01.000Z"
     },
     {
-      "id": "n_5ecf6c1807",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Smart Glasses: Datenschützer hält Verbot der Meta-Brillen für möglich",
-      "summary": "Hamburgs Datenschutzbeauftragter versteht die Meta-Brillen als getarnte Kameras. Damit könnte der Verkauf insgesamt verboten werden. (Meta, Datenschutz)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/smart-glasses-datenschuetzer-haelt-verbot-der-meta-brillen-fuer-moeglich-2608-211507.html",
-      "publishedAt": "2026-08-01T08:48:01.000Z"
-    },
-    {
-      "id": "n_af3cd00146",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Mobile Wallbox 11 kW und Zubehör für nur 142,45 Euro bei Amazon",
-      "summary": "Diese Mobile Wallbox lädt mit bis zu 11 kW über CEE-Stecker und Typ-2-Kabel. Liegt bei Amazon nur rund fünf Euro über dem Bestpreis. (Elektromobilität, Elektroauto)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-mobile-wallbox-11-kw-und-zubehoer-fuer-nur-142-45-euro-bei-amazon-2608-211498.html",
-      "publishedAt": "2026-08-01T08:40:02.000Z"
-    },
-    {
       "id": "n_de5af23a6b",
       "type": "news",
       "topic": "general",
@@ -274,7 +274,40 @@
       "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T21:13:17.000Z"
+      "publishedAt": "2026-08-02T05:40:42.000Z"
+    },
+    {
+      "id": "n_2402b417b7",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T05:26:39.000Z"
+    },
+    {
+      "id": "n_f189c87d74",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+      "summary": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T03:05:16.000Z"
+    },
+    {
+      "id": "n_be8ccf657c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T00:55:16.000Z"
     },
     {
       "id": "n_947baee6e2",
@@ -285,73 +318,40 @@
       "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T20:51:09.000Z"
+      "publishedAt": "2026-08-02T00:29:55.000Z"
     },
     {
-      "id": "n_8dcf962fed",
+      "id": "n_01a3756bab",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-      "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
+      "headline": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
+      "summary": "A growing number of what the internet has dubbed \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T20:09:27.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T23:56:19.000Z"
     },
     {
-      "id": "n_6d89d23b7a",
+      "id": "n_9d8fd6f39a",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Crowds line Amsterdam's canals for Pride boat parade",
-      "summary": "Costumed participants danced and waved from a colourful flotilla of 80 decorated vessels as they made their way through the city's waterways.",
+      "headline": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+      "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T19:39:48.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T23:03:35.000Z"
     },
     {
-      "id": "n_604cac9ea1",
+      "id": "n_d177225f52",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Italy putting nearly all major cities on highest heat alert",
-      "summary": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
+      "headline": "Russian ship defies sanctions to send military vehicles to Mali",
+      "summary": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T17:51:46.000Z"
-    },
-    {
-      "id": "n_1e9b02f326",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
-      "summary": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T17:16:51.000Z"
-    },
-    {
-      "id": "n_ced530318b",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Call for 'full review' as pressure grows on Infantino",
-      "summary": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and the Caribbean.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T17:07:46.000Z"
-    },
-    {
-      "id": "n_bddd599ff9",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Current Ebola outbreak worst ever in DR Congo, WHO says",
-      "summary": "The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T16:16:16.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-01T23:03:23.000Z"
     },
     {
       "id": "n_9ef32dfc5e",
