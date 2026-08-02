@@ -1,49 +1,38 @@
 {
-  "generatedAt": "2026-08-02T12:52:47.783Z",
+  "generatedAt": "2026-08-02T18:50:22.777Z",
   "items": [
     {
-      "id": "n_f280ae8153",
+      "id": "n_d1f26e46d1",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Tote und Verletzte bei Explosion in Moskauer Restaurant",
-      "summary": "In einem Restaurant in Moskau hat es eine Explosion gegeben. Die Ermittler gehen laut Staatsagentur Tass von einem Anschlag mit einem Sprengsatz aus. Drei Menschen wurden getötet, mindestens 21 verletzt.",
+      "headline": "Leben in Prag - zwischen Hitzeschutz und Klimaskepsis",
+      "summary": "Tschechien leidet unter der zweiten Hitzewelle des Jahres. Und nach den Waldbränden in Südeuropa wächst auch dort die Sorge vor Feuern. In Prag wurden fast 40 Grad gemessen - doch die Politik tut sich weiterhin schwer, die neue Realität zu akzeptieren. Von M. von Lieben.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/explosion-moskau-restaurant-100.html",
-      "publishedAt": "2026-08-02T12:24:48.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/hitzeschutz-klimaskepsis-tschechien-100.html",
+      "publishedAt": "2026-08-02T18:43:24.000Z"
     },
     {
-      "id": "n_54258fd93f",
+      "id": "n_217cd646b3",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Feuer bei Athen: Waldbrände in Griechenland weiten sich aus",
-      "summary": "Die Brände westlich von Athen haben sich ausgeweitet. Rund 500 Feuerwehrleute sowie freiwillige Helfer sind im Einsatz, aber starke Winde machen die Löscharbeiten fast unmöglich.",
+      "headline": "Rückkehr aus Ceuta: Ein Nachbarort im Ausnahmezustand",
+      "summary": "In Ceuta normalisiert sich die Lage nach dem Massenandrang, ganz anders sieht es im Nachbarort Fnideq aus. Die Menschen kehren erschöpft dorthin zurück, wo alles begann. Eindrücke aus einer Stadt im Ausnahmezustand. Von Stefan Ehlert.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-156.html",
-      "publishedAt": "2026-08-02T12:22:09.000Z"
+      "url": "https://www.tagesschau.de/ausland/afrika/fnideq-nachbarstadt-ceuta-100.html",
+      "publishedAt": "2026-08-02T18:41:43.000Z"
     },
     {
-      "id": "n_65298d942a",
+      "id": "n_745e97c844",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Rhein verzeichnet historisch niedrige Wasserstände",
-      "summary": "Die Pegelstände des Rheins und anderer deutscher Flüsse sind wegen anhaltender Trockenheit teils so niedrig wie noch nie. Das macht auch der Schifffahrt Probleme. Nordrhein-Westfalen fordert nun einen nationalen Krisenstab.",
+      "headline": "Niedrigwasser der Donau: Ungarn erlebt \"beispiellose Energiekrise\"",
+      "summary": "Fast die Hälfte des benötigten Stroms fällt in Ungarn plötzlich weg. Wegen der anhaltenden Hitze muss das Atomkraftwerk Paks abgeschaltet werden. Premier Magyar spricht von einer \"beispiellosen Krise\". Von Clemens Verenkotte.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/niedrigwasser-rhein-rekordtief-100.html",
-      "publishedAt": "2026-08-02T11:51:15.000Z"
-    },
-    {
-      "id": "n_de2387f320",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Trump sagt Angriffe auf Iran vorerst ab",
-      "summary": "Das US-Militär stand Berichten zufolge kurz vor einer massiven Angriffswelle auf Ziele in Iran. Nun will Trump offenbar darauf verzichten. Angeblich gibt es Fortschritte bei den Verhandlungen, doch Iran widerspricht.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-216.html",
-      "publishedAt": "2026-08-02T11:31:40.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/niedrigwasser-donau-120.html",
+      "publishedAt": "2026-08-02T18:39:49.000Z"
     },
     {
       "id": "n_a4282abbe8",
@@ -54,40 +43,51 @@
       "summary": "Ein schwerer Waldbrand bedroht die Stadt Spokane im US-Bundesstaat Washington. Tausende Menschen mussten fliehen, die Löscharbeiten werden durch den Wind erschwert. Der Gouverneur rief den Notstand aus.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/washington-state-waldbraende-100.html",
-      "publishedAt": "2026-08-02T10:15:04.000Z"
+      "publishedAt": "2026-08-02T18:14:55.000Z"
     },
     {
-      "id": "n_6a8cd962e6",
+      "id": "n_cbf19746fb",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Ukraine-Krieg: Moskau meldet 635 abgefangene Drohnen - zwei Tote",
-      "summary": "Die Ukraine wehrt sich gegen Russlands Angriffskrieg inzwischen verstärkt mit Attacken auf russischem Staatsgebiet. Erneut gerieten dabei offenbar eine Raffinerie und ein Militärplatz ins Visier. Moskau meldete zwei Tote.",
+      "headline": "Strand im ukrainischen Odessa: Zwischen Badebetrieb und Bombenalarm",
+      "summary": "Volle Strände, spielende Kinder - und jederzeit droht ein russischer Angriff. In Odessa liegen Sommerleichtigkeit und Kriegsgefahr dicht beieinander. Immer wieder ignorieren Menschen den Luftalarm, mit teils schlimmen Folgen. Von S. Laack.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-angriffe-russland-106.html",
-      "publishedAt": "2026-08-02T10:00:36.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-odessa-angriffe-106.html",
+      "publishedAt": "2026-08-02T17:41:41.000Z"
     },
     {
-      "id": "n_0e67b09cc4",
+      "id": "n_5dfe5b0e2e",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Wo Parken, Abwasser und Müll am meisten kosten",
-      "summary": "Bei vielen Städten und Gemeinden sind die Kassen leer. Viele erhöhen nun die Gebühren: fürs Parken, Abwasser oder Müllabholung. Können sich Bürger gegen zu hohe Gebühren wehren? Von M. Schuster und J. Thürmer.",
+      "headline": "Bas fordert Union zur Klärung bei \"Rente mit 63\" auf",
+      "summary": "Soll die \"Rente mit 63\" weg - oder doch nicht? Darüber gibt es in der Union derzeit Diskussion. Nun fordert SPD-Chefin Bas den Koalitionspartner auf, sich zu positionieren. Die Sozialdemokraten seien bereit, das Rentenpaket aufzuschnüren.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/kosten-kommunen-unterschiede-100.html",
-      "publishedAt": "2026-08-02T09:37:44.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-bas-100.html",
+      "publishedAt": "2026-08-02T16:49:50.000Z"
     },
     {
-      "id": "n_f409c175b4",
+      "id": "n_94f0467cd4",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Ukraine und Polen: Wie alte Massaker die Nachbarn spalten",
-      "summary": "Zwischen Polen und Ukraine ist ein alter Streit über Massaker während des Zweiten Weltkriegs aufgeflammt. Vor Ort zeigt sich, warum das Thema weiter so heikel ist - und wie die Gräben überwunden werden können. Von Stephan Laack.",
+      "headline": "CSU-Chef Söder wirbt für Geschlossenheit im ARD-Sommerinterview",
+      "summary": "Die CSU schwächelt nach der Kommunalwahl, doch Bayerns Ministerpräsident Söder bleibt gelassen. Er sieht seine Aufgabe als \"Stabilisator der Demokratie\", sagte er im ARD-Sommerinterview - auch mit Blick auf den wachsenden Erfolg der AfD.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-wolhynien-polen-100.html",
-      "publishedAt": "2026-08-02T08:58:48.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-soeder-112.html",
+      "publishedAt": "2026-08-02T16:43:51.000Z"
+    },
+    {
+      "id": "n_54258fd93f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Feuer bei Athen: Waldbrände in Griechenland weiten sich aus",
+      "summary": "Die Brände westlich von Athen haben sich ausgeweitet. Rund 500 Feuerwehrleute sowie freiwillige Helfer sind im Einsatz. Bei Löscharbeiten kollidierten zwei Hubschrauber - zwei der Piloten kamen beim darauffolgenden Absturz ums Leben.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-156.html",
+      "publishedAt": "2026-08-02T16:42:50.000Z"
     },
     {
       "id": "n_54cd87934e",
@@ -178,6 +178,17 @@
       "publishedAt": "2026-07-30T15:10:00.000Z"
     },
     {
+      "id": "n_2f5b5972fe",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Dell'Oro Group: Highspeed-Festnetzmarkt wächst bis 2030 nur noch langsam",
+      "summary": "Der Markt für Festnetz-Ausrüstung steuert auf ein verhaltenes Wachstum zu. Grund sind nachlassender Datenbedarf und Zurückhaltung in China. (Docsis 4.0, Kabelnetz)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/dell-oro-group-highspeed-festnetzmarkt-waechst-bis-2030-nur-noch-langsam-2608-211521.html",
+      "publishedAt": "2026-08-02T13:12:01.000Z"
+    },
+    {
       "id": "n_46a6ad0009",
       "type": "news",
       "topic": "tech",
@@ -255,22 +266,66 @@
       "publishedAt": "2026-08-02T09:22:01.000Z"
     },
     {
-      "id": "n_a028885097",
+      "id": "n_0fa80837ef",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Tragbarer Monitor mit 15,6'' FHD für nur 67,95 Euro bei Amazon",
-      "summary": "Einen tragbaren Monitor mit 15,6'' großem IPS-Display, FHD-Auflösung und magnetischer Hülle gibt es bei Amazon zum Aktionspreis. (TV & Monitore, Display)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-tragbarer-monitor-mit-15-6-fhd-fuer-nur-67-95-euro-bei-amazon-2608-211491.html",
-      "publishedAt": "2026-08-02T08:40:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
+      "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T18:04:44.000Z"
+    },
+    {
+      "id": "n_e6787591c2",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "At the scene of deadly Moscow bomb blast",
+      "summary": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T16:52:35.000Z"
+    },
+    {
+      "id": "n_2aa3d654b3",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
+      "summary": "Yonatan Netanyahu was the only Israeli soldier to die as he led a mission to free more than 100 hostages.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T16:37:02.000Z"
+    },
+    {
+      "id": "n_8cc100f996",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "summary": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T15:50:59.000Z"
+    },
+    {
+      "id": "n_013842aef0",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+      "summary": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T15:48:00.000Z"
     },
     {
       "id": "n_9cb28f9ebe",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "headline": "Five dead and 41 missing after Indonesia ferry catches fire",
       "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
@@ -297,61 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-02T10:59:55.000Z"
-    },
-    {
-      "id": "n_de5af23a6b",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T10:54:44.000Z"
-    },
-    {
-      "id": "n_be8ccf657c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T10:32:28.000Z"
-    },
-    {
-      "id": "n_8c29c53638",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Washington state wildfires trigger evacuations",
-      "summary": "State officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T10:20:10.000Z"
-    },
-    {
-      "id": "n_2402b417b7",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
-      "summary": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T10:11:26.000Z"
-    },
-    {
-      "id": "n_f1a2a5ceb7",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
-      "summary": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T07:58:51.000Z"
     },
     {
       "id": "n_9ef32dfc5e",
@@ -618,6 +618,17 @@
       "publishedAt": "2026-07-31T17:26:32.000Z"
     },
     {
+      "id": "n_92beec8f13",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Is paying artists enough to convince them to embrace AI?",
+      "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's n",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+      "publishedAt": "2026-08-02T13:00:00.000Z"
+    },
+    {
       "id": "n_4a8975413a",
       "type": "news",
       "topic": "ai",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
       "publishedAt": "2026-07-30T22:29:45.000Z"
-    },
-    {
-      "id": "n_2d9d29aee7",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The loss of Situational Awareness",
-      "summary": "Neither artificial nor intelligent. I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth A",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
-      "publishedAt": "2026-07-30T20:46:25.000Z"
     },
     {
       "id": "n_3d6d30af34",
@@ -1047,6 +1047,18 @@
       "publishedAt": "2026-07-16T11:49:48.000Z"
     },
     {
+      "id": "n_cd099417b9",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
+      "thumbnail": "https://i.ytimg.com/vi/8B05cy3UuSE/hqdefault.jpg",
+      "publishedAt": "2026-08-02T15:01:10.000Z"
+    },
+    {
       "id": "n_a8e1e70bfc",
       "type": "video",
       "topic": "video",
@@ -1081,18 +1093,6 @@
       "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
       "thumbnail": "https://i.ytimg.com/vi/0CqLVnx-2UM/hqdefault.jpg",
       "publishedAt": "2026-07-15T13:58:27.000Z"
-    },
-    {
-      "id": "n_d86677f440",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Minecraft Was Missing One Brilliant Idea",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=Ae9q7KsRbuI",
-      "thumbnail": "https://i.ytimg.com/vi/Ae9q7KsRbuI/hqdefault.jpg",
-      "publishedAt": "2026-07-12T15:48:43.000Z"
     },
     {
       "id": "n_49a7d5405f",
