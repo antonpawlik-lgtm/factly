@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-08-03T19:15:04.453Z",
+  "generatedAt": "2026-08-03T21:56:17.889Z",
   "items": [
+    {
+      "id": "n_e915fc3066",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wirtschaftsexperte: \"Niedrigwasser ist ein Kostentreiber\"",
+      "summary": "Niedrige Pegelstände werden zunehmend zum Risiko, sagt Simon Gerards Iglesias vom Institut der deutschen Wirtschaft. Im Interview mit den tagesthemen erklärt er, warum viele Unternehmen zum Transport auf den Flüssen kaum Alternativen haben.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/niedrigwasser-wirtschaft-100.html",
+      "publishedAt": "2026-08-03T21:52:19.000Z"
+    },
+    {
+      "id": "n_1c07960e38",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "US-Verhandlungen mit Iran: Trump sagt, es wird wieder geredet",
+      "summary": "Zwischen den USA und Iran sind wieder Gespräche angelaufen - das behauptet zumindest US-Präsident Trump. Iran hatte zuvor mitgeteilt, es fänden keine Gespräche statt und es seien auch keine geplant.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-gespraeche-102.html",
+      "publishedAt": "2026-08-03T19:43:16.000Z"
+    },
     {
       "id": "n_fdda48a3d7",
       "type": "news",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/asien/gazastreifen-angriffe-116.html",
       "publishedAt": "2026-08-03T15:17:34.000Z"
-    },
-    {
-      "id": "n_7ed951a5c7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Stromkrise durch Niedrigwasser der Donau - Rumänien sprengt Felsen",
-      "summary": "Rumänien greift wegen des niedrigen Wasserstands der Donau zu ungewöhnlichen Mitteln: Mit einer Sprengung im Fluss soll mehr Wasser zum AKW Cernavoda geleitet werden. Dort, in Ungarn und in Serbien wird zum Stromsparen aufgerufen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/rumaenien-donau-100.html",
-      "publishedAt": "2026-08-03T15:10:41.000Z"
-    },
-    {
-      "id": "n_5222665c40",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Nach Andrang in Ceuta fordert Von der Leyen stärkeren EU-Grenzschutz",
-      "summary": "Vorwürfe, Rechtfertigungen, Erklärungsversuche: Die Ausnahmesituation in Ceuta hat eine weitere Migrationsdebatte entfacht. EU-Kommissionspräsidentin von der Leyen bemüht sich, die Wogen zu glätten - sieht aber Handlungsbedarf beim Grenzschutz.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/vonderleyen-eu-ceuta-100.html",
-      "publishedAt": "2026-08-03T15:09:23.000Z"
     },
     {
       "id": "n_7875e68d65",
@@ -266,15 +266,26 @@
       "publishedAt": "2026-08-03T15:17:02.000Z"
     },
     {
-      "id": "n_e548e5a1ac",
+      "id": "n_d900971bbd",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-      "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+      "headline": "EU calls for stronger borders after Ceuta migrant crossings",
+      "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T18:04:30.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T21:43:10.000Z"
+    },
+    {
+      "id": "n_a9916288e6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
+      "summary": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T20:05:46.000Z"
     },
     {
       "id": "n_57b1ff7bea",
@@ -285,18 +296,18 @@
       "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T17:41:27.000Z"
+      "publishedAt": "2026-08-03T19:42:55.000Z"
     },
     {
-      "id": "n_5eef6dea92",
+      "id": "n_e548e5a1ac",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
-      "summary": "Trump's controversial $1.8bn \"anti-weaponisation\" fund could have been used to compensate people prosecuted over the US Capitol riot.",
+      "headline": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+      "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T17:18:04.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T18:04:30.000Z"
     },
     {
       "id": "n_ffb3778559",
@@ -341,17 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-03T14:20:56.000Z"
-    },
-    {
-      "id": "n_c201489b8c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Moroccan king's letter confirms naming of major highway in honour of Trump",
-      "summary": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T12:20:11.000Z"
     },
     {
       "id": "n_4cb8cfb8f5",
@@ -442,6 +442,39 @@
       "publishedAt": "2026-07-30T14:53:20.000Z"
     },
     {
+      "id": "n_8a9c56134c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Research roundup: 6 cool science stories we almost missed",
+      "summary": "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
+      "publishedAt": "2026-08-03T20:13:37.000Z"
+    },
+    {
+      "id": "n_da9ff99a8b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Lego deploys Hubble Space Telescope as detailed desktop model",
+      "summary": "The orbiting observatory in minifigure scale.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
+      "publishedAt": "2026-08-03T19:21:16.000Z"
+    },
+    {
+      "id": "n_7930501cc9",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+      "summary": "Top scores increased by 5x.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+      "publishedAt": "2026-08-03T19:00:50.000Z"
+    },
+    {
       "id": "n_03ab1788bb",
       "type": "news",
       "topic": "tech",
@@ -497,37 +530,26 @@
       "publishedAt": "2026-08-01T18:20:11.000Z"
     },
     {
-      "id": "n_9b00352cfa",
+      "id": "n_3a82c94b10",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Review: Yes, we're still arguing about Nolan's The Odyssey",
-      "summary": "Christopher Nolan's impressionistic remix of Homer's epic poem finds the man behind the myth.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
-      "publishedAt": "2026-08-01T15:19:04.000Z"
+      "headline": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "summary": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "publishedAt": "2026-08-03T20:00:00.000Z"
     },
     {
-      "id": "n_9a9a3a92c7",
+      "id": "n_52116e7a3a",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-      "summary": "Reddit may still be considering ending its licensing deal with Google.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-      "publishedAt": "2026-08-01T12:30:36.000Z"
-    },
-    {
-      "id": "n_495031ca70",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
-      "summary": "Autonomous vehicle giant disturbs residents' sleep.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
-      "publishedAt": "2026-08-01T11:30:54.000Z"
+      "headline": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "publishedAt": "2026-08-03T19:28:57.000Z"
     },
     {
       "id": "n_0295a9d611",
@@ -546,7 +568,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is genui",
+      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
       "publishedAt": "2026-08-03T18:43:43.000Z"
@@ -556,7 +578,7 @@
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Congress’s favorite AI tool? ChatGPT",
+      "headline": "Congress’ favorite AI tool? ChatGPT",
       "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
@@ -594,28 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
       "publishedAt": "2026-08-01T20:26:04.000Z"
-    },
-    {
-      "id": "n_271ca55a8a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "publishedAt": "2026-08-01T19:45:45.000Z"
-    },
-    {
-      "id": "n_53ed436cb4",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Sam Altman is still making the case for parenting via ChatGPT",
-      "summary": "This isn’t the first time a tech CEO has promised that AI can shield users — and specifically users’ morning commutes — from the messiness and inefficiency of human experience.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-      "publishedAt": "2026-08-01T17:07:34.000Z"
     },
     {
       "id": "n_153c499b04",
