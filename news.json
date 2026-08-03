@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-08-02T21:42:25.689Z",
+  "generatedAt": "2026-08-03T01:27:15.359Z",
   "items": [
+    {
+      "id": "n_89197d886c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Trump kündigt neue Iran-Gespräche an",
+      "summary": "Kurz nach der Absage angeblich geplanter Angriffe auf Iran hat US-Präsident Trump neue Verhandlungen mit Teheran angekündigt. Diese sollen noch heute beginnen. Details zu den Teilnehmern nannte er allerdings nicht.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-verhandlungen-102.html",
+      "publishedAt": "2026-08-03T00:47:47.000Z"
+    },
+    {
+      "id": "n_c6e4527d73",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marokko macht Falschinformationen für Ceuta-Migration verantwortlich",
+      "summary": "Marokkos Regierung hat sich erstmals zu den Ereignissen in Ceuta geäußert. Sie macht Falschinformationen für die plötzliche Migration Zehntausender Menschen verantwortlich. Die Zahl der Todesopfer weicht von der spanischen Darstellung ab.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/afrika/ceuta-marokko-migranten-100.html",
+      "publishedAt": "2026-08-03T00:01:34.000Z"
+    },
+    {
+      "id": "n_1aac9acffe",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Maßnahmen gegen Migration: Was folgt auf die Ereignisse in Ceuta?",
+      "summary": "Der Andrang Zehntausender Menschen in der spanische Exklave Ceuta hat die EU-Staaten aufgeschreckt. Nun wird nach den Ursachen gesucht - und nach schärferen Maßnahmen gegen Migration. Einiges ist auch schon umgesetzt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/ceuta-ansturm-massnahmen-100.html",
+      "publishedAt": "2026-08-02T23:55:56.000Z"
+    },
+    {
+      "id": "n_02954b485d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Brasiliens 80-jähriger Präsident Lula tritt zur Wiederwahl an",
+      "summary": "Er will es noch mal wissen: Der 80-jährige Lula da Silva tritt erneut bei der Präsidentschaftswahl in Brasilien an. Er sei topfit, betonte er bei seiner Nominierung. Sein wichtigster Konkurrent steht bereits fest.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-lula-kandidatur-100.html",
+      "publishedAt": "2026-08-02T22:38:56.000Z"
+    },
+    {
+      "id": "n_091add1a16",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Israel äußert Bedenken zu Trumps Plan für Gaza-Entwaffnung",
+      "summary": "Schon vor Tagen hatte US-Präsident Trump eine Einigung zur Entwaffnung des Gazastreifens verkündet. Jetzt gibt es eine offizielle Reaktion aus Israel: Man habe den USA \"ernsthafte Sicherheitsbedenken\" übermittelt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/israel-bedenken-hamas-entwaffnung-100.html",
+      "publishedAt": "2026-08-02T22:06:11.000Z"
+    },
     {
       "id": "n_020104f9a5",
       "type": "news",
@@ -33,61 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/afrika/fnideq-nachbarstadt-ceuta-100.html",
       "publishedAt": "2026-08-02T18:41:43.000Z"
-    },
-    {
-      "id": "n_745e97c844",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Niedrigwasser der Donau: Ungarn erlebt \"beispiellose Energiekrise\"",
-      "summary": "Fast die Hälfte des benötigten Stroms fällt in Ungarn plötzlich weg. Wegen der anhaltenden Hitze muss das Atomkraftwerk Paks abgeschaltet werden. Premier Magyar spricht von einer \"beispiellosen Krise\". Von Clemens Verenkotte.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/niedrigwasser-donau-120.html",
-      "publishedAt": "2026-08-02T18:39:49.000Z"
-    },
-    {
-      "id": "n_a4282abbe8",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "US-Bundesstaat Washington: Waldbrand erreicht US-Großstadt Spokane",
-      "summary": "Ein schwerer Waldbrand bedroht die Stadt Spokane im US-Bundesstaat Washington. Tausende Menschen mussten fliehen, die Löscharbeiten werden durch den Wind erschwert. Der Gouverneur rief den Notstand aus.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/washington-state-waldbraende-100.html",
-      "publishedAt": "2026-08-02T18:14:55.000Z"
-    },
-    {
-      "id": "n_cbf19746fb",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Strand im ukrainischen Odessa: Zwischen Badebetrieb und Bombenalarm",
-      "summary": "Volle Strände, spielende Kinder - und jederzeit droht ein russischer Angriff. In Odessa liegen Sommerleichtigkeit und Kriegsgefahr dicht beieinander. Immer wieder ignorieren Menschen den Luftalarm, mit teils schlimmen Folgen. Von S. Laack.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-odessa-angriffe-106.html",
-      "publishedAt": "2026-08-02T17:41:41.000Z"
-    },
-    {
-      "id": "n_5dfe5b0e2e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Bas fordert Union zur Klärung bei \"Rente mit 63\" auf",
-      "summary": "Soll die \"Rente mit 63\" weg - oder doch nicht? Darüber gibt es in der Union derzeit Diskussion. Nun fordert SPD-Chefin Bas den Koalitionspartner auf, sich zu positionieren. Die Sozialdemokraten seien bereit, das Rentenpaket aufzuschnüren.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-bas-100.html",
-      "publishedAt": "2026-08-02T16:49:50.000Z"
-    },
-    {
-      "id": "n_94f0467cd4",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "CSU-Chef Söder wirbt für Geschlossenheit im ARD-Sommerinterview",
-      "summary": "Die CSU schwächelt nach der Kommunalwahl, doch Bayerns Ministerpräsident Söder bleibt gelassen. Er sieht seine Aufgabe als \"Stabilisator der Demokratie\", sagte er im ARD-Sommerinterview - auch mit Blick auf den wachsenden Erfolg der AfD.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-soeder-112.html",
-      "publishedAt": "2026-08-02T16:43:51.000Z"
     },
     {
       "id": "n_54cd87934e",
@@ -274,7 +274,7 @@
       "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T20:36:37.000Z"
+      "publishedAt": "2026-08-03T01:03:31.000Z"
     },
     {
       "id": "n_e6787591c2",
