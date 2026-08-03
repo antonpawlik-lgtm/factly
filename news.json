@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-08-03T01:27:15.359Z",
+  "generatedAt": "2026-08-03T06:08:01.337Z",
   "items": [
+    {
+      "id": "n_37d093c7ca",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Feuerwehren in Griechenland kämpfen gegen 73 Waldbrände",
+      "summary": "In Griechenland kämpfen die Feuerwehren weiter gegen etliche Waldbrände. Einer nähert sich gefährlich nah der Stadt Megara, westlich von Athen. Der Bürgermeister spricht von einer chaotischen Lage.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-griechenland-158.html",
+      "publishedAt": "2026-08-03T05:44:02.000Z"
+    },
+    {
+      "id": "n_9f3a76750a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: DAX dürfte neues Allzeithoch erreichen",
+      "summary": "Am Freitag war der DAX knapp am Allzeithoch gescheitert, schon zum Wochenbeginn könnte es zu einem neuen Rekord kommen. Die Hoffnung auf eine Deeskalation im Iran-Krieg hebt die Stimmung.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-142.html",
+      "publishedAt": "2026-08-03T05:43:04.000Z"
+    },
+    {
+      "id": "n_a7eb79eb47",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wachsender Protest gegen Rechenzentren in den USA",
+      "summary": "In den USA wächst der Widerstand gegen Rechenzentren - weil sie Lärm machen, viel Kühlwasser verbrauchen und oft die Luft verpesten. Häufig stehen die Anlagen in Wohngebieten, was die Anwohner nervt - über Parteigrenzen hinweg. Von C. Kühntopp.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-rechenzentren-proteste-100.html",
+      "publishedAt": "2026-08-03T05:12:19.000Z"
+    },
+    {
+      "id": "n_a248ecac85",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Polizei sichert mit Archäologie Spuren unter der Erde",
+      "summary": "Vergrabene Tatorte stellen Ermittler vor besondere Herausforderungen. Deshalb lernen Kriminaltechniker Methoden der forensischen Archäologie, um selbst jahrzehntealte und verborgene Spuren zu sichern. Von Sebastian Kirschner.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wissen/forschung/polizei-forensik-archaeologie-spurensicherung-100.html",
+      "publishedAt": "2026-08-03T04:37:29.000Z"
+    },
+    {
+      "id": "n_4747cbfd27",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Etliche Auslandseinsätze von Priestern nach Missbrauchsvorwürfen",
+      "summary": "Katholische Priester, denen sexueller Missbrauch vorgeworfen wurde, wurden häufiger im Ausland eingesetzt als bisher bekannt - das zeigt eine Bistums-Umfrage für das ARD Radiofeature. Teils hatten die Männer dort wieder Kontakt zu Kindern.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/investigativ/missbrauchsvorwuerfe-priester-versetzung-100.html",
+      "publishedAt": "2026-08-03T04:02:57.000Z"
+    },
     {
       "id": "n_89197d886c",
       "type": "news",
@@ -10,18 +65,18 @@
       "summary": "Kurz nach der Absage angeblich geplanter Angriffe auf Iran hat US-Präsident Trump neue Verhandlungen mit Teheran angekündigt. Diese sollen noch heute beginnen. Details zu den Teilnehmern nannte er allerdings nicht.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/trump-iran-verhandlungen-102.html",
-      "publishedAt": "2026-08-03T00:47:47.000Z"
+      "publishedAt": "2026-08-03T03:43:32.000Z"
     },
     {
       "id": "n_c6e4527d73",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Marokko macht Falschinformationen für Ceuta-Migration verantwortlich",
+      "headline": "Marokko macht Falschinformationen für Ceuta verantwortlich",
       "summary": "Marokkos Regierung hat sich erstmals zu den Ereignissen in Ceuta geäußert. Sie macht Falschinformationen für die plötzliche Migration Zehntausender Menschen verantwortlich. Die Zahl der Todesopfer weicht von der spanischen Darstellung ab.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/afrika/ceuta-marokko-migranten-100.html",
-      "publishedAt": "2026-08-03T00:01:34.000Z"
+      "publishedAt": "2026-08-03T02:32:16.000Z"
     },
     {
       "id": "n_1aac9acffe",
@@ -33,61 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/ceuta-ansturm-massnahmen-100.html",
       "publishedAt": "2026-08-02T23:55:56.000Z"
-    },
-    {
-      "id": "n_02954b485d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Brasiliens 80-jähriger Präsident Lula tritt zur Wiederwahl an",
-      "summary": "Er will es noch mal wissen: Der 80-jährige Lula da Silva tritt erneut bei der Präsidentschaftswahl in Brasilien an. Er sei topfit, betonte er bei seiner Nominierung. Sein wichtigster Konkurrent steht bereits fest.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-lula-kandidatur-100.html",
-      "publishedAt": "2026-08-02T22:38:56.000Z"
-    },
-    {
-      "id": "n_091add1a16",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Israel äußert Bedenken zu Trumps Plan für Gaza-Entwaffnung",
-      "summary": "Schon vor Tagen hatte US-Präsident Trump eine Einigung zur Entwaffnung des Gazastreifens verkündet. Jetzt gibt es eine offizielle Reaktion aus Israel: Man habe den USA \"ernsthafte Sicherheitsbedenken\" übermittelt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-bedenken-hamas-entwaffnung-100.html",
-      "publishedAt": "2026-08-02T22:06:11.000Z"
-    },
-    {
-      "id": "n_020104f9a5",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Mahnwache für die Opfer des CSD-Anschlags in Berlin",
-      "summary": "Etwa eine Woche ist der Terroranschlag auf den Christopher Street Day in Berlin her. Die Wut und Trauer ist groß. Die queere Community hat der Opfer der Tat gedacht. Auch vor dem Roten Rathaus versammelten sich Menschen im Gedenken.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/berlin/mahnwache-csd-anschlag-100.html",
-      "publishedAt": "2026-08-02T19:05:01.000Z"
-    },
-    {
-      "id": "n_d1f26e46d1",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Leben in Prag - zwischen Hitzeschutz und Klimaskepsis",
-      "summary": "Tschechien leidet unter der zweiten Hitzewelle des Jahres. Und nach den Waldbränden in Südeuropa wächst auch dort die Sorge vor Feuern. In Prag wurden fast 40 Grad gemessen - doch die Politik tut sich weiterhin schwer, die neue Realität zu akzeptieren. Von M. von Lieben.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/hitzeschutz-klimaskepsis-tschechien-100.html",
-      "publishedAt": "2026-08-02T18:43:24.000Z"
-    },
-    {
-      "id": "n_217cd646b3",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Rückkehr aus Ceuta: Ein Nachbarort im Ausnahmezustand",
-      "summary": "In Ceuta normalisiert sich die Lage nach dem Massenandrang, ganz anders sieht es im Nachbarort Fnideq aus. Die Menschen kehren erschöpft dorthin zurück, wo alles begann. Eindrücke aus einer Stadt im Ausnahmezustand. Von Stefan Ehlert.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/fnideq-nachbarstadt-ceuta-100.html",
-      "publishedAt": "2026-08-02T18:41:43.000Z"
     },
     {
       "id": "n_54cd87934e",
@@ -178,6 +178,39 @@
       "publishedAt": "2026-07-30T15:10:00.000Z"
     },
     {
+      "id": "n_610d96cef2",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "KI-Boom: Macbooks werden wegen Speicherkrise Mangelware",
+      "summary": "Wer aktuell ein Macbook Air bestellt, braucht Geduld. Schuld ist der durch den KI-Boom ausgelöste globale Speichermangel. (Macbook Air, Apple)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/ki-boom-macbooks-werden-wegen-speicherkrise-mangelware-2608-211524.html",
+      "publishedAt": "2026-08-03T05:51:02.000Z"
+    },
+    {
+      "id": "n_748c97afb6",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Sikorsky Nomad 100: Senkrechtstarter-Drohne besteht ersten Testflug",
+      "summary": "Sikorsky hat mit der Drohne Nomad 100 erste Boden- und Flugtests abgeschlossen. Die Senkrechtstarter-Drohne soll Kampfflugzeuge unterstützen. (Lockheed Martin, Politik)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/sikorsky-nomad-100-senkrechtstarter-drohne-besteht-ersten-testflug-2608-211523.html",
+      "publishedAt": "2026-08-03T05:32:01.000Z"
+    },
+    {
+      "id": "n_22f32bda31",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Preiserhöhungen: Xbox Series X kostet jetzt 300 Euro mehr als zum Marktstart",
+      "summary": "Microsoft hat die neuen Xbox-Preise für Europa veröffentlicht. Die Aufschläge fallen teils deutlich höher aus als in den USA. (Xbox, Microsoft)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/preiserhoehungen-xbox-series-x-kostet-jetzt-300-euro-mehr-als-zum-marktstart-2608-211522.html",
+      "publishedAt": "2026-08-03T05:22:02.000Z"
+    },
+    {
       "id": "n_2f5b5972fe",
       "type": "news",
       "topic": "tech",
@@ -233,37 +266,48 @@
       "publishedAt": "2026-08-02T11:16:02.000Z"
     },
     {
-      "id": "n_44ab43d017",
+      "id": "n_2e80605faa",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Aktienkurs und KI: Alphabet, Amazon, Microsoft legen um 1,4 Billionen Dollar zu",
-      "summary": "In dieser Woche sind fast 2 Billionen Dollar beim Börsenwert von Megacaps hin- und hergeflossen. Die laufende Berichtssaison steht im Zeichen von KI. (Cloud Computing, Microsoft)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/aktienkurs-und-ki-alphabet-amazon-microsoft-legen-um-1-4-billionen-dollar-zu-2608-211516.html",
-      "publishedAt": "2026-08-02T10:37:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+      "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T03:32:21.000Z"
     },
     {
-      "id": "n_2bc7f8fa53",
+      "id": "n_ce628e0438",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "RAN: Verspätete Stromanschlüsse bremsen Mobilfunkausbau erheblich",
-      "summary": "Der Mast steht, doch der Strom fehlt: Trotz gesetzlicher Nachbesserungen bleibt die Stromanbindung das Nadelöhr beim deutschen Mobilfunk-Ausbau. (Mobilfunk, Bitkom)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/ran-verspaetete-stromanschluesse-bremsen-mobilfunkausbau-erheblich-2608-211515.html",
-      "publishedAt": "2026-08-02T09:55:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "US and Japan take action to prop up yen in rare joint move",
+      "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T02:43:06.000Z"
     },
     {
-      "id": "n_f238493931",
+      "id": "n_d1865ac92d",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Airtag-Konkurrent: Googles Bluetooth-Tracker Pixel Tag vor dem Start",
-      "summary": "Google soll in Kürze einen Airtag-Konkurrenten vorstellen. In ersten Webshops ist der Pixel Tag bereits aufgetaucht. (Google, Android)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/airtag-konkurrent-googles-bluetooth-tracker-pixel-tag-vor-dem-start-2608-211513.html",
-      "publishedAt": "2026-08-02T09:22:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Malaysian boy on trial for allegedly murdering girl in school",
+      "summary": "The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T01:43:16.000Z"
+    },
+    {
+      "id": "n_05d148b7a8",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Massive Attack respond after Singapore ban over Palestine display",
+      "summary": "The UK band says they are \"surprised and disappointed\" by their treatment over shouting \"free Palestine\" at a concert there.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T01:31:05.000Z"
     },
     {
       "id": "n_0fa80837ef",
@@ -277,81 +321,37 @@
       "publishedAt": "2026-08-03T01:03:31.000Z"
     },
     {
-      "id": "n_e6787591c2",
+      "id": "n_57b1ff7bea",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "At the scene of deadly Moscow bomb blast",
-      "summary": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
+      "headline": "Trump suggests new talks with Iran to begin on Monday",
+      "summary": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T16:52:35.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T00:11:18.000Z"
     },
     {
-      "id": "n_2aa3d654b3",
+      "id": "n_dc76c9eb20",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
-      "summary": "Yonatan Netanyahu was the only Israeli soldier to die as he led a mission to free more than 100 hostages.",
+      "headline": "'What was my fault?': How India's exam paper leak ended young lives",
+      "summary": "Two families reveal the human toll of India's medical entrance examination paper leak.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T16:37:02.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T23:35:54.000Z"
     },
     {
-      "id": "n_8cc100f996",
+      "id": "n_bb5b4dd8a4",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-      "summary": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
+      "headline": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+      "summary": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T15:50:59.000Z"
-    },
-    {
-      "id": "n_013842aef0",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-      "summary": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T15:48:00.000Z"
-    },
-    {
-      "id": "n_9cb28f9ebe",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Five dead and 41 missing after Indonesia ferry catches fire",
-      "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T11:49:40.000Z"
-    },
-    {
-      "id": "n_f189c87d74",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T11:12:00.000Z"
-    },
-    {
-      "id": "n_68e3e9e829",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Fastest runner to cross the Alps says it was an incredible experience",
-      "summary": "Sophie Woods ran the Via Alpina through storms, heat of up to 37C and dodged floods and wildfires across eight countries.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-02T10:59:55.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-02T23:15:14.000Z"
     },
     {
       "id": "n_9ef32dfc5e",
@@ -1047,102 +1047,6 @@
       "publishedAt": "2026-07-16T11:49:48.000Z"
     },
     {
-      "id": "n_cd099417b9",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
-      "thumbnail": "https://i.ytimg.com/vi/8B05cy3UuSE/hqdefault.jpg",
-      "publishedAt": "2026-08-02T15:01:10.000Z"
-    },
-    {
-      "id": "n_a8e1e70bfc",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Kimi K3 Just Broke The Economics Of AI",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
-      "thumbnail": "https://i.ytimg.com/vi/Xj-QdEUxJkE/hqdefault.jpg",
-      "publishedAt": "2026-07-29T12:37:50.000Z"
-    },
-    {
-      "id": "n_9363752886",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude Just Revealed AI's Biggest Problem",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
-      "thumbnail": "https://i.ytimg.com/vi/axOcn--n_lM/hqdefault.jpg",
-      "publishedAt": "2026-07-16T15:39:17.000Z"
-    },
-    {
-      "id": "n_b87b50ece3",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Anthropic Found Something That Shouldn't Exist",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
-      "thumbnail": "https://i.ytimg.com/vi/0CqLVnx-2UM/hqdefault.jpg",
-      "publishedAt": "2026-07-15T13:58:27.000Z"
-    },
-    {
-      "id": "n_49a7d5405f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
-      "publishedAt": "2026-07-28T20:02:11.000Z"
-    },
-    {
-      "id": "n_39feb22ff6",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
-      "thumbnail": "https://i.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
-      "publishedAt": "2026-06-30T21:16:13.000Z"
-    },
-    {
-      "id": "n_6a7b36e7cd",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
-      "thumbnail": "https://i.ytimg.com/vi/1M3Vdl6DRkU/hqdefault.jpg",
-      "publishedAt": "2026-05-29T16:18:31.000Z"
-    },
-    {
-      "id": "n_c402ebf7aa",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
-      "thumbnail": "https://i.ytimg.com/vi/nepKKz-MzFM/hqdefault.jpg",
-      "publishedAt": "2026-05-06T22:03:16.000Z"
-    },
-    {
       "id": "n_b67d3be64b",
       "type": "video",
       "topic": "video",
@@ -1189,42 +1093,6 @@
       "url": "https://www.youtube.com/watch?v=M51asSwRLxA",
       "thumbnail": "https://i.ytimg.com/vi/M51asSwRLxA/hqdefault.jpg",
       "publishedAt": "2026-07-20T17:02:30.000Z"
-    },
-    {
-      "id": "n_5f31592cac",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Galaxy Z Fold 8 Review: Honeymoon's Over",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=Z6z_feacXW8",
-      "thumbnail": "https://i.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg",
-      "publishedAt": "2026-08-01T00:05:00.000Z"
-    },
-    {
-      "id": "n_bf51349fdf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Framework 13 Pro: The Modular Laptop is Real!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
-      "thumbnail": "https://i.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg",
-      "publishedAt": "2026-07-27T15:38:21.000Z"
-    },
-    {
-      "id": "n_64ebc2a7bf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
-      "thumbnail": "https://i.ytimg.com/vi/8Hx2yvWSgs0/hqdefault.jpg",
-      "publishedAt": "2026-07-22T13:01:05.000Z"
     }
   ]
 }
