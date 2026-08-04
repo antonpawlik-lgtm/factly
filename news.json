@@ -1,60 +1,27 @@
 {
-  "generatedAt": "2026-08-04T11:13:00.839Z",
+  "generatedAt": "2026-08-04T13:40:41.221Z",
   "items": [
     {
-      "id": "n_c8d655fcdb",
+      "id": "n_55bffb5e20",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Verletzte, Schäden und Verkehrsprobleme durch Unwetter",
-      "summary": "Gesperrte Bahnstrecken, abgedeckte Dächer und Unfälle - erste Unwetter haben bereits Teile Deutschlands getroffen und sollen nun Richtung Südwesten ziehen. Der Deutsche Wetterdienst warnt erneut vor hohen Temperaturen.",
+      "headline": "Warum das Niedrigwasser das Wirtschaftswachstum bremst",
+      "summary": "Die niedrigen Pegelstände deutscher Flüsse haben massive Folgen für die Wirtschaft: Bleibt die Binnenschifffahrt auf dem Rhein länger eingeschränkt, könnte das ohnehin kleine Wirtschaftswachstum zunichte gemacht werden, warnt das IW.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/wetter-unwetter-102.html",
-      "publishedAt": "2026-08-04T10:22:27.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftliche-folgen-niedrigwasser-rhein-donau-100.html",
+      "publishedAt": "2026-08-04T13:15:42.000Z"
     },
     {
-      "id": "n_d8973e1a40",
+      "id": "n_b0d2cc30e3",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Kleinstes Modell von Boeings 737-Max-Reihe zugelassen",
-      "summary": "Seit 2022 wartete Boeing auf die Zulassung seines kleinsten Flugzeugs aus der 737-MAX-Reihe. Nun hat die US-Luftfahrtbehörde FAA die 737 MAX 7 freigegeben. Zuvor hatte es mehrfach Sicherheitsmängel gegeben.",
+      "headline": "Ölkonzerne jubeln über Riesengewinne",
+      "summary": "Teures Rohöl und hohe Spritpreise bringen den internationalen Ölkonzernen enorme Extragewinne ein. So hat der britische BP seinen Nettogewinn verdoppelt. Das erfreut Investoren - während Autofahrer und Verbraucher leiden.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/boeing-zulassung-flugzeug-737max7-100.html",
-      "publishedAt": "2026-08-04T10:14:13.000Z"
-    },
-    {
-      "id": "n_a0f0d8feb3",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Vier Verletzte nach Schüssen in Köln",
-      "summary": "Vier Menschen sind durch Schüsse in Köln zum Teil schwer verletzt worden. Die Schüsse sollen nach Angaben der Polizei auf einer Straße mitten im Stadtteil Mühlheim abgefeuert worden sein. Die Hintergründe sind noch unklar.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/koeln-vier-verletzte-nach-schuessen-100.html",
-      "publishedAt": "2026-08-04T09:50:00.000Z"
-    },
-    {
-      "id": "n_7158ef0071",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Zahl der Erdbebenopfer in Venezuela steigt auf mehr als 6.000",
-      "summary": "Die Lage in Venezuela ist nach den Erdbeben Ende Juni weiterhin verheerend. Neusten offiziellen Angaben zufolge sind mehr als 6.000 Menschen getötet worden. Gleichzeitig werden aber noch Tausende vermisst.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-tote-106.html",
-      "publishedAt": "2026-08-04T09:13:52.000Z"
-    },
-    {
-      "id": "n_f56625205d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: DAX markiert neue Rekordstände",
-      "summary": "Der DAX bleibt auf Klettertour - und profitiert von der Hoffnung auf eine diplomatische Einigung im Nahen Osten. Neue Unternehmensergebnisse fallen derweil gemischt aus. Spannend wird es dann am Abend.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oel-100.html",
-      "publishedAt": "2026-08-04T09:03:56.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bp-oelkonzerne-oelpreis-gewinn-bilanz-inflation-100.html",
+      "publishedAt": "2026-08-04T12:46:20.000Z"
     },
     {
       "id": "n_02cb45d436",
@@ -65,29 +32,84 @@
       "summary": "Ein Waldbrand in den Niederlanden unweit der Grenze zu Nordrhein-Westfalen ist weiter nicht unter Kontrolle. Der Brand hat auch Auswirkungen auf den Kreis Kleve: Anwohner müssen sich auf teils deutlichen Brandgeruch einstellen.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/waldbrand-niederlande-rauch-kreis-kleve-100.html",
-      "publishedAt": "2026-08-04T09:01:00.000Z"
+      "publishedAt": "2026-08-04T12:22:00.000Z"
+    },
+    {
+      "id": "n_ea6c0768d6",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Hohe Kerosinpreise: Lufthansa-Gewinn bricht stark ein",
+      "summary": "Vor allem der teure Treibstoff infolge des Iran-Kriegs hat bei der Lufthansa für einen drastischen Gewinneinbruch im zweiten Quartal gesorgt. Kunden müssen sich auf steigende Ticketpreise einstellen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/lufthansa-gewinneinbruch-100.html",
+      "publishedAt": "2026-08-04T12:16:19.000Z"
     },
     {
       "id": "n_27a91362ec",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Medienbericht: Bundesregierung erarbeitet Pläne für Zivildienst",
+      "headline": "Bundesregierung erarbeitet Pläne für Zivildienst",
       "summary": "Seit Anfang des Jahres gilt ein neuer Wehrdienst. Dieser umfasst keine Wehrpflicht. Sollte die doch wieder eingeführt werden, könnte auch der verpflichtende Zivildienst zurückkehren. Genau dafür plant die Bundesregierung bereits.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/zivildienst-112.html",
-      "publishedAt": "2026-08-04T08:14:33.000Z"
+      "publishedAt": "2026-08-04T12:08:56.000Z"
     },
     {
-      "id": "n_f0da27ab79",
+      "id": "n_3b65d89820",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "US-Datenfirma Palantir steigert Umsatz um mehr als 90 Prozent",
-      "summary": "Der umstrittene US-Datenanalyse-Spezialist Palantir meldet für das vergangene Quartal einen Rekordumsatz - vor allem wegen des Geschäfts in den Vereinigten Staaten: Die Erlöse dort haben sich zuletzt mehr als verdoppelt.",
+      "headline": "Flüsse erreichen neue Tiefststände durch Niedrigwasser",
+      "summary": "Die Wasserstände der Flüsse sinken weiter, teils auf neue Tiefstände. Die Lage droht, sich weiter zu verschlechtern. Langfristig könnte weniger Wasserabfluss Entlastung bringen. Vor allem für die Landwirtschaft hätte das Folgen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/datenanalyse-ki-palantir-umsatzplus-100.html",
-      "publishedAt": "2026-08-04T08:00:34.000Z"
+      "url": "https://www.tagesschau.de/inland/niedrigwasser-tiefstaende-fluesse-100.html",
+      "publishedAt": "2026-08-04T12:00:24.000Z"
+    },
+    {
+      "id": "n_78ebcbca35",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ärger nach Sanierung: Pfusch am \"Reflecting Pool\" spaltet das Weiße Haus",
+      "summary": "Abgeblätterte Farbe und Algen im frisch sanierten \"Reflecting Pool\" in Washington: US-Präsident Trump wittert dahinter Vandalismus. Doch die Staatsanwaltschaft hat Anklagen fallengelassen - was für Ärger im Weißen Haus sorgt. Von S. Jackisch.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/reflecting-pool-pfusch-100.html",
+      "publishedAt": "2026-08-04T11:54:19.000Z"
+    },
+    {
+      "id": "n_8383bdf84a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Russland meldet mehrere Tote durch ukrainische Drohnenangriffe",
+      "summary": "Sowohl Russland als auch die Ukraine melden mehrere Tote durch erneute Drohnenangriffe. Die Türkei prangert Attacken auf Schiffe landeseigener Reeder an. Auf der Halbinsel Krim feuerte ein russischer Soldat auf eigene Kameraden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-drohnenangriffe-118.html",
+      "publishedAt": "2026-08-04T11:47:19.000Z"
+    },
+    {
+      "id": "n_8d4e8bc13a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Rechtsstreit zwischen Apple und OpenAI: iMessage-Chats und Mails veröffentlicht",
+      "summary": "OpenAI reagiert auf Apples Klage wegen angeblichen Diebstahls von Geschäftsgeheimnissen mit der Veröffentlichung von E-Mails und Chatverläufen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Rechtsstreit-zwischen-Apple-und-OpenAI-iMessage-Chats-und-Mails-veroeffentlicht-11398513.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-04T13:26:00.000Z"
+    },
+    {
+      "id": "n_0808fef1e9",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Betrug bei Online-Tests: Universität wiederholt 58.000 Aufnahmeprüfungen",
+      "summary": "An einer Universität in Mexiko erzielten sechsmal mehr Bewerber Bestnoten als in Vorjahren. Die Hochschulleitung setzt neue Prüfungen in Präsenz an.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Betrug-bei-Online-Tests-Universitaet-wiederholt-58-000-Aufnahmepruefungen-11398126.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-04T13:17:00.000Z"
     },
     {
       "id": "n_7875e68d65",
@@ -156,114 +178,125 @@
       "publishedAt": "2026-07-31T10:55:00.000Z"
     },
     {
-      "id": "n_815929f49a",
+      "id": "n_0300bec9bf",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Zu hohe KI-Nutzung: Apple erwägt Aufpreise für iCloud+",
-      "summary": "Mit Siri AI wird die KI-Verwendung auf Apple-Hardware zunehmen. Bereits bekannt war, dass iCloud+-Kunden sie stärker nutzen dürfen. Doch dabei bleibt es nicht.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/iCloud-Apple-plant-Aufpreise-fuer-KI-Vielnutzer-11388784.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-07-31T10:00:00.000Z"
-    },
-    {
-      "id": "n_0cd903444f",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "KI-Ausbau: Techriesen haben mehr als eine Billion Dollar investiert",
-      "summary": "Amazon, Alphabet, Meta und Microsoft treiben den KI-Ausbau mit beispiellosem Kapitaleinsatz voran, trotz wachsender Zweifel an der Tragfähigkeit des Booms.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/KI-Ausbau-der-Techriesen-Investitionen-ueberschreiten-eine-Billion-Dollar-11388989.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-07-31T09:45:00.000Z"
-    },
-    {
-      "id": "n_3b5e0cc178",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Bug-Bounty-Rekord: Microsoft verteilt 20 Millionen US-Dollar an IT-Forscher",
-      "summary": "Microsoft hat einen neuen Rekord bei der Ausschüttung seiner Bug-Bounty-Prämien aufgestellt. Für die Forscher war das aber nicht unbedingt von Vorteil. (Sicherheitslücke, Microsoft)",
+      "headline": "Mondbeobachtung: Einschlag von Falcon-9 auf dem Mond wohl sichtbar",
+      "summary": "Weil Simulationen eine mächtige Staubwolke vorhersagen, könnten die Folgen des Einschlags einer Raketenoberstufe von der aus Erde sichtbar sein. (Falcon-9, Weltraumteleskop)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/bug-bounty-rekord-microsoft-verteilt-20-millionen-us-dollar-an-it-forscher-2608-211580.html",
-      "publishedAt": "2026-08-04T11:00:01.000Z"
+      "url": "https://www.golem.de/news/mondbeobachtung-einschlag-von-falcon-9-auf-dem-mond-wohl-sichtbar-2608-211586.html",
+      "publishedAt": "2026-08-04T13:16:02.000Z"
     },
     {
-      "id": "n_2732cd3a5b",
+      "id": "n_3a0c642f47",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Anker 140-W-Ladegerät mit vier Ports und Display zum Bestpreis nur 69,96 Euro bei Amazon",
-      "summary": "Das Anker 140-W-Ladegerät lädt vier Geräte gleichzeitig per GaN-Technik und ist bei Amazon zum Bestpreis erhältlich. (Technik/Hardware, iPhone)",
+      "headline": "Anzeige: Apple Watch 11 bei Amazon 110 Euro günstiger als beim Hersteller",
+      "summary": "Eine Smartwatch ist wie ein Computer am Armband. Die besonders beliebte Apple Watch 11 ist bei Amazon jetzt 100 Euro günstiger als beim Hersteller. (Apple Watch, Apple)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-anker-140-w-ladegeraet-mit-vier-ports-und-display-zum-bestpreis-nur-69-96-euro-bei-amazon-2608-211582.html",
-      "publishedAt": "2026-08-04T10:56:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-apple-watch-11-bei-amazon-110-euro-guenstiger-als-beim-hersteller-2608-211591.html",
+      "publishedAt": "2026-08-04T13:08:02.000Z"
     },
     {
-      "id": "n_4d9984f310",
+      "id": "n_38560e9705",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Früher Social-Media-Start: Schüler verlieren Lernstoff von sechs Monaten",
-      "summary": "Ein eigener Social-Media-Account verschlechtert die Leistung von Schülern drastisch. Es gibt eine Ausnahme. (Social-Media-Verbot, Soziales Netz)",
+      "headline": "Robotaxi: Waymo darf Nachbarn nicht mehr mit nächtlichem Laden stören",
+      "summary": "In Santa Monica hat Waymo seine Autos nachts in einem Wohngebiet aufgeladen - zum Leidwesen der Anwohner. Ein Gericht untersagt die Praxis vorerst. (Waymo, Auto)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/frueher-social-media-start-schueler-verlieren-lernstoff-von-sechs-monaten-2608-211576.html",
-      "publishedAt": "2026-08-04T10:45:02.000Z"
+      "url": "https://www.golem.de/news/robotaxi-waymo-darf-nachbarn-nicht-mehr-mit-naechtlichem-laden-stoeren-2608-211590.html",
+      "publishedAt": "2026-08-04T12:48:06.000Z"
     },
     {
-      "id": "n_50c0fcba5a",
+      "id": "n_94547482a5",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Instant Messenger: ICQ Reborn bringt den alten Messenger mit ICQ-Nummern zurück",
-      "summary": "Eigentlich wurde ICQ bereits 2024 abgeschaltet. Ein Community-Projekt lässt die App samt Retro-GUI und Sounds wieder neu entstehen. (ICQ, Instant Messenger)",
+      "headline": "Anzeige: Soundbar mit kabellosem Subwoofer bei Amazon 35 Prozent günstiger",
+      "summary": "Bei Amazon gibt es derzeit die Ultimea Poseidon M40 im Angebot. Die Soundbar mit kabellosem Subwoofer ist um 35 Prozent reduziert. (Soundbar, Sound-Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/instant-messenger-icq-reborn-bringt-den-alten-messenger-mit-icq-nummern-zurueck-2608-211577.html",
-      "publishedAt": "2026-08-04T10:30:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-soundbar-mit-kabellosem-subwoofer-bei-amazon-35-prozent-guenstiger-2608-211579.html",
+      "publishedAt": "2026-08-04T12:43:01.000Z"
     },
     {
-      "id": "n_8e9bb1b1eb",
+      "id": "n_bcae108c23",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Hays-Fachkräfte-Index: Spezialisten für IT-Security und Entwickler weniger gesucht",
-      "summary": "Jahrelang waren sie heiß begehrt, jetzt sind IT-Security-Experten deutlich weniger gefragt. In einem anderen Bereich wachsen die IT-Job-Gesuche. (Arbeit, Studien)",
+      "headline": "Anzeige: Mechanische Gaming-Tastatur für nur 35,67 Euro bei Amazon",
+      "summary": "Eine mechanische Gaming-Tastatur mit roten Schaltern, programmierbaren Tasten und Beleuchtungseffekten gibt es bei Amazon zum Sparpreis. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/hays-fachkraefte-index-spezialisten-fuer-it-security-und-entwickler-weniger-gesucht-2608-211574.html",
-      "publishedAt": "2026-08-04T10:15:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-mechanische-gaming-tastatur-fuer-nur-35-67-euro-bei-amazon-2608-211588.html",
+      "publishedAt": "2026-08-04T12:40:02.000Z"
     },
     {
-      "id": "n_7f5aaff1bc",
+      "id": "n_b31c2f358d",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Seagate 2TB Game Drive für Xbox zum Sparpreis",
-      "summary": "Der Speicher der Konsole ist schnell voll. Amazon reduziert die Seagate 2TB Game Drive für Xbox auf einen starken Sparpreis unter 110 Euro. (Technik/Hardware)",
+      "headline": "Dell'Oro: Vodafone baut in aller Stille DOCSIS 4.0 Hardware im Netz aus",
+      "summary": "Vodafone baut bereits 1,8-GHz-Verstärker und NC4000-Nodes von Vistance Networks im großen Stil in sein Kabelnetz ein. Laut Dell'Oro Group ist das eine klare Vorbereitung für DOCSIS 4.0. (Vodafone, Kabelnetz)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-seagate-2tb-game-drive-fuer-xbox-zum-sparpreis-2608-211578.html",
-      "publishedAt": "2026-08-04T10:10:02.000Z"
+      "url": "https://www.golem.de/news/dell-oro-vodafone-baut-in-aller-stille-docsis-4-0-hardware-im-netz-aus-2608-211587.html",
+      "publishedAt": "2026-08-04T12:29:01.000Z"
     },
     {
-      "id": "n_29e90a1817",
+      "id": "n_18efd5d6b7",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Aktienmarkt und Politik: Wie Rhetorik aus dem Weißen Haus Börsenkurse beeinflusst",
-      "summary": "Was passiert, wenn das Weiße Haus Unternehmen nennt? Eine Analyse von 4.500 Nennungen zeigt überraschende Gewinner, Verlierer und späte Kursreaktionen. Eine Analyse von Oliver Jessner (Börse, Politik)",
+      "headline": "Google Home Speaker: Neuer Gemini-Smart-Speaker kostet 120 Euro",
+      "summary": "Google hat seinen neuen Smart Speaker vorgestellt: Der Home Speaker ist voll auf Gemini zugeschnitten, bestimmte Funktionen gibt es nur mit Abo. (Lautsprecher, Sound-Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/aktienmarkt-und-politik-wie-rhetorik-aus-dem-weissen-haus-boersenkurse-beeinflusst-2608-211218.html",
-      "publishedAt": "2026-08-04T10:00:02.000Z"
+      "url": "https://www.golem.de/news/google-home-speaker-neuer-gemini-smart-speaker-kostet-120-euro-2608-211585.html",
+      "publishedAt": "2026-08-04T12:13:02.000Z"
     },
     {
-      "id": "n_242ad75ba5",
+      "id": "n_eca5cf1517",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Legends: Star-Trek-Spiel verschwindet in den Tiefen des Alls",
-      "summary": "Trotz Sternenflottenprominenz: Erst bleiben die Spieler aus, jetzt folgt das endgültige Aus für Star Trek Legends. (Star Trek, Rollenspiel)",
+      "headline": "Anzeige: Apple Magic Keyboard für iPad Pro fast 70 Euro günstiger",
+      "summary": "Das Apple Magic Keyboard Case für das iPad Pro (M4) ist selten reduziert. Amazon senkt den Preis der Premium-Tastatur auf einen Tiefstpreis. (Technik/Hardware, iPad)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/legends-star-trek-spiel-verschwindet-in-den-tiefen-des-alls-2608-211572.html",
-      "publishedAt": "2026-08-04T09:40:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-apple-magic-keyboard-fuer-ipad-pro-fast-70-euro-guenstiger-2608-211581.html",
+      "publishedAt": "2026-08-04T12:05:02.000Z"
+    },
+    {
+      "id": "n_84eac73d6c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "World's oldest president reshuffles army as his absence stokes unease",
+      "summary": "Cameroon's president has been absent for two months while his team denies rumours about his health.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg9kd27lkpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T12:43:52.000Z"
+    },
+    {
+      "id": "n_b72631da34",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "More than 150 migrants rescued after boat catches fire in Channel",
+      "summary": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T11:19:08.000Z"
+    },
+    {
+      "id": "n_2b57d9598e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
+      "summary": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T11:19:01.000Z"
     },
     {
       "id": "n_b3726b8d27",
@@ -275,17 +308,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c2lqpvv1wlxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-04T10:56:50.000Z"
-    },
-    {
-      "id": "n_b72631da34",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "More than 150 migrants rescued after boat catches fire in Channel",
-      "summary": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T10:52:01.000Z"
     },
     {
       "id": "n_80b01a961e",
@@ -310,17 +332,6 @@
       "publishedAt": "2026-08-04T10:04:53.000Z"
     },
     {
-      "id": "n_2b57d9598e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Five dead in Moscow region as Ukraine continues warehouse strikes",
-      "summary": "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T09:35:06.000Z"
-    },
-    {
       "id": "n_569318a6a4",
       "type": "news",
       "topic": "general",
@@ -341,17 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-04T09:23:06.000Z"
-    },
-    {
-      "id": "n_d72fa88fe8",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Moment pilot caught with 70,000 ecstasy pills at Indonesian airport",
-      "summary": "A Malaysian pilot was arrested at Jakarta airport after being found with around four stone (26kg) of drugs hidden in his luggage.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c9d8662gyx5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T09:18:03.000Z"
     },
     {
       "id": "n_4809b920c6",
@@ -530,6 +530,28 @@
       "publishedAt": "2026-08-03T11:00:11.000Z"
     },
     {
+      "id": "n_acf8eb5bad",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Is the future of data centers portable? Runware builds a pod to find out",
+      "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+      "publishedAt": "2026-08-04T13:00:00.000Z"
+    },
+    {
+      "id": "n_4250ad4d29",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "EON wants to move the data superhighway from ocean fiber to space lasers",
+      "summary": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+      "publishedAt": "2026-08-04T12:00:00.000Z"
+    },
+    {
       "id": "n_2b53ceafa8",
       "type": "news",
       "topic": "ai",
@@ -596,26 +618,15 @@
       "publishedAt": "2026-08-03T16:40:55.000Z"
     },
     {
-      "id": "n_54eeff2c8d",
+      "id": "n_421264cc86",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "publishedAt": "2026-08-03T10:00:00.000Z"
-    },
-    {
-      "id": "n_8f42055e53",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Sam Altman and AI’s decel debate",
-      "summary": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "publishedAt": "2026-08-02T20:54:22.000Z"
+      "headline": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+      "summary": "OpenAI says Apple’s lawsuit is “careless, aggressive, and oddly personal.” | Image: Cath Virginia / The Verge, Getty Images Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+      "publishedAt": "2026-08-04T11:27:55.000Z"
     },
     {
       "id": "n_71649e0749",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
       "publishedAt": "2026-07-31T19:13:29.000Z"
-    },
-    {
-      "id": "n_cb8ef2d60e",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Here’s the problem with putting an AI image generator in Google Earth",
-      "summary": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Digging's Henk van Ess that show \"refugees near the Mexican border\" and a bomb crater ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
-      "publishedAt": "2026-07-31T17:05:46.000Z"
     },
     {
       "id": "n_3d6d30af34",
