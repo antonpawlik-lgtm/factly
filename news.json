@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-08-04T08:13:45.656Z",
+  "generatedAt": "2026-08-04T11:13:00.839Z",
   "items": [
+    {
+      "id": "n_c8d655fcdb",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Verletzte, Schäden und Verkehrsprobleme durch Unwetter",
+      "summary": "Gesperrte Bahnstrecken, abgedeckte Dächer und Unfälle - erste Unwetter haben bereits Teile Deutschlands getroffen und sollen nun Richtung Südwesten ziehen. Der Deutsche Wetterdienst warnt erneut vor hohen Temperaturen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/wetter-unwetter-102.html",
+      "publishedAt": "2026-08-04T10:22:27.000Z"
+    },
+    {
+      "id": "n_d8973e1a40",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Kleinstes Modell von Boeings 737-Max-Reihe zugelassen",
+      "summary": "Seit 2022 wartete Boeing auf die Zulassung seines kleinsten Flugzeugs aus der 737-MAX-Reihe. Nun hat die US-Luftfahrtbehörde FAA die 737 MAX 7 freigegeben. Zuvor hatte es mehrfach Sicherheitsmängel gegeben.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/boeing-zulassung-flugzeug-737max7-100.html",
+      "publishedAt": "2026-08-04T10:14:13.000Z"
+    },
+    {
+      "id": "n_a0f0d8feb3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Vier Verletzte nach Schüssen in Köln",
+      "summary": "Vier Menschen sind durch Schüsse in Köln zum Teil schwer verletzt worden. Die Schüsse sollen nach Angaben der Polizei auf einer Straße mitten im Stadtteil Mühlheim abgefeuert worden sein. Die Hintergründe sind noch unklar.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/koeln-vier-verletzte-nach-schuessen-100.html",
+      "publishedAt": "2026-08-04T09:50:00.000Z"
+    },
+    {
+      "id": "n_7158ef0071",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Zahl der Erdbebenopfer in Venezuela steigt auf mehr als 6.000",
+      "summary": "Die Lage in Venezuela ist nach den Erdbeben Ende Juni weiterhin verheerend. Neusten offiziellen Angaben zufolge sind mehr als 6.000 Menschen getötet worden. Gleichzeitig werden aber noch Tausende vermisst.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/venezuela-erdbeben-tote-106.html",
+      "publishedAt": "2026-08-04T09:13:52.000Z"
+    },
+    {
+      "id": "n_f56625205d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: DAX markiert neue Rekordstände",
+      "summary": "Der DAX bleibt auf Klettertour - und profitiert von der Hoffnung auf eine diplomatische Einigung im Nahen Osten. Neue Unternehmensergebnisse fallen derweil gemischt aus. Spannend wird es dann am Abend.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oel-100.html",
+      "publishedAt": "2026-08-04T09:03:56.000Z"
+    },
     {
       "id": "n_02cb45d436",
       "type": "news",
@@ -10,7 +65,18 @@
       "summary": "Ein Waldbrand in den Niederlanden unweit der Grenze zu Nordrhein-Westfalen ist weiter nicht unter Kontrolle. Der Brand hat auch Auswirkungen auf den Kreis Kleve: Anwohner müssen sich auf teils deutlichen Brandgeruch einstellen.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/waldbrand-niederlande-rauch-kreis-kleve-100.html",
-      "publishedAt": "2026-08-04T08:11:02.000Z"
+      "publishedAt": "2026-08-04T09:01:00.000Z"
+    },
+    {
+      "id": "n_27a91362ec",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Medienbericht: Bundesregierung erarbeitet Pläne für Zivildienst",
+      "summary": "Seit Anfang des Jahres gilt ein neuer Wehrdienst. Dieser umfasst keine Wehrpflicht. Sollte die doch wieder eingeführt werden, könnte auch der verpflichtende Zivildienst zurückkehren. Genau dafür plant die Bundesregierung bereits.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/zivildienst-112.html",
+      "publishedAt": "2026-08-04T08:14:33.000Z"
     },
     {
       "id": "n_f0da27ab79",
@@ -24,70 +90,15 @@
       "publishedAt": "2026-08-04T08:00:34.000Z"
     },
     {
-      "id": "n_a0f0d8feb3",
+      "id": "n_7875e68d65",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Vier Verletzte nach Schüssen in Köln",
-      "summary": "Vier Menschen sind durch Schüsse in Köln zum Teil schwer verletzt worden. Die Schüsse sollen nach Angaben der Polizei auf einer Straße mitten im Stadtteil Mühlheim abgefeuert worden sein. Die Hintergründe sind noch unklar.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/koeln-vier-verletzte-nach-schuessen-100.html",
-      "publishedAt": "2026-08-04T07:47:00.000Z"
-    },
-    {
-      "id": "n_224f15f1f7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "USA: Waldbrände um Spokane wüten weiter - Verdächtiger festgenommen",
-      "summary": "Hunderte zerstörte Häuser, Zehntausende Menschen auf der Flucht: Im US-Bundesstaat Washington wüten weiter schwere Waldbrände. Nun ist ein Mann festgenommen worden, der eines der Feuer vorsätzlich verursacht haben soll.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/waldbraende-washington-festnahme-100.html",
-      "publishedAt": "2026-08-04T07:12:51.000Z"
-    },
-    {
-      "id": "n_8383bdf84a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Russland meldet mehrere Tote durch ukrainische Drohnenangriffe",
-      "summary": "Die Ukraine hat in der Nacht Russland erneut mit Drohnen attackiert. In der Region Moskau starben laut russischem Verteidigungsministerium mindestens fünf Menschen. Das russische Militär griff erneut ukrainische Häfen an.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-drohnenangriffe-118.html",
-      "publishedAt": "2026-08-04T07:09:06.000Z"
-    },
-    {
-      "id": "n_f56625205d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: Anleger in Rekordlaune",
-      "summary": "Mit reichlich Rückenwind von der Wall Street geht der DAX in den neuen Tag. Die Hoffnung auf eine diplomatische Nahost-Lösung treibt die Kurse. Erwartet wird zudem eine Flut neuer Quartalszahlen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oel-100.html",
-      "publishedAt": "2026-08-04T05:38:35.000Z"
-    },
-    {
-      "id": "n_6b640c0c2f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "25 Demokratische US-Bundesstaaten klagen gegen Trumps neue Zölle",
-      "summary": "Seit rund anderthalb Wochen gelten neue US-Zölle gegen 60 Handelspartner, die nun erneut zum juristischen Streitfall werden. 25 Bundesstaaten der USA haben Klage gegen die Aufschläge auf Importe eingereicht.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-klage-100.html",
-      "publishedAt": "2026-08-04T05:28:28.000Z"
-    },
-    {
-      "id": "n_b9bc33a2a4",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Interview zu Krise in Ceuta: \"Die Schuld Spanien zu geben, war irrational\"",
-      "summary": "Ist Spanien für die Krise in Ceuta verantwortlich? Der Migrationsexperte Gerald Knaus verneint das. Die Vorwürfe gegen die Regierung seien eine irrationale Reaktion auf verstörende Bilder. Die EU müsse nun schnell eine Entscheidung treffen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-eu-ceuta-marokko-100.html",
-      "publishedAt": "2026-08-04T05:18:48.000Z"
+      "headline": "KI-Update kompakt: KI-Investitionen, Forschungssoftware, iCloud+, GEMA vs. Suno",
+      "summary": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/KI-Update-kompakt-KI-Investitionen-Forschungssoftware-iCloud-GEMA-vs-Suno-11395141.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-03T13:00:00.000Z"
     },
     {
       "id": "n_a7495c43d0",
@@ -167,103 +178,136 @@
       "publishedAt": "2026-07-31T09:45:00.000Z"
     },
     {
-      "id": "n_e8c2889695",
+      "id": "n_3b5e0cc178",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "„CosmosEscape“ ermöglichte Übernahme aller Microsoft-Azure-Datenbanken",
-      "summary": "Eine Verkettung von Sicherheitslücken ermöglichte vollen Zugang zu allen Azure-Cosmos-DB-Datenbanken.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/CosmosEscape-ermoeglichte-Uebernahme-aller-Microsoft-Azure-Datenbanken-11388708.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-07-31T09:02:00.000Z"
+      "headline": "Bug-Bounty-Rekord: Microsoft verteilt 20 Millionen US-Dollar an IT-Forscher",
+      "summary": "Microsoft hat einen neuen Rekord bei der Ausschüttung seiner Bug-Bounty-Prämien aufgestellt. Für die Forscher war das aber nicht unbedingt von Vorteil. (Sicherheitslücke, Microsoft)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/bug-bounty-rekord-microsoft-verteilt-20-millionen-us-dollar-an-it-forscher-2608-211580.html",
+      "publishedAt": "2026-08-04T11:00:01.000Z"
     },
     {
-      "id": "n_ecbe08a613",
+      "id": "n_2732cd3a5b",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Elektroauto: Audi präsentiert erste Verbrauchszahl zum A2 E-tron",
-      "summary": "Der A2 E-tron soll wie sein Vorgänger sparsam sein. Dafür trimmt Audi die Karosserie und verwendet einen effizienten Antrieb. (Audi, Elektroauto)",
+      "headline": "Anzeige: Anker 140-W-Ladegerät mit vier Ports und Display zum Bestpreis nur 69,96 Euro bei Amazon",
+      "summary": "Das Anker 140-W-Ladegerät lädt vier Geräte gleichzeitig per GaN-Technik und ist bei Amazon zum Bestpreis erhältlich. (Technik/Hardware, iPhone)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/elektroauto-audi-praesentiert-erste-verbrauchszahl-zum-a2-e-tron-2608-211566.html",
-      "publishedAt": "2026-08-04T08:10:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-anker-140-w-ladegeraet-mit-vier-ports-und-display-zum-bestpreis-nur-69-96-euro-bei-amazon-2608-211582.html",
+      "publishedAt": "2026-08-04T10:56:02.000Z"
     },
     {
-      "id": "n_f6850bef32",
+      "id": "n_4d9984f310",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Zum Öffnen: Lego bringt Hubble-Teleskop",
-      "summary": "Zum 35. Jahrestag des Hubble-Weltraumteleskop-Starts bringt Lego ein neues Modell heraus. (Lego, Spaceshuttle)",
+      "headline": "Früher Social-Media-Start: Schüler verlieren Lernstoff von sechs Monaten",
+      "summary": "Ein eigener Social-Media-Account verschlechtert die Leistung von Schülern drastisch. Es gibt eine Ausnahme. (Social-Media-Verbot, Soziales Netz)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/zum-oeffnen-lego-bringt-hubble-teleskop-2608-211563.html",
-      "publishedAt": "2026-08-04T07:55:01.000Z"
+      "url": "https://www.golem.de/news/frueher-social-media-start-schueler-verlieren-lernstoff-von-sechs-monaten-2608-211576.html",
+      "publishedAt": "2026-08-04T10:45:02.000Z"
     },
     {
-      "id": "n_a26d6838cb",
+      "id": "n_50c0fcba5a",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Arbeitsmarkt: Mehr als 58.000 Ingenieure und IT-Fachkräfte ohne Job",
-      "summary": "Vor allem in IT-Berufen geht die Zahl der offenen Stellen drastisch zurück. Der VDI betont aber: Deutschland braucht in Zukunft Ingenieure und Informatiker. (Arbeit, Wirtschaft)",
+      "headline": "Instant Messenger: ICQ Reborn bringt den alten Messenger mit ICQ-Nummern zurück",
+      "summary": "Eigentlich wurde ICQ bereits 2024 abgeschaltet. Ein Community-Projekt lässt die App samt Retro-GUI und Sounds wieder neu entstehen. (ICQ, Instant Messenger)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/arbeitsmarkt-mehr-als-58-000-ingenieure-und-it-fachkraefte-ohne-job-2608-211564.html",
-      "publishedAt": "2026-08-04T07:35:02.000Z"
+      "url": "https://www.golem.de/news/instant-messenger-icq-reborn-bringt-den-alten-messenger-mit-icq-nummern-zurueck-2608-211577.html",
+      "publishedAt": "2026-08-04T10:30:02.000Z"
     },
     {
-      "id": "n_05be4ecc2e",
+      "id": "n_8e9bb1b1eb",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Palantir, Big Tech & ICE: Wie in den USA der größte Fahndungsapparat der Welt entsteht",
-      "summary": "ICE verbindet massenhaft Daten aus Behörden und Privatwirtschaft zu einem gigantischen Überwachungsapparat, dessen Herzstück Palantir bildet. Ein Deep Dive von Manuel Atug (Palantir, Vorratsdatenspeicherung)",
+      "headline": "Hays-Fachkräfte-Index: Spezialisten für IT-Security und Entwickler weniger gesucht",
+      "summary": "Jahrelang waren sie heiß begehrt, jetzt sind IT-Security-Experten deutlich weniger gefragt. In einem anderen Bereich wachsen die IT-Job-Gesuche. (Arbeit, Studien)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/palantir-big-tech-ice-wie-in-den-usa-der-groesste-fahndungsapparat-der-welt-entsteht-2608-211330.html",
-      "publishedAt": "2026-08-04T07:18:02.000Z"
+      "url": "https://www.golem.de/news/hays-fachkraefte-index-spezialisten-fuer-it-security-und-entwickler-weniger-gesucht-2608-211574.html",
+      "publishedAt": "2026-08-04T10:15:02.000Z"
     },
     {
-      "id": "n_da758de8c8",
+      "id": "n_7f5aaff1bc",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Vereinigtes Königreich: Hacker leaken Daten von über 100.000 Polizisten",
-      "summary": "Eine Cybergang hat eine Polizei-Datenbank des Vereinigten Königreichs geplündert und persönliche Daten unzähliger Strafverfolger veröffentlicht. (Cybercrime, Datenschutz)",
+      "headline": "Anzeige: Seagate 2TB Game Drive für Xbox zum Sparpreis",
+      "summary": "Der Speicher der Konsole ist schnell voll. Amazon reduziert die Seagate 2TB Game Drive für Xbox auf einen starken Sparpreis unter 110 Euro. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/vereinigtes-koenigreich-hacker-leaken-daten-von-ueber-100-000-polizisten-2608-211561.html",
-      "publishedAt": "2026-08-04T06:40:05.000Z"
+      "url": "https://www.golem.de/news/anzeige-seagate-2tb-game-drive-fuer-xbox-zum-sparpreis-2608-211578.html",
+      "publishedAt": "2026-08-04T10:10:02.000Z"
     },
     {
-      "id": "n_41be8e3adb",
+      "id": "n_29e90a1817",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Betrugsverdacht bei Aufnahmeprüfung: KI-Überwachung versagt bei Test an Universität",
-      "summary": "Auffällig hohe Ergebnisse bei der Onlineprüfung der UNAM zwingen 58.000 Bewerber zu einem neuen Test in Präsenz. (Bildung, KI)",
+      "headline": "Aktienmarkt und Politik: Wie Rhetorik aus dem Weißen Haus Börsenkurse beeinflusst",
+      "summary": "Was passiert, wenn das Weiße Haus Unternehmen nennt? Eine Analyse von 4.500 Nennungen zeigt überraschende Gewinner, Verlierer und späte Kursreaktionen. Eine Analyse von Oliver Jessner (Börse, Politik)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/betrugsverdacht-bei-aufnahmepruefung-ki-ueberwachung-versagt-bei-test-an-der-universitaet-2608-211562.html",
-      "publishedAt": "2026-08-04T06:31:01.000Z"
+      "url": "https://www.golem.de/news/aktienmarkt-und-politik-wie-rhetorik-aus-dem-weissen-haus-boersenkurse-beeinflusst-2608-211218.html",
+      "publishedAt": "2026-08-04T10:00:02.000Z"
     },
     {
-      "id": "n_6ed07e0575",
+      "id": "n_242ad75ba5",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "In-Car-Entertainment: BMW zeigt Spider-Man-Werbung auf Auto-Displays",
-      "summary": "BMW spielt auf Fahrzeug-Displays eine Animation zum neuen Spider-Man-Film aus. Besitzer reagieren mit Kritik. (BMW, Onlinewerbung)",
+      "headline": "Legends: Star-Trek-Spiel verschwindet in den Tiefen des Alls",
+      "summary": "Trotz Sternenflottenprominenz: Erst bleiben die Spieler aus, jetzt folgt das endgültige Aus für Star Trek Legends. (Star Trek, Rollenspiel)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/in-car-entertainment-bmw-zeigt-spider-man-werbung-auf-auto-displays-2608-211560.html",
-      "publishedAt": "2026-08-04T06:13:01.000Z"
+      "url": "https://www.golem.de/news/legends-star-trek-spiel-verschwindet-in-den-tiefen-des-alls-2608-211572.html",
+      "publishedAt": "2026-08-04T09:40:02.000Z"
     },
     {
-      "id": "n_913ee2435a",
+      "id": "n_b3726b8d27",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: FM-Transmitter mit USB und microSD als Schnäppchen bei Amazon",
-      "summary": "Amazon hat einen FM-Transmitter im Angebot, der Musik vom Smartphone auf das Autoradio streamen und auch Speichermedien wiedergeben kann. (Technik/Hardware)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-fm-transmitter-mit-usb-und-microsd-als-schnaeppchen-bei-amazon-2608-211554.html",
-      "publishedAt": "2026-08-03T16:40:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Guatemala volcano eruption sends lava spewing into the air",
+      "summary": "The Fuego stratovolcano is one of the most active in Central America and popular with hikers.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2lqpvv1wlxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T10:56:50.000Z"
+    },
+    {
+      "id": "n_b72631da34",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "More than 150 migrants rescued after boat catches fire in Channel",
+      "summary": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T10:52:01.000Z"
+    },
+    {
+      "id": "n_80b01a961e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
+      "summary": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T10:34:45.000Z"
+    },
+    {
+      "id": "n_7559e2529a",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Deadly landslide hits Ethiopia mountain monastery during prayer service",
+      "summary": "It sent rocks and earth crashing on to those praying at an overnight service, the authorities say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T10:04:53.000Z"
     },
     {
       "id": "n_2b57d9598e",
@@ -274,84 +318,51 @@
       "summary": "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T07:42:56.000Z"
+      "publishedAt": "2026-08-04T09:35:06.000Z"
     },
     {
-      "id": "n_e454c2ca3d",
+      "id": "n_569318a6a4",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Charity cyclist, 82, dies a day after 3,300 mile ride across Australia",
-      "summary": "Bob Montgomery died unexpectedly just a day after finishing what he had called 'One Last Ride'.",
+      "headline": "Arson arrest made over largest of Washington state's wildfires",
+      "summary": "There are three wildfires in the Spokane area that have forced 60,000 to be evacuated from their homes.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gkpwj2je9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T07:13:40.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T09:32:12.000Z"
     },
     {
-      "id": "n_93ac6fc66b",
+      "id": "n_6c279b349d",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "US states sue to block Trump tariffs impacting dozens of countries",
-      "summary": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
+      "headline": "Soldier kills four in gun rampage in Russian-occupied Crimea",
+      "summary": "The region's Moscow-installed governor says the gunman has been detained after firing at fellow soldiers and civilians.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T07:11:35.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T09:23:06.000Z"
     },
     {
-      "id": "n_9a614e01cf",
+      "id": "n_d72fa88fe8",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "France wildfires reveal hundreds of WW2 shells in village",
-      "summary": "Explosions heard in Le Porge as the wildfires raged are believed to have have been the old munitions.",
+      "headline": "Moment pilot caught with 70,000 ecstasy pills at Indonesian airport",
+      "summary": "A Malaysian pilot was arrested at Jakarta airport after being found with around four stone (26kg) of drugs hidden in his luggage.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T04:22:12.000Z"
+      "url": "https://www.bbc.co.uk/news/videos/c9d8662gyx5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T09:18:03.000Z"
     },
     {
-      "id": "n_e548e5a1ac",
+      "id": "n_4809b920c6",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-      "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
+      "headline": "Apple issues new challenge against UK order for access to private user data",
+      "summary": "It is the latest development in the ongoing dispute between Apple and the Home Office over data privacy.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T03:37:14.000Z"
-    },
-    {
-      "id": "n_2e8cf0f347",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Watch: Wild police chase in Queensland, Australia ends in two arrests",
-      "summary": "A police pursuit in Queensland has ended in two arrests, with authorities taken on a high-speed car chase across Ipswich and Brisbane.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c5y0d96qgg3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T02:47:26.000Z"
-    },
-    {
-      "id": "n_081bfbe4d4",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Did Iran hack water systems in seven US states?",
-      "summary": "While US President Donald Trump has said Iran is not to blame, cyber experts tell the BBC it likely the attack was at the hands of the Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c934dq95zpgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T02:29:03.000Z"
-    },
-    {
-      "id": "n_29084c4806",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Why is Trump Media selling early access to Trump's Truth Social posts?",
-      "summary": "The service reportedly costs up to $100,000 (£74,170) per month and offers access to posts from influential accounts milliseconds before they appear online.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T00:17:48.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T10:22:40.000Z"
     },
     {
       "id": "n_ee4f8e5560",
@@ -429,17 +440,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-31T00:42:48.000Z"
-    },
-    {
-      "id": "n_e3f83dd99b",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "India wants to join the strawberry superpowers",
-      "summary": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-30T22:04:09.000Z"
     },
     {
       "id": "n_2e8aa46c7a",
@@ -618,6 +618,17 @@
       "publishedAt": "2026-08-02T20:54:22.000Z"
     },
     {
+      "id": "n_71649e0749",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Can Reddit fend off a new wave of AI SEO spam?",
+      "summary": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at fi",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+      "publishedAt": "2026-08-04T10:00:00.000Z"
+    },
+    {
       "id": "n_153c499b04",
       "type": "news",
       "topic": "ai",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
       "publishedAt": "2026-07-31T17:05:46.000Z"
-    },
-    {
-      "id": "n_e8b5e8d005",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The major labels propose rules to keep AI slop off the charts",
-      "summary": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. The proposal goes quite a bit further than a labeling proposal put forth by the R",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
-      "publishedAt": "2026-07-31T16:36:48.000Z"
     },
     {
       "id": "n_3d6d30af34",
@@ -871,6 +871,61 @@
       "publishedAt": "2026-07-27T11:40:16.000Z"
     },
     {
+      "id": "n_21c3091916",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Is This Poker Player Bluffing? The AI Thinks So",
+      "summary": "ESPN unveiled an “AI tells detection” tool during broadcasts of the 2026 World Series of Poker. Is it a neat computer-powered party trick, or a real threat to poker’s future?",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
+      "publishedAt": "2026-08-04T11:00:00.000Z"
+    },
+    {
+      "id": "n_bb60955e8a",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "How One Startup Built a (Mostly) China-Free Robot",
+      "summary": "Ati Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
+      "publishedAt": "2026-08-04T10:45:00.000Z"
+    },
+    {
+      "id": "n_b06c95490b",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
+      "summary": "Puck’s Matthew Belloni says AI has quietly become part of everyday filmmaking. The battle now isn’t whether Hollywood will use the technology—it’s who controls what’ll come next.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
+      "publishedAt": "2026-08-04T10:30:00.000Z"
+    },
+    {
+      "id": "n_a9e38b5974",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "How Data Centers Broke American Politics",
+      "summary": "What the Unabomber, Steve Bannon’s tech guy, and Bernie Sanders taught me about the great data center backlash of 2026.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/how-data-centers-broke-american-politics/",
+      "publishedAt": "2026-08-04T10:00:00.000Z"
+    },
+    {
+      "id": "n_b49c4a0e76",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Mistral Is in the Right Place at the Right Time",
+      "summary": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that’s the the best thing that could have happened.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
+      "publishedAt": "2026-08-04T09:21:11.000Z"
+    },
+    {
       "id": "n_2fe17ab83e",
       "type": "news",
       "topic": "ai",
@@ -902,61 +957,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
       "publishedAt": "2026-08-03T09:30:00.000Z"
-    },
-    {
-      "id": "n_d3b16f4f78",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-      "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-      "publishedAt": "2026-08-02T10:00:00.000Z"
-    },
-    {
-      "id": "n_98fc443fa5",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
-      "summary": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
-      "publishedAt": "2026-08-01T10:30:00.000Z"
-    },
-    {
-      "id": "n_f4f40f47ec",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
-      "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
-      "publishedAt": "2026-08-01T09:30:00.000Z"
-    },
-    {
-      "id": "n_f112272fb3",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Chinese AI Researchers Are Finding Their Voice on X",
-      "summary": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
-      "publishedAt": "2026-07-31T18:14:43.000Z"
-    },
-    {
-      "id": "n_e79de7b732",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
-      "summary": "Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
-      "publishedAt": "2026-07-31T15:00:09.000Z"
     },
     {
       "id": "n_f684c3a66a",
