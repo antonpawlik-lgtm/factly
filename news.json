@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-08-04T05:36:27.773Z",
+  "generatedAt": "2026-08-04T08:13:45.656Z",
   "items": [
+    {
+      "id": "n_02cb45d436",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Waldbrand in den Niederlanden - Warnung vor Brandrauch in NRW",
+      "summary": "Ein Waldbrand in den Niederlanden unweit der Grenze zu Nordrhein-Westfalen ist weiter nicht unter Kontrolle. Der Brand hat auch Auswirkungen auf den Kreis Kleve: Anwohner müssen sich auf teils deutlichen Brandgeruch einstellen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/waldbrand-niederlande-rauch-kreis-kleve-100.html",
+      "publishedAt": "2026-08-04T08:11:02.000Z"
+    },
+    {
+      "id": "n_f0da27ab79",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "US-Datenfirma Palantir steigert Umsatz um mehr als 90 Prozent",
+      "summary": "Der umstrittene US-Datenanalyse-Spezialist Palantir meldet für das vergangene Quartal einen Rekordumsatz - vor allem wegen des Geschäfts in den Vereinigten Staaten: Die Erlöse dort haben sich zuletzt mehr als verdoppelt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/datenanalyse-ki-palantir-umsatzplus-100.html",
+      "publishedAt": "2026-08-04T08:00:34.000Z"
+    },
+    {
+      "id": "n_a0f0d8feb3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Vier Verletzte nach Schüssen in Köln",
+      "summary": "Vier Menschen sind durch Schüsse in Köln zum Teil schwer verletzt worden. Die Schüsse sollen nach Angaben der Polizei auf einer Straße mitten im Stadtteil Mühlheim abgefeuert worden sein. Die Hintergründe sind noch unklar.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/koeln-vier-verletzte-nach-schuessen-100.html",
+      "publishedAt": "2026-08-04T07:47:00.000Z"
+    },
+    {
+      "id": "n_224f15f1f7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "USA: Waldbrände um Spokane wüten weiter - Verdächtiger festgenommen",
+      "summary": "Hunderte zerstörte Häuser, Zehntausende Menschen auf der Flucht: Im US-Bundesstaat Washington wüten weiter schwere Waldbrände. Nun ist ein Mann festgenommen worden, der eines der Feuer vorsätzlich verursacht haben soll.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/waldbraende-washington-festnahme-100.html",
+      "publishedAt": "2026-08-04T07:12:51.000Z"
+    },
+    {
+      "id": "n_8383bdf84a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Russland meldet mehrere Tote durch ukrainische Drohnenangriffe",
+      "summary": "Die Ukraine hat in der Nacht Russland erneut mit Drohnen attackiert. In der Region Moskau starben laut russischem Verteidigungsministerium mindestens fünf Menschen. Das russische Militär griff erneut ukrainische Häfen an.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-drohnenangriffe-118.html",
+      "publishedAt": "2026-08-04T07:09:06.000Z"
+    },
+    {
+      "id": "n_f56625205d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: Anleger in Rekordlaune",
+      "summary": "Mit reichlich Rückenwind von der Wall Street geht der DAX in den neuen Tag. Die Hoffnung auf eine diplomatische Nahost-Lösung treibt die Kurse. Erwartet wird zudem eine Flut neuer Quartalszahlen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oel-100.html",
+      "publishedAt": "2026-08-04T05:38:35.000Z"
+    },
     {
       "id": "n_6b640c0c2f",
       "type": "news",
@@ -13,17 +79,6 @@
       "publishedAt": "2026-08-04T05:28:28.000Z"
     },
     {
-      "id": "n_a0f0d8feb3",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Vier Verletzte nach Schüssen in Köln",
-      "summary": "Vier Menschen sind durch Schüsse in Köln zum Teil schwer verletzt worden. Die Schüsse sollen nach Angaben der Polizei auf einer Straße mitten im Stadtteil Mühlheim abgefeuert worden sein. Die Hintergründe sind noch unklar.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/koeln-vier-verletzte-nach-schuessen-100.html",
-      "publishedAt": "2026-08-04T05:23:14.000Z"
-    },
-    {
       "id": "n_b9bc33a2a4",
       "type": "news",
       "topic": "general",
@@ -33,72 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/spanien-eu-ceuta-marokko-100.html",
       "publishedAt": "2026-08-04T05:18:48.000Z"
-    },
-    {
-      "id": "n_2215da37ab",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Ceuta-Krise: EU-Innenminister beraten über Konsequenzen",
-      "summary": "Seit Kurzem gilt das gemeinsame EU-Asylsystem, das Situationen wie in Ceuta verhindern soll. Doch stattdessen ist wieder Streit aufgebrochen - die EU-Innenminister wollen heute versuchen, Lehren aus der Krise zu ziehen. Von A. Meyer-Feist.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-krisentreffen-ceuta-100.html",
-      "publishedAt": "2026-08-04T03:00:08.000Z"
-    },
-    {
-      "id": "n_27a91362ec",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Medienbericht: Bundesregierung erarbeitet Pläne für Zivildienst",
-      "summary": "Seit Anfang des Jahres gilt ein neuer Wehrdienst. Dieser umfasst noch keine Wehrpflicht - doch die Bundesregierung will für diesen Fall vorbereitet sind. Deshalb erarbeitet sie laut Bild-Zeitung Grundlagen für einen neuen Zivildienst.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/zivildienst-112.html",
-      "publishedAt": "2026-08-04T02:59:49.000Z"
-    },
-    {
-      "id": "n_cd56650e4b",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Bundestags-Innenausschuss tagt zu CSD-Anschlag",
-      "summary": "Der islamistische Terroranschlag beim Berliner CSD ist heute Thema im Innenausschuss des Bundestags. Die Teilnehmer der Sondersitzung sind hochrangig - und müssen sich auf viele Fragen gefasst machen. Von Markus Sambale.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/innenausschuss-csd-100.html",
-      "publishedAt": "2026-08-04T02:47:03.000Z"
-    },
-    {
-      "id": "n_4232d6aaee",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Debatte um abschlagsfreie Frührente: Frei sieht keinen Spielraum für Verhandlungen",
-      "summary": "Die Debatte um die abschlagsfreie Rente nach 45 Beitragsjahren reißt nicht ab. Nach der Kritik der CDU-Ministerpräsidenten aus dem Osten warnt Unionsfraktionschef Frei vor einem Scheitern der Reform - für Verhandlungen gebe es keinen Spielraum.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/rentendebatte-106.html",
-      "publishedAt": "2026-08-04T01:25:48.000Z"
-    },
-    {
-      "id": "n_e915fc3066",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wirtschaftsexperte: \"Niedrigwasser ist ein Kostentreiber\"",
-      "summary": "Niedrige Pegelstände werden zunehmend zum Risiko, sagt Simon Gerards Iglesias vom Institut der deutschen Wirtschaft. Im Interview mit den tagesthemen erklärt er, warum viele Unternehmen zum Transport auf den Flüssen kaum Alternativen haben.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/niedrigwasser-wirtschaft-100.html",
-      "publishedAt": "2026-08-03T21:52:19.000Z"
-    },
-    {
-      "id": "n_7875e68d65",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "KI-Update kompakt: KI-Investitionen, Forschungssoftware, iCloud+, GEMA vs. Suno",
-      "summary": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/KI-Update-kompakt-KI-Investitionen-Forschungssoftware-iCloud-GEMA-vs-Suno-11395141.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-03T13:00:00.000Z"
     },
     {
       "id": "n_a7495c43d0",
@@ -178,6 +167,94 @@
       "publishedAt": "2026-07-31T09:45:00.000Z"
     },
     {
+      "id": "n_e8c2889695",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "„CosmosEscape“ ermöglichte Übernahme aller Microsoft-Azure-Datenbanken",
+      "summary": "Eine Verkettung von Sicherheitslücken ermöglichte vollen Zugang zu allen Azure-Cosmos-DB-Datenbanken.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/CosmosEscape-ermoeglichte-Uebernahme-aller-Microsoft-Azure-Datenbanken-11388708.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-07-31T09:02:00.000Z"
+    },
+    {
+      "id": "n_ecbe08a613",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Elektroauto: Audi präsentiert erste Verbrauchszahl zum A2 E-tron",
+      "summary": "Der A2 E-tron soll wie sein Vorgänger sparsam sein. Dafür trimmt Audi die Karosserie und verwendet einen effizienten Antrieb. (Audi, Elektroauto)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/elektroauto-audi-praesentiert-erste-verbrauchszahl-zum-a2-e-tron-2608-211566.html",
+      "publishedAt": "2026-08-04T08:10:02.000Z"
+    },
+    {
+      "id": "n_f6850bef32",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Zum Öffnen: Lego bringt Hubble-Teleskop",
+      "summary": "Zum 35. Jahrestag des Hubble-Weltraumteleskop-Starts bringt Lego ein neues Modell heraus. (Lego, Spaceshuttle)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/zum-oeffnen-lego-bringt-hubble-teleskop-2608-211563.html",
+      "publishedAt": "2026-08-04T07:55:01.000Z"
+    },
+    {
+      "id": "n_a26d6838cb",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Arbeitsmarkt: Mehr als 58.000 Ingenieure und IT-Fachkräfte ohne Job",
+      "summary": "Vor allem in IT-Berufen geht die Zahl der offenen Stellen drastisch zurück. Der VDI betont aber: Deutschland braucht in Zukunft Ingenieure und Informatiker. (Arbeit, Wirtschaft)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/arbeitsmarkt-mehr-als-58-000-ingenieure-und-it-fachkraefte-ohne-job-2608-211564.html",
+      "publishedAt": "2026-08-04T07:35:02.000Z"
+    },
+    {
+      "id": "n_05be4ecc2e",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Palantir, Big Tech & ICE: Wie in den USA der größte Fahndungsapparat der Welt entsteht",
+      "summary": "ICE verbindet massenhaft Daten aus Behörden und Privatwirtschaft zu einem gigantischen Überwachungsapparat, dessen Herzstück Palantir bildet. Ein Deep Dive von Manuel Atug (Palantir, Vorratsdatenspeicherung)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/palantir-big-tech-ice-wie-in-den-usa-der-groesste-fahndungsapparat-der-welt-entsteht-2608-211330.html",
+      "publishedAt": "2026-08-04T07:18:02.000Z"
+    },
+    {
+      "id": "n_da758de8c8",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Vereinigtes Königreich: Hacker leaken Daten von über 100.000 Polizisten",
+      "summary": "Eine Cybergang hat eine Polizei-Datenbank des Vereinigten Königreichs geplündert und persönliche Daten unzähliger Strafverfolger veröffentlicht. (Cybercrime, Datenschutz)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/vereinigtes-koenigreich-hacker-leaken-daten-von-ueber-100-000-polizisten-2608-211561.html",
+      "publishedAt": "2026-08-04T06:40:05.000Z"
+    },
+    {
+      "id": "n_41be8e3adb",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Betrugsverdacht bei Aufnahmeprüfung: KI-Überwachung versagt bei Test an Universität",
+      "summary": "Auffällig hohe Ergebnisse bei der Onlineprüfung der UNAM zwingen 58.000 Bewerber zu einem neuen Test in Präsenz. (Bildung, KI)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/betrugsverdacht-bei-aufnahmepruefung-ki-ueberwachung-versagt-bei-test-an-der-universitaet-2608-211562.html",
+      "publishedAt": "2026-08-04T06:31:01.000Z"
+    },
+    {
+      "id": "n_6ed07e0575",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "In-Car-Entertainment: BMW zeigt Spider-Man-Werbung auf Auto-Displays",
+      "summary": "BMW spielt auf Fahrzeug-Displays eine Animation zum neuen Spider-Man-Film aus. Besitzer reagieren mit Kritik. (BMW, Onlinewerbung)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/in-car-entertainment-bmw-zeigt-spider-man-werbung-auf-auto-displays-2608-211560.html",
+      "publishedAt": "2026-08-04T06:13:01.000Z"
+    },
+    {
       "id": "n_913ee2435a",
       "type": "news",
       "topic": "tech",
@@ -189,81 +266,37 @@
       "publishedAt": "2026-08-03T16:40:01.000Z"
     },
     {
-      "id": "n_17690c8d1a",
+      "id": "n_2b57d9598e",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Apple Health: Google behebt einen der größten Schwachpunkte von Fitbit Air",
-      "summary": "Das Fitbit Air arbeitet jetzt besser mit dem iPhone zusammen. Eine grundsätzliche Einschränkung bleibt allerdings bestehen. (Fitbit, Google)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/apple-health-google-behebt-einen-der-groessten-schwachpunkte-von-fitbit-air-2608-211559.html",
-      "publishedAt": "2026-08-03T16:31:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+      "summary": "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T07:42:56.000Z"
     },
     {
-      "id": "n_ce4e5e1459",
+      "id": "n_e454c2ca3d",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Notfall-Powerbank bei Amazon für unter 20 Euro",
-      "summary": "Bei Amazon gibt es derzeit die Anker Nano zum Sonderpreis im Angebot. Die Mini-Powerbank für Notfälle ist auf unter 20 Euro reduziert. (Smartphone, Amazon)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-notfall-powerbank-bei-amazon-fuer-unter-20-euro-2608-211558.html",
-      "publishedAt": "2026-08-03T16:26:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Charity cyclist, 82, dies a day after 3,300 mile ride across Australia",
+      "summary": "Bob Montgomery died unexpectedly just a day after finishing what he had called 'One Last Ride'.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkpwj2je9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T07:13:40.000Z"
     },
     {
-      "id": "n_e3110fcee7",
+      "id": "n_93ac6fc66b",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Solarboom: Weltweit über 3 Terawatt PV installiert, aber das Stromnetz bremst",
-      "summary": "Es hat keine zwei Jahre gedauert, um das nächste Terawatt Solarleistung zuzubauen. Besonders interessant ist, wo sich die Entwicklung beschleunigt. (Solarenergie, Energiewende)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/solarboom-weltweit-ueber-3-terawatt-pv-installiert-aber-das-stromnetz-bremst-2608-211552.html",
-      "publishedAt": "2026-08-03T16:15:01.000Z"
-    },
-    {
-      "id": "n_cee160bf9f",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Vodafone: Was ein top ausgebautes Koaxialnetz kosten würde",
-      "summary": "Vodafone Deutschland hat Angaben zu seinem Kabelnetz-Ausbau in den vergangenen zwölf Monaten gemacht. Anlass für Golem, einmal durchzurechnen, wie man es richtig gut machen könnte. Ein Bericht von Achim Sawall (Vodafone, Kabelnetz)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/vodafone-was-ein-top-ausgebautes-koaxialnetz-kosten-wuerde-2608-211557.html",
-      "publishedAt": "2026-08-03T15:54:02.000Z"
-    },
-    {
-      "id": "n_6f28ebbf9a",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "KI-Verhaltensscanner in Berlin: Mit Strichmännchen zu mehr Sicherheit",
-      "summary": "Die KI-gestützte Verhaltens- und Situationserkennung im öffentlichen Raum in Berlin soll bereits im August 2026 starten. (KI, Datenschutz)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/ki-verhaltensscanner-in-berlin-mit-strichmaennchen-zu-mehr-sicherheit-2608-211550.html",
-      "publishedAt": "2026-08-03T15:36:01.000Z"
-    },
-    {
-      "id": "n_0d00abf457",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Tapo Akku-Videotürklingel fällt auf starken Bestpreis unter 40 Euro",
-      "summary": "Wer jederzeit sehen möchte, wer vor der Haustür steht, rüstet am besten mit einer kabellosen Videotürklingel nach. Amazon reduziert die Tapo D205 auf unter 40 Euro. (Technik/Hardware)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-tapo-akku-videotuerklingel-faellt-auf-starken-bestpreis-unter-40-euro-2608-211556.html",
-      "publishedAt": "2026-08-03T15:27:02.000Z"
-    },
-    {
-      "id": "n_ff78ab2e91",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Microsoft gibt zu: Windows 11 wurde vor allem durch das Ende von Windows 10 beliebt",
-      "summary": "Das Supportende von Windows 10 ist laut Microsoft der primäre Grund, warum sich Windows 11 im vergangenen Jahr so gut verkaufte. (Windows 11, Microsoft)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/microsoft-gibt-zu-windows-11-wurde-vor-allem-durch-das-ende-von-windows-10-beliebt-2608-211555.html",
-      "publishedAt": "2026-08-03T15:17:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "US states sue to block Trump tariffs impacting dozens of countries",
+      "summary": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T07:11:35.000Z"
     },
     {
       "id": "n_9a614e01cf",
@@ -286,17 +319,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-04T03:37:14.000Z"
-    },
-    {
-      "id": "n_93ac6fc66b",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US states sue to block Trump tariffs impacting dozens of countries",
-      "summary": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T02:53:00.000Z"
     },
     {
       "id": "n_2e8cf0f347",
@@ -330,28 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-04T00:17:48.000Z"
-    },
-    {
-      "id": "n_636be061eb",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Analysis: Trump fumes as top allies back down on his personal battles",
-      "summary": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T00:02:40.000Z"
-    },
-    {
-      "id": "n_0238657df9",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
-      "summary": "The star has taken a \"step back\" from the spotlight after appearances led to \"endless, ongoing public scrutiny\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T23:25:14.000Z"
     },
     {
       "id": "n_ee4f8e5560",
@@ -1047,6 +1047,54 @@
       "publishedAt": "2026-07-16T11:49:48.000Z"
     },
     {
+      "id": "n_4b6553db46",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Another DeepSeek Moment Has Arrived",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
+      "thumbnail": "https://i.ytimg.com/vi/bm1BjOjS7sQ/hqdefault.jpg",
+      "publishedAt": "2026-08-03T09:47:34.000Z"
+    },
+    {
+      "id": "n_cd099417b9",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
+      "thumbnail": "https://i.ytimg.com/vi/8B05cy3UuSE/hqdefault.jpg",
+      "publishedAt": "2026-08-02T15:01:10.000Z"
+    },
+    {
+      "id": "n_a8e1e70bfc",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Kimi K3 Just Broke The Economics Of AI",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
+      "thumbnail": "https://i.ytimg.com/vi/Xj-QdEUxJkE/hqdefault.jpg",
+      "publishedAt": "2026-07-29T12:37:50.000Z"
+    },
+    {
+      "id": "n_9363752886",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Claude Just Revealed AI's Biggest Problem",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
+      "thumbnail": "https://i.ytimg.com/vi/axOcn--n_lM/hqdefault.jpg",
+      "publishedAt": "2026-07-16T15:39:17.000Z"
+    },
+    {
       "id": "n_49a7d5405f",
       "type": "video",
       "topic": "video",
@@ -1093,6 +1141,90 @@
       "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
       "thumbnail": "https://i.ytimg.com/vi/nepKKz-MzFM/hqdefault.jpg",
       "publishedAt": "2026-05-06T22:03:16.000Z"
+    },
+    {
+      "id": "n_b67d3be64b",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Did Anthropic just kill the indie hacker...?",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=jxGJT1weu4w",
+      "thumbnail": "https://i.ytimg.com/vi/jxGJT1weu4w/hqdefault.jpg",
+      "publishedAt": "2026-07-29T16:33:51.000Z"
+    },
+    {
+      "id": "n_c930172539",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The most interesting \"hack\" in history...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=KOpTWx1Eou4",
+      "thumbnail": "https://i.ytimg.com/vi/KOpTWx1Eou4/hqdefault.jpg",
+      "publishedAt": "2026-07-23T16:53:37.000Z"
+    },
+    {
+      "id": "n_c30c73dbe7",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Open-weight AI just hit 2.8 trillion parameters…",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=YP73B9D20V4",
+      "thumbnail": "https://i.ytimg.com/vi/YP73B9D20V4/hqdefault.jpg",
+      "publishedAt": "2026-07-22T17:43:52.000Z"
+    },
+    {
+      "id": "n_10ab80aff4",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "This $12 billion startup finally shipped something...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=M51asSwRLxA",
+      "thumbnail": "https://i.ytimg.com/vi/M51asSwRLxA/hqdefault.jpg",
+      "publishedAt": "2026-07-20T17:02:30.000Z"
+    },
+    {
+      "id": "n_5f31592cac",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Galaxy Z Fold 8 Review: Honeymoon's Over",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=Z6z_feacXW8",
+      "thumbnail": "https://i.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg",
+      "publishedAt": "2026-08-01T00:05:00.000Z"
+    },
+    {
+      "id": "n_bf51349fdf",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Framework 13 Pro: The Modular Laptop is Real!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
+      "thumbnail": "https://i.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg",
+      "publishedAt": "2026-07-27T15:38:21.000Z"
+    },
+    {
+      "id": "n_64ebc2a7bf",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
+      "thumbnail": "https://i.ytimg.com/vi/8Hx2yvWSgs0/hqdefault.jpg",
+      "publishedAt": "2026-07-22T13:01:05.000Z"
     }
   ]
 }
