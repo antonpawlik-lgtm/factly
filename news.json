@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-08-04T22:02:29.905Z",
+  "generatedAt": "2026-08-05T01:20:35.710Z",
   "items": [
+    {
+      "id": "n_97f124e784",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Prozess erst im März: Warner-Übernahme durch Paramount verzögert",
+      "summary": "Diese Entscheidung könnte für Paramount teuer werden: Die Wettbewerbsklage von zwölf US-Bundesstaaten gegen den Kauf des Medienkonzerns Warner Brothers soll erst im März verhandelt werden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/paramount-warner-prozess-uebernahme-100.html",
+      "publishedAt": "2026-08-05T01:06:37.000Z"
+    },
+    {
+      "id": "n_e6d4828f20",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Welternährungsprogramm: Hungerkrise in Afghanistan spitzt sich zu",
+      "summary": "Viele Länder kürzen ihre Gelder für Entwicklungshilfe - mit verheerenden Folgen: Das Welternährungsprogramm warnt vor einer Ernährungskrise in Afghanistan, die \"außer Kontrolle gerät\" - besonders bei Kindern.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/hunger-afghanistan-kinder-100.html",
+      "publishedAt": "2026-08-05T00:53:10.000Z"
+    },
     {
       "id": "n_d292a60c77",
       "type": "news",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/hitze-trockenheit-waldbraende-klimaschutz-100.html",
       "publishedAt": "2026-08-04T16:36:25.000Z"
-    },
-    {
-      "id": "n_f56625205d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: Anleger hieven DAX wieder auf ein Allzeithoch",
-      "summary": "Die Investoren hatten ein ganze Reihe von Unternehmensbilanzen zu verarbeiten. Aber vor allem richteten sich die Blicke in Richtung Naher Osten. Noch immer treiben Friedenshoffnungen den DAX weiter an.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oel-100.html",
-      "publishedAt": "2026-08-04T16:16:05.000Z"
-    },
-    {
-      "id": "n_73433e461e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Zahl der Asylerstanträge im Juli auf 4.311 gesunken",
-      "summary": "Immer weniger Menschen suchen Asyl in Deutschland. Im Juli ging die Zahl der Erstanträge im Vergleich zu Juli 2025 um fast die Hälfte auf etwa 4.300 zurück. Der Monat ist kein Ausreißer. Auch im Halbjahresvergleich sanken die Zahlen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/asylzahlen-juli-100.html",
-      "publishedAt": "2026-08-04T16:15:52.000Z"
     },
     {
       "id": "n_7e43eb4106",
@@ -266,72 +266,6 @@
       "publishedAt": "2026-08-04T14:54:02.000Z"
     },
     {
-      "id": "n_d81d557ebe",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-      "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T21:45:20.000Z"
-    },
-    {
-      "id": "n_0d03df74e8",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Projectile sinks Indian-flagged ship off Yemen coast",
-      "summary": "All 14 people on board the Indian-flagged vessel were safely rescued, India's ministry of external affairs says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T21:24:50.000Z"
-    },
-    {
-      "id": "n_b72631da34",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "More than 170 migrants rescued after boat catches fire in Channel",
-      "summary": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T19:45:58.000Z"
-    },
-    {
-      "id": "n_60c1d7c22d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Arrests in Egypt after people allegedly impersonate judges",
-      "summary": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T19:25:00.000Z"
-    },
-    {
-      "id": "n_569318a6a4",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Arson arrest made over largest of Washington state's wildfires",
-      "summary": "There are three wildfires in the Spokane area that have forced 60,000 to be evacuated from their homes.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T19:18:45.000Z"
-    },
-    {
-      "id": "n_bbcb0836a1",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Ukrainian vegetable seller targeted in 'human safari' drone attack",
-      "summary": "A video shows a Russian drone pursuing a street vendor in the Kherson region before exploding.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/clye173d533o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T19:07:19.000Z"
-    },
-    {
       "id": "n_479cf0129f",
       "type": "news",
       "topic": "general",
@@ -340,18 +274,117 @@
       "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T19:00:43.000Z"
+      "publishedAt": "2026-08-05T01:05:21.000Z"
     },
     {
-      "id": "n_e119f7e5ee",
+      "id": "n_569318a6a4",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "How to avoid the worst of the Italian heat",
-      "summary": "From supermarkets to night-time tours, experts share how to make the most of Italy during this latest heatwave.",
+      "headline": "Washington wildfire arson suspect twice linked to other blazes, authorities say",
+      "summary": "Aaron Farinacci, 37, was allegedly spotted near the latest blaze and was found to have matches and a lighter.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c05q1gz0p1yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T18:21:00.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T00:40:23.000Z"
+    },
+    {
+      "id": "n_7227992177",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Armed man arrested near Trump's golf course ahead of president's visit",
+      "summary": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T00:19:04.000Z"
+    },
+    {
+      "id": "n_c08dd1ed7d",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Mysterious elephant deaths in Kenya raise questions around pesticides",
+      "summary": "A wave of Kenyan elephant deaths has been blamed on pesticides, but experts tell the BBC they are doubtful.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx27p32jzj2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T23:13:04.000Z"
+    },
+    {
+      "id": "n_cf637334f4",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'My grandmother subjected my baby to female genital mutilation behind my back'",
+      "summary": "In Colombia, where FGM is still practised by some members of an indigenous group, a landmark bill banning the practice has been enacted.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T23:13:01.000Z"
+    },
+    {
+      "id": "n_12c6463563",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused",
+      "summary": "Women tell the BBC how they were harassed for participating in the CJP protest and posting about it online.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g43l251vyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T22:28:30.000Z"
+    },
+    {
+      "id": "n_c88cef993f",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'I feel like I dug my own grave': The workers caught in the AI transition",
+      "summary": "AI is reshaping the Philippines' outsourcing industry, raising questions over the future of the industry.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T22:10:00.000Z"
+    },
+    {
+      "id": "n_126b04959c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
+      "summary": "Their fellow guides say their deaths in Pakistan dealt a devastating blow to Nepal's mountaineering community.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T22:09:50.000Z"
+    },
+    {
+      "id": "n_3e5ac628db",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "AI used new levels of 'autonomy and deception' to trick people in safety test",
+      "summary": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T00:02:18.000Z"
+    },
+    {
+      "id": "n_9a10060536",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Could tech replace firefighters in the battle against wildfires?",
+      "summary": "Tech is being used to watch for wildfires but firefighters are still needed to put them out.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T23:21:47.000Z"
+    },
+    {
+      "id": "n_e59aeba390",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Saudi-led group completes $55bn purchase of gaming giant EA",
+      "summary": "The deal takes the maker of titles including The Sims and EA FC into private ownership - and loads it with debt.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-04T23:09:44.000Z"
     },
     {
       "id": "n_91b6731874",
@@ -359,7 +392,7 @@
       "topic": "tech",
       "lang": "en",
       "headline": "SpaceX's first-ever earnings show higher revenues and huge spending",
-      "summary": "Elon Musk's company has struggled to maintain investor enthusiasm that greeted its stock market debut.",
+      "summary": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-04T21:57:19.000Z"
@@ -409,37 +442,26 @@
       "publishedAt": "2026-08-03T11:18:10.000Z"
     },
     {
-      "id": "n_9ef32dfc5e",
+      "id": "n_b45e8d4dc9",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Tech Now",
-      "summary": "New technologies measuring forests and exclusive access to a hacker rehab programme.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002zxt1?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-01T00:00:12.000Z"
+      "headline": "Senators demand crackdown on wildfire \"prediction markets\"",
+      "summary": "Fire experts warn such markets could incentivize arson.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
+      "publishedAt": "2026-08-04T21:52:31.000Z"
     },
     {
-      "id": "n_c6dd489013",
+      "id": "n_277b959805",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Snapchat joins other popular platforms in fight against 'AI slop'",
-      "summary": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T21:57:59.000Z"
-    },
-    {
-      "id": "n_27ac7fbdbc",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "AI firms must answer for rogue bots, says boss of hacked company",
-      "summary": "Clement Delangue said he didn't want cyber attacks on other companies to become \"normalised\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T18:10:28.000Z"
+      "headline": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
+      "summary": "$1.25 billion program restored, but judge ruled race provision unconstitutional.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
+      "publishedAt": "2026-08-04T21:27:05.000Z"
     },
     {
       "id": "n_82d406643c",
@@ -506,28 +528,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/cars/2026/08/2027-chevrolet-corvette-grand-sport-x-proves-code-is-as-important-as-hardware/",
       "publishedAt": "2026-08-04T14:45:08.000Z"
-    },
-    {
-      "id": "n_b3077cd39d",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
-      "summary": "“We do not have, nor want, any of their trade secrets,” the ChatGPT maker says.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
-      "publishedAt": "2026-08-04T13:38:29.000Z"
-    },
-    {
-      "id": "n_2e8aa46c7a",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
-      "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
-      "publishedAt": "2026-08-03T22:11:39.000Z"
     },
     {
       "id": "n_bedc6f3c74",
@@ -618,6 +618,50 @@
       "publishedAt": "2026-08-04T15:20:06.000Z"
     },
     {
+      "id": "n_4707f42c55",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "AMD&#8217;s data center business is booming while gaming takes a backseat",
+      "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. During T",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+      "publishedAt": "2026-08-04T20:57:49.000Z"
+    },
+    {
+      "id": "n_ed45a6ea53",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "SpaceX made more revenue as an AI company than a space company",
+      "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go pu",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+      "publishedAt": "2026-08-04T20:47:55.000Z"
+    },
+    {
+      "id": "n_f74b40f658",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "How an OpenAI influencer trip backfired",
+      "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+      "publishedAt": "2026-08-04T17:46:41.000Z"
+    },
+    {
+      "id": "n_507e71c13b",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "‘Not healthy’ LLM use is more common than you think",
+      "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+      "publishedAt": "2026-08-04T17:33:46.000Z"
+    },
+    {
       "id": "n_67d9c56c5b",
       "type": "news",
       "topic": "ai",
@@ -660,50 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
       "publishedAt": "2026-08-03T17:38:45.000Z"
-    },
-    {
-      "id": "n_92f8a54631",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-      "summary": "The Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems fro",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "publishedAt": "2026-08-03T11:01:11.000Z"
-    },
-    {
-      "id": "n_59a8551896",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Fender’s CEO seems to think your bandmates are just analog AI",
-      "summary": "Edward “Bud” Cole speaks in Japan in 2023. | Image: Jun Sato/WireImage Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the r",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-      "publishedAt": "2026-08-02T19:36:08.000Z"
-    },
-    {
-      "id": "n_92beec8f13",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Is paying artists enough to convince them to embrace AI?",
-      "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's n",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-      "publishedAt": "2026-08-02T13:00:00.000Z"
-    },
-    {
-      "id": "n_4a8975413a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Is this Billboard Hot 100 hit AI slop?",
-      "summary": "That cover art is almost certainly AI, too. | Image: Fenix Flexin Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-      "publishedAt": "2026-08-01T18:20:00.000Z"
     },
     {
       "id": "n_3d6d30af34",
@@ -871,6 +871,28 @@
       "publishedAt": "2026-07-27T11:40:16.000Z"
     },
     {
+      "id": "n_9ca6a29e47",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OK, Well, Rogue AI Agents Are Hacking Again",
+      "summary": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+      "publishedAt": "2026-08-04T23:11:31.000Z"
+    },
+    {
+      "id": "n_feac0131c7",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+      "summary": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+      "publishedAt": "2026-08-04T22:06:07.000Z"
+    },
+    {
       "id": "n_21c3091916",
       "type": "news",
       "topic": "ai",
@@ -935,28 +957,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
       "publishedAt": "2026-08-03T22:27:46.000Z"
-    },
-    {
-      "id": "n_3be2ea6267",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI Conquered Coding. Fast Food Is Next",
-      "summary": "Your next drive-thru order might be taken by a bot. And you might not even notice.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
-      "publishedAt": "2026-08-03T10:00:00.000Z"
-    },
-    {
-      "id": "n_9de1d84286",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
-      "summary": "Steve Eimers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
-      "publishedAt": "2026-08-03T09:30:00.000Z"
     },
     {
       "id": "n_ea7f6df3de",
