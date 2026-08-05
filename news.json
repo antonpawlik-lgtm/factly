@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-08-05T16:25:18.187Z",
+  "generatedAt": "2026-08-05T19:09:54.242Z",
   "items": [
+    {
+      "id": "n_7acc410a72",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Iran und Oman einigen sich auf neue Route durch Straße von Hormus",
+      "summary": "Nach Angaben aus Teheran haben sich Iran und Oman auf eine neue Route durch die Straße von Hormus geeinigt. Sie würde Iran deutlich mehr Kontrolle über die Wasserstraße geben. Die USA waren nicht an der Einigung beteiligt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/iran-oman-hormus-100.html",
+      "publishedAt": "2026-08-05T18:50:11.000Z"
+    },
+    {
+      "id": "n_8d8d3a27f9",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach Kürzungen von US-Hilfen in Nepal: Wenn Helfende zu Hilflosen werden",
+      "summary": "Seit US-Präsident Trump das Hilfsprogramm USAID eingestellt hat, zeigen sich weltweit die Folgen. In Nepal fallen dadurch viele HIV-Präventionsprogramme weg. Die Konsequenzen sind in mehrerlei Hinsicht schockierend. Von Lena Bodewein.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/nepal-fehlen-us-aid-folgen-100.html",
+      "publishedAt": "2026-08-05T17:29:32.000Z"
+    },
+    {
+      "id": "n_047bcf2b73",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "E-Autos: CSU will Förderung zugunsten deutscher Hersteller ändern",
+      "summary": "Die aktuelle E-Auto-Förderung will die Elektromobilität in Deutschland voranbringen. Davon profitieren bisher vor allem ausländische Autobauer. Die CSU will das ändern - und deutschen Herstellern einen Vorteil verschaffen. Von Jakob Mayr.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/e-autos-foerderung-csu-100.html",
+      "publishedAt": "2026-08-05T16:53:00.000Z"
+    },
+    {
+      "id": "n_d6b4ce8fb4",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Haben die USA zu wenig Raketen für eine Eskalation mit Iran?",
+      "summary": "Berichte mehrerer Medien erzürnen die Trump-Regierung. Demnach seien die Raketen-Bestände des US-Militärs drastisch geschrumpft. Dies habe auch die Entscheidung über neue Angriffe auf Iran beeinflusst. Das Pentagon dementiert energisch. Von E. Aretz.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-bestand-raketen-100.html",
+      "publishedAt": "2026-08-05T16:40:46.000Z"
+    },
+    {
+      "id": "n_55978df237",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: DAX beendet Klettertour",
+      "summary": "Am Morgen hatte der DAX noch neue Höhen erklommen, dann setzten aber Gewinnmitnahmen ein. Der Markt hatte auch eine Fülle neuer Unternehmenszahlen zu verarbeiten.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-boerse-112.html",
+      "publishedAt": "2026-08-05T16:26:12.000Z"
+    },
     {
       "id": "n_ea6fcdec3f",
       "type": "news",
@@ -33,61 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/gesellschaft/debatte-abschlagsfreie-rente-100.html",
       "publishedAt": "2026-08-05T15:19:29.000Z"
-    },
-    {
-      "id": "n_bf5432b8a1",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Behörden: \"Sehr ernster Sicherheitsvorfall\" am Flughafen Leipzig/Halle",
-      "summary": "Nach dem Fund einer Drohne mit Sprengstoff am Flughafen Leipzig/Halle ist der Zünder inzwischen entschärft. Sachsens Innenminister Schuster spricht von einem \"sehr ernsten\" Vorfall. Bundesinnenminister Dobrindt reist zur Lagebesprechung nach Leipzig.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/sicherheit-flughafen-leipzig-drohne-100.html",
-      "publishedAt": "2026-08-05T14:17:51.000Z"
-    },
-    {
-      "id": "n_64e49d9ba6",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Drohnenfund am Flughafen Leipzig/Halle: Mutmaßlicher Sprengstoff und Zünder entdeckt",
-      "summary": "Am Flughafen Leipzig/Halle wurde ein verdächtiger Gegenstand gefunden. Nach Informationen von NDR, WDR und Süddeutscher Zeitung handelt es sich um eine mit den Sprengstoffen PETN und Semtex präparierte Drohne.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/investigativ/drohne-leipzig-100.html",
-      "publishedAt": "2026-08-05T13:20:54.000Z"
-    },
-    {
-      "id": "n_23fa43231e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Neue Männlichkeit in Sportserien: Ted Lasso und Co.",
-      "summary": "Die neuen Sport-Helden in Serien wie \"Ted Lasso\" oder \"Off Campus\" sind sensibel und verletzlich. Diese neuen Männerbilder sind Ausdruck eines Kulturkampfes - mitten auf dem Spielfeld der Popkultur. Von Christoph Ohrem.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kultur/ted-lasso-heated-rivalry-und-off-campus,neue-maennlichkeit-in-sportserien-100.html",
-      "publishedAt": "2026-08-05T13:05:42.000Z"
-    },
-    {
-      "id": "n_5b0ad6dd59",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Einschränkungen bei der Bewässerung bedrohen Ernten von Landwirten",
-      "summary": "Um Flüsse und Bachläufe zu schützen, beschränken viele Kommunen derzeit die Wasserentnahme. Die Folge: viel zu kleine Zwiebeln, vertrockneter Salat und verkümmerte Kartoffeln. Landwirte beklagen massive Ernteausfälle. Von F. Siegel.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/wassermangel-landwrite-100.html",
-      "publishedAt": "2026-08-05T13:04:56.000Z"
-    },
-    {
-      "id": "n_8ad6d689ad",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Flüsse im Trockenstress - Ökosystem fehlt die Lebensgrundlage",
-      "summary": "Wenn Flüsse kaum noch Wasser führen, trocknen Auen aus, Grundwasserreserven schrumpfen und Schadstoffe aus dem Abwasser treten konzentrierter auf. Fachleute fordern ein neues Wassermanagement und mehr Klimaschutz. Von Sabine Stöhr.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/klima/klimawandel-duerre-niedrigwasser-folgen-100.html",
-      "publishedAt": "2026-08-05T13:02:16.000Z"
     },
     {
       "id": "n_7265f1093d",
@@ -178,6 +178,28 @@
       "publishedAt": "2026-08-04T13:26:00.000Z"
     },
     {
+      "id": "n_c00fe9654c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Lego Spider-Man nach Kinostart so günstig wie nie bei Amazon",
+      "summary": "Spider-Man jagt den Gefängnistransporter im neuen Film sowie bei Lego. Befristet gibt's das Set zum bisher besten Amazon-Preis. (Lego, Spider-Man)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-lego-spider-man-nach-kinostart-so-guenstig-wie-nie-bei-amazon-2608-211649.html",
+      "publishedAt": "2026-08-05T17:10:02.000Z"
+    },
+    {
+      "id": "n_adcb14651f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: USB-Ladegerät von Anker mit 65 W und drei Anschlüssen für unter 26 Euro",
+      "summary": "Amazon verkauft das Anker Nano USB-Ladegerät in der 65-W-Variante wieder zu seinem bisher niedrigsten Preis. (Technik/Hardware, Amazon)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-usb-ladegeraet-von-anker-mit-65-w-und-drei-anschluessen-fuer-unter-26-euro-2608-211648.html",
+      "publishedAt": "2026-08-05T16:36:01.000Z"
+    },
+    {
       "id": "n_d98518c0fc",
       "type": "news",
       "topic": "tech",
@@ -244,26 +266,26 @@
       "publishedAt": "2026-08-05T14:50:02.000Z"
     },
     {
-      "id": "n_f24a2d358e",
+      "id": "n_da87ac79b7",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Kabeltasche für Elektronikzubehör zum Sparpreis bei Amazon",
-      "summary": "Amazon hat eine Kabeltasche von Ugreen im Angebot, in der sich Elektronikzubehör übersichtlich verstauen und sicher transportieren lässt. (Technik/Hardware)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-kabeltasche-fuer-elektronikzubehoer-zum-sparpreis-bei-amazon-2608-211641.html",
-      "publishedAt": "2026-08-05T14:20:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: 'Scariest night' as Ukraine fails to intercept Russian attack",
+      "summary": "Kyiv's depleted air defences meant many of the missiles were not intercepted - like the one that hit Anastasiia's home.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/clyxdgx7m8no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T19:00:32.000Z"
     },
     {
-      "id": "n_cf63554850",
+      "id": "n_987439c2ef",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Gegen Hitzeinseln: Hochporöse Keramikwürfel können Städte kühlen",
-      "summary": "Das mit Pilzen optimierte Material aus dem 3D-Drucker kann Innenräume um mehrere Grad kühlen oder auf offenen Plätzen eingesetzt werden. (3D-Drucker, Kühlung)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/gegen-hitzeinseln-hochporoese-keramikwuerfel-koennen-staedte-kuehlen-2608-211635.html",
-      "publishedAt": "2026-08-05T14:11:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+      "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T18:19:51.000Z"
     },
     {
       "id": "n_f99117de6d",
@@ -330,28 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-05T13:58:01.000Z"
-    },
-    {
-      "id": "n_1d5a030736",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Nigeria's president orders a 80% salary increase for junior soldiers",
-      "summary": "The announcement comes as Nigeria's security forces struggle to contain multiple threats.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj031jp3g6jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T12:52:19.000Z"
-    },
-    {
-      "id": "n_1ad074725d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Waste workers help winner find binned €1m lottery ticket in Italy",
-      "summary": "The player only realised they binned the life-changing ticket after family told them the numbers he played for years had been drawn.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T12:33:43.000Z"
     },
     {
       "id": "n_91b6731874",
@@ -442,6 +442,50 @@
       "publishedAt": "2026-08-03T23:21:10.000Z"
     },
     {
+      "id": "n_1ecb8a1d6f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
+      "summary": "Disney is interested in \"price-sensitive\" streaming customers.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/",
+      "publishedAt": "2026-08-05T17:12:39.000Z"
+    },
+    {
+      "id": "n_0aa516abfc",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "EVgo starts building Tesla Superchargers under license",
+      "summary": "The V4 Superchargers will show up in the Tesla nav app and have NACS and CCS1 plugs.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/",
+      "publishedAt": "2026-08-05T17:00:38.000Z"
+    },
+    {
+      "id": "n_801d913504",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "D-Wave shows off its new entry in quantum computing race",
+      "summary": "Company noted for building quantum annealers now also making gate-based hardware.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
+      "publishedAt": "2026-08-05T16:37:07.000Z"
+    },
+    {
+      "id": "n_3432a5c0e7",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Google plans to kill Assistant on your phone on September 4",
+      "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+      "publishedAt": "2026-08-05T15:30:02.000Z"
+    },
+    {
       "id": "n_6104801924",
       "type": "news",
       "topic": "tech",
@@ -484,50 +528,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
       "publishedAt": "2026-08-04T21:27:05.000Z"
-    },
-    {
-      "id": "n_82d406643c",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Texas halts data center connections to power grid amid overwhelming demand",
-      "summary": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
-      "publishedAt": "2026-08-04T20:34:28.000Z"
-    },
-    {
-      "id": "n_90a104281a",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "China is Tesla's cash cow, but for how much longer?",
-      "summary": "Tesla's Shanghai factory is busier than ever but might be cut loose.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
-      "publishedAt": "2026-08-04T17:34:48.000Z"
-    },
-    {
-      "id": "n_d227d1718a",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "The Pixel 11's \"glow\" feature is actually called HiLight—here's what it does",
-      "summary": "The camera flash will evolve into a multicolor LED that illuminates when your phone is face down.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
-      "publishedAt": "2026-08-04T16:11:05.000Z"
-    },
-    {
-      "id": "n_72bb337946",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Tom DeLay helped create TV ownership cap—he says Trump FCC has no authority to repeal it",
-      "summary": "Congress set ownership limit at 39%, but FCC claims authority to kill the rule.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/",
-      "publishedAt": "2026-08-04T15:51:00.000Z"
     },
     {
       "id": "n_f868c2ae37",
@@ -590,7 +590,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-      "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+      "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
       "publishedAt": "2026-08-05T11:00:00.000Z"
@@ -616,6 +616,39 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
       "publishedAt": "2026-08-04T20:05:26.000Z"
+    },
+    {
+      "id": "n_1dc2e64cdf",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Sure seems like Fenix Flexin used AI music generator Treblo",
+      "summary": "And you thought we were done with this one… | Image: Fenix Flexin We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to confirm it. On Mo",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+      "publishedAt": "2026-08-05T16:57:25.000Z"
+    },
+    {
+      "id": "n_8b1ada3050",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Google just announced a major shakeup of its top AI leadership",
+      "summary": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at Alphabet, CEO Sundar Pichai announced on Wednesday. Hassabis will continue to l",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+      "publishedAt": "2026-08-05T16:47:23.000Z"
+    },
+    {
+      "id": "n_73d50818e4",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "SpaceX is barely Space and mostly X",
+      "summary": "Privatize the profit, socialize the losses? | Image: Cath Virginia / The Verge, Getty Images Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Loo",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+      "publishedAt": "2026-08-05T16:35:56.000Z"
     },
     {
       "id": "n_32802d2d5e",
@@ -671,39 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
       "publishedAt": "2026-08-04T20:57:49.000Z"
-    },
-    {
-      "id": "n_ed45a6ea53",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "SpaceX made more revenue as an AI company than a space company",
-      "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go pu",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-      "publishedAt": "2026-08-04T20:47:55.000Z"
-    },
-    {
-      "id": "n_f74b40f658",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "How an OpenAI influencer trip backfired",
-      "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-      "publishedAt": "2026-08-04T17:46:41.000Z"
-    },
-    {
-      "id": "n_507e71c13b",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "‘Not healthy’ LLM use is more common than you think",
-      "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-      "publishedAt": "2026-08-04T17:33:46.000Z"
     },
     {
       "id": "n_3d6d30af34",
@@ -871,6 +871,28 @@
       "publishedAt": "2026-07-27T11:40:16.000Z"
     },
     {
+      "id": "n_5b89f46fca",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "AI Worms and Viruses Are Coming",
+      "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
+      "publishedAt": "2026-08-05T18:30:00.000Z"
+    },
+    {
+      "id": "n_c9f31671de",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+      "summary": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+      "publishedAt": "2026-08-05T16:26:36.000Z"
+    },
+    {
       "id": "n_b6aa5e4c7c",
       "type": "news",
       "topic": "ai",
@@ -935,116 +957,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
       "publishedAt": "2026-08-04T22:06:07.000Z"
-    },
-    {
-      "id": "n_21c3091916",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Is This Poker Player Bluffing? The AI Thinks So",
-      "summary": "ESPN unveiled an “AI tells detection” tool during broadcasts of the 2026 World Series of Poker. Is it a neat computer-powered party trick, or a real threat to poker’s future?",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
-      "publishedAt": "2026-08-04T11:00:00.000Z"
-    },
-    {
-      "id": "n_bb60955e8a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "How One Startup Built a (Mostly) China-Free Robot",
-      "summary": "Ati Robotics assembles its robots in India and uses just a few Chinese parts—a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
-      "publishedAt": "2026-08-04T10:45:00.000Z"
-    },
-    {
-      "id": "n_ea7f6df3de",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "publishedAt": "2026-08-04T13:58:29.000Z"
-    },
-    {
-      "id": "n_f684c3a66a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "publishedAt": "2026-07-30T15:09:09.000Z"
-    },
-    {
-      "id": "n_92e866603d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "publishedAt": "2026-07-28T16:27:42.000Z"
-    },
-    {
-      "id": "n_9101339b1a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "publishedAt": "2026-07-27T09:32:20.000Z"
-    },
-    {
-      "id": "n_8ff67d7712",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "publishedAt": "2026-07-27T00:00:00.000Z"
-    },
-    {
-      "id": "n_37c9890bc3",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "publishedAt": "2026-07-23T00:00:00.000Z"
-    },
-    {
-      "id": "n_f07ea0986e",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Grabette: an open system to record robot-manipulation data",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/grabette",
-      "publishedAt": "2026-07-21T00:00:00.000Z"
-    },
-    {
-      "id": "n_4babaf3e26",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Newer Models, Same Advantage",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "publishedAt": "2026-07-16T11:49:48.000Z"
     },
     {
       "id": "n_cbc630e184",
@@ -1143,6 +1055,18 @@
       "publishedAt": "2026-05-06T22:03:16.000Z"
     },
     {
+      "id": "n_cdc415b5c6",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The safest way to store Bitcoin just lost $115 million...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=2X2V3xv_jik",
+      "thumbnail": "https://i.ytimg.com/vi/2X2V3xv_jik/hqdefault.jpg",
+      "publishedAt": "2026-08-05T18:08:46.000Z"
+    },
+    {
       "id": "n_b67d3be64b",
       "type": "video",
       "topic": "video",
@@ -1177,18 +1101,6 @@
       "url": "https://www.youtube.com/watch?v=YP73B9D20V4",
       "thumbnail": "https://i.ytimg.com/vi/YP73B9D20V4/hqdefault.jpg",
       "publishedAt": "2026-07-22T17:43:52.000Z"
-    },
-    {
-      "id": "n_10ab80aff4",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "This $12 billion startup finally shipped something...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=M51asSwRLxA",
-      "thumbnail": "https://i.ytimg.com/vi/M51asSwRLxA/hqdefault.jpg",
-      "publishedAt": "2026-07-20T17:02:30.000Z"
     },
     {
       "id": "n_5f31592cac",
