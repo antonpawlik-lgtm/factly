@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-05T19:09:54.242Z",
+  "generatedAt": "2026-08-05T22:03:37.542Z",
   "items": [
+    {
+      "id": "n_7b731d46aa",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Drohne am Flughafen Leipzig/Halle: Dobrindt sieht \"hybrides Anschlagsszenario\"",
+      "summary": "Nach dem Fund einer Drohne mit Sprengstoff am Flughafen Leipzig/Halle zeigen sich die Behörden alarmiert. Bundesinnenminister Dobrindt sprach von einer \"neuen Gefahrenqualität\".",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/drohnenvorfall-leipzig-dobrindt-100.html",
+      "publishedAt": "2026-08-05T21:35:23.000Z"
+    },
+    {
+      "id": "n_5e2168a028",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "WHO: Studien zu Ebola-Medikamenten und Impfstoffen starten",
+      "summary": "Studien für Medikamente und Impfstoffe gegen die Bundibugyo-Variante des Ebola-Virus haben begonnen. Gleichzeitig warnt die WHO vor der immer noch rasanten Ausbreitung der Krankheit in der Demokratischen Republik Kongo.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/afrika/who-ebola-medikamente-102.html",
+      "publishedAt": "2026-08-05T19:55:09.000Z"
+    },
+    {
+      "id": "n_64e49d9ba6",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Drohnenfund am Flughafen Leipzig/Halle: Sprengstoff und Zünder entdeckt",
+      "summary": "Am Flughafen Leipzig/Halle wurde ein verdächtiger Gegenstand gefunden. Nach Informationen von NDR, WDR und Süddeutscher Zeitung handelt es sich um eine mit den Sprengstoffen PETN und Semtex präparierte Drohne.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/investigativ/drohne-leipzig-100.html",
+      "publishedAt": "2026-08-05T19:41:36.000Z"
+    },
     {
       "id": "n_7acc410a72",
       "type": "news",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-boerse-112.html",
       "publishedAt": "2026-08-05T16:26:12.000Z"
-    },
-    {
-      "id": "n_ea6fcdec3f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Senats-Vorwahl in Michigan: El-Sayed sichert sich Kandidatur für Demokraten",
-      "summary": "Im US-Bundesstaat Michigan hat sich der linke Gesundheitspolitiker Abdul El-Sayed knapp die Kandidatur der Demokraten für die Senatswahlen im November gesichert. Die Wahl galt auch als Stimmungstest. Von Sandra Ratzow.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-michigan-abdul-el-sayed-kandidatur-100.html",
-      "publishedAt": "2026-08-05T16:22:10.000Z"
-    },
-    {
-      "id": "n_809a36dabd",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "SPD uneins über Abschaffung der Rente mit 63",
-      "summary": "Der Plan der Bundesregierung, die \"Rente mit 63 Jahren\" abzuschaffen, führt auch innerhalb der SPD zu Debatten. So plädiert der Parlamentarische Geschäftsführer Wiese für Härtefall-Ausnahmen, etwa im Straßenbau oder der Schichtarbeit.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/rentendiskussion-102.html",
-      "publishedAt": "2026-08-05T15:55:48.000Z"
-    },
-    {
-      "id": "n_81faad9767",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "\"Rente mit 63\": Wer sie nutzt - und wer sich darum streitet",
-      "summary": "Die Abschaffung der \"Rente mit 63\" gilt als ein entscheidender Baustein der Rentenreform der Bundesregierung. Doch der Widerstand dagegen wird lauter. Wer profitiert eigentlich von der Frühverrentung? Und wer will daran festhalten?",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/debatte-abschlagsfreie-rente-100.html",
-      "publishedAt": "2026-08-05T15:19:29.000Z"
     },
     {
       "id": "n_7265f1093d",
@@ -266,6 +266,61 @@
       "publishedAt": "2026-08-05T14:50:02.000Z"
     },
     {
+      "id": "n_70e1938410",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Fifa admits mistakes but Infantino remains president",
+      "summary": "Gianni Infantino will remain as Fifa president after he receives the backing of senior executives following a meeting, despite the governing body admitting \"mistakes\" were made.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T21:37:08.000Z"
+    },
+    {
+      "id": "n_906ccad4e6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
+      "summary": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T21:21:51.000Z"
+    },
+    {
+      "id": "n_c837ad8e9a",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Israel strikes south Lebanon after first evacuation warning in weeks",
+      "summary": "Lebanon's health ministry says one person was killed in the strikes, which the Israeli military says were a response to a Hezbollah ceasefire violation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T20:03:36.000Z"
+    },
+    {
+      "id": "n_71ff3008af",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Drone carrying explosives found at German airport, police say",
+      "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T20:01:51.000Z"
+    },
+    {
+      "id": "n_2156f87c51",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
+      "summary": "The 78-year-old has been convicted of crimes against humanity over a deadly crackdown on a 2024 uprising.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T19:02:06.000Z"
+    },
+    {
       "id": "n_da87ac79b7",
       "type": "news",
       "topic": "general",
@@ -275,6 +330,17 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/clyxdgx7m8no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-05T19:00:32.000Z"
+    },
+    {
+      "id": "n_ad9700aa6c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
+      "summary": "The \"cockroach\" movement was one of the biggest public displays of dissent against India's prime minister in years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T18:38:46.000Z"
     },
     {
       "id": "n_987439c2ef",
@@ -288,70 +354,15 @@
       "publishedAt": "2026-08-05T18:19:51.000Z"
     },
     {
-      "id": "n_f99117de6d",
+      "id": "n_baea9ce8bf",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Left-wing political outsider wins Democratic Senate primary in Michigan",
-      "summary": "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November.",
+      "headline": "AI or real? BBC analyses viral China disaster videos",
+      "summary": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T16:20:14.000Z"
-    },
-    {
-      "id": "n_71ff3008af",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Drone carrying explosives found at German airport, police say",
-      "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T16:06:30.000Z"
-    },
-    {
-      "id": "n_624f722f6d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "El-Sayed's victory sends tremors through Democratic Party",
-      "summary": "His win in Michigan sets up a high-stakes contest in November, testing a left-wing candidate's popularity in a swing state.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp309ng0xq1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T16:04:16.000Z"
-    },
-    {
-      "id": "n_fae5d29e85",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "South Africa plans new rules on ex-leaders' foreign trips after Zuma's visit to India",
-      "summary": "Jacob Zuma was pictured with a businessmen allegedly at the heart of a corruption scandal in South Africa",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1e14lj7vg7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T14:58:41.000Z"
-    },
-    {
-      "id": "n_cdcd851593",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "UN rights chief alarmed by rise in Iran executions since March",
-      "summary": "Volker Türk says 56 people have been executed on national security-related charges, including 27 in cases linked to January's protests.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T14:04:09.000Z"
-    },
-    {
-      "id": "n_7227992177",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Armed man arrested near Trump's golf course ahead of president's visit",
-      "summary": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T13:58:01.000Z"
+      "url": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T22:00:32.000Z"
     },
     {
       "id": "n_91b6731874",
@@ -431,103 +442,125 @@
       "publishedAt": "2026-08-04T10:22:40.000Z"
     },
     {
-      "id": "n_ee4f8e5560",
+      "id": "n_5685c60310",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Tokenomics: Why making AI pay is tricky",
-      "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T23:21:10.000Z"
+      "headline": "Schwartz confirmed as CDC director after bungling confirmation hearing",
+      "summary": "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
+      "publishedAt": "2026-08-05T21:03:18.000Z"
     },
     {
-      "id": "n_1ecb8a1d6f",
+      "id": "n_1baa27119c",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "After jacking up prices, Disney+ and Netflix consider offering free alternatives",
-      "summary": "Disney is interested in \"price-sensitive\" streaming customers.",
+      "headline": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+      "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/",
-      "publishedAt": "2026-08-05T17:12:39.000Z"
+      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "publishedAt": "2026-08-05T20:47:11.000Z"
     },
     {
-      "id": "n_0aa516abfc",
+      "id": "n_671a045d74",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "EVgo starts building Tesla Superchargers under license",
-      "summary": "The V4 Superchargers will show up in the Tesla nav app and have NACS and CCS1 plugs.",
+      "headline": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
+      "summary": "Reddit says the beloved site is used for some \"bad behavior.\"",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/",
-      "publishedAt": "2026-08-05T17:00:38.000Z"
+      "url": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
+      "publishedAt": "2026-08-05T20:01:32.000Z"
     },
     {
-      "id": "n_801d913504",
+      "id": "n_06feee9e3f",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "D-Wave shows off its new entry in quantum computing race",
-      "summary": "Company noted for building quantum annealers now also making gate-based hardware.",
+      "headline": "Hank Green found the AI problem that YouTube labels can’t catch",
+      "summary": "\"Slop\" isn't the only problem.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
-      "publishedAt": "2026-08-05T16:37:07.000Z"
+      "url": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
+      "publishedAt": "2026-08-05T19:51:40.000Z"
     },
     {
-      "id": "n_3432a5c0e7",
+      "id": "n_dcbdcb4f20",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Google plans to kill Assistant on your phone on September 4",
-      "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
+      "headline": "SpaceX claims Starlink Mobile will be better than AT&T, T-Mobile, and Verizon",
+      "summary": "SpaceX won't build large cell towers but plans small base stations across US.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
-      "publishedAt": "2026-08-05T15:30:02.000Z"
+      "url": "https://arstechnica.com/tech-policy/2026/08/spacex-claims-starlink-mobile-will-be-better-than-att-t-mobile-and-verizon/",
+      "publishedAt": "2026-08-05T19:38:56.000Z"
     },
     {
-      "id": "n_6104801924",
+      "id": "n_9937d71d80",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "SpaceX spooks investors with debut earnings report",
-      "summary": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled.",
+      "headline": "This Atlantic hurricane season is looking like a dud, but there will be a price to pay",
+      "summary": "\"The models are forecasting something outside the envelope of anything we have ever observed.\"",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
-      "publishedAt": "2026-08-05T13:59:17.000Z"
+      "url": "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
+      "publishedAt": "2026-08-05T19:19:04.000Z"
     },
     {
-      "id": "n_03f2d2d381",
+      "id": "n_b2b97dc53b",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Pushing the limits: Infinite Machine's Olto is barely a bicycle",
-      "summary": "Scooter layout makes pedaling a bad experience. But it does have pedals.",
+      "headline": "Google's AI shake-up: DeepMind's Hassabis steps aside, senior scientists depart",
+      "summary": "Google's AI brain drain continues.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/08/pushing-the-limits-infinite-machines-olto-is-barely-a-bicycle/",
-      "publishedAt": "2026-08-05T11:00:26.000Z"
+      "url": "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
+      "publishedAt": "2026-08-05T19:05:58.000Z"
     },
     {
-      "id": "n_b45e8d4dc9",
+      "id": "n_95e1d31ce5",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Senators demand crackdown on wildfire \"prediction market\" bets",
-      "summary": "Fire experts warn such markets could incentivize arson.",
+      "headline": "Review: Spider-Man: Brand New Day reminds us that superhero movies can be good",
+      "summary": "It's as much about grounded characters and well-timed emotional beats as CGI-filled action extravaganzas.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
-      "publishedAt": "2026-08-04T21:52:31.000Z"
+      "url": "https://arstechnica.com/culture/2026/08/review-spider-man-brand-new-day-reminds-us-that-superhero-movies-can-be-good/",
+      "publishedAt": "2026-08-05T18:27:15.000Z"
     },
     {
-      "id": "n_277b959805",
+      "id": "n_13a41dea41",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Trump killed the Digital Equity Act but US was forced to bring part of it back",
-      "summary": "$1.25 billion program restored, but judge ruled race provision unconstitutional.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
-      "publishedAt": "2026-08-04T21:27:05.000Z"
+      "headline": "Meta launches Muse Code, an AI agent for large code bases",
+      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "publishedAt": "2026-08-05T21:21:28.000Z"
+    },
+    {
+      "id": "n_e9f9bc8171",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "publishedAt": "2026-08-05T20:05:00.000Z"
+    },
+    {
+      "id": "n_d0d37e3ae2",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "publishedAt": "2026-08-05T19:30:19.000Z"
     },
     {
       "id": "n_f868c2ae37",
@@ -583,39 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
       "publishedAt": "2026-08-05T12:28:38.000Z"
-    },
-    {
-      "id": "n_40d8458ed3",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-      "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-      "publishedAt": "2026-08-05T11:00:00.000Z"
-    },
-    {
-      "id": "n_bedc6f3c74",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-      "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-      "publishedAt": "2026-08-04T21:07:26.000Z"
-    },
-    {
-      "id": "n_9842810604",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-      "publishedAt": "2026-08-04T20:05:26.000Z"
     },
     {
       "id": "n_1dc2e64cdf",
@@ -871,11 +871,22 @@
       "publishedAt": "2026-07-27T11:40:16.000Z"
     },
     {
+      "id": "n_3d3d1a0fe3",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
+      "summary": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human expertise.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
+      "publishedAt": "2026-08-05T19:42:12.000Z"
+    },
+    {
       "id": "n_5b89f46fca",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "AI Worms and Viruses Are Coming",
+      "headline": "AI Hacks Are Bad. AI Worms and Viruses Will Be Worse",
       "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses.",
       "source": "Wired",
       "url": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
@@ -948,15 +959,92 @@
       "publishedAt": "2026-08-04T23:11:31.000Z"
     },
     {
-      "id": "n_feac0131c7",
+      "id": "n_ea7f6df3de",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
-      "summary": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
-      "publishedAt": "2026-08-04T22:06:07.000Z"
+      "headline": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "publishedAt": "2026-08-04T13:58:29.000Z"
+    },
+    {
+      "id": "n_f684c3a66a",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "publishedAt": "2026-07-30T15:09:09.000Z"
+    },
+    {
+      "id": "n_92e866603d",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "publishedAt": "2026-07-28T16:27:42.000Z"
+    },
+    {
+      "id": "n_9101339b1a",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "publishedAt": "2026-07-27T09:32:20.000Z"
+    },
+    {
+      "id": "n_8ff67d7712",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "publishedAt": "2026-07-27T00:00:00.000Z"
+    },
+    {
+      "id": "n_37c9890bc3",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "publishedAt": "2026-07-23T00:00:00.000Z"
+    },
+    {
+      "id": "n_f07ea0986e",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Grabette: an open system to record robot-manipulation data",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/grabette",
+      "publishedAt": "2026-07-21T00:00:00.000Z"
+    },
+    {
+      "id": "n_4babaf3e26",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Newer Models, Same Advantage",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "publishedAt": "2026-07-16T11:49:48.000Z"
     },
     {
       "id": "n_cbc630e184",
@@ -1059,7 +1147,7 @@
       "type": "video",
       "topic": "video",
       "lang": "en",
-      "headline": "The safest way to store Bitcoin just lost $115 million...",
+      "headline": "The safest way to store Bitcoin was just hacked...",
       "summary": "",
       "source": "Fireship",
       "url": "https://www.youtube.com/watch?v=2X2V3xv_jik",
