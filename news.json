@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-08-05T01:20:35.710Z",
+  "generatedAt": "2026-08-05T05:35:03.674Z",
   "items": [
+    {
+      "id": "n_55978df237",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: DAX bleibt auf Rekordkurs",
+      "summary": "Im Sog der Wall Street bleibt der DAX auf Klettertour - neue Rekorde zeichnen sich ab. In New York waren vor allem Tech-Aktien wieder gefragt. Im DAX geht derweil die Berichtssaison der Unternehmen weiter.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-boerse-112.html",
+      "publishedAt": "2026-08-05T05:31:07.000Z"
+    },
+    {
+      "id": "n_11572b98cd",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Arbeitgeber kritisieren Widerstand gegen Ende der \"Rente mit 63\"",
+      "summary": "Das Aus der abschlagsfreien Frührente ist ein zentraler Punkt der schwarz-roten Rentenreform. Doch seit Tagen machen Teile der Koalition dagegen mobil. Der Arbeitgeberverband zeigt sich darüber \"fassungslos\".",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bda-abschlagsfreie-fruehrente-100.html",
+      "publishedAt": "2026-08-05T05:24:36.000Z"
+    },
+    {
+      "id": "n_02cb45d436",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Waldbrand in den Niederlanden - Warnung vor Brandrauch in NRW",
+      "summary": "Ein Waldbrand in den Niederlanden unweit der Grenze zu Nordrhein-Westfalen ist weiter nicht unter Kontrolle. Der Brand hat auch Auswirkungen auf den Kreis Kleve: Anwohner müssen sich auf teils deutlichen Brandgeruch einstellen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/waldbrand-niederlande-rauch-kreis-kleve-100.html",
+      "publishedAt": "2026-08-05T05:10:00.000Z"
+    },
+    {
+      "id": "n_c61f188ab6",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Hunderte Menschen nach Vulkanausbruch in Guatemala evakuiert",
+      "summary": "In einigen Regionen von Guatemala gilt inzwischen die höchste Warnstufe - denn der Feuervulkan ist wieder ausgebrochen. 1.400 Menschen wurden evakuiert. Behörden sperrten den Zugang zu einem Nachbarvulkan - weil sich Schaulustige in Gefahr begaben.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/guatemala-vulkan-ausbruch-100.html",
+      "publishedAt": "2026-08-05T03:14:48.000Z"
+    },
+    {
+      "id": "n_81faad9767",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "\"Rente mit 63\": Wer sie nutzt - und wer sich darum streitet",
+      "summary": "Die Abschaffung der \"Rente mit 63\" gilt als ein entscheidender Baustein der Rentenreform der Bundesregierung. Doch der Widerstand dagegen wird lauter. Wer profitiert eigentlich von der Frühverrentung? Und wer will daran festhalten?",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/debatte-abschlagsfreie-rente-100.html",
+      "publishedAt": "2026-08-05T03:03:45.000Z"
+    },
+    {
+      "id": "n_e3785e2f7a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Russische Angriffe: Kiew wieder unter Raketenbeschuss",
+      "summary": "Bei erneuten russischen Attacken auf die ukrainische Hauptstadt Kiew ist laut Behörden ein Mensch getötet worden. Es gibt mehrere Verletzte. Unter den Trümmern werden weitere Opfer befürchtet.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-russland-102.html",
+      "publishedAt": "2026-08-05T02:18:18.000Z"
+    },
     {
       "id": "n_97f124e784",
       "type": "news",
@@ -22,72 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/hunger-afghanistan-kinder-100.html",
       "publishedAt": "2026-08-05T00:53:10.000Z"
-    },
-    {
-      "id": "n_d292a60c77",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wie ein chinesischer Essenslieferant einen wichtigen Literaturpreis gewann",
-      "summary": "Während er mit seinem Elektroroller Essenslieferungen an die Haustüren brachte, verfasste Wang Jibing Gedichte. Dafür hat er nun eine der höchsten literarischen Auszeichnungen Chinas erhalten. Von E. Lamby-Schmitt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/china-lieferdiensfahrer-bekommt-literaturpreis-100.html",
-      "publishedAt": "2026-08-04T19:28:30.000Z"
-    },
-    {
-      "id": "n_b689faecf5",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Angriff auf Gemüsehändler: Ukraine wirft Moskau \"Drohnen-Safari\" vor",
-      "summary": "Ein Video zeigt, wie eine Drohne einen Gemüsehändler in der Ukraine verfolgt - und schließlich neben ihm explodiert. Der Angriff sei kein Einzelfall, sagt der ukrainische Präsident Selenskyj. Er fordert erneut mehr Druck auf Moskau.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-cherson-drohnenangriff-100.html",
-      "publishedAt": "2026-08-04T18:47:49.000Z"
-    },
-    {
-      "id": "n_826e0ba3c9",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Innenausschuss zum CSD-Anschlag: Zentrale Fragen bleiben ungeklärt",
-      "summary": "Wieso war der Islamist auf freiem Fuß, obwohl er als extrem gefährlich galt? Hatten die Sicherheitsbehörden das Berliner Gericht ausreichend informiert? Im Innenausschuss zum CSD-Anschlag gab es darauf keine Antworten. Von D. K. Mäurer.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/innenausschuss-csd-berlin-100.html",
-      "publishedAt": "2026-08-04T17:57:34.000Z"
-    },
-    {
-      "id": "n_a0f0d8feb3",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Vier Verletzte nach Schüssen in Köln",
-      "summary": "Vier Menschen sind durch Schüsse in Köln zum Teil schwer verletzt worden. Die Schüsse sollen nach Angaben der Polizei auf einer Straße mitten im Stadtteil Mühlheim abgefeuert worden sein. Die Hintergründe sind noch unklar.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/koeln-vier-verletzte-nach-schuessen-100.html",
-      "publishedAt": "2026-08-04T17:17:00.000Z"
-    },
-    {
-      "id": "n_6244117f38",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "EU-Innenminister zu Ceuta: \"Natürlich\" Solidarität mit Spanien",
-      "summary": "Nachdem die meisten EU-Staaten Spanien wegen der Krise in Ceuta kritisiert hatten, betonten die europäischen Innenminister jetzt ihre Solidarität mit Madrid. Doch die Diskussion über Europas Grenzschutz geht weiter. Von Jean-Marie Magro.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-innenminister-ceuta-100.html",
-      "publishedAt": "2026-08-04T16:57:32.000Z"
-    },
-    {
-      "id": "n_c73a4e7ab7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Hitze, Dürre, Waldbrände: Rufe nach Reaktion der Bundesregierung",
-      "summary": "Die Waldbrände in Südeuropa dominieren die Schlagzeilen. Doch auch in Deutschland sind die Folgen des Klimawandels durch Niedrigwasser und Waldbrände spürbar. Die Kritik an der Klimapolitik der Bundesregierung wird wieder lauter.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/hitze-trockenheit-waldbraende-klimaschutz-100.html",
-      "publishedAt": "2026-08-04T16:36:25.000Z"
     },
     {
       "id": "n_7e43eb4106",
@@ -178,6 +178,17 @@
       "publishedAt": "2026-08-03T13:00:00.000Z"
     },
     {
+      "id": "n_3e931eec96",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Cloud Competence Center aufbauen: Strategie und Governance",
+      "summary": "Der Aufbau eines Cloud Competence Centers verlangt klare Strukturen, Rollen und eine durchdachte Governance. Ein Workshop vermittelt praxisnahe Ansätze für Strategie und Umsetzung. (Golem Karrierewelt, Internet)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-cloud-competence-center-aufbauen-strategie-und-governance-2608-211603.html",
+      "publishedAt": "2026-08-05T05:15:05.000Z"
+    },
+    {
       "id": "n_3fd722d622",
       "type": "news",
       "topic": "tech",
@@ -255,26 +266,26 @@
       "publishedAt": "2026-08-04T15:16:01.000Z"
     },
     {
-      "id": "n_b6e9292c1a",
+      "id": "n_d7cb0db074",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "1&1: Unlimited Tarife für öffentliches WLAN oder Server missbraucht",
-      "summary": "1&1 erklärt, was eine missbräuchliche Nutzung seiner Unlimited Mobilfunktarife ist. Offenbar sind einige Kunden beim Einsatz der SIM sehr kreativ. (1&1, Server)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/1-1-unlimited-tarife-fuer-oeffentliches-wlan-oder-server-missbraucht-2608-211597.html",
-      "publishedAt": "2026-08-04T14:54:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Russian ballistic missile strike on Kyiv kills 14 and injures 22, officials say",
+      "summary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" the region around the city.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T05:08:43.000Z"
     },
     {
       "id": "n_479cf0129f",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "headline": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
       "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T01:05:21.000Z"
+      "publishedAt": "2026-08-05T03:44:30.000Z"
     },
     {
       "id": "n_569318a6a4",
@@ -343,15 +354,15 @@
       "publishedAt": "2026-08-04T22:10:00.000Z"
     },
     {
-      "id": "n_126b04959c",
+      "id": "n_91b6731874",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "The avalanche that killed a climbing legend - and a generation of record-setting guides",
-      "summary": "Their fellow guides say their deaths in Pakistan dealt a devastating blow to Nepal's mountaineering community.",
+      "headline": "SpaceX's first-ever earnings show higher revenues and huge spending",
+      "summary": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T22:09:50.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-05T04:01:22.000Z"
     },
     {
       "id": "n_3e5ac628db",
@@ -385,17 +396,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-04T23:09:44.000Z"
-    },
-    {
-      "id": "n_91b6731874",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "SpaceX's first-ever earnings show higher revenues and huge spending",
-      "summary": "Elon Musk said during a call with financial analysts that people were \"underestimating\" his company.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T21:57:19.000Z"
     },
     {
       "id": "n_9c012f971d",
@@ -1045,186 +1045,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
       "publishedAt": "2026-07-16T11:49:48.000Z"
-    },
-    {
-      "id": "n_4b6553db46",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Another DeepSeek Moment Has Arrived",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
-      "thumbnail": "https://i.ytimg.com/vi/bm1BjOjS7sQ/hqdefault.jpg",
-      "publishedAt": "2026-08-03T09:47:34.000Z"
-    },
-    {
-      "id": "n_cd099417b9",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
-      "thumbnail": "https://i.ytimg.com/vi/8B05cy3UuSE/hqdefault.jpg",
-      "publishedAt": "2026-08-02T15:01:10.000Z"
-    },
-    {
-      "id": "n_a8e1e70bfc",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Kimi K3 Just Broke The Economics Of AI",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
-      "thumbnail": "https://i.ytimg.com/vi/Xj-QdEUxJkE/hqdefault.jpg",
-      "publishedAt": "2026-07-29T12:37:50.000Z"
-    },
-    {
-      "id": "n_9363752886",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude Just Revealed AI's Biggest Problem",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
-      "thumbnail": "https://i.ytimg.com/vi/axOcn--n_lM/hqdefault.jpg",
-      "publishedAt": "2026-07-16T15:39:17.000Z"
-    },
-    {
-      "id": "n_49a7d5405f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
-      "publishedAt": "2026-07-28T20:02:11.000Z"
-    },
-    {
-      "id": "n_39feb22ff6",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
-      "thumbnail": "https://i.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
-      "publishedAt": "2026-06-30T21:16:13.000Z"
-    },
-    {
-      "id": "n_6a7b36e7cd",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
-      "thumbnail": "https://i.ytimg.com/vi/1M3Vdl6DRkU/hqdefault.jpg",
-      "publishedAt": "2026-05-29T16:18:31.000Z"
-    },
-    {
-      "id": "n_c402ebf7aa",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
-      "thumbnail": "https://i.ytimg.com/vi/nepKKz-MzFM/hqdefault.jpg",
-      "publishedAt": "2026-05-06T22:03:16.000Z"
-    },
-    {
-      "id": "n_b67d3be64b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did Anthropic just kill the indie hacker...?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=jxGJT1weu4w",
-      "thumbnail": "https://i.ytimg.com/vi/jxGJT1weu4w/hqdefault.jpg",
-      "publishedAt": "2026-07-29T16:33:51.000Z"
-    },
-    {
-      "id": "n_c930172539",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The most interesting \"hack\" in history...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=KOpTWx1Eou4",
-      "thumbnail": "https://i.ytimg.com/vi/KOpTWx1Eou4/hqdefault.jpg",
-      "publishedAt": "2026-07-23T16:53:37.000Z"
-    },
-    {
-      "id": "n_c30c73dbe7",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Open-weight AI just hit 2.8 trillion parameters…",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=YP73B9D20V4",
-      "thumbnail": "https://i.ytimg.com/vi/YP73B9D20V4/hqdefault.jpg",
-      "publishedAt": "2026-07-22T17:43:52.000Z"
-    },
-    {
-      "id": "n_10ab80aff4",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "This $12 billion startup finally shipped something...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=M51asSwRLxA",
-      "thumbnail": "https://i.ytimg.com/vi/M51asSwRLxA/hqdefault.jpg",
-      "publishedAt": "2026-07-20T17:02:30.000Z"
-    },
-    {
-      "id": "n_5f31592cac",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Galaxy Z Fold 8 Review: Honeymoon's Over",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=Z6z_feacXW8",
-      "thumbnail": "https://i.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg",
-      "publishedAt": "2026-08-01T00:05:00.000Z"
-    },
-    {
-      "id": "n_bf51349fdf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Framework 13 Pro: The Modular Laptop is Real!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
-      "thumbnail": "https://i.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg",
-      "publishedAt": "2026-07-27T15:38:21.000Z"
-    },
-    {
-      "id": "n_64ebc2a7bf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
-      "thumbnail": "https://i.ytimg.com/vi/8Hx2yvWSgs0/hqdefault.jpg",
-      "publishedAt": "2026-07-22T13:01:05.000Z"
     }
   ]
 }
