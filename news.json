@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-08-08T06:30:55.287Z",
+  "generatedAt": "2026-08-08T09:25:34.296Z",
   "items": [
+    {
+      "id": "n_04ff774706",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Niedrigwasser der Donau legt Knochen und Wracks frei",
+      "summary": "In mehreren europäischen Ländern führten Hitze und Trockenheit zu Rekord-Tiefständen großer Flüsse. Das Niedrigwasser der Donau legte auch allerlei Zeugnisse vergangener Zeiten frei - nicht nur aus dem Zweiten Weltkrieg.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/niedrigwasser-funde-knochen-wracks-100.html",
+      "publishedAt": "2026-08-08T09:17:51.000Z"
+    },
+    {
+      "id": "n_034d2af343",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ceuta: EU fordert Meta und TikTok zum Vorgehen gegen Fakes auf",
+      "summary": "Zehntausende Menschen hatten vergangene Woche die Grenze zur spanischen Exklave Ceuta überwunden. Falschinformationen in sozialen Netzwerken sollen den Andrang befeuert haben. Die EU-Kommission nimmt Meta und TikTok in die Pflicht.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-ceuta-soziale-medien-100.html",
+      "publishedAt": "2026-08-08T08:58:45.000Z"
+    },
+    {
+      "id": "n_7065dbbcd1",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Vor 70 Jahren: Das Unglück von Marcinelle veränderte Europa",
+      "summary": "Am 8. August 1956 ereignete sich im belgischen Marcinelle eines der schwersten Grubenunglücke Europas. 262 Bergleute aus zwölf Nationen starben. Das Unglück beeinflusste auch die Entwicklung hin zur EU. Von Andreas Meyer-Feist.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/belgien-grubenunglueck-marcinelle-jahrestag-100.html",
+      "publishedAt": "2026-08-08T08:49:54.000Z"
+    },
+    {
+      "id": "n_f43285ed39",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Rotes Meer: Wie die Huthi den Iran-Krieg verändern",
+      "summary": "Im Jemen nimmt die Gewalt wieder zu, zudem greifen die Huthi inzwischen fast täglich Schiffe im Roten Meer vor Saudi-Arabien an. Wird aus dem jemenitischen Bürgerkrieg und dem Iran-Krieg nun ein zusammenhängender Konflikt? Von Anna Osius.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/jemen-huthi-angriffe-rotes-meer-100.html",
+      "publishedAt": "2026-08-08T07:08:49.000Z"
+    },
+    {
+      "id": "n_c94652471e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Berliner Volksbühne eröffnet Schwimmbad vor der Theatersaison",
+      "summary": "Freibadatmosphäre vor Theaterkulisse: Badefreudige können ihre Bahnen bis Oktober kostenlos im Schwimmbecken vor der Berliner Volksbühne ziehen. Das sorgt nicht überall in der Hauptstadt für Zuspruch. Von G. von Petersdorff.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/kultur/berlin-volksbuehne-schwimmbecken-100.html",
+      "publishedAt": "2026-08-08T06:30:41.000Z"
+    },
     {
       "id": "n_06a489edbc",
       "type": "news",
@@ -33,61 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/gastronomie-steuersenkung-preise-gaeste-100.html",
       "publishedAt": "2026-08-08T03:37:50.000Z"
-    },
-    {
-      "id": "n_adacba355c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "OpenAI pausiert teils Entwicklung von KI-Modell wegen Sicherheitsbedenken",
-      "summary": "OpenAI hat Zweifel an einem seiner neuen Modelle - und pausiert teilweise die interne Entwicklung. Grund sind Sicherheitsbedenken durch \"kritische\" Fähigkeiten von \"Astra\". Cyberangriffe auf hochsichere Ziele könnten möglich sein.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-ki-entwicklung-100.html",
-      "publishedAt": "2026-08-08T01:45:58.000Z"
-    },
-    {
-      "id": "n_2aad8cedf2",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Pride-Parade in Prag unter verschärften Sicherheitsvorkehrungen",
-      "summary": "Zehntausende queere Menschen wollen heute bei der Prager Pride für ihre Rechte demonstrieren. Doch der Anschlag beim Berliner CSD bewegt die Community im Land. Sicherheitsvorkehrungen wurden verschärft. Von Paul Vorreiter.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/prag-pride-sicherheitsvorkehrungen-100.html",
-      "publishedAt": "2026-08-08T00:41:36.000Z"
-    },
-    {
-      "id": "n_95d378fdd1",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "US-Senat beschließt verschärfte Russland-Sanktionen",
-      "summary": "Der US-Senat macht den Weg frei für neue Sanktionen gegen Russland. Das Gesetz ermöglicht unter anderem Strafmaßnahmen gegen die größten Abnehmer von russischem Öl und Gas. Nun muss noch das Repräsentantenhaus darüber abstimmen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-russland-sanktionen-134.html",
-      "publishedAt": "2026-08-07T20:47:25.000Z"
-    },
-    {
-      "id": "n_59af0a8d45",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Mehrere Bundesländer lockern Lkw-Sonntagsfahrverbot",
-      "summary": "Das Niedrigwasser erschwert den Gütertransport auf dem Rhein. Nun haben mehrere Bundesländer das Sonntagsfahrverbot für Lkw gelockert. Auf den Autobahnen könnte es schon an diesem Wochenende noch voller werden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/lkw-sonntagsfahrverbot-debatte-lockerung-100.html",
-      "publishedAt": "2026-08-07T20:35:25.000Z"
-    },
-    {
-      "id": "n_af601bfeb6",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Streit mit Italien über Ceuta - Spanien führt Grenzkontrollen ein",
-      "summary": "Als Reaktion auf den Ansturm auf die spanische Exklave Ceuta hatte Italien das Schengen-Abkommen mit Madrid ausgesetzt. Spanien forderte ein Ende - und kündigt nun seinerseits Grenzkontrollen an.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-102.html",
-      "publishedAt": "2026-08-07T20:09:51.000Z"
     },
     {
       "id": "n_60f413718a",
@@ -178,6 +178,50 @@
       "publishedAt": "2026-08-07T08:38:00.000Z"
     },
     {
+      "id": "n_57999d604d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Sicherheitsnorm ab 2027 Pflicht: China macht autonomes Fahren zur Chefsache",
+      "summary": "China hat einen nationalen Standard für autonomes Fahren verabschiedet. Ab Juli 2027 müssen Hersteller ihre Technik daran ausrichten. (Autonomes Fahren, Auto)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/sicherheitsnorm-ab-2027-pflicht-china-macht-autonomes-fahren-zur-chefsache-2608-211728.html",
+      "publishedAt": "2026-08-08T08:47:02.000Z"
+    },
+    {
+      "id": "n_08cbe40fbc",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: ACEZUK 9000A Starthilfe-Powerbank fällt unter 60 Euro",
+      "summary": "Eine leere Autobatterie ist ein großes Ärgernis. Die ACEZUK Starthilfe-Powerbank mit integriertem Kompressor gibt es bei Amazon nun für unter 60 Euro zu kaufen. (Technik/Hardware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-acezuk-9000a-starthilfe-powerbank-faellt-unter-60-euro-2608-211707.html",
+      "publishedAt": "2026-08-08T08:40:01.000Z"
+    },
+    {
+      "id": "n_9c1b56e241",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "(g+) Edge AI: Gegen KI mit langer Leitung",
+      "summary": "Entfernte KI-Modelle haben für zeitkritische Prozesse eine zu große Latenz. Ist Edge AI die Lösung? Wir zeigen, welche Anbieter was im Katalog haben und geben Firmen eine Entscheidungshilfe. Ein Ratgebertext von Fabian Deitelhoff (KI, Google)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/edge-ai-gegen-ki-mit-langer-leitung-2608-211711.html",
+      "publishedAt": "2026-08-08T08:00:09.000Z"
+    },
+    {
+      "id": "n_5ddc3eb92b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "(g+) Python-Framework: So entwickelt man Webanwendungen mit Django",
+      "summary": "Von der Datenbank bis zur Weboberfläche: Das Python-Framework Django nimmt Entwicklern viele Routineaufgaben ab. Wir zeigen, wie es funktioniert. Ein Deep Dive von Michael Bröde (django, Python)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/python-framework-so-entwickelt-man-webanwendungen-mit-django-2608-211677.html",
+      "publishedAt": "2026-08-08T08:00:02.000Z"
+    },
+    {
       "id": "n_1c26d1bcfc",
       "type": "news",
       "topic": "tech",
@@ -220,50 +264,6 @@
       "source": "Golem.de",
       "url": "https://www.golem.de/news/anzeige-festplattengehaeuse-fuer-hdds-und-ssds-fuer-unter-12-euro-2608-211731.html",
       "publishedAt": "2026-08-07T15:42:02.000Z"
-    },
-    {
-      "id": "n_9135218785",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Mögliches Antibiotikum: Forscher entwickeln erstmals Virus mithilfe von KI",
-      "summary": "Mit KI entwickelte Viren und Bakterien klingen gefährlich. Forscher sehen jedoch Potenzial für Medizin und funktionale Bakterien. (Innovation & Forschung, Virus)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/moegliches-antibiotikum-forscher-entwickeln-erstmals-virus-mithilfe-von-ki-2608-211729.html",
-      "publishedAt": "2026-08-07T15:25:05.000Z"
-    },
-    {
-      "id": "n_d375987c67",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Bestseller Powerstation EcoFlow Delta 3 Plus mit 1.800 Watt bei Amazon im Sonderangebot",
-      "summary": "Die EcoFlow Delta 3 Plus lädt in 56 Minuten auf, liefert 1.800 Watt Dauerleistung und liegt bei Amazon nahe am bisherigen Tiefstpreis. (Powerstation, Technik/Hardware)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-bestseller-powerstation-ecoflow-delta-3-plus-mit-1-800-watt-bei-amazon-im-sonderangebot-2608-211724.html",
-      "publishedAt": "2026-08-07T15:10:02.000Z"
-    },
-    {
-      "id": "n_4b9db9e029",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Personalmangel: Elektronisches EU-Einreisesystem wird regelmäßig abgeschaltet",
-      "summary": "An Flughäfen hat das elektronische System während der Hauptreisesaison stundenlange Wartezeiten und verpasste Anschlüsse verursacht. (Biometrie, Datenschutz)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/personalmangel-elektronisches-eu-einreisesystem-wird-regelmaessig-abgeschaltet-2608-211727.html",
-      "publishedAt": "2026-08-07T14:51:01.000Z"
-    },
-    {
-      "id": "n_70f1664bfc",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Strauss Zelnick: Take-Two deutet Cloud-Gaming-Version von GTA 6 an",
-      "summary": "Action in Vice City ohne leistungsstarke Hardware: Das könnte laut Take-Two schon bald möglich sein. Die Firma äußert sich auch zur PC-Fassung. (GTA 6, Server)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/strauss-zelnick-take-two-deutet-cloud-gaming-version-von-gta-6-an-2608-211725.html",
-      "publishedAt": "2026-08-07T14:26:02.000Z"
     },
     {
       "id": "n_d56edb3449",
@@ -1045,6 +1045,186 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/grabette",
       "publishedAt": "2026-07-21T00:00:00.000Z"
+    },
+    {
+      "id": "n_a6ebe1d55c",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DeepMind Just Changed How AI Sees The World",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
+      "thumbnail": "https://i.ytimg.com/vi/vO6SWG-jxvE/hqdefault.jpg",
+      "publishedAt": "2026-08-07T08:22:00.000Z"
+    },
+    {
+      "id": "n_cbc630e184",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The Billion Dollar AI Race Just Broke",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
+      "thumbnail": "https://i.ytimg.com/vi/ppQh4Tc9BmM/hqdefault.jpg",
+      "publishedAt": "2026-08-05T13:54:29.000Z"
+    },
+    {
+      "id": "n_4b6553db46",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Another DeepSeek Moment Has Arrived",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
+      "thumbnail": "https://i.ytimg.com/vi/bm1BjOjS7sQ/hqdefault.jpg",
+      "publishedAt": "2026-08-03T09:47:34.000Z"
+    },
+    {
+      "id": "n_cd099417b9",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
+      "thumbnail": "https://i.ytimg.com/vi/8B05cy3UuSE/hqdefault.jpg",
+      "publishedAt": "2026-08-02T15:01:10.000Z"
+    },
+    {
+      "id": "n_49a7d5405f",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
+      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
+      "publishedAt": "2026-07-28T20:02:11.000Z"
+    },
+    {
+      "id": "n_39feb22ff6",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
+      "thumbnail": "https://i.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
+      "publishedAt": "2026-06-30T21:16:13.000Z"
+    },
+    {
+      "id": "n_6a7b36e7cd",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
+      "thumbnail": "https://i.ytimg.com/vi/1M3Vdl6DRkU/hqdefault.jpg",
+      "publishedAt": "2026-05-29T16:18:31.000Z"
+    },
+    {
+      "id": "n_c402ebf7aa",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
+      "thumbnail": "https://i.ytimg.com/vi/nepKKz-MzFM/hqdefault.jpg",
+      "publishedAt": "2026-05-06T22:03:16.000Z"
+    },
+    {
+      "id": "n_cdc415b5c6",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The safest way to store Bitcoin was just hacked...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=2X2V3xv_jik",
+      "thumbnail": "https://i.ytimg.com/vi/2X2V3xv_jik/hqdefault.jpg",
+      "publishedAt": "2026-08-05T18:08:46.000Z"
+    },
+    {
+      "id": "n_b67d3be64b",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Did Anthropic just kill the indie hacker...?",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=jxGJT1weu4w",
+      "thumbnail": "https://i.ytimg.com/vi/jxGJT1weu4w/hqdefault.jpg",
+      "publishedAt": "2026-07-29T16:33:51.000Z"
+    },
+    {
+      "id": "n_c930172539",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The most interesting \"hack\" in history...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=KOpTWx1Eou4",
+      "thumbnail": "https://i.ytimg.com/vi/KOpTWx1Eou4/hqdefault.jpg",
+      "publishedAt": "2026-07-23T16:53:37.000Z"
+    },
+    {
+      "id": "n_c30c73dbe7",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Open-weight AI just hit 2.8 trillion parameters…",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=YP73B9D20V4",
+      "thumbnail": "https://i.ytimg.com/vi/YP73B9D20V4/hqdefault.jpg",
+      "publishedAt": "2026-07-22T17:43:52.000Z"
+    },
+    {
+      "id": "n_5f31592cac",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Galaxy Z Fold 8 Review: Honeymoon's Over",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=Z6z_feacXW8",
+      "thumbnail": "https://i.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg",
+      "publishedAt": "2026-08-01T00:05:00.000Z"
+    },
+    {
+      "id": "n_bf51349fdf",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Framework 13 Pro: The Modular Laptop is Real!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
+      "thumbnail": "https://i.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg",
+      "publishedAt": "2026-07-27T15:38:21.000Z"
+    },
+    {
+      "id": "n_64ebc2a7bf",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
+      "thumbnail": "https://i.ytimg.com/vi/8Hx2yvWSgs0/hqdefault.jpg",
+      "publishedAt": "2026-07-22T13:01:05.000Z"
     }
   ]
 }
