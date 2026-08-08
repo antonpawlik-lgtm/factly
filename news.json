@@ -1,13 +1,35 @@
 {
-  "generatedAt": "2026-08-08T04:01:43.890Z",
+  "generatedAt": "2026-08-08T06:30:55.287Z",
   "items": [
+    {
+      "id": "n_06a489edbc",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "CDU-Spitze würde AfD-Koalition im Osten nicht dulden",
+      "summary": "Normalerweise hält sich eine Bundespartei aus der Regierungsbildung in den Ländern heraus. Mit Blick auf die Wahl in Sachsen-Anhalt aber stellte Unionsfraktionschef Frei nun klar: Eine Koalition der Ost-CDU mit der AfD würde nicht geduldet.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/frei-cdu-afd-100.html",
+      "publishedAt": "2026-08-08T06:25:50.000Z"
+    },
+    {
+      "id": "n_aa81a77114",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Südafrika setzt nach fremdenfeindlichen Krawallen auf Schadensbegrenzung",
+      "summary": "In Südafrika ist in den vergangenen Wochen der Hass auf Migranten aus Nachbarstaaten eskaliert. Viele von ihnen flüchteten. Jetzt versucht die südafrikanische Regierung den entstandenen Schaden zu reparieren. Von Stephan Ueberbach.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/afrika/suedafrika-fremdenfeindliche-krawalle-wogen-glaetten-100.html",
+      "publishedAt": "2026-08-08T06:12:47.000Z"
+    },
     {
       "id": "n_4a9f71fcc9",
       "type": "news",
       "topic": "general",
       "lang": "de",
       "headline": "Restaurants geben reduzierte Mehrwertsteuer kaum weiter",
-      "summary": "Im Januar wurde der Mehrwertsteuersatz auf Speisen in der Gastronomie reduziert. Eine neue Befragung zeigt, dass die große Mehrheit der Betriebe ihre Preise daraufhin nicht gesenkt hat. Von David Zajonz.",
+      "summary": "Im Januar wurde der Mehrwertsteuersatz auf Speisen in der Gastronomie reduziert. Eine neue Befragung zeigt, dass die große Mehrheit der Betriebe ihre Preise seitdem nicht gesenkt hat. Von David Zajonz.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/gastronomie-steuersenkung-preise-gaeste-100.html",
       "publishedAt": "2026-08-08T03:37:50.000Z"
@@ -18,7 +40,7 @@
       "topic": "general",
       "lang": "de",
       "headline": "OpenAI pausiert teils Entwicklung von KI-Modell wegen Sicherheitsbedenken",
-      "summary": "OpenAI hat Zweifel an einem seiner neuen Modelle - und bremst nun die interne Entwicklung. Grund sind Sicherheitsbedenken durch \"kritische\" Fähigkeiten von \"Astra\". Cyberangriffe auf hochsichere Ziele könnten möglich sein.",
+      "summary": "OpenAI hat Zweifel an einem seiner neuen Modelle - und pausiert teilweise die interne Entwicklung. Grund sind Sicherheitsbedenken durch \"kritische\" Fähigkeiten von \"Astra\". Cyberangriffe auf hochsichere Ziele könnten möglich sein.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-ki-entwicklung-100.html",
       "publishedAt": "2026-08-08T01:45:58.000Z"
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/spanien-italien-grenzkontrollen-102.html",
       "publishedAt": "2026-08-07T20:09:51.000Z"
-    },
-    {
-      "id": "n_9f68a300b6",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Hitzewelle im Gazastreifen: \"Die Zelte sind wie stickige Backöfen\"",
-      "summary": "Hunderttausende Menschen leben noch immer in Notunterkünften in Gaza-Stadt. Krankheiten, Ungeziefer und verunreinigtes Wasser belasten ihre Gesundheit - bei Temperaturen von rund 40 Grad. Von Jörg Poppendieck.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/gaza-hitzewelle-notunterkunft-gesundheitskrise-100.html",
-      "publishedAt": "2026-08-07T19:22:13.000Z"
-    },
-    {
-      "id": "n_d4011f7214",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Abrissarbeiten an Bonner Nordbrücke beginnen",
-      "summary": "In Bonn hat der Teilabriss der stark beschädigten Nordbrücke begonnen. Los gehts mit Abbrucharbeiten an der Vorlandbrücke, die auf der linken Rheinseite auf die Hauptbrücke führt. Die wichtige Ost-West-Verbindung ist seit Juni gesperrt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/beginn-abriss-nordbruecke-bonn-100.html",
-      "publishedAt": "2026-08-07T19:11:00.000Z"
     },
     {
       "id": "n_60f413718a",
@@ -178,6 +178,17 @@
       "publishedAt": "2026-08-07T08:38:00.000Z"
     },
     {
+      "id": "n_1c26d1bcfc",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Openclaw: Ein Prompt, ein Bier?",
+      "summary": "Wie man ein Sprachmodell dazu bringt, eine reale Maschine zu bedienen, ohne dass eine Halluzination das Bier ruiniert. Ein Bericht von Oliver Jessner (Openclaw, KI)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/openclaw-ein-prompt-ein-bier-2608-211456.html",
+      "publishedAt": "2026-08-08T05:30:02.000Z"
+    },
+    {
       "id": "n_1e1c8994b0",
       "type": "news",
       "topic": "tech",
@@ -255,15 +266,59 @@
       "publishedAt": "2026-08-07T14:26:02.000Z"
     },
     {
-      "id": "n_2b2a84f0a4",
+      "id": "n_d56edb3449",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Ameisensäure: Wasserstoff aus biologischen Quellen hergestellt",
-      "summary": "Eine neue Methode, Wasserstoff aus natürlich erzeugter Ameisensäure zu gewinnen, könnte die Energieerzeugung verändern. (Wasserstoff, Brennstoffzelle)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/ameisensaeure-wasserstoff-aus-biologischen-quellen-hergestellt-2608-211722.html",
-      "publishedAt": "2026-08-07T14:15:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Child among three killed in Russian missile attacks near Kyiv",
+      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T06:12:56.000Z"
+    },
+    {
+      "id": "n_b6d6eae183",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Scale of devastation shocks US city's fire-seasoned residents",
+      "summary": "One Spokane resident tells the BBC she realised the immense danger when she heard the fire had jumped over the river.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvglpvgljzdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T00:51:16.000Z"
+    },
+    {
+      "id": "n_7d2ba5b03b",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home",
+      "summary": "For decades, an Indian man's lime shoes have been a grim trail marker for many climbing the world's highest peak.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T00:29:27.000Z"
+    },
+    {
+      "id": "n_8c0d4f65df",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+      "summary": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T00:02:49.000Z"
+    },
+    {
+      "id": "n_b22f5e23a0",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "The phone book that led us to Assad's spy chief in hiding",
+      "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T23:23:12.000Z"
     },
     {
       "id": "n_7dc1d2ca7c",
@@ -297,61 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-07T21:24:17.000Z"
-    },
-    {
-      "id": "n_b58e53d751",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-      "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T21:19:27.000Z"
-    },
-    {
-      "id": "n_baf47c1de5",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "What is birthright citizenship and how common is birth tourism in the US?",
-      "summary": "The Trump administration is trying to restrict access to US citizenship for some people through attempts to end birth tourism and tighten other criteria.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn9nz5qwl8jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T21:09:51.000Z"
-    },
-    {
-      "id": "n_4e33a89a91",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
-      "summary": "The announcement came comes after fellow bandmate Manon Bannerman went on a hiatus from the ensemble.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T21:05:45.000Z"
-    },
-    {
-      "id": "n_fbade28d6e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Kidnapped rare Serbian eagle freed into wild after rescue",
-      "summary": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T20:40:56.000Z"
-    },
-    {
-      "id": "n_d16d38017c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T17:42:54.000Z"
     },
     {
       "id": "n_05ae93802b",
@@ -1045,186 +1045,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/grabette",
       "publishedAt": "2026-07-21T00:00:00.000Z"
-    },
-    {
-      "id": "n_a6ebe1d55c",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepMind Just Changed How AI Sees The World",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
-      "thumbnail": "https://i.ytimg.com/vi/vO6SWG-jxvE/hqdefault.jpg",
-      "publishedAt": "2026-08-07T08:22:00.000Z"
-    },
-    {
-      "id": "n_cbc630e184",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Billion Dollar AI Race Just Broke",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
-      "thumbnail": "https://i.ytimg.com/vi/ppQh4Tc9BmM/hqdefault.jpg",
-      "publishedAt": "2026-08-05T13:54:29.000Z"
-    },
-    {
-      "id": "n_4b6553db46",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Another DeepSeek Moment Has Arrived",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
-      "thumbnail": "https://i.ytimg.com/vi/bm1BjOjS7sQ/hqdefault.jpg",
-      "publishedAt": "2026-08-03T09:47:34.000Z"
-    },
-    {
-      "id": "n_cd099417b9",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
-      "thumbnail": "https://i.ytimg.com/vi/8B05cy3UuSE/hqdefault.jpg",
-      "publishedAt": "2026-08-02T15:01:10.000Z"
-    },
-    {
-      "id": "n_49a7d5405f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
-      "publishedAt": "2026-07-28T20:02:11.000Z"
-    },
-    {
-      "id": "n_39feb22ff6",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
-      "thumbnail": "https://i.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
-      "publishedAt": "2026-06-30T21:16:13.000Z"
-    },
-    {
-      "id": "n_6a7b36e7cd",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
-      "thumbnail": "https://i.ytimg.com/vi/1M3Vdl6DRkU/hqdefault.jpg",
-      "publishedAt": "2026-05-29T16:18:31.000Z"
-    },
-    {
-      "id": "n_c402ebf7aa",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
-      "thumbnail": "https://i.ytimg.com/vi/nepKKz-MzFM/hqdefault.jpg",
-      "publishedAt": "2026-05-06T22:03:16.000Z"
-    },
-    {
-      "id": "n_cdc415b5c6",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The safest way to store Bitcoin was just hacked...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=2X2V3xv_jik",
-      "thumbnail": "https://i.ytimg.com/vi/2X2V3xv_jik/hqdefault.jpg",
-      "publishedAt": "2026-08-05T18:08:46.000Z"
-    },
-    {
-      "id": "n_b67d3be64b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did Anthropic just kill the indie hacker...?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=jxGJT1weu4w",
-      "thumbnail": "https://i.ytimg.com/vi/jxGJT1weu4w/hqdefault.jpg",
-      "publishedAt": "2026-07-29T16:33:51.000Z"
-    },
-    {
-      "id": "n_c930172539",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The most interesting \"hack\" in history...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=KOpTWx1Eou4",
-      "thumbnail": "https://i.ytimg.com/vi/KOpTWx1Eou4/hqdefault.jpg",
-      "publishedAt": "2026-07-23T16:53:37.000Z"
-    },
-    {
-      "id": "n_c30c73dbe7",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Open-weight AI just hit 2.8 trillion parameters…",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=YP73B9D20V4",
-      "thumbnail": "https://i.ytimg.com/vi/YP73B9D20V4/hqdefault.jpg",
-      "publishedAt": "2026-07-22T17:43:52.000Z"
-    },
-    {
-      "id": "n_5f31592cac",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Galaxy Z Fold 8 Review: Honeymoon's Over",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=Z6z_feacXW8",
-      "thumbnail": "https://i.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg",
-      "publishedAt": "2026-08-01T00:05:00.000Z"
-    },
-    {
-      "id": "n_bf51349fdf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Framework 13 Pro: The Modular Laptop is Real!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
-      "thumbnail": "https://i.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg",
-      "publishedAt": "2026-07-27T15:38:21.000Z"
-    },
-    {
-      "id": "n_64ebc2a7bf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
-      "thumbnail": "https://i.ytimg.com/vi/8Hx2yvWSgs0/hqdefault.jpg",
-      "publishedAt": "2026-07-22T13:01:05.000Z"
     }
   ]
 }
