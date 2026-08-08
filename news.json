@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-08-08T18:19:21.807Z",
+  "generatedAt": "2026-08-08T21:18:16.202Z",
   "items": [
+    {
+      "id": "n_93eb79849b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Paris führt Helmpflicht für E-Roller-Fahrer ein",
+      "summary": "Vor allem in Großstädten flitzen Menschen gerne mit E-Rollern durch die Straßen. Doch die Zahl schwerer Unfälle mit den Fahrzeugen steigt. Die Pariser Verwaltung schreibt ab sofort das Tragen von Schutzausrüstung vor.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/helmpflicht-scooter-paris-100.html",
+      "publishedAt": "2026-08-08T19:39:39.000Z"
+    },
+    {
+      "id": "n_b9d73d4104",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Mutmaßlich ukrainische Drohne explodiert in Bulgarien",
+      "summary": "In Bulgarien ist eine Drohne explodiert. Dabei handele es sich um einen häufig von der Ukraine verwendeten Typen, so Bulgariens Regierung. Von Absicht gehe man nicht aus - Kiew erklärte sich zur Aufklärung bereit.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/drohne-bulgarien-100.html",
+      "publishedAt": "2026-08-08T19:26:38.000Z"
+    },
     {
       "id": "n_bb7fbb3ade",
       "type": "news",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/banken-land-fusionen-100.html",
       "publishedAt": "2026-08-08T15:36:31.000Z"
-    },
-    {
-      "id": "n_cec5d15fc9",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Hai-Sichtungen vor New York trüben den Badespaß",
-      "summary": "Ein Hai-Biss vor New Yorks Küste hatte für Schlagzeilen gesorgt. Immer wieder werden die Fische vor der Millionenmetropole gesichtet - viele Arten sind dort heimisch. Drohnen sollen nun weitere Zwischenfälle verhindern. Von Benjamin Best.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/new-york-haie-100.html",
-      "publishedAt": "2026-08-08T15:28:38.000Z"
-    },
-    {
-      "id": "n_0af93771a6",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Italien: Waldbrand am Westufer des Gardasees ausgebrochen",
-      "summary": "Am bei Urlaubern beliebten Gardasee in Italien ist ein Waldbrand ausgebrochen. Hitze und starker Wind erschweren die Löscharbeiten. Die Feuerwehr versucht vor allem, Wohnhäuser zu schützen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbrand-gardasee-102.html",
-      "publishedAt": "2026-08-08T15:10:38.000Z"
     },
     {
       "id": "n_60f413718a",
@@ -274,7 +274,40 @@
       "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T18:13:49.000Z"
+      "publishedAt": "2026-08-08T21:06:48.000Z"
+    },
+    {
+      "id": "n_aa95c4f563",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Paris tells e-scooter riders to wear safety gear or face fines",
+      "summary": "Police in the French capital tighten rules for riders after a sharp increase in fatal accidents.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T20:18:28.000Z"
+    },
+    {
+      "id": "n_639e1a78a5",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T19:18:57.000Z"
+    },
+    {
+      "id": "n_119065f421",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
+      "summary": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T19:00:22.000Z"
     },
     {
       "id": "n_d56edb3449",
@@ -319,28 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-08T15:59:37.000Z"
-    },
-    {
-      "id": "n_6ff63d9b35",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-      "summary": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T15:56:39.000Z"
-    },
-    {
-      "id": "n_06b82d7ff9",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Messi's father Jorge dies aged 68 after illness",
-      "summary": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T15:51:11.000Z"
     },
     {
       "id": "n_a52ff73c1d",
@@ -519,6 +530,17 @@
       "publishedAt": "2026-08-07T17:51:05.000Z"
     },
     {
+      "id": "n_c932997800",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI acquires presentation startup NextSlide",
+      "summary": "NextSlide says its team members are now working on ChatGPT.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "publishedAt": "2026-08-08T19:41:13.000Z"
+    },
+    {
       "id": "n_5655a593c8",
       "type": "news",
       "topic": "ai",
@@ -594,17 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
       "publishedAt": "2026-08-06T22:43:53.000Z"
-    },
-    {
-      "id": "n_587e2720ff",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "ChatGPT brings unlimited text chats to free users",
-      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "publishedAt": "2026-08-06T17:34:42.000Z"
     },
     {
       "id": "n_3835de70aa",
