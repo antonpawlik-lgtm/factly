@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-08-09T04:08:02.570Z",
+  "generatedAt": "2026-08-09T09:26:50.156Z",
   "items": [
+    {
+      "id": "n_e826786cb0",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Russlands Krieg in der Ukraine: Stundenlanger Luftalarm in Odessa",
+      "summary": "Russische Angriffe in der Nacht, etwa auf die Hafenstadt Odessa, offenbaren erneut die Schwäche der ukrainischen Flugabwehr. Nach gegenseitigen Attacken werden auf beiden Seiten Tote gemeldet.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-odessa-belgorod-100.html",
+      "publishedAt": "2026-08-09T09:19:11.000Z"
+    },
+    {
+      "id": "n_47e6f69eed",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Brasilien: Abholzung im Amazonas auf Zehnjahrestief",
+      "summary": "Im brasilianischen Amazonasgebiet ist die Abholzung deutlich zurückgegangen. Präsident Lula bezeichnet die Entwicklung als \"fantastisch\". Bis 2030 will er die Entwaldung vollständig stoppen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-amazonas-abholzung-zehnjahrestief-100.html",
+      "publishedAt": "2026-08-09T08:13:27.000Z"
+    },
+    {
+      "id": "n_103afb627e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Straße von Hormus: Iran pocht auf Zugeständnisse der USA",
+      "summary": "Iran und Oman haben sich bei den Verhandlungen über die Straße von Hormus offenbar angenähert. Doch zugleich stellt Teheran gegenüber Washington Maximalforderungen, die für die USA inakzeptabel sein dürften.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/iran-forderungen-strasse-von-hormus-100.html",
+      "publishedAt": "2026-08-09T07:19:55.000Z"
+    },
+    {
+      "id": "n_022b0f738c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bilger will Gehälter von Bahnmanagern an Ziele knüpfen",
+      "summary": "Der neue Verkehrsminister Bilger erhöht den Druck auf die Bahnspitze. Erfüllt der Konzern Ziele wie die Pünktlichkeitsquoten nicht, soll sich das einem Medienbericht zufolge auf die Gehälter von Bahnmanagern auswirken.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bilger-deutsche-bahn-gehaelter-100.html",
+      "publishedAt": "2026-08-09T04:34:19.000Z"
+    },
     {
       "id": "n_4ca62eee9c",
       "type": "news",
@@ -44,50 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/konjunktur/faq-lockerung-lkw-fahrverbot-100.html",
       "publishedAt": "2026-08-09T00:52:07.000Z"
-    },
-    {
-      "id": "n_93eb79849b",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Paris führt Helmpflicht für E-Roller-Fahrer ein",
-      "summary": "Vor allem in Großstädten flitzen Menschen gerne mit E-Rollern durch die Straßen. Doch die Zahl schwerer Unfälle mit den Fahrzeugen steigt. Die Pariser Verwaltung schreibt ab sofort das Tragen von Schutzausrüstung vor.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/helmpflicht-scooter-paris-100.html",
-      "publishedAt": "2026-08-08T19:39:39.000Z"
-    },
-    {
-      "id": "n_b9d73d4104",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Mutmaßlich ukrainische Drohne explodiert in Bulgarien",
-      "summary": "In Bulgarien ist eine Drohne explodiert. Dabei handele es sich um einen häufig von der Ukraine verwendeten Typen, so Bulgariens Regierung. Von Absicht gehe man nicht aus - Kiew erklärte sich zur Aufklärung bereit.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/drohne-bulgarien-100.html",
-      "publishedAt": "2026-08-08T19:26:38.000Z"
-    },
-    {
-      "id": "n_bb7fbb3ade",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Orban-Kritiker Baka soll Ungarns neuer Präsident werden",
-      "summary": "Ungarn bekommt einen neuen Staatspräsidenten: Die Parlamentsfraktion der Regierungspartei Tisza hat den ehemaligen Präsidenten des Obersten Gerichtshofs, Baka, für das Amt nominiert. Der 73-Jährige gilt als Kritiker der abgewählten Orban-Regierung.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ungarn-praesident-baka-100.html",
-      "publishedAt": "2026-08-08T17:59:01.000Z"
-    },
-    {
-      "id": "n_efc80aefad",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Sprengstoff-Drohne in Leipzig/Halle: Ein Angriff \"fremder Mächte\" - oder Russlands?",
-      "summary": "Die Bundesregierung bezeichnet den Drohnen-Vorfall als Angriff \"fremder Mächte\". Eine Schuldzuweisung an Russland vermeidet sie. Verteidigungsexperten sehen Hinweise auf eine russische Urheberschaft. Was spricht für - was gegen Russland?",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/drohne-sprengstoff-ermittlungen-100.html",
-      "publishedAt": "2026-08-08T16:52:28.000Z"
     },
     {
       "id": "n_60f413718a",
@@ -178,6 +178,39 @@
       "publishedAt": "2026-08-07T08:38:00.000Z"
     },
     {
+      "id": "n_5e26863724",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Anker-Speicher mit Balkonkraftwerk exklusiv für Golem-Leser 900 Euro günstiger bei ...",
+      "summary": "Die neue Anker SOLIX Solarbank 4 Pro stößt als Solarspeicher in neue Dimensionen vor. Bei Kleines Kraftwerk wird sie mit einem Balkonkraftwerk angeboten. (Balkonkraftwerk, Solarenergie)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-anker-speicher-mit-balkonkraftwerk-exklusiv-fuer-golem-leser-900-euro-guenstiger-bei-kleines-kraftwerk-2608-211726.html",
+      "publishedAt": "2026-08-09T08:40:02.000Z"
+    },
+    {
+      "id": "n_d2b6cf2360",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "35 Jahre Mad TV: Das frechste TV-Programm lief auf MS-DOS und Amiga",
+      "summary": "Mad TV ist 1990er-WiSim-Nostalgie mit rotzfrechem Humor und knackig-komplexem Gameplay. Das macht auch heute noch erstaunlich viel Spaß. Von Olaf Bleich und Benedikt Plass-Fleßenkämper (Retrogaming, Spiele)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/35-jahre-mad-tv-das-frechste-tv-programm-lief-auf-ms-dos-und-amiga-2608-211222.html",
+      "publishedAt": "2026-08-09T05:30:02.000Z"
+    },
+    {
+      "id": "n_7f51d542a4",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: IT-Jobs in Revision, Controlling, Netzwerktechnik und IT-Sicherheit",
+      "summary": "Diese sechs IT-Positionen reichen von Revision über Netzwerkarchitektur bis IT-Sicherheit in Behörden, Kliniken und Industrie. (Golem Karrierewelt, Unternehmenssoftware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-it-jobs-in-revision-controlling-netzwerktechnik-und-it-sicherheit-2608-211226.html",
+      "publishedAt": "2026-08-09T05:00:02.000Z"
+    },
+    {
       "id": "n_fc70fcf319",
       "type": "news",
       "topic": "tech",
@@ -233,59 +266,70 @@
       "publishedAt": "2026-08-08T11:40:02.000Z"
     },
     {
-      "id": "n_4dabca0ad1",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Schluss mit dem Limit: ChatGPT öffnet sich für alle",
-      "summary": "ChatGPT-Gratisnutzer haben künftig kein Nachrichtenlimit mehr, zahlende Nutzer erhalten ein besseres Modell und eine Anpassung der Denkdauer. (ChatGPT, KI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/schluss-mit-dem-limit-chatgpt-oeffnet-sich-fuer-alle-2608-211734.html",
-      "publishedAt": "2026-08-08T10:50:01.000Z"
-    },
-    {
-      "id": "n_0a88ef3b1c",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "\"Freifahren\": Diese App warnt Berliner Fahrgäste vor Ticket-Kontrollen",
-      "summary": "Ein Informatikstudent hat eine App entwickelt, die Kontrollen in Berliner U- und S-Bahnen anzeigt. Rund 40.000 Menschen nutzen \"Freifahren\" mittlerweile. (ÖPNV, Web Apps)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/freifahren-diese-app-warnt-berliner-fahrgaeste-vor-ticket-kontrollen-2608-211733.html",
-      "publishedAt": "2026-08-08T10:01:02.000Z"
-    },
-    {
-      "id": "n_4d103da9e5",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Henna Virkkunen: EU nimmt Meta und Tiktok wegen Ceuta-Krise ins Visier",
-      "summary": "Falschinformationen sollen zum massenhaften Grenzübertritt nach Ceuta beigetragen haben, sagt EU-Kommissarin Henna Virkkunen. (EU, Soziales Netz)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/henna-virkkunen-eu-nimmt-meta-und-tiktok-wegen-ceuta-krise-ins-visier-2608-211735.html",
-      "publishedAt": "2026-08-08T09:25:02.000Z"
-    },
-    {
       "id": "n_830076b7f9",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
-      "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
+      "headline": "State of emergency declared as fast-moving Canada wildfire doubles in size",
+      "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over more than 36 sq miles (95 sq km).",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T22:01:54.000Z"
+      "publishedAt": "2026-08-09T06:46:40.000Z"
     },
     {
-      "id": "n_aa95c4f563",
+      "id": "n_9c51281315",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Paris tells e-scooter riders to wear safety gear or face fines",
-      "summary": "Police in the French capital tighten rules for riders after a sharp increase in fatal accidents.",
+      "headline": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+      "summary": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T20:18:28.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T04:32:06.000Z"
+    },
+    {
+      "id": "n_a8b80cf19b",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "How a schoolteacher's son became Kashmir's first India Test cricketer",
+      "summary": "Auqib Nabi becomes Jammu and Kashmir's first cricketer to get India Test call-up, inspiring millions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T03:00:44.000Z"
+    },
+    {
+      "id": "n_7358ec4fb8",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Tonnes of rotting food from vast LA warehouse fire creates unbearable stench",
+      "summary": "A fire destroyed a warehouse, leaving heaps of rotting chicken, poultry and fish to attract flies and rats.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T00:15:28.000Z"
+    },
+    {
+      "id": "n_8e1ac2fcf6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Hundreds arrested over French wildfires, but who is to blame?",
+      "summary": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T23:59:23.000Z"
+    },
+    {
+      "id": "n_7503591c00",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Israel accused of weaponising archaeology at ancient West Bank sites",
+      "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-08T23:43:44.000Z"
     },
     {
       "id": "n_639e1a78a5",
@@ -308,50 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-08T19:00:22.000Z"
-    },
-    {
-      "id": "n_d56edb3449",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Child among three killed in Russian missile attacks near Kyiv",
-      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T18:06:25.000Z"
-    },
-    {
-      "id": "n_a8ce2d0681",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US offers $1bn to Colombia on new right-wing president's first day of office",
-      "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T17:58:42.000Z"
-    },
-    {
-      "id": "n_1b281c3cc5",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-      "summary": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T17:23:31.000Z"
-    },
-    {
-      "id": "n_ed762ddf1f",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
-      "summary": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards Kosovo's acting prime minister Albin Kurti.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T15:59:37.000Z"
     },
     {
       "id": "n_a52ff73c1d",
