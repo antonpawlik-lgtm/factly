@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-09T09:26:50.156Z",
+  "generatedAt": "2026-08-09T12:23:17.113Z",
   "items": [
+    {
+      "id": "n_1c77f163b1",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "EU-Außengrenze in Lettland: Wo sich Ceuta nicht wiederholen soll",
+      "summary": "Was in Ceuta im großen Stil geschah, kennt man auch an anderen EU-Außengrenzen - die Steuerung von Migration, mutmaßlich als Druckmittel. Lettland hat deshalb seine Grenze zu Belarus massiv verstärkt. Was erleben Grenzschützer dort? Von A. Bartram.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/lettland-migration-belarus-100.html",
+      "publishedAt": "2026-08-09T12:02:04.000Z"
+    },
+    {
+      "id": "n_265d2d22d3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Hamburgs Bürgermeister Tschentscher kritisiert schwarz-rote Steuerpolitik",
+      "summary": "Hamburgs Bürgermeister Tschentscher hat den Kurs der Bundesregierung scharf kritisiert. Er prangert \"Steuergeschenke aus der Gießkanne\" an, die Deutschland in die Enge trieben - und fordert eine Digitalsteuer für große Tech-Konzerne.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/tschentscher-steuerpolitik-100.html",
+      "publishedAt": "2026-08-09T11:11:37.000Z"
+    },
+    {
+      "id": "n_022b0f738c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bilger will Gehälter von Bahnmanagern an Ziele knüpfen",
+      "summary": "Der neue Verkehrsminister Bilger will den Druck auf die Bahnspitze erhöhen. Erfüllt der Konzern Ziele wie die Pünktlichkeitsquoten nicht, soll sich das auf die Gehälter von Bahnmanagern auswirken. Die Idee hatte auch sein Vorgänger schon.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bilger-deutsche-bahn-gehaelter-100.html",
+      "publishedAt": "2026-08-09T09:30:21.000Z"
+    },
     {
       "id": "n_e826786cb0",
       "type": "news",
@@ -35,17 +68,6 @@
       "publishedAt": "2026-08-09T07:19:55.000Z"
     },
     {
-      "id": "n_022b0f738c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Bilger will Gehälter von Bahnmanagern an Ziele knüpfen",
-      "summary": "Der neue Verkehrsminister Bilger erhöht den Druck auf die Bahnspitze. Erfüllt der Konzern Ziele wie die Pünktlichkeitsquoten nicht, soll sich das einem Medienbericht zufolge auf die Gehälter von Bahnmanagern auswirken.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bilger-deutsche-bahn-gehaelter-100.html",
-      "publishedAt": "2026-08-09T04:34:19.000Z"
-    },
-    {
       "id": "n_4ca62eee9c",
       "type": "news",
       "topic": "general",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-zentrum-drohnenabwehr-100.html",
       "publishedAt": "2026-08-09T02:58:12.000Z"
-    },
-    {
-      "id": "n_e8a4df19ae",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Kanadische Provinz British Columbia ruft wegen Waldbränden Notstand aus",
-      "summary": "Angefacht durch starke Winde haben sich im Westen Kanadas Waldbrände rasend schnell ausgebreitet. Die Provinz British Columbia rief daraufhin den Notstand aus. Teils mussten eingeschlossene Menschen aus der Luft gerettet werden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/notstand-waldbraende-kanada-100.html",
-      "publishedAt": "2026-08-09T02:57:35.000Z"
-    },
-    {
-      "id": "n_c423d24b12",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Niedrigwasser: Was die Lockerung des Lkw-Fahrverbots bedeutet",
-      "summary": "Das Niedrigwasser schränkt den Güterverkehr in Deutschland derzeit massiv ein. Lkw sollen Abhilfe schaffen - deshalb lockern einige Bundesländer nun das Sonntagsfahrverbot. Welche Regeln gelten ab heute? Und warum gibt es Kritik?",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/faq-lockerung-lkw-fahrverbot-100.html",
-      "publishedAt": "2026-08-09T00:52:07.000Z"
     },
     {
       "id": "n_60f413718a",
@@ -178,6 +178,50 @@
       "publishedAt": "2026-08-07T08:38:00.000Z"
     },
     {
+      "id": "n_a381d43878",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "5G NTN: Europäischer Starlink-Konkurrent Iris² wird 5G-Technik nutzen",
+      "summary": "Die geplante europäische Satellitenkonstellation Iris² soll technisch auf offene 5G-Standards für nicht-terrestrische Netzwerke (NTN) setzen. Es scheint in die Umsetzung zu gehen. (Satelliten, Mobilfunk)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/5g-ntn-europaeischer-starlink-konkurrent-iris-wird-5g-technik-nutzen-2608-211744.html",
+      "publishedAt": "2026-08-09T11:35:02.000Z"
+    },
+    {
+      "id": "n_c61cd0b421",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Gewerkschaften dagegen: Der Achtstundentag wackelt",
+      "summary": "Arbeitgeber wollen weg von der täglichen Höchstarbeitszeit, Gewerkschaften laufen Sturm dagegen. Im Herbst soll ein Gesetzentwurf klären, wie es weitergeht. (Arbeit, Wirtschaft)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/gewerkschaften-dagegen-der-achtstundentag-wackelt-2608-211743.html",
+      "publishedAt": "2026-08-09T10:55:02.000Z"
+    },
+    {
+      "id": "n_2352d1ec50",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Bundesverkehrsminister: Bahn-Manager sollen Boni nur noch bei echtem Erfolg bekommen",
+      "summary": "Der neue Bundesverkehrsminister will die Vorstandsgehälter der Bahn strenger an Ziele knüpfen. Bleibt die Pünktlichkeit aus, drohen spürbare Kürzungen. (Deutsche Bahn, ÖPNV)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/bundesverkehrsminister-bahn-manager-sollen-boni-nur-noch-bei-echtem-erfolg-bekommen-2608-211742.html",
+      "publishedAt": "2026-08-09T10:05:02.000Z"
+    },
+    {
+      "id": "n_dec6eedf93",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Berliner Staatsanwaltschaft: 350 Anklagen gegen Encrochat- und Sky-ECC-Nutzer",
+      "summary": "Die Berliner Staatsanwaltschaft zieht Zwischenbilanz zu Kryptohandys. Der Angriff auf die Systeme durch die Staatsapparate sind weiter umstritten. (Man-in-the-Middle, Smartphone)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/berliner-staatsanwaltschaft-350-anklagen-gegen-encrochat-und-sky-ecc-nutzer-2608-211741.html",
+      "publishedAt": "2026-08-09T09:30:01.000Z"
+    },
+    {
       "id": "n_5e26863724",
       "type": "news",
       "topic": "tech",
@@ -222,48 +266,26 @@
       "publishedAt": "2026-08-08T13:39:02.000Z"
     },
     {
-      "id": "n_f7ac581f1d",
+      "id": "n_6e0f12b732",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Astra: OpenAI will neues KI-Modell vorerst nicht veröffentlichen",
-      "summary": "Wie gefährlich darf eine KI werden, bevor sie zur Waffe wird? OpenAI kann diese Frage bei seinem Modell Astra derzeit nicht mehr sicher beantworten. (OpenAI, KI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/astra-openai-will-neues-ki-modell-vorerst-nicht-veroeffentlichen-2608-211738.html",
-      "publishedAt": "2026-08-08T13:00:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "summary": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T12:12:10.000Z"
     },
     {
-      "id": "n_9b6e600231",
+      "id": "n_8e8f81d9a1",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Rollenspiel: Gothic Remake bekommt Mod-Kit und legendären Marvin-Modus",
-      "summary": "THQ Nordic baut das Gothic Remake weiter aus. Gleichzeitig kommen alle drei klassischen Gothic-Spiele auf aktuelle Konsolen. (Gothic, Rollenspiel)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/rollenspiel-gothic-remake-bekommt-mod-kit-und-legendaeren-marvin-modus-2608-211737.html",
-      "publishedAt": "2026-08-08T12:26:02.000Z"
-    },
-    {
-      "id": "n_d661bfbb6f",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Kinderärzte: Social Media macht junge Menschen \"krank und dumm\"",
-      "summary": "Kinderärzte erheben schwere Vorwürfe gegen Eltern. Soziale Medien gefährdeten massiv die Entwicklung junger Menschen. (Jugendschutz, Soziales Netz)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/kinderaerzte-social-media-macht-junge-menschen-krank-und-dumm-2608-211736.html",
-      "publishedAt": "2026-08-08T11:45:01.000Z"
-    },
-    {
-      "id": "n_a3d4a48370",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: High-End-Mini-PC mit Ryzen 9 und 16 GByte DDR5-RAM für unter 670 Euro",
-      "summary": "Der Geekom A7 Max Mini-PC ist bei Amazon rund 50 Euro gegenüber dem Durchschnittspreis reduziert. Er könnte vorerst zum letzten Mal so günstig wie jetzt sein. (Technik/Hardware, Computer)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-high-end-mini-pc-mit-ryzen-9-und-16-gbyte-ddr5-ram-fuer-unter-670-euro-2608-211730.html",
-      "publishedAt": "2026-08-08T11:40:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T10:02:52.000Z"
     },
     {
       "id": "n_830076b7f9",
@@ -299,6 +321,17 @@
       "publishedAt": "2026-08-09T03:00:44.000Z"
     },
     {
+      "id": "n_db5694b846",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Nigeria's mass wedding - and how telling lovers from fraudsters is proving tricky",
+      "summary": "The scheme is for couples who cannot afford the significant financial costs associated with marriage.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7q17531do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-09T01:10:50.000Z"
+    },
+    {
       "id": "n_7358ec4fb8",
       "type": "news",
       "topic": "general",
@@ -319,39 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-08T23:59:23.000Z"
-    },
-    {
-      "id": "n_7503591c00",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Israel accused of weaponising archaeology at ancient West Bank sites",
-      "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T23:43:44.000Z"
-    },
-    {
-      "id": "n_639e1a78a5",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-      "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T19:18:57.000Z"
-    },
-    {
-      "id": "n_119065f421",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-      "summary": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T19:00:22.000Z"
     },
     {
       "id": "n_a52ff73c1d",
@@ -442,6 +442,17 @@
       "publishedAt": "2026-08-05T13:06:43.000Z"
     },
     {
+      "id": "n_a09b887db3",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Mount Toba eruption doesn't seem like it could nearly kill our species",
+      "summary": "The massive Toba eruption seems to have had little climate impact.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
+      "publishedAt": "2026-08-09T11:00:14.000Z"
+    },
+    {
       "id": "n_da9c1e9c32",
       "type": "news",
       "topic": "tech",
@@ -517,17 +528,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
       "publishedAt": "2026-08-07T18:00:02.000Z"
-    },
-    {
-      "id": "n_4c6b7b1d30",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "DOGE's wild, unverifiable savings claims discredited in US government report",
-      "summary": "DOGE's inflated \"Wall of Receipts\": 96% of grant savings unverifiable, GAO says.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/doges-inflated-wall-of-receipts-96-of-grant-savings-unverifiable-gao-says/",
-      "publishedAt": "2026-08-07T17:51:05.000Z"
     },
     {
       "id": "n_2b6c433816",
@@ -618,6 +618,17 @@
       "publishedAt": "2026-08-07T11:40:37.000Z"
     },
     {
+      "id": "n_7c16bfed4c",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "AI detectors are creating a new era of distrust",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "publishedAt": "2026-08-09T12:00:00.000Z"
+    },
+    {
       "id": "n_3835de70aa",
       "type": "news",
       "topic": "ai",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
       "publishedAt": "2026-08-06T17:39:43.000Z"
-    },
-    {
-      "id": "n_0b91ac9465",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI is giving ChatGPT free users unlimited text chats",
-      "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "publishedAt": "2026-08-06T17:00:00.000Z"
     },
     {
       "id": "n_3d6d30af34",
@@ -871,6 +871,28 @@
       "publishedAt": "2026-07-27T11:40:16.000Z"
     },
     {
+      "id": "n_fbc9268932",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+      "summary": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
+      "publishedAt": "2026-08-09T10:30:00.000Z"
+    },
+    {
+      "id": "n_4257e082f9",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "These AI Barons Are Ready to Give Away Their Fortunes",
+      "summary": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+      "publishedAt": "2026-08-09T09:30:00.000Z"
+    },
+    {
       "id": "n_d724fde1f0",
       "type": "news",
       "topic": "ai",
@@ -935,28 +957,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
       "publishedAt": "2026-08-06T19:30:46.000Z"
-    },
-    {
-      "id": "n_8302fa4b1c",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
-      "summary": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
-      "publishedAt": "2026-08-06T16:23:04.000Z"
-    },
-    {
-      "id": "n_1d4b851f5d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
-      "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
-      "publishedAt": "2026-08-06T00:15:04.000Z"
     },
     {
       "id": "n_fd5b733b35",
