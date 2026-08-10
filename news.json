@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-08-10T07:04:36.556Z",
+  "generatedAt": "2026-08-10T10:07:15.206Z",
   "items": [
+    {
+      "id": "n_e206342a06",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Warum werden in Malta kaum Asylanträge gestellt?",
+      "summary": "Migranten bedrängen die Grenzzäune der spanischen Exklave Ceuta, auf der italienischen Insel Lampedusa kommen seit Jahren viele Migranten an, in Griechenland auch. Doch in Malta werden kaum Asylanträge gestellt. Woran liegt das? Von Lisa Weiß.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/malta-migration-100.html",
+      "publishedAt": "2026-08-10T10:01:02.000Z"
+    },
+    {
+      "id": "n_10b449bbf1",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Auch Bilger will Drohnenabwehr an deutschen Flughäfen verbessern",
+      "summary": "Seit dem Drohnenvorfall in Leipzig wird über bessere Sicherheitsmaßnahmen an deutschen Flughäfen diskutiert. Der Bundesverkehrsminister will nun bei der Abwehr nachbessern - andere plädieren für Bundeswehreinsätze auch im Innern.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/drohnen-abwehr-bilger-100.html",
+      "publishedAt": "2026-08-10T09:43:49.000Z"
+    },
+    {
+      "id": "n_573ac0574a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Anteil junger Menschen in Deutschland bleibt historisch niedrig",
+      "summary": "Deutschland verliert seine Jugend: Der Anteil junger Menschen bleibt auf einem historisch niedrigen Niveau. Das zeigen Daten des Statistischen Bundesamtes. Besonders in Ostdeutschland fehlen junge Leute.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/anteil-junger-menschen-100.html",
+      "publishedAt": "2026-08-10T09:19:03.000Z"
+    },
+    {
+      "id": "n_da860baf0e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: DAX rückt vorsichtig vor",
+      "summary": "Nach der vergangenen Rekordrally könnte in dieser Woche wieder der Alltag an der Frankfurter Börse einkehren. Der DAX bleibt aber in der Nähe des Rekordhochs. Geld- und Geopolitik werden die Kurse bestimmen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oelpreise-iran-100.html",
+      "publishedAt": "2026-08-10T08:36:01.000Z"
+    },
+    {
+      "id": "n_8dc26c3af6",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "IfW-Präsident wirft Pistorius falsche Investitionen in Bundeswehr vor",
+      "summary": "Der Verteidigungsminister muss sich erneut Kritik stellen, er investiere zu sehr in veraltete Technik. Es brauche Waffensysteme der Zukunft statt noch mehr Panzer und Fregatten, fordert IfW-Präsident Schularick.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/kritik-schularick-pistorius-waffen-bundeswehr-100.html",
+      "publishedAt": "2026-08-10T08:21:04.000Z"
+    },
+    {
+      "id": "n_19e251cc61",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach tagelangem Regen: Mindestens 15 Tote auf den Philippinen",
+      "summary": "Der Taifun \"Dolphin\" und dessen Ausläufer sorgen in Teilen Asiens für katastrophale Zustände: Auf den Philippinen starben mindestens 15 Menschen nach heftigen Überschwemmungen. Auch die Metropole Schanghai ist betroffen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/philippinen-fluten-100.html",
+      "publishedAt": "2026-08-10T07:54:35.000Z"
+    },
+    {
+      "id": "n_3e9619526c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Fast 30 Jahre nach Mord an Tupac Shakur: Prozessbeginn in Los Angeles",
+      "summary": "1996 wurde der US-Rapper Tupac Shakur durch mehrere Schüsse aus einem vorbeifahrenden Auto tödlich verletzt. Jahrzehntelang gibt es bei der Aufklärung kaum Fortschritte. Doch nun soll der Fall vor Gericht landen. Von Antje Sieb.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-tupac-shakur-mord-prozess-100.html",
+      "publishedAt": "2026-08-10T07:21:43.000Z"
+    },
     {
       "id": "n_5e66ee3602",
       "type": "news",
@@ -13,81 +90,26 @@
       "publishedAt": "2026-08-10T07:00:26.000Z"
     },
     {
-      "id": "n_f74465b818",
+      "id": "n_30c8b86891",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Weltweit 350 Hilfskräfte bei humanitären Einsätzen getötet",
-      "summary": "Sie wollen in Kriegs- und Krisengebieten helfen und werden immer wieder selbst zu Opfern: Im vergangenen Jahr wurden Hunderte Helfer im Einsatz getötet, verwundet oder entführt. Besonders betroffen sind zwei Regionen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/hilfskraefte-helfer-gaza-100.html",
-      "publishedAt": "2026-08-10T06:08:47.000Z"
+      "headline": "MIT-Studenten konstruieren Jet-Triebwerk mit KI innerhalb eines Monats",
+      "summary": "Studenten des MIT haben sich einer Challenge gestellt: Sie sollten teils ohne Vorkenntnisse mit der KI-Plattform Parley ein Gasturbinentriebwerk entwickeln.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/MIT-Studenten-konstruieren-Jet-Triebwerk-mit-KI-innerhalb-eines-Monats-11404710.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-10T08:56:00.000Z"
     },
     {
-      "id": "n_da860baf0e",
+      "id": "n_8163180792",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Marktbericht: DAX bleibt in der Nähe des Allzeithochs",
-      "summary": "Wird die Rekordrally im DAX in dieser Woche weitergehen? Die US-Berichtssaison neigt sich dem Ende zu, die Anleger werden sich deshalb wieder der Geldpolitik und der Geopolitik zuwenden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oelpreise-iran-100.html",
-      "publishedAt": "2026-08-10T05:45:17.000Z"
-    },
-    {
-      "id": "n_5c649d69d1",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Waldbrände in Kanada weiter außer Kontrolle",
-      "summary": "Der Waldbrand im Südwesten Kanadas ist weiter außer Kontrolle. Etwa 20.000 Menschen mussten bereits fliehen. Für viele ist ungewiss, ob ihre Häuser danach noch stehen. Doch die Hilfsbereitschaft ist groß. Von Giselle Ucar.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/waldbraende-kanada-136.html",
-      "publishedAt": "2026-08-10T05:22:54.000Z"
-    },
-    {
-      "id": "n_07b248d657",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "KI braucht Rechenzentren - aber welche braucht Deutschland?",
-      "summary": "Deutschland will fit für das KI-Zeitalter werden. Doch der Ausbau stößt an Grenzen: Strom, Netze und Flächen sind knapp. Experten sagen, entscheidend sei nicht, mehr Rechenzentren zu bauen - sondern die richtigen. Von Michelle Goddemeier.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/ki-rechenzentren-welche-deutschland-100.html",
-      "publishedAt": "2026-08-10T04:36:13.000Z"
-    },
-    {
-      "id": "n_d53c6a60ea",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Juni und Juli waren in Westeuropa so warm wie noch nie",
-      "summary": "Viele Teile Europas litten zuletzt unter Hitzewellen, Trockenheit und Waldbränden. Neue Daten zeigen nun: In Westeuropa waren die beiden vergangenen Monate so heiß wie noch nie. Auch in den Weltmeeren wurden Höchstwerte gemessen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/klima/westereuropa-hitze-sommer-100.html",
-      "publishedAt": "2026-08-10T03:43:43.000Z"
-    },
-    {
-      "id": "n_2b9f74f97f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Kampf gegen Geldwäsche und Steuerbetrug: Wenn der Zoll den Porsche beschlagnahmt",
-      "summary": "\"Dann sind der Porsche oder die Rolex erstmal weg\": Im Kampf gegen Geldwäsche und dubiose Finanzstrukturen soll der Zoll Vermögenswerte von unklarer Herkunft künftig beschlagnahmen können. Das sieht ein neues Gesetz vor. Von N. Kohnert.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/zoll-befugnisse-gesetz-100.html",
-      "publishedAt": "2026-08-10T03:00:10.000Z"
-    },
-    {
-      "id": "n_dafe40a006",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Niedrigwasser: Binnenschiffer warnen vor Zweiteilung des Rheins",
-      "summary": "Im Rhein werden derzeit historische Tiefstände gemessen. Das wirkt sich bereits stark auf die Schifffahrt aus. Ein Branchenverband warnt sogar, der Fluss könnte bald nicht mehr durchgängig befahrbar und damit zweigeteilt sein.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/rhein-niedrigwasser-zweiteilung-binnenschiffer-100.html",
-      "publishedAt": "2026-08-10T01:17:33.000Z"
+      "headline": "Juni und Juli in Westeuropa so warm wie noch nie",
+      "summary": "Mehrere Hitzewellen treiben Temperaturen in Westeuropa auf Rekordwerte. Auch die Meere erreichen ungekannte globale Höchstwerte.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Juni-und-Juli-in-Westeuropa-so-warm-wie-noch-nie-11404781.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-10T08:14:00.000Z"
     },
     {
       "id": "n_15090d1991",
@@ -156,114 +178,147 @@
       "publishedAt": "2026-08-07T10:10:00.000Z"
     },
     {
-      "id": "n_d481e7ad95",
+      "id": "n_952c6e9706",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "RAM-Krise: China-Speicher für Apple nicht billiger – Angst um iPhone-Versorgung",
-      "summary": "Apples Plan, mit CXMT einen weiteren RAM-Lieferanten zu finden, scheint zunächst gescheitert – auch aus wirtschaftlichen Gründen. Module fürs iPhone sind knapp.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/RAM-Krise-China-Speicher-fuer-Apple-nicht-billiger-Angst-um-iPhone-Versorgung-11403106.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-07T10:05:00.000Z"
-    },
-    {
-      "id": "n_433476c6f5",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "OpenAI reagiert auf Apple-Klage – neue Details zur Hardware",
-      "summary": "Nachdem OpenAI per Blog auf Apples Klage wegen Geschäftsgeheimnisklau reagiert hat, kommt nun die juristische Antwort. Die Arbeit an der Hardware geht weiter.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/OpenAI-reagiert-auf-Apple-Klage-neue-Details-zur-Hardware-11402917.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-07T08:57:00.000Z"
-    },
-    {
-      "id": "n_3dfc1aec2e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "KI-Forscher Jürgen Schmidhuber: Genie oder Krawallschachtel?",
-      "summary": "Jürgen Schmidhuber ist einer der einflussreichsten KI-Forscher, macht aber regelmäßig mit Vorwürfen gegen andere auf sich aufmerksam. Ein Faktencheck - unter Schmidhubers Beteiligung. Ein Bericht von Tim Elsner (KI, Wissenschaft)",
+      "headline": "B2B: Wie KI SaaS verschlingt",
+      "summary": "In Zeiten von Vibe-Coding zahlt niemand mehr Abertausende für eine mäßig passende Software. SaaS-Anbieter müssen sich etwas einfallen lassen. Von Namanyay Goel (SaaS, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/ki-forscher-juergen-schmidhuber-genie-oder-krawallschachtel-2608-210364.html",
-      "publishedAt": "2026-08-10T06:58:01.000Z"
+      "url": "https://www.golem.de/news/b2b-wie-ki-saas-verschlingt-2608-206763.html",
+      "publishedAt": "2026-08-10T10:00:02.000Z"
     },
     {
-      "id": "n_62d9f3f27f",
+      "id": "n_2d14c3d0cc",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Copernicus-Klimadaten: Westeuropa erfasst historischen Temperaturrekord im Sommer",
-      "summary": "Der EU-Klimadienst Copernicus misst im Juni und Juli historische Höchstwerte in Westeuropa. Auch die Meere erreichen neue Rekorde. (Klimakrise, Klima)",
+      "headline": "GTA 6: Was ist jetzt eigentlich mit GTA Online?",
+      "summary": "Rockstar schweigt weiter zum Onlinemodus von GTA 6. Neue Aussagen von Jason Schreier und die Netflix-Kooperation führen nun zu Spekulationen. (GTA 6, Take-Two)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/copernicus-klimadaten-westeuropa-erfasst-historischen-temperaturrekord-im-sommer-2608-211747.html",
-      "publishedAt": "2026-08-10T06:26:01.000Z"
+      "url": "https://www.golem.de/news/gta-6-was-ist-jetzt-eigentlich-mit-gta-online-2608-211758.html",
+      "publishedAt": "2026-08-10T09:48:01.000Z"
     },
     {
-      "id": "n_446875fda2",
+      "id": "n_2ed98432fa",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Umfrage in eigener Sache: Wie gefällt dir unser internationales Artikelangebot?",
-      "summary": "Seit drei Monaten ergänzen englischsprachige Artikel internationaler Medien Golem Plus. Egal ob du ein Abo hast oder nicht, wir möchten deine Meinung hören. (In eigener Sache, Wirtschaft)",
+      "headline": "Anzeige: Carplay-Display mit Android Auto für 67,99 Euro bei Amazon",
+      "summary": "Amazon hat ein 9'' großes Carplay-Display mit Android Auto im Angebot, das ältere Fahrzeuge mit modernem Infotainment bereichert. (Technik/Hardware, Android Auto)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/umfrage-in-eigener-sache-wie-gefaellt-dir-unser-internationales-artikelangebot-2608-211448.html",
-      "publishedAt": "2026-08-10T06:10:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-carplay-display-mit-android-auto-fuer-67-99-euro-bei-amazon-2608-211757.html",
+      "publishedAt": "2026-08-10T09:30:01.000Z"
     },
     {
-      "id": "n_5b06584583",
+      "id": "n_8be62cf06a",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) Opinion: Asia's AI boom runs into a power wall",
-      "summary": "Data centers drive $5tn energy investment supercycle across region Von Mayank Maheshwari (KI, Wirtschaft)",
+      "headline": "Streamingmarkt: HBO Max wächst, Netflix und Prime weiter gleichauf",
+      "summary": "Justwatch-Zahlen für Q2 2026 zeigen ein Kopf-an-Kopf-Rennen an der Spitze. Zudem gibt es Zuwächse für HBO Max und Verluste bei RTL+. (Streaming, Disney)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/opinion-asia-s-ai-boom-runs-into-a-power-wall-2608-211720.html",
-      "publishedAt": "2026-08-10T06:00:02.000Z"
+      "url": "https://www.golem.de/news/streamingmarkt-hbo-max-waechst-netflix-und-prime-weiter-gleichauf-2608-211749.html",
+      "publishedAt": "2026-08-10T09:17:01.000Z"
     },
     {
-      "id": "n_405f0b7386",
+      "id": "n_767d299f2d",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Mobilfunk am KI-Limit: Warum das Netz beim Upload lahm wird",
-      "summary": "AT&T beginnt jetzt den Netzausbau bei 600 MHz. Damit will man den in den USA traditionell schwachen Upload stark verbessern. (AT&T, Mobilfunk)",
+      "headline": "iRing: Apple denkt sein Wearable-Ökosystem neu",
+      "summary": "Reagiert Apple auf den Erfolg von Smart Rings und Fitnesstrackern? Laut einem Insider prüft das Unternehmen neue Wearables ohne Display. (Smartwatch, Apple)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/mobilfunk-am-ki-limit-warum-das-netz-beim-upload-lahm-wird-2608-211745.html",
-      "publishedAt": "2026-08-09T12:25:02.000Z"
+      "url": "https://www.golem.de/news/iring-apple-denkt-sein-wearable-oekosystem-neu-2608-211755.html",
+      "publishedAt": "2026-08-10T09:04:02.000Z"
     },
     {
-      "id": "n_a381d43878",
+      "id": "n_b25dcb6e82",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "5G NTN: Europäischer Starlink-Konkurrent Iris² wird 5G-Technik nutzen",
-      "summary": "Die geplante europäische Satellitenkonstellation Iris² soll technisch auf offene 5G-Standards für nicht-terrestrische Netzwerke (NTN) setzen. Es scheint in die Umsetzung zu gehen. (Satelliten, Mobilfunk)",
+      "headline": "Pwnie Award: Microsoft gewinnt Schampreis für angedrohte Strafverfolgung",
+      "summary": "Microsoft hat durch seinen Streit mit Chaotic Eclipse einen Pwnie Award gewonnen. Annehmen wollte ihn wohl keiner - aus Angst vor Jobverlust. (Sicherheitslücke, Microsoft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/5g-ntn-europaeischer-starlink-konkurrent-iris-wird-5g-technik-nutzen-2608-211744.html",
-      "publishedAt": "2026-08-09T11:35:02.000Z"
+      "url": "https://www.golem.de/news/pwnie-award-microsoft-gewinnt-schampreis-fuer-angedrohte-strafverfolgung-2608-211753.html",
+      "publishedAt": "2026-08-10T08:49:02.000Z"
     },
     {
-      "id": "n_c61cd0b421",
+      "id": "n_8d5a0df48c",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Gewerkschaften dagegen: Der Achtstundentag wackelt",
-      "summary": "Arbeitgeber wollen weg von der täglichen Höchstarbeitszeit, Gewerkschaften laufen Sturm dagegen. Im Herbst soll ein Gesetzentwurf klären, wie es weitergeht. (Arbeit, Wirtschaft)",
+      "headline": "Anzeige: Sony BDP-S1700 Blu-Ray-Player zum Aktionspreis unter 80 Euro bei Amazon",
+      "summary": "Der Sony BDP-S1700 spielt Blu-Rays in Full-HD-1080p mit Dolby TrueHD und DTS-HD Master Audio und ist aktuell im Angebot bei Amazon. (Technik/Hardware, Sony)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/gewerkschaften-dagegen-der-achtstundentag-wackelt-2608-211743.html",
-      "publishedAt": "2026-08-09T10:55:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-sony-bdp-s1700-blu-ray-player-zum-aktionspreis-unter-80-euro-bei-amazon-2608-211754.html",
+      "publishedAt": "2026-08-10T08:44:01.000Z"
     },
     {
-      "id": "n_2352d1ec50",
+      "id": "n_cb232101b3",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Bundesverkehrsminister: Bahn-Manager sollen Boni nur noch bei echtem Erfolg bekommen",
-      "summary": "Der neue Bundesverkehrsminister will die Vorstandsgehälter der Bahn strenger an Ziele knüpfen. Bleibt die Pünktlichkeit aus, drohen spürbare Kürzungen. (Deutsche Bahn, ÖPNV)",
+      "headline": "Schlechtes Betriebssystem: Warum Windows 11 vernachlässigt wurde",
+      "summary": "Ein ehemaliger Microsoft-Mitarbeiter erklärt den schlechten Zustand von Windows 11 mit einer Mischung aus Rivalität und Prioritätenwechseln. (Windows 11, Microsoft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/bundesverkehrsminister-bahn-manager-sollen-boni-nur-noch-bei-echtem-erfolg-bekommen-2608-211742.html",
-      "publishedAt": "2026-08-09T10:05:02.000Z"
+      "url": "https://www.golem.de/news/schlechtes-betriebssystem-warum-windows-11-vernachlaessigt-wurde-2608-211751.html",
+      "publishedAt": "2026-08-10T08:35:02.000Z"
+    },
+    {
+      "id": "n_91024385e6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
+      "summary": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T10:03:58.000Z"
+    },
+    {
+      "id": "n_3318c3c4c0",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Former Thai MP allegedly kills official and confesses on YouTube",
+      "summary": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T09:51:07.000Z"
+    },
+    {
+      "id": "n_8e8f81d9a1",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Suspected crime boss Kinahan spends first night in custody in Ireland",
+      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T09:33:25.000Z"
+    },
+    {
+      "id": "n_dff43803b2",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "China evacuates one million from homes as massive storm arrives",
+      "summary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T07:23:54.000Z"
+    },
+    {
+      "id": "n_a56f47b5cf",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'Body in suitcase' found in Australia turns out to be lifelike doll",
+      "summary": "Forensics revealed that the 'realistic' looking body was in fact not human.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T05:16:40.000Z"
     },
     {
       "id": "n_830076b7f9",
@@ -297,61 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-09T21:26:56.000Z"
-    },
-    {
-      "id": "n_6e0f12b732",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T21:25:04.000Z"
-    },
-    {
-      "id": "n_8e8f81d9a1",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T20:58:18.000Z"
-    },
-    {
-      "id": "n_a2055b0b97",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
-      "summary": "The people were abducted while travelling through the country's north-western Zamfara state on Saturday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T19:57:28.000Z"
-    },
-    {
-      "id": "n_dbf9548a15",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
-      "summary": "Twelve other people initially rescued from the water are all reported to be in stable condition.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T19:40:09.000Z"
-    },
-    {
-      "id": "n_cd34ac8069",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Puerto Rico rations water supplies due to intense drought",
-      "summary": "Hot weather and ageing infrastructure have led to the rationing, affecting hundreds of thousands of people.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T16:43:23.000Z"
     },
     {
       "id": "n_c7dbdbf013",
@@ -783,6 +783,28 @@
       "publishedAt": "2026-01-07T20:00:00.000Z"
     },
     {
+      "id": "n_2231dcf4c3",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "AI for science needs reasoning, not just data",
+      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the en",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "publishedAt": "2026-08-10T09:00:00.000Z"
+    },
+    {
+      "id": "n_5023b389af",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "These startups are chasing the next big thing in LLMs",
+      "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "publishedAt": "2026-08-10T09:00:00.000Z"
+    },
+    {
       "id": "n_d9cedc16c2",
       "type": "news",
       "topic": "ai",
@@ -847,28 +869,6 @@
       "source": "MIT Technology Review",
       "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
       "publishedAt": "2026-07-27T18:00:00.000Z"
-    },
-    {
-      "id": "n_6c4edc3794",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The path to artificial superintelligence",
-      "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange da",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-      "publishedAt": "2026-07-27T12:00:00.000Z"
-    },
-    {
-      "id": "n_308e104353",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Closing the data loop in AI-driven drug discovery",
-      "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today,",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-      "publishedAt": "2026-07-27T11:40:16.000Z"
     },
     {
       "id": "n_fbc9268932",
@@ -959,6 +959,17 @@
       "publishedAt": "2026-08-06T19:30:46.000Z"
     },
     {
+      "id": "n_90d59cd2b4",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "publishedAt": "2026-08-10T10:05:36.000Z"
+    },
+    {
       "id": "n_fd5b733b35",
       "type": "news",
       "topic": "ai",
@@ -1034,17 +1045,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/nunchaku-diffusers",
       "publishedAt": "2026-07-23T00:00:00.000Z"
-    },
-    {
-      "id": "n_f07ea0986e",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Grabette: an open system to record robot-manipulation data",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/grabette",
-      "publishedAt": "2026-07-21T00:00:00.000Z"
     },
     {
       "id": "n_a6ebe1d55c",
