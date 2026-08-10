@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-08-10T10:07:15.206Z",
+  "generatedAt": "2026-08-10T12:39:25.714Z",
   "items": [
+    {
+      "id": "n_52559fd65b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Klingbeils Steuerpläne stoßen auf Kritik - auch aus der Union",
+      "summary": "Mit der geplanten Steuerreform will Finanzminister Klingbeil Menschen mit kleinen und mittleren Einkommen entlasten. Doch sein erster Entwurf, der bereits in Berlin kursiert, sorgt für scharfe Kritik - auch vom Koalitionspartner.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/steuerreform-klingbeil-kritik-100.html",
+      "publishedAt": "2026-08-10T12:14:10.000Z"
+    },
+    {
+      "id": "n_eb0f37b10e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Europas aktivster Vulkan Ätna spuckt wieder Asche und Lava",
+      "summary": "Erneut ist der Ätna ausgebrochen, Europas aktivster Vulkan. Der Flugverkehr auf der beliebten italienischen Ferieninsel Sizilien wurde zeitweise eingeschränkt. Noch immer gilt die Warnstufe Rot.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/italien-ausbruch-vulkan-aetna-100.html",
+      "publishedAt": "2026-08-10T12:10:42.000Z"
+    },
+    {
+      "id": "n_dba79a4abe",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "DB Regio: 989 Übergriffe auf Zugbegleiter im ersten Halbjahr",
+      "summary": "Fast 990 Mal haben Mitarbeitende im Nahverkehr der Bahn im ersten Halbjahr Gewalt erlebt. Der Konzern will gegensteuern - etwa mit stichsicheren Westen und Tonaufnahmen. Auch soll es mehr Personal in Zügen geben.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/gewalt-gegen-bahnmitarbeitende-100.html",
+      "publishedAt": "2026-08-10T11:53:43.000Z"
+    },
+    {
+      "id": "n_79867d90e2",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Mehrere Tote bei ukrainischem Drohnenangriff in Russland",
+      "summary": "Es soll einer der bislang schwersten Drohnenangriffe der Ukraine auf Russland gewesen sein: Tief im Hinterland wurden dabei mehrere Menschen getötet und verletzt. Ziel war offenbar erneut die russische Ölindustrie.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-drohnenangriff-104.html",
+      "publishedAt": "2026-08-10T10:58:23.000Z"
+    },
+    {
+      "id": "n_cf1aabef10",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "VdP-Zahlen: Mieten in Deutschland ziehen deutlich an",
+      "summary": "Der Mangel an Wohnraum lässt die Mieten in Deutschland deutlich steigen, zeigen Daten der Pfandbriefbanken - am stärksten in Düsseldorf. In Berlin wird weiter über die Enteignung von Wohnungskonzernen diskutiert.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/mieten-preise-wohnungsmarkt-100.html",
+      "publishedAt": "2026-08-10T10:36:03.000Z"
+    },
     {
       "id": "n_e206342a06",
       "type": "news",
@@ -33,61 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/gesellschaft/anteil-junger-menschen-100.html",
       "publishedAt": "2026-08-10T09:19:03.000Z"
-    },
-    {
-      "id": "n_da860baf0e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: DAX rückt vorsichtig vor",
-      "summary": "Nach der vergangenen Rekordrally könnte in dieser Woche wieder der Alltag an der Frankfurter Börse einkehren. Der DAX bleibt aber in der Nähe des Rekordhochs. Geld- und Geopolitik werden die Kurse bestimmen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oelpreise-iran-100.html",
-      "publishedAt": "2026-08-10T08:36:01.000Z"
-    },
-    {
-      "id": "n_8dc26c3af6",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "IfW-Präsident wirft Pistorius falsche Investitionen in Bundeswehr vor",
-      "summary": "Der Verteidigungsminister muss sich erneut Kritik stellen, er investiere zu sehr in veraltete Technik. Es brauche Waffensysteme der Zukunft statt noch mehr Panzer und Fregatten, fordert IfW-Präsident Schularick.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/kritik-schularick-pistorius-waffen-bundeswehr-100.html",
-      "publishedAt": "2026-08-10T08:21:04.000Z"
-    },
-    {
-      "id": "n_19e251cc61",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Nach tagelangem Regen: Mindestens 15 Tote auf den Philippinen",
-      "summary": "Der Taifun \"Dolphin\" und dessen Ausläufer sorgen in Teilen Asiens für katastrophale Zustände: Auf den Philippinen starben mindestens 15 Menschen nach heftigen Überschwemmungen. Auch die Metropole Schanghai ist betroffen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/philippinen-fluten-100.html",
-      "publishedAt": "2026-08-10T07:54:35.000Z"
-    },
-    {
-      "id": "n_3e9619526c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Fast 30 Jahre nach Mord an Tupac Shakur: Prozessbeginn in Los Angeles",
-      "summary": "1996 wurde der US-Rapper Tupac Shakur durch mehrere Schüsse aus einem vorbeifahrenden Auto tödlich verletzt. Jahrzehntelang gibt es bei der Aufklärung kaum Fortschritte. Doch nun soll der Fall vor Gericht landen. Von Antje Sieb.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-tupac-shakur-mord-prozess-100.html",
-      "publishedAt": "2026-08-10T07:21:43.000Z"
-    },
-    {
-      "id": "n_5e66ee3602",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Trump setzt auf wirtschaftlichen Druck gegen Iran",
-      "summary": "In Bezug auf Iran halten sich die USA nach Angaben von Präsident Trump derzeit zurück. Er setze auf Zeit und einen wirtschaftlichen Kollaps des Landes. Neue Forderungen aus Teheran kommentierte er betont gelassen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-wirtschaftlicher-druck-iran-100.html",
-      "publishedAt": "2026-08-10T07:00:26.000Z"
     },
     {
       "id": "n_30c8b86891",
@@ -161,7 +161,7 @@
       "topic": "tech",
       "lang": "de",
       "headline": "Flauschige Nanofaser-Beschichtung filtert Mikroplastik aus Wasser",
-      "summary": "In Meeren, Seen und Flüssen sammelt sich viel umweltschädliches Bioplastik. Ein Netz aus Alginat und Chitosan soll es aus dem Wasser filtern können.",
+      "summary": "In Meeren, Seen und Flüssen sammelt sich viel umweltschädliches Plastik. Ein Netz aus Alginat und Chitosan soll es aus dem Wasser filtern können.",
       "source": "heise online",
       "url": "https://www.heise.de/news/Flauschige-Nanofaser-Beschichtung-filtert-Mikroplastik-aus-Wasser-11403174.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
       "publishedAt": "2026-08-07T10:15:00.000Z"
@@ -178,103 +178,147 @@
       "publishedAt": "2026-08-07T10:10:00.000Z"
     },
     {
-      "id": "n_952c6e9706",
+      "id": "n_f99dad9430",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "B2B: Wie KI SaaS verschlingt",
-      "summary": "In Zeiten von Vibe-Coding zahlt niemand mehr Abertausende für eine mäßig passende Software. SaaS-Anbieter müssen sich etwas einfallen lassen. Von Namanyay Goel (SaaS, KI)",
+      "headline": "Anzeige: FISCHER E-Bike Fahrradträger zum Bestpreis sichern",
+      "summary": "Wer seine E-Bikes sicher transportieren möchte, findet das klappbare FISCHER ProlineEvo 2 aktuell zum Bestpreis bei Amazon. Auch ein Modell von EUFAB ist reduziert. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/b2b-wie-ki-saas-verschlingt-2608-206763.html",
-      "publishedAt": "2026-08-10T10:00:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-fischer-e-bike-fahrradtraeger-zum-bestpreis-sichern-2608-211767.html",
+      "publishedAt": "2026-08-10T12:35:02.000Z"
     },
     {
-      "id": "n_2d14c3d0cc",
+      "id": "n_2977f3c531",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "GTA 6: Was ist jetzt eigentlich mit GTA Online?",
-      "summary": "Rockstar schweigt weiter zum Onlinemodus von GTA 6. Neue Aussagen von Jason Schreier und die Netflix-Kooperation führen nun zu Spekulationen. (GTA 6, Take-Two)",
+      "headline": "Anzeige: Roborock-Saugroboter bei Amazon jetzt über 80 Euro unter Vergleichspreis",
+      "summary": "Ein beliebter Saugroboter von Roborock ist wieder reduziert. Bei Amazon gibt der Hersteller aktuell über 80 Euro Rabatt auf den Vergleichspreis. (Roborock, Saugroboter)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/gta-6-was-ist-jetzt-eigentlich-mit-gta-online-2608-211758.html",
-      "publishedAt": "2026-08-10T09:48:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-roborock-saugroboter-bei-amazon-jetzt-ueber-80-euro-unter-vergleichspreis-2608-211766.html",
+      "publishedAt": "2026-08-10T12:04:01.000Z"
     },
     {
-      "id": "n_2ed98432fa",
+      "id": "n_3dfab1fd11",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Carplay-Display mit Android Auto für 67,99 Euro bei Amazon",
-      "summary": "Amazon hat ein 9'' großes Carplay-Display mit Android Auto im Angebot, das ältere Fahrzeuge mit modernem Infotainment bereichert. (Technik/Hardware, Android Auto)",
+      "headline": "Betriebssystem: Selbst Wetter-App in Windows 11 braucht 1,2 GByte RAM",
+      "summary": "Wie viele andere Programme hat Microsoft die Wetter-App als Web-App programmiert. Die MacOS-Alternative braucht ein Fünftel des Speichers. (Windows 11, Microsoft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-carplay-display-mit-android-auto-fuer-67-99-euro-bei-amazon-2608-211757.html",
-      "publishedAt": "2026-08-10T09:30:01.000Z"
+      "url": "https://www.golem.de/news/betriebssystem-selbst-wetter-app-in-windows-11-braucht-1-2-gbyte-ram-2608-211763.html",
+      "publishedAt": "2026-08-10T11:42:02.000Z"
     },
     {
-      "id": "n_8be62cf06a",
+      "id": "n_8a8e6a0d1d",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Streamingmarkt: HBO Max wächst, Netflix und Prime weiter gleichauf",
-      "summary": "Justwatch-Zahlen für Q2 2026 zeigen ein Kopf-an-Kopf-Rennen an der Spitze. Zudem gibt es Zuwächse für HBO Max und Verluste bei RTL+. (Streaming, Disney)",
+      "headline": "Anzeige: Bluetooth-Adapter für Aux-Anschluss zum Sparpreis bei Amazon",
+      "summary": "Amazon hat einen Bluetooth-Adapter im Angebot, der den Sound von Aux-Anschlüssen auf zwei Bluetooth-Kopfhörer überträgt. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/streamingmarkt-hbo-max-waechst-netflix-und-prime-weiter-gleichauf-2608-211749.html",
-      "publishedAt": "2026-08-10T09:17:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-bluetooth-adapter-fuer-aux-anschluss-zum-sparpreis-bei-amazon-2608-211764.html",
+      "publishedAt": "2026-08-10T11:37:02.000Z"
     },
     {
-      "id": "n_767d299f2d",
+      "id": "n_a14086bb57",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "iRing: Apple denkt sein Wearable-Ökosystem neu",
-      "summary": "Reagiert Apple auf den Erfolg von Smart Rings und Fitnesstrackern? Laut einem Insider prüft das Unternehmen neue Wearables ohne Display. (Smartwatch, Apple)",
+      "headline": "(g+) Crossplane: Raus aus dem Bruch zwischen Terraform und Kubernetes",
+      "summary": "Crossplane verspricht ein Ende des Wirrwarrs aus Pipelines, Statusabfragen, Übergabedateien. Wann es sich lohnt und ab welchem Punkt ein Kubernetes-Controller besser wäre. Ein Ratgebertext von Philip Lorenz (Devops, API)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/iring-apple-denkt-sein-wearable-oekosystem-neu-2608-211755.html",
-      "publishedAt": "2026-08-10T09:04:02.000Z"
+      "url": "https://www.golem.de/news/crossplane-raus-aus-dem-bruch-zwischen-terraform-und-kubernetes-2608-211740.html",
+      "publishedAt": "2026-08-10T11:30:01.000Z"
     },
     {
-      "id": "n_b25dcb6e82",
+      "id": "n_70442030a2",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Pwnie Award: Microsoft gewinnt Schampreis für angedrohte Strafverfolgung",
-      "summary": "Microsoft hat durch seinen Streit mit Chaotic Eclipse einen Pwnie Award gewonnen. Annehmen wollte ihn wohl keiner - aus Angst vor Jobverlust. (Sicherheitslücke, Microsoft)",
+      "headline": "Anzeige: Einhell Stielstaubsauger mit Power-X-Change-Akku wieder zum Tiefpreis für 111 Euro bei ...",
+      "summary": "Der Einhell-Stielstaubsauger TE-SV 18 Li kommt mit Power-X-Change-Akku und Ladegerät und ist bei Amazon wieder zum Tiefpreis erhältlich. (Technik/Hardware, Akku)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/pwnie-award-microsoft-gewinnt-schampreis-fuer-angedrohte-strafverfolgung-2608-211753.html",
-      "publishedAt": "2026-08-10T08:49:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-einhell-stielstaubsauger-mit-power-x-change-akku-wieder-zum-tiefpreis-fuer-111-euro-bei-amazon-2608-211761.html",
+      "publishedAt": "2026-08-10T11:15:02.000Z"
     },
     {
-      "id": "n_8d5a0df48c",
+      "id": "n_0459356306",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Sony BDP-S1700 Blu-Ray-Player zum Aktionspreis unter 80 Euro bei Amazon",
-      "summary": "Der Sony BDP-S1700 spielt Blu-Rays in Full-HD-1080p mit Dolby TrueHD und DTS-HD Master Audio und ist aktuell im Angebot bei Amazon. (Technik/Hardware, Sony)",
+      "headline": "Anzeige: Russell Hobbs 9L Dual-Zone Fritteuse für deutlich unter 100 Euro",
+      "summary": "Zeit sparen beim Kochen: Die smarte 9L Heißluftfritteuse von Russell Hobbs gibt es jetzt für weit unter 100 Euro. Ninja bietet eine Premium-Alternative. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-sony-bdp-s1700-blu-ray-player-zum-aktionspreis-unter-80-euro-bei-amazon-2608-211754.html",
-      "publishedAt": "2026-08-10T08:44:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-russell-hobbs-9l-dual-zone-fritteuse-fuer-deutlich-unter-100-euro-2608-211674.html",
+      "publishedAt": "2026-08-10T10:46:04.000Z"
     },
     {
-      "id": "n_cb232101b3",
+      "id": "n_a0a12bc31f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Schlechtes Betriebssystem: Warum Windows 11 vernachlässigt wurde",
-      "summary": "Ein ehemaliger Microsoft-Mitarbeiter erklärt den schlechten Zustand von Windows 11 mit einer Mischung aus Rivalität und Prioritätenwechseln. (Windows 11, Microsoft)",
+      "headline": "Curl-Entwickler sucht Verstärkung: \"Niemand hier will mit Windows arbeiten\"",
+      "summary": "Der Open-Source-Entwickler Daniel Stenberg sucht Helfer für das Curl-Security-Team. Die derzeitigen sieben Mitglieder haben alle eine Windows-Aversion. (Open Source, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/schlechtes-betriebssystem-warum-windows-11-vernachlaessigt-wurde-2608-211751.html",
-      "publishedAt": "2026-08-10T08:35:02.000Z"
+      "url": "https://www.golem.de/news/curl-entwickler-sucht-verstaerkung-niemand-hier-will-mit-windows-arbeiten-2608-211760.html",
+      "publishedAt": "2026-08-10T10:31:01.000Z"
+    },
+    {
+      "id": "n_a5f9ecada3",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Battle for Mali base has killed dozens of militants, army says",
+      "summary": "The army says it was involved in fierce fighting but disputes that Islamists took control of the garrison.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T12:32:26.000Z"
+    },
+    {
+      "id": "n_bfa7e669ab",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Alleged rebel leader killed in Colombia as president targets armed groups",
+      "summary": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T12:23:21.000Z"
     },
     {
       "id": "n_91024385e6",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
-      "summary": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
+      "headline": "At least 13 killed in Ukrainian drone strike deep into Russia",
+      "summary": "Russian officials say another 75 people were injured by the attack in the Tatarstan region, one of the deadliest Ukrainian drone attacks on Russia since Moscow's full-scale invasion.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T10:03:58.000Z"
+      "publishedAt": "2026-08-10T12:13:22.000Z"
+    },
+    {
+      "id": "n_d482e8fd5c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "India police fire tear gas at protesters seeking exam reforms",
+      "summary": "Thousands of students and job seekers have gathered in Jharkhand state, weeks after the \"cockroach\" protests took place in Delhi.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c89nkz4vjyxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T10:41:04.000Z"
+    },
+    {
+      "id": "n_889ef1d7e2",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "World's oceans hit record-high July temperatures",
+      "summary": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T10:24:46.000Z"
     },
     {
       "id": "n_3318c3c4c0",
@@ -308,50 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-10T07:23:54.000Z"
-    },
-    {
-      "id": "n_a56f47b5cf",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'Body in suitcase' found in Australia turns out to be lifelike doll",
-      "summary": "Forensics revealed that the 'realistic' looking body was in fact not human.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T05:16:40.000Z"
-    },
-    {
-      "id": "n_830076b7f9",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-      "summary": "One person has died in the Bald Range wildfire in British Columbia which has spread over 53 sq miles.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T03:33:51.000Z"
-    },
-    {
-      "id": "n_dd05164639",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Evidence that South African special forces murdered top detective shared with BBC",
-      "summary": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T23:05:29.000Z"
-    },
-    {
-      "id": "n_bdac4c5218",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "How Kinahan's hearing unfolded inside the courtroom in Dublin",
-      "summary": "Suspected crime boss Daniel Kinahan appeared in court and was charged with directing the activities of a criminal organisation after being extradited from Dubai.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T21:26:56.000Z"
     },
     {
       "id": "n_c7dbdbf013",
@@ -442,6 +442,17 @@
       "publishedAt": "2026-08-05T13:06:43.000Z"
     },
     {
+      "id": "n_deeb72293c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Peer review is overwhelmed—can it survive in the AI era?",
+      "summary": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+      "publishedAt": "2026-08-10T11:00:47.000Z"
+    },
+    {
       "id": "n_a09b887db3",
       "type": "news",
       "topic": "tech",
@@ -519,15 +530,15 @@
       "publishedAt": "2026-08-07T19:00:17.000Z"
     },
     {
-      "id": "n_8521a3fbd6",
+      "id": "n_393ea70e1f",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
-      "summary": "19 new maps continue the story from MachineGames' other campaign additions.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
-      "publishedAt": "2026-08-07T18:00:02.000Z"
+      "headline": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "publishedAt": "2026-08-10T12:00:00.000Z"
     },
     {
       "id": "n_ec300a62a3",
@@ -607,15 +618,15 @@
       "publishedAt": "2026-08-07T22:48:24.000Z"
     },
     {
-      "id": "n_0d1fce0109",
+      "id": "n_2ad030d458",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "publishedAt": "2026-08-07T21:30:11.000Z"
+      "headline": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+      "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile ap",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "publishedAt": "2026-08-10T11:00:00.000Z"
     },
     {
       "id": "n_7c16bfed4c",
@@ -634,7 +645,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "An Amazon data center could have the worst polluting power plant in the country",
-      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received si",
+      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The New York Times. The new gas-burning plant in Pecos County, Texas, has received s",
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
       "publishedAt": "2026-08-08T17:53:34.000Z"
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
       "publishedAt": "2026-08-06T20:55:39.000Z"
-    },
-    {
-      "id": "n_4171057236",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Suno shares plans to combat spammy AI music",
-      "summary": "Suno’s AI vocalists could learn a thing or two from this glitchy image. | Image: Cath Virginia / The Verge, Getty Images Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a len",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "publishedAt": "2026-08-06T17:39:43.000Z"
     },
     {
       "id": "n_3d6d30af34",
@@ -871,6 +871,28 @@
       "publishedAt": "2026-07-27T18:00:00.000Z"
     },
     {
+      "id": "n_b38236bcc8",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The AI Slop Backlash Is Actually Having an Impact",
+      "summary": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+      "publishedAt": "2026-08-10T11:30:00.000Z"
+    },
+    {
+      "id": "n_a79e602815",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The Rise of the 1 am Job Interview",
+      "summary": "An AI interview is increasingly the first step of a hiring process. Since there’s no human on the other end, candidates are scheduling them whenever—even deep into the night.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
+      "publishedAt": "2026-08-10T10:30:00.000Z"
+    },
+    {
       "id": "n_fbc9268932",
       "type": "news",
       "topic": "ai",
@@ -937,28 +959,6 @@
       "publishedAt": "2026-08-07T01:16:55.000Z"
     },
     {
-      "id": "n_d465a3164d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Why Normal People Aren’t Using AI Agents",
-      "summary": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
-      "publishedAt": "2026-08-06T19:55:45.000Z"
-    },
-    {
-      "id": "n_5238bc5186",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
-      "summary": "In today’s episode of Uncanny Valley, we discuss how ICE has been collecting DNA samples of people who have no criminal convictions, including children, which end up in an FBI database indefinitely.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
-      "publishedAt": "2026-08-06T19:30:46.000Z"
-    },
-    {
       "id": "n_90d59cd2b4",
       "type": "news",
       "topic": "ai",
@@ -968,6 +968,17 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
       "publishedAt": "2026-08-10T10:05:36.000Z"
+    },
+    {
+      "id": "n_0da6fb777e",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "publishedAt": "2026-08-10T00:00:00.000Z"
     },
     {
       "id": "n_fd5b733b35",
@@ -1034,17 +1045,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
       "publishedAt": "2026-07-27T00:00:00.000Z"
-    },
-    {
-      "id": "n_37c9890bc3",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "publishedAt": "2026-07-23T00:00:00.000Z"
     },
     {
       "id": "n_a6ebe1d55c",
