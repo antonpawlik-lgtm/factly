@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-11T18:43:16.716Z",
+  "generatedAt": "2026-08-11T21:33:07.338Z",
   "items": [
+    {
+      "id": "n_a4e0f8be6d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Mehrheit im Parlament für Abschaffung der Todesstrafe im Libanon",
+      "summary": "Im Libanon gibt es keine Todesstrafe mehr. Dafür hat eine Mehrheit der Abgeordneten im Parlament gestimmt - bis auf den Hisbollah-Block. Statt der Todesstrafe droht Verurteilten künftig lebenslange Haft mit schwerer Zwangsarbeit.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/libanon-abschaffung-todesstrafe-100.html",
+      "publishedAt": "2026-08-11T19:26:29.000Z"
+    },
+    {
+      "id": "n_84c1101d16",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Kolumbien ruft nach Erdbeben Notstand aus",
+      "summary": "Mehr als 3.000 Menschen gelten nach dem schweren Erdbeben in Kolumbien als vermisst, mindestens 200 sind ums Leben gekommen. Der Präsident hat den Notstand ausgerufen, während Rettungskräfte in den Trümmern nach Verschütteten suchen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-108.html",
+      "publishedAt": "2026-08-11T19:11:42.000Z"
+    },
+    {
+      "id": "n_1d7ad1d8db",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Waldbrände in Hessen: Aufruf zum Wassersparen in mehreren Orten",
+      "summary": "Tausende Quadratmeter Wald stehen in Hessen in Flammen. Damit die Wasserreserven für die Brandbekämpfung ausreichen, sind Bewohner mehrerer Orte nun aufgerufen, möglichst nicht zu duschen oder zu baden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/hessen/waldbraende-hessen-wasser-sparen-100.html",
+      "publishedAt": "2026-08-11T19:07:28.000Z"
+    },
     {
       "id": "n_917057c354",
       "type": "news",
@@ -24,23 +57,12 @@
       "publishedAt": "2026-08-11T17:58:05.000Z"
     },
     {
-      "id": "n_84c1101d16",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Kolumbien ruft nach Erdbeben Notstand aus",
-      "summary": "Mehr als 3.000 Menschen gelten nach dem schweren Erdbeben in Kolumbien als vermisst, mindestens 200 sind ums Leben gekommen. Der Präsident hat den Notstand ausgerufen, während Rettungskräfte in den Trümmern nach Verschütteten suchen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-108.html",
-      "publishedAt": "2026-08-11T17:37:20.000Z"
-    },
-    {
       "id": "n_3848c36029",
       "type": "news",
       "topic": "general",
       "lang": "de",
       "headline": "Wie ist die Rechtslage nach dem Drohnenfund am Flughafen Leipzig?",
-      "summary": "Der Flughafen Leipzig/Halle ist offenbar nur knapp einem Drohnen-Anschlag entgangen. Der Generalbundesanwalt ermittelt, auch das Völkerrecht könnte greifen. Eine rechtliche Einordnung von Christoph Kehlbach, ARD-Rechtsredaktion",
+      "summary": "Der Flughafen Leipzig/Halle ist offenbar nur knapp einem Drohnen-Anschlag entgangen. Der Generalbundesanwalt ermittelt, auch das Völkerrecht könnte greifen. Eine rechtliche Einordnung von Christoph Kehlbach.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/drohnenfund-flughafen-leipzig-rechtslage-100.html",
       "publishedAt": "2026-08-11T17:00:56.000Z"
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/ungarn-praesident-baka-102.html",
       "publishedAt": "2026-08-11T15:38:52.000Z"
-    },
-    {
-      "id": "n_d8a1de636f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Weitere Bundesländer lockern Lkw-Sonntagsfahrverbot",
-      "summary": "Immer mehr Bundesländer schließen sich einer Lockerung des Lkw-Sonntagsfahrverbots an. Auch Hessen, Hamburg und Schleswig-Holstein reagieren damit nun auf die niedrigen Pegelstände. Das Niedrigwasser beeinflusst auch die Spritpreise.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/lkw-fahrverbot-100.html",
-      "publishedAt": "2026-08-11T15:28:26.000Z"
-    },
-    {
-      "id": "n_e31bd4273e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "DR Kongo: Müttersterblichkeit seit Ebola-Ausbruch fast verdoppelt",
-      "summary": "Die Demokratische Republik Kongo gehört zu den gefährlichsten Ländern, um ein Kind zu bekommen. Seit dem Ebola-Ausbruch hat sich die Lage weiter verschärft: Aus Angst verzichten viele Schwangere auf wichtige Arztbesuche. Von C. Imlau.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-muettersterblichkeit-100.html",
-      "publishedAt": "2026-08-11T14:07:53.000Z"
     },
     {
       "id": "n_e7e7851fc2",
@@ -266,6 +266,50 @@
       "publishedAt": "2026-08-11T15:10:06.000Z"
     },
     {
+      "id": "n_00d5a73415",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+      "summary": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T21:14:56.000Z"
+    },
+    {
+      "id": "n_c79c0ee484",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
+      "summary": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T20:39:42.000Z"
+    },
+    {
+      "id": "n_a3d4ad03e3",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Luigi Mangione murder trial to have anonymous jury and overflow seating",
+      "summary": "The judge overseeing the state murder trial has set out some rules for public access, but other questions remain about the high-profile case.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T19:12:54.000Z"
+    },
+    {
+      "id": "n_b00909dfa9",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+      "summary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T19:09:52.000Z"
+    },
+    {
       "id": "n_de1c5dc5e6",
       "type": "news",
       "topic": "general",
@@ -299,17 +343,6 @@
       "publishedAt": "2026-08-11T16:19:44.000Z"
     },
     {
-      "id": "n_a3d4ad03e3",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Luigi Mangione appears in court as questions remain in case ahead of murder trial",
-      "summary": "Mangione's lawyers have yet to signal their defence strategy, while prosecutors are in a battle over evidence.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T16:12:35.000Z"
-    },
-    {
       "id": "n_bb38aa357e",
       "type": "news",
       "topic": "general",
@@ -321,37 +354,15 @@
       "publishedAt": "2026-08-11T16:10:55.000Z"
     },
     {
-      "id": "n_8884f6153b",
+      "id": "n_c706b5ec29",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
-      "summary": "US media reports say the president secretly left via a catering truck to avoid a threat to his life from Iran.",
+      "headline": "Tech Life",
+      "summary": "For years, schools have posted photos of their pupils online. But could they be misused?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T15:53:53.000Z"
-    },
-    {
-      "id": "n_24e94659b6",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Houthis reportedly kill four in first deadly attack since start of Iran war",
-      "summary": "The attack was reportedly carried out by Iranian proxy on a small cargo ship, as tensions in region over the US-Iran conflict remain high.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T15:41:13.000Z"
-    },
-    {
-      "id": "n_8c94fd507d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Lebanon parliament votes to abolish death penalty",
-      "summary": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to end capital punishment.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T15:24:07.000Z"
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy8?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T19:30:00.000Z"
     },
     {
       "id": "n_bffbf1c785",
@@ -431,15 +442,37 @@
       "publishedAt": "2026-08-06T14:50:54.000Z"
     },
     {
-      "id": "n_baea9ce8bf",
+      "id": "n_31b7868f82",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "AI or real? BBC analyses viral China disaster videos",
-      "summary": "As weather events become more extreme, fake videos are being shared rapidly online, and it’s causing real world problems in China.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T22:00:32.000Z"
+      "headline": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
+      "summary": "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
+      "publishedAt": "2026-08-11T20:27:16.000Z"
+    },
+    {
+      "id": "n_f1a9ee4ad5",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
+      "summary": "But will Gemini's surge survive slowing model releases?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
+      "publishedAt": "2026-08-11T19:48:12.000Z"
+    },
+    {
+      "id": "n_d552df63b3",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Used EV buying guide: The $30,000 edition",
+      "summary": "Depending on the model, you might have hundreds to choose from—or just one.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/08/used-ev-buying-guide-the-30000-edition/",
+      "publishedAt": "2026-08-11T18:31:53.000Z"
     },
     {
       "id": "n_d9cc4f6795",
@@ -447,7 +480,7 @@
       "topic": "tech",
       "lang": "en",
       "headline": "Less than 2.5% of Taylor Farms' recalled lettuce went to Taco Bells",
-      "summary": "FDA report finally reveals where Taylor Farms sent its lettuce—and it raises questions.",
+      "summary": "FDA report reveals where Taylor Farms sent its lettuce—and it raises questions.",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
       "publishedAt": "2026-08-11T18:00:14.000Z"
@@ -497,37 +530,26 @@
       "publishedAt": "2026-08-11T13:15:24.000Z"
     },
     {
-      "id": "n_cfbcaf4662",
+      "id": "n_25809d3aff",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
-      "summary": "Why passkey apps treat Windows differently than other operating systems.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
-      "publishedAt": "2026-08-11T11:30:08.000Z"
+      "headline": "OpenAI launches ChatGPT desktop app for Linux",
+      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "publishedAt": "2026-08-11T19:15:35.000Z"
     },
     {
-      "id": "n_5dd6b19cff",
+      "id": "n_8b18fe174b",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
-      "summary": "Our discussion takes place live on August 11 at 2:30 pm ET.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
-      "publishedAt": "2026-08-10T22:23:43.000Z"
-    },
-    {
-      "id": "n_2d01a61a8b",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-      "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
-      "publishedAt": "2026-08-10T22:13:03.000Z"
+      "headline": "Google’s Gemini app surges to 1 billion users",
+      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "publishedAt": "2026-08-11T18:49:12.000Z"
     },
     {
       "id": "n_34ac2f6b97",
@@ -596,26 +618,15 @@
       "publishedAt": "2026-08-11T00:03:18.000Z"
     },
     {
-      "id": "n_c1d381bf28",
+      "id": "n_72f52ad1b9",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-      "publishedAt": "2026-08-10T23:56:15.000Z"
-    },
-    {
-      "id": "n_c457f9f01c",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-      "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-      "publishedAt": "2026-08-10T20:53:02.000Z"
+      "headline": "ChatGPT and Gemini both just passed 1 billion users",
+      "summary": "That’s a lot of people chatting with their AI friends all day. | Image: Google For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "publishedAt": "2026-08-11T19:41:42.000Z"
     },
     {
       "id": "n_4b76f34b93",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
       "publishedAt": "2026-08-11T12:22:20.000Z"
-    },
-    {
-      "id": "n_69a3ccd0de",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The AI takeover of mathematics has begun",
-      "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discip",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "publishedAt": "2026-08-11T11:00:00.000Z"
     },
     {
       "id": "n_3d6d30af34",
