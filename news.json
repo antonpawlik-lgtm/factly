@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-08-11T00:46:24.822Z",
+  "generatedAt": "2026-08-11T04:09:40.972Z",
   "items": [
+    {
+      "id": "n_cd1821e9af",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Mindestens fünf Tote: Neue russische Luftangriffe auf Ukraine",
+      "summary": "In der Nacht hat die Ukraine neue russische Angriffe auf die Hauptstadt Kiew und weitere Städte gemeldet. In Saporischschja sind mindestens fünf bei Angriffen Menschen getötet worden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-194.html",
+      "publishedAt": "2026-08-11T03:41:59.000Z"
+    },
+    {
+      "id": "n_6e9de66519",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ramelow für Zusammenarbeit von Linkspartei und CDU in Sachsen-Anhalt",
+      "summary": "In Thüringen gibt es seit Jahren eine Zusammenarbeit zwischen Linkspartei und CDU - weil keine Partei im Landtag mit der AfD koalieren will. So eine Kooperation empfiehlt Thüringens Ex-Regierungschef Ramelow auch Sachsen-Anhalt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/ramelow-linke-cdu-sachsen-anhalt-100.html",
+      "publishedAt": "2026-08-11T03:32:39.000Z"
+    },
+    {
+      "id": "n_84c1101d16",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Erdbeben mit mehr als 100 Toten: Notstand in Kolumbien",
+      "summary": "Mehr als 2.000 Menschen gelten nach dem schweren Erdbeben in Kolumbien als vermisst, mehr als 100 sind ums Leben gekommen. Der Präsident hat den Notstand ausgerufen, während Rettungskräfte in den Trümmern nach Verschütteten suchen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-108.html",
+      "publishedAt": "2026-08-11T03:24:18.000Z"
+    },
+    {
+      "id": "n_9cc572925b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ukraine: Kann Europa im Drohnen-Wettlauf mithalten?",
+      "summary": "Um sich gegen die russischen Angriffe wehren zu können, braucht die Ukraine immer bessere Drohnen - zu möglichst niedrigen Preisen. Die meisten Drohnen aus Europa sind bisher zu teuer. Von Jerzy Sobotta.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnen-aufruestung-100.html",
+      "publishedAt": "2026-08-11T01:59:10.000Z"
+    },
     {
       "id": "n_9db07b65c9",
       "type": "news",
@@ -44,50 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/mv-bayern-lkw-fahrverbot-100.html",
       "publishedAt": "2026-08-10T18:12:50.000Z"
-    },
-    {
-      "id": "n_3e24a7ecda",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Flughafen Leipzig/Halle - Die Methode \"Drohne\"",
-      "summary": "Laut Sicherheitskreisen soll der mutmaßliche Anschlagsversuch am Flughafen Leipzig Parallelen zu der spektakulären Anschlagsserie auf Luftfrachtpakete aufweisen. Recherchen von WDR, NDR und SZ zeigen, wie schon damals Drohnen eine wichtige Rolle spielten.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/investigativ/ndr-wdr/drohnen-russland-104.html",
-      "publishedAt": "2026-08-10T17:15:49.000Z"
-    },
-    {
-      "id": "n_6b91c604d2",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Iran erwägt Gebühren für \"Dienstleistungen\" in Straße von Hormus",
-      "summary": "Noch immer ist unklar, wie es mit der Straße von Hormus weitergeht. Iran erklärte nun, mit Oman an neuen Regeln für die Meerenge zu arbeiten. Demnach erwägt Teheran, dort Gebühren zu erheben - als Entgelt für Dienstleistungen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/iran-gebuehren-hormus-100.html",
-      "publishedAt": "2026-08-10T16:47:47.000Z"
-    },
-    {
-      "id": "n_9dfc5ac64b",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Partielle Sonnenfinsternis: So schützen Sie Ihre Augen",
-      "summary": "Am Mittwoch schiebt sich der Mond über Deutschland zwischen Sonne und Erde und erzeugt eine partielle Sonnenfinsternis. Viele wollen das Himmelsereignis verfolgen, aber es gibt dabei ein paar Dinge zu beachten. Von Juliane Orth.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/sonnenfinsternis-schutzbrille-100.html",
-      "publishedAt": "2026-08-10T16:43:06.000Z"
-    },
-    {
-      "id": "n_643fb6a54c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Spanien: Vorfreude auf Sonnenfinsternis, Angst vor Waldbränden",
-      "summary": "Über weiten Teilen Spaniens ist am Mittwoch die totale Sonnenfinsternis zu sehen. Einheimische und Urlauber wollen sich das Spektakel nicht entgehen lassen. Wegen der Waldbrände gelten strenge Regeln. Nach Mallorca wurde sogar die Armee geschickt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/sonnenfinsternis-spanien-balearen-100.html",
-      "publishedAt": "2026-08-10T16:41:58.000Z"
     },
     {
       "id": "n_e47fea7a86",
@@ -266,6 +266,17 @@
       "publishedAt": "2026-08-10T14:46:02.000Z"
     },
     {
+      "id": "n_4152215b50",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "At least 132 killed in Colombia's largest earthquake in years",
+      "summary": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T04:06:07.000Z"
+    },
+    {
       "id": "n_7c1d08a3a9",
       "type": "news",
       "topic": "general",
@@ -274,7 +285,51 @@
       "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T23:03:52.000Z"
+      "publishedAt": "2026-08-11T02:43:01.000Z"
+    },
+    {
+      "id": "n_d61cae03e0",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Young girl finds whale stranded on Australian beach",
+      "summary": "The humpback whale later successfully freed itself after the tide rose in Queensland, Australia.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c1w148g9e5vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T01:31:10.000Z"
+    },
+    {
+      "id": "n_fc634f1e5e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Jackie, the famous California bald eagle, dies after weeks of intensive care",
+      "summary": "Jackie and her partner, Shadow, had been watched by millions of people over the years through the Big Bear Eagle Nest Cam.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62vj8eywdlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T22:40:23.000Z"
+    },
+    {
+      "id": "n_b8b7373b56",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+      "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T22:31:42.000Z"
+    },
+    {
+      "id": "n_199631baf6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "The lonely Chinese men being conned by fake brides",
+      "summary": "\"Flash marriage\" scams are an extreme symptom of a demographic crisis long in the making in China.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T22:02:21.000Z"
     },
     {
       "id": "n_47a810991e",
@@ -288,81 +343,15 @@
       "publishedAt": "2026-08-10T21:06:27.000Z"
     },
     {
-      "id": "n_48ce89dc66",
+      "id": "n_93708f6661",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-      "summary": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
+      "headline": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings",
+      "summary": "At least 111 people have been killed and dozens more injured after the 7.4 temblor hit the western part of the country, according to local officials.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T19:17:11.000Z"
-    },
-    {
-      "id": "n_53527909ad",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "New train service connects Finland and Sweden for first time in decades",
-      "summary": "The service will enable rail travel from Portugal to Lapland - what is believed to be the longest train journey in Europe.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T18:28:11.000Z"
-    },
-    {
-      "id": "n_fef36d8ee7",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Watch: What we know about suspected crime boss Daniel Kinahan",
-      "summary": "Suspected crime boss Daniel Kinahan, one of the world's most wanted men, has spent his first night in custody in Ireland after being extradited from Dubai.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cm2g97nnr5go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T18:24:45.000Z"
-    },
-    {
-      "id": "n_832172e690",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Russian court bars only anti-war party from standing in parliamentary elections",
-      "summary": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T18:19:41.000Z"
-    },
-    {
-      "id": "n_f7358b3b76",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "We are chasing Ebola virus - it is ahead of us, WHO warns",
-      "summary": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T17:50:29.000Z"
-    },
-    {
-      "id": "n_affe6e9390",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "30 years later, a former gang member will stand trial for Tupac's murder",
-      "summary": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T16:52:47.000Z"
-    },
-    {
-      "id": "n_b8b7373b56",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Nvidia gets $500bn from major investors to develop AI infrastructure",
-      "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T22:31:42.000Z"
+      "url": "https://www.bbc.co.uk/news/videos/cz6473llqpwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T20:55:34.000Z"
     },
     {
       "id": "n_c7dbdbf013",
@@ -1045,186 +1034,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
       "publishedAt": "2026-07-27T09:32:20.000Z"
-    },
-    {
-      "id": "n_a6ebe1d55c",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepMind Just Changed How AI Sees The World",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
-      "thumbnail": "https://i.ytimg.com/vi/vO6SWG-jxvE/hqdefault.jpg",
-      "publishedAt": "2026-08-07T08:22:00.000Z"
-    },
-    {
-      "id": "n_cbc630e184",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Billion Dollar AI Race Just Broke",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
-      "thumbnail": "https://i.ytimg.com/vi/ppQh4Tc9BmM/hqdefault.jpg",
-      "publishedAt": "2026-08-05T13:54:29.000Z"
-    },
-    {
-      "id": "n_4b6553db46",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Another DeepSeek Moment Has Arrived",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
-      "thumbnail": "https://i.ytimg.com/vi/bm1BjOjS7sQ/hqdefault.jpg",
-      "publishedAt": "2026-08-03T09:47:34.000Z"
-    },
-    {
-      "id": "n_cd099417b9",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
-      "thumbnail": "https://i.ytimg.com/vi/8B05cy3UuSE/hqdefault.jpg",
-      "publishedAt": "2026-08-02T15:01:10.000Z"
-    },
-    {
-      "id": "n_49a7d5405f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
-      "publishedAt": "2026-07-28T20:02:11.000Z"
-    },
-    {
-      "id": "n_39feb22ff6",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
-      "thumbnail": "https://i.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
-      "publishedAt": "2026-06-30T21:16:13.000Z"
-    },
-    {
-      "id": "n_6a7b36e7cd",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
-      "thumbnail": "https://i.ytimg.com/vi/1M3Vdl6DRkU/hqdefault.jpg",
-      "publishedAt": "2026-05-29T16:18:31.000Z"
-    },
-    {
-      "id": "n_c402ebf7aa",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=nepKKz-MzFM",
-      "thumbnail": "https://i.ytimg.com/vi/nepKKz-MzFM/hqdefault.jpg",
-      "publishedAt": "2026-05-06T22:03:16.000Z"
-    },
-    {
-      "id": "n_cdc415b5c6",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The safest way to store Bitcoin was just hacked...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=2X2V3xv_jik",
-      "thumbnail": "https://i.ytimg.com/vi/2X2V3xv_jik/hqdefault.jpg",
-      "publishedAt": "2026-08-05T18:08:46.000Z"
-    },
-    {
-      "id": "n_b67d3be64b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did Anthropic just kill the indie hacker...?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=jxGJT1weu4w",
-      "thumbnail": "https://i.ytimg.com/vi/jxGJT1weu4w/hqdefault.jpg",
-      "publishedAt": "2026-07-29T16:33:51.000Z"
-    },
-    {
-      "id": "n_c930172539",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The most interesting \"hack\" in history...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=KOpTWx1Eou4",
-      "thumbnail": "https://i.ytimg.com/vi/KOpTWx1Eou4/hqdefault.jpg",
-      "publishedAt": "2026-07-23T16:53:37.000Z"
-    },
-    {
-      "id": "n_c30c73dbe7",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Open-weight AI just hit 2.8 trillion parameters…",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=YP73B9D20V4",
-      "thumbnail": "https://i.ytimg.com/vi/YP73B9D20V4/hqdefault.jpg",
-      "publishedAt": "2026-07-22T17:43:52.000Z"
-    },
-    {
-      "id": "n_5f31592cac",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Galaxy Z Fold 8 Review: Honeymoon's Over",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=Z6z_feacXW8",
-      "thumbnail": "https://i.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg",
-      "publishedAt": "2026-08-01T00:05:00.000Z"
-    },
-    {
-      "id": "n_bf51349fdf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Framework 13 Pro: The Modular Laptop is Real!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
-      "thumbnail": "https://i.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg",
-      "publishedAt": "2026-07-27T15:38:21.000Z"
-    },
-    {
-      "id": "n_64ebc2a7bf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
-      "thumbnail": "https://i.ytimg.com/vi/8Hx2yvWSgs0/hqdefault.jpg",
-      "publishedAt": "2026-07-22T13:01:05.000Z"
     }
   ]
 }
