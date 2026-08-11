@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-10T18:39:25.964Z",
+  "generatedAt": "2026-08-11T00:46:24.822Z",
   "items": [
+    {
+      "id": "n_9db07b65c9",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Parlament in der Türkei billigt Gesetz für Frieden mit der PKK",
+      "summary": "Mit großer Mehrheit hat das türkische Parlament ein Gesetz gebilligt, das den Friedensprozess mit der verbotenen kurdischen Arbeiterpartei PKK voranbringen soll. Es sieht Straferleichterungen für viele Mitglieder vor - geknüpft an Bedingungen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/tuerkei-pkk-gesetz-100.html",
+      "publishedAt": "2026-08-10T22:05:47.000Z"
+    },
+    {
+      "id": "n_cc364d1797",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Erdbeben in Kolumbien - viele Tote befürchtet",
+      "summary": "Bei einem schweren Erdbeben in Kolumbien sind viele Menschen ums Leben gekommen. Der Präsident nannte inzwischen eine Zahl von 111 Toten. Der Geologische Dienst des Landes spricht vom schwersten Erdbeben seit einem Jahrzehnt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-102.html",
+      "publishedAt": "2026-08-10T19:07:15.000Z"
+    },
+    {
+      "id": "n_9f7e968c50",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Russische Oppositionspartei Jabloko von Parlamentswahl ausgeschlossen",
+      "summary": "Die russische Oppositionspartei Jabloko stellt sich offen gegen den Krieg - nun hat das Oberste Gericht sie von der Parlamentswahl ausgeschlossen. Geklagt hatte eine kremltreue Partei. Jabloko will das Urteil anfechten.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/russland-jabloko-100.html",
+      "publishedAt": "2026-08-10T18:48:40.000Z"
+    },
     {
       "id": "n_54be46c76b",
       "type": "news",
@@ -11,17 +44,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/mv-bayern-lkw-fahrverbot-100.html",
       "publishedAt": "2026-08-10T18:12:50.000Z"
-    },
-    {
-      "id": "n_cc364d1797",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Mehr als 50 Tote bei Erdbeben in Kolumbien",
-      "summary": "Bei einem schweren Erdbeben der Stärke 7,4 in Kolumbien sind mindestens 50 Menschen ums Leben gekommen. Der Geologische Dienst des Landes spricht vom schwersten Erdbeben seit einem Jahrzehnt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-102.html",
-      "publishedAt": "2026-08-10T17:32:46.000Z"
     },
     {
       "id": "n_3e24a7ecda",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/sonnenfinsternis-spanien-balearen-100.html",
       "publishedAt": "2026-08-10T16:41:58.000Z"
-    },
-    {
-      "id": "n_fc887355f4",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Dürre in Europa: Ernteausfälle, trockene Flüsse und Wassersparen",
-      "summary": "In vielen Ländern Europas herrscht extreme Trockenheit: Von den Niederlanden bis Bulgarien trocknen die Gewässer aus, Landwirte erwarten massive Ernterückgänge, Kraftwerke werden abgeschaltet. Ein Blick in verschiedene Regionen Europas.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/trockenheit-auswirkungen-europa-100.html",
-      "publishedAt": "2026-08-10T16:39:59.000Z"
-    },
-    {
-      "id": "n_da860baf0e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: DAX verteidigt jüngste Gewinne",
-      "summary": "Die Flut an Geschäftszahlen von den Unternehmen ebbt ab, nun rücken wieder die Zinsen in den Blick. Während jüngste Daten aus den USA Entspannung signalisierten, zieht nun auch der Ölpreis wieder an.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oelpreise-iran-100.html",
-      "publishedAt": "2026-08-10T16:30:41.000Z"
     },
     {
       "id": "n_e47fea7a86",
@@ -266,6 +266,39 @@
       "publishedAt": "2026-08-10T14:46:02.000Z"
     },
     {
+      "id": "n_7c1d08a3a9",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T23:03:52.000Z"
+    },
+    {
+      "id": "n_47a810991e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Canada flight cancelled after child refuses to wear seat belt",
+      "summary": "The incident has sparked a debate over child safety and discipline on commercial planes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T21:06:27.000Z"
+    },
+    {
+      "id": "n_48ce89dc66",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+      "summary": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T19:17:11.000Z"
+    },
+    {
       "id": "n_53527909ad",
       "type": "news",
       "topic": "general",
@@ -310,48 +343,26 @@
       "publishedAt": "2026-08-10T17:50:29.000Z"
     },
     {
-      "id": "n_48ce89dc66",
+      "id": "n_affe6e9390",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
-      "summary": "More than 12,000 people have been forced to evacuate over the weekend after a wildfire quickly tore through Canada's picturesque Okanagan region.",
+      "headline": "30 years later, a former gang member will stand trial for Tupac's murder",
+      "summary": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T16:10:56.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T16:52:47.000Z"
     },
     {
-      "id": "n_3318c3c4c0",
+      "id": "n_b8b7373b56",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Former Thai MP allegedly kills official and confesses on YouTube",
-      "summary": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
+      "headline": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+      "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T15:21:27.000Z"
-    },
-    {
-      "id": "n_457c7b8c1b",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-      "summary": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T14:43:08.000Z"
-    },
-    {
-      "id": "n_91024385e6",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "At least 13 killed in Ukrainian drone strike deep into Russia",
-      "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T14:34:25.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T22:31:42.000Z"
     },
     {
       "id": "n_c7dbdbf013",
@@ -431,15 +442,70 @@
       "publishedAt": "2026-08-05T14:04:43.000Z"
     },
     {
-      "id": "n_832b203154",
+      "id": "n_5dd6b19cff",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Disney agrees deal to let TikTokers use its films and TV shows in videos",
-      "summary": "A deal between will allow some creators to use clips from Disney films and TV shows in their videos.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c235ev9knm4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T13:06:43.000Z"
+      "headline": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
+      "summary": "Our discussion takes place live on August 11 at 3 pm ET.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
+      "publishedAt": "2026-08-10T22:23:43.000Z"
+    },
+    {
+      "id": "n_2d01a61a8b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+      "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+      "publishedAt": "2026-08-10T22:13:03.000Z"
+    },
+    {
+      "id": "n_7d0a17b018",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
+      "summary": "Trump falsely claimed the MMR vaccine is \"quite lethal\" and linked shots to autism.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
+      "publishedAt": "2026-08-10T21:42:56.000Z"
+    },
+    {
+      "id": "n_884b17de54",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Developer Cold Iron Studios shuts down cloud version of $60 game with no refunds",
+      "summary": "A reminder of the perils of digital ownership.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
+      "publishedAt": "2026-08-10T21:26:38.000Z"
+    },
+    {
+      "id": "n_abf634c5f1",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Amazon backs power plant that may become top source of US climate pollution",
+      "summary": "Amazon announces first off-the-grid data center in race to reap AI profits.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+      "publishedAt": "2026-08-10T20:45:52.000Z"
+    },
+    {
+      "id": "n_f104e949dc",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Zuckerberg’s superyacht ignored emergency channel, failed to aid stranded boat",
+      "summary": "Zuckerberg’s superyacht and support ship were slow to heed Coast Guard call.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/",
+      "publishedAt": "2026-08-10T20:01:15.000Z"
     },
     {
       "id": "n_0bc9cb9bb3",
@@ -464,70 +530,48 @@
       "publishedAt": "2026-08-10T16:37:08.000Z"
     },
     {
-      "id": "n_fa72e9ffca",
+      "id": "n_1353da4a7f",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Valve slowly expands SteamOS support on non-Valve hardware",
-      "summary": "New update includes improvements for the Intel-based MSI Claw 8 EX AI+ among others.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/08/valve-slowly-expands-steamos-support-on-non-valve-hardware/",
-      "publishedAt": "2026-08-10T16:01:04.000Z"
+      "headline": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "summary": "San Francisco's housing market is in trouble again.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "publishedAt": "2026-08-11T00:03:18.000Z"
     },
     {
-      "id": "n_091d908b07",
+      "id": "n_c1d381bf28",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Following Epic loss, Google has started hosting rival app stores in the Play Store",
-      "summary": "Aptoide has become the first app store distributed inside Google Play under a judge's order.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/",
-      "publishedAt": "2026-08-10T15:44:45.000Z"
+      "headline": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "publishedAt": "2026-08-10T23:56:15.000Z"
     },
     {
-      "id": "n_e24aabdc39",
+      "id": "n_c457f9f01c",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "One of China's workhorse rockets just exploded in flight",
-      "summary": "If the failure involved the YF-100 engine, there are broader concerns for China's space program.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/08/one-of-chinas-workhorse-rockets-just-exploded-in-flight/",
-      "publishedAt": "2026-08-10T15:05:00.000Z"
+      "headline": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "publishedAt": "2026-08-10T20:53:02.000Z"
     },
     {
-      "id": "n_f43463c646",
+      "id": "n_f1e480bffe",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Dogs can tell if you're scared or sad",
-      "summary": "fMRI scans show happiness, fear, anger, and sadness have distinct brain activity patterns in doggy brains.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/08/dogs-can-tell-if-youre-scared-or-sad/",
-      "publishedAt": "2026-08-10T15:00:53.000Z"
-    },
-    {
-      "id": "n_049050b1fb",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "2026 Subaru Outback review: Great interior, refined drive, divisive looks",
-      "summary": "The newest Outback sticks to the script; that's no bad thing if you like Outbacks.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/08/2026-subaru-outback-limited-review-boxy-outside-almost-premium-inside/",
-      "publishedAt": "2026-08-10T14:49:21.000Z"
-    },
-    {
-      "id": "n_e57074f058",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "A researcher bought noreply.net. Companies started sending him secrets.",
-      "summary": "Companies treat some email domains as digital trash cans, despite the risks.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
-      "publishedAt": "2026-08-10T14:25:50.000Z"
+      "headline": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "publishedAt": "2026-08-10T20:04:24.000Z"
     },
     {
       "id": "n_e7d6356c97",
@@ -574,48 +618,15 @@
       "publishedAt": "2026-08-09T19:20:32.000Z"
     },
     {
-      "id": "n_9d1b3cc68d",
+      "id": "n_638db6f13c",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-      "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-      "publishedAt": "2026-08-09T15:00:00.000Z"
-    },
-    {
-      "id": "n_3f7c800bfd",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The AI safety test is becoming a safety risk",
-      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with increasingly powerful models.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "publishedAt": "2026-08-09T14:30:00.000Z"
-    },
-    {
-      "id": "n_2b6c433816",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Planned Amazon data center could become the biggest climate polluter in the US",
-      "summary": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "publishedAt": "2026-08-08T21:24:02.000Z"
-    },
-    {
-      "id": "n_c932997800",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI acquires presentation startup NextSlide",
-      "summary": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presentation.”",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "publishedAt": "2026-08-08T19:41:13.000Z"
+      "headline": "Mark Zuckerberg doesn’t understand how to live",
+      "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise. Wha",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+      "publishedAt": "2026-08-10T22:00:00.000Z"
     },
     {
       "id": "n_38e9f5ee00",
@@ -695,17 +706,6 @@
       "publishedAt": "2026-08-07T18:59:46.000Z"
     },
     {
-      "id": "n_d128983602",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthro",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "publishedAt": "2026-08-07T18:40:34.000Z"
-    },
-    {
       "id": "n_3d6d30af34",
       "type": "news",
       "topic": "ai",
@@ -783,6 +783,17 @@
       "publishedAt": "2026-01-07T20:00:00.000Z"
     },
     {
+      "id": "n_00b23f25dd",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "AI professors are negotiating the new realities of academic research",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some o",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "publishedAt": "2026-08-10T20:00:00.000Z"
+    },
+    {
       "id": "n_2231dcf4c3",
       "type": "news",
       "topic": "ai",
@@ -858,17 +869,6 @@
       "source": "MIT Technology Review",
       "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
       "publishedAt": "2026-07-28T09:18:57.000Z"
-    },
-    {
-      "id": "n_7b46dd318f",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, ano",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "publishedAt": "2026-07-27T18:00:00.000Z"
     },
     {
       "id": "n_b38236bcc8",
