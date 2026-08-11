@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-08-11T15:46:51.116Z",
+  "generatedAt": "2026-08-11T18:43:16.716Z",
   "items": [
+    {
+      "id": "n_917057c354",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Trump wegen US-Sanktionen gegen Internationalen Strafgerichtshof verklagt",
+      "summary": "Im Februar 2025 hatte die US-Regierung unter Trump Sanktionen gegen Vertreter des Internationalen Strafgerichtshofs erlassen. Dafür wird der US-Präsident nun von mehreren Menschenrechtsorganisationen verklagt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-klage-trump-strafgerichtshof-100.html",
+      "publishedAt": "2026-08-11T18:20:43.000Z"
+    },
+    {
+      "id": "n_0deb785bbd",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Todesurteil für Assad - ein Schritt zu Gerechtigkeit in Syrien?",
+      "summary": "Vor fast zwei Jahren floh Syriens langjähriger Machthaber. Jetzt wurde Assad für seine Verbrechen in Abwesenheit zum Tode verurteilt. Für viele Syrer ein bedeutender Schritt - doch sie hoffen auf mehr. Von Nina Amin.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/syrien-assad-todesstrafe-100.html",
+      "publishedAt": "2026-08-11T17:58:05.000Z"
+    },
+    {
+      "id": "n_84c1101d16",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Kolumbien ruft nach Erdbeben Notstand aus",
+      "summary": "Mehr als 3.000 Menschen gelten nach dem schweren Erdbeben in Kolumbien als vermisst, mindestens 200 sind ums Leben gekommen. Der Präsident hat den Notstand ausgerufen, während Rettungskräfte in den Trümmern nach Verschütteten suchen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-108.html",
+      "publishedAt": "2026-08-11T17:37:20.000Z"
+    },
+    {
+      "id": "n_3848c36029",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wie ist die Rechtslage nach dem Drohnenfund am Flughafen Leipzig?",
+      "summary": "Der Flughafen Leipzig/Halle ist offenbar nur knapp einem Drohnen-Anschlag entgangen. Der Generalbundesanwalt ermittelt, auch das Völkerrecht könnte greifen. Eine rechtliche Einordnung von Christoph Kehlbach, ARD-Rechtsredaktion",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/drohnenfund-flughafen-leipzig-rechtslage-100.html",
+      "publishedAt": "2026-08-11T17:00:56.000Z"
+    },
+    {
+      "id": "n_7218136a92",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: DAX erreicht neue Höhen",
+      "summary": "Kommt es vielleicht doch bald zu einer Verständigung im Iran-Krieg? Neue Hoffnungen darauf haben den deutschen Aktienmarkt am Nachmittag beflügelt. Der DAX steigt auf ein neues Rekordhoch.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-brent-100.html",
+      "publishedAt": "2026-08-11T16:15:59.000Z"
+    },
     {
       "id": "n_39ab5123d7",
       "type": "news",
@@ -24,17 +79,6 @@
       "publishedAt": "2026-08-11T15:28:26.000Z"
     },
     {
-      "id": "n_84c1101d16",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Erdbeben mit mehr als 160 Toten: Notstand in Kolumbien",
-      "summary": "Mehr als 2.000 Menschen gelten nach dem schweren Erdbeben in Kolumbien als vermisst, mehr als 160 sind ums Leben gekommen. Der Präsident hat den Notstand ausgerufen, während Rettungskräfte in den Trümmern nach Verschütteten suchen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-108.html",
-      "publishedAt": "2026-08-11T15:14:38.000Z"
-    },
-    {
       "id": "n_e31bd4273e",
       "type": "news",
       "topic": "general",
@@ -44,50 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-muettersterblichkeit-100.html",
       "publishedAt": "2026-08-11T14:07:53.000Z"
-    },
-    {
-      "id": "n_1d7ad1d8db",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Waldbrände in Hessen: Aufruf zum Wassersparen in mehreren Orten",
-      "summary": "Tausende Quadratmeter Wald stehen in Hessen in Flammen. Damit die Wasserreserven für die Brandbekämpfung ausreichen, sind Bewohner mehrerer Orte nun aufgerufen, möglichst nicht zu duschen oder zu baden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/hessen/waldbraende-hessen-wasser-sparen-100.html",
-      "publishedAt": "2026-08-11T13:43:07.000Z"
-    },
-    {
-      "id": "n_3518f166c0",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Syriens Ex-Machthaber Assad in Abwesenheit zum Tode verurteilt",
-      "summary": "Ein syrisches Gericht hat den gestürzten Präsidenten Assad in Abwesenheit zum Tode verurteilt. Ihm wurden unter anderem Verbrechen gegen die Menschlichkeit vorgeworfen. Assad hält sich wohl weiter in Russland auf.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/syrien-assad-todesurteil-100.html",
-      "publishedAt": "2026-08-11T13:29:03.000Z"
-    },
-    {
-      "id": "n_217f2654f0",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Nach Vorfall am Flughafen Leipzig - Verdächtige DNA-Spuren und eine Antenne",
-      "summary": "Nach dem mutmaßlichen Anschlagsversuch mit einer Drohne am Flughafen Leipzig/Halle entdeckten Ermittler nach Recherchen von WDR, NDR und SZ sogar mehrere DNA-Spuren - und eine verdächtige Antenne.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/investigativ/ndr-wdr/dna-spuren-leipzig-100.html",
-      "publishedAt": "2026-08-11T13:19:02.000Z"
-    },
-    {
-      "id": "n_d289da7440",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "PKK-Gesetz in der Türkei: Historischer Schritt, offene Fragen",
-      "summary": "Das Gesetz zur Entwaffnung der PKK und teilweisen Amnestie Inhaftierter ist ein historischer Schritt. Doch zentrale kurdische Forderungen erfüllt es nicht. Und Präsident Erdoğan geht es dabei wohl um andere Ziele. Von M. Batscheider.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/pkk-gesetz-tuerkei-100.html",
-      "publishedAt": "2026-08-11T12:51:02.000Z"
     },
     {
       "id": "n_e7e7851fc2",
@@ -178,6 +178,72 @@
       "publishedAt": "2026-08-10T15:43:00.000Z"
     },
     {
+      "id": "n_c0fb466287",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Digital Networks Acts: Kupferabschaltung ist keine Enteignung",
+      "summary": "Die Abschaltung der alten Kupfernetze in der EU ist keine entschädigungspflichtige Enteignung. Zu diesem Ergebnis kommt ein Rechtsgutachten des Breko. (Glasfaser, DSL)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/digital-networks-acts-kupferabschaltung-ist-keine-enteignung-2608-211830.html",
+      "publishedAt": "2026-08-11T18:38:01.000Z"
+    },
+    {
+      "id": "n_e2c6b5eed8",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Hazet Smartcase mit 69 Teilen bei Amazon günstiger",
+      "summary": "Das Hazet Smartcase mit kurzen und langen Bits ist bei Amazon günstiger als in vielen anderen Shops. (Technik/Hardware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-hazet-smartcase-mit-69-teilen-bei-amazon-guenstiger-2608-211828.html",
+      "publishedAt": "2026-08-11T17:05:02.000Z"
+    },
+    {
+      "id": "n_a16ec0fa9c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Beliebtes Akku-Multifunktionswerkzeug von Fanttik günstig wie seit Monaten nicht",
+      "summary": "Das unter Amazon-Kunden beliebte Fanttik F2 Master Mini-Akku-Multifunktionswerkzeug ist für unter 60 Euro im Angebot. (Technik/Hardware, Amazon)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-beliebtes-akku-multifunktionswerkzeug-von-fanttik-guenstig-wie-seit-monaten-nicht-2608-211829.html",
+      "publishedAt": "2026-08-11T16:50:01.000Z"
+    },
+    {
+      "id": "n_1d197298a5",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Frequenzen: Starlink-Konkurrent Iris² wird kein Direct-to-Device beherrschen",
+      "summary": "Eutelsat hatte groß angekündigt, dass Iris² mit dem 5G-Standard für Non-Terrestrial Networks arbeiten wird. Doch das ist eher aus der Not geboren. (Satelliteninternet, Politik)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/frequenzen-starlink-konkurrent-iris-wird-kein-direct-to-device-beherrschen-2608-211826.html",
+      "publishedAt": "2026-08-11T16:16:02.000Z"
+    },
+    {
+      "id": "n_e57be1708d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Reiserouter mit Wi-Fi 7 wieder zum Tiefstpreis",
+      "summary": "War noch nie günstiger als jetzt: Amazon verkauft den GL.iNet EL-E5800 Reiserouter mit über 50 Euro Rabatt. (Router, WLAN)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-reiserouter-mit-wi-fi-7-wieder-zum-tiefstpreis-2608-211825.html",
+      "publishedAt": "2026-08-11T16:05:01.000Z"
+    },
+    {
+      "id": "n_ed9bd59454",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "(g+) Artificial Intelligence: The AI threat to India's IT jobs machine",
+      "summary": "The country has bet big on tech services but disruption is coming Von Chris Kay (Wirtschaft, KI)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/artificial-intelligence-the-ai-threat-to-india-s-it-jobs-machine-2608-211823.html",
+      "publishedAt": "2026-08-11T16:00:02.000Z"
+    },
+    {
       "id": "n_9514652a8a",
       "type": "news",
       "topic": "tech",
@@ -200,81 +266,15 @@
       "publishedAt": "2026-08-11T15:10:06.000Z"
     },
     {
-      "id": "n_6bea80ccf0",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Meta-Chef ignoriert Realität: Mark Zuckerberg träumt von positiver KI-Zukunft",
-      "summary": "Mark Zuckerbergs Vorstellungen einer Zukunft mit KI enthalten viele Floskeln und kaum Neues. (KI, Mark Zuckerberg)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/meta-chef-ignoriert-realitaet-mark-zuckerberg-traeumt-von-positiver-ki-zukunft-2608-211819.html",
-      "publishedAt": "2026-08-11T14:36:01.000Z"
-    },
-    {
-      "id": "n_cfe526c9f7",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Bluetooth-Tastatur für iOS und Android für 16,97 Euro bei Amazon",
-      "summary": "Eine schlanke Bluetooth-Tastatur mit Akku für komfortable Eingaben auf dem Smartphone und Tablet ist bei Amazon zum Schnäppchenpreis erhältlich. (Tastatur, Eingabegerät)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-bluetooth-tastatur-fuer-ios-und-android-fuer-16-97-euro-bei-amazon-2608-211818.html",
-      "publishedAt": "2026-08-11T14:26:02.000Z"
-    },
-    {
-      "id": "n_e8649115bf",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Level 4: Uber will im Frühsommer 2027 erste Robotaxi-Fahrten in München anbieten",
-      "summary": "Ab 2027 will Uber in München die ersten echten Robotaxis ohne Sicherheitsfahrer auf die Straße bringen. Man setzt rein auf Kameras und agentische KI. (Uber, Wirtschaft)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/level-4-uber-will-im-fruehsommer-2027-erste-robotaxi-fahrten-in-muenchen-anbieten-2608-211816.html",
-      "publishedAt": "2026-08-11T14:17:01.000Z"
-    },
-    {
-      "id": "n_3ae9844c8f",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Zero Company angespielt: Star Wars wird zum Taktikkrieg",
-      "summary": "Rundenbasierte Kämpfe, Permadeath und schwierige Entscheidungen: Die ersten Stunden mit dem neuen Star-Wars-Taktikspiel machen Lust auf mehr. (Star Wars, Spiele)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/zero-company-angespielt-star-wars-wird-zum-taktikkrieg-2608-211746.html",
-      "publishedAt": "2026-08-11T14:00:01.000Z"
-    },
-    {
-      "id": "n_1c062e7619",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Leistungsstarke Laptop-Powerbank bei Amazon mit 20 Prozent Rabatt",
-      "summary": "Bei Amazon gibt es derzeit eine leistungsstarke Laptop-Powerbank von Anker im Angebot. Sie ist mit 20 Prozent Rabatt erhältlich. (Akku, Smartphone)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-leistungsstarke-laptop-powerbank-bei-amazon-mit-20-prozent-rabatt-2608-211807.html",
-      "publishedAt": "2026-08-11T13:32:02.000Z"
-    },
-    {
-      "id": "n_cd638020ce",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Google-Mitbegründer Brin: 100 Millionen US-Dollar gegen Milliardärssteuer in Kalifornien",
-      "summary": "Google-Mitbegründer Brin lässt sich den Kampf gegen eine Milliardärssteuer einiges kosten. Denn das könnte eine sehr lukrative Investition werden. (Sergey Brin, Technologie)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/google-mitbegruender-brin-100-millionen-us-dollar-gegen-milliardaerssteuer-in-kalifornien-2608-211815.html",
-      "publishedAt": "2026-08-11T13:18:01.000Z"
-    },
-    {
-      "id": "n_24e94659b6",
+      "id": "n_de1c5dc5e6",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Houthis kill four in first deadly attack since start of Iran war, Yemen says",
-      "summary": "The attack was reportedly carried out by Iranian proxy on a small cargo ship, as tensions in region over the US-Iran conflict remain high.",
+      "headline": "Former judge removed by Orbán elected Hungarian president",
+      "summary": "Since taking office in early May, the new Hungarian government has lost no time dismantling Viktor Orbán's legacy.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T15:41:13.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T18:34:39.000Z"
     },
     {
       "id": "n_d5a969d414",
@@ -282,10 +282,65 @@
       "topic": "general",
       "lang": "en",
       "headline": "Russia releases former US Marine reported in poor health",
-      "summary": "Robert Gilman, who was arrested in 2022 for kicking a police officer while drunk, had reportedly been in a catatonic-like state.",
+      "summary": "Trump said Robert Gilman, who was arrested in 2022, was released on a humanitarian basis, after he had reportedly been in a catatonic-like state.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T15:35:01.000Z"
+      "publishedAt": "2026-08-11T17:02:22.000Z"
+    },
+    {
+      "id": "n_ab563eb385",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T16:19:44.000Z"
+    },
+    {
+      "id": "n_a3d4ad03e3",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Luigi Mangione appears in court as questions remain in case ahead of murder trial",
+      "summary": "Mangione's lawyers have yet to signal their defence strategy, while prosecutors are in a battle over evidence.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T16:12:35.000Z"
+    },
+    {
+      "id": "n_bb38aa357e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: Tide of rubbish blankets Philippines river",
+      "summary": "Workers in Manila waded through the river, collecting waste that washed in during days of heavy rain.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c5y3vzvnnkro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T16:10:55.000Z"
+    },
+    {
+      "id": "n_8884f6153b",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: Was Trump smuggled out of Air Force One in a catering truck?",
+      "summary": "US media reports say the president secretly left via a catering truck to avoid a threat to his life from Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cj3672ljgzro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T15:53:53.000Z"
+    },
+    {
+      "id": "n_24e94659b6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Houthis reportedly kill four in first deadly attack since start of Iran war",
+      "summary": "The attack was reportedly carried out by Iranian proxy on a small cargo ship, as tensions in region over the US-Iran conflict remain high.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T15:41:13.000Z"
     },
     {
       "id": "n_8c94fd507d",
@@ -299,66 +354,11 @@
       "publishedAt": "2026-08-11T15:24:07.000Z"
     },
     {
-      "id": "n_f54e7619cf",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Thailand suspends new gun permits after mass shooting",
-      "summary": "Authorities promise tough new laws in the country, which has high levels of firearms ownership.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T15:11:54.000Z"
-    },
-    {
-      "id": "n_427cd01bc9",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-      "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T14:50:10.000Z"
-    },
-    {
-      "id": "n_66ed401304",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-      "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T14:47:28.000Z"
-    },
-    {
-      "id": "n_21a2516a63",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "France bans unsolicited telemarketing calls",
-      "summary": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T14:19:45.000Z"
-    },
-    {
-      "id": "n_ef051dd6c2",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Drone captures devastating aftermath of Spokane wildfires",
-      "summary": "The aerial footage shows homes destroyed down to their foundations, with burned cars still parked in some driveways.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c80nm9melpmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T14:02:07.000Z"
-    },
-    {
       "id": "n_bffbf1c785",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "AI agent hacks gym to get its owner spot in pilates class",
+      "headline": "AI agent hacks gym to get its user a spot in pilates class",
       "summary": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
@@ -442,6 +442,39 @@
       "publishedAt": "2026-08-05T22:00:32.000Z"
     },
     {
+      "id": "n_d9cc4f6795",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Less than 2.5% of Taylor Farms' recalled lettuce went to Taco Bells",
+      "summary": "FDA report finally reveals where Taylor Farms sent its lettuce—and it raises questions.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
+      "publishedAt": "2026-08-11T18:00:14.000Z"
+    },
+    {
+      "id": "n_7f5e589dce",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Tracking extreme heat by the hour makes climate change seem even worse",
+      "summary": "Hot hours of summer could triple in the coming decades.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
+      "publishedAt": "2026-08-11T16:26:38.000Z"
+    },
+    {
+      "id": "n_80d974c62c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "A Google insider spills the tea on how the company forsook its founding ideals",
+      "summary": "Claire Stapleton's new book, Don't Be Evil, recounts her journey from company cheerleader to outspoken dissident.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/",
+      "publishedAt": "2026-08-11T16:07:34.000Z"
+    },
+    {
       "id": "n_039007cd1e",
       "type": "news",
       "topic": "tech",
@@ -497,37 +530,37 @@
       "publishedAt": "2026-08-10T22:13:03.000Z"
     },
     {
-      "id": "n_7d0a17b018",
+      "id": "n_34ac2f6b97",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
-      "summary": "Trump falsely claimed the MMR vaccine is \"quite lethal\" and linked shots to autism.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
-      "publishedAt": "2026-08-10T21:42:56.000Z"
+      "headline": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+      "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "publishedAt": "2026-08-11T17:41:34.000Z"
     },
     {
-      "id": "n_884b17de54",
+      "id": "n_76fde13897",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Developer Cold Iron Studios shuts down cloud version of $60 game with no refunds",
-      "summary": "A reminder of the perils of digital ownership.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
-      "publishedAt": "2026-08-10T21:26:38.000Z"
+      "headline": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "publishedAt": "2026-08-11T17:41:22.000Z"
     },
     {
-      "id": "n_abf634c5f1",
+      "id": "n_5570c557a3",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Amazon backs power plant that may become top source of US climate pollution",
-      "summary": "Amazon announces first off-the-grid data center in race to reap AI profits.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-      "publishedAt": "2026-08-10T20:45:52.000Z"
+      "headline": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "publishedAt": "2026-08-11T16:25:20.000Z"
     },
     {
       "id": "n_606016c2c8",
@@ -585,125 +618,92 @@
       "publishedAt": "2026-08-10T20:53:02.000Z"
     },
     {
-      "id": "n_f1e480bffe",
+      "id": "n_4b76f34b93",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Tech industry is buzzing after a Claude agent hacked into a gym",
-      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-      "publishedAt": "2026-08-10T20:04:24.000Z"
-    },
-    {
-      "id": "n_e7d6356c97",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-      "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-      "publishedAt": "2026-08-10T16:20:13.000Z"
-    },
-    {
-      "id": "n_393ea70e1f",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "publishedAt": "2026-08-10T12:00:00.000Z"
-    },
-    {
-      "id": "n_638db6f13c",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Mark Zuckerberg doesn’t understand how to live",
-      "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise. Wha",
+      "headline": "Another OpenAI executive takes off",
+      "summary": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told colleagues he'd be starting \"something new.\" \"Over the last few months, I've been f",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-      "publishedAt": "2026-08-10T22:00:00.000Z"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "publishedAt": "2026-08-11T17:50:01.000Z"
     },
     {
-      "id": "n_38e9f5ee00",
+      "id": "n_816ed2f1a2",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
-      "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg published on Monday, titled \"The Future is fo",
+      "headline": "Made by Google 2026: all the Pixel news and announcements",
+      "summary": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colors, with signs pointing to a built-in light coming to Pro models. Teasers from Google also indicate ",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-      "publishedAt": "2026-08-10T15:19:05.000Z"
+      "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+      "publishedAt": "2026-08-11T17:00:00.000Z"
     },
     {
-      "id": "n_4427e8e8b9",
+      "id": "n_95bd5da674",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "What happens to Bose when headphones become AI?",
-      "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has led it to be a leader i",
+      "headline": "Apple could help you prove your iPhone photos aren’t deepfakes",
+      "summary": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the",
       "source": "The Verge",
-      "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-      "publishedAt": "2026-08-10T14:00:00.000Z"
+      "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+      "publishedAt": "2026-08-11T16:19:15.000Z"
     },
     {
-      "id": "n_2ad030d458",
+      "id": "n_493648df61",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-      "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile ap",
+      "headline": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+      "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the flaw using \"fewer than 20 prompts on publicly available AI models,\" as reported ear",
       "source": "The Verge",
-      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-      "publishedAt": "2026-08-10T11:00:00.000Z"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "publishedAt": "2026-08-11T14:45:44.000Z"
     },
     {
-      "id": "n_7c16bfed4c",
+      "id": "n_a3faa36ed3",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "AI detectors are creating a new era of distrust",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long",
+      "headline": "Why your Amazon order confirmation emails have become so unhelpful",
+      "summary": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \"Your Beauty item is confirmed!\" an email about my retainer cleani",
       "source": "The Verge",
-      "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-      "publishedAt": "2026-08-09T12:00:00.000Z"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "publishedAt": "2026-08-11T13:27:20.000Z"
     },
     {
-      "id": "n_3835de70aa",
+      "id": "n_5f3f98dab4",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "An Amazon data center could have the worst polluting power plant in the country",
-      "summary": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The New York Times. The new gas-burning plant in Pecos County, Texas, has received s",
+      "headline": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+      "summary": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's profile across the app if they do \"not represent a real person.\" The music streami",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-      "publishedAt": "2026-08-08T17:53:34.000Z"
+      "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+      "publishedAt": "2026-08-11T13:00:00.000Z"
     },
     {
-      "id": "n_d24024f22b",
+      "id": "n_fe459dc13f",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-      "summary": "That cover art is almost certainly AI too. | Image: Fenix Flexin It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Tr",
+      "headline": "Claude will apply invisible watermarks to AI text and images",
+      "summary": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadat",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-      "publishedAt": "2026-08-07T20:01:51.000Z"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+      "publishedAt": "2026-08-11T12:22:20.000Z"
     },
     {
-      "id": "n_c92dc76e40",
+      "id": "n_69a3ccd0de",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Watching Roku’s AI channel is like eating from a trough",
-      "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focus",
+      "headline": "The AI takeover of mathematics has begun",
+      "summary": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discip",
       "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-      "publishedAt": "2026-08-07T18:59:46.000Z"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+      "publishedAt": "2026-08-11T11:00:00.000Z"
     },
     {
       "id": "n_3d6d30af34",
@@ -1047,6 +1047,18 @@
       "publishedAt": "2026-07-30T15:09:09.000Z"
     },
     {
+      "id": "n_611562df74",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "OpenAI’s AI Agents Just Crossed A Line",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
+      "thumbnail": "https://i.ytimg.com/vi/JQ97GiDwPxc/hqdefault.jpg",
+      "publishedAt": "2026-08-11T15:35:35.000Z"
+    },
+    {
       "id": "n_a6ebe1d55c",
       "type": "video",
       "topic": "video",
@@ -1081,18 +1093,6 @@
       "url": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
       "thumbnail": "https://i.ytimg.com/vi/bm1BjOjS7sQ/hqdefault.jpg",
       "publishedAt": "2026-08-03T09:47:34.000Z"
-    },
-    {
-      "id": "n_cd099417b9",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
-      "thumbnail": "https://i.ytimg.com/vi/8B05cy3UuSE/hqdefault.jpg",
-      "publishedAt": "2026-08-02T15:01:10.000Z"
     },
     {
       "id": "n_49a7d5405f",
@@ -1143,6 +1143,18 @@
       "publishedAt": "2026-05-06T22:03:16.000Z"
     },
     {
+      "id": "n_fb0984ce7d",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "I spent 3 days at MIT... the robot hype is worse than you think",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=aB5LGrHISqY",
+      "thumbnail": "https://i.ytimg.com/vi/aB5LGrHISqY/hqdefault.jpg",
+      "publishedAt": "2026-08-11T16:10:08.000Z"
+    },
+    {
       "id": "n_cdc415b5c6",
       "type": "video",
       "topic": "video",
@@ -1177,18 +1189,6 @@
       "url": "https://www.youtube.com/watch?v=KOpTWx1Eou4",
       "thumbnail": "https://i.ytimg.com/vi/KOpTWx1Eou4/hqdefault.jpg",
       "publishedAt": "2026-07-23T16:53:37.000Z"
-    },
-    {
-      "id": "n_c30c73dbe7",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Open-weight AI just hit 2.8 trillion parameters…",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=YP73B9D20V4",
-      "thumbnail": "https://i.ytimg.com/vi/YP73B9D20V4/hqdefault.jpg",
-      "publishedAt": "2026-07-22T17:43:52.000Z"
     },
     {
       "id": "n_5f31592cac",
