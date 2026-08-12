@@ -1,16 +1,49 @@
 {
-  "generatedAt": "2026-08-11T21:33:07.338Z",
+  "generatedAt": "2026-08-12T07:03:26.932Z",
   "items": [
     {
-      "id": "n_a4e0f8be6d",
+      "id": "n_c151b3fcd0",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Mehrheit im Parlament für Abschaffung der Todesstrafe im Libanon",
-      "summary": "Im Libanon gibt es keine Todesstrafe mehr. Dafür hat eine Mehrheit der Abgeordneten im Parlament gestimmt - bis auf den Hisbollah-Block. Statt der Todesstrafe droht Verurteilten künftig lebenslange Haft mit schwerer Zwangsarbeit.",
+      "headline": "Social-Media-Prozess in den USA gegen Meta startet",
+      "summary": "Im kalifornischen Oakland beginnt heute ein Social-Media-Prozess gegen Meta. Vier Bundesstaaten werfen dem Konzern vor, Minderjährige mit Instagram und Facebook abhängig und psychisch krank zu machen. Von Antje Sieb.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/libanon-abschaffung-todesstrafe-100.html",
-      "publishedAt": "2026-08-11T19:26:29.000Z"
+      "url": "https://www.tagesschau.de/ausland/amerika/meta-klage-social-media-100.html",
+      "publishedAt": "2026-08-12T06:59:39.000Z"
+    },
+    {
+      "id": "n_471de58af9",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "SED-Opferbeauftragte: Schüler sollen Gedenkstätten besuchen müssen",
+      "summary": "Schüler wissen oft nicht genug über die Geschichte der DDR, sagt die SED-Opferbeauftragte des Bundestags, Zupke. Sie fordert verpflichtende Besuche von Gedenkstätten und mehr Befassung mit dem Thema im Schulunterricht.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/gedenkstaetten-ddr-mauerbau-100.html",
+      "publishedAt": "2026-08-12T06:36:56.000Z"
+    },
+    {
+      "id": "n_dd6aba4e24",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Vor US-Daten zur Inflation: DAX bleibt nahe Rekordhoch",
+      "summary": "Der DAX dürfte kaum verändert in den Tag starten. Die Anleger warten vor allem auf die aktuellen Inflationsdaten aus den USA. Zudem öffnen noch einige Konzerne ihre Bücher.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-144.html",
+      "publishedAt": "2026-08-12T06:30:16.000Z"
+    },
+    {
+      "id": "n_4f8df4d62b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Reform der Nachrichtendienste stößt auf Kritik der Opposition",
+      "summary": "Das Kabinett will heute eine Reform der Nachrichtendienste beschließen. Sie sollen künftig aktiv gegen Angreifer vorgehen dürfen. Die Opposition befürchtet fehlende rechtsstaatliche Kontrolle und sieht einen historischen Tabubruch.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienste-reform-kabinett-100.html",
+      "publishedAt": "2026-08-12T06:09:36.000Z"
     },
     {
       "id": "n_84c1101d16",
@@ -18,10 +51,21 @@
       "topic": "general",
       "lang": "de",
       "headline": "Kolumbien ruft nach Erdbeben Notstand aus",
-      "summary": "Mehr als 3.000 Menschen gelten nach dem schweren Erdbeben in Kolumbien als vermisst, mindestens 200 sind ums Leben gekommen. Der Präsident hat den Notstand ausgerufen, während Rettungskräfte in den Trümmern nach Verschütteten suchen.",
+      "summary": "Mehr als 3.000 Menschen gelten nach dem schweren Erdbeben in Kolumbien als vermisst, mindestens 240 sind ums Leben gekommen. Der Präsident hat den Notstand ausgerufen, während Rettungskräfte in den Trümmern nach Verschütteten suchen.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/kolumbien-erdbeben-108.html",
-      "publishedAt": "2026-08-11T19:11:42.000Z"
+      "publishedAt": "2026-08-12T05:09:57.000Z"
+    },
+    {
+      "id": "n_7b31a18d25",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Gericht stoppt Trumps Briefwahl-Pläne im ganzen Land",
+      "summary": "Im November wird über die Neubesetzung vieler Sitze im US-Parlament abgestimmt. Präsident Trump wollte deutlich striktere Regeln bei der Briefwahl. Diese wurden nun von einer Richterin blockiert - mit landesweiter Geltung.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/trump-briefwahl-104.html",
+      "publishedAt": "2026-08-12T05:04:19.000Z"
     },
     {
       "id": "n_1d7ad1d8db",
@@ -32,62 +76,29 @@
       "summary": "Tausende Quadratmeter Wald stehen in Hessen in Flammen. Damit die Wasserreserven für die Brandbekämpfung ausreichen, sind Bewohner mehrerer Orte nun aufgerufen, möglichst nicht zu duschen oder zu baden.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/regional/hessen/waldbraende-hessen-wasser-sparen-100.html",
-      "publishedAt": "2026-08-11T19:07:28.000Z"
+      "publishedAt": "2026-08-12T04:57:17.000Z"
     },
     {
-      "id": "n_917057c354",
+      "id": "n_c81aacb5bb",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Trump wegen US-Sanktionen gegen Internationalen Strafgerichtshof verklagt",
-      "summary": "Im Februar 2025 hatte die US-Regierung unter Trump Sanktionen gegen Vertreter des Internationalen Strafgerichtshofs erlassen. Dafür wird der US-Präsident nun von mehreren Menschenrechtsorganisationen verklagt.",
+      "headline": "BAföG-Erhöhung im Kabinett: Was Studierende jetzt erwarten können",
+      "summary": "Teure WG-Zimmer, Einkaufen im Supermarkt - die Preise machen Studentinnen und Studenten zu schaffen. Nach langem Ringen um eine Reform macht die Regierung heute den ersten Schritt für ein höheres BAföG.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-klage-trump-strafgerichtshof-100.html",
-      "publishedAt": "2026-08-11T18:20:43.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bafoeg-reform-110.html",
+      "publishedAt": "2026-08-12T03:50:28.000Z"
     },
     {
-      "id": "n_0deb785bbd",
+      "id": "n_8a192565dd",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Todesurteil für Assad - ein Schritt zu Gerechtigkeit in Syrien?",
-      "summary": "Vor fast zwei Jahren floh Syriens langjähriger Machthaber. Jetzt wurde Assad für seine Verbrechen in Abwesenheit zum Tode verurteilt. Für viele Syrer ein bedeutender Schritt - doch sie hoffen auf mehr. Von Nina Amin.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/syrien-assad-todesstrafe-100.html",
-      "publishedAt": "2026-08-11T17:58:05.000Z"
-    },
-    {
-      "id": "n_3848c36029",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wie ist die Rechtslage nach dem Drohnenfund am Flughafen Leipzig?",
-      "summary": "Der Flughafen Leipzig/Halle ist offenbar nur knapp einem Drohnen-Anschlag entgangen. Der Generalbundesanwalt ermittelt, auch das Völkerrecht könnte greifen. Eine rechtliche Einordnung von Christoph Kehlbach.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/drohnenfund-flughafen-leipzig-rechtslage-100.html",
-      "publishedAt": "2026-08-11T17:00:56.000Z"
-    },
-    {
-      "id": "n_7218136a92",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: DAX erreicht neue Höhen",
-      "summary": "Kommt es vielleicht doch bald zu einer Verständigung im Iran-Krieg? Neue Hoffnungen darauf haben den deutschen Aktienmarkt am Nachmittag beflügelt. Der DAX steigt auf ein neues Rekordhoch.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-brent-100.html",
-      "publishedAt": "2026-08-11T16:15:59.000Z"
-    },
-    {
-      "id": "n_39ab5123d7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Parlament wählt Orbán-Kritiker Baka zum Staatspräsidenten",
-      "summary": "Ungarns Parlament hat den ehemaligen Präsidenten des Obersten Gerichtshofs, András Baka, als neues Staatsoberhaupt bestätigt. Der Kritiker des früheren Regierungschefs Orbán erhielt 140 Ja- und nur sechs Nein-Stimmen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ungarn-praesident-baka-102.html",
-      "publishedAt": "2026-08-11T15:38:52.000Z"
+      "headline": "Kupfer-Aus: Neues Gutachten widerspricht rechtlichen Bedenken",
+      "summary": "Ein neues Gutachten sieht die geplante EU-weite Abschaltung von Kupfernetzen bis 2035 als europarechtlich zulässig an und widerspricht damit früheren Bedenken.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Gutachten-Anordnung-zur-Kupfer-Abschaltung-moeglich-11410803.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-12T05:48:00.000Z"
     },
     {
       "id": "n_e7e7851fc2",
@@ -167,15 +178,59 @@
       "publishedAt": "2026-08-10T16:12:00.000Z"
     },
     {
-      "id": "n_d7d906eeab",
+      "id": "n_195bbfc69c",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Bundesregierung nutzt KI als Arbeitswerkzeug ohne Kennzeichnungspflicht",
-      "summary": "Die Bundesregierung nutzt KI zunehmend als Werkzeug. Während Schulungen für Beamte verpflichtend sind, bleibt die Transparenz bei KI-generierten Reden vage.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/KI-in-der-Bundesregierung-Wenn-ein-Sprachmodell-die-Ministerrede-schreibt-11409212.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-10T15:43:00.000Z"
+      "headline": "Auch in Europa: Nordkoreanische Hacker attackieren Windows-Nutzer",
+      "summary": "Die Hackergruppe Lazarus greift Windows-Nutzer über eine Treiberlücke an. Microsoft hat sie zusammen mit über 400 weiteren Sicherheitslücken gepatcht. (Patchday, Microsoft)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/auch-in-europa-nordkoreanische-hacker-attackieren-windows-nutzer-2608-211834.html",
+      "publishedAt": "2026-08-12T06:54:02.000Z"
+    },
+    {
+      "id": "n_6763f5e66f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Musik-Streaming: Spotify markiert KI-Ersteller mit neuem Persona-Label",
+      "summary": "Spotify kennzeichnet KI-generierte Identitäten ab Mitte September 2026. Empfehlungen schließen solche Profile künftig aus. (Spotify, KI)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/musik-streaming-spotify-markiert-ki-ersteller-mit-neuem-persona-label-2608-211836.html",
+      "publishedAt": "2026-08-12T06:45:01.000Z"
+    },
+    {
+      "id": "n_cc36c99309",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "MUL.E: Ukraine baut E-Motorrad für den Fronteinsatz",
+      "summary": "Die Ukraine baut ein allradangetriebenes E-Motorrad für den Fronteinsatz. Das Mul.e ist geräuschlos und mit einem Range-Extender ausgerüstet. (E-Bike, Politik)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/mul-e-ukraine-baut-e-motorrad-fuer-den-fronteinsatz-2608-211833.html",
+      "publishedAt": "2026-08-12T06:30:02.000Z"
+    },
+    {
+      "id": "n_a675d5681f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Umfrage: KI beeinflusst deutschen Start-up-Arbeitsmarkt",
+      "summary": "Eine Bitkom-Befragung zeigt: Künstliche Intelligenz verändert den Personalbedarf deutscher Start-ups. (KI, Wirtschaft)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/umfrage-ki-beeinflusst-deutschen-star-tup-arbeitsmarkt-2608-211831.html",
+      "publishedAt": "2026-08-12T05:27:02.000Z"
+    },
+    {
+      "id": "n_3e931eec96",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Cloud Competence Center aufbauen: Strategie und Governance",
+      "summary": "Der Aufbau eines Cloud Competence Centers verlangt klare Strukturen, Rollen und eine durchdachte Governance. Ein Workshop vermittelt praxisnahe Ansätze für Strategie und Umsetzung. (Golem Karrierewelt, Internet)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-cloud-competence-center-aufbauen-strategie-und-governance-2608-211603.html",
+      "publishedAt": "2026-08-12T05:15:01.000Z"
     },
     {
       "id": "n_c0fb466287",
@@ -183,7 +238,7 @@
       "topic": "tech",
       "lang": "de",
       "headline": "Digital Networks Acts: Kupferabschaltung ist keine Enteignung",
-      "summary": "Die Abschaltung der alten Kupfernetze in der EU ist keine entschädigungspflichtige Enteignung. Zu diesem Ergebnis kommt ein Rechtsgutachten des Breko. (Glasfaser, DSL)",
+      "summary": "Die Abschaltung alter Kupfernetze in der EU ist keine entschädigungspflichtige Enteignung. Zu diesem Ergebnis kommt ein Rechtsgutachten des Breko. (Glasfaser, DSL)",
       "source": "Golem.de",
       "url": "https://www.golem.de/news/digital-networks-acts-kupferabschaltung-ist-keine-enteignung-2608-211830.html",
       "publishedAt": "2026-08-11T18:38:01.000Z"
@@ -211,147 +266,103 @@
       "publishedAt": "2026-08-11T16:50:01.000Z"
     },
     {
-      "id": "n_1d197298a5",
+      "id": "n_ee29509955",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Boat sinks in Zimbabwe's Lake Kariba with 95 people on board",
+      "summary": "The vessel is said to have overturned after being hit by strong waves.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T06:21:42.000Z"
+    },
+    {
+      "id": "n_2f268ade52",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
+      "summary": "The Portuguese superstar has posted an image of two hands - presumed to be his on top of his wife's - both wearing wedding rings.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T04:29:02.000Z"
+    },
+    {
+      "id": "n_918822e708",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump confirms he switched planes after Nato summit because of possible threat",
+      "summary": "Journalists and White House staff who were on board the jet were unaware the president had left.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T03:44:55.000Z"
+    },
+    {
+      "id": "n_7827932809",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Baby Shark boy set to make K-pop debut",
+      "summary": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T03:26:32.000Z"
+    },
+    {
+      "id": "n_4d0f967285",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Bondi Beach shooting hero's assault charges dropped by police",
+      "summary": "Police charged Ahmed al Ahmed in June after an alleged incident with his father at a Sydney home.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crk51ky7xzlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T02:59:51.000Z"
+    },
+    {
+      "id": "n_4474826843",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "New Zealand PM survives second leadership challenge ahead of election",
+      "summary": "Christopher Luxon says he has \"full support\" of his party, after a vote of confidence 12 weeks before a general election.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2ve2jk5qeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T02:51:02.000Z"
+    },
+    {
+      "id": "n_1b0628c473",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+      "summary": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T00:14:42.000Z"
+    },
+    {
+      "id": "n_b36d286821",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "These seaside apartments were a ghost city - then police say scammers moved in",
+      "summary": "Malaysia's Forest City was pitched as \"paradise\" but last month police raided it over alleged scam operations.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T23:31:18.000Z"
+    },
+    {
+      "id": "n_ee4f8e5560",
       "type": "news",
       "topic": "tech",
-      "lang": "de",
-      "headline": "Frequenzen: Starlink-Konkurrent Iris² wird kein Direct-to-Device beherrschen",
-      "summary": "Eutelsat hatte groß angekündigt, dass Iris² mit dem 5G-Standard für Non-Terrestrial Networks arbeiten wird. Doch das ist eher aus der Not geboren. (Satelliteninternet, Politik)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/frequenzen-starlink-konkurrent-iris-wird-kein-direct-to-device-beherrschen-2608-211826.html",
-      "publishedAt": "2026-08-11T16:16:02.000Z"
-    },
-    {
-      "id": "n_e57be1708d",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Reiserouter mit Wi-Fi 7 wieder zum Tiefstpreis",
-      "summary": "War noch nie günstiger als jetzt: Amazon verkauft den GL.iNet EL-E5800 Reiserouter mit über 50 Euro Rabatt. (Router, WLAN)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-reiserouter-mit-wi-fi-7-wieder-zum-tiefstpreis-2608-211825.html",
-      "publishedAt": "2026-08-11T16:05:01.000Z"
-    },
-    {
-      "id": "n_ed9bd59454",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "(g+) Artificial Intelligence: The AI threat to India's IT jobs machine",
-      "summary": "The country has bet big on tech services but disruption is coming Von Chris Kay (Wirtschaft, KI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/artificial-intelligence-the-ai-threat-to-india-s-it-jobs-machine-2608-211823.html",
-      "publishedAt": "2026-08-11T16:00:02.000Z"
-    },
-    {
-      "id": "n_9514652a8a",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: JBL Tune 530BT Kopfhörer zum Tiefstpreis für nur 34,99 Euro",
-      "summary": "Die kabellosen JBL Tune 530BT On-Ear-Kopfhörer bieten eine sehr lange Akkulaufzeit und aktives Noise Cancelling. Bei Amazon gibt es die Kopfhörer zum Bestpreis. (Technik/Hardware, Kopfhörer)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-jbl-tune-530bt-kopfhoerer-zum-tiefstpreis-fuer-nur-34-99-euro-2608-211821.html",
-      "publishedAt": "2026-08-11T15:18:01.000Z"
-    },
-    {
-      "id": "n_8f93dc17d3",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Porsche, BMW, Audi: Elektrische Luxusautos mit Kaufprämie finanziert",
-      "summary": "Die Kaufprämie für E-Autos richtet sich an Haushalte mit niedrigem Einkommen. Doch gefördert wurden auch ein BMW i7 oder ein Porsche Taycan. (Elektroauto, Auto)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/porsche-bmw-audi-elektrische-luxusautos-mit-kaufpraemie-finanziert-2608-211822.html",
-      "publishedAt": "2026-08-11T15:10:06.000Z"
-    },
-    {
-      "id": "n_00d5a73415",
-      "type": "news",
-      "topic": "general",
       "lang": "en",
-      "headline": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-      "summary": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
+      "headline": "Tokenomics: Why making AI pay is tricky",
+      "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T21:14:56.000Z"
-    },
-    {
-      "id": "n_c79c0ee484",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Inside the Secret Service 'shell game' to hide US presidents in plain sight",
-      "summary": "Elaborate deception operations and decoys are often used to deceive potential threats to the US president.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T20:39:42.000Z"
-    },
-    {
-      "id": "n_a3d4ad03e3",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Luigi Mangione murder trial to have anonymous jury and overflow seating",
-      "summary": "The judge overseeing the state murder trial has set out some rules for public access, but other questions remain about the high-profile case.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T19:12:54.000Z"
-    },
-    {
-      "id": "n_b00909dfa9",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-      "summary": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T19:09:52.000Z"
-    },
-    {
-      "id": "n_de1c5dc5e6",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Former judge removed by Orbán elected Hungarian president",
-      "summary": "Since taking office in early May, the new Hungarian government has lost no time dismantling Viktor Orbán's legacy.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T18:34:39.000Z"
-    },
-    {
-      "id": "n_d5a969d414",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Russia releases former US Marine reported in poor health",
-      "summary": "Trump said Robert Gilman, who was arrested in 2022, was released on a humanitarian basis, after he had reportedly been in a catatonic-like state.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T17:02:22.000Z"
-    },
-    {
-      "id": "n_ab563eb385",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-      "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T16:19:44.000Z"
-    },
-    {
-      "id": "n_bb38aa357e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Watch: Tide of rubbish blankets Philippines river",
-      "summary": "Workers in Manila waded through the river, collecting waste that washed in during days of heavy rain.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c5y3vzvnnkro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T16:10:55.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T23:03:52.000Z"
     },
     {
       "id": "n_c706b5ec29",
@@ -409,17 +420,6 @@
       "publishedAt": "2026-08-07T09:22:03.000Z"
     },
     {
-      "id": "n_7f28c09567",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Why airlines are warning over lithium-ion batteries",
-      "summary": "The airline industry wants passengers to be careful when travelling with lithium ion batteries.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T23:04:40.000Z"
-    },
-    {
       "id": "n_fd4d3e267e",
       "type": "news",
       "topic": "tech",
@@ -440,6 +440,50 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-06T14:50:54.000Z"
+    },
+    {
+      "id": "n_6b5f8e2ce3",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "summary": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+      "publishedAt": "2026-08-12T00:08:40.000Z"
+    },
+    {
+      "id": "n_dbac704060",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it's idiotic",
+      "summary": "It took just hours for the leading pharma group to reject the recommendations.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/08/trump-wants-big-pharma-to-split-mmr-vaccine-big-pharma-thinks-its-idiotic/",
+      "publishedAt": "2026-08-11T22:31:45.000Z"
+    },
+    {
+      "id": "n_fcb250e785",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Russian drones found near vital European offshore gas site, get blown up",
+      "summary": "This follows many drone incursions into Romania and a failed attack in Germany.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/",
+      "publishedAt": "2026-08-11T21:20:11.000Z"
+    },
+    {
+      "id": "n_d717af62f3",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Chrome adopts what may be the best protection yet against account takeovers",
+      "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+      "publishedAt": "2026-08-11T20:59:52.000Z"
     },
     {
       "id": "n_31b7868f82",
@@ -486,48 +530,15 @@
       "publishedAt": "2026-08-11T18:00:14.000Z"
     },
     {
-      "id": "n_7f5e589dce",
+      "id": "n_66a5317327",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Tracking extreme heat by the hour makes climate change seem even worse",
-      "summary": "Hot hours of summer could triple in the coming decades.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
-      "publishedAt": "2026-08-11T16:26:38.000Z"
-    },
-    {
-      "id": "n_80d974c62c",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "A Google insider spills the tea on how the company forsook its founding ideals",
-      "summary": "Claire Stapleton's new book, Don't Be Evil, recounts her journey from company cheerleader to outspoken dissident.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/",
-      "publishedAt": "2026-08-11T16:07:34.000Z"
-    },
-    {
-      "id": "n_039007cd1e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Trump to give Republicans a 3-1 FCC majority, isn't filling empty Democratic seat",
-      "summary": "Trump has resisted urge to fire FCC Democrat despite recent Supreme Court win.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/",
-      "publishedAt": "2026-08-11T15:28:43.000Z"
-    },
-    {
-      "id": "n_e7210abe70",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "New surveillance tech links your phone to your license plate",
-      "summary": "Phone and Bluetooth signals could turn roadside cameras into far richer tracking tools.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/",
-      "publishedAt": "2026-08-11T13:15:24.000Z"
+      "headline": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "publishedAt": "2026-08-11T21:39:11.000Z"
     },
     {
       "id": "n_25809d3aff",
@@ -607,15 +618,15 @@
       "publishedAt": "2026-08-11T12:13:47.000Z"
     },
     {
-      "id": "n_1353da4a7f",
+      "id": "n_1b1c36bc04",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "OpenAI reportedly completed a $7 billion employee tender offer",
-      "summary": "San Francisco's housing market is in trouble again.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "publishedAt": "2026-08-11T00:03:18.000Z"
+      "headline": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differe",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "publishedAt": "2026-08-12T00:39:26.000Z"
     },
     {
       "id": "n_72f52ad1b9",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
       "publishedAt": "2026-08-11T13:00:00.000Z"
-    },
-    {
-      "id": "n_fe459dc13f",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Claude will apply invisible watermarks to AI text and images",
-      "summary": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadat",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-      "publishedAt": "2026-08-11T12:22:20.000Z"
     },
     {
       "id": "n_3d6d30af34",
