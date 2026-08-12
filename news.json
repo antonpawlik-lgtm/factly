@@ -1,16 +1,38 @@
 {
-  "generatedAt": "2026-08-12T18:43:51.670Z",
+  "generatedAt": "2026-08-12T21:32:31.275Z",
   "items": [
     {
       "id": "n_47c5876790",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Liveblog: ++ Totale Sonnenfinsternis beginnt in Sibirien ++",
-      "summary": "Überall in Deutschland verfolgten Millionen Menschen bei bestem Wetter die partielle Sonnenfinsternis. In Spanien hat die mit Spannung erwartete totale Sonnenfinsternis begonnen.",
+      "headline": "Liveblog: ++ Nächste partielle Sonnenfinsternis schon 2027 ++",
+      "summary": "Bundesweit verfolgten Millionen Menschen bei bestem Wetter die partielle Sonnenfinsternis. Und bis zur nächsten dauert es gar nicht so lang - schon im kommenden Jahr soll das Phänomen wieder in Deutschland zu sehen sein.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/newsticker/liveblog-sonnenfinsternis-100.html",
-      "publishedAt": "2026-08-12T18:31:50.000Z"
+      "publishedAt": "2026-08-12T20:17:27.000Z"
+    },
+    {
+      "id": "n_622ec5821f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ebola in DR Kongo: WHO warnt vor nie dagewesenem Ausmaß",
+      "summary": "Die Ebola-Epidemie in der DR Kongo breitet sich so schnell aus, dass die WHO vor einem nie dagewesenen Ausbruch der potenziell tödlichen Krankheit warnt. Der Höhepunkt sei noch lange nicht erreicht.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/ebola-838.html",
+      "publishedAt": "2026-08-12T19:49:46.000Z"
+    },
+    {
+      "id": "n_2380d3dfa7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Millionen verfolgen Sonnenfinsternis über Deutschland",
+      "summary": "Es war ein Naturschauspiel, das hierzulande seit Jahren nicht mehr vorgekommen ist: eine teilweise Sonnenfinsternis. Im Maximum war die Sonne bis zu 90 Prozent vom Mond verdeckt. Zahlreiche Menschen verfolgten überall im Land das Spektakel.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/sonnenfinsternis-446.html",
+      "publishedAt": "2026-08-12T18:36:27.000Z"
     },
     {
       "id": "n_3924455733",
@@ -46,17 +68,6 @@
       "publishedAt": "2026-08-12T16:49:45.000Z"
     },
     {
-      "id": "n_b621d89216",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Verfolgen Sie die Sonnenfinsternis live",
-      "summary": "Die Sonnenfinsternis ist in weiten Teilen Europas, Nordamerikas und anderen Regionen der Welt zu sehen. Verfolgen Sie die Bilder aus Europa hier live im Stream.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/sonnenfinsternis-stream-100.html",
-      "publishedAt": "2026-08-12T15:14:11.000Z"
-    },
-    {
       "id": "n_69817fff65",
       "type": "news",
       "topic": "general",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/befugnisse-bnd-verfassungsschutz-100.html",
       "publishedAt": "2026-08-12T14:52:09.000Z"
-    },
-    {
-      "id": "n_294cae722d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "US-Präsident Trump bestätigt heimlichen Flugzeugwechsel in Ankara",
-      "summary": "Nun hat Trump es offiziell bestätigt: Der US-Präsident saß beim Abflug vom NATO-Gipfel in Ankara im Juli nicht im Regierungsflieger, sondern täuschte das nur vor. Das hätten seine Personenschützer angeordnet.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-airforce-one-100.html",
-      "publishedAt": "2026-08-12T14:10:07.000Z"
     },
     {
       "id": "n_bb66754bdb",
@@ -266,6 +266,50 @@
       "publishedAt": "2026-08-12T14:43:02.000Z"
     },
     {
+      "id": "n_5853ee8f18",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T20:58:39.000Z"
+    },
+    {
+      "id": "n_d4578d08ad",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
+      "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T20:57:47.000Z"
+    },
+    {
+      "id": "n_8f279dfc29",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "ICE plans to equip agents with gloves that can deliver electric shocks",
+      "summary": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T20:57:13.000Z"
+    },
+    {
+      "id": "n_b28edaa1ce",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Woman pulled alive from rubble 36 hours after Colombia quake",
+      "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T20:56:11.000Z"
+    },
+    {
       "id": "n_e8201d357c",
       "type": "news",
       "topic": "general",
@@ -299,17 +343,6 @@
       "publishedAt": "2026-08-12T16:35:52.000Z"
     },
     {
-      "id": "n_5853ee8f18",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T16:34:01.000Z"
-    },
-    {
       "id": "n_b86fbc4ab5",
       "type": "news",
       "topic": "general",
@@ -319,39 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-12T16:14:08.000Z"
-    },
-    {
-      "id": "n_72a023b160",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "LA Lakers to be sold in record $12.5bn deal",
-      "summary": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T16:11:04.000Z"
-    },
-    {
-      "id": "n_ee29509955",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "At least 44 die as ferry sinks in Zimbabwe's Lake Kariba",
-      "summary": "The vessel is said to have overturned after being hit by strong waves.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T13:55:56.000Z"
-    },
-    {
-      "id": "n_7f9562a36c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Wisconsin result dents winning streak for Democratic Party's left wing",
-      "summary": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T13:35:12.000Z"
     },
     {
       "id": "n_bd5715e8f3",
@@ -442,6 +442,17 @@
       "publishedAt": "2026-08-06T15:59:34.000Z"
     },
     {
+      "id": "n_fb6dbb174d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Two hydrogen-burning engines powered this car to a new land speed record",
+      "summary": "JCB has invested heavily in hydrogen to power its diggers and other machinery.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/",
+      "publishedAt": "2026-08-12T17:01:11.000Z"
+    },
+    {
       "id": "n_27adfce803",
       "type": "news",
       "topic": "tech",
@@ -519,15 +530,15 @@
       "publishedAt": "2026-08-12T00:08:40.000Z"
     },
     {
-      "id": "n_dbac704060",
+      "id": "n_05510c646b",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it's idiotic",
-      "summary": "It took just hours for the leading pharma group to reject the recommendations.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/08/trump-wants-big-pharma-to-split-mmr-vaccine-big-pharma-thinks-its-idiotic/",
-      "publishedAt": "2026-08-11T22:31:45.000Z"
+      "headline": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "publishedAt": "2026-08-12T20:10:40.000Z"
     },
     {
       "id": "n_b83b50f518",
@@ -546,7 +557,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "summary": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+      "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
       "publishedAt": "2026-08-12T17:51:00.000Z"
@@ -557,7 +568,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Alitmeter Capital.",
+      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
       "publishedAt": "2026-08-12T17:41:29.000Z"
@@ -607,39 +618,6 @@
       "publishedAt": "2026-08-12T15:44:56.000Z"
     },
     {
-      "id": "n_7b115a8868",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-      "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especiall",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-      "publishedAt": "2026-08-12T14:22:00.000Z"
-    },
-    {
-      "id": "n_70c73a35f6",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Twitch streamers can now opt out from training Amazon’s AI",
-      "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "publishedAt": "2026-08-12T17:29:10.000Z"
-    },
-    {
-      "id": "n_617b8a3f06",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Guitar company D’Addario admits that AI music was used in a promotional video",
-      "summary": "Maybe don’t let the AI shred next time. | Image: D’Addario After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, ev",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
-      "publishedAt": "2026-08-12T15:52:07.000Z"
-    },
-    {
       "id": "n_1b0e93cced",
       "type": "news",
       "topic": "ai",
@@ -656,7 +634,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer ",
+      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer ",
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
       "publishedAt": "2026-08-12T12:09:34.000Z"
@@ -704,6 +682,28 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
       "publishedAt": "2026-08-11T17:50:01.000Z"
+    },
+    {
+      "id": "n_816ed2f1a2",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Made by Google 2026: all the Pixel news and announcements",
+      "summary": "Google has revealed a bunch of new Pixel devices ahead of its Made by Google event. The colorful Pixel 11 lineup comes with upgraded cameras and performance, with the Pro models offering a built-in LED ring that lights up for Google’s Gemini AI and other features. Google also sho",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
+      "publishedAt": "2026-08-11T17:00:00.000Z"
+    },
+    {
+      "id": "n_95bd5da674",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Apple could help you prove your iPhone photos aren’t deepfakes",
+      "summary": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+      "publishedAt": "2026-08-11T16:19:15.000Z"
     },
     {
       "id": "n_3d6d30af34",
@@ -871,6 +871,28 @@
       "publishedAt": "2026-07-29T08:42:57.000Z"
     },
     {
+      "id": "n_99584ee20d",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The White House Is Going to Expand Its AI Policy",
+      "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+      "publishedAt": "2026-08-12T21:00:00.000Z"
+    },
+    {
+      "id": "n_54da5181bd",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
+      "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+      "publishedAt": "2026-08-12T18:45:00.000Z"
+    },
+    {
       "id": "n_fd95d88ee0",
       "type": "news",
       "topic": "ai",
@@ -935,28 +957,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
       "publishedAt": "2026-08-11T11:00:00.000Z"
-    },
-    {
-      "id": "n_c073b33319",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI Is Dead. Organoids Are Alive",
-      "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
-      "publishedAt": "2026-08-11T10:00:00.000Z"
-    },
-    {
-      "id": "n_fb96ce21d2",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia",
-      "summary": "Recent findings provide one of the most detailed pictures to date of the genetic architecture of schizophrenia, opening up new avenues for research into the disorder.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/",
-      "publishedAt": "2026-08-11T09:00:00.000Z"
     },
     {
       "id": "n_e43158037a",
