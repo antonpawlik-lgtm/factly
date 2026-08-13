@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-13T18:44:39.500Z",
+  "generatedAt": "2026-08-13T21:32:49.628Z",
   "items": [
     {
-      "id": "n_3951602548",
+      "id": "n_dfc3e29c19",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Prozess um WM-Katar 2022: Whistleblower an Ausreise gehindert",
-      "summary": "Der Ex-Mediendirektor des Organisationskomitees der WM 2022 in Katar ist ein wichtiger Zeuge, wenn es um den Vorwurf der Zwangsarbeit und des Menschenhandels geht. Doch Abdullah Ibhais darf nicht zu einem Prozess in die USA reisen. Von B. Best.",
+      "headline": "Klage über Missstände - Flugzeugträger \"USS Abraham Lincoln\" wird wohl abgelöst",
+      "summary": "Die Lebensmittel knapp, seit Monaten kein Landgang: US-Senatoren sorgen sich um die Marinestreitkräfte auf dem Flugzeugträger \"USS Abraham Lincoln\". Dieser soll offenbar nun abgelöst werden. Von Anne Schneider.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/jordanien-whistleblower-wm-katar-verhaftet-100.html",
-      "publishedAt": "2026-08-13T18:16:07.000Z"
+      "url": "https://www.tagesschau.de/ausland/amerika/us-flugzeugtraeger-uss-abraham-lincoln-100.html",
+      "publishedAt": "2026-08-13T20:08:42.000Z"
     },
     {
       "id": "n_afce02e560",
@@ -18,10 +18,21 @@
       "topic": "general",
       "lang": "de",
       "headline": "Passagierzug im Südosten Englands entgleist - wohl keine Toten",
-      "summary": "In der Grafschaft East Sussex im Südosten Englands ist am späten Nachmittag ein Zug entgleist, mehrere Waggons sind dabei umgekippt. Nach bisherigen Erkenntnissen gibt es keine Toten oder Schwerverletzten.",
+      "summary": "Im Südosten Englands ist am späten Nachmittag ein Zug entgleist, mehrere Waggons sind dabei umgekippt. Mehrere Menschen wurden verletzt - nach bisherigen Erkenntnissen gibt es keine Toten.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/zugunglueck-east-sussex-102.html",
-      "publishedAt": "2026-08-13T17:57:17.000Z"
+      "publishedAt": "2026-08-13T19:55:03.000Z"
+    },
+    {
+      "id": "n_3951602548",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Prozess um WM in Katar 2022: Whistleblower an Ausreise gehindert",
+      "summary": "Der Ex-Mediendirektor des Organisationskomitees der WM 2022 in Katar ist ein wichtiger Zeuge, wenn es um den Vorwurf der Zwangsarbeit und des Menschenhandels geht. Doch Abdullah Ibhais darf nicht zu einem Prozess in die USA reisen. Von B. Best.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/jordanien-whistleblower-wm-katar-verhaftet-100.html",
+      "publishedAt": "2026-08-13T18:16:07.000Z"
     },
     {
       "id": "n_5046270bb7",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/krah-haftbefehl-100.html",
       "publishedAt": "2026-08-13T14:50:05.000Z"
-    },
-    {
-      "id": "n_a86815dd74",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Beschädigter Tanker: Ölteppich vor Oman breitet sich weiter aus",
-      "summary": "Seit mehreren Wochen strömt Öl aus einem havarierten Tanker vor der Küste Omans. Die verschmutzte Fläche wird immer größer, Umweltorganisationen befürchten eine Katastrophe. Nun soll das Wrack geborgen werden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/oman-oelpest-tanker-100.html",
-      "publishedAt": "2026-08-13T14:44:35.000Z"
     },
     {
       "id": "n_6b9374ccab",
@@ -266,15 +266,15 @@
       "publishedAt": "2026-08-13T14:58:02.000Z"
     },
     {
-      "id": "n_34a2437c4c",
+      "id": "n_09443cca3d",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-      "summary": "Mangione faces two federal stalking crimes that carry a maximum penalty of life in prison without parole.",
+      "headline": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T18:42:43.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T20:12:17.000Z"
     },
     {
       "id": "n_89555754a0",
@@ -285,7 +285,40 @@
       "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T18:36:02.000Z"
+      "publishedAt": "2026-08-13T20:01:30.000Z"
+    },
+    {
+      "id": "n_91fd82f2cc",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T19:46:27.000Z"
+    },
+    {
+      "id": "n_d09148a54c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Family of Irish plane crash victim awarded $29m in damages",
+      "summary": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his widow Naoise Connolly Ryan brought a civil suit against Boeing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T19:08:49.000Z"
+    },
+    {
+      "id": "n_34a2437c4c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+      "summary": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T18:45:51.000Z"
     },
     {
       "id": "n_0758efa7f4",
@@ -297,28 +330,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-13T16:52:15.000Z"
-    },
-    {
-      "id": "n_09443cca3d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-      "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T16:20:41.000Z"
-    },
-    {
-      "id": "n_91fd82f2cc",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T16:05:35.000Z"
     },
     {
       "id": "n_182debe3e3",
@@ -341,17 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-13T15:30:57.000Z"
-    },
-    {
-      "id": "n_1ee5a1141e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "UK defends seizing shadow fleet tanker after Putin threat",
-      "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T15:05:12.000Z"
     },
     {
       "id": "n_57b4a23cfc",
@@ -442,6 +442,83 @@
       "publishedAt": "2026-08-11T19:30:00.000Z"
     },
     {
+      "id": "n_285cb3fe60",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Private security firms will soon be allowed to hack overseas cybercriminals",
+      "summary": "Trump memo is first time gov't has authorized private sector to perform cyber attacks.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+      "publishedAt": "2026-08-13T19:38:58.000Z"
+    },
+    {
+      "id": "n_b1fa524914",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Virgin Galactic wants your help naming its new Delta class spaceship",
+      "summary": "Will it be the VSS... Horizon, Explorer, Ascend or Apeiron?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
+      "publishedAt": "2026-08-13T19:12:15.000Z"
+    },
+    {
+      "id": "n_5230e775c6",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Ukrainian drones wipe out entire US tank brigade in live war game",
+      "summary": "Ukrainian drone pilots teach the US military and NATO hard battlefield lessons.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
+      "publishedAt": "2026-08-13T18:31:56.000Z"
+    },
+    {
+      "id": "n_69284f51f0",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
+      "summary": "Flock to lock out cops who stalk exes, but agencies can still hide abuse.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
+      "publishedAt": "2026-08-13T18:10:14.000Z"
+    },
+    {
+      "id": "n_522954cd96",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Pet owners say smart pet feeder outage led to furry ones going unfed",
+      "summary": "\"I've lost trust ...\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed/",
+      "publishedAt": "2026-08-13T17:53:53.000Z"
+    },
+    {
+      "id": "n_e3152e562f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "The new Instagram logo is the perfect embodiment of AI slop",
+      "summary": "Opinion: Some remarks about the new wordmark accidentally being perfectly awful.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+      "publishedAt": "2026-08-13T17:32:10.000Z"
+    },
+    {
+      "id": "n_cf3951101d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "publishedAt": "2026-08-13T17:00:13.000Z"
+    },
+    {
       "id": "n_6710bde7fa",
       "type": "news",
       "topic": "tech",
@@ -453,81 +530,48 @@
       "publishedAt": "2026-08-13T14:00:57.000Z"
     },
     {
-      "id": "n_57d12d777b",
+      "id": "n_952a2dd22c",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Anthropic could be worth $2 trillion when it goes public",
-      "summary": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
-      "publishedAt": "2026-08-13T13:58:56.000Z"
+      "headline": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "publishedAt": "2026-08-13T21:13:24.000Z"
     },
     {
-      "id": "n_b73796d605",
+      "id": "n_9409c8f8a9",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
-      "summary": "Let's shield the astronauts instead of the spacecraft.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
-      "publishedAt": "2026-08-13T13:48:55.000Z"
+      "headline": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "publishedAt": "2026-08-13T20:14:39.000Z"
     },
     {
-      "id": "n_ce6137803a",
+      "id": "n_a894d6a467",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Claude's new Scarlet Letter watermark is invisible—for now",
-      "summary": "The mark flags anything Claude processed, even human writing it only edited.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-      "publishedAt": "2026-08-13T11:10:18.000Z"
+      "headline": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "publishedAt": "2026-08-13T19:22:40.000Z"
     },
     {
-      "id": "n_2b21256f8d",
+      "id": "n_79aa75fcb7",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
-      "summary": "Boy's unusual symptoms could help identify the next case sooner.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
-      "publishedAt": "2026-08-12T22:31:19.000Z"
-    },
-    {
-      "id": "n_b7995d0a4e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "The web’s newest weapon against AI scrapers is a font",
-      "summary": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
-      "publishedAt": "2026-08-12T22:02:25.000Z"
-    },
-    {
-      "id": "n_80c120873d",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Terabytes of credentials leaked in massive supply-chain attack",
-      "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-      "publishedAt": "2026-08-12T21:43:21.000Z"
-    },
-    {
-      "id": "n_af0f2f319b",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Have physicists finally discovered glueballs? New evidence points to yes.",
-      "summary": "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
-      "publishedAt": "2026-08-12T21:13:39.000Z"
+      "headline": "IBM partners with OpenAI to bolster enterprise AI push",
+      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "publishedAt": "2026-08-13T19:19:49.000Z"
     },
     {
       "id": "n_d83d050a98",
@@ -535,7 +579,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
       "publishedAt": "2026-08-13T18:28:14.000Z"
@@ -546,7 +590,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "OpenAI hires new CRO as executive shake-up continues",
-      "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
+      "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
       "publishedAt": "2026-08-13T17:07:13.000Z"
@@ -574,48 +618,15 @@
       "publishedAt": "2026-08-13T15:08:00.000Z"
     },
     {
-      "id": "n_5e692bda6f",
+      "id": "n_7bececf76d",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Apple in talks to pay publishers to provide Siri with current news: report",
-      "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-      "publishedAt": "2026-08-13T14:34:43.000Z"
-    },
-    {
-      "id": "n_6648dbd012",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "publishedAt": "2026-08-12T22:26:37.000Z"
-    },
-    {
-      "id": "n_05510c646b",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-      "publishedAt": "2026-08-12T20:10:40.000Z"
-    },
-    {
-      "id": "n_b83b50f518",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "publishedAt": "2026-08-12T18:19:12.000Z"
+      "headline": "OpenAI is losing its second executive this week",
+      "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, presiden",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "publishedAt": "2026-08-13T19:28:39.000Z"
     },
     {
       "id": "n_9f3f44e2b7",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
       "publishedAt": "2026-08-12T14:00:00.000Z"
-    },
-    {
-      "id": "n_2484f165f2",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-      "publishedAt": "2026-08-12T12:09:34.000Z"
     },
     {
       "id": "n_3d6d30af34",
@@ -871,6 +871,17 @@
       "publishedAt": "2026-08-03T08:30:05.000Z"
     },
     {
+      "id": "n_91015cd065",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything",
+      "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+      "publishedAt": "2026-08-13T21:14:43.000Z"
+    },
+    {
       "id": "n_76a4a47aa7",
       "type": "news",
       "topic": "ai",
@@ -946,17 +957,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
       "publishedAt": "2026-08-12T09:30:00.000Z"
-    },
-    {
-      "id": "n_6aa86e7795",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
-      "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
-      "publishedAt": "2026-08-11T12:37:12.000Z"
     },
     {
       "id": "n_c1c9885561",
