@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-08-12T21:32:31.275Z",
+  "generatedAt": "2026-08-13T00:55:41.266Z",
   "items": [
+    {
+      "id": "n_539e61da7f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ätna sorgt weiter für Reisechaos auf Sizilien",
+      "summary": "Der Ätna spuckt weiter Asche, der Flughafen von Catania bleibt dicht. Die Sperre wurde am Abend erneut verlängert. Für Tausende Reisende auf der italienischen Insel Sizilien geht damit das Flugchaos weiter.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/atna-ausbruch-flughafen-dicht-100.html",
+      "publishedAt": "2026-08-12T22:22:33.000Z"
+    },
+    {
+      "id": "n_e710db2a87",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Trumps Pressesprecherin Leavitt verlässt Weißes Haus",
+      "summary": "Ein weiterer prominenter Abgang im Weißen Haus: Pressesprecherin Leavitt wird ihren Posten aufgeben, schrieb US-Präsident Trump auf seiner Plattform Truth Social. Die 28-Jährige wolle sich mehr um ihre Familie kümmern.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/trump-leavitt-100.html",
+      "publishedAt": "2026-08-12T22:16:30.000Z"
+    },
     {
       "id": "n_47c5876790",
       "type": "news",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/verkehrsminister-hitzeschutz-bahn-100.html",
       "publishedAt": "2026-08-12T16:49:45.000Z"
-    },
-    {
-      "id": "n_69817fff65",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Massen künstlicher Songs: Spotify will KI-Künstler klarer kennzeichnen",
-      "summary": "Künftig sollen Spotify-Nutzer besser erkennen, ob sie Musik echter Künstlerinnen und Künstler hören oder von KI-Profilen. Spotify verspricht mehr Transparenz. Was können Nutzende erwarten? Von Constantin Röse.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/spotify-ki-kennzeichnung-musikstreaming-100.html",
-      "publishedAt": "2026-08-12T15:13:54.000Z"
-    },
-    {
-      "id": "n_3c1c09eb43",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Kabinettsbeschluss: Mehr Macht für Nachrichtendienste - das ist geplant",
-      "summary": "Eingreifen statt zuschauen: Die Nachrichtendienste sollen operative Befugnisse bekommen - um etwa Sprengstoff von möglichen Angreifern unschädlich machen zu können. Ein Paradigmenwechsel. Was ist genau geplant? Von C. Kornmeier.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/befugnisse-bnd-verfassungsschutz-100.html",
-      "publishedAt": "2026-08-12T14:52:09.000Z"
     },
     {
       "id": "n_bb66754bdb",
@@ -178,6 +178,17 @@
       "publishedAt": "2026-08-11T05:31:00.000Z"
     },
     {
+      "id": "n_01a459c28f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Sonnenfinsternis und Stromnetz: Nur eine kleine Delle in den Daten",
+      "summary": "Die Sonnenfinsternis hat sich nur geringfügig auf die Stromproduktion durch Solarenergie ausgewirkt. In einem Jahr könnte der Effekt größer sein. (Solarenergie, Kühlung)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/sonnenfinsternis-und-stromnetz-nur-eine-kleine-delle-in-den-daten-2608-211873.html",
+      "publishedAt": "2026-08-12T21:43:02.000Z"
+    },
+    {
       "id": "n_3d354e5a10",
       "type": "news",
       "topic": "tech",
@@ -255,15 +266,15 @@
       "publishedAt": "2026-08-12T15:01:01.000Z"
     },
     {
-      "id": "n_1702ded860",
+      "id": "n_78ff4fec13",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Google: Pixel Watch 5 hat bessere Akkulaufzeit und genaueres GPS",
-      "summary": "Google verbessert bei der Pixel Watch 5 unter anderem Akkulaufzeit, GPS und einige Gesundheitsfunktionen. (Pixel Watch, Google)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/google-pixel-watch-5-mit-mehr-akku-und-genauerem-gps-2608-211866.html",
-      "publishedAt": "2026-08-12T14:43:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "'If you're not conservative, don't come here': The town making missiles for Trump",
+      "summary": "Trump's poll numbers appear to be down, but in this town, his support is as strong as ever.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n8nd6645o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T23:26:21.000Z"
     },
     {
       "id": "n_5853ee8f18",
@@ -274,7 +285,40 @@
       "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T20:58:39.000Z"
+      "publishedAt": "2026-08-12T23:19:57.000Z"
+    },
+    {
+      "id": "n_c2c89581e3",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+      "summary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T23:19:28.000Z"
+    },
+    {
+      "id": "n_547200c61d",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
+      "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T23:11:35.000Z"
+    },
+    {
+      "id": "n_75a9a8c6b5",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Why Japanese firms are being so slow to use AI",
+      "summary": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T23:00:47.000Z"
     },
     {
       "id": "n_d4578d08ad",
@@ -285,51 +329,7 @@
       "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T20:57:47.000Z"
-    },
-    {
-      "id": "n_8f279dfc29",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "ICE plans to equip agents with gloves that can deliver electric shocks",
-      "summary": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T20:57:13.000Z"
-    },
-    {
-      "id": "n_b28edaa1ce",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Woman pulled alive from rubble 36 hours after Colombia quake",
-      "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T20:56:11.000Z"
-    },
-    {
-      "id": "n_e8201d357c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-      "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T17:47:01.000Z"
-    },
-    {
-      "id": "n_c9a1ebd9ff",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US inflation eases as food and fuel costs cool",
-      "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T17:03:05.000Z"
+      "publishedAt": "2026-08-12T22:58:45.000Z"
     },
     {
       "id": "n_65e2c412d5",
@@ -340,18 +340,18 @@
       "summary": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T16:35:52.000Z"
+      "publishedAt": "2026-08-12T22:56:44.000Z"
     },
     {
-      "id": "n_b86fbc4ab5",
+      "id": "n_b28edaa1ce",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Israeli settlers besieging Palestinian families in West Bank village",
-      "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+      "headline": "Woman pulled alive from rubble 36 hours after Colombia quake",
+      "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T16:14:08.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T22:41:46.000Z"
     },
     {
       "id": "n_bd5715e8f3",
@@ -431,15 +431,81 @@
       "publishedAt": "2026-08-07T09:22:03.000Z"
     },
     {
-      "id": "n_fd4d3e267e",
+      "id": "n_2b21256f8d",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "First OpenAI, now Meta - why do AI hacks keep happening?",
-      "summary": "A flood of companies are revealing AI models gained access to the internet - with real consequences.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-06T15:59:34.000Z"
+      "headline": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
+      "summary": "Boy's unusual symptoms could help identify the next case sooner.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
+      "publishedAt": "2026-08-12T22:31:19.000Z"
+    },
+    {
+      "id": "n_b7995d0a4e",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "The web’s newest weapon against AI scrapers is a font",
+      "summary": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+      "publishedAt": "2026-08-12T22:02:25.000Z"
+    },
+    {
+      "id": "n_80c120873d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Terabytes of credentials leaked in massive supply-chain attack",
+      "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "publishedAt": "2026-08-12T21:43:21.000Z"
+    },
+    {
+      "id": "n_af0f2f319b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Have physicists finally discovered glueballs? New evidence points to yes.",
+      "summary": "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
+      "publishedAt": "2026-08-12T21:13:39.000Z"
+    },
+    {
+      "id": "n_24a64c1218",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "publishedAt": "2026-08-12T21:00:30.000Z"
+    },
+    {
+      "id": "n_b6a245e2e4",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
+      "summary": "With Truth API, Trump is \"selling priority access to news he himself generates.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/",
+      "publishedAt": "2026-08-12T20:20:52.000Z"
+    },
+    {
+      "id": "n_dcbf4d15b1",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
+      "summary": "Hundreds of Homeland Security drones retasked to survey wildlife and livestock.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/",
+      "publishedAt": "2026-08-12T19:40:46.000Z"
     },
     {
       "id": "n_fb6dbb174d",
@@ -453,81 +519,15 @@
       "publishedAt": "2026-08-12T17:01:11.000Z"
     },
     {
-      "id": "n_27adfce803",
+      "id": "n_6648dbd012",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "US tries to override New York gambling laws, orders Kalshi to keep operating",
-      "summary": "Trump admin claims New York suing Kalshi created \"market emergency.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/",
-      "publishedAt": "2026-08-12T16:33:43.000Z"
-    },
-    {
-      "id": "n_ef64a8025f",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Booksellers suspect AI firms are buying and then destroying rare books",
-      "summary": "AI firms quietly bulk buying rare books face resistance from booksellers.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
-      "publishedAt": "2026-08-12T15:19:17.000Z"
-    },
-    {
-      "id": "n_94761ad38b",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
-      "summary": "Google focuses more on AI and curated experiences than spec upgrades in 2026.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
-      "publishedAt": "2026-08-12T14:00:51.000Z"
-    },
-    {
-      "id": "n_9ca42c275b",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Researchers found a way to hijack devices through Zoom screen sharing",
-      "summary": "A public AI tool found the dangerous Zoom flaw in under 20 prompts.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
-      "publishedAt": "2026-08-12T13:37:12.000Z"
-    },
-    {
-      "id": "n_a7d64caad8",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Formula E finds a new home on Disney+, ESPN+",
-      "summary": "The deal starts with the arrival of the GEN4 car and 2026-27 season this December.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/08/formula-e-finds-a-new-home-on-disney-espn/",
-      "publishedAt": "2026-08-12T13:35:30.000Z"
-    },
-    {
-      "id": "n_e50e02aac8",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Did poop enable the evolution of complex animals?",
-      "summary": "In a recent study, evolution gets even messier than usual.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/",
-      "publishedAt": "2026-08-12T12:34:38.000Z"
-    },
-    {
-      "id": "n_6b5f8e2ce3",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
-      "summary": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
-      "publishedAt": "2026-08-12T00:08:40.000Z"
+      "headline": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "publishedAt": "2026-08-12T22:26:37.000Z"
     },
     {
       "id": "n_05510c646b",
@@ -607,15 +607,26 @@
       "publishedAt": "2026-08-12T16:04:27.000Z"
     },
     {
-      "id": "n_c102a64d07",
+      "id": "n_70c73a35f6",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-      "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-      "publishedAt": "2026-08-12T15:44:56.000Z"
+      "headline": "Twitch streamers can now opt out from training Amazon’s AI",
+      "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "publishedAt": "2026-08-12T17:29:10.000Z"
+    },
+    {
+      "id": "n_617b8a3f06",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Guitar company D’Addario admits that AI music was used in a promotional video",
+      "summary": "Maybe don’t let the AI shred next time. | Image: D’Addario After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, ev",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+      "publishedAt": "2026-08-12T15:52:07.000Z"
     },
     {
       "id": "n_1b0e93cced",
@@ -634,7 +645,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer ",
+      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer ",
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
       "publishedAt": "2026-08-12T12:09:34.000Z"
@@ -682,28 +693,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
       "publishedAt": "2026-08-11T17:50:01.000Z"
-    },
-    {
-      "id": "n_816ed2f1a2",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Made by Google 2026: all the Pixel news and announcements",
-      "summary": "Google has revealed a bunch of new Pixel devices ahead of its Made by Google event. The colorful Pixel 11 lineup comes with upgraded cameras and performance, with the Pro models offering a built-in LED ring that lights up for Google’s Gemini AI and other features. Google also sho",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
-      "publishedAt": "2026-08-11T17:00:00.000Z"
-    },
-    {
-      "id": "n_95bd5da674",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Apple could help you prove your iPhone photos aren’t deepfakes",
-      "summary": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference Image\" system that can embed provenance metadata into iPhone photographs at the",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
-      "publishedAt": "2026-08-11T16:19:15.000Z"
     },
     {
       "id": "n_3d6d30af34",
