@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-08-13T07:07:46.241Z",
+  "generatedAt": "2026-08-13T09:52:02.185Z",
   "items": [
+    {
+      "id": "n_2151ceb3b9",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Großbritannien: Farages Pokerspiel mit der Nachwahl",
+      "summary": "Eine Nachwahl soll dem britischen Rechtspopulisten Farage den Rücken stärken. Nach dubiosen Millionen-Spenden hat er sein Mandat niedergelegt - er will aber heute durch die Nachwahl zurück ins Parlament. Geht sein Kalkül auf? Von C. Prössl.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/uk-clacton-nachwahl-farage-100.html",
+      "publishedAt": "2026-08-13T08:55:20.000Z"
+    },
+    {
+      "id": "n_084319edde",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Eskalation am Schwarzen Meer: Russland und Ukraine weiten Angriffe aus",
+      "summary": "Die russische Schwarzmeerküste, besonders die Hafenstadt Noworossijsk, ist laut russischen Angaben von zahlreichen ukrainischen Drohnen getroffen worden. Die beiderseitigen Angriffe scheinen sich derzeit auf die Region zu konzentrieren.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-schwarzes-meer-100.html",
+      "publishedAt": "2026-08-13T08:52:18.000Z"
+    },
+    {
+      "id": "n_5046270bb7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: DAX-Rekordserie könnte sich fortsetzen",
+      "summary": "Starke Firmenbilanzen und die Aussicht auf einen stabilen Leitzins in den USA locken die Anleger in den Aktienmarkt. Aber Fachleute warnen: Nach der jüngsten Rally könnte bald eine Konsolidierung anstehen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-us-inflation-100.html",
+      "publishedAt": "2026-08-13T08:27:01.000Z"
+    },
+    {
+      "id": "n_267bb2b9db",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Kritik aus Japan: Putin besucht umstrittene Kurilen-Insel",
+      "summary": "Der Besuch des russischen Präsidenten Putin auf den Kurilen-Inseln löst in Japan scharfen Protest aus. Beide Länder beanspruchen die Inselkette seit Ende des Zweiten Weltkriegs für sich.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/russland-kurilen-inseln-putin-100.html",
+      "publishedAt": "2026-08-13T07:09:07.000Z"
+    },
     {
       "id": "n_5324ac4b23",
       "type": "news",
@@ -29,21 +73,10 @@
       "topic": "general",
       "lang": "de",
       "headline": "Trump-Sprecherin Leavitt - die oberste Influencerin des Weißen Hauses geht",
-      "summary": "Karoline Leavitt hat immer Zugang zu Präsident Trump. Ihre Rolle als Sprecherin interpretierte sie neu - mit einem \"Mundwerk wie ein Maschinengewehr\". Ihr plötzlicher Abschied aus dem Weißen Haus nährt Spekulationen. Von S.Jackisch.",
+      "summary": "Karoline Leavitt hat immer Zugang zu Präsident Trump. Ihre Rolle als Sprecherin interpretierte sie neu - mit einem \"Mundwerk wie ein Maschinengewehr\". Ihr plötzlicher Abschied aus dem Weißen Haus nährt Spekulationen. Von S. Jackisch.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/leavitt-ruecktritt-102.html",
       "publishedAt": "2026-08-13T06:05:33.000Z"
-    },
-    {
-      "id": "n_5046270bb7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: Anleger trauen sich zurück in den Markt",
-      "summary": "Der DAX dürfte sich zum Handelsstart wieder seinem Rekordstand annähern. Für Zuversicht sorgen gestrige US-Inflationsdaten. Auch die Vorgaben aus Japan und Südkorea fallen ansprechend aus.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-us-inflation-100.html",
-      "publishedAt": "2026-08-13T05:36:04.000Z"
     },
     {
       "id": "n_5029216037",
@@ -57,37 +90,81 @@
       "publishedAt": "2026-08-13T05:26:25.000Z"
     },
     {
-      "id": "n_8818eefc00",
+      "id": "n_72e9f2cbe6",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Studie: AfD-Politik nicht auf Arbeiter ausgerichtet",
-      "summary": "Die AfD holt bei Arbeitern besonders viele Stimmen. Laut einer von Panorama in Auftrag gegebenen Studie hält sie aber am marktliberalen Kurs ihrer Gründungszeit fest - und hat ihn zuletzt sogar verschärft. Von S. Friedrich und I. Schneider.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/afd-wirtschaftspolitik-arbeiter-100.html",
-      "publishedAt": "2026-08-13T05:16:40.000Z"
+      "headline": "Apple verrät mehr Details zu KI-Kosten: Höchste Stufe wohl bei 60 Euro",
+      "summary": "Im Rahmen seiner jüngsten iOS-27-Beta sickern mehr Angaben zu Apples KI-Tarifplänen durch. Das gilt unter anderem für HomeKit Secure Video – aber nicht nur.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Apple-verraet-mehr-Details-zu-KI-Kosten-Hoechste-Stufe-wohl-bei-60-Euro-11410709.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-13T08:59:00.000Z"
     },
     {
-      "id": "n_2351a9df01",
+      "id": "n_7fdfde14bd",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Sambia vor der Wahl: Kupfer, Reformen und hohe Preise",
-      "summary": "Sambia wählt einen neuen Präsidenten und ein neues Parlament. Das Land gilt als vergleichsweise stabile Demokratie in einer krisenhaften Region. Staatschef Hichilema ist der Favorit - und doch hoffen viele auf eine Wechsel. Von S. Ueberbach.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/wahl-sambia-106.html",
-      "publishedAt": "2026-08-13T04:43:52.000Z"
+      "headline": "Zoom: Zero-Klick-Lücke ermöglicht Codeschmuggel",
+      "summary": "In Zoom haben IT-Forscher Zero-Klick-Lücken entdeckt, durch die Konferenzteilnehmer anderen beliebigen Code unterjubeln können.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Zoom-Zero-Klick-Luecke-ermoeglicht-Codeschmuggel-11412359.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-13T08:52:00.000Z"
     },
     {
-      "id": "n_a4d4f1cb32",
+      "id": "n_af7be64023",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Folgen von Dürre und Niedrigwasser - die Auswirkungen im Alltag",
-      "summary": "Die Pegelstände des Rheins sinken weiter - was die Logistik massiv stört. Gleichzeitig leidet die Landwirtschaft stark unter der anhaltenden Trockenheit. Woran sind die Folgen im Alltag bereits zu merken? Von Jens Eberl.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/rhein-niedrigwasser-folgen-100.html",
-      "publishedAt": "2026-08-13T04:00:09.000Z"
+      "headline": "„Call Connect via Funk“: Telekom ersetzt klassisches Festnetz durch LTE",
+      "summary": "Die Deutsche Telekom möchte alte Telefonanschlüsse ablösen. Mit der Telefon-Box „Call Connect via Funk“ bietet der Konzern Festnetztelefonie über das LTE-Netz.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Call-Connect-via-Funk-Telekom-ersetzt-klassisches-Festnetz-durch-LTE-11412448.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-13T08:44:00.000Z"
+    },
+    {
+      "id": "n_2ac82ccf0c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "TAC-2: Commodore legt Kult-Joystick aus den 80ern neu auf",
+      "summary": "Nach dem C64 bringt das neue Commodore nun auch einen legendären Joystick aus den 80ern zurück. Doch außerhalb der USA trübt ein Faktor die Vorfreude erheblich.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/TAC-2-Commodore-legt-Kult-Joystick-aus-den-80ern-neu-auf-11412480.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-13T08:37:00.000Z"
+    },
+    {
+      "id": "n_6feec1a1e9",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Reparieren statt wegwerfen: Neue Konstruktionsrichtlinien für E-Auto-Akkus",
+      "summary": "Verschraubt statt verklebt: Das Projekt E-Track legt Konstruktionsrichtlinien vor, die Traktionsbatterien reparierbar und recyclingfreundlich machen sollen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/TU-Graz-entwickelt-Konstruktionsrichtlinien-fuer-reparierbare-E-Auto-Batterien-11412442.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-13T08:25:00.000Z"
+    },
+    {
+      "id": "n_14b76f82f8",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Hydromax: JCB stellt das schnellste Verbrenner-Wasserstofffahrzeug der Welt",
+      "summary": "JCB hat wie angekündigt den bestehenden Geschwindigkeitsrekord von Wasserstoff-Verbrennungsfahrzeugen überboten. Anvisiert waren über 350 mph.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/JCB-Hydromax-knackt-Geschwindigkeitsrekord-fuer-Verbrenner-Wasserstofffahrzeuge-11412381.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-13T08:07:00.000Z"
+    },
+    {
+      "id": "n_bb66754bdb",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Hitze und Trockenheit: Europas Strommarkt funktioniert auch dank Photovoltaik",
+      "summary": "Die lang anhaltende Hitze und Trockenheit stellt die Stromerzeugung in Europa vor Herausforderungen. Dank Photovoltaik besteht aber kein Grund zur Sorge.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Folgen-von-Hitze-und-Trockenheit-In-Europa-keine-Stromknappheit-zu-befuerchten-11411201.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-12T10:01:00.000Z"
     },
     {
       "id": "n_138a08f92a",
@@ -101,191 +178,147 @@
       "publishedAt": "2026-08-12T07:14:00.000Z"
     },
     {
-      "id": "n_8a192565dd",
+      "id": "n_8d4b93d04f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Kupfer-Aus: Neues Gutachten widerspricht rechtlichen Bedenken",
-      "summary": "Ein neues Gutachten sieht die geplante EU-weite Abschaltung von Kupfernetzen bis 2035 als europarechtlich zulässig an und widerspricht damit früheren Bedenken.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Gutachten-Anordnung-zur-Kupfer-Abschaltung-moeglich-11410803.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-12T05:48:00.000Z"
-    },
-    {
-      "id": "n_e7e7851fc2",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Deutschland-Stack: Mit vier Studien zur digitalen Verwaltung",
-      "summary": "Das Kompetenznetzwerk Digitale Verwaltung fördert vier Kurzstudien zum Deutschland-Stack. Sie sollen die Digitalisierung von Behörden vorantreiben.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Deutschland-Stack-Mit-vier-Studien-zur-digitalen-Verwaltung-11410335.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-11T13:41:00.000Z"
-    },
-    {
-      "id": "n_d81332b927",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Intel verwässert sich für 20 Milliarden US-Dollar",
-      "summary": "Intel füllt die eigene Investitionskasse durch neu herausgegebene Aktien. Damit könnte der Konzern etwa seine Halbleiterwerke ausbauen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Intel-verwaessert-sich-fuer-20-Milliarden-US-Dollar-11410327.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-11T13:28:00.000Z"
-    },
-    {
-      "id": "n_393302e222",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Zeitzeugen berichten: AR-App zum Mauerbau von WDR und MDR",
-      "summary": "Ab sofort berichten drei Zeitzeugen via kostenloser AR-App von der deutschen Teilung. Das Projekt ist offen für weitere Schülerfragen bis Anfang Oktober.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Zeitzeugen-berichten-AR-App-zum-Mauerbau-von-WDR-und-MDR-11404642.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-11T13:06:00.000Z"
-    },
-    {
-      "id": "n_8b3c0eb20e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Astronomie: Mit Abstand größte 2D-Karte des Nachthimmels fertig",
-      "summary": "Die größte zweidimensionale Karte des Nachthimmels dient wegweisenden astronomischen Kampagnen als Grundlage. Sie kann aber auch direkt erforscht werden.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Astronomie-Mit-Abstand-groesste-2D-Karte-des-Nachthimmels-fertig-11409752.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-11T08:52:00.000Z"
-    },
-    {
-      "id": "n_b671a10aaa",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Nvidia mit BlackRock & Co.: Noch einmal 500 Milliarden US-Dollar für KI-Ausbau",
-      "summary": "Zusammen mit Finanzkonzernen will Nvidia noch eine halbe Billion US-Dollar für den Ausbau der KI-Infrastruktur einsammeln. Profitieren sollen etwa Start-ups.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Nvidia-mit-BlackRock-Co-Noch-einmal-500-Milliarden-US-Dollar-fuer-KI-Ausbau-11409486.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-11T05:31:00.000Z"
-    },
-    {
-      "id": "n_7d507e9462",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Zehn Jahre „No Man's Sky“: Vom Skandalstart zum kostenlosen Dauerprojekt",
-      "summary": "Hello Games lieferte 2016 mit „No Man’s Sky“ eine der größten Enttäuschungen der Spielebranche. Mit kostenlosen Updates eroberte es die Herzen zurück.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Zehn-Jahre-No-Man-s-Sky-Vom-Skandalstart-zum-kostenlosen-Dauerprojekt-11409390.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-11T04:48:00.000Z"
-    },
-    {
-      "id": "n_01bfe7047a",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Exploit geleakt: Tausende Sharepoint-Server laufenden Angriffen ausgesetzt",
-      "summary": "Abermals stehen Microsoft-Sharepoint-Instanzen über eine kritische Sicherheitslücke unter Beschuss. Admins sollten zügig handeln. (Sicherheitslücke, Microsoft)",
+      "headline": "uBlock Origin: Beliebter Adblocker kapituliert vor Facebook-Werbung",
+      "summary": "Nutzer von uBlock Origin müssen Werbung auf Facebook künftig hinnehmen. Die Entwickler geben sich der \"nutzerfeindlichen Website\" geschlagen. (AdBlocker, Browser)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/exploit-geleakt-tausende-sharepoint-server-laufenden-angriffen-ausgesetzt-2608-211880.html",
-      "publishedAt": "2026-08-13T06:49:01.000Z"
+      "url": "https://www.golem.de/news/ublock-origin-beliebter-adblocker-kapituliert-vor-facebook-werbung-2608-211892.html",
+      "publishedAt": "2026-08-13T09:50:02.000Z"
     },
     {
-      "id": "n_d59b1205aa",
+      "id": "n_42ccef83dc",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Opt-out: Twitch öffnet Streamer-Inhalte für Amazons KI-Training",
-      "summary": "Streamer müssen bei Twitch selbst aktiv werden, wenn Amazon ihre Inhalte nicht fürs KI-Training verwenden soll. Das führt zu Kritik. (Twitch, KI)",
+      "headline": "Anzeige: Dockingstation mit 15 Highspeed-Anschlüssen reduziert bei Amazon",
+      "summary": "Amazon hat eine Dockingstation mit 15 Highspeed-Anschlüssen inklusive Dual-HDMI, Gigabit-Ethernet, PD 100 W und 25-W-Ladepad im Angebot. (Dockingstation, Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/opt-out-twitch-oeffnet-streamer-inhalte-fuer-amazons-ki-training-2608-211881.html",
-      "publishedAt": "2026-08-13T06:41:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-dockingstation-mit-15-highspeed-anschluessen-reduziert-bei-amazon-2608-211893.html",
+      "publishedAt": "2026-08-13T09:39:01.000Z"
     },
     {
-      "id": "n_c0c4720ebf",
+      "id": "n_daec16ed9f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "He Dreiht ist fertig: Deutschlands größter Offshore-Windpark geht ans Netz",
-      "summary": "Der Offshore-Windpark He Dreiht hat einen wesentlichen Bauabschnitt hinter sich. Alle 64 Windkraftanlagen sind zwischenzeitlich montiert worden. (Windpark, Nachhaltigkeit)",
+      "headline": "Jeddah Tower: Saudischer Megawolkenkratzer halb fertig",
+      "summary": "Der Jeddah Tower soll das bislang höchste Gebäude der Welt werden. Fast die Hälfte der architektonischen Großleistung ist fertiggestellt. (Städte, Wissen)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/he-dreiht-ist-fertig-deutschlands-groesster-offshore-windpark-geht-ans-netz-2608-211879.html",
-      "publishedAt": "2026-08-13T06:00:01.000Z"
+      "url": "https://www.golem.de/news/jeddah-tower-saudischer-megawolkenkratzer-halb-fertig-2608-211837.html",
+      "publishedAt": "2026-08-13T09:21:01.000Z"
     },
     {
-      "id": "n_7c512189a0",
+      "id": "n_12dd2475e8",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Rumänien: Atomkraftwerk Cernavoda steht vor der Zwangsabschaltung",
-      "summary": "Das rumänische Atomkraftwerk Cernavoda muss binnen weniger Tage abgeschaltet werden. Die Folgen: weniger Strom und steigende Energiepreise. (Atomkraft, Energie & Klima)",
+      "headline": "Super Mario Bros: Unbekanntes Duck-Hunt-Modul nach 33 Jahren entdeckt",
+      "summary": "In den USA sind fast 100 Exemplare einer bislang unbekannten Variante von Super Mario Bros./Duck Hunt aufgetaucht (Super Mario, Nintendo)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/rumaenien-atomkraftwerk-cernavoda-steht-vor-der-zwangsabschaltung-2608-211878.html",
-      "publishedAt": "2026-08-13T05:47:01.000Z"
+      "url": "https://www.golem.de/news/super-mario-bros-unbekanntes-duck-hunt-modul-nach-33-jahren-entdeckt-2608-211889.html",
+      "publishedAt": "2026-08-13T09:09:02.000Z"
     },
     {
-      "id": "n_f8c30c044b",
+      "id": "n_7c2e2b40a4",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Kühlung des Atomkraftwerks Paks: Ungarn will Wasserstand künstlich erhöhen",
-      "summary": "Ungarn will die Donau anstauen, damit das AKW Paks weitergekühlt werden kann. Dazu soll eine Sohlschwelle gebaut werden. (Atomkraft, Klima)",
+      "headline": "Axionforschung: Ein riesiger Magnet sucht in der Sonne nach dunkler Materie",
+      "summary": "In Hamburg wird ein neues, experimentelles Teleskop gebaut. Mit dem Hochleistungsmagnet darin soll endlich dunkle Materie gefunden werden. (Physik, Wissenschaft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/kuehlung-des-atomkraftwerks-paks-ungarn-will-wasserstand-kuenstlich-erhoehen-2608-211877.html",
-      "publishedAt": "2026-08-13T05:27:02.000Z"
+      "url": "https://www.golem.de/news/axionforschung-ein-riesiger-magnet-sucht-in-der-sonne-nach-dunkler-materie-2608-211890.html",
+      "publishedAt": "2026-08-13T08:55:02.000Z"
     },
     {
-      "id": "n_01a459c28f",
+      "id": "n_b4326fc487",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Sonnenfinsternis und Stromnetz: Nur eine kleine Delle in den Daten",
-      "summary": "Die Sonnenfinsternis hat sich nur geringfügig auf die Stromproduktion durch Solarenergie ausgewirkt. In einem Jahr könnte der Effekt größer sein. (Solarenergie, Kühlung)",
+      "headline": "Anzeige: Tapo C201 WLAN-Innenkamera wieder zum Tiefpreis für nur 19,99 Euro",
+      "summary": "Die Tapo C201 dreht sich um 360 Grad, erkennt Babyschreien und Bewegungen und ist bei Amazon aktuell wieder günstiger. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/sonnenfinsternis-und-stromnetz-nur-eine-kleine-delle-in-den-daten-2608-211873.html",
-      "publishedAt": "2026-08-12T21:43:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-tapo-c201-wlan-innenkamera-wieder-zum-tiefpreis-fuer-nur-19-99-euro-2608-211888.html",
+      "publishedAt": "2026-08-13T08:47:01.000Z"
     },
     {
-      "id": "n_3d354e5a10",
+      "id": "n_09269c7fbe",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Flugtaxis: Hochenergetische Flugzeugbatterie von CATL geht in Serie",
-      "summary": "Für den Antrieb von Flugtaxis hat CATL einen Akku mit besonders hoher Energiedichte entwickelt. Einen ersten Kunden gibt es schon. (Lufttaxi, Luftfahrt)",
+      "headline": "Nach Supply-Chain-Angriff: Riesiges Datenleck betrifft unzählige große Konzerne",
+      "summary": "Hacker sind über kompromittierte LiteLLM-Pakete an Anmeldeinformationen von fast 2.500 teils sehr bekannten Organisationen gelangt. Das Ausmaß ist enorm. (Datenleck, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/flugtaxis-hochenergetische-flugzeugbatterie-von-catl-geht-in-serie-2608-211876.html",
-      "publishedAt": "2026-08-12T17:11:02.000Z"
+      "url": "https://www.golem.de/news/nach-supply-chain-angriff-riesiges-datenleck-betrifft-unzaehlige-grosse-konzerne-2608-211886.html",
+      "publishedAt": "2026-08-13T08:30:02.000Z"
     },
     {
-      "id": "n_68016c10d0",
+      "id": "n_c9649788f2",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Telefon-Box: Telekom ersetzt analoge Festnetznutzung durch LTE",
-      "summary": "Umstellung für alle, die rein analog telefonieren: Herkömmliche analoge MSAN-POTS-Anschlüsse, die bereitgestellt wurden, sollen laut Telekom weg. (Festnetz, DSL)",
+      "headline": "China: Diebe tauschen Geforce RTX 5080 im E-Sport-Hotel aus",
+      "summary": "Um nicht aufzufallen, haben die zwei Täter günstigere Geforce-RTX-3060-Ti-GPUs in Hotel-PCs eingebaut. Das hätte fast 3.000 Euro Gewinn gebracht. (Grafikkarten, Nvidia)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/telefon-box-telekom-ersetzt-analoge-festnetznutzung-durch-lte-2608-211875.html",
-      "publishedAt": "2026-08-12T16:50:02.000Z"
+      "url": "https://www.golem.de/news/china-diebe-tauschen-geforce-rtx-5080-im-e-sport-hotel-aus-2608-211887.html",
+      "publishedAt": "2026-08-13T08:21:02.000Z"
     },
     {
-      "id": "n_e506744639",
+      "id": "n_5853ee8f18",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Twitch users can block Amazon from using content for AI",
-      "summary": "Fans of the streaming platform criticised Twitch for letting Amazon use their content for AI training.",
+      "headline": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T06:44:53.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T09:40:18.000Z"
     },
     {
       "id": "n_71b6f39bd7",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Japan protests against Putin visit to disputed islands",
+      "headline": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
       "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T06:21:31.000Z"
+      "publishedAt": "2026-08-13T08:13:55.000Z"
+    },
+    {
+      "id": "n_09443cca3d",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "More troops to be sent to West Bank village besieged by Israeli settlers",
+      "summary": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T08:12:53.000Z"
+    },
+    {
+      "id": "n_e506744639",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Twitch faces backlash over Amazon using content to train AI",
+      "summary": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T07:32:07.000Z"
+    },
+    {
+      "id": "n_b2fff949ec",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Indian actor's video with endangered gibbon sparks investigation",
+      "summary": "A deleted video of Tamil star Vikram cuddling an endangered gibbon has triggered an inquiry into how the animal entered India.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T07:05:35.000Z"
     },
     {
       "id": "n_3742c192c5",
@@ -319,39 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-13T03:28:56.000Z"
-    },
-    {
-      "id": "n_267befcf0e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Australian army whistleblower released on parole after more than two years in jail",
-      "summary": "David McBride was jailed after pleading guilty to leaking military secrets about Afghanistan.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T02:23:39.000Z"
-    },
-    {
-      "id": "n_4abd3982ef",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-      "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T01:31:21.000Z"
-    },
-    {
-      "id": "n_547200c61d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
-      "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T01:19:23.000Z"
     },
     {
       "id": "n_2750368063",
@@ -783,6 +783,17 @@
       "publishedAt": "2026-01-07T20:00:00.000Z"
     },
     {
+      "id": "n_5ee3fd3c5d",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "How kids feel about AI, in their own words",
+      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "publishedAt": "2026-08-13T09:00:00.000Z"
+    },
+    {
       "id": "n_c0a1cd3810",
       "type": "news",
       "topic": "ai",
@@ -860,15 +871,15 @@
       "publishedAt": "2026-07-30T10:15:19.000Z"
     },
     {
-      "id": "n_d39556b679",
+      "id": "n_76a4a47aa7",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "The AI Hype Index: Unsexy AI",
-      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dext",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-      "publishedAt": "2026-07-29T08:42:57.000Z"
+      "headline": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
+      "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
+      "publishedAt": "2026-08-13T09:00:00.000Z"
     },
     {
       "id": "n_99584ee20d",
@@ -946,17 +957,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
       "publishedAt": "2026-08-11T12:37:12.000Z"
-    },
-    {
-      "id": "n_758f703494",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "A New Trick Reveals AI Models’ Inner Thoughts",
-      "summary": "Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say, indicates that some Chinese AI may be trained on leading US models.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
-      "publishedAt": "2026-08-11T11:00:00.000Z"
     },
     {
       "id": "n_e43158037a",
