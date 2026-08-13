@@ -1,16 +1,82 @@
 {
-  "generatedAt": "2026-08-13T12:39:57.417Z",
+  "generatedAt": "2026-08-13T15:45:51.942Z",
   "items": [
     {
-      "id": "n_450ac6b206",
+      "id": "n_29aa324c4e",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Studie: Soviel verdienten DAX-Vorstände 2025",
-      "summary": "Spitzenverdiener im DAX bleibt SAP-Chef Christian Klein. Doch auch andere Vorstände der großen Konzerne haben 2025 erneut mehr Geld bekommen. Das zeigt eine Auswertung von Aktionärsschützern.",
+      "headline": "Niedrigwasser: Und plötzlich liegt eine Bazooka am Ufer",
+      "summary": "Die Pegel im Rhein erreichen historische Tiefststände. Wo sonst Wasser fließt, kommen Kampfmittel, Munitionsreste und Blindgänger aus dem Zweiten Weltkrieg zutage. Der Kampfmittelräumdienst ist im Dauereinsatz. Von Lucretia Gather.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/gehalt-dax-vorstaende-dsw-100.html",
-      "publishedAt": "2026-08-13T12:28:08.000Z"
+      "url": "https://www.tagesschau.de/inland/gesellschaft/niedrigwasser-kampfmittel-rhein-100.html",
+      "publishedAt": "2026-08-13T15:30:17.000Z"
+    },
+    {
+      "id": "n_8b53226f8c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Was könnte gegen Niedrigwasser helfen?",
+      "summary": "Das Niedrigwasser in Deutschland belastet die Wirtschaft. Auf der Suche nach Lösungen wird auch ein Ausbau der Flüsse diskutiert. Das zieht Kritik nach sich. Welche Argumente und mögliche Alternativen gibt es? Ein Überblick.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/faq-niedrigwasser-ausbau-fluesse-100.html",
+      "publishedAt": "2026-08-13T15:29:49.000Z"
+    },
+    {
+      "id": "n_08f61bb759",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Haftbefehl gegen AfD-Politiker Maximilian Krah erlassen",
+      "summary": "Das Amtsgericht Chemnitz hat Haftbefehl gegen den AfD-Politiker Krah erlassen. Es geht dabei um eine juristische Auseinandersetzung mit dem Moderator Böhmermann und mutmaßlich versäumte Zahlungen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/krah-haftbefehl-100.html",
+      "publishedAt": "2026-08-13T14:50:05.000Z"
+    },
+    {
+      "id": "n_a86815dd74",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Beschädigter Tanker: Ölteppich vor Oman breitet sich weiter aus",
+      "summary": "Seit mehreren Wochen strömt Öl aus einem havarierten Tanker vor der Küste Omans. Die verschmutzte Fläche wird immer größer, Umweltorganisationen befürchten eine Katastrophe. Nun soll das Wrack geborgen werden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/oman-oelpest-tanker-100.html",
+      "publishedAt": "2026-08-13T14:44:35.000Z"
+    },
+    {
+      "id": "n_5d3de00fd1",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Niedriger Donaupegel: Rumänien schaltet einziges AKW komplett ab",
+      "summary": "Weil die Donau zu wenig Wasser führt, muss Rumänien sein einziges Atomkraftwerk ganz herunterfahren. Damit fällt ein Fünftel der Stromproduktion des Landes aus. Wie die Menschen in Rumänien mit der Energiekrise umgehen, berichtet Silke Hahne.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/rumaenien-akw-102.html",
+      "publishedAt": "2026-08-13T14:32:46.000Z"
+    },
+    {
+      "id": "n_d4108d72fc",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Berliner Kältebus angezündet - Täter muss dauerhaft in Psychiatrie",
+      "summary": "Um die Jahreswende brannten mehrere Kältebusse der Berliner Stadtmission. Der mutmaßliche Täter wurde nun verurteilt: Das Berliner Landgericht ordnete die dauerhafte Unterbringung in einem psychiatrischen Krankenhaus an.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/kaeltebus-anschlag-berlin-taeter-psychiatrie-100.html",
+      "publishedAt": "2026-08-13T13:41:24.000Z"
+    },
+    {
+      "id": "n_aa6cc268d5",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Niedrigwasser: \"Gegen fehlendes Wasser hilft keine Technik\"",
+      "summary": "Das Niedrigwasser in den Flüssen wirkt sich auch auf die Kraftwerke in Deutschland aus. Das Wasserkraftwerk in Reckingen am Hochrhein produziert weniger Strom. Der Klimawandel dürfte das Problem verschärfen. Von L. Bisch und P. Jehle.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/niedrigwasser-wasserkraftwerk-100.html",
+      "publishedAt": "2026-08-13T13:37:15.000Z"
     },
     {
       "id": "n_bc5d780cc1",
@@ -21,73 +87,29 @@
       "summary": "Die Hitze im Sommer hat zu großen Verlusten auf deutschen Getreidefeldern geführt. Der Raiffeisenverband rechnet mit einer unterdurchschnittlichen, aber zumindest noch ausreichenden Ernte.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/bauern-getreide-ernte-100.html",
-      "publishedAt": "2026-08-13T12:24:01.000Z"
+      "publishedAt": "2026-08-13T13:20:02.000Z"
     },
     {
-      "id": "n_11bef0dafe",
+      "id": "n_6b9374ccab",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Riesige Marienstatue in Polen soll Pilger anziehen",
-      "summary": "Noch ist die gigantische Marienstatue im kleinen polnischen Dorf Konotopie nicht eingeweiht, schon machen Geschichten von Wundern die Runde. Mit dem 55 Meter hohen Monument bekommt Polen eine neue Pilgerstätte.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/polen-marienstatue-100.html",
-      "publishedAt": "2026-08-13T11:57:07.000Z"
+      "headline": "Chinas YMTC ist drittgrößter NAND-Flash-Hersteller der Welt",
+      "summary": "Chinesischer NAND-Flash für SSDs macht inzwischen 14 Prozent der weltweiten Lieferungen aus. YMTC überholt damit Micron.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Chinas-YMTC-ist-drittgroesster-NAND-Flash-Hersteller-der-Welt-11413360.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-13T15:35:00.000Z"
     },
     {
-      "id": "n_b426f519d3",
+      "id": "n_b5f797c166",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Drohnenvorfall am Flughafen Leipzig: Was explodierte in Kursdorf?",
-      "summary": "Bevor die Sprengstoff-Drohne am Flughafen Leipzig/Halle gefunden wurde, soll es in der Nähe eine Explosion gegeben haben. Die Ermittler fragen sich, was dort detoniert sein könnte.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/investigativ/ndr-wdr/drohnen-leipzig-100.html",
-      "publishedAt": "2026-08-13T11:40:03.000Z"
-    },
-    {
-      "id": "n_75ed3f354e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Gedenken an Mauerbau - Warnung vor Geschichtsvergessenheit",
-      "summary": "Vor 65 Jahren begann der Bau der Mauer in Berlin. Bei der zentralen Gedenkfeier haben Spitzenpolitiker dazu gemahnt, die Erinnerung an die deutsche Teilung wachzuhalten - und vor einer Verklärung der Geschichte gewarnt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/gedenken-mauerbau-100.html",
-      "publishedAt": "2026-08-13T11:36:06.000Z"
-    },
-    {
-      "id": "n_912a5e7a4c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Israelische Armee fordert Palästinenser zum Verlassen ihrer Häuser auf",
-      "summary": "Seit Sonntag belagern israelische Siedler im Westjordanland Häuser palästinensischer Familien. Erst hat Israels Armee die Zelte der Siedler entfernt, jetzt fordert sie die Bewohner auf, ihre Häuser zu verlassen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-siedler-gewalt-100.html",
-      "publishedAt": "2026-08-13T11:35:40.000Z"
-    },
-    {
-      "id": "n_a86815dd74",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Beschädigter Tanker: Ölteppich vor Oman breitet sich weiter aus",
-      "summary": "Seit mehreren Wochen strömt Öl aus einem havarierten Tanker vor der Küste des Oman. Nun hat der auslaufende Rohstoff das Festland des Landes erreicht. Umweltorganisationen befürchten eine Katastrophe.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/oman-oelpest-tanker-100.html",
-      "publishedAt": "2026-08-13T10:54:44.000Z"
-    },
-    {
-      "id": "n_7780e272c3",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Schwerarbeitspension: Wie funktioniert Österreichs Rente mit 60?",
-      "summary": "In Österreich können Arbeitnehmer, die besonders schwere Arbeit verrichten, mit 60 in Rente gehen: unter klaren Voraussetzungen und mit Abschlägen. Doch um die Finanzierbarkeit des Rentensystems wird auch in Österreich gestritten. Von C. Verenkotte.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/oesterreich-schwerarbeitpension-100.html",
-      "publishedAt": "2026-08-13T10:23:45.000Z"
+      "headline": "Rätsel um „Little Red Dots“ vor Lösung? Wohl erster Schwarzloch-Stern gefunden",
+      "summary": "Seit das Weltraumteleskop James Webb im frühen Kosmos kleine rote Punkte findet, wurde darüber gerätselt. Nun wurde wohl der erste „Schwarzloch-Stern“ gefunden.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Raetsel-um-Little-Red-Dots-vor-Loesung-Wohl-erster-Schwarzloch-Stern-gefunden-11413070.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-13T13:25:00.000Z"
     },
     {
       "id": "n_3d0d5027e7",
@@ -156,136 +178,114 @@
       "publishedAt": "2026-08-13T08:37:00.000Z"
     },
     {
-      "id": "n_6feec1a1e9",
+      "id": "n_c677cdc45e",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Reparieren statt wegwerfen: Neue Konstruktionsrichtlinien für E-Auto-Akkus",
-      "summary": "Verschraubt statt verklebt: Das Projekt E-Track legt Konstruktionsrichtlinien vor, die Traktionsbatterien reparierbar und recyclingfreundlich machen sollen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/TU-Graz-entwickelt-Konstruktionsrichtlinien-fuer-reparierbare-E-Auto-Batterien-11412442.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-13T08:25:00.000Z"
-    },
-    {
-      "id": "n_14b76f82f8",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Hydromax: JCB stellt das schnellste Verbrenner-Wasserstofffahrzeug der Welt",
-      "summary": "JCB hat wie angekündigt den bestehenden Geschwindigkeitsrekord von Wasserstoff-Verbrennungsfahrzeugen überboten. Anvisiert waren über 350 mph.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/JCB-Hydromax-knackt-Geschwindigkeitsrekord-fuer-Verbrenner-Wasserstofffahrzeuge-11412381.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-13T08:07:00.000Z"
-    },
-    {
-      "id": "n_c96cf694ee",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Mini-Kettensäge mit zwei Akkus für nur 52,47 Euro bei Amazon",
-      "summary": "Eine Mini-Kettensäge mit zwei Akkus, 900-W-Motor und automatischer Kettenschmierung gibt es bei Amazon zum Aktionspreis. (Technik/Hardware)",
+      "headline": "Werbung in ChatGPT: OpenAI rechnet bereits pausierte Anzeigen ab",
+      "summary": "In den eigenen Werbebedingungen behält sich OpenAI das Recht vor, gestoppte Anzeigen bis zu 24 Stunden weiterlaufen zu lassen. (ChatGPT, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-mini-kettensaege-mit-zwei-akkus-fuer-nur-52-47-euro-bei-amazon-2608-211906.html",
-      "publishedAt": "2026-08-13T12:35:02.000Z"
+      "url": "https://www.golem.de/news/werbung-in-chatgpt-openai-rechnet-bereits-pausierte-anzeigen-ab-2608-211920.html",
+      "publishedAt": "2026-08-13T15:34:02.000Z"
     },
     {
-      "id": "n_206eae21c7",
+      "id": "n_7b2d90dc9f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Strahlenschutzrecht: Kernfusion braucht eigene Gesetze für sicheren Betrieb",
-      "summary": "Fusionsanlagen strahlen zwar schwächer als AKWs, aber zu stark für die Strahlenschutzverordnung. Es werden neue Regeln benötigt. (Kernfusion, Politik)",
+      "headline": "Warner Bros: Entwicklung von Hogwarts Legacy 2 offiziell bestätigt",
+      "summary": "Besonders interessant ist der Zusammenhang mit der neuen Harry-Potter-Serie, die Ende 2026 starten soll. (Hogwarts Legacy, Harry Potter)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/strahlenschutzrecht-kernfusion-braucht-eigene-gesetze-fuer-sicheren-betrieb-2608-211904.html",
-      "publishedAt": "2026-08-13T12:16:02.000Z"
+      "url": "https://www.golem.de/news/warner-bros-entwicklung-von-hogwarts-legacy-2-offiziell-bestaetigt-2608-211917.html",
+      "publishedAt": "2026-08-13T15:10:02.000Z"
     },
     {
-      "id": "n_550d271126",
+      "id": "n_85dcdaecd1",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Smarte Futterautomaten streiken: Cloudpanne lässt unzählige Haustiere hungern",
-      "summary": "Aufgrund einer Störung bei Petlibro haben Hunde und Katzen in Haushalten mit smarten Futterautomaten kein Futter bekommen. Nutzer sind verärgert. (Cloud-Dienste, Smart Home)",
+      "headline": "Anzeige: Steckdosenturm mit AC, USB und Schalter für 23,79 Euro bei Amazon",
+      "summary": "Einen Steckdosenturm mit acht AC-Steckdosen, vier USB-Ports und Sicherheitsschalter gibt es mit Zwei-Meter-Kabel zum Sparpreis bei Amazon. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/smarte-futterautomaten-streiken-cloudpanne-laesst-unzaehlige-haustiere-hungern-2608-211901.html",
-      "publishedAt": "2026-08-13T12:01:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-steckdosenturm-mit-ac-usb-und-schalter-fuer-23-79-euro-bei-amazon-2608-211914.html",
+      "publishedAt": "2026-08-13T15:05:02.000Z"
     },
     {
-      "id": "n_87d659e4e5",
+      "id": "n_4a2bd319bc",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Samsung Galaxy A57 und Tablet mit doppeltem Datenvolumen bei Blau zum Angebotspreis",
-      "summary": "Der Mobilfunkanbieter Blau hat jetzt ein Rundumsorglos-Paket geschnürt: Samsung-Smartphone und -Tablet mit 40 GByte Daten zum Einstiegspreis. (Blau.de, Samsung)",
+      "headline": "Anfragen: Bundesregierung fehlen Daten bei Rechenzentrumsstrategie",
+      "summary": "Die Bundesregierung hat kaum genauere Informationen zu Bauplänen und Wasserbedarf neuer Rechenzentren. Es herrscht das Prinzip Hoffnung. (Souveränität, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-samsung-galaxy-a57-und-tablet-mit-doppeltem-datenvolumen-bei-blau-zum-angebotspreis-2608-211902.html",
-      "publishedAt": "2026-08-13T11:52:02.000Z"
+      "url": "https://www.golem.de/news/anfragen-bundesregierung-fehlen-daten-bei-rechenzentrumsstrategie-2608-211915.html",
+      "publishedAt": "2026-08-13T14:58:02.000Z"
     },
     {
-      "id": "n_b69052b0a4",
+      "id": "n_55793340db",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Tesla-Fabrik Grünheide: Neuer Bahnhof bedeutet Aus für den Giga-Train",
-      "summary": "Die Deutsche Bahn eröffnet einen neuen Bahnhof direkt an der Gigafabrik Grünheide. Das verkürzt den Arbeitsweg für Tesla-Mitarbeiter deutlich. (Gigafactory Berlin, Elektroauto)",
+      "headline": "Anzeige: Fanttik A10 Pro Laser-Entfernungsmesser mit Maßband jetzt für 64,98 Euro bei Amazon",
+      "summary": "Der Fanttik A10 Pro kombiniert ein Laser-Entfernungsmesser bis 50 Meter mit einem digitalen Maßband bis 3 Meter und ist bei Amazon deutlich reduziert. (Technik/Hardware, Laser)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/tesla-fabrik-gruenheide-neuer-bahnhof-bedeutet-aus-fuer-den-giga-train-2608-211900.html",
-      "publishedAt": "2026-08-13T11:45:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-fanttik-a10-pro-laser-entfernungsmesser-mit-massband-jetzt-fuer-64-98-euro-bei-amazon-2608-211912.html",
+      "publishedAt": "2026-08-13T14:40:01.000Z"
     },
     {
-      "id": "n_234b97e00f",
+      "id": "n_7c140966f7",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) Doku-Strategien, Formate und Tools: Wie die Technische Dokumentation im 21. Jahrhundert ankommt",
-      "summary": "Technische Dokumentation kann bei vielen Produkten zur Dauerbaustelle werden. Die Lösung sind Module. Wir erklären, wie das in der Praxis umzusetzen ist. Ein Deep Dive von Johannes Hauser (Gut dokumentiert!, Softwareentwicklung)",
+      "headline": "Bewährtes Prinzip: Hubschrauber gewinnt bei militärischem Drohnenwettbewerb",
+      "summary": "Ein ferngesteuerter Hubschrauber hat im Bewerberfeld eine maximale Traglast aufgewiesen. Doch eine wichtige Marke konnte nicht übertroffen werden. (Drohne, Darpa)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/doku-strategien-formate-und-tools-wie-die-technische-dokumentation-im-21-jahrhundert-ankommt-2608-211862.html",
-      "publishedAt": "2026-08-13T11:30:02.000Z"
+      "url": "https://www.golem.de/news/bewaehrtes-prinzip-hubschrauber-gewinnt-bei-militaerischem-drohnenwettbewerb-2608-211909.html",
+      "publishedAt": "2026-08-13T14:15:02.000Z"
     },
     {
-      "id": "n_5f9387bfab",
+      "id": "n_2980209b65",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Sicherheitslücken: Zwei Fehler hebeln TPM-Schutz aus",
-      "summary": "Eine weitverbreitete TPM-2.0-Implementierung hat Schwachstellen. Angreifer könnten Secure Boot aushebeln und Man-in-the-middle-Angriffe ausführen. (Sicherheitslücke, Prozessor)",
+      "headline": "Anzeige: Epson EcoTank ET-2922 zum Bestpreis bei Amazon",
+      "summary": "Teure Druckerpatronen nerven im Alltag. Der Epson EcoTank ET-2922 setzt auf sehr günstige Tinte aus Flaschen. Aktuell ist er bei Amazon über 60 Euro reduziert. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/sicherheitsluecken-zwei-fehler-hebeln-tpm-schutz-aus-2608-211899.html",
-      "publishedAt": "2026-08-13T11:17:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-epson-ecotank-et-2922-zum-bestpreis-bei-amazon-2608-211911.html",
+      "publishedAt": "2026-08-13T14:13:01.000Z"
     },
     {
-      "id": "n_90f3c0b4e6",
+      "id": "n_10b5fb9949",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Manipulative SEO-Taktik: Perplexity blockiert versteckte Werbung für KI-Bots",
-      "summary": "In speziellen Markdown-Webseiten versteckte Werbung für KI-Crawler gefährdet laut Perplexity das Vertrauen der Nutzer in Suchmaschinen. (KI, Onlinewerbung)",
+      "headline": "Anzeige: Höhenverstellbarer Schreibtisch bei Amazon für keine 70 Euro",
+      "summary": "Bei Amazon gibt es derzeit einen höhenverstellbaren Schreibtisch von Songmics günstig im Angebot. Er ist auf unter 70 Euro reduziert. (Ergonomie, Amazon)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/manipulative-seo-taktik-perplexity-blockiert-versteckte-werbung-fuer-ki-bots-2608-211898.html",
-      "publishedAt": "2026-08-13T10:55:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-hoehenverstellbarer-schreibtisch-bei-amazon-fuer-keine-70-euro-2608-211908.html",
+      "publishedAt": "2026-08-13T14:00:02.000Z"
     },
     {
-      "id": "n_b99be3d895",
+      "id": "n_09443cca3d",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Three men will be executed on the same day as death penalties rise in US",
-      "summary": "Despite growing opposition to the death penalty, one state is behind the rising numbers.",
+      "headline": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T12:04:44.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T15:40:31.000Z"
     },
     {
-      "id": "n_968854cc83",
+      "id": "n_9abea52318",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-      "summary": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
+      "headline": "Person fined after using foghorn to wake sleeping polar bear",
+      "summary": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T11:10:31.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T15:30:57.000Z"
     },
     {
       "id": "n_1ee5a1141e",
@@ -296,7 +296,29 @@
       "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T11:05:03.000Z"
+      "publishedAt": "2026-08-13T15:05:12.000Z"
+    },
+    {
+      "id": "n_82ed3a7c13",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
+      "summary": "The job requires managing a complex relationship with the media - as well Trump's high expectations.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T14:56:19.000Z"
+    },
+    {
+      "id": "n_aad12090b9",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
+      "summary": "A fifth has been reinstated, though an appeals board found that the whole group broke Hockey Canada's code of conduct.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T14:51:44.000Z"
     },
     {
       "id": "n_e9f2b07242",
@@ -307,51 +329,62 @@
       "summary": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T10:51:35.000Z"
+      "publishedAt": "2026-08-13T14:29:11.000Z"
+    },
+    {
+      "id": "n_b99be3d895",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Three men will be executed on the same day as death penalties rise in US",
+      "summary": "Despite growing opposition to the death penalty, one state is behind the rising numbers.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T13:27:00.000Z"
+    },
+    {
+      "id": "n_3eaa330150",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
+      "summary": "Hear from voters in Kingsport, home to a munitions plant supplying the US military, as tensions over the Iran war spark debate.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T13:20:55.000Z"
+    },
+    {
+      "id": "n_57b4a23cfc",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Bumble divides users by ditching its signature 'women-first' chat rule",
+      "summary": "The dating app's boss says the move is in response to a successful trial and a change in what users want.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T14:09:05.000Z"
+    },
+    {
+      "id": "n_61d9b9b41e",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Flock boss admits surveillance firm took too long to act over police abuse",
+      "summary": "US police officers have quit after using licence plate-reading cameras to track romantic partners.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T13:02:24.000Z"
     },
     {
       "id": "n_e506744639",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
       "headline": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
       "summary": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-13T10:39:02.000Z"
-    },
-    {
-      "id": "n_71b6f39bd7",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
-      "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T09:54:03.000Z"
-    },
-    {
-      "id": "n_5853ee8f18",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T09:40:18.000Z"
-    },
-    {
-      "id": "n_5b5cc81dcc",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "French ambassador to CAR accused of bringing women to official residence faces disciplinary action",
-      "summary": "The accusations against Bruno Foucher prompted investigations into a potential security breach.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T08:15:10.000Z"
     },
     {
       "id": "n_2750368063",
@@ -409,33 +442,44 @@
       "publishedAt": "2026-08-11T19:30:00.000Z"
     },
     {
-      "id": "n_bffbf1c785",
+      "id": "n_6710bde7fa",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "AI agent hacks gym to get its user a spot in pilates class",
-      "summary": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T12:09:26.000Z"
+      "headline": "Rivian's 2027 changes include its No. 1 most-requested feature",
+      "summary": "Pricing hasn't changed, and now you can get captain's chairs for the R1S.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/08/rivian-tweaks-its-r1-range-for-model-year-2027/",
+      "publishedAt": "2026-08-13T14:00:57.000Z"
     },
     {
-      "id": "n_b8b7373b56",
+      "id": "n_57d12d777b",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-      "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T08:44:52.000Z"
+      "headline": "Anthropic could be worth $2 trillion when it goes public",
+      "summary": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+      "publishedAt": "2026-08-13T13:58:56.000Z"
+    },
+    {
+      "id": "n_b73796d605",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
+      "summary": "Let's shield the astronauts instead of the spacecraft.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
+      "publishedAt": "2026-08-13T13:48:55.000Z"
     },
     {
       "id": "n_ce6137803a",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Claude's new Scarlet Letter watermark is invisible — for now",
+      "headline": "Claude's new Scarlet Letter watermark is invisible—for now",
       "summary": "The mark flags anything Claude processed, even human writing it only edited.",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
@@ -486,37 +530,37 @@
       "publishedAt": "2026-08-12T21:13:39.000Z"
     },
     {
-      "id": "n_24a64c1218",
+      "id": "n_0247077166",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-      "publishedAt": "2026-08-12T21:00:30.000Z"
+      "headline": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "publishedAt": "2026-08-13T15:30:52.000Z"
     },
     {
-      "id": "n_b6a245e2e4",
+      "id": "n_fc27ea23a8",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
-      "summary": "With Truth API, Trump is \"selling priority access to news he himself generates.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/",
-      "publishedAt": "2026-08-12T20:20:52.000Z"
+      "headline": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "publishedAt": "2026-08-13T15:08:00.000Z"
     },
     {
-      "id": "n_dcbf4d15b1",
+      "id": "n_5e692bda6f",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
-      "summary": "Hundreds of Homeland Security drones retasked to survey wildlife and livestock.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/",
-      "publishedAt": "2026-08-12T19:40:46.000Z"
+      "headline": "Apple in talks to pay publishers to provide Siri with current news: report",
+      "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+      "publishedAt": "2026-08-13T14:34:43.000Z"
     },
     {
       "id": "n_6648dbd012",
@@ -572,39 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
       "publishedAt": "2026-08-12T17:41:29.000Z"
-    },
-    {
-      "id": "n_82aaff9864",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Mesh, Automattic’s CRM for everyone, comes to Android",
-      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-      "publishedAt": "2026-08-12T16:57:58.000Z"
-    },
-    {
-      "id": "n_12039e33c8",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-      "summary": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especiall",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-      "publishedAt": "2026-08-12T16:46:02.000Z"
-    },
-    {
-      "id": "n_1880293b64",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Lovable confirms new $13.3B valuation, raises another $400M",
-      "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-      "publishedAt": "2026-08-12T16:04:27.000Z"
     },
     {
       "id": "n_70c73a35f6",
@@ -772,6 +783,17 @@
       "publishedAt": "2026-01-07T20:00:00.000Z"
     },
     {
+      "id": "n_ce303cd37c",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several c",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "publishedAt": "2026-08-13T13:41:10.000Z"
+    },
+    {
       "id": "n_5ee3fd3c5d",
       "type": "news",
       "topic": "ai",
@@ -847,17 +869,6 @@
       "source": "MIT Technology Review",
       "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
       "publishedAt": "2026-08-03T08:30:05.000Z"
-    },
-    {
-      "id": "n_aa627740aa",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge impl",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-      "publishedAt": "2026-07-30T10:15:19.000Z"
     },
     {
       "id": "n_76a4a47aa7",
