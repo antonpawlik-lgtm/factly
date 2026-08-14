@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-08-14T15:39:39.903Z",
+  "generatedAt": "2026-08-14T18:38:05.966Z",
   "items": [
+    {
+      "id": "n_027f7de8b6",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Mord an US-Versicherungschef: Angeklagter Luigi M. gesteht Schüsse",
+      "summary": "Luigi M. wird vorgeworfen, den Chef eines US-Krankenversicherers auf offener Straße erschossen zu haben. Nun hat er die tödlichen Schüsse gestanden. Er ist seit seiner Verhaftung auch zu einer Symbolfigur geworden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-luigi-m-100.html",
+      "publishedAt": "2026-08-14T18:28:38.000Z"
+    },
+    {
+      "id": "n_65c9d8c0d6",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "ARD: Florian Hager bleibt Intendant des Hessischen Rundfunks",
+      "summary": "Florian Hager bleibt für weitere fünf Jahre Intendant des Hessischen Rundfunks. Der 50-Jährige wurde heute in seinem Amt bestätigt. Er steht bereits seit 2022 an der Spitze des Senders.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/hessen/hr-florian-hager-bleibt-intendant-des-hessischen-rundfunks-100.html",
+      "publishedAt": "2026-08-14T18:19:37.000Z"
+    },
+    {
+      "id": "n_05f10851bb",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "NRW kämpft mit dem wohl größten Waldbrand der Landesgeschichte",
+      "summary": "Im nordrhein-westfälischen Hürtgenwald brennt es auf mehr als 200 Hektar. Es dürfte der größte Waldbrand in der Geschichte des Bundeslandes sein. Hunderte Menschen wurden dort evakuiert - andere Teile der Eifel könnten folgen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-100.html",
+      "publishedAt": "2026-08-14T17:34:27.000Z"
+    },
+    {
+      "id": "n_071bdad046",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Waldbrand in der Eifel: \"Ein doppelter Weckruf\"",
+      "summary": "Seit Wochen gibt es kaum Regen, dazu extreme Temperaturen und jetzt einen Waldbrand in der Eifel. Feuerökologe Alexander Held sieht darin einen \"doppelten Weckruf\". Wie gut ist Deutschland auf solche Gefahren vorbereitet?",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/alexander-held-waldbrand-100.html",
+      "publishedAt": "2026-08-14T16:49:59.000Z"
+    },
+    {
+      "id": "n_320f35982b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: DAX-Gewinne reichen nicht für Rekord",
+      "summary": "Der DAX verabschiedet sich ohne neuen Rekord ins Wochenende, trotzdem sind Anleger zufrieden. Dafür verantwortlich sind starke Firmenbilanzen und nachlassende Sorgen vor steigenden US-Zinsen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-100.html",
+      "publishedAt": "2026-08-14T16:24:07.000Z"
+    },
+    {
+      "id": "n_730ee3c324",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ceuta: Irreführende Videos und KI-generierte Bilder im Umlauf",
+      "summary": "Im Internet kursieren zahlreiche Videos und Bilder zur Situation in Ceuta. Ende Juli überquerten Zehntausende Migranten die Grenze zur spanischen Exklave. Doch einige Aufnahmen wurden manipuliert, andere in falschen Kontext gestellt. Von M. Antonini, O. Matthes und K. Vetten.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/faktenfinder/fakes-ceuta-100.html",
+      "publishedAt": "2026-08-14T16:23:56.000Z"
+    },
+    {
+      "id": "n_c837d903cc",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Renoir, Cézanne, Matisse: Italienische Polizei findet gestohlene Kunst",
+      "summary": "Nur wenige Minuten brauchen Diebe vor einigen Monaten, um drei wertvolle Gemälde aus einem italienischen Museum zu stehlen. Nun hat die Polizei die Werke sichergestellt. Die Hintergründe der Tat werfen Fragen auf.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/italien-kunst-polizei-100.html",
+      "publishedAt": "2026-08-14T15:51:29.000Z"
+    },
     {
       "id": "n_a782eec774",
       "type": "news",
@@ -13,88 +90,11 @@
       "publishedAt": "2026-08-14T15:07:58.000Z"
     },
     {
-      "id": "n_65c9d8c0d6",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "ARD: Florian Hager bleibt Intendant des Hessischen Rundfunks",
-      "summary": "Florian Hager bleibt für weitere fünf Jahre Intendant des Hessischen Rundfunks. Der 50-Jährige wurde heute in seinem Amt bestätigt. Er steht bereits seit 2022 an der Spitze des Senders.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/hessen/hr-florian-hager-bleibt-intendant-des-hessischen-rundfunks-100.html",
-      "publishedAt": "2026-08-14T14:59:11.000Z"
-    },
-    {
-      "id": "n_ecc9c63e69",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Waldbrände: Grüne fordern Merz zum Handeln auf",
-      "summary": "Mehr Schutz vor Waldbränden: Die Grünen-Bundestagsfraktion fordert in einem dem ARD-Hauptstadtstudio vorliegenden Papier von der Bundesregierung konkrete Maßnahmen. Am Kanzler gibt es klare Kritik. Von Birthe Sönnichsen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/gruene-waldbraende-forderungen-100.html",
-      "publishedAt": "2026-08-14T14:47:02.000Z"
-    },
-    {
-      "id": "n_8ab3785929",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Waldbrände in Europa: Hunderte Menschen in Sicherheit gebracht",
-      "summary": "Wegen schwerer Vegetationsbrände mussten in mehreren europäischen Ländern Hunderte Menschen ihre Häuser verlassen. Betroffen waren neben Frankreich und England auch Kroatien und Griechenland.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-108.html",
-      "publishedAt": "2026-08-14T14:22:36.000Z"
-    },
-    {
-      "id": "n_1f875cc156",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Deutsche Bahn klagt gegen Mitbenutzung ihrer Strecken",
-      "summary": "Auf stark belasteten Strecken muss die DB Kapazitäten für Konkurrenten freiräumen - so hat es die Bundesnetzagentur beschlossen. Das könnte in der Praxis zu massiven Problemen führen, kritisiert die Bahn. Jetzt klagt sie.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-klage-fernverkehr-100.html",
-      "publishedAt": "2026-08-14T14:12:58.000Z"
-    },
-    {
-      "id": "n_276c8a6222",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Warum die Fahrrinne im Rhein bisher nicht ausgebaut wurde",
-      "summary": "Über den Ausbau der Fahrrinne im Rhein wird seit Jahrzehnten diskutiert. Wegen des Niedrigwassers werden die Forderungen danach wieder lauter. Warum ist bislang nichts passiert? Von L. Colic, T. Peters, V. Schmidberger.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/rhein-niedrigwasser-fahrrinne-100.html",
-      "publishedAt": "2026-08-14T14:01:01.000Z"
-    },
-    {
-      "id": "n_65961075d5",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Untersuchung zu Ryanair-Vorfall: Triebwerksteil zerschlug Flugzeugfenster",
-      "summary": "Nach dem schweren Zwischenfall an Bord einer Ryanair-Maschine liegen erste Untersuchungsergebnisse vor. Demnach beschädigte ein abgebrochenes Triebwerksteil den Flugzeugrumpf. Ein Passagier wäre beinahe aus dem Flugzeug gesogen worden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/ryanair-flug-zwischenfall-fenster-102.html",
-      "publishedAt": "2026-08-14T13:02:02.000Z"
-    },
-    {
-      "id": "n_053f1f5ec7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Ersthelfer begannen 2025 jede zweite Reanimation außerhalb von Kliniken",
-      "summary": "Etwa 350 Menschen haben vergangenes Jahr pro Tag in Deutschland außerhalb einer Klinik einen Herz-Kreislauf-Stillstand erlitten. Passieren kann das überall. In jedem zweiten Fall schritten Ersthelfer ein und begannen zu reanimieren.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/gesundheit/reanimation-ersthelfer-100.html",
-      "publishedAt": "2026-08-14T12:58:53.000Z"
-    },
-    {
       "id": "n_e699de665e",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Frankreich: Verfassungsrat kippt Social-Media-Verbot",
+      "headline": "Frankreichs Verfassungsrat stoppt Social-Media-Verbot für Kinder",
       "summary": "Das oberste Gericht stoppt das Social-Media-Verbot für Kinder unter 15 Jahren – zumindest vorerst. Macron will sein Vorhaben noch vor der Wahl durchbringen.",
       "source": "heise online",
       "url": "https://www.heise.de/news/Frankreich-Verfassungsrat-kippt-Social-Media-Verbot-11414905.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
@@ -178,6 +178,61 @@
       "publishedAt": "2026-08-14T08:03:00.000Z"
     },
     {
+      "id": "n_179264d73a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Tintenfreier Etikettendrucker mit Bluetooth-Funktionen für unter 29 Euro bei Amazon",
+      "summary": "Der Supvan E11 vereinfacht es ungemein, den Haushalt zu organisieren. Amazon verkauft den kompakten Etikettendrucker inklusive vier Rollen aktuell günstiger. (Technik/Hardware, Amazon)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-tintenfreier-etikettendrucker-mit-bluetooth-funktionen-fuer-unter-29-euro-bei-amazon-2608-211966.html",
+      "publishedAt": "2026-08-14T17:20:02.000Z"
+    },
+    {
+      "id": "n_2b75720072",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Bluebrixx' Drei ??? aus Klemmbausteinen bei Amazon befristet im Angebot",
+      "summary": "Mehrere Sets von Lego-Rivale Bluebrixx sind bei Amazon befristet im Angebot. Es geht um verschiedene Drei-???-Sets. (Lego, Unterhaltung & Hobby)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-bluebrixx-drei-aus-klemmbausteinen-bei-amazon-befristet-im-angebot-2608-211965.html",
+      "publishedAt": "2026-08-14T16:52:01.000Z"
+    },
+    {
+      "id": "n_fc0f8154ba",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Neues USB-Ladegerät von Ugreen mit 100 W und Display für unter 45 Euro",
+      "summary": "Kennt man irgendwoher: Das von Anker inspirierte Nexode Pro USB-Ladegerät von Ugreen ist bei Amazon zum neuen Tiefstpreis im Angebot. (Technik/Hardware, Amazon)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-neues-usb-ladegeraet-von-ugreen-mit-100-w-und-display-fuer-unter-45-euro-2608-211964.html",
+      "publishedAt": "2026-08-14T16:08:01.000Z"
+    },
+    {
+      "id": "n_9cee1ec0f4",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "(g+) Artificial Intelligence: OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions Von Jamie John (KI, Software)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/artificial-intelligence-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground-2608-211957.html",
+      "publishedAt": "2026-08-14T16:00:02.000Z"
+    },
+    {
+      "id": "n_fdf7f32ed2",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Mobilfunkbetreiber: Stellenabbau bei Telefónica wohl größer als zugegeben",
+      "summary": "Internen Unterlagen zufolge plant Telefónica den Wegfall von rund 1.650 Vollzeitstellen. Grund ist der Verlust des Großkunden 1&1. (Telefónica, Mobilfunk)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/mobilfunkbetreiber-stellenabbau-bei-telefonica-wohl-groesser-als-zugegeben-2608-211963.html",
+      "publishedAt": "2026-08-14T15:56:02.000Z"
+    },
+    {
       "id": "n_24301171c8",
       "type": "news",
       "topic": "tech",
@@ -211,59 +266,81 @@
       "publishedAt": "2026-08-14T14:55:02.000Z"
     },
     {
-      "id": "n_d72e3442fe",
+      "id": "n_bc705624b0",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Over-Ear-Kopfhörer mit ANC von Skullcandy reduziert bei Amazon",
-      "summary": "Die Over-Ear-Kopfhörer Skullcandy Crusher ANC 2 mit sensorischem Bass und aktiver Geräuschunterdrückung gibt es zum Aktionspreis bei Amazon. (Kopfhörer, Audio/Video)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-over-ear-kopfhoerer-mit-anc-von-skullcandy-reduziert-bei-amazon-2608-211959.html",
-      "publishedAt": "2026-08-14T14:25:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T17:03:17.000Z"
     },
     {
-      "id": "n_86ccd64df4",
+      "id": "n_5beaacc500",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Schwarzes-Loch-Sterne: Neue Art von kosmischem Objekt entdeckt",
-      "summary": "Die Little Red Dots in den Aufnahmen des JWST könnten Schwarzes-Loch-Sterne sein - eine neue Art von kosmischen Objekten. (James-Webb-Teleskop, Studien)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/schwarzes-loch-sterne-neue-art-von-kosmischem-objekt-entdeckt-2608-211926.html",
-      "publishedAt": "2026-08-14T14:16:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
+      "summary": "Civil servants are entitled to extra money for working in difficult or dangerous cities around the world.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T17:00:46.000Z"
     },
     {
-      "id": "n_2cb487e6d4",
+      "id": "n_cdb5e60cca",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Starke 4K-Drohne bei Amazon zum aktuellen Bestpreis",
-      "summary": "Bei Amazon gibt es derzeit die Potensic Atom 2 günstig im Angebot. Die 4K-Drohne ist zum aktuellen Bestpreis erhältlich. (Drohne, Amazon)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-starke-4k-drohne-bei-amazon-zum-aktuellen-bestpreis-2608-211951.html",
-      "publishedAt": "2026-08-14T13:59:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Why is Selena Gomez being sued?",
+      "summary": "BBC journalist Ana Guerra-Moore looks at why investors who backed Wondermind Global are claiming the pop star failed to fulfil promises.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cly58dnde5yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T16:59:53.000Z"
     },
     {
-      "id": "n_8cbc73f1a6",
+      "id": "n_feba530ce5",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Sam Altman: OpenAI-Chef will weiter Rechenzentrum in Deutschland",
-      "summary": "OpenAI-Chef Sam Altman wirbt weiter für deutsche Rechenkapazitäten, während sein Unternehmen mit Verlusten und Sicherheitsvorfällen kämpft. (Sam Altman, KI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/sam-altman-openai-chef-will-weiter-rechenzentrum-in-deutschland-2608-211956.html",
-      "publishedAt": "2026-08-14T13:48:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "France's top court blocks social media ban for under-15s",
+      "summary": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T16:35:06.000Z"
     },
     {
-      "id": "n_9f23521b36",
+      "id": "n_e9f2b07242",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Playstation 5: Wolverine setzt auf soziale Treffpunkte und Traumsequenzen",
-      "summary": "Sony hat Details zum ultrabrutalen Wolverine veröffentlicht. Während Treffpunkte neugierig machen, lösen Traumsequenzen Diskussionen aus. (Playstation 5, Sony)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/playstatin-5-wolverine-setzt-auf-soziale-treffpunkte-und-traumsequenzen-2608-211954.html",
-      "publishedAt": "2026-08-14T13:04:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
+      "summary": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T16:28:59.000Z"
+    },
+    {
+      "id": "n_6b21c3c238",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump asks Supreme Court to allow ballroom work to continue",
+      "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T15:10:41.000Z"
+    },
+    {
+      "id": "n_e3ccd6f915",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Moment €9m worth of art stolen from Italy museum",
+      "summary": "Police released the CCTV footage after the art, which was stolen in March, was recovered.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T14:56:04.000Z"
     },
     {
       "id": "n_f6ae480842",
@@ -275,83 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-14T13:18:08.000Z"
-    },
-    {
-      "id": "n_36c71486f9",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-      "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T12:19:21.000Z"
-    },
-    {
-      "id": "n_e9f2b07242",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
-      "summary": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T11:37:31.000Z"
-    },
-    {
-      "id": "n_01a8723d16",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Stolen Matisse artworks recovered by police in Brazil",
-      "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T10:55:39.000Z"
-    },
-    {
-      "id": "n_3c023a579e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'Unprecedented' rain in Japan kills eight people",
-      "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T10:36:14.000Z"
-    },
-    {
-      "id": "n_676e98767a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US missionary released following kidnap in Niger, Christian group says",
-      "summary": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T10:18:02.000Z"
-    },
-    {
-      "id": "n_eeffef3780",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US says dozens of countries helped China dodge Trump's tariffs",
-      "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T08:39:46.000Z"
-    },
-    {
-      "id": "n_a85e37f9da",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
-      "summary": "Deivi Delfín and his brother moved to Colombia after a quake in Venezuela killed their mother, but were caught in another deadly disaster.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9v42m3430vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T08:02:35.000Z"
     },
     {
       "id": "n_57b4a23cfc",
@@ -442,6 +442,50 @@
       "publishedAt": "2026-08-11T19:30:00.000Z"
     },
     {
+      "id": "n_9aa84ad54b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Ars Live recap: How can we stop publishers from killing their own games?",
+      "summary": "The Stop Killing Games movement faces an uphill battle.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/",
+      "publishedAt": "2026-08-14T16:11:37.000Z"
+    },
+    {
+      "id": "n_e01dece31e",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
+      "summary": "Third-party app stores are about to become more visible in Google Play.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
+      "publishedAt": "2026-08-14T15:46:40.000Z"
+    },
+    {
+      "id": "n_e14fecba90",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
+      "summary": "Chris Carter chats with Ars about the film he originally wanted to make—and why it's more relevant than ever.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/",
+      "publishedAt": "2026-08-14T15:18:22.000Z"
+    },
+    {
+      "id": "n_f57d346737",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Taylor Farms' connections to Trump admin spurs probe into Cyclospora response",
+      "summary": "Senator Warren questions whether Taylor Farms' influence swayed Trump admin.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/08/taylor-farms-connections-to-trump-admin-spurs-probe-into-cyclospora-response/",
+      "publishedAt": "2026-08-14T15:03:16.000Z"
+    },
+    {
       "id": "n_56f28cd3a4",
       "type": "news",
       "topic": "tech",
@@ -486,48 +530,26 @@
       "publishedAt": "2026-08-14T07:01:15.000Z"
     },
     {
-      "id": "n_5273c3175a",
+      "id": "n_f51202f872",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "US wait times for cancer surgeries are getting longer and longer",
-      "summary": "Study finds wait times for cancer surgeries hit 10-year high.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
-      "publishedAt": "2026-08-13T22:17:29.000Z"
+      "headline": "Google will now allow users to remove visible watermark from its AI generations",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "publishedAt": "2026-08-14T16:13:40.000Z"
     },
     {
-      "id": "n_285cb3fe60",
+      "id": "n_f3fe42a4b3",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Private security firms will soon be allowed to hack overseas cybercriminals",
-      "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
-      "publishedAt": "2026-08-13T19:38:58.000Z"
-    },
-    {
-      "id": "n_b1fa524914",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Virgin Galactic wants your help naming its new Delta class spaceship",
-      "summary": "Will it be the VSS... Horizon, Explorer, Ascend or Apeiron?",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
-      "publishedAt": "2026-08-13T19:12:15.000Z"
-    },
-    {
-      "id": "n_5230e775c6",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Ukrainian drones wipe out entire US tank brigade in live war game",
-      "summary": "Ukrainian drone pilots teach the US military and NATO hard battlefield lessons.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
-      "publishedAt": "2026-08-13T18:31:56.000Z"
+      "headline": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI sh",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "publishedAt": "2026-08-14T15:43:28.000Z"
     },
     {
       "id": "n_21c4010742",
@@ -550,6 +572,17 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
       "publishedAt": "2026-08-14T14:05:00.000Z"
+    },
+    {
+      "id": "n_c3418764be",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI sh",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "publishedAt": "2026-08-14T14:00:00.000Z"
     },
     {
       "id": "n_952a2dd22c",
@@ -585,37 +618,26 @@
       "publishedAt": "2026-08-13T19:22:40.000Z"
     },
     {
-      "id": "n_79aa75fcb7",
+      "id": "n_8fce1ccaf7",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "IBM partners with OpenAI to bolster enterprise AI push",
-      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "publishedAt": "2026-08-13T19:19:49.000Z"
+      "headline": "Mark Zuckerberg has an Instagzam",
+      "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instag",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+      "publishedAt": "2026-08-14T16:54:16.000Z"
     },
     {
-      "id": "n_d83d050a98",
+      "id": "n_d469d19d5d",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "publishedAt": "2026-08-13T18:28:14.000Z"
-    },
-    {
-      "id": "n_d15dea0ae7",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI hires new CRO as executive shake-up continues",
-      "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "publishedAt": "2026-08-13T17:07:13.000Z"
+      "headline": "You can now turn off Google Gemini&#8217;s visible watermarks",
+      "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" wa",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "publishedAt": "2026-08-14T16:39:32.000Z"
     },
     {
       "id": "n_a8d30f7063",
@@ -682,28 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
       "publishedAt": "2026-08-13T14:10:31.000Z"
-    },
-    {
-      "id": "n_6e6b6506de",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
-      "summary": "You soon won’t have to look at two Copilot apps in your Windows taskbar. | Image: Microsoft Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot apps. B",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-      "publishedAt": "2026-08-13T13:30:00.000Z"
-    },
-    {
-      "id": "n_70c73a35f6",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Twitch streamers can now opt out from training Amazon’s AI",
-      "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "publishedAt": "2026-08-12T17:29:10.000Z"
     },
     {
       "id": "n_3d6d30af34",
@@ -1143,6 +1143,18 @@
       "publishedAt": "2026-05-29T16:18:31.000Z"
     },
     {
+      "id": "n_fc0b0cbd09",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The edge ML pipeline that jailbroke the 4th Amendment...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=E7la7-dtfVM",
+      "thumbnail": "https://i.ytimg.com/vi/E7la7-dtfVM/hqdefault.jpg",
+      "publishedAt": "2026-08-14T17:44:59.000Z"
+    },
+    {
       "id": "n_ad1498d887",
       "type": "video",
       "topic": "video",
@@ -1177,18 +1189,6 @@
       "url": "https://www.youtube.com/watch?v=2X2V3xv_jik",
       "thumbnail": "https://i.ytimg.com/vi/2X2V3xv_jik/hqdefault.jpg",
       "publishedAt": "2026-08-05T18:08:46.000Z"
-    },
-    {
-      "id": "n_b67d3be64b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did Anthropic just kill the indie hacker...?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=jxGJT1weu4w",
-      "thumbnail": "https://i.ytimg.com/vi/jxGJT1weu4w/hqdefault.jpg",
-      "publishedAt": "2026-07-29T16:33:51.000Z"
     },
     {
       "id": "n_d84c0c1d09",
