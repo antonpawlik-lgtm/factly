@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-13T21:32:49.628Z",
+  "generatedAt": "2026-08-14T00:55:06.031Z",
   "items": [
+    {
+      "id": "n_50f6eb5e28",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bauernverband befürchtet teils totalen Ernteausfall",
+      "summary": "Die Trockenheit trifft Weizen, Kartoffeln und Zuckerrüben: Bauernpräsident Rukwied spricht von einer \"brutal angespannten\" wirtschaftlichen Lage. Er stellt Forderungen an die Politik. Denn in einigen Gebieten ist ein totaler Ernteausfall möglich.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/ernteeinbussen-trockenhein-bauernverband-100.html",
+      "publishedAt": "2026-08-14T00:47:51.000Z"
+    },
+    {
+      "id": "n_b9e7110fa1",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Gericht weist Klage der US-Regierung gegen Harvard ab",
+      "summary": "Trumps US-Regierung kassierte bereits im vergangenen Jahr in einem rechtlichen Streit mit der Eliteuniversität Hardvard eine Niederlage. Nun scheitert sie erneut vor Gericht. Im Zentrum stand ein Antisemitismus-Vorwurf.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/klage-harvard-abgewiesen-100.html",
+      "publishedAt": "2026-08-14T00:47:45.000Z"
+    },
+    {
+      "id": "n_6ec5ae7fa4",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Alabali Radovan: Afghanen helfen ohne Taliban-Kooperation",
+      "summary": "Afghanistan ist wegen der Abschiebungen dorthin oft Thema in der Bundespolitik. Doch Deutschland leistet auch Entwicklungshilfe für das Land - und das ohne mit den Taliban zusammenzuarbeiten, sagt die Entwicklungsministerin. Von Gabor Halasz.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/deutschland-afghanistan-taliban-100.html",
+      "publishedAt": "2026-08-13T22:00:27.000Z"
+    },
     {
       "id": "n_dfc3e29c19",
       "type": "news",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/handgepaeck-flugzeug-100.html",
       "publishedAt": "2026-08-13T16:02:24.000Z"
-    },
-    {
-      "id": "n_29aa324c4e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Niedrigwasser: Und plötzlich liegt eine Bazooka am Ufer",
-      "summary": "Die Pegel im Rhein erreichen historische Tiefststände. Wo sonst Wasser fließt, kommen Kampfmittel, Munitionsreste und Blindgänger aus dem Zweiten Weltkrieg zutage. Der Kampfmittelräumdienst ist im Dauereinsatz. Von Lucretia Gather.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/niedrigwasser-kampfmittel-rhein-100.html",
-      "publishedAt": "2026-08-13T15:30:17.000Z"
-    },
-    {
-      "id": "n_8b53226f8c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Was könnte gegen Niedrigwasser helfen?",
-      "summary": "Das Niedrigwasser in Deutschland belastet die Wirtschaft. Auf der Suche nach Lösungen wird auch ein Ausbau der Flüsse diskutiert. Das zieht Kritik nach sich. Welche Argumente und mögliche Alternativen gibt es? Ein Überblick.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/faq-niedrigwasser-ausbau-fluesse-100.html",
-      "publishedAt": "2026-08-13T15:29:49.000Z"
-    },
-    {
-      "id": "n_08f61bb759",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Haftbefehl gegen AfD-Politiker Maximilian Krah erlassen",
-      "summary": "Das Amtsgericht Chemnitz hat Haftbefehl gegen den AfD-Politiker Krah erlassen. Es geht dabei um eine juristische Auseinandersetzung mit dem Moderator Böhmermann und mutmaßlich versäumte Zahlungen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/krah-haftbefehl-100.html",
-      "publishedAt": "2026-08-13T14:50:05.000Z"
     },
     {
       "id": "n_6b9374ccab",
@@ -266,6 +266,28 @@
       "publishedAt": "2026-08-13T14:58:02.000Z"
     },
     {
+      "id": "n_89555754a0",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T23:06:23.000Z"
+    },
+    {
+      "id": "n_a2ea0f8a0d",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T21:43:47.000Z"
+    },
+    {
       "id": "n_09443cca3d",
       "type": "news",
       "topic": "general",
@@ -275,17 +297,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-13T20:12:17.000Z"
-    },
-    {
-      "id": "n_89555754a0",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T20:01:30.000Z"
     },
     {
       "id": "n_91fd82f2cc",
@@ -341,17 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-13T15:50:49.000Z"
-    },
-    {
-      "id": "n_9abea52318",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Person fined after using foghorn to wake sleeping polar bear",
-      "summary": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T15:30:57.000Z"
     },
     {
       "id": "n_57b4a23cfc",
@@ -447,7 +447,7 @@
       "topic": "tech",
       "lang": "en",
       "headline": "Private security firms will soon be allowed to hack overseas cybercriminals",
-      "summary": "Trump memo is first time gov't has authorized private sector to perform cyber attacks.",
+      "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
       "publishedAt": "2026-08-13T19:38:58.000Z"
@@ -618,6 +618,17 @@
       "publishedAt": "2026-08-13T15:08:00.000Z"
     },
     {
+      "id": "n_2cd82d85e5",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "summary": "Mico is headed to Learn Live. | Image: Microsoft Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to r",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "publishedAt": "2026-08-13T21:42:38.000Z"
+    },
+    {
       "id": "n_7bececf76d",
       "type": "news",
       "topic": "ai",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
       "publishedAt": "2026-08-12T15:52:07.000Z"
-    },
-    {
-      "id": "n_1b0e93cced",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Google’s Pixel Watch 5 dives deeper into AI and health",
-      "summary": "At least there’s no new proprietary charger this year. Huzzah!! | Photo: David Imel / The Verge The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-      "publishedAt": "2026-08-12T14:00:00.000Z"
     },
     {
       "id": "n_3d6d30af34",
@@ -871,11 +871,22 @@
       "publishedAt": "2026-08-03T08:30:05.000Z"
     },
     {
+      "id": "n_9ff6f1b7d0",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The Safety Reckoning Inside OpenAI",
+      "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+      "publishedAt": "2026-08-13T22:37:19.000Z"
+    },
+    {
       "id": "n_91015cd065",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything",
+      "headline": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
       "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
       "source": "Wired",
       "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
@@ -946,17 +957,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
       "publishedAt": "2026-08-12T10:30:00.000Z"
-    },
-    {
-      "id": "n_44289b82f6",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "You’re Thinking About Online Trends All Wrong",
-      "summary": "From pessimism around dating to AI reshaping culture, cyber-ethnographer Ruby J. Thelot tells WIRED why people are putting too much stock into things that go viral.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
-      "publishedAt": "2026-08-12T09:30:00.000Z"
     },
     {
       "id": "n_c1c9885561",
