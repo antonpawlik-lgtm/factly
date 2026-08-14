@@ -1,269 +1,335 @@
 {
-  "generatedAt": "2026-08-14T04:41:00.700Z",
+  "generatedAt": "2026-08-14T15:39:39.903Z",
   "items": [
     {
-      "id": "n_72e7e3d582",
+      "id": "n_a782eec774",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Lage am Ätna: \"Das hier ist ein ungewöhnlicher Ausbruch\"",
-      "summary": "Nach dem Ätna-Ausbruch weichen viele Reisende inzwischen auf den Flughafen Palermo aus, um Sizilien zu verlassen. Doch auch das ist mit Komplikationen verbunden. Und der Ätna scheint nicht an Aktivität zu verlieren. Von L. Weiß.",
+      "headline": "Niederlage für Macron: Social-Media-Verbot gekippt",
+      "summary": "Erst vor Kurzem stimmten Frankreichs Nationalversammlung und Senat für die Einschränkung sozialer Medien für Minderjährige. Nun hat der Verfassungsrat das Vorhaben kassiert - ein Rückschlag auch für Präsident Macron.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/italien-aetna-asche-folgen-flugverkehr-100.html",
-      "publishedAt": "2026-08-14T04:28:28.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-social-media-verbot-gekippt-100.html",
+      "publishedAt": "2026-08-14T15:07:58.000Z"
     },
     {
-      "id": "n_b0dec39adf",
+      "id": "n_65c9d8c0d6",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Warum Christopher Nolans \"Die Odyssee\" für Debatten sorgt",
-      "summary": "Wirtschaftlich ist \"Die Odyssee\" ein voller Erfolg. Doch mit seinem Film hat Christopher Nolan auch Diskussionen über internationale Politik ausgelöst - und wird selbst für einen kontroversen Drehort kritisiert. Von F. Meyen.",
+      "headline": "ARD: Florian Hager bleibt Intendant des Hessischen Rundfunks",
+      "summary": "Florian Hager bleibt für weitere fünf Jahre Intendant des Hessischen Rundfunks. Der 50-Jährige wurde heute in seinem Amt bestätigt. Er steht bereits seit 2022 an der Spitze des Senders.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kultur/die-odyssee-popkultur-kontroversen-100.html",
-      "publishedAt": "2026-08-14T04:28:09.000Z"
+      "url": "https://www.tagesschau.de/inland/regional/hessen/hr-florian-hager-bleibt-intendant-des-hessischen-rundfunks-100.html",
+      "publishedAt": "2026-08-14T14:59:11.000Z"
     },
     {
-      "id": "n_323aea1673",
+      "id": "n_ecc9c63e69",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Warum Diesel trotz gesunkener Ölpreise so teuer bleibt",
-      "summary": "Der Ölpreis ist seit seinem Kriegshoch deutlich gefallen. Doch an der Tankstelle kommt davon kaum etwas an - vor allem Diesel bleibt teuer. Was hinter der ungewöhnlichen Preisentwicklung steckt, erklärt Angela Göpfert.",
+      "headline": "Waldbrände: Grüne fordern Merz zum Handeln auf",
+      "summary": "Mehr Schutz vor Waldbränden: Die Grünen-Bundestagsfraktion fordert in einem dem ARD-Hauptstadtstudio vorliegenden Papier von der Bundesregierung konkrete Maßnahmen. Am Kanzler gibt es klare Kritik. Von Birthe Sönnichsen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/diesel-oelpreis-spritpreise-heizoel-100.html",
-      "publishedAt": "2026-08-14T04:00:13.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/gruene-waldbraende-forderungen-100.html",
+      "publishedAt": "2026-08-14T14:47:02.000Z"
     },
     {
-      "id": "n_763c1bd849",
+      "id": "n_8ab3785929",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Grünen-Fraktionschefin: Regierung sieht bei Spritpreis-Abzocke zu",
-      "summary": "Angesichts hoher Spritpreise spricht Grünen-Fraktionschefin Dröge von \"Abzocke\" - und die Bundesregierung schaue zu. Sie fordert eine Übergewinnsteuer für Mineralölkonzerne. Einnahmen daraus könnten an die Bürger weitergegeben werden.",
+      "headline": "Waldbrände in Europa: Hunderte Menschen in Sicherheit gebracht",
+      "summary": "Wegen schwerer Vegetationsbrände mussten in mehreren europäischen Ländern Hunderte Menschen ihre Häuser verlassen. Betroffen waren neben Frankreich und England auch Kroatien und Griechenland.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/hohe-spritpreise-gruene-100.html",
-      "publishedAt": "2026-08-14T03:40:02.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-108.html",
+      "publishedAt": "2026-08-14T14:22:36.000Z"
     },
     {
-      "id": "n_50f6eb5e28",
+      "id": "n_1f875cc156",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Bauernverband befürchtet teils totalen Ernteausfall",
-      "summary": "Die Trockenheit trifft Weizen, Kartoffeln und Zuckerrüben: Bauernpräsident Rukwied spricht von einer \"brutal angespannten\" wirtschaftlichen Lage. Er stellt Forderungen an die Politik. Denn in einigen Gebieten ist ein totaler Ernteausfall möglich.",
+      "headline": "Deutsche Bahn klagt gegen Mitbenutzung ihrer Strecken",
+      "summary": "Auf stark belasteten Strecken muss die DB Kapazitäten für Konkurrenten freiräumen - so hat es die Bundesnetzagentur beschlossen. Das könnte in der Praxis zu massiven Problemen führen, kritisiert die Bahn. Jetzt klagt sie.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/ernteeinbussen-trockenhein-bauernverband-100.html",
-      "publishedAt": "2026-08-14T00:47:51.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-klage-fernverkehr-100.html",
+      "publishedAt": "2026-08-14T14:12:58.000Z"
     },
     {
-      "id": "n_b9e7110fa1",
+      "id": "n_276c8a6222",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Gericht weist Klage der US-Regierung gegen Harvard ab",
-      "summary": "Trumps US-Regierung kassierte bereits im vergangenen Jahr in einem rechtlichen Streit mit der Eliteuniversität Hardvard eine Niederlage. Nun scheitert sie erneut vor Gericht. Im Zentrum stand ein Antisemitismus-Vorwurf.",
+      "headline": "Warum die Fahrrinne im Rhein bisher nicht ausgebaut wurde",
+      "summary": "Über den Ausbau der Fahrrinne im Rhein wird seit Jahrzehnten diskutiert. Wegen des Niedrigwassers werden die Forderungen danach wieder lauter. Warum ist bislang nichts passiert? Von L. Colic, T. Peters, V. Schmidberger.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/klage-harvard-abgewiesen-100.html",
-      "publishedAt": "2026-08-14T00:47:45.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/rhein-niedrigwasser-fahrrinne-100.html",
+      "publishedAt": "2026-08-14T14:01:01.000Z"
     },
     {
-      "id": "n_6ec5ae7fa4",
+      "id": "n_65961075d5",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Alabali Radovan: Hilfe für Afghanen - ohne Taliban-Kooperation",
-      "summary": "Afghanistan ist wegen der Abschiebungen dorthin oft Thema in der Bundespolitik. Doch Deutschland leistet auch Entwicklungshilfe für das Land - und das ohne mit den Taliban zusammenzuarbeiten, sagt die Entwicklungsministerin. Von Gabor Halasz.",
+      "headline": "Untersuchung zu Ryanair-Vorfall: Triebwerksteil zerschlug Flugzeugfenster",
+      "summary": "Nach dem schweren Zwischenfall an Bord einer Ryanair-Maschine liegen erste Untersuchungsergebnisse vor. Demnach beschädigte ein abgebrochenes Triebwerksteil den Flugzeugrumpf. Ein Passagier wäre beinahe aus dem Flugzeug gesogen worden.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/deutschland-afghanistan-taliban-100.html",
-      "publishedAt": "2026-08-13T22:00:27.000Z"
+      "url": "https://www.tagesschau.de/ausland/amerika/ryanair-flug-zwischenfall-fenster-102.html",
+      "publishedAt": "2026-08-14T13:02:02.000Z"
     },
     {
-      "id": "n_dfc3e29c19",
+      "id": "n_053f1f5ec7",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Klage über Missstände - Flugzeugträger \"USS Abraham Lincoln\" wird wohl abgelöst",
-      "summary": "Die Lebensmittel knapp, seit Monaten kein Landgang: US-Senatoren sorgen sich um die Marinestreitkräfte auf dem Flugzeugträger \"USS Abraham Lincoln\". Dieser soll offenbar nun abgelöst werden. Von Anne Schneider.",
+      "headline": "Ersthelfer begannen 2025 jede zweite Reanimation außerhalb von Kliniken",
+      "summary": "Etwa 350 Menschen haben vergangenes Jahr pro Tag in Deutschland außerhalb einer Klinik einen Herz-Kreislauf-Stillstand erlitten. Passieren kann das überall. In jedem zweiten Fall schritten Ersthelfer ein und begannen zu reanimieren.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/us-flugzeugtraeger-uss-abraham-lincoln-100.html",
-      "publishedAt": "2026-08-13T20:08:42.000Z"
+      "url": "https://www.tagesschau.de/wissen/gesundheit/reanimation-ersthelfer-100.html",
+      "publishedAt": "2026-08-14T12:58:53.000Z"
     },
     {
-      "id": "n_6b9374ccab",
+      "id": "n_e699de665e",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Chinas YMTC ist drittgrößter NAND-Flash-Hersteller der Welt",
-      "summary": "Chinesischer NAND-Flash für SSDs macht inzwischen 14 Prozent der weltweiten Lieferungen aus. YMTC überholt damit Micron.",
+      "headline": "Frankreich: Verfassungsrat kippt Social-Media-Verbot",
+      "summary": "Das oberste Gericht stoppt das Social-Media-Verbot für Kinder unter 15 Jahren – zumindest vorerst. Macron will sein Vorhaben noch vor der Wahl durchbringen.",
       "source": "heise online",
-      "url": "https://www.heise.de/news/Chinas-YMTC-ist-drittgroesster-NAND-Flash-Hersteller-der-Welt-11413360.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-13T15:35:00.000Z"
+      "url": "https://www.heise.de/news/Frankreich-Verfassungsrat-kippt-Social-Media-Verbot-11414905.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-14T15:17:00.000Z"
     },
     {
-      "id": "n_b5f797c166",
+      "id": "n_c774edef09",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Rätsel um „Little Red Dots“ vor Lösung? Wohl erster Schwarzloch-Stern gefunden",
-      "summary": "Seit das Weltraumteleskop James Webb im frühen Kosmos kleine rote Punkte findet, wurde darüber gerätselt. Nun wurde wohl der erste „Schwarzloch-Stern“ gefunden.",
+      "headline": "Eigenes KI-Modell für China von Apple mit Hilfe von Alibaba",
+      "summary": "Wie schon bei Google Gemini geht Apple offenbar im Reich der Mitte vor: Das Unternehmen trainiert eigene Modelle mit externer Technik – hier ist es wohl Qwen.",
       "source": "heise online",
-      "url": "https://www.heise.de/news/Raetsel-um-Little-Red-Dots-vor-Loesung-Wohl-erster-Schwarzloch-Stern-gefunden-11413070.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-13T13:25:00.000Z"
+      "url": "https://www.heise.de/news/Eigenes-KI-Modell-fuer-China-von-Apple-mit-Hilfe-von-Alibaba-11414693.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-14T13:37:00.000Z"
     },
     {
-      "id": "n_3d0d5027e7",
+      "id": "n_0e53ce2d3f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Wettersatelliten liefern beeindruckende Aufnahmen der Sonnenfinsternis",
-      "summary": "Eine Sonnenfinsternis hat am Mittwochabend Westeuropa in den Bann gezogen. Zwei Wettersatelliten haben das Spektakel von sehr weit oben festgehalten.",
+      "headline": "Genesis greift mit dem GV60 Magma Porsche Taycan und Ioniq 5 N an",
+      "summary": "Mit dem GV60 Magma bringt Genesis sein erstes Hochleistungsmodell in Serie. Der Elektro-Crossover leistet bis zu 478 kW und lädt in 18 Minuten auf 80 Prozent.",
       "source": "heise online",
-      "url": "https://www.heise.de/news/Wettersatelliten-liefern-beeindruckende-Aufnahmen-der-Sonnenfinsternis-11412696.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-13T11:04:00.000Z"
+      "url": "https://www.heise.de/news/Genesis-GV60-Magma-Luxury-High-Performance-mit-478-kW-ab-85-990-Euro-11414557.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-14T13:30:00.000Z"
     },
     {
-      "id": "n_22334a8561",
+      "id": "n_aa0b454e37",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "LiteLLM-Angriff: Mehr als 2500 Unternehmen betroffen",
-      "summary": "IT-Forscher haben Zugriff auf die abgeflossenen Daten von tausenden Firmen beim LiteLLM-Supply-Chain-Angriff aus dem März erhalten.",
+      "headline": "EU-Verpackungsverordnung: Warum kleine Händler ihre Shops schließen",
+      "summary": "Neue Regeln der EU-Verpackungsverordnung PPWR sorgen für Unruhe im Onlinehandel. Kleine Händler fürchten bürokratische Hürden und schließen ihre Shops.",
       "source": "heise online",
-      "url": "https://www.heise.de/news/LiteLLM-Angriff-Mehr-als-2500-Unternehmen-betroffen-11412654.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-13T11:01:00.000Z"
+      "url": "https://www.heise.de/news/Verpackungsverordnung-und-Onlineshops-Land-in-Sicht-11414163.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-14T10:53:00.000Z"
     },
     {
-      "id": "n_72e9f2cbe6",
+      "id": "n_77012d159c",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Apple verrät mehr Details zu KI-Kosten: Höchste Stufe wohl bei 60 Euro",
-      "summary": "Im Rahmen seiner jüngsten iOS-27-Beta sickern mehr Angaben zu Apples KI-Tarifplänen durch. Das gilt unter anderem für HomeKit Secure Video – aber nicht nur.",
+      "headline": "Bundesdatenschutzbeauftragte: „Weg mit den Cookie-Bannern!“",
+      "summary": "Die scheidende BfDI Louisa Specht-Riemenschneider fordert eine verbindliche Regelung im „digitalen Omnibus“ der Europäischen Union.",
       "source": "heise online",
-      "url": "https://www.heise.de/news/Apple-verraet-mehr-Details-zu-KI-Kosten-Hoechste-Stufe-wohl-bei-60-Euro-11410709.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-13T08:59:00.000Z"
+      "url": "https://www.heise.de/news/Bundesdatenschutzbeauftragte-Weg-mit-den-Cookie-Bannern-11413896.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-14T08:34:00.000Z"
     },
     {
-      "id": "n_7fdfde14bd",
+      "id": "n_dd66cf4845",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Zoom: Zero-Klick-Lücke ermöglicht Codeschmuggel",
-      "summary": "In Zoom haben IT-Forscher Zero-Klick-Lücken entdeckt, durch die Konferenzteilnehmer anderen beliebigen Code unterjubeln können.",
+      "headline": "Sci-Fi-Klassiker „System Shock“ bekommt offizielle Virtual-Reality-Version",
+      "summary": "Flat2VR Studios hat auf dem VR Games Showcase gleich zwei namhafte Shooter-Ports für VR-Headsets enthüllt.",
       "source": "heise online",
-      "url": "https://www.heise.de/news/Zoom-Zero-Klick-Luecke-ermoeglicht-Codeschmuggel-11412359.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-13T08:52:00.000Z"
+      "url": "https://www.heise.de/news/Sci-Fi-Klassiker-System-Shock-bekommt-offizielle-Virtual-Reality-Version-11413868.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-14T08:23:00.000Z"
     },
     {
-      "id": "n_af7be64023",
+      "id": "n_85c9b57459",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "„Call Connect via Funk“: Telekom ersetzt klassisches Festnetz durch LTE",
-      "summary": "Die Deutsche Telekom möchte alte Telefonanschlüsse ablösen. Mit der Telefon-Box „Call Connect via Funk“ bietet der Konzern Festnetztelefonie über das LTE-Netz.",
+      "headline": "Epic Games Store: Launcher soll Linux-Version bekommen",
+      "summary": "Der Launcher des Epic Games Store soll nativ unter Linux laufen. Einen Termin gibt es nicht, in der Preview des neuen Clients fehlt Linux noch.",
       "source": "heise online",
-      "url": "https://www.heise.de/news/Call-Connect-via-Funk-Telekom-ersetzt-klassisches-Festnetz-durch-LTE-11412448.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-13T08:44:00.000Z"
+      "url": "https://www.heise.de/news/Epic-Games-Store-Launcher-soll-Linux-Version-bekommen-11413892.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-14T08:14:00.000Z"
     },
     {
-      "id": "n_2ac82ccf0c",
+      "id": "n_5775a6e49f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "TAC-2: Commodore legt Kult-Joystick aus den 80ern neu auf",
-      "summary": "Nach dem C64 bringt das neue Commodore nun auch einen legendären Joystick aus den 80ern zurück. Doch außerhalb der USA trübt ein Faktor die Vorfreude erheblich.",
+      "headline": "Wettlauf gegen die Zeit: Rettungsmission für NASA-Weltraumteleskop mit Problemen",
+      "summary": "In Rekordzeit wurde die Rettungsmission zum NASA-Weltraumteleskop Swift gestartet. Die Sonde hat aber nun selbst technische Probleme und die Zeit wird knapp.",
       "source": "heise online",
-      "url": "https://www.heise.de/news/TAC-2-Commodore-legt-Kult-Joystick-aus-den-80ern-neu-auf-11412480.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-13T08:37:00.000Z"
+      "url": "https://www.heise.de/news/Wettlauf-gegen-die-Zeit-Rettungsmission-fuer-NASA-Weltraumteleskop-mit-Problemen-11413852.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-14T08:03:00.000Z"
     },
     {
-      "id": "n_6044cae533",
+      "id": "n_24301171c8",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Wera-Werkzeug-Kalender mit Schraublampe hier am günstigsten",
-      "summary": "Bei Amazon ist der Wera-Werkzeug-Adventskalender 2026 bereits reduziert und günstiger als bei anderen Händlern laut Preisvergleich. (Technik/Hardware)",
+      "headline": "Flugsicherheit: Forscher manipulieren Autopilot über externen Anschluss",
+      "summary": "Über einen leicht zugänglichen Wartungsanschluss ließen sich die Flugdaten einer Boeing 737 manipulieren. (Luftfahrt, Boeing)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-wera-werkzeug-kalender-mit-schraublampe-hier-am-guenstigsten-2608-211922.html",
-      "publishedAt": "2026-08-13T16:53:02.000Z"
+      "url": "https://www.golem.de/news/flugsicherheit-forscher-manipulieren-autopilot-ueber-externen-anschluss-2608-211962.html",
+      "publishedAt": "2026-08-14T15:23:01.000Z"
     },
     {
-      "id": "n_5ab533448a",
+      "id": "n_e1bf68576f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: 4 TByte große M.2 SSD für PS5 und PC zum neuen Tiefstpreis bei Amazon",
-      "summary": "Jetzt vor dem Aus physischer PS5-Spiele sichern: Amazon verkauft die Lexar EQ790 mit 4 TByte so günstig wie noch nie. (Solid State Drive, Amazon)",
+      "headline": "Anzeige: Mini 4K Dashcam für unter 50 Euro bei Amazon sichern",
+      "summary": "Eine Dashcam liefert im Notfall wichtige Beweise. Amazon reduziert die kompakte 70mai M310 Plus 4K Dashcam aktuell auf einen Sparpreis unter 50 Euro. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-4-tbyte-grosse-m-2-ssd-fuer-ps5-und-pc-zum-neuen-tiefstpreis-bei-amazon-2608-211921.html",
-      "publishedAt": "2026-08-13T16:36:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-mini-4k-dashcam-fuer-unter-50-euro-bei-amazon-sichern-2608-211937.html",
+      "publishedAt": "2026-08-14T15:10:02.000Z"
     },
     {
-      "id": "n_afaa896530",
+      "id": "n_14c2bb105e",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "KI-Imperium: SpaceX ist kein Raketenstartunternehmen mehr",
-      "summary": "SpaceX entwickelt sich zu einem Betrieb für KI-Anwendungen. Musk ist überzeugt, dass SpaceX dadurch astronomische Gewinne generieren wird. (Elon Musk, KI)",
+      "headline": "C100 8K: Keychron bringt riesiges Tastenpad mit 100 Schaltern",
+      "summary": "Das Keychron C100 8K ist nicht nur gigantisch. Es ordnet unbeschriftete Tasten auch in einer 10x10-Matrix quadratisch an. (Peripheriegeräte, Eingabegerät)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/ki-imperium-spacex-ist-kein-raketenstartunternehmen-mehr-2608-211894.html",
-      "publishedAt": "2026-08-13T16:24:01.000Z"
+      "url": "https://www.golem.de/news/c100-8k-keychron-bringt-riesiges-tastenpad-mit-100-schaltern-2608-211961.html",
+      "publishedAt": "2026-08-14T14:55:02.000Z"
     },
     {
-      "id": "n_4feb40b6ee",
+      "id": "n_d72e3442fe",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Wasserdichte Action-Kamera von Insta360 günstig wie nie bei Amazon",
-      "summary": "Die Insta360 X3 ist bei Amazon zum neuen Tiefstpreis erhältlich. Im befristeten Angebot lassen sich über 100 Euro auf den Durchschnittspreis der letzten 90 Tage sparen. (Kameras, Amazon)",
+      "headline": "Anzeige: Over-Ear-Kopfhörer mit ANC von Skullcandy reduziert bei Amazon",
+      "summary": "Die Over-Ear-Kopfhörer Skullcandy Crusher ANC 2 mit sensorischem Bass und aktiver Geräuschunterdrückung gibt es zum Aktionspreis bei Amazon. (Kopfhörer, Audio/Video)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-wasserdichte-action-kamera-von-insta360-guenstig-wie-nie-bei-amazon-2608-211918.html",
-      "publishedAt": "2026-08-13T15:50:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-over-ear-kopfhoerer-mit-anc-von-skullcandy-reduziert-bei-amazon-2608-211959.html",
+      "publishedAt": "2026-08-14T14:25:02.000Z"
     },
     {
-      "id": "n_c677cdc45e",
+      "id": "n_86ccd64df4",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Werbung in ChatGPT: OpenAI rechnet bereits pausierte Anzeigen ab",
-      "summary": "In den eigenen Werbebedingungen behält sich OpenAI das Recht vor, gestoppte Anzeigen bis zu 24 Stunden weiterlaufen zu lassen. (ChatGPT, KI)",
+      "headline": "Schwarzes-Loch-Sterne: Neue Art von kosmischem Objekt entdeckt",
+      "summary": "Die Little Red Dots in den Aufnahmen des JWST könnten Schwarzes-Loch-Sterne sein - eine neue Art von kosmischen Objekten. (James-Webb-Teleskop, Studien)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/werbung-in-chatgpt-openai-rechnet-bereits-pausierte-anzeigen-ab-2608-211920.html",
-      "publishedAt": "2026-08-13T15:34:02.000Z"
+      "url": "https://www.golem.de/news/schwarzes-loch-sterne-neue-art-von-kosmischem-objekt-entdeckt-2608-211926.html",
+      "publishedAt": "2026-08-14T14:16:01.000Z"
     },
     {
-      "id": "n_7b2d90dc9f",
+      "id": "n_2cb487e6d4",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Warner Bros: Entwicklung von Hogwarts Legacy 2 offiziell bestätigt",
-      "summary": "Besonders interessant ist der Zusammenhang mit der neuen Harry-Potter-Serie, die Ende 2026 starten soll. (Hogwarts Legacy, Harry Potter)",
+      "headline": "Anzeige: Starke 4K-Drohne bei Amazon zum aktuellen Bestpreis",
+      "summary": "Bei Amazon gibt es derzeit die Potensic Atom 2 günstig im Angebot. Die 4K-Drohne ist zum aktuellen Bestpreis erhältlich. (Drohne, Amazon)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/warner-bros-entwicklung-von-hogwarts-legacy-2-offiziell-bestaetigt-2608-211917.html",
-      "publishedAt": "2026-08-13T15:10:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-starke-4k-drohne-bei-amazon-zum-aktuellen-bestpreis-2608-211951.html",
+      "publishedAt": "2026-08-14T13:59:01.000Z"
     },
     {
-      "id": "n_85dcdaecd1",
+      "id": "n_8cbc73f1a6",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Steckdosenturm mit AC, USB und Schalter für 23,79 Euro bei Amazon",
-      "summary": "Einen Steckdosenturm mit acht AC-Steckdosen, vier USB-Ports und Sicherheitsschalter gibt es mit Zwei-Meter-Kabel zum Sparpreis bei Amazon. (Technik/Hardware)",
+      "headline": "Sam Altman: OpenAI-Chef will weiter Rechenzentrum in Deutschland",
+      "summary": "OpenAI-Chef Sam Altman wirbt weiter für deutsche Rechenkapazitäten, während sein Unternehmen mit Verlusten und Sicherheitsvorfällen kämpft. (Sam Altman, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-steckdosenturm-mit-ac-usb-und-schalter-fuer-23-79-euro-bei-amazon-2608-211914.html",
-      "publishedAt": "2026-08-13T15:05:02.000Z"
+      "url": "https://www.golem.de/news/sam-altman-openai-chef-will-weiter-rechenzentrum-in-deutschland-2608-211956.html",
+      "publishedAt": "2026-08-14T13:48:02.000Z"
     },
     {
-      "id": "n_4a2bd319bc",
+      "id": "n_9f23521b36",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anfragen: Bundesregierung fehlen Daten bei Rechenzentrumsstrategie",
-      "summary": "Die Bundesregierung hat kaum genauere Informationen zu Bauplänen und Wasserbedarf neuer Rechenzentren. Es herrscht das Prinzip Hoffnung. (Souveränität, KI)",
+      "headline": "Playstation 5: Wolverine setzt auf soziale Treffpunkte und Traumsequenzen",
+      "summary": "Sony hat Details zum ultrabrutalen Wolverine veröffentlicht. Während Treffpunkte neugierig machen, lösen Traumsequenzen Diskussionen aus. (Playstation 5, Sony)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anfragen-bundesregierung-fehlen-daten-bei-rechenzentrumsstrategie-2608-211915.html",
-      "publishedAt": "2026-08-13T14:58:02.000Z"
+      "url": "https://www.golem.de/news/playstatin-5-wolverine-setzt-auf-soziale-treffpunkte-und-traumsequenzen-2608-211954.html",
+      "publishedAt": "2026-08-14T13:04:02.000Z"
+    },
+    {
+      "id": "n_f6ae480842",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Builders unearth €9m gold stash sealed in walls of Belgian property",
+      "summary": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T13:18:08.000Z"
+    },
+    {
+      "id": "n_36c71486f9",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+      "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T12:19:21.000Z"
+    },
+    {
+      "id": "n_e9f2b07242",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
+      "summary": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T11:37:31.000Z"
+    },
+    {
+      "id": "n_01a8723d16",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Stolen Matisse artworks recovered by police in Brazil",
+      "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T10:55:39.000Z"
+    },
+    {
+      "id": "n_3c023a579e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'Unprecedented' rain in Japan kills eight people",
+      "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T10:36:14.000Z"
+    },
+    {
+      "id": "n_676e98767a",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US missionary released following kidnap in Niger, Christian group says",
+      "summary": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T10:18:02.000Z"
     },
     {
       "id": "n_eeffef3780",
@@ -274,84 +340,18 @@
       "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T03:09:48.000Z"
+      "publishedAt": "2026-08-14T08:39:46.000Z"
     },
     {
-      "id": "n_c16250e824",
+      "id": "n_a85e37f9da",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Indian solar mission's new findings throw light on enduring Sun mysteries",
-      "summary": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?",
+      "headline": "Teens who fled Venezuela after deadly quakes caught in another disaster in Colombia",
+      "summary": "Deivi Delfín and his brother moved to Colombia after a quake in Venezuela killed their mother, but were caught in another deadly disaster.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T02:13:27.000Z"
-    },
-    {
-      "id": "n_89555754a0",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T23:06:23.000Z"
-    },
-    {
-      "id": "n_a2ea0f8a0d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-      "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T21:43:47.000Z"
-    },
-    {
-      "id": "n_41f696587e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "BBC Verify speaks to woman who filmed ICE agent pointing gun at her",
-      "summary": "BBC Verify has examined footage shared by a Virginia woman in which an ICE agent points his gun at her.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c1m12m12nzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T20:37:14.000Z"
-    },
-    {
-      "id": "n_09443cca3d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-      "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T20:12:17.000Z"
-    },
-    {
-      "id": "n_91fd82f2cc",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T19:46:27.000Z"
-    },
-    {
-      "id": "n_d09148a54c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Family of Irish plane crash victim awarded $29m in damages",
-      "summary": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his widow Naoise Connolly Ryan brought a civil suit against Boeing.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T19:08:49.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c9v42m3430vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T08:02:35.000Z"
     },
     {
       "id": "n_57b4a23cfc",
@@ -442,6 +442,50 @@
       "publishedAt": "2026-08-11T19:30:00.000Z"
     },
     {
+      "id": "n_56f28cd3a4",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "publishedAt": "2026-08-14T14:27:14.000Z"
+    },
+    {
+      "id": "n_51cbe3e17f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
+      "summary": "\"We’ve never seen launch capacity so constrained.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/",
+      "publishedAt": "2026-08-14T11:00:49.000Z"
+    },
+    {
+      "id": "n_4f072efc0d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
+      "summary": "Samsung didn't have to change much this year because its hardware is just that good.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
+      "publishedAt": "2026-08-14T11:00:05.000Z"
+    },
+    {
+      "id": "n_ea1923292a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Organic-looking brake assemblies debut on new Czinger 21C Spyder",
+      "summary": "Czinger used topological design and additive manufacturing to make the brakes.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/",
+      "publishedAt": "2026-08-14T07:01:15.000Z"
+    },
+    {
       "id": "n_5273c3175a",
       "type": "news",
       "topic": "tech",
@@ -486,48 +530,26 @@
       "publishedAt": "2026-08-13T18:31:56.000Z"
     },
     {
-      "id": "n_69284f51f0",
+      "id": "n_21c4010742",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
-      "summary": "Flock to lock out cops who stalk exes, but agencies can still hide abuse.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
-      "publishedAt": "2026-08-13T18:10:14.000Z"
+      "headline": "Kog is going deeper to squeeze more inference out of GPUs",
+      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "publishedAt": "2026-08-14T14:50:11.000Z"
     },
     {
-      "id": "n_522954cd96",
+      "id": "n_887ae25367",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Pet owners say smart pet feeder outage led to furry ones going unfed",
-      "summary": "\"I've lost trust ...\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed/",
-      "publishedAt": "2026-08-13T17:53:53.000Z"
-    },
-    {
-      "id": "n_e3152e562f",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "The new Instagram logo is the perfect embodiment of AI slop",
-      "summary": "Opinion: Some remarks about the new wordmark accidentally being perfectly awful.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
-      "publishedAt": "2026-08-13T17:32:10.000Z"
-    },
-    {
-      "id": "n_cf3951101d",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-      "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "publishedAt": "2026-08-13T17:00:13.000Z"
+      "headline": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "publishedAt": "2026-08-14T14:05:00.000Z"
     },
     {
       "id": "n_952a2dd22c",
@@ -596,26 +618,37 @@
       "publishedAt": "2026-08-13T17:07:13.000Z"
     },
     {
-      "id": "n_0247077166",
+      "id": "n_a8d30f7063",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "publishedAt": "2026-08-13T15:30:52.000Z"
+      "headline": "Apple trained its own AI model for China with help from Alibaba",
+      "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Al",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "publishedAt": "2026-08-14T09:21:17.000Z"
     },
     {
-      "id": "n_fc27ea23a8",
+      "id": "n_2cd82d85e5",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "publishedAt": "2026-08-13T15:08:00.000Z"
+      "headline": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "summary": "Mico is headed to Learn Live. | Image: Microsoft Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to r",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "publishedAt": "2026-08-13T21:42:38.000Z"
+    },
+    {
+      "id": "n_7bececf76d",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI is losing its second executive this week",
+      "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, presiden",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "publishedAt": "2026-08-13T19:28:39.000Z"
     },
     {
       "id": "n_9f3f44e2b7",
@@ -671,39 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
       "publishedAt": "2026-08-12T17:29:10.000Z"
-    },
-    {
-      "id": "n_617b8a3f06",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Guitar company D’Addario admits that AI music was used in a promotional video",
-      "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various expl",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
-      "publishedAt": "2026-08-12T15:52:07.000Z"
-    },
-    {
-      "id": "n_1b0e93cced",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Google’s Pixel Watch 5 dives deeper into AI and health",
-      "summary": "At least there’s no new proprietary charger this year. Huzzah!! | Photo: David Imel / The Verge The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-      "publishedAt": "2026-08-12T14:00:00.000Z"
-    },
-    {
-      "id": "n_2484f165f2",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-      "publishedAt": "2026-08-12T12:09:34.000Z"
     },
     {
       "id": "n_3d6d30af34",
@@ -871,6 +871,39 @@
       "publishedAt": "2026-08-03T08:30:05.000Z"
     },
     {
+      "id": "n_a13c577718",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+      "summary": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+      "publishedAt": "2026-08-14T15:00:00.000Z"
+    },
+    {
+      "id": "n_dd66d68264",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
+      "summary": "Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
+      "publishedAt": "2026-08-14T10:45:00.000Z"
+    },
+    {
+      "id": "n_38c15e978c",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
+      "summary": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+      "publishedAt": "2026-08-14T10:15:00.000Z"
+    },
+    {
       "id": "n_9ff6f1b7d0",
       "type": "news",
       "topic": "ai",
@@ -926,37 +959,15 @@
       "publishedAt": "2026-08-12T18:45:00.000Z"
     },
     {
-      "id": "n_fd95d88ee0",
+      "id": "n_d556a48bac",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
-      "summary": "From Magic Capture and Instant Night Sight to a built-in teleprompter, here’s a look at a few camera features on Google’s new Pixel 11 series.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/",
-      "publishedAt": "2026-08-12T14:00:00.000Z"
-    },
-    {
-      "id": "n_94cf8b2740",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
-      "summary": "LemonLime cofounder Jordan Zietz hears your criticism loud and clear. That’s why he got his startup’s logo tattooed on his shoulder.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
-      "publishedAt": "2026-08-12T10:45:00.000Z"
-    },
-    {
-      "id": "n_e233c03557",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Oh Lord, AI Reporters Are Actually Breaking Big News",
-      "summary": "Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
-      "publishedAt": "2026-08-12T10:30:00.000Z"
+      "headline": "State of Open Models: Summer 2026 Observations",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "publishedAt": "2026-08-14T00:00:00.000Z"
     },
     {
       "id": "n_c1c9885561",
@@ -1036,15 +1047,16 @@
       "publishedAt": "2026-08-10T10:05:36.000Z"
     },
     {
-      "id": "n_0da6fb777e",
-      "type": "news",
-      "topic": "ai",
+      "id": "n_5ac4def88e",
+      "type": "video",
+      "topic": "video",
       "lang": "en",
-      "headline": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "headline": "Claude AI Failed 650 Times…Then Beat The Human Record",
       "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/muse-glimmer",
-      "publishedAt": "2026-08-10T00:00:00.000Z"
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
+      "thumbnail": "https://i.ytimg.com/vi/QnGNF8k_uoc/hqdefault.jpg",
+      "publishedAt": "2026-08-14T08:42:07.000Z"
     },
     {
       "id": "n_611562df74",
@@ -1081,18 +1093,6 @@
       "url": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
       "thumbnail": "https://i.ytimg.com/vi/ppQh4Tc9BmM/hqdefault.jpg",
       "publishedAt": "2026-08-05T13:54:29.000Z"
-    },
-    {
-      "id": "n_4b6553db46",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Another DeepSeek Moment Has Arrived",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=bm1BjOjS7sQ",
-      "thumbnail": "https://i.ytimg.com/vi/bm1BjOjS7sQ/hqdefault.jpg",
-      "publishedAt": "2026-08-03T09:47:34.000Z"
     },
     {
       "id": "n_6a18d8c315",
