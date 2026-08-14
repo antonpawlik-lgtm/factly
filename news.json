@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-08-14T00:55:06.031Z",
+  "generatedAt": "2026-08-14T04:41:00.700Z",
   "items": [
+    {
+      "id": "n_72e7e3d582",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Lage am Ätna: \"Das hier ist ein ungewöhnlicher Ausbruch\"",
+      "summary": "Nach dem Ätna-Ausbruch weichen viele Reisende inzwischen auf den Flughafen Palermo aus, um Sizilien zu verlassen. Doch auch das ist mit Komplikationen verbunden. Und der Ätna scheint nicht an Aktivität zu verlieren. Von L. Weiß.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/italien-aetna-asche-folgen-flugverkehr-100.html",
+      "publishedAt": "2026-08-14T04:28:28.000Z"
+    },
+    {
+      "id": "n_b0dec39adf",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Warum Christopher Nolans \"Die Odyssee\" für Debatten sorgt",
+      "summary": "Wirtschaftlich ist \"Die Odyssee\" ein voller Erfolg. Doch mit seinem Film hat Christopher Nolan auch Diskussionen über internationale Politik ausgelöst - und wird selbst für einen kontroversen Drehort kritisiert. Von F. Meyen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/kultur/die-odyssee-popkultur-kontroversen-100.html",
+      "publishedAt": "2026-08-14T04:28:09.000Z"
+    },
+    {
+      "id": "n_323aea1673",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Warum Diesel trotz gesunkener Ölpreise so teuer bleibt",
+      "summary": "Der Ölpreis ist seit seinem Kriegshoch deutlich gefallen. Doch an der Tankstelle kommt davon kaum etwas an - vor allem Diesel bleibt teuer. Was hinter der ungewöhnlichen Preisentwicklung steckt, erklärt Angela Göpfert.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/diesel-oelpreis-spritpreise-heizoel-100.html",
+      "publishedAt": "2026-08-14T04:00:13.000Z"
+    },
+    {
+      "id": "n_763c1bd849",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Grünen-Fraktionschefin: Regierung sieht bei Spritpreis-Abzocke zu",
+      "summary": "Angesichts hoher Spritpreise spricht Grünen-Fraktionschefin Dröge von \"Abzocke\" - und die Bundesregierung schaue zu. Sie fordert eine Übergewinnsteuer für Mineralölkonzerne. Einnahmen daraus könnten an die Bürger weitergegeben werden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/hohe-spritpreise-gruene-100.html",
+      "publishedAt": "2026-08-14T03:40:02.000Z"
+    },
     {
       "id": "n_50f6eb5e28",
       "type": "news",
@@ -28,7 +72,7 @@
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Alabali Radovan: Afghanen helfen ohne Taliban-Kooperation",
+      "headline": "Alabali Radovan: Hilfe für Afghanen - ohne Taliban-Kooperation",
       "summary": "Afghanistan ist wegen der Abschiebungen dorthin oft Thema in der Bundespolitik. Doch Deutschland leistet auch Entwicklungshilfe für das Land - und das ohne mit den Taliban zusammenzuarbeiten, sagt die Entwicklungsministerin. Von Gabor Halasz.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/deutschland-afghanistan-taliban-100.html",
@@ -44,50 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/us-flugzeugtraeger-uss-abraham-lincoln-100.html",
       "publishedAt": "2026-08-13T20:08:42.000Z"
-    },
-    {
-      "id": "n_afce02e560",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Passagierzug im Südosten Englands entgleist - wohl keine Toten",
-      "summary": "Im Südosten Englands ist am späten Nachmittag ein Zug entgleist, mehrere Waggons sind dabei umgekippt. Mehrere Menschen wurden verletzt - nach bisherigen Erkenntnissen gibt es keine Toten.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/zugunglueck-east-sussex-102.html",
-      "publishedAt": "2026-08-13T19:55:03.000Z"
-    },
-    {
-      "id": "n_3951602548",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Prozess um WM in Katar 2022: Whistleblower an Ausreise gehindert",
-      "summary": "Der Ex-Mediendirektor des Organisationskomitees der WM 2022 in Katar ist ein wichtiger Zeuge, wenn es um den Vorwurf der Zwangsarbeit und des Menschenhandels geht. Doch Abdullah Ibhais darf nicht zu einem Prozess in die USA reisen. Von B. Best.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/jordanien-whistleblower-wm-katar-verhaftet-100.html",
-      "publishedAt": "2026-08-13T18:16:07.000Z"
-    },
-    {
-      "id": "n_5046270bb7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: Rekordserie geht erstmal nicht weiter",
-      "summary": "Der Leitindex kann zwar seine 26.000-Punkte-Marke verteidigen, der DAX-Rally geht aber die Luft aus. Daran ändern auch starke Firmenbilanzen und die Aussicht auf einen stabilen US-Leitzins nichts.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-us-inflation-100.html",
-      "publishedAt": "2026-08-13T16:25:34.000Z"
-    },
-    {
-      "id": "n_9ac5fb2960",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Urteil gegen Airline: Passagiere dürfen mehrere Handgepäckstücke mitnehmen",
-      "summary": "Das OLG Hamm hat entschieden, dass Flugreisende mehrere Handgepäckstücke kostenlos mitnehmen dürfen, solange sie zusammen das vorgegebene Maß nicht überschreiten. Geklagt hatte die Verbraucherzentrale. Von Björn-Hendrik Otte.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/handgepaeck-flugzeug-100.html",
-      "publishedAt": "2026-08-13T16:02:24.000Z"
     },
     {
       "id": "n_6b9374ccab",
@@ -266,6 +266,28 @@
       "publishedAt": "2026-08-13T14:58:02.000Z"
     },
     {
+      "id": "n_eeffef3780",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US says dozens of countries helped China dodge Trump's tariffs",
+      "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T03:09:48.000Z"
+    },
+    {
+      "id": "n_c16250e824",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Indian solar mission's new findings throw light on enduring Sun mysteries",
+      "summary": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T02:13:27.000Z"
+    },
+    {
       "id": "n_89555754a0",
       "type": "news",
       "topic": "general",
@@ -286,6 +308,17 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-13T21:43:47.000Z"
+    },
+    {
+      "id": "n_41f696587e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "BBC Verify speaks to woman who filmed ICE agent pointing gun at her",
+      "summary": "BBC Verify has examined footage shared by a Virginia woman in which an ICE agent points his gun at her.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c1m12m12nzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T20:37:14.000Z"
     },
     {
       "id": "n_09443cca3d",
@@ -319,39 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-13T19:08:49.000Z"
-    },
-    {
-      "id": "n_34a2437c4c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
-      "summary": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T18:45:51.000Z"
-    },
-    {
-      "id": "n_0758efa7f4",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Air India to test all pilots for banned substances",
-      "summary": "It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T16:52:15.000Z"
-    },
-    {
-      "id": "n_182debe3e3",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Presidential pardon for French alleged spy accused of plotting Mali coup",
-      "summary": "France is yet to comment on Yann Vezilier's pardon and previously called the accusations \"unfounded\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2el29e3m3xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T15:50:49.000Z"
     },
     {
       "id": "n_57b4a23cfc",
@@ -442,6 +442,17 @@
       "publishedAt": "2026-08-11T19:30:00.000Z"
     },
     {
+      "id": "n_5273c3175a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "US wait times for cancer surgeries are getting longer and longer",
+      "summary": "Study finds wait times for cancer surgeries hit 10-year high.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
+      "publishedAt": "2026-08-13T22:17:29.000Z"
+    },
+    {
       "id": "n_285cb3fe60",
       "type": "news",
       "topic": "tech",
@@ -517,17 +528,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
       "publishedAt": "2026-08-13T17:00:13.000Z"
-    },
-    {
-      "id": "n_6710bde7fa",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Rivian's 2027 changes include its No. 1 most-requested feature",
-      "summary": "Pricing hasn't changed, and now you can get captain's chairs for the R1S.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/08/rivian-tweaks-its-r1-range-for-model-year-2027/",
-      "publishedAt": "2026-08-13T14:00:57.000Z"
     },
     {
       "id": "n_952a2dd22c",
@@ -618,28 +618,6 @@
       "publishedAt": "2026-08-13T15:08:00.000Z"
     },
     {
-      "id": "n_2cd82d85e5",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-      "summary": "Mico is headed to Learn Live. | Image: Microsoft Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to r",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-      "publishedAt": "2026-08-13T21:42:38.000Z"
-    },
-    {
-      "id": "n_7bececf76d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI is losing its second executive this week",
-      "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, presiden",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "publishedAt": "2026-08-13T19:28:39.000Z"
-    },
-    {
       "id": "n_9f3f44e2b7",
       "type": "news",
       "topic": "ai",
@@ -704,6 +682,28 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
       "publishedAt": "2026-08-12T15:52:07.000Z"
+    },
+    {
+      "id": "n_1b0e93cced",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Google’s Pixel Watch 5 dives deeper into AI and health",
+      "summary": "At least there’s no new proprietary charger this year. Huzzah!! | Photo: David Imel / The Verge The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+      "publishedAt": "2026-08-12T14:00:00.000Z"
+    },
+    {
+      "id": "n_2484f165f2",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "publishedAt": "2026-08-12T12:09:34.000Z"
     },
     {
       "id": "n_3d6d30af34",
