@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-08-14T18:38:05.966Z",
+  "generatedAt": "2026-08-14T21:13:51.794Z",
   "items": [
+    {
+      "id": "n_c70c40fb59",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Leichtathletik-EM: Owen Ansah holt Gold über 200-Meter-Distanz",
+      "summary": "Der Deutsche Owen Ansah hat sich bei der Leichtathletik-EM im britischen Birmingham Gold über die 200-Meter-Distanz gesichert. Er lief die Strecke in 19,95 Sekunden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/sport/sportschau/leichtathletik-em-gold-owen-ansah-100.html",
+      "publishedAt": "2026-08-14T21:07:42.000Z"
+    },
+    {
+      "id": "n_05f10851bb",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "NRW kämpft mit dem wohl größten Waldbrand der Landesgeschichte",
+      "summary": "Im nordrhein-westfälischen Hürtgenwald brennt es auf mehr als 200 Hektar. Es dürfte der größte Waldbrand in der Geschichte des Bundeslandes sein. Hunderte Menschen wurden dort evakuiert - andere Teile der Eifel könnten folgen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-100.html",
+      "publishedAt": "2026-08-14T18:53:38.000Z"
+    },
     {
       "id": "n_027f7de8b6",
       "type": "news",
@@ -22,17 +44,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/regional/hessen/hr-florian-hager-bleibt-intendant-des-hessischen-rundfunks-100.html",
       "publishedAt": "2026-08-14T18:19:37.000Z"
-    },
-    {
-      "id": "n_05f10851bb",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "NRW kämpft mit dem wohl größten Waldbrand der Landesgeschichte",
-      "summary": "Im nordrhein-westfälischen Hürtgenwald brennt es auf mehr als 200 Hektar. Es dürfte der größte Waldbrand in der Geschichte des Bundeslandes sein. Hunderte Menschen wurden dort evakuiert - andere Teile der Eifel könnten folgen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-100.html",
-      "publishedAt": "2026-08-14T17:34:27.000Z"
     },
     {
       "id": "n_071bdad046",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/italien-kunst-polizei-100.html",
       "publishedAt": "2026-08-14T15:51:29.000Z"
-    },
-    {
-      "id": "n_a782eec774",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Niederlage für Macron: Social-Media-Verbot gekippt",
-      "summary": "Erst vor Kurzem stimmten Frankreichs Nationalversammlung und Senat für die Einschränkung sozialer Medien für Minderjährige. Nun hat der Verfassungsrat das Vorhaben kassiert - ein Rückschlag auch für Präsident Macron.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-social-media-verbot-gekippt-100.html",
-      "publishedAt": "2026-08-14T15:07:58.000Z"
     },
     {
       "id": "n_e699de665e",
@@ -266,6 +266,39 @@
       "publishedAt": "2026-08-14T14:55:02.000Z"
     },
     {
+      "id": "n_fd0dcfb3e1",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Dozens injured and thousands evacuated in Croatia wildfire",
+      "summary": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T20:22:56.000Z"
+    },
+    {
+      "id": "n_6b21c3c238",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump asks Supreme Court to allow ballroom work to continue",
+      "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T19:05:22.000Z"
+    },
+    {
+      "id": "n_7d85fee523",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+      "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T18:25:38.000Z"
+    },
+    {
       "id": "n_bc705624b0",
       "type": "news",
       "topic": "general",
@@ -319,39 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-14T16:28:59.000Z"
-    },
-    {
-      "id": "n_6b21c3c238",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump asks Supreme Court to allow ballroom work to continue",
-      "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T15:10:41.000Z"
-    },
-    {
-      "id": "n_e3ccd6f915",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Moment €9m worth of art stolen from Italy museum",
-      "summary": "Police released the CCTV footage after the art, which was stolen in March, was recovered.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cddjlrzd26eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T14:56:04.000Z"
-    },
-    {
-      "id": "n_f6ae480842",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Builders unearth €9m gold stash sealed in walls of Belgian property",
-      "summary": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T13:18:08.000Z"
     },
     {
       "id": "n_57b4a23cfc",
@@ -442,6 +442,72 @@
       "publishedAt": "2026-08-11T19:30:00.000Z"
     },
     {
+      "id": "n_b74725c02d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Vulnerability giving attackers full control of Macs is under active exploitation",
+      "summary": "Screen-sharing bug lets remote hackers log in without a password.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+      "publishedAt": "2026-08-14T18:32:14.000Z"
+    },
+    {
+      "id": "n_855e1413ec",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "First test flight of largest all-electric aircraft used just $5 of electricity",
+      "summary": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+      "publishedAt": "2026-08-14T18:00:23.000Z"
+    },
+    {
+      "id": "n_9510778d4d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "publishedAt": "2026-08-14T17:26:53.000Z"
+    },
+    {
+      "id": "n_3e5c9909e0",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "State judge orders Kalshi to stop offering sports bets and other wagers",
+      "summary": "Kalshi ordered to stop offering bets in Washington, must implement geofencing.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
+      "publishedAt": "2026-08-14T17:13:14.000Z"
+    },
+    {
+      "id": "n_e2a6e77f6a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+      "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+      "publishedAt": "2026-08-14T17:03:54.000Z"
+    },
+    {
+      "id": "n_e3e02b6fcb",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Policy experts: Europe stuck between \"rock and a hard place\" on launch",
+      "summary": "It turns out that the economics of rocket reuse are pretty, pretty good.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/",
+      "publishedAt": "2026-08-14T16:29:21.000Z"
+    },
+    {
       "id": "n_9aa84ad54b",
       "type": "news",
       "topic": "tech",
@@ -462,72 +528,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
       "publishedAt": "2026-08-14T15:46:40.000Z"
-    },
-    {
-      "id": "n_e14fecba90",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
-      "summary": "Chris Carter chats with Ars about the film he originally wanted to make—and why it's more relevant than ever.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/",
-      "publishedAt": "2026-08-14T15:18:22.000Z"
-    },
-    {
-      "id": "n_f57d346737",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Taylor Farms' connections to Trump admin spurs probe into Cyclospora response",
-      "summary": "Senator Warren questions whether Taylor Farms' influence swayed Trump admin.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/08/taylor-farms-connections-to-trump-admin-spurs-probe-into-cyclospora-response/",
-      "publishedAt": "2026-08-14T15:03:16.000Z"
-    },
-    {
-      "id": "n_56f28cd3a4",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-      "publishedAt": "2026-08-14T14:27:14.000Z"
-    },
-    {
-      "id": "n_51cbe3e17f",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
-      "summary": "\"We’ve never seen launch capacity so constrained.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/",
-      "publishedAt": "2026-08-14T11:00:49.000Z"
-    },
-    {
-      "id": "n_4f072efc0d",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
-      "summary": "Samsung didn't have to change much this year because its hardware is just that good.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
-      "publishedAt": "2026-08-14T11:00:05.000Z"
-    },
-    {
-      "id": "n_ea1923292a",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Organic-looking brake assemblies debut on new Czinger 21C Spyder",
-      "summary": "Czinger used topological design and additive manufacturing to make the brakes.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/",
-      "publishedAt": "2026-08-14T07:01:15.000Z"
     },
     {
       "id": "n_f51202f872",
@@ -871,6 +871,17 @@
       "publishedAt": "2026-08-03T08:30:05.000Z"
     },
     {
+      "id": "n_6f56e04a74",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+      "summary": "The Unitree G1 has found online fame as a relatively affordable robot that can charm a crowd. But can it ever hold down a real job?",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+      "publishedAt": "2026-08-14T20:59:03.000Z"
+    },
+    {
       "id": "n_a13c577718",
       "type": "news",
       "topic": "ai",
@@ -946,17 +957,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
       "publishedAt": "2026-08-12T21:00:00.000Z"
-    },
-    {
-      "id": "n_54da5181bd",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
-      "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
-      "publishedAt": "2026-08-12T18:45:00.000Z"
     },
     {
       "id": "n_d556a48bac",
@@ -1147,7 +1147,7 @@
       "type": "video",
       "topic": "video",
       "lang": "en",
-      "headline": "The edge ML pipeline that jailbroke the 4th Amendment...",
+      "headline": "This new startup can query anywhere you've been...",
       "summary": "",
       "source": "Fireship",
       "url": "https://www.youtube.com/watch?v=E7la7-dtfVM",
