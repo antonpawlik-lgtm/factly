@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-14T21:13:51.794Z",
+  "generatedAt": "2026-08-15T00:32:07.126Z",
   "items": [
     {
-      "id": "n_c70c40fb59",
+      "id": "n_a023472e47",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Leichtathletik-EM: Owen Ansah holt Gold über 200-Meter-Distanz",
-      "summary": "Der Deutsche Owen Ansah hat sich bei der Leichtathletik-EM im britischen Birmingham Gold über die 200-Meter-Distanz gesichert. Er lief die Strecke in 19,95 Sekunden.",
+      "headline": "Medienberichte: Früherer Cambridge-Professor Arday tot aufgefunden",
+      "summary": "Er wurde als jüngster schwarzer Professor in Cambridge gefeiert. Nun ist Jason Arday laut Medienberichten gestorben. Erst vor wenigen Tagen hatte er nach Plagiatsvorwürfen seinen Rücktritt erklärt.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/sport/sportschau/leichtathletik-em-gold-owen-ansah-100.html",
-      "publishedAt": "2026-08-14T21:07:42.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/cambridge-professor-100.html",
+      "publishedAt": "2026-08-14T23:34:43.000Z"
     },
     {
       "id": "n_05f10851bb",
@@ -21,7 +21,18 @@
       "summary": "Im nordrhein-westfälischen Hürtgenwald brennt es auf mehr als 200 Hektar. Es dürfte der größte Waldbrand in der Geschichte des Bundeslandes sein. Hunderte Menschen wurden dort evakuiert - andere Teile der Eifel könnten folgen.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-100.html",
-      "publishedAt": "2026-08-14T18:53:38.000Z"
+      "publishedAt": "2026-08-14T22:53:28.000Z"
+    },
+    {
+      "id": "n_c70c40fb59",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Leichtathletik-EM: Owen Ansah holt Gold über 200-Meter-Distanz",
+      "summary": "Der Deutsche Owen Ansah hat sich bei der Leichtathletik-EM im britischen Birmingham Gold über die 200-Meter-Distanz gesichert. Er lief die Strecke in 19,95 Sekunden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/sport/sportschau/leichtathletik-em-gold-owen-ansah-100.html",
+      "publishedAt": "2026-08-14T21:07:42.000Z"
     },
     {
       "id": "n_027f7de8b6",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/faktenfinder/fakes-ceuta-100.html",
       "publishedAt": "2026-08-14T16:23:56.000Z"
-    },
-    {
-      "id": "n_c837d903cc",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Renoir, Cézanne, Matisse: Italienische Polizei findet gestohlene Kunst",
-      "summary": "Nur wenige Minuten brauchen Diebe vor einigen Monaten, um drei wertvolle Gemälde aus einem italienischen Museum zu stehlen. Nun hat die Polizei die Werke sichergestellt. Die Hintergründe der Tat werfen Fragen auf.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/italien-kunst-polizei-100.html",
-      "publishedAt": "2026-08-14T15:51:29.000Z"
     },
     {
       "id": "n_e699de665e",
@@ -277,6 +277,17 @@
       "publishedAt": "2026-08-14T20:22:56.000Z"
     },
     {
+      "id": "n_1a815948b4",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+      "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T19:20:43.000Z"
+    },
+    {
       "id": "n_6b21c3c238",
       "type": "news",
       "topic": "general",
@@ -297,6 +308,17 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-14T18:25:38.000Z"
+    },
+    {
+      "id": "n_39944a5a51",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+      "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T17:36:27.000Z"
     },
     {
       "id": "n_bc705624b0",
@@ -332,26 +354,26 @@
       "publishedAt": "2026-08-14T16:59:53.000Z"
     },
     {
-      "id": "n_feba530ce5",
+      "id": "n_0648cff31d",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "France's top court blocks social media ban for under-15s",
-      "summary": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
+      "headline": "Why tech bosses keep sharing their manifestos about AI",
+      "summary": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T16:35:06.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T23:06:27.000Z"
     },
     {
-      "id": "n_e9f2b07242",
+      "id": "n_6b9eb6a2a2",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
-      "summary": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
+      "headline": "Protein or pickled garlic? What's new in ice cream",
+      "summary": "There's a constant battle in ice cream to come up with new flavours and to keep costs down.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T16:28:59.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T21:20:19.000Z"
     },
     {
       "id": "n_57b4a23cfc",
@@ -418,28 +440,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-12T17:10:31.000Z"
-    },
-    {
-      "id": "n_ee4f8e5560",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Tokenomics: Why making AI pay is tricky",
-      "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T23:03:52.000Z"
-    },
-    {
-      "id": "n_c706b5ec29",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Tech Life",
-      "summary": "For years, schools have posted photos of their pupils online. But could they be misused?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy8?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-11T19:30:00.000Z"
     },
     {
       "id": "n_b74725c02d",
