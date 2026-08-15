@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-08-15T03:28:09.084Z",
+  "generatedAt": "2026-08-15T12:13:41.392Z",
   "items": [
+    {
+      "id": "n_9a5606f3e5",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Gemeinde Hürtgenwald hofft auf den Regen - Merz dankt Helfern",
+      "summary": "Der Waldbrand in Hürtgenwald hat sich nicht weiter ausgebreitet, hält aber trotzdem rund 1.400 Einsatzkräfte in Atem. Erschwert werden die Löscharbeiten durch alte Weltkriegsmunition. Anwohner und Helfer hoffen auf Hilfe vom Wetter.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/brand-huertgenwald-einsatzkraefte-100.html",
+      "publishedAt": "2026-08-15T11:49:29.000Z"
+    },
+    {
+      "id": "n_e18593141e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Streit um den Sabbat in Israel: Ein Café als Ort des Kulturkampfs",
+      "summary": "Jeden Samstag protestieren Ultraorthodoxe vor einem Café in Jerusalem, das auch am Sabbat geöffnet hat. Säkulare Israelis halten dagegen. Der Streit zeigt, wie tief der Konflikt um Religion und die Zukunft des Landes reicht. Von J. Poppendieck.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/sabbat-kulturkampf-israel-100.html",
+      "publishedAt": "2026-08-15T11:43:49.000Z"
+    },
+    {
+      "id": "n_57930cbc05",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Waldbrände in Europa: Wo es gerade brennt",
+      "summary": "Europaweit kämpfen Feuerwehrleute gegen Waldbrände. Tausende Hektar Fläche sind verbrannt, viele Menschen mussten sich in Sicherheit bringen. Ein Überblick über die Lage von Großbritannien bis Griechenland.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/waldbraende-europa-116.html",
+      "publishedAt": "2026-08-15T11:37:58.000Z"
+    },
+    {
+      "id": "n_cd81ec8a70",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Tote bei schwerem israelischem Angriff im Libanon",
+      "summary": "Einen so verheerenden israelischen Angriff dürfte es seit Wochen nicht gegeben haben: Im Libanon wurden mindestens sieben Menschen getötet. Israel sprach von Vergeltung für einen Angriff, den die Hisbollah verübt habe.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/libanon-angriff-israel-104.html",
+      "publishedAt": "2026-08-15T10:56:25.000Z"
+    },
+    {
+      "id": "n_b48a9a38b2",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Kommentar zur Taliban-Herrschaft in Afghanistan: Zeit für eine klare Haltung",
+      "summary": "Die Abschiebungen nach Afghanistan sind für die Taliban ein außenpolitischer Erfolg, meint Peter Hornung. Die Bundesregierung hat sich damit erpressbar gemacht. Dabei ist es an der Zeit, endlich klare Kante zu zeigen: für die Afghaninnen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/kommentar/taliban-bundesregierung-100.html",
+      "publishedAt": "2026-08-15T09:40:13.000Z"
+    },
+    {
+      "id": "n_d5cbdf829c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Norddeutschland: Behörden warnen Badende vor Blaualgen",
+      "summary": "Gewaltige Blaualgenteppiche bis nach Dänemark: Behörden im Norden warnen davor, in belasteten Gewässern zu baden. Mancherorts gibt es sogar Verbote. Der Kontakt mit Blaualgen kann sehr unangenehme Folgen haben.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ostsee-blaualgen-100.html",
+      "publishedAt": "2026-08-15T09:15:56.000Z"
+    },
     {
       "id": "n_735407b6aa",
       "type": "news",
@@ -10,84 +76,18 @@
       "summary": "Gebäude wankten und stürzten teilweise ein, dabei gab es auch Tote: Ein schweres Erdbeben hat die indonesische Flores-Insel getroffen. Das Beben hatte eine Stärke von 7,7.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html",
-      "publishedAt": "2026-08-15T03:07:27.000Z"
+      "publishedAt": "2026-08-15T09:10:40.000Z"
     },
     {
-      "id": "n_18e8055853",
+      "id": "n_c62024386f",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "USA wirtschaftlich unter Druck: Renditen für US-Staatsanleihen",
-      "summary": "Probleme auf dem Arbeitsmarkt, eine hartnäckig hohe Inflation und noch höhere Renditen für langlaufende US-Staatsanleihen. All das belastet die Wirtschaft und die Notenbanker - auch in Europa. Von Melanie Böff.",
+      "headline": "Patientenschützer wollen Hitze als Todesursache erfassen",
+      "summary": "Die Zahl hitzebedingter Sterbefälle basiert derzeit auf Schätzungen und Berechnungen. Patientenschützer fordern, Hitze als Todesursache auf Totenscheinen zu vermerken. Die Gewerkschaft ver.di sorgt sich um die Lage in Pflegeinrichtungen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/staatsanleihen-usa-100.html",
-      "publishedAt": "2026-08-15T02:13:14.000Z"
-    },
-    {
-      "id": "n_e49b506152",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Präsident Trump will Straße von Hormus zu US-Gebiet erklären",
-      "summary": "Im Iran-Krieg ist ein Frieden immer noch nicht absehbar. Nun hat US-Präsident Trump angedroht: Bald schon wolle er die Straße von Hormus zu US-Territorium erklären. Iran reagierte umgehend.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-hormus-106.html",
-      "publishedAt": "2026-08-15T01:12:08.000Z"
-    },
-    {
-      "id": "n_735282525e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Nach Aufrufen in Sozialen Medien: Ceuta wappnet sich für möglichen Massenandrang",
-      "summary": "Auf den Straßen ist auffallend viel Polizei. Militärangehörige wurden aus dem Urlaub geholt. Stacheldrahtzäune wurden verstärkt. In Ceuta wird ein neuer Massenandrang von Migranten befürchtet. Der Grund: falsche Gerüchte.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ceuta-274.html",
-      "publishedAt": "2026-08-15T01:10:58.000Z"
-    },
-    {
-      "id": "n_a023472e47",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Medienberichte: Früherer Cambridge-Professor Arday tot aufgefunden",
-      "summary": "Er wurde als jüngster schwarzer Professor in Cambridge gefeiert. Nun ist Jason Arday laut Medienberichten gestorben. Erst vor wenigen Tagen hatte er nach Plagiatsvorwürfen seinen Rücktritt erklärt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/cambridge-professor-100.html",
-      "publishedAt": "2026-08-14T23:34:43.000Z"
-    },
-    {
-      "id": "n_05f10851bb",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "NRW kämpft mit dem wohl größten Waldbrand der Landesgeschichte",
-      "summary": "Im nordrhein-westfälischen Hürtgenwald brennt es auf mehr als 200 Hektar. Es dürfte der größte Waldbrand in der Geschichte des Bundeslandes sein. Hunderte Menschen wurden dort evakuiert - andere Teile der Eifel könnten folgen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-100.html",
-      "publishedAt": "2026-08-14T22:53:28.000Z"
-    },
-    {
-      "id": "n_c70c40fb59",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Leichtathletik-EM: Owen Ansah holt Gold über 200-Meter-Distanz",
-      "summary": "Der Deutsche Owen Ansah hat sich bei der Leichtathletik-EM im britischen Birmingham Gold über die 200-Meter-Distanz gesichert. Er lief die Strecke in 19,95 Sekunden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/sport/sportschau/leichtathletik-em-gold-owen-ansah-100.html",
-      "publishedAt": "2026-08-14T21:07:42.000Z"
-    },
-    {
-      "id": "n_027f7de8b6",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Mord an US-Versicherungschef: Angeklagter Luigi M. gesteht Schüsse",
-      "summary": "Luigi M. wird vorgeworfen, den Chef eines US-Krankenversicherers auf offener Straße erschossen zu haben. Nun hat er die tödlichen Schüsse gestanden. Er ist seit seiner Verhaftung auch zu einer Symbolfigur geworden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-luigi-m-100.html",
-      "publishedAt": "2026-08-14T18:28:38.000Z"
+      "url": "https://www.tagesschau.de/inland/gesellschaft/hitzetote-erfassung-100.html",
+      "publishedAt": "2026-08-15T08:45:16.000Z"
     },
     {
       "id": "n_e699de665e",
@@ -178,180 +178,191 @@
       "publishedAt": "2026-08-14T08:03:00.000Z"
     },
     {
-      "id": "n_179264d73a",
+      "id": "n_124f890b7b",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Tintenfreier Etikettendrucker mit Bluetooth-Funktionen für unter 29 Euro bei Amazon",
-      "summary": "Der Supvan E11 vereinfacht es ungemein, den Haushalt zu organisieren. Amazon verkauft den kompakten Etikettendrucker inklusive vier Rollen aktuell günstiger. (Technik/Hardware, Amazon)",
+      "headline": "Autonomes Fahren: Waymo darf in Kalifornien deutlich expandieren",
+      "summary": "Der Robotaxi-Betreiber Waymo darf seinen Dienst in Kalifornien deutlich ausweiten. Es gibt nur wenige Einschränkungen für die autonomen Autos. (Waymo, Elektroauto)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-tintenfreier-etikettendrucker-mit-bluetooth-funktionen-fuer-unter-29-euro-bei-amazon-2608-211966.html",
-      "publishedAt": "2026-08-14T17:20:02.000Z"
+      "url": "https://www.golem.de/news/autonomes-fahren-waymo-darf-in-kalifornien-deutlich-expandieren-2608-211974.html",
+      "publishedAt": "2026-08-15T12:05:02.000Z"
     },
     {
-      "id": "n_2b75720072",
+      "id": "n_e4da37cb19",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Bluebrixx' Drei ??? aus Klemmbausteinen bei Amazon befristet im Angebot",
-      "summary": "Mehrere Sets von Lego-Rivale Bluebrixx sind bei Amazon befristet im Angebot. Es geht um verschiedene Drei-???-Sets. (Lego, Unterhaltung & Hobby)",
+      "headline": "Anzeige: Starthilfe-Powerbank mit Kompressor zum Sparpreis bei Amazon",
+      "summary": "Eine Starthilfe-Powerbank für 12-V-Fahrzeuge mit 9.000 A Spitzenstrom, 150-PSI-Kompressor und 59,2-Wh-Akku ist bei Amazon reduziert. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-bluebrixx-drei-aus-klemmbausteinen-bei-amazon-befristet-im-angebot-2608-211965.html",
-      "publishedAt": "2026-08-14T16:52:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-starthilfe-powerbank-mit-kompressor-zum-sparpreis-bei-amazon-2608-211950.html",
+      "publishedAt": "2026-08-15T11:40:02.000Z"
     },
     {
-      "id": "n_fc0f8154ba",
+      "id": "n_4dcd6b4f0b",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Neues USB-Ladegerät von Ugreen mit 100 W und Display für unter 45 Euro",
-      "summary": "Kennt man irgendwoher: Das von Anker inspirierte Nexode Pro USB-Ladegerät von Ugreen ist bei Amazon zum neuen Tiefstpreis im Angebot. (Technik/Hardware, Amazon)",
+      "headline": "Tesla-Fabrik Grünheide: Deutsche Bahn verschiebt Eröffnung von neuem Bahnhof",
+      "summary": "Die geplante Eröffnung eines neuen Bahnhofs bei der Tesla-Fabrik Grünheide wird kurzfristig verschoben. Brandenburgs Verkehrsminister ist verärgert. (Gigafactory Berlin, Elektroauto)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-neues-usb-ladegeraet-von-ugreen-mit-100-w-und-display-fuer-unter-45-euro-2608-211964.html",
-      "publishedAt": "2026-08-14T16:08:01.000Z"
+      "url": "https://www.golem.de/news/tesla-fabrik-gruenheide-deutsche-bahn-verschiebt-eroeffnung-von-neuem-bahnhof-2608-211973.html",
+      "publishedAt": "2026-08-15T11:21:02.000Z"
     },
     {
-      "id": "n_9cee1ec0f4",
+      "id": "n_3361b090bf",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) Artificial Intelligence: OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions Von Jamie John (KI, Software)",
+      "headline": "Heart Aerospace: Erfolgreicher Test für weltgrößtes Elektroflugzeug",
+      "summary": "Die batterieelektrische X1 von Heart Aerospace war eine halbe Stunde in der Luft. Der Strom für den Flug soll nur 5 US-Dollar gekostet haben. (Luftfahrt, Wissenschaft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/artificial-intelligence-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground-2608-211957.html",
-      "publishedAt": "2026-08-14T16:00:02.000Z"
+      "url": "https://www.golem.de/news/heart-aerospace-erfolgreicher-test-fuer-weltgroesstes-elektroflugzeug-2608-211972.html",
+      "publishedAt": "2026-08-15T10:49:01.000Z"
     },
     {
-      "id": "n_fdf7f32ed2",
+      "id": "n_104190ebdc",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Mobilfunkbetreiber: Stellenabbau bei Telefónica wohl größer als zugegeben",
-      "summary": "Internen Unterlagen zufolge plant Telefónica den Wegfall von rund 1.650 Vollzeitstellen. Grund ist der Verlust des Großkunden 1&1. (Telefónica, Mobilfunk)",
+      "headline": "Epicooler-Desaster: Fake-Klima enthält PC-Lüfter mit Heizspirale",
+      "summary": "Was als revolutionäres Kühlgerät angepriesen wird, entpuppt sich als blanker Betrug. Die Stiftung Warentest bestellte den sogenannten Epicooler und zerlegte ihn. (Energie & Klima, Stiftung Warentest)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/mobilfunkbetreiber-stellenabbau-bei-telefonica-wohl-groesser-als-zugegeben-2608-211963.html",
-      "publishedAt": "2026-08-14T15:56:02.000Z"
+      "url": "https://www.golem.de/news/epicooler-desaster-fake-klima-enthaelt-pc-luefter-mit-heizspirale-2608-211969.html",
+      "publishedAt": "2026-08-15T09:42:01.000Z"
     },
     {
-      "id": "n_24301171c8",
+      "id": "n_b920f87bb9",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Flugsicherheit: Forscher manipulieren Autopilot über externen Anschluss",
-      "summary": "Über einen leicht zugänglichen Wartungsanschluss ließen sich die Flugdaten einer Boeing 737 manipulieren. (Luftfahrt, Boeing)",
+      "headline": "Frankreich: Gericht stoppt Social-Media-Verbot für unter 15-Jährige",
+      "summary": "Frankreichs Social-Media-Verbot für Jugendliche ist dem Verfassungsrat zu pauschal. In den USA droht Meta angeblich eine Billionenstrafe. (Social-Media-Verbot, Soziales Netz)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/flugsicherheit-forscher-manipulieren-autopilot-ueber-externen-anschluss-2608-211962.html",
-      "publishedAt": "2026-08-14T15:23:01.000Z"
+      "url": "https://www.golem.de/news/frankreich-gericht-stoppt-social-media-verbot-fuer-unter-15-jaehrige-2608-211970.html",
+      "publishedAt": "2026-08-15T09:14:02.000Z"
     },
     {
-      "id": "n_e1bf68576f",
+      "id": "n_68493f09bf",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Mini 4K Dashcam für unter 50 Euro bei Amazon sichern",
-      "summary": "Eine Dashcam liefert im Notfall wichtige Beweise. Amazon reduziert die kompakte 70mai M310 Plus 4K Dashcam aktuell auf einen Sparpreis unter 50 Euro. (Technik/Hardware)",
+      "headline": "Nachrichtendienstreform: Autobranche läuft Sturm gegen Zugriff auf Telemetriedaten",
+      "summary": "Das Kfz-Handwerk will nicht zum verlängerten Arm der Nachrichtendienste werden. Die Hersteller warnen vor einer automobilen Vorratsdatenspeicherung. (Geheimdienste, Vorratsdatenspeicherung)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-mini-4k-dashcam-fuer-unter-50-euro-bei-amazon-sichern-2608-211937.html",
-      "publishedAt": "2026-08-14T15:10:02.000Z"
+      "url": "https://www.golem.de/news/nachrichtendienstreform-autobranche-laeuft-sturm-gegen-zugriff-auf-telemetriedaten-2608-211967.html",
+      "publishedAt": "2026-08-15T08:45:02.000Z"
     },
     {
-      "id": "n_14c2bb105e",
+      "id": "n_0ab2aac996",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "C100 8K: Keychron bringt riesiges Tastenpad mit 100 Schaltern",
-      "summary": "Das Keychron C100 8K ist nicht nur gigantisch. Es ordnet unbeschriftete Tasten auch in einer 10x10-Matrix quadratisch an. (Peripheriegeräte, Eingabegerät)",
+      "headline": "Anzeige: Mobile Wallbox 11 kW mit App und Zubehör zum Aktionspreis für nur rund 160 Euro bei Amazon",
+      "summary": "Die Mobile Wallbox von dé 11 kW mit App-Steuerung lädt mit bis zu 11 kW über CEE-Stecker und ist bei Amazon aktuell reduziert. (Elektromobilität, Elektroauto)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/c100-8k-keychron-bringt-riesiges-tastenpad-mit-100-schaltern-2608-211961.html",
-      "publishedAt": "2026-08-14T14:55:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-mobile-wallbox-11-kw-mit-app-und-zubehoer-zum-aktionspreis-fuer-nur-rund-160-euro-bei-amazon-2608-211960.html",
+      "publishedAt": "2026-08-15T08:40:01.000Z"
     },
     {
-      "id": "n_fd0dcfb3e1",
+      "id": "n_55f5b4c9bd",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Dozens injured and thousands evacuated in Croatia wildfire",
-      "summary": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
+      "headline": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+      "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T20:22:56.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-15T11:48:58.000Z"
     },
     {
-      "id": "n_1a815948b4",
+      "id": "n_8890d3817d",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-      "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+      "headline": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
+      "summary": "Among those killed in the strike on Ansar included three children and two women, state media reports.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T19:20:43.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-15T11:24:24.000Z"
     },
     {
-      "id": "n_6b21c3c238",
+      "id": "n_719d8a5d9f",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Trump asks Supreme Court to allow ballroom work to continue",
-      "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
+      "headline": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+      "summary": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T19:05:22.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-15T10:56:22.000Z"
     },
     {
-      "id": "n_7d85fee523",
+      "id": "n_20472af854",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-      "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+      "headline": "South Korea proposes talks to officially end war with North",
+      "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T18:25:38.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-15T09:35:23.000Z"
     },
     {
-      "id": "n_39944a5a51",
+      "id": "n_b674d75b96",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
-      "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "headline": "Moment family rescued after 16 hours floating on jet ski off Thailand",
+      "summary": "A 50-year-old father and his two sons were found floating off Koh Samui island, a local official told AFP on Saturday.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T17:36:27.000Z"
+      "url": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-15T09:29:31.000Z"
     },
     {
-      "id": "n_bc705624b0",
+      "id": "n_91d493a28d",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-      "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+      "headline": "Europe's scorched landscapes seen from space after summer heatwaves",
+      "summary": "From glaciers shrinking to an exposed shipwreck, satellites capture the impact of extreme heat and drought.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T17:03:17.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-15T05:01:13.000Z"
     },
     {
-      "id": "n_5beaacc500",
+      "id": "n_dad1a35121",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
-      "summary": "Civil servants are entitled to extra money for working in difficult or dangerous cities around the world.",
+      "headline": "I wish I had been a more rebellious teenager, says Bella Ramsey",
+      "summary": "Ramsey stars in a new film about a cancer survivor who attends “chemo camp” and finds friendship, love and freedom.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly5p995ykko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T17:00:46.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-15T00:10:47.000Z"
     },
     {
-      "id": "n_cdb5e60cca",
+      "id": "n_e3b931ebe3",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Why is Selena Gomez being sued?",
-      "summary": "BBC journalist Ana Guerra-Moore looks at why investors who backed Wondermind Global are claiming the pop star failed to fulfil promises.",
+      "headline": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cly58dnde5yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T16:59:53.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-15T00:01:53.000Z"
+    },
+    {
+      "id": "n_3c1c9dd123",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Secondhand book sales are booming. Is it because of AI?",
+      "summary": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-15T11:25:32.000Z"
     },
     {
       "id": "n_0648cff31d",
@@ -431,15 +442,15 @@
       "publishedAt": "2026-08-12T23:00:47.000Z"
     },
     {
-      "id": "n_bd5715e8f3",
+      "id": "n_e20942ac6e",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Discord ordered to suspend livestreams in Brazil",
-      "summary": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T17:10:31.000Z"
+      "headline": "So much solar: Digging into the list of every US power plant that went online this year",
+      "summary": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+      "publishedAt": "2026-08-15T11:09:57.000Z"
     },
     {
       "id": "n_b74725c02d",
@@ -517,17 +528,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/",
       "publishedAt": "2026-08-14T16:11:37.000Z"
-    },
-    {
-      "id": "n_e01dece31e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
-      "summary": "Third-party app stores are about to become more visible in Google Play.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
-      "publishedAt": "2026-08-14T15:46:40.000Z"
     },
     {
       "id": "n_f51202f872",
@@ -871,6 +871,17 @@
       "publishedAt": "2026-08-03T08:30:05.000Z"
     },
     {
+      "id": "n_65b31f5229",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+      "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+      "publishedAt": "2026-08-15T09:00:00.000Z"
+    },
+    {
       "id": "n_6f56e04a74",
       "type": "news",
       "topic": "ai",
@@ -946,17 +957,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
       "publishedAt": "2026-08-13T09:00:00.000Z"
-    },
-    {
-      "id": "n_99584ee20d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The White House Is Going to Expand Its AI Policy",
-      "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
-      "publishedAt": "2026-08-12T21:00:00.000Z"
     },
     {
       "id": "n_d556a48bac",
