@@ -1,82 +1,27 @@
 {
-  "generatedAt": "2026-08-15T18:10:58.242Z",
+  "generatedAt": "2026-08-15T21:10:11.933Z",
   "items": [
     {
-      "id": "n_19ef341d6d",
+      "id": "n_fa8ba3a9a3",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Liebmann schwimmt über 1.500 Meter Freistil Weltrekord und holt EM-Gold",
-      "summary": "Johannes Liebmann hat EM-Gold über 1.500 Meter Freistil gewonnen. Bei der Schwimm-Europameisterschaft stellte der 19-Jährige mit gut 14 Minuten und 26 Sekunden einen neuen Weltrekord auf.",
+      "headline": "Leichtathletik-EM: Speerwerfer Julian Weber gewinnt Gold",
+      "summary": "Speerwerfer Julian Weber hat bei der Leichtathletik-EM in Birmingham die Goldmedaille gewonnen. Der 31-Jährige setzte sich mit 90,40 Metern vor seinem Teamkollegen Nick Thumm durch.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/sport/johannes-liebmann-gold-schwimm-em-100.html",
-      "publishedAt": "2026-08-15T18:04:47.000Z"
+      "url": "https://www.tagesschau.de/sport/speerwerfer-julian-weber-gold-100.html",
+      "publishedAt": "2026-08-15T20:44:39.000Z"
     },
     {
-      "id": "n_576fe79b2b",
+      "id": "n_6d2bf2a1c5",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Spanische Exklave Ceuta: Viele Sicherheitskräfte, Chaos ausgeblieben",
-      "summary": "Wegen Gerüchten in Sozialen Medien hatten sich Spanien und Marokko auf einen neuen Andrang von Migranten auf Ceuta vorbereitet. Auf marokkanischer Seite gab es zwar Festnahmen - doch das befürchtete Chaos wie Ende Juli blieb bisher aus.",
+      "headline": "Waldbrand im Hohen Venn: Sorge in Grenzregion wegen Feuer in Belgien",
+      "summary": "Während sich die Lage im Hürtgenwald leicht entspannt, blicken die Menschen in der Region besorgt nach Belgien: Dort brennt es im Hohen Venn - die Stadt Monschau in NRW ruft die Menschen auf, sich auf eine mögliche Evakuierung vorzubereiten.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ceuta-278.html",
-      "publishedAt": "2026-08-15T17:19:29.000Z"
-    },
-    {
-      "id": "n_6231923750",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Neue Erkenntnisse: Wie viel Kaffee ist gesund?",
-      "summary": "Bis zu fünf Tassen Kaffee am Tag gelten für die meisten gesunden Erwachsenen als unbedenklich - möglicherweise sogar als gesund. Was die Forschung zu Herz, Diabetes und Pestizidrückständen zeigt. Von Doris Tromballa.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/gesundheit/kaffee-konsum-herz-kreislauf-diabetes-100.html",
-      "publishedAt": "2026-08-15T16:15:34.000Z"
-    },
-    {
-      "id": "n_fbb7dbaf57",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Warum jetzt auch Bäckerei-Ketten von Finanzinvestoren übernommen werden",
-      "summary": "Nach Arztpraxen und Kliniken gerät eine neue Branche in den Fokus von Finanzinvestoren: das Handwerk. Gerade ist eine familiengeführte Bäckereikette aus Frankfurt von einer Private-Equity-Firma übernommen worden. Von Bianca von der Au.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/finanzinvestoren-handwerksbetriebe-baecker-eifler-100.html",
-      "publishedAt": "2026-08-15T16:13:41.000Z"
-    },
-    {
-      "id": "n_40be3bf36f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "In der SPD grummelt es vor den Landtagswahlen immer lauter",
-      "summary": "Schwache Umfragen, Frust an der Basis: Vor den Landtagswahlen wächst die Unzufriedenheit in der SPD. Im Zentrum der Kritik: das Führungsduo Bas und Klingbeil. Nun werden Forderungen nach einem Kurswechsel und personellem Neustart laut.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/spd-lage-vor-wahlen-100.html",
-      "publishedAt": "2026-08-15T15:55:54.000Z"
-    },
-    {
-      "id": "n_735407b6aa",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Schweres Erdbeben erschüttert Ostindonesien",
-      "summary": "Gebäude wankten und stürzten teilweise ein, es gab viele Tote: Ein schweres Erdbeben hat die indonesische Flores-Insel getroffen. Das Beben hatte eine Stärke von 7,7. Wenig später wurde das Land von noch einem Beben getroffen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html",
-      "publishedAt": "2026-08-15T15:52:59.000Z"
-    },
-    {
-      "id": "n_f3d1e946b1",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Flugbetrieb in Catania läuft wieder an - Warnstufe für Vulkan Ätna gesenkt",
-      "summary": "Viele Urlauber sitzen auf Sizilien fest, weil der Flughafen Catania mehrere Tage gesperrt bleiben musste. Grund war die Asche, die der Vulkan Ätna ausgestoßen hat. Inzwischen wurde die Warnstufe gesenkt, der Flugbetrieb läuft wieder an.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/sizilien-flughafen-100.html",
-      "publishedAt": "2026-08-15T15:07:03.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-hohes-venn-100.html",
+      "publishedAt": "2026-08-15T20:14:55.000Z"
     },
     {
       "id": "n_865261fe47",
@@ -87,7 +32,62 @@
       "summary": "Schweigeminute, wo es sonst kaum laut genug sein kann: Hunderttausende tanzen heute bei der Berliner Technoparade \"Rave the Planet\". Zum Auftakt wurde der Opfer des CSD-Anschlags gedacht. Die Sicherheit steht im Fokus.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-techno-parade-durch-den-tiergarten-unter-verschaerften-sicherheitsvorkehrungen-102.html",
-      "publishedAt": "2026-08-15T14:48:34.000Z"
+      "publishedAt": "2026-08-15T20:05:00.000Z"
+    },
+    {
+      "id": "n_576fe79b2b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Spanische Exklave Ceuta: Viele Sicherheitskräfte, Chaos ausgeblieben",
+      "summary": "Wegen Gerüchten in Sozialen Medien hatten sich Spanien und Marokko auf einen neuen Andrang von Migranten auf Ceuta vorbereitet. Auf marokkanischer Seite gab es zwar Festnahmen - doch das befürchtete Chaos wie Ende Juli blieb bisher aus.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ceuta-278.html",
+      "publishedAt": "2026-08-15T20:03:58.000Z"
+    },
+    {
+      "id": "n_c090559f06",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Brand in NRW: Bewohner dürfen nach Evakuierung zurück in ihre Häuser",
+      "summary": "Bis auf 250 Meter waren die Flammen an ihre Häuser herangerückt - nun dürfen die Bewohner eines evakuierten Ortsteils in Hürtgenwald zurück. Zuvor waren Fortschritte bei der Bekämpfung des Brandes vermeldet worden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/nrw-waldbrand-102.html",
+      "publishedAt": "2026-08-15T19:38:07.000Z"
+    },
+    {
+      "id": "n_8eb617eadf",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bundeswehr unterstützt UN-Einsatz in Haiti mit Lufttransport",
+      "summary": "Vergangenes Jahr wurde ein UN-Einsatz in Haiti beschlossen - das Ziel: die Bekämpfung krimineller Banden, die weite Teile des Landes kontrollieren. Nun soll die Bundeswehr der Mission aus der Luft bei der Verlegung von Ausrüstung helfen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/bundeswehr-haiti-100.html",
+      "publishedAt": "2026-08-15T19:09:14.000Z"
+    },
+    {
+      "id": "n_1e641d1199",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Feuer in NRW: \"Erste Hoffnung\" und Suche nach der Brandursache",
+      "summary": "Die Bekämpfung des Brandes in NRW kommt offenbar voran, der Einsatz von Hubschraubern ist nicht mehr nötig. Noch immer können aber rund 2.000 Menschen nicht in ihre Häuser zurück. Unterdessen gibt es Vermutungen zur Brandursache.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/nrw-waldbrand-100.html",
+      "publishedAt": "2026-08-15T18:23:44.000Z"
+    },
+    {
+      "id": "n_19ef341d6d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Liebmann schwimmt über 1.500 Meter Freistil Weltrekord und holt EM-Gold",
+      "summary": "Johannes Liebmann hat EM-Gold über 1.500 Meter Freistil gewonnen. Bei der Schwimm-Europameisterschaft stellte der 19-Jährige mit gut 14 Minuten und 26 Sekunden einen neuen Weltrekord auf.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/sport/johannes-liebmann-gold-schwimm-em-100.html",
+      "publishedAt": "2026-08-15T18:04:47.000Z"
     },
     {
       "id": "n_c086128d55",
@@ -266,26 +266,15 @@
       "publishedAt": "2026-08-15T09:42:01.000Z"
     },
     {
-      "id": "n_5af5a4c30c",
+      "id": "n_24de7e2006",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Firefighters battle wildfire tearing through Belgian nature reserve",
-      "summary": "The fire burning through the major park was described as the country's worst in recent years.",
+      "headline": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+      "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T17:47:42.000Z"
-    },
-    {
-      "id": "n_a596e2302c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Multiple suspects at large after five shot at Virginia State University, police say",
-      "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T17:42:36.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-15T20:58:31.000Z"
     },
     {
       "id": "n_8890d3817d",
@@ -296,7 +285,51 @@
       "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T16:02:49.000Z"
+      "publishedAt": "2026-08-15T20:21:14.000Z"
+    },
+    {
+      "id": "n_55f5b4c9bd",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+      "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-15T20:00:15.000Z"
+    },
+    {
+      "id": "n_3084e99565",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "summary": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-15T19:41:57.000Z"
+    },
+    {
+      "id": "n_a596e2302c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Multiple suspects at large after five shot at Virginia State University, police say",
+      "summary": "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-15T19:34:22.000Z"
+    },
+    {
+      "id": "n_5af5a4c30c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Firefighters battle wildfire tearing through Belgian nature reserve",
+      "summary": "The fire burning through the major park was described as the country's worst in recent years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-15T17:47:42.000Z"
     },
     {
       "id": "n_20472af854",
@@ -321,31 +354,9 @@
       "publishedAt": "2026-08-15T13:41:09.000Z"
     },
     {
-      "id": "n_d6f10f9fd6",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "World's Ugliest Dog contest crowns 2026 winner",
-      "summary": "The annual contest has been taking place in Santa Rosa, California.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c39eekgv79ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T13:41:08.000Z"
-    },
-    {
-      "id": "n_55f5b4c9bd",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-      "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-15T13:35:57.000Z"
-    },
-    {
       "id": "n_3c1c9dd123",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
       "headline": "Secondhand book sales are booming. Is it because of AI?",
       "summary": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.",
@@ -519,6 +530,17 @@
       "publishedAt": "2026-08-14T16:29:21.000Z"
     },
     {
+      "id": "n_447c79c5c7",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "publishedAt": "2026-08-15T18:58:39.000Z"
+    },
+    {
       "id": "n_c2a2d25fa3",
       "type": "news",
       "topic": "ai",
@@ -596,15 +618,15 @@
       "publishedAt": "2026-08-13T21:13:24.000Z"
     },
     {
-      "id": "n_9409c8f8a9",
+      "id": "n_10bbeaa815",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "publishedAt": "2026-08-13T20:14:39.000Z"
+      "headline": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "summary": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "publishedAt": "2026-08-15T20:45:00.000Z"
     },
     {
       "id": "n_8fce1ccaf7",
@@ -682,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
       "publishedAt": "2026-08-13T15:30:00.000Z"
-    },
-    {
-      "id": "n_a1ebe27fc2",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Does Google even want to win at AI?",
-      "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI divisio",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-      "publishedAt": "2026-08-13T14:10:31.000Z"
     },
     {
       "id": "n_3d6d30af34",
