@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-08-15T00:32:07.126Z",
+  "generatedAt": "2026-08-15T03:28:09.084Z",
   "items": [
+    {
+      "id": "n_735407b6aa",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Schweres Erdbeben erschüttert Ostindonesien",
+      "summary": "Gebäude wankten und stürzten teilweise ein, dabei gab es auch Tote: Ein schweres Erdbeben hat die indonesische Flores-Insel getroffen. Das Beben hatte eine Stärke von 7,7.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-136.html",
+      "publishedAt": "2026-08-15T03:07:27.000Z"
+    },
+    {
+      "id": "n_18e8055853",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "USA wirtschaftlich unter Druck: Renditen für US-Staatsanleihen",
+      "summary": "Probleme auf dem Arbeitsmarkt, eine hartnäckig hohe Inflation und noch höhere Renditen für langlaufende US-Staatsanleihen. All das belastet die Wirtschaft und die Notenbanker - auch in Europa. Von Melanie Böff.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/staatsanleihen-usa-100.html",
+      "publishedAt": "2026-08-15T02:13:14.000Z"
+    },
+    {
+      "id": "n_e49b506152",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Präsident Trump will Straße von Hormus zu US-Gebiet erklären",
+      "summary": "Im Iran-Krieg ist ein Frieden immer noch nicht absehbar. Nun hat US-Präsident Trump angedroht: Bald schon wolle er die Straße von Hormus zu US-Territorium erklären. Iran reagierte umgehend.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-hormus-106.html",
+      "publishedAt": "2026-08-15T01:12:08.000Z"
+    },
+    {
+      "id": "n_735282525e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach Aufrufen in Sozialen Medien: Ceuta wappnet sich für möglichen Massenandrang",
+      "summary": "Auf den Straßen ist auffallend viel Polizei. Militärangehörige wurden aus dem Urlaub geholt. Stacheldrahtzäune wurden verstärkt. In Ceuta wird ein neuer Massenandrang von Migranten befürchtet. Der Grund: falsche Gerüchte.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ceuta-274.html",
+      "publishedAt": "2026-08-15T01:10:58.000Z"
+    },
     {
       "id": "n_a023472e47",
       "type": "news",
@@ -44,50 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-luigi-m-100.html",
       "publishedAt": "2026-08-14T18:28:38.000Z"
-    },
-    {
-      "id": "n_65c9d8c0d6",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "ARD: Florian Hager bleibt Intendant des Hessischen Rundfunks",
-      "summary": "Florian Hager bleibt für weitere fünf Jahre Intendant des Hessischen Rundfunks. Der 50-Jährige wurde heute in seinem Amt bestätigt. Er steht bereits seit 2022 an der Spitze des Senders.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/hessen/hr-florian-hager-bleibt-intendant-des-hessischen-rundfunks-100.html",
-      "publishedAt": "2026-08-14T18:19:37.000Z"
-    },
-    {
-      "id": "n_071bdad046",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Waldbrand in der Eifel: \"Ein doppelter Weckruf\"",
-      "summary": "Seit Wochen gibt es kaum Regen, dazu extreme Temperaturen und jetzt einen Waldbrand in der Eifel. Feuerökologe Alexander Held sieht darin einen \"doppelten Weckruf\". Wie gut ist Deutschland auf solche Gefahren vorbereitet?",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/alexander-held-waldbrand-100.html",
-      "publishedAt": "2026-08-14T16:49:59.000Z"
-    },
-    {
-      "id": "n_320f35982b",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: DAX-Gewinne reichen nicht für Rekord",
-      "summary": "Der DAX verabschiedet sich ohne neuen Rekord ins Wochenende, trotzdem sind Anleger zufrieden. Dafür verantwortlich sind starke Firmenbilanzen und nachlassende Sorgen vor steigenden US-Zinsen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-berichtssaison-100.html",
-      "publishedAt": "2026-08-14T16:24:07.000Z"
-    },
-    {
-      "id": "n_730ee3c324",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Ceuta: Irreführende Videos und KI-generierte Bilder im Umlauf",
-      "summary": "Im Internet kursieren zahlreiche Videos und Bilder zur Situation in Ceuta. Ende Juli überquerten Zehntausende Migranten die Grenze zur spanischen Exklave. Doch einige Aufnahmen wurden manipuliert, andere in falschen Kontext gestellt. Von M. Antonini, O. Matthes und K. Vetten.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/faktenfinder/fakes-ceuta-100.html",
-      "publishedAt": "2026-08-14T16:23:56.000Z"
     },
     {
       "id": "n_e699de665e",
