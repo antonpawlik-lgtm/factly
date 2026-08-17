@@ -1,16 +1,60 @@
 {
-  "generatedAt": "2026-08-16T15:09:45.229Z",
+  "generatedAt": "2026-08-17T00:31:29.443Z",
   "items": [
     {
-      "id": "n_80523ef440",
+      "id": "n_53d2975329",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Nach der Hitze gibt es in Teilen Deutschlands Abkühlung und Regen",
-      "summary": "In Teilen Deutschlands ist es mit der Hitze vorbei - und auch Regen wird erwartet. Am Montag kann es im Süden kräftige Schauer geben, genauso wie im Norden und Osten. Im Westen und der Mitte soll es trocken bleiben.",
+      "headline": "Waldbrand in Belgien bringt Einsatzkräfte an ihre Grenzen",
+      "summary": "Der Waldbrand im Naturschutzgebiet Hohes Venn an der deutsch-belgischen Grenze breitet sich aus. Internationale Hilfe ist eingetroffen. Die Feuerwehr kämpft mit schwierigen Bedingungen. Auf deutscher Seite wurde der Ort Monschau teilweise evakuiert.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wetter/wetterthema/wetterumschwung-gewitter-hitze-100.html",
-      "publishedAt": "2026-08-16T15:06:30.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-monschau-100.html",
+      "publishedAt": "2026-08-16T21:22:36.000Z"
+    },
+    {
+      "id": "n_107313e87d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Hindernisläufer Ruppert gewinnt EM-Goldmedaille, Bebendorf Bronze",
+      "summary": "Frederik Ruppert hat die EM-Goldmedaille im 3.000.Meter-Hindernis-Lauf gewonnen. Karl Bebendorf wurde bei der Europameisterschaft in Birmingham Dritter hinter dem der Luxemburger Ruben Querinjean.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/sport/em-leichtathletik-hindernis-ruppert-gold-102.html",
+      "publishedAt": "2026-08-16T20:24:50.000Z"
+    },
+    {
+      "id": "n_96e0c7840f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Waldbrände auf griechischer Insel Salamis - zwei Tote",
+      "summary": "In Griechenland kämpft die Feuerwehr gegen Waldbrände. Auf der Insel Salamis bei Athen brachen Feuer in der Nähe von Stränden aus. Mindestens zwei Menschen starben. Urlauber und Einwohner wurden mit Booten in Sicherheit gebracht.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/griechenland-feuer-salamis-100.html",
+      "publishedAt": "2026-08-16T19:44:47.000Z"
+    },
+    {
+      "id": "n_b31fe3c140",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Russland greift Kiew erneut mit ballistischen Raketen an",
+      "summary": "Die ukrainische Hauptstadt ist erneut mit Raketen angegriffen worden, andere Landesteile wurden ebenfalls getroffen. Russland meldete Angriffe mit Drohnen. Mindestens 16 Menschen wurden bei den gegenseitigen Angriffen getötet.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/angriffe-kiew-ukraine-100.html",
+      "publishedAt": "2026-08-16T18:09:53.000Z"
+    },
+    {
+      "id": "n_0f96c90ef3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach Erdbeben mit mehr als 50 Toten: Hilfsmaßnahmen in Indonesien laufen an",
+      "summary": "Nach dem schweren Erdbeben im Osten Indonesiens ist die Zahl der Opfer auf mehr als 50 gestiegen. Such- und Rettungsmaßnahmen laufen, Tausende Soldaten und Polizisten helfen im Katastrophengebiet. Nachbeben erschweren die Arbeit.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/indonesien-erdbeben-138.html",
+      "publishedAt": "2026-08-16T17:10:26.000Z"
     },
     {
       "id": "n_490da78df2",
@@ -21,62 +65,7 @@
       "summary": "Nicht nur im Westen Nordrhein-Westfalens ist die Feuerwehr wegen Waldbränden im Einsatz. Auch in anderen Regionen Deutschlands sind Wald- oder Vegetationsflächen in Brand geraten. Wo brennt es und wie ist die Lage dort?",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-100.html",
-      "publishedAt": "2026-08-16T14:45:23.000Z"
-    },
-    {
-      "id": "n_a85fb7f1bd",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Diese Baustellen warten auf die Bundesregierung nach der Sommerpause",
-      "summary": "Noch ist der Bundestag in der Sommerpause. Doch wenn der parlamentarische Betrieb im September wieder los geht, warten auf die Bundesregierung schwierige Themen. Bei Rente und Pflege stehen harte Debatten an. Und der Haushalt lässt kaum Spielraum.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/sommerpause-themen-bundesregierung-100.html",
-      "publishedAt": "2026-08-16T14:01:13.000Z"
-    },
-    {
-      "id": "n_b02ccc8166",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "SPD-Bundesministerien legen Aktionsplan gegen Hitze vor",
-      "summary": "Die Dringlichkeit sei unübersehbar: Die SPD-Ministerien haben gemeinsam einen Plan für den Umgang mit der Hitze verfasst. Darin fordern sie auch eine Verfassungsänderung. Der Druck auf den Koalitionspartner Union wächst.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/spd-aktionsplan-hitzeschutz-100.html",
-      "publishedAt": "2026-08-16T13:09:33.000Z"
-    },
-    {
-      "id": "n_57ad3a62c4",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Kritik an Staat und Betreibern nach Fährunglück mit 80 Toten in Simbabwe",
-      "summary": "Die Zahl der Toten nach dem Fährunglück in Simbabwe Anfang der Woche ist auf 80 gestiegen. Vor dem Unglück sollen Fahrgäste den Kapitän angefleht haben, wegen hoher Wellen und starken Windes umzudrehen. Von Stephan Ueberbach.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/simbabwe-faehrunglueck-kariba-100.html",
-      "publishedAt": "2026-08-16T13:09:10.000Z"
-    },
-    {
-      "id": "n_375d57bb35",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Ukrainischer Veteran: Vom Patienten zum Prothesenmacher",
-      "summary": "Valentin Melnyk verlor im Krieg ein Bein. In Berlin lernt der 24-Jährige nun, Prothesen herzustellen. Danach will er zurück in die Ukraine - und anderen Kriegsversehrten helfen, wieder ins Leben zurückzufinden. Von Andreas König.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/ukraine-kriegsversehrte-hilfe-100.html",
-      "publishedAt": "2026-08-16T12:02:04.000Z"
-    },
-    {
-      "id": "n_4a172bb2da",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Spanische Exklave: Ceuta - Europas verschlossene Tür",
-      "summary": "Die Grenzen von Marokko zu Ceuta, der \"Tür von Europa\", sind dicht. Groß ist die Enttäuschung der Menschen - über die Korruption, die in Marokko herrscht und darüber, wie das Land mit den Flüchtlingen umgeht. Von Franka Welz.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/marokko-spanien-ceuta-migration-100.html",
-      "publishedAt": "2026-08-16T11:45:22.000Z"
+      "publishedAt": "2026-08-16T16:40:31.000Z"
     },
     {
       "id": "n_53d178af9b",
@@ -87,7 +76,18 @@
       "summary": "Wegen drohender Rauchbelastung hatte Monschau Bewohnern empfohlen, ihre Häuser zu verlassen. Jetzt die vorsichtige Entwarnung: Der Waldbrand in Belgien bewegt sich aktuell nicht weiter auf die deutsche Grenze zu. Aufatmen kann auch Hürtgenwald.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-monschau-huertgendwald-100.html",
-      "publishedAt": "2026-08-16T11:31:57.000Z"
+      "publishedAt": "2026-08-16T16:05:13.000Z"
+    },
+    {
+      "id": "n_a93ddfd028",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Hurrikan \"Lala\" bringt Starkregen und Stromausfälle nach Hawaii",
+      "summary": "Ein Toter, 130.000 Menschen ohne Strom, Straßen überflutet, Häuser weggerissen: Hurrikan \"Lala\" zieht dicht an Hawaii vorbei. Auch Maui und Oahu müssen sich auf Sturm und Starkregen einstellen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/hurrikan-lala-hawaii-100.html",
+      "publishedAt": "2026-08-16T15:25:54.000Z"
     },
     {
       "id": "n_e44666f1bc",
@@ -266,92 +266,103 @@
       "publishedAt": "2026-08-16T05:00:02.000Z"
     },
     {
-      "id": "n_8d0343a747",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-      "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T13:34:38.000Z"
-    },
-    {
       "id": "n_803a25ffb8",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
-      "summary": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
+      "headline": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
+      "summary": "The state's governor says there \"amazingly\" does not seem to have been any loss of life besides a car crash.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T12:53:43.000Z"
+      "publishedAt": "2026-08-17T00:20:51.000Z"
     },
     {
-      "id": "n_3ad1c578f9",
+      "id": "n_d39bc91ddc",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-      "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
+      "headline": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T12:37:21.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T00:06:05.000Z"
     },
     {
-      "id": "n_966b5f565a",
+      "id": "n_276a203326",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "BBC visits smouldering Kyiv market after Russian strikes",
-      "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+      "headline": "'Ghana was the crime scene' - the country leading the demand for slavery reparations",
+      "summary": "Ghana has become Africa's leading voice in telling the world that Western nations owe reparations",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T12:18:09.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T23:09:39.000Z"
     },
     {
-      "id": "n_2df5fb95cb",
+      "id": "n_cc7e22f295",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
-      "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
+      "headline": "Thailand has a gun problem - 10 million of them",
+      "summary": "Recent shootings have highlighted the country's troubled relationship with guns, with laws doing little to curb the violence.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T11:35:25.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T22:09:04.000Z"
     },
     {
-      "id": "n_d20ba38f00",
+      "id": "n_4559c20244",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Twelve killed as Polish bus veers off Hungarian motorway",
-      "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
+      "headline": "US commander says mental health a 'priority' on USS Lincoln",
+      "summary": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T10:53:50.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T21:04:27.000Z"
     },
     {
-      "id": "n_20cfa26d02",
+      "id": "n_5af5a4c30c",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-      "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+      "headline": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+      "summary": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T10:52:08.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T20:01:51.000Z"
     },
     {
-      "id": "n_ca01092fef",
+      "id": "n_2d4b21839f",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+      "headline": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T09:27:58.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T19:58:14.000Z"
+    },
+    {
+      "id": "n_5282a4741c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+      "summary": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T19:50:36.000Z"
+    },
+    {
+      "id": "n_42d214b635",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "If Meta loses this trial, Instagram and Facebook could change forever",
+      "summary": "Thirty US states have sued Meta to force an overhaul of its platforms for young users.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-16T23:27:36.000Z"
     },
     {
       "id": "n_cab39fca5c",
@@ -429,17 +440,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-13T10:39:02.000Z"
-    },
-    {
-      "id": "n_2750368063",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Amazon is using Twitch to train generative AI",
-      "summary": "The streaming platform's users criticised the move to allow the use of channel content for AI training.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T07:04:31.000Z"
     },
     {
       "id": "n_be8aeff40c",
@@ -530,6 +530,39 @@
       "publishedAt": "2026-08-14T17:13:14.000Z"
     },
     {
+      "id": "n_fafd24cead",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "publishedAt": "2026-08-16T20:57:04.000Z"
+    },
+    {
+      "id": "n_832c648f0c",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "publishedAt": "2026-08-16T20:32:01.000Z"
+    },
+    {
+      "id": "n_1968340f8e",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "publishedAt": "2026-08-16T16:53:51.000Z"
+    },
+    {
       "id": "n_49b0a683c2",
       "type": "news",
       "topic": "ai",
@@ -585,37 +618,26 @@
       "publishedAt": "2026-08-14T15:43:28.000Z"
     },
     {
-      "id": "n_21c4010742",
+      "id": "n_639f236e7d",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Kog is going deeper to squeeze more inference out of GPUs",
-      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "publishedAt": "2026-08-14T14:50:11.000Z"
+      "headline": "OpenAI reportedly disbanded its preparedness team",
+      "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hac",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "publishedAt": "2026-08-16T21:32:56.000Z"
     },
     {
-      "id": "n_887ae25367",
+      "id": "n_a1c7d35e07",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "publishedAt": "2026-08-14T14:05:00.000Z"
-    },
-    {
-      "id": "n_c3418764be",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI sh",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "publishedAt": "2026-08-14T14:00:00.000Z"
+      "headline": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can r",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "publishedAt": "2026-08-16T14:56:40.000Z"
     },
     {
       "id": "n_af2af46d5d",
@@ -682,28 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
       "publishedAt": "2026-08-13T21:42:38.000Z"
-    },
-    {
-      "id": "n_7bececf76d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI is losing its second executive this week",
-      "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, presiden",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "publishedAt": "2026-08-13T19:28:39.000Z"
-    },
-    {
-      "id": "n_9f3f44e2b7",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Suno is trying to look more like a real music production tool",
-      "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-      "publishedAt": "2026-08-13T16:00:00.000Z"
     },
     {
       "id": "n_3d6d30af34",
