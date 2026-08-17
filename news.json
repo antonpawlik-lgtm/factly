@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-08-17T00:31:29.443Z",
+  "generatedAt": "2026-08-17T03:38:25.938Z",
   "items": [
+    {
+      "id": "n_5012b4f381",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Südkorea und USA beginnen gemeinsame Militärübung",
+      "summary": "US-Präsident Trump hat angekündigt, die nun begonnene Militärübung seines Landes mit Südkorea \"wesentlich\" zu verringern. Er verwies zur Begründung auf seine sehr gute Beziehung zu Nordkoreas Diktator Kim Jong Un.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/suedkorea-usa-militaeruebung-102.html",
+      "publishedAt": "2026-08-17T01:53:36.000Z"
+    },
+    {
+      "id": "n_d494330c2b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Tschechiens Regierung beruft für heute \"Dürre-Gipfel\" ein",
+      "summary": "Der tschechische Premier Babiš hat für heute einen \"Dürre-Gipfel\" einberufen. Er reagiert damit auf wachsenden Druck insbesondere von Bauern. Die Opposition wirft ihm vor, lediglich Symbolpolitik zu betreiben. Von Paul Vorreiter.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/tschechien-duerre-gipfel-100.html",
+      "publishedAt": "2026-08-17T00:53:26.000Z"
+    },
     {
       "id": "n_53d2975329",
       "type": "news",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-deutschland-100.html",
       "publishedAt": "2026-08-16T16:40:31.000Z"
-    },
-    {
-      "id": "n_53d178af9b",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Waldbrand im Hohen Venn: Aktuell keine Evakuierungen in Monschau geplant",
-      "summary": "Wegen drohender Rauchbelastung hatte Monschau Bewohnern empfohlen, ihre Häuser zu verlassen. Jetzt die vorsichtige Entwarnung: Der Waldbrand in Belgien bewegt sich aktuell nicht weiter auf die deutsche Grenze zu. Aufatmen kann auch Hürtgenwald.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/waldbraende-monschau-huertgendwald-100.html",
-      "publishedAt": "2026-08-16T16:05:13.000Z"
-    },
-    {
-      "id": "n_a93ddfd028",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Hurrikan \"Lala\" bringt Starkregen und Stromausfälle nach Hawaii",
-      "summary": "Ein Toter, 130.000 Menschen ohne Strom, Straßen überflutet, Häuser weggerissen: Hurrikan \"Lala\" zieht dicht an Hawaii vorbei. Auch Maui und Oahu müssen sich auf Sturm und Starkregen einstellen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/hurrikan-lala-hawaii-100.html",
-      "publishedAt": "2026-08-16T15:25:54.000Z"
     },
     {
       "id": "n_e44666f1bc",
@@ -266,6 +266,28 @@
       "publishedAt": "2026-08-16T05:00:02.000Z"
     },
     {
+      "id": "n_d39bc91ddc",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T02:51:27.000Z"
+    },
+    {
+      "id": "n_a20f9c474f",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Ferrari's first ever electric car sold for record $40m at auction",
+      "summary": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T02:22:04.000Z"
+    },
+    {
       "id": "n_803a25ffb8",
       "type": "news",
       "topic": "general",
@@ -275,17 +297,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T00:20:51.000Z"
-    },
-    {
-      "id": "n_d39bc91ddc",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T00:06:05.000Z"
     },
     {
       "id": "n_276a203326",
@@ -315,7 +326,7 @@
       "topic": "general",
       "lang": "en",
       "headline": "US commander says mental health a 'priority' on USS Lincoln",
-      "summary": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship.",
+      "summary": "Adm Cooper acknowledges service at sea for long periods is \"uniquely challenging\", after visiting the warship.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-16T21:04:27.000Z"
@@ -341,17 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-16T19:58:14.000Z"
-    },
-    {
-      "id": "n_5282a4741c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Two dead and hundreds evacuated after twin fires break out on Greek island",
-      "summary": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T19:50:36.000Z"
     },
     {
       "id": "n_42d214b635",
