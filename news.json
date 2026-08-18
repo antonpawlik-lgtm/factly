@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-18T18:18:44.127Z",
+  "generatedAt": "2026-08-18T21:11:54.194Z",
   "items": [
+    {
+      "id": "n_3c83603dad",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Grenzkontrollen sollen bis mindestens März 2027 verlängert werden",
+      "summary": "Bundesinnenminister Dobrindt will die Kontrollen an den deutschen Außengrenzen erneut verlängern. Sollte die EU-Kommission nicht widersprechen, gilt die Regelung bis Mitte März kommenden Jahres.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-grenzkontrollen-verlaengern-100.html",
+      "publishedAt": "2026-08-18T18:50:31.000Z"
+    },
     {
       "id": "n_d37f7c5c61",
       "type": "news",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/investigativ/report-mainz/sanifair-tank-und-rast-raststaette-toilette-arbeitsbedingungen-100.html",
       "publishedAt": "2026-08-18T15:44:40.000Z"
-    },
-    {
-      "id": "n_5137ce3371",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Deutsche Politiker entsetzt über Äußerungen von Israels Polizeiminister Ben-Gvir",
-      "summary": "Israels Polizeiminister hat zur gezielten Tötung von Palästinensern aufgerufen - in Deutschland löst das massive Empörung aus. Vizekanzler Klingbeil nennt die Äußerungen \"menschenverachtend\". Doch Kritik gibt es nicht nur von ihm.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-deutsche-reaktionen-aeusserungen-ben-gvir-100.html",
-      "publishedAt": "2026-08-18T15:40:22.000Z"
     },
     {
       "id": "n_3aa32257d8",
@@ -266,15 +266,37 @@
       "publishedAt": "2026-08-18T14:17:02.000Z"
     },
     {
-      "id": "n_d52cc91dcb",
+      "id": "n_f9e315f00d",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "US mother begged for help before her children's killings, mother-in-law testifies",
-      "summary": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
+      "headline": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
+      "summary": "BBC Verify has used satellite imagery to monitor the warship on one of the longest ever US deployments.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T17:54:46.000Z"
+      "url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T20:48:09.000Z"
+    },
+    {
+      "id": "n_3d18859ed2",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
+      "summary": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T20:39:36.000Z"
+    },
+    {
+      "id": "n_af8f85dbb8",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Man in Chucky-style mask terrorises Philadelphia residents",
+      "summary": "\"It was just weird, like some twisted game\": At least half a dozen people were threatened near City Hall last week.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T20:27:44.000Z"
     },
     {
       "id": "n_f5a79ac333",
@@ -285,7 +307,40 @@
       "summary": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T17:40:09.000Z"
+      "publishedAt": "2026-08-18T20:21:49.000Z"
+    },
+    {
+      "id": "n_5c0ac9fb35",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Judge swapped in Trump's defamation case against BBC",
+      "summary": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T19:52:32.000Z"
+    },
+    {
+      "id": "n_d52cc91dcb",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
+      "summary": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T17:54:46.000Z"
+    },
+    {
+      "id": "n_8e7e394a8f",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Earthquake rocks Spain's historic Granada, injuring three",
+      "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T17:15:39.000Z"
     },
     {
       "id": "n_18185c1805",
@@ -299,59 +354,15 @@
       "publishedAt": "2026-08-18T17:00:29.000Z"
     },
     {
-      "id": "n_2cb7a451d8",
+      "id": "n_d04585d09c",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
-      "summary": "Afolabi Kazeem Micheal has not commented on allegations he is linked to a global drug trafficking network.",
+      "headline": "Tech Life",
+      "summary": "Vapour trails from aircraft contribute to warming in the atmosphere.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1e155428qyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T16:26:22.000Z"
-    },
-    {
-      "id": "n_3d18859ed2",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
-      "summary": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T16:22:54.000Z"
-    },
-    {
-      "id": "n_a266b362dd",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
-      "summary": "Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T16:00:30.000Z"
-    },
-    {
-      "id": "n_bdb8a8744e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Brazil's President Lula hails oil discovery near Amazon river",
-      "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T13:13:54.000Z"
-    },
-    {
-      "id": "n_73549710cf",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-      "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T12:36:11.000Z"
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy9?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T20:00:00.000Z"
     },
     {
       "id": "n_762a25ddd6",
@@ -429,17 +440,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-13T14:09:05.000Z"
-    },
-    {
-      "id": "n_61d9b9b41e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Flock boss admits surveillance firm took too long to act over police abuse",
-      "summary": "US police officers have quit after using licence plate-reading cameras to track romantic partners.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T13:02:24.000Z"
     },
     {
       "id": "n_b4ca0427a2",
@@ -871,6 +871,17 @@
       "publishedAt": "2026-08-10T20:00:00.000Z"
     },
     {
+      "id": "n_9d7c59a2ab",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+      "summary": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+      "publishedAt": "2026-08-18T18:33:11.000Z"
+    },
+    {
       "id": "n_d6c6d5d504",
       "type": "news",
       "topic": "ai",
@@ -946,17 +957,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
       "publishedAt": "2026-08-13T22:37:19.000Z"
-    },
-    {
-      "id": "n_91015cd065",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
-      "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
-      "publishedAt": "2026-08-13T21:14:43.000Z"
     },
     {
       "id": "n_5ce8103476",
