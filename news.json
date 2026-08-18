@@ -1,71 +1,49 @@
 {
-  "generatedAt": "2026-08-18T12:19:26.271Z",
+  "generatedAt": "2026-08-18T15:19:02.443Z",
   "items": [
     {
-      "id": "n_b04d4f56d1",
+      "id": "n_7dce235fce",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Frasers verfehlt Mehrheit bei Hugo Boss knapp",
-      "summary": "Die britische Frasers Group hat ihren Anteil an Hugo Boss deutlich aufgestockt. Für eine Mehrheit bei dem schwäbischen Modekonzern hat es aber nicht gereicht.",
+      "headline": "Deutschland stockt Ebola-Hilfe für Demokratische Republik Kongo auf",
+      "summary": "Der Ebola-Ausbruch in der Demokratischen Republik Kongo droht laut UN außer Kontrolle zu geraten. Mehr als 5.000 Menschen haben sich infiziert. Deutschland und die EU stellen weitere Hilfen zur Verfügung.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-hugo-boss-frasers-100.html",
-      "publishedAt": "2026-08-18T12:02:46.000Z"
+      "url": "https://www.tagesschau.de/ausland/afrika/hilfen-deutschland-ebola-kongo-100.html",
+      "publishedAt": "2026-08-18T14:48:33.000Z"
     },
     {
-      "id": "n_f7772cce79",
+      "id": "n_6496c5a312",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "China-Shops mit deutscher Tarnung täuschen Verbraucher",
-      "summary": "Online-Shops mit deutschsprachigen Namen und Webadressen, die aber gar nicht in Deutschland sitzen, nehmen zu. Für Verbraucher kann das problematisch werden, denn Qualität und Versandbedingungen sind selten gut. Woran erkannt man solche Shops?",
+      "headline": "Alpen: Wie gestiegene Temperaturen zur Gefahr für Wanderer werden",
+      "summary": "Am Matterhorn zeigt ein Forscher, welche Auswirkungen der Klimawandel hat. Große Felsstürze, die früher nur alle 40 Jahre vorkamen, passieren nun jedes Jahr - eine Gefahr für Wanderer und Bewohner. Von Jan Seidel.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/warnung-china-shops-deutsche-tarnung-100.html",
-      "publishedAt": "2026-08-18T11:18:28.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/matterhorn-gletscherschmelze-100.html",
+      "publishedAt": "2026-08-18T14:43:58.000Z"
     },
     {
-      "id": "n_6d77b6a3f5",
+      "id": "n_7315f8a812",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Forschungszentrum soll Drohnenabwehr verbessern",
-      "summary": "Nach zahlreichen Drohnenvorfällen an Flughäfen hat die Bundesregierung in Sachsen-Anhalt ein neues Forschungszentrum eröffnet. Dort sollen auch gezielte Abwehrmöglichkeiten gegen die wachsende Bedrohung entwickelt werden.",
+      "headline": "Kölns ehemaliger Oberbürgermeister Fritz Schramma gestorben",
+      "summary": "Der ehemalige Kölner Oberbürgermeister Fritz Schramma ist tot. Er starb am Montag im Alter von 78 Jahren nach schwerer Krankheit. In Köln wurde Trauerbeflaggung an städtischen Gebäuden angeordnet.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/drohnen-forschungszentrum-100.html",
-      "publishedAt": "2026-08-18T10:59:09.000Z"
+      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/tod-schramma-koeln-100.html",
+      "publishedAt": "2026-08-18T13:57:00.000Z"
     },
     {
-      "id": "n_9bea009990",
+      "id": "n_f30045f8b0",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Schlechte Erntebilanz wegen Hitze und Trockenheit",
-      "summary": "Der heiße, trockene Sommer in vielen Teilen Deutschlands hat die Erträge von Landwirten einbrechen lassen. Besonders im Süden und Westen litten die Pflanzen extrem. Die Bauern müssen sich darauf einstellen. Von Anke Hahn.",
+      "headline": "Zehn Menschen bei russischen Angriffen im Gebiet Charkiw getötet",
+      "summary": "Im Osten der Ukraine sind bei russischen Angriffen mindestens zehn Menschen getötet worden. Auch die ukrainische Armee verstärkte ihre Luftangriffe und setzte Hunderte Drohnen gegen die Region Moskau ein.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/erntebilanz-120.html",
-      "publishedAt": "2026-08-18T10:54:37.000Z"
-    },
-    {
-      "id": "n_6697a95f5b",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Angriffe über queere Datingplattformen",
-      "summary": "Junge Männer organisieren sich in Gruppen, um über queere Dating-Apps Gewalt auszuüben. Sie vernetzen sich etwa auf Discord-Servern und teilen Aufnahmen ihrer Taten - wie eine Recherche von team.recherche zeigt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/investigativ/fake-dates-angriffe-100.html",
-      "publishedAt": "2026-08-18T10:39:00.000Z"
-    },
-    {
-      "id": "n_6526ac092f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Jobverluste jetzt auch bei Dienstleistungen",
-      "summary": "Die Konjunkturflaute in Deutschland greift um sich: Erstmals seit der Corona-Krise sinkt die Zahl der Beschäftigten im Dienstleistungssektor. Zudem ist das Firmensterben so ausgeprägt wie seit fast 20 Jahren nicht.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/dienstleistungen-jobverlust-firmensterben-deutschland-zew-100.html",
-      "publishedAt": "2026-08-18T10:38:52.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-moskau-charkiw-100.html",
+      "publishedAt": "2026-08-18T13:48:43.000Z"
     },
     {
       "id": "n_9a45c983eb",
@@ -76,18 +54,62 @@
       "summary": "Ein Schwertransporter liegt auf der A2 bei Kamen quer. Er hatte einen Kran geladen, der jetzt die Gegenfahrbahn blockiert. In dem Bereich wurden deshalb bis auf Weiteres beide Richtungen voll gesperrt.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-a2-bei-kamen-gesperrt-schwertransporter-mit-bagger-umgekippt-100.html",
-      "publishedAt": "2026-08-18T09:45:00.000Z"
+      "publishedAt": "2026-08-18T13:36:00.000Z"
     },
     {
-      "id": "n_73c96ded1a",
+      "id": "n_7108fc19d5",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Marktbericht: DAX-Schwäche hält bislang an",
-      "summary": "Die Sorgen über die Lage im Nahen Osten werden immer mehr zu einer Belastung für den Aktienmarkt. Der DAX fällt erneut zurück, relativ erfreuliche Daten vom Wohnungsmarkt bringen keine Wende.",
+      "headline": "Stiftung Denkmalschutz: Mehr als 1.000 Denkmale binnen zwei Jahren verloren",
+      "summary": "Sie sind geschützt und werden dennoch abgerissen oder komplett umgebaut: Laut Stiftung Denkmalschutz sind so binnen zwei Jahren 1.077 Baudenkmale verloren gegangen. Mit ihrem \"Schwarzbuch\" macht die Organisation darauf aufmerksam.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-146.html",
-      "publishedAt": "2026-08-18T09:01:14.000Z"
+      "url": "https://www.tagesschau.de/kultur/denkmalschutz-schwarzbuch-100.html",
+      "publishedAt": "2026-08-18T13:33:14.000Z"
+    },
+    {
+      "id": "n_8210fa2f55",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "BVR-Prognose: Niedrigwasser bremst Konjunktur nur vorübergehend",
+      "summary": "Die deutsche Wirtschaft wird in diesem Jahr stärker wachsen - davon geht zumindest der Verband der Genossenschaftsbanken aus. Seine Prognose hat er entsprechend angepasst.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/genossenschaftsbankenverband-wachstumsprognose-100.html",
+      "publishedAt": "2026-08-18T13:12:38.000Z"
+    },
+    {
+      "id": "n_b0936a3441",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Löscharbeiten im deutsch-belgischen Grenzgebiet - Brandgeruch in Köln",
+      "summary": "Noch immer bekämpfen 170 Einsatzkräfte die Feuer im belgischen Naturschutzgebiet Hohes Venn. Die Bürger in der Grenzstadt Monschau sollen in ihren Häusern bleiben, der Brandgeruch ist bis Köln und Wuppertal wahrnehmbar.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-hohesvenn-belgien-100.html",
+      "publishedAt": "2026-08-18T12:41:51.000Z"
+    },
+    {
+      "id": "n_cb9e78365e",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Cybercab mit Satelliten-Internet: Die Zukunft der Tesla-Konnektivität?",
+      "summary": "Das neue Tesla Cybercab verfügt über eine integrierte Starlink-Antenne. Elon Musk deutet an, dass künftig alle Modelle auf Satelliten-Internet setzen könnten.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Tesla-Cybercab-Starlink-Antenne-im-Heck-als-Vorreiter-11417738.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-18T13:55:00.000Z"
+    },
+    {
+      "id": "n_dbc1b8b20b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Play-Dienste-Update: Google verteilt Tap to Share und mehr für Android-Geräte",
+      "summary": "Google verteilt neue Funktionen für Android-Geräte über seine Play-Dienste. Mit dabei Tap to Share und ein Vorbote für Googlebooks.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Play-Dienste-Update-Google-verteilt-Tap-to-Share-und-mehr-fuer-Android-Geraete-11417698.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-18T13:25:00.000Z"
     },
     {
       "id": "n_494610d6c0",
@@ -156,114 +178,114 @@
       "publishedAt": "2026-08-17T08:44:00.000Z"
     },
     {
-      "id": "n_83b1fd1335",
+      "id": "n_1766aa86e4",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Sonnenfinsternis: Weitere beeindruckende Aufnahmen aus dem All und vom Boden",
-      "summary": "Vorige Woche hat eine Sonnenfinsternis nicht nur Europa in ihren Bann gezogen. Inzwischen gibt es von der NASA und ESA weitere Aufnahmen des Himmelspektakels.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Sonnenfinsternis-Weitere-beeindruckende-Aufnahmen-aus-dem-All-und-vom-Boden-11415674.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-17T08:32:00.000Z"
-    },
-    {
-      "id": "n_a8edbb3bfa",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Marktwert in Monaten vervierfacht: OpenRouter angeblich vor Übernahme",
-      "summary": "Wer verschiedene KI-Modelle vergleichen und Kosten unter Kontrolle halten will, hat in OpenRouter einen Helfer. Nun will Stripe den Dienst angeblich kaufen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Marktwert-in-Monaten-vervierfacht-OpenRouter-angeblich-vor-Uebernahme-11415480.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-17T04:58:00.000Z"
-    },
-    {
-      "id": "n_c22253b7da",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Bissell-Teppichreiniger mit Hydrosteam-Technologie bis zu 80 Euro günstiger",
-      "summary": "Wenn hartnäckige Flecken den Teppich ruinieren, stoßen viele Staubsauger an ihre Grenzen. Amazon reduziert zwei leistungsstarke Bissell-Teppichreiniger um bis zu 80 Euro. (Technik/Hardware)",
+      "headline": "Anzeige: 2-in-1-Laptop günstig bei Amazon mitnehmen",
+      "summary": "Bei Amazon gibt es derzeit das HP Omnibook X Flip zum Sonderpreis im Angebot. Das Convertible ist mit sechs Prozent Rabatt erhältlich. (Convertible, Notebook)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-bissell-teppichreiniger-mit-hydrosteam-technologie-bis-zu-80-euro-guenstiger-2608-212049.html",
-      "publishedAt": "2026-08-18T12:09:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-2-in-1-laptop-guenstig-bei-amazon-mitnehmen-2608-212064.html",
+      "publishedAt": "2026-08-18T14:53:01.000Z"
     },
     {
-      "id": "n_d7bbc526b1",
+      "id": "n_18a575141c",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Erdorbit: Wie SpaceX-Daten bei der Erforschung der Thermosphäre helfen",
-      "summary": "Forschende nutzen Starlink-Daten für eine Tomografie in der Erdumlaufbahn. Damit konnte die thermosphärische Dichte erstmals detailliert kartiert werden. (Satelliten, Wissenschaft)",
+      "headline": "Kleine Atomreaktoren: SMR-Branche verliert Milliarden an Börsenwert",
+      "summary": "Investoren verlieren zunehmend das Vertrauen in Unternehmen, die kleine modulare Kernreaktoren entwickeln. (Atomkraft, Wirtschaft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/erdorbit-wie-spacex-daten-bei-der-erforschung-der-thermosphaere-helfen-2608-212040.html",
-      "publishedAt": "2026-08-18T11:57:02.000Z"
+      "url": "https://www.golem.de/news/kleine-atomreaktoren-smr-branche-verliert-milliarden-an-boersenwert-2608-212059.html",
+      "publishedAt": "2026-08-18T14:47:01.000Z"
     },
     {
-      "id": "n_752395d37b",
+      "id": "n_2ab3ae7e44",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Govee RGBIC-LED Strip 20 m zum Aktionspreis nur 1,20 Euro pro Meter bei Amazon",
-      "summary": "Der Govee-LED-Strip mit 20 Metern Länge und RGBIC synchronisiert sich per Mikrofon mit Musik und lässt sich segmentweise einfärben. (Smart Home, LED)",
+      "headline": "Anzeige: Kabellose Powerbank mit USB-C für 27,98 Euro bei Amazon",
+      "summary": "Amazon hat eine Powerbank von Anker mit 10.000 mAh im Angebot, die Mobilgeräte kabellos oder über ein USB-C-Kabel auflädt. (Anker, Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-govee-rgbic-led-strip-20-m-zum-aktionspreis-nur-1-20-euro-pro-meter-bei-amazon-2608-212043.html",
-      "publishedAt": "2026-08-18T11:55:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-kabellose-powerbank-mit-usb-c-fuer-27-98-euro-bei-amazon-2608-212062.html",
+      "publishedAt": "2026-08-18T14:41:01.000Z"
     },
     {
-      "id": "n_6c31b5d931",
+      "id": "n_d9d962a40c",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) Digitale Souveränität: Was europäische Microsoft-Alternativen können und wo sie (noch) ...",
-      "summary": "Ein US-Urteil entzieht dem EU-US-Datenpakt eine tragende Säule. Die Frage nach dem Umstieg ist für IT-Abteilungen jetzt umso dringlicher. Wir erklären, was sich 2026 migrieren lässt. Ein Ratgebertext von Steffen Zahn (Microsoft, FTC)",
+      "headline": "Lexware: Kleinunternehmen setzen verstärkt KI ein",
+      "summary": "Neben dem Schreiben von Texten auch für die Entwicklung neuer Produkte, beispielsweise in einem Bäckereibetrieb: KI wird bei 34 Prozent der Kleinunternehmen eingesetzt. (KI, Studien)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/digitale-souveraenitaet-was-europaeische-microsoft-alternativen-koennen-und-wo-sie-noch-scheitern-2608-212015.html",
-      "publishedAt": "2026-08-18T11:30:01.000Z"
+      "url": "https://www.golem.de/news/lexware-kleinunternehmen-setzen-verstaerkt-ki-ein-2608-212063.html",
+      "publishedAt": "2026-08-18T14:29:02.000Z"
     },
     {
-      "id": "n_0cffd5b149",
+      "id": "n_1e642bd942",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Steigende Fallzahlen: KI-Anschreiben werden zum Problem für Verwaltungsbehörden",
-      "summary": "Deutsche Verwaltungsbehörden verzeichnen einen starken Anstieg von Schreiben, bei denen der Verdacht auf KI-Einsatz besteht. (KI, Politik)",
+      "headline": "Anzeige: Günstiger als am Prime Day - Bestseller-Multifunktionswerkzeug für unter 60 Euro",
+      "summary": "Der Fanttik F2 Master mit Neopulse-Motor schleift, poliert und graviert nahezu lautlos und ist aktuell günstiger als am Prime Day. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/steigende-fallzahlen-ki-anschreiben-werden-zum-problem-fuer-verwaltungsbehoerden-2608-212050.html",
-      "publishedAt": "2026-08-18T11:18:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-guenstiger-als-am-prime-day-bestseller-multifunktionswerkzeug-fuer-unter-60-euro-2608-212061.html",
+      "publishedAt": "2026-08-18T14:17:02.000Z"
     },
     {
-      "id": "n_6cb85e1cdf",
+      "id": "n_bdf2ca032c",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Outlook, Onedrive und mehr: Update macht Suche in Microsoft-Apps kaputt",
-      "summary": "Bei einigen Nutzern funktioniert derzeit die Suche in Microsoft-Anwendungen wie Outlook, Onedrive und Sharepoint nicht. Ein Fix kommt - irgendwann. (Microsoft 365, Microsoft)",
+      "headline": "Actionspiel: Phantom Blade Zero bietet ungewöhnlichen Hardcore-Modus",
+      "summary": "Jede Niederlage kostet einen Lebenstag: Der Hardcore-Modus von Phantom Blade Zero (PS5 + PC) setzt die Handlung in Spielmechanik um. (Playstation, Sony)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/outlook-onedrive-und-mehr-update-macht-suche-in-microsoft-365-apps-kaputt-2608-212045.html",
-      "publishedAt": "2026-08-18T11:05:01.000Z"
+      "url": "https://www.golem.de/news/actionspiel-phantom-blade-zero-bietet-ungewoehnlichen-hardcore-modus-2608-212057.html",
+      "publishedAt": "2026-08-18T14:03:05.000Z"
     },
     {
-      "id": "n_6d40df0fd0",
+      "id": "n_a3f40bc6ae",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Google: Youtube zählt Videozahlen künftig anders",
-      "summary": "Ab Ende August werden Zuschauerzahlen bereits ab dem ersten Klick auf ein Youtube-Video gezählt. (Youtube, Google)",
+      "headline": "Solarthermie: Industrielle Wärme ist am günstigsten vom eigenen Dach",
+      "summary": "Erneuerbarer Strom ist längst günstiger als aus anderen Quellen. Bei Wärme sieht das noch anders aus, vor allem bei höheren Temperaturen. (Solarenergie, Energiewende)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/google-youtube-zaehlt-videozahlen-kuenftig-anders-2608-212041.html",
-      "publishedAt": "2026-08-18T10:46:01.000Z"
+      "url": "https://www.golem.de/news/solarthermie-industrielle-waerme-ist-am-guenstigsten-vom-eigenen-dach-2608-212058.html",
+      "publishedAt": "2026-08-18T13:46:01.000Z"
     },
     {
-      "id": "n_43fe20f0c2",
+      "id": "n_e3182990ba",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Xiaomi Smart Band 10 und 10 Pro: Smarte Fitness-Tracker zum Tiefstpreis",
-      "summary": "Wer auf der Suche nach einem vielseitigen Fitness-Tracker ist, erhält das Xiaomi Smart Band 10 sowie die Pro-Version bei Amazon aktuell zum Tiefstpreis. (Technik/Hardware, Fitness)",
+      "headline": "Veritasium: Youtuber filmen die Sonnenfinsternis aus 28 Kilometern Höhe",
+      "summary": "Von der Stratosphäre aus betrachtet sah die Sonnenfinsternis wesentlich anders aus als auf dem Boden. (Youtube, Video-Community)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-xiaomi-smart-band-10-und-10-pro-smarte-fitness-tracker-zum-tiefstpreis-2608-212037.html",
-      "publishedAt": "2026-08-18T10:42:02.000Z"
+      "url": "https://www.golem.de/news/veritasium-youtuber-filmen-die-sonnenfinsternis-aus-28-kilometern-hoehe-2608-212055.html",
+      "publishedAt": "2026-08-18T13:32:01.000Z"
+    },
+    {
+      "id": "n_bdb8a8744e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Brazil's President Lula hails oil discovery near Amazon river",
+      "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T13:13:54.000Z"
+    },
+    {
+      "id": "n_73549710cf",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+      "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T12:36:11.000Z"
     },
     {
       "id": "n_a5ea438900",
@@ -275,17 +297,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-18T12:04:11.000Z"
-    },
-    {
-      "id": "n_73549710cf",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-      "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T11:41:23.000Z"
     },
     {
       "id": "n_18185c1805",
@@ -341,17 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-18T07:17:07.000Z"
-    },
-    {
-      "id": "n_d5d3143e87",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Doctors remove 3.1kg stone from man's bladder and claim record",
-      "summary": "The bladder stone, which weighs as much as a full-term baby, is believed to be the largest on record.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T06:53:11.000Z"
     },
     {
       "id": "n_762a25ddd6",
@@ -442,6 +442,17 @@
       "publishedAt": "2026-08-13T13:02:24.000Z"
     },
     {
+      "id": "n_3bbaa3b8ac",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+      "publishedAt": "2026-08-18T13:00:04.000Z"
+    },
+    {
       "id": "n_19cb8962d1",
       "type": "news",
       "topic": "tech",
@@ -519,15 +530,37 @@
       "publishedAt": "2026-08-17T20:00:20.000Z"
     },
     {
-      "id": "n_6abbbc4ce1",
+      "id": "n_c64a0d365d",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Petlibro accused of “gaslighting” users over smart pet feeder outage",
-      "summary": "Petlibro says feeders perform scheduled feedings offline. Users report otherwise.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/",
-      "publishedAt": "2026-08-17T18:43:51.000Z"
+      "headline": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "publishedAt": "2026-08-18T14:00:00.000Z"
+    },
+    {
+      "id": "n_36f8322736",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "publishedAt": "2026-08-18T13:50:30.000Z"
+    },
+    {
+      "id": "n_d4f09d555b",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Perplexity’s free AI offer left it with millions more users in India",
+      "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "publishedAt": "2026-08-18T13:45:40.000Z"
     },
     {
       "id": "n_dbbfe5994f",
@@ -585,37 +618,15 @@
       "publishedAt": "2026-08-17T15:16:24.000Z"
     },
     {
-      "id": "n_995014bcc5",
+      "id": "n_dc3392639f",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "publishedAt": "2026-08-17T13:10:05.000Z"
-    },
-    {
-      "id": "n_fafd24cead",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "publishedAt": "2026-08-16T20:57:04.000Z"
-    },
-    {
-      "id": "n_832c648f0c",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Why people aren’t buying Mark Zuckerberg’s AI future",
-      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "publishedAt": "2026-08-16T20:32:01.000Z"
+      "headline": "Firefox&#8217;s Smart Window promises a better AI browser",
+      "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously v",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "publishedAt": "2026-08-18T13:00:00.000Z"
     },
     {
       "id": "n_d396969843",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
       "publishedAt": "2026-08-16T21:32:56.000Z"
-    },
-    {
-      "id": "n_a1c7d35e07",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-      "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can r",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "publishedAt": "2026-08-16T14:56:40.000Z"
     },
     {
       "id": "n_3d6d30af34",
@@ -788,7 +788,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "We still don’t know how people are really using AI",
-      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corroborate it,” says Anka Reuel, a Computer Scien",
+      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corroborate it,” says Anka Reuel, a computer scien",
       "source": "MIT Technology Review",
       "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
       "publishedAt": "2026-08-18T10:06:43.000Z"
@@ -959,6 +959,17 @@
       "publishedAt": "2026-08-13T21:14:43.000Z"
     },
     {
+      "id": "n_e520424e43",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "publishedAt": "2026-08-18T00:00:00.000Z"
+    },
+    {
       "id": "n_b597a3d03e",
       "type": "news",
       "topic": "ai",
@@ -1034,17 +1045,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
       "publishedAt": "2026-08-11T13:37:10.000Z"
-    },
-    {
-      "id": "n_e5b664a37a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "publishedAt": "2026-08-10T16:25:36.000Z"
     },
     {
       "id": "n_5ac4def88e",
