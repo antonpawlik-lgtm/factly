@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-08-19T03:36:12.145Z",
+  "generatedAt": "2026-08-19T06:21:59.277Z",
   "items": [
+    {
+      "id": "n_1803c83341",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "USA und Südkorea verkürzen Militärmanöver um fast eine Woche",
+      "summary": "Die USA und Südkorea verkürzen ihre Militärübung zur Abwehr eines möglichen nordkoreanischen Angriffs. Eine offizielle Begründung gibt es nicht. US-Präsident Trump hatte zuletzt Nordkoreas Diktator Kim auffällig gelobt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/usa-suedkorea-verkuerzen-militaermanoever-100.html",
+      "publishedAt": "2026-08-19T06:01:30.000Z"
+    },
+    {
+      "id": "n_48b81d6593",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Prozess in Oakland: US-Staaten werfen Meta Gefährdung junger Nutzer vor",
+      "summary": "Der Meta-Konzern soll Kinder absichtlich an Facebook und Instagram gebunden haben - mit verheerenden Folgen, so der Vorwurf mehrerer US-Bundesstaaten. Im Prozess wurden nun die Eröffnungsplädoyers gehalten. Von Reinhard Spiegelhauer.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/meta-prozess-eroeffnungsplaedoyers-100.html",
+      "publishedAt": "2026-08-19T05:40:45.000Z"
+    },
+    {
+      "id": "n_8196634634",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: Noch hält die 26.000er-Marke im DAX",
+      "summary": "Die Sorgen von Investoren werden größer. Das liegt vor allem am US-Anleihenmarkt. Dort steigen die Renditen immer weiter. Das belastet vor allem Tech-Aktien.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-verluste-sorgen-anleihenmarkt-100.html",
+      "publishedAt": "2026-08-19T05:31:17.000Z"
+    },
+    {
+      "id": "n_d41ea72b10",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Gedenken an Zhu und Jiang: Erinnerung an ein etwas freieres China",
+      "summary": "China gedenkt seiner früheren Führer Zhu und Jiang. Die Staatsführung würdigt ihre Verdienste - dabei hatte sie einst gefürchtet, durch die Reformen ihrer Ära die Kontrolle zu verlieren. Von Jörg Endriss.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/china-beisetzung-zhu-zeitenwende-100.html",
+      "publishedAt": "2026-08-19T05:06:12.000Z"
+    },
     {
       "id": "n_9a45c983eb",
       "type": "news",
@@ -10,84 +54,62 @@
       "summary": "Ein Schwertransporter liegt auf der A2 bei Kamen quer. Er hatte einen Kran geladen, der jetzt die Gegenfahrbahn blockiert. In dem Bereich wurden deshalb bis auf Weiteres beide Richtungen voll gesperrt.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-a2-bei-kamen-gesperrt-schwertransporter-mit-bagger-umgekippt-100.html",
-      "publishedAt": "2026-08-19T03:24:00.000Z"
+      "publishedAt": "2026-08-19T04:45:00.000Z"
     },
     {
-      "id": "n_32773fdf45",
+      "id": "n_66e589cfc6",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Wie sich die EU von einem Milizenführer erpressen lässt",
-      "summary": "Die EU plant eine engere Zusammenarbeit mit Ostlibyen, um die Fluchtroute nach Kreta zu schließen. Das zeigen vertrauliche Unterlagen, die Report Mainz und dem Spiegel vorliegen. Experten warnen: Wieder liefere sich Europa einem Autokraten aus.",
+      "headline": "Waldbrand in Belgien weiter nicht unter Kontrolle - Hoffnung auf Regen",
+      "summary": "Einsatzkräfte versuchen weiter, den Waldbrand im Hohen Venn in Belgien unter Kontrolle zu bringen. Es gibt einen Lichtblick: mehr Regen. Noch könnten die aus Monschau in NRW evakuierten Bewohner aber nicht zurück.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/investigativ/report-mainz/migration-mittelmeer-eu-libyen-miliz-100.html",
-      "publishedAt": "2026-08-19T03:05:10.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-hohes-venn-102.html",
+      "publishedAt": "2026-08-19T04:40:29.000Z"
     },
     {
-      "id": "n_c74c399f03",
+      "id": "n_53a345ca21",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "USA sanktionieren Präsidentin des Internationalen Strafgerichtshofs",
-      "summary": "Die US-Regierung erhöht weiter den Druck auf den Internationalen Strafgerichtshof: Sie kündigte Sanktionen gegen dessen Präsidentin und einen leitenden Anwalt an. Der IStGH sieht die Rechtsstaatlichkeit gefährdet.",
+      "headline": "Fehlinvestitionen auch bei Kirchenbezirken, Pensionskassen und TÜV",
+      "summary": "Nicht nur Krankenkassen und Kassenärztliche Vereinigungen, sondern auch Kirchenbezirke, Pensionskassen und der TÜV verloren Millionen mit riskanten Immobilienfonds. Das zeigen neue Recherchen von NDR, WDR und SZ.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-internationaler-strafgerichtshof-100.html",
-      "publishedAt": "2026-08-19T01:30:14.000Z"
+      "url": "https://www.tagesschau.de/investigativ/fehlinvestments-kirchen-sterbekassen-100.html",
+      "publishedAt": "2026-08-19T04:03:01.000Z"
     },
     {
-      "id": "n_d027aa18b2",
+      "id": "n_37eda04221",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "ZZ-Top-Schlagzeuger Beard im Alter von 77 Jahren gestorben",
-      "summary": "Der US-Schlagzeuger Frank Beard ist im Alter von 77 Jahren in Texas gestorben. Mit seiner Band ZZ Top verkaufte er weltweit mehr als 50 Millionen Tonträger und war Mitglied in der Rock and Roll Hall of Fame.",
+      "headline": "Migranten in Ceuta treten im Kampf um Asyl in Hungerstreik",
+      "summary": "Drei Wochen nach dem Massenandrang harren immer noch Hunderte Migranten am Strand in Ceuta aus - in Verschlägen aus Kartons und Plastikplanen. Mit einem Hungerstreik wollen sie nun auf ihre Situation aufmerksam machen. Von Franka Welz.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kultur/frank-beard-gestorben-zz-top-100.html",
-      "publishedAt": "2026-08-18T23:43:27.000Z"
+      "url": "https://www.tagesschau.de/ausland/afrika/ceuta-migranten-128.html",
+      "publishedAt": "2026-08-19T03:39:01.000Z"
     },
     {
-      "id": "n_3c83603dad",
+      "id": "n_8daed91d08",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Grenzkontrollen sollen bis mindestens März 2027 verlängert werden",
-      "summary": "Bundesinnenminister Dobrindt will die Kontrollen an den deutschen Außengrenzen erneut verlängern. Sollte die EU-Kommission nicht widersprechen, gilt die Regelung bis Mitte März kommenden Jahres.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-grenzkontrollen-verlaengern-100.html",
-      "publishedAt": "2026-08-18T18:50:31.000Z"
+      "headline": "USA: Meta wegen App-Nutzung durch Kinder erneut vor Gericht",
+      "summary": "Mehrere US-Bundesstaaten werfen dem Meta-Konzern vor, Kinder absichtlich an Facebook und Instagram gebunden zu haben. Meta weist das zurück.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/USA-Meta-wegen-App-Nutzung-durch-Kinder-erneut-vor-Gericht-11418803.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-19T06:02:00.000Z"
     },
     {
-      "id": "n_d37f7c5c61",
+      "id": "n_5742140ac1",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Nächster Zwischenfall in München: A380 der Lufthansa setzt zu früh auf",
-      "summary": "Kurz nach einem Beinahe-Unfall mit einem Dreamliner hat am Münchner Flughafen ein A380 der Lufthansa bei der Landung zu früh aufgesetzt. Laut Fluggesellschaft gab es keine Verletzten, aber die Landebahnbeleuchtung wurde beschädigt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/bayern/a380-zwischenfall-flughafen-muenchen-100.html",
-      "publishedAt": "2026-08-18T18:12:26.000Z"
-    },
-    {
-      "id": "n_e454d8f86e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wagenknecht und das BSW: Mit Schlagzeilen in den Überlebenskampf",
-      "summary": "Vor der heißen Phase des Wahlkampfs in Sachsen-Anhalt versucht vor allem Gründerin Sahra Wagenknecht, mit der AfD ins Gespräch zu kommen. Was geht da vor sich? Von Frank Aischmann.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bsw-wagenknecht-sachsen-anhalt-100.html",
-      "publishedAt": "2026-08-18T18:00:13.000Z"
-    },
-    {
-      "id": "n_8b9401dda4",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marokkos Jugend sieht zu Hause keine Perspektive",
-      "summary": "Marokko erlebt einen Wirtschaftsboom, aber der kommt bei vielen nicht an. Vor allem junge Menschen wollen auswandern - was der Andrang auf Ceuta beispielhaft gezeigt hat. Für den Frust gibt es nicht nur wirtschaftliche Gründe. Von S. Ehlert.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/marokko-jugend-100.html",
-      "publishedAt": "2026-08-18T17:13:05.000Z"
+      "headline": "KI prüft KI: OpenAI verspricht nach Angriff auf Hugging Face mehr Kontrolle",
+      "summary": "Automatisierte Angriffe von KI-Modellen haben in den vergangenen Wochen viel Aufsehen erregt. Nun erklärt OpenAI, wie eine Wiederholung verhindert werden soll.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/KI-prueft-KI-OpenAI-verspricht-nach-Angriff-auf-Hugging-Face-mehr-Kontrolle-11418742.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-19T04:56:00.000Z"
     },
     {
       "id": "n_3aa32257d8",
@@ -156,26 +178,26 @@
       "publishedAt": "2026-08-18T05:12:00.000Z"
     },
     {
-      "id": "n_a91f608aa6",
+      "id": "n_b4f2423c82",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Cyberangriff auf Berliner Landesnetz – Ausmaß unbekannt",
-      "summary": "Die Senatskanzlei berichtet von einem Angriff auf Teile der Verwaltung in der Hauptstadt. Ein Krisenstab ist eingerichtet. Viele Fragen sind offen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Cyberattacke-auf-Berliner-Verwaltung-Ermittlungen-laufen-11416539.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-17T15:40:00.000Z"
+      "headline": "Künstliche Intelligenz: OpenAI bremst Entwicklung nach Sicherheitsvorfall",
+      "summary": "OpenAI verlangsamt die Modellentwicklung nach einem Sicherheitsvorfall. Auch beim Umsatzwachstum hinkt das Unternehmen Anthropic hinterher. (OpenAI, Börse)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/kuenstliche-intelligenz-openai-bremst-entwicklung-nach-sicherheitsvorfall-2608-212070.html",
+      "publishedAt": "2026-08-19T06:15:01.000Z"
     },
     {
-      "id": "n_26b56f947b",
+      "id": "n_04703a68f0",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Nach Druck durch Bundeskartellamt: Apple schwächt Tracking-Warnung ab",
-      "summary": "App-Tracking-Transparenz erlaubt es iPhone-Nutzern, eine Verfolgung über Apps zu unterbinden. Werbetreibende mögen das nicht. Nun wird die Warnung abgeschwächt.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Nach-Druck-durch-Bundeskartellamt-Apple-schwaecht-Tracking-Warnung-ab-11415968.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-17T11:06:00.000Z"
+      "headline": "Anzeige: KI im Pentesting: Schwachstellen finden, Resilienz sichern",
+      "summary": "Sicherheitstests binden viel Zeit, während Bedrohungen und regulatorische Anforderungen wachsen. Ein Workshop zeigt, wie KI-gestütztes Pentesting Prüfungen und Reports beschleunigt. (Golem Karrierewelt, Server-Applikationen)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-ki-im-pentesting-schwachstellen-finden-resilienz-sichern-2608-209586.html",
+      "publishedAt": "2026-08-19T05:15:01.000Z"
     },
     {
       "id": "n_51f3d31766",
@@ -244,26 +266,48 @@
       "publishedAt": "2026-08-18T14:41:01.000Z"
     },
     {
-      "id": "n_d9d962a40c",
+      "id": "n_fe307da7bf",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Lexware: Kleinunternehmen setzen verstärkt KI ein",
-      "summary": "Neben dem Schreiben von Texten auch für die Entwicklung neuer Produkte, beispielsweise in einem Bäckereibetrieb: KI wird bei 34 Prozent der Kleinunternehmen eingesetzt. (KI, Studien)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/lexware-kleinunternehmen-setzen-verstaerkt-ki-ein-2608-212063.html",
-      "publishedAt": "2026-08-18T14:29:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "South Korea shortens war games with US, citing Washington request",
+      "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T05:53:53.000Z"
     },
     {
-      "id": "n_1e642bd942",
+      "id": "n_f53d7089c6",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Günstiger als am Prime Day - Bestseller-Multifunktionswerkzeug für unter 60 Euro",
-      "summary": "Der Fanttik F2 Master mit Neopulse-Motor schleift, poliert und graviert nahezu lautlos und ist aktuell günstiger als am Prime Day. (Technik/Hardware)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-guenstiger-als-am-prime-day-bestseller-multifunktionswerkzeug-fuer-unter-60-euro-2608-212061.html",
-      "publishedAt": "2026-08-18T14:17:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Sacked Ukrainian defence minister calls for presidential election",
+      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T04:44:41.000Z"
+    },
+    {
+      "id": "n_6854b3ddf9",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T03:56:35.000Z"
+    },
+    {
+      "id": "n_3be946d4d2",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Five Australian rules footy players suspended amid police investigation",
+      "summary": "The suspensions, for drinking and inviting women to a hotel, come as police investigate an alleged sexual assault.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T03:36:59.000Z"
     },
     {
       "id": "n_c47111c525",
@@ -292,33 +336,11 @@
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
-      "summary": "The witness said he had little love for the man on trial for the rapper's murder, but refused to answer questions that he thought would send Duane \"Keffe D\" to prison.",
+      "headline": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
+      "summary": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T03:00:35.000Z"
-    },
-    {
-      "id": "n_6854b3ddf9",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump pauses new tariffs on Canada and says countries close to a deal",
-      "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T02:41:36.000Z"
-    },
-    {
-      "id": "n_f53d7089c6",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Sacked Ukrainian defence minister calls for presidential election",
-      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T01:31:15.000Z"
     },
     {
       "id": "n_02501b5f50",
@@ -330,28 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T00:07:37.000Z"
-    },
-    {
-      "id": "n_9b655fd728",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "ZZ Top drummer Frank Beard dies aged 77",
-      "summary": "A statement on the blues-rock band's website said he died on Monday in hospice",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T22:25:46.000Z"
-    },
-    {
-      "id": "n_85e51cb7b8",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "The Indian activist jailed after taking on a luxury hotel plan",
-      "summary": "An activist's detention has brought under focus a larger battle over land and development around the famed Kaziranga National Park.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T22:18:50.000Z"
     },
     {
       "id": "n_4997bc84cc",
@@ -1093,54 +1093,6 @@
       "url": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
       "thumbnail": "https://i.ytimg.com/vi/ppQh4Tc9BmM/hqdefault.jpg",
       "publishedAt": "2026-08-05T13:54:29.000Z"
-    },
-    {
-      "id": "n_fc0b0cbd09",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "This new startup can query anywhere you've been...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=E7la7-dtfVM",
-      "thumbnail": "https://i.ytimg.com/vi/E7la7-dtfVM/hqdefault.jpg",
-      "publishedAt": "2026-08-14T17:44:59.000Z"
-    },
-    {
-      "id": "n_ad1498d887",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Meta's new model wants \"deep access\" to your personal life...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=G55HSGpuh1M",
-      "thumbnail": "https://i.ytimg.com/vi/G55HSGpuh1M/hqdefault.jpg",
-      "publishedAt": "2026-08-12T18:29:41.000Z"
-    },
-    {
-      "id": "n_fb0984ce7d",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "I spent 3 days at MIT... the robot hype is worse than you think",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=aB5LGrHISqY",
-      "thumbnail": "https://i.ytimg.com/vi/aB5LGrHISqY/hqdefault.jpg",
-      "publishedAt": "2026-08-11T16:10:08.000Z"
-    },
-    {
-      "id": "n_cdc415b5c6",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The safest way to store Bitcoin was just hacked...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=2X2V3xv_jik",
-      "thumbnail": "https://i.ytimg.com/vi/2X2V3xv_jik/hqdefault.jpg",
-      "publishedAt": "2026-08-05T18:08:46.000Z"
     }
   ]
 }
