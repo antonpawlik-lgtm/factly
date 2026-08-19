@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-08-19T18:15:59.453Z",
+  "generatedAt": "2026-08-19T21:14:38.009Z",
   "items": [
+    {
+      "id": "n_4c32e39c6a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Tote bei israelischem Luftangriff auf Polizeiwache in Gaza",
+      "summary": "Bei einem israelischen Luftangriff auf eine Polizeiwache in Gaza sind nach palästinensischen Angaben neun Menschen getötet worden. Israels Armee erklärte, der Angriff habe einem Hamas-Kommandeur gegolten.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/gaza-klinik-tote-100.html",
+      "publishedAt": "2026-08-19T18:48:36.000Z"
+    },
+    {
+      "id": "n_5154a13a1f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach Hackerangriff in Berlin: Problemlösung könnte noch Tage dauern",
+      "summary": "Auch Tage nach dem Hackerangriff auf das Berliner Landesnetz ist noch immer nicht absehbar, wann die betroffenen Behörden wieder voll funktionsfähig sind. Nach ersten Erkenntnissen flossen zumindest keine sensiblen Daten ab.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/senatsverwaltungen-nach-hackerangriff-vom-landesnetz-getrennt-100.html",
+      "publishedAt": "2026-08-19T18:29:18.000Z"
+    },
     {
       "id": "n_38017776b1",
       "type": "news",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-neue-regionen-update-100.html",
       "publishedAt": "2026-08-19T15:16:24.000Z"
-    },
-    {
-      "id": "n_618864429f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "UV-Strahlung hat in Europa deutlich zugenommen",
-      "summary": "Hautkrebs ist die häufigste Krebserkrankung in Deutschland - Hauptursache ist die UV-Strahlung der Sonne. Und die hat deutschland- und europaweit in den vergangenen Jahren zugenommen, wie eine neue Studie zeigt. Von Florian Zinner.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/klima/uv-strahlung-europa-100.html",
-      "publishedAt": "2026-08-19T15:04:19.000Z"
-    },
-    {
-      "id": "n_4f5990b14a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "SPD-Ministerinnen legen bei Klimaplänen nach",
-      "summary": "Klimaschutz ins Grundgesetz - die Forderung der SPD und ihr Aktionsplan gegen Hitze sind bei der Union bislang auf Skepsis gestoßen. Nun legen die SPD-Ministerinnen für Justiz und Bau nach - mit teils konkreten Vorschlägen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/hitze-aktionsplan-spd-hubig-hubertz-100.html",
-      "publishedAt": "2026-08-19T14:44:17.000Z"
     },
     {
       "id": "n_39330a7c8a",
@@ -266,6 +266,28 @@
       "publishedAt": "2026-08-19T14:02:02.000Z"
     },
     {
+      "id": "n_96f51d25cd",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+      "summary": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T20:34:41.000Z"
+    },
+    {
+      "id": "n_f53d7089c6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Sacked Ukrainian defence minister calls for presidential election",
+      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T20:34:39.000Z"
+    },
+    {
       "id": "n_2642b6ed2d",
       "type": "news",
       "topic": "general",
@@ -274,7 +296,40 @@
       "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T17:47:52.000Z"
+      "publishedAt": "2026-08-19T19:59:14.000Z"
+    },
+    {
+      "id": "n_dd468abe1d",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Who is Natalie Harp, Trump's right-hand woman?",
+      "summary": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T19:02:41.000Z"
+    },
+    {
+      "id": "n_94c380ffc4",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "81-year-old confesses to German cold case murder of US tourist in 1994",
+      "summary": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T18:26:21.000Z"
+    },
+    {
+      "id": "n_a0e824c0fe",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+      "summary": "BBC Verify looks at footage from two deadly strikes in under 24 hours in Gaza.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T17:46:01.000Z"
     },
     {
       "id": "n_fe307da7bf",
@@ -288,17 +343,6 @@
       "publishedAt": "2026-08-19T17:39:49.000Z"
     },
     {
-      "id": "n_f53d7089c6",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Sacked Ukrainian defence minister calls for presidential election",
-      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T17:23:42.000Z"
-    },
-    {
       "id": "n_3d02ce96b2",
       "type": "news",
       "topic": "general",
@@ -308,50 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T17:16:28.000Z"
-    },
-    {
-      "id": "n_1f8b7b3962",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Retail giant Target receives $1bn boost from tariff refunds",
-      "summary": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T17:07:49.000Z"
-    },
-    {
-      "id": "n_471f548932",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
-      "summary": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T16:31:48.000Z"
-    },
-    {
-      "id": "n_bf624da0c0",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Lindsay Clancy's trial puts postpartum psychosis on the map",
-      "summary": "Postpartum psychosis is a psychiatric emergency that can involve mania, depression, hallucinations and delusions.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yedy98j7po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T16:30:55.000Z"
-    },
-    {
-      "id": "n_d74eabb71a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Two detained after French influencer's scorched body found in vineyard",
-      "summary": "Sonia Bellina's body was \"abandoned\" after \"a murder of rare savagery\", the family's lawyer says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3r058eeqv2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T16:04:39.000Z"
     },
     {
       "id": "n_be1ff494cd",
@@ -442,6 +442,50 @@
       "publishedAt": "2026-08-18T09:26:41.000Z"
     },
     {
+      "id": "n_9c41596179",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
+      "summary": "Framework says it's replacing some out-of-warranty AMD mainboards.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
+      "publishedAt": "2026-08-19T20:21:59.000Z"
+    },
+    {
+      "id": "n_c68077f213",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
+      "summary": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
+      "publishedAt": "2026-08-19T20:04:41.000Z"
+    },
+    {
+      "id": "n_fb71e4c664",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies",
+      "summary": "FCC decides 1Gbps is too fast, standard must be \"technologically neutral.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/",
+      "publishedAt": "2026-08-19T19:45:19.000Z"
+    },
+    {
+      "id": "n_6db556d8d1",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "The floodgates are open after another Chinese company lands a reusable rocket",
+      "summary": "\"We will put the booster back into service for another flight as soon as possible.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/",
+      "publishedAt": "2026-08-19T18:41:02.000Z"
+    },
+    {
       "id": "n_f7c8719669",
       "type": "news",
       "topic": "tech",
@@ -486,48 +530,37 @@
       "publishedAt": "2026-08-19T15:56:56.000Z"
     },
     {
-      "id": "n_9b3a18b55b",
+      "id": "n_78d8316069",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Meta ran ads for an app promising to nudify female politicians",
-      "summary": "One ad featured a pornographic video with deepfake closely resembling a US politician.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
-      "publishedAt": "2026-08-19T15:45:29.000Z"
+      "headline": "AI was supposed to win people over by now — it hasn’t",
+      "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "publishedAt": "2026-08-19T19:11:40.000Z"
     },
     {
-      "id": "n_d96554161b",
+      "id": "n_dd7fdeb462",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Trump expected to pick conservative policy wonk Heidi Overton to lead FDA",
-      "summary": "She opposes abortion, is wary of peptides, supports limiting vaccines, vexes MAHA.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/08/trump-expected-to-pick-conservative-policy-wonk-heidi-overton-to-lead-fda/",
-      "publishedAt": "2026-08-19T13:54:36.000Z"
+      "headline": "Google packs Search and Gemini with new AI study tools",
+      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "publishedAt": "2026-08-19T19:00:00.000Z"
     },
     {
-      "id": "n_b6864953c7",
+      "id": "n_5dbaa1ce7a",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
-      "summary": "US healthcare is broken. Under RFK Jr., the research agency working to fix it is, too.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
-      "publishedAt": "2026-08-18T22:32:46.000Z"
-    },
-    {
-      "id": "n_2860dde463",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Ukrainian drones overwhelm Russian tanks’ new active protection system—for now",
-      "summary": "Tanks with defensive tech for shooting down drones are still proving vulnerable.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/",
-      "publishedAt": "2026-08-18T22:18:13.000Z"
+      "headline": "Researchers say OpenAI revoked their access to limited cyber program",
+      "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "publishedAt": "2026-08-19T18:46:14.000Z"
     },
     {
       "id": "n_f5e18ad6f0",
@@ -585,37 +618,15 @@
       "publishedAt": "2026-08-19T12:00:00.000Z"
     },
     {
-      "id": "n_9bc229aee6",
+      "id": "n_336770ff41",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-      "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
-      "publishedAt": "2026-08-19T10:00:00.000Z"
-    },
-    {
-      "id": "n_5ae44dec09",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "publishedAt": "2026-08-18T22:14:25.000Z"
-    },
-    {
-      "id": "n_d8b7c8511a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI institutes new safeguards after Hugging Face breach",
-      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "publishedAt": "2026-08-18T18:00:00.000Z"
+      "headline": "Google Gemini is getting a dedicated student hub",
+      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "publishedAt": "2026-08-19T19:00:00.000Z"
     },
     {
       "id": "n_832d30971d",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
       "publishedAt": "2026-08-18T12:01:29.000Z"
-    },
-    {
-      "id": "n_9b37fd2d44",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Elon Musk broke the FAA — Palantir is picking up the pieces",
-      "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
-      "publishedAt": "2026-08-18T11:00:00.000Z"
     },
     {
       "id": "n_e2f95ae810",
@@ -871,6 +871,17 @@
       "publishedAt": "2026-08-10T20:00:00.000Z"
     },
     {
+      "id": "n_051a5538f8",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+      "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+      "publishedAt": "2026-08-19T19:30:00.000Z"
+    },
+    {
       "id": "n_406b4e515e",
       "type": "news",
       "topic": "ai",
@@ -946,17 +957,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
       "publishedAt": "2026-08-14T15:00:00.000Z"
-    },
-    {
-      "id": "n_dd66d68264",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
-      "summary": "Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
-      "publishedAt": "2026-08-14T10:45:00.000Z"
     },
     {
       "id": "n_22e214c525",
@@ -1143,6 +1143,18 @@
       "publishedAt": "2026-05-29T16:18:31.000Z"
     },
     {
+      "id": "n_77fd367f31",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The summer Math fell to the machines...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=iuZPTE5qsJY",
+      "thumbnail": "https://i.ytimg.com/vi/iuZPTE5qsJY/hqdefault.jpg",
+      "publishedAt": "2026-08-19T18:45:57.000Z"
+    },
+    {
       "id": "n_fc0b0cbd09",
       "type": "video",
       "topic": "video",
@@ -1177,18 +1189,6 @@
       "url": "https://www.youtube.com/watch?v=aB5LGrHISqY",
       "thumbnail": "https://i.ytimg.com/vi/aB5LGrHISqY/hqdefault.jpg",
       "publishedAt": "2026-08-11T16:10:08.000Z"
-    },
-    {
-      "id": "n_cdc415b5c6",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The safest way to store Bitcoin was just hacked...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=2X2V3xv_jik",
-      "thumbnail": "https://i.ytimg.com/vi/2X2V3xv_jik/hqdefault.jpg",
-      "publishedAt": "2026-08-05T18:08:46.000Z"
     },
     {
       "id": "n_d84c0c1d09",
