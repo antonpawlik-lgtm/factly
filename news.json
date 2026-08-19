@@ -1,13 +1,68 @@
 {
-  "generatedAt": "2026-08-19T15:18:49.727Z",
+  "generatedAt": "2026-08-19T18:15:59.453Z",
   "items": [
+    {
+      "id": "n_38017776b1",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Fast jeder vierte Erwachsene schläft zu wenig",
+      "summary": "Weniger als sieben Stunden Schlaf pro Nacht? Experten zufolge ist das zu kurz - und ungesund. In Deutschland trifft das aber auf viele Menschen zu. Vor allem eine Gruppe ist besonders betroffen, wie eine Untersuchung zeigt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/rki-studie-schlafdauer-gesundheit-100.html",
+      "publishedAt": "2026-08-19T16:54:15.000Z"
+    },
+    {
+      "id": "n_503b5ca2f6",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Kaufzurückhaltung: DAX tritt auf der Stelle",
+      "summary": "Wenig Bewegung im deutschen Leitindex: Zunehmende Sorgen wegen der ungeklärten Lage in Nahost haben den Aktien-Anlegern heute die Kauflaune verdorben. Dazu kamen die steigenden Renditen bei Anleihen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-steigende-renditen-belasten-aktienmarkt-100.html",
+      "publishedAt": "2026-08-19T16:53:35.000Z"
+    },
+    {
+      "id": "n_76288519a5",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Merz kritisiert Ben-Gvirs Aussagen zu Tötung von Palästinensern",
+      "summary": "Kanzler Merz hat die Äußerungen des israelischen Ministers Ben-Gvir über gezielte Tötungen von Palästinensern kritisiert. Die \"menschenverachtenden völkerrechtswidrigen Appelle\" seien \"nicht hinnehmbar\", sagte sein Sprecher.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/merz-kritik-ben-gvir-100.html",
+      "publishedAt": "2026-08-19T16:41:47.000Z"
+    },
+    {
+      "id": "n_8d4ac87b98",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Arbeiterwohlfahrt will Bündelung von Sozialleistungen",
+      "summary": "In der Diskussion um eine Reform des Sozialstaats hat die Arbeiterwohlfahrt eigene Vorschläge präsentiert. Unter anderem soll mit einem \"Erwerbsbooster\" die Armut verringert werden. Von Dagmar Pepping.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/sozialstaat-deutschland-100.html",
+      "publishedAt": "2026-08-19T16:40:30.000Z"
+    },
+    {
+      "id": "n_15909cf15c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Erkrankung des Bayern-Profis: Was steckt hinter Musialas Zusammenbrüchen?",
+      "summary": "Bayern-Profi Musiala bricht erneut zusammen, ist für mehrere Sekunden außer Gefecht gesetzt. Damit wird öffentlich über eine bisher weitgehend unbekannte Erkrankung gesprochen: Absencen. Was steckt dahinter? Von F. Wittig.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wissen/absencen-epilepsie-wissenschaft-100.html",
+      "publishedAt": "2026-08-19T15:58:21.000Z"
+    },
     {
       "id": "n_32f180bc73",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Sieben Regionen in der DR Kongo von Ebola-Epidemie betroffen",
-      "summary": "In der DR Kongo melden sieben neue Regionen erste Ebola-Infektionen. Die Zahl der Infizierten und Toten im Land steigt weiter an. Viele Menschen können nicht behandelt werden.",
+      "headline": "Sieben weitere Gesundheitszonen in der DR Kongo von Ebola betroffen",
+      "summary": "In der DR Kongo melden sieben weitere Gesundheitszonen erste Ebola-Infektionen. Die Zahl der Infizierten und Toten im Land steigt weiter an. Viele Menschen können nicht behandelt werden.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-neue-regionen-update-100.html",
       "publishedAt": "2026-08-19T15:16:24.000Z"
@@ -33,61 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/hitze-aktionsplan-spd-hubig-hubertz-100.html",
       "publishedAt": "2026-08-19T14:44:17.000Z"
-    },
-    {
-      "id": "n_b5adf78e23",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Selenskyj entlässt Vize-Präsidialamtschefin nach Razzia in Kiew",
-      "summary": "Erneut gehen die ukrainischen Antikorruptionsbehörden gegen Abgeordnete und das Umfeld von Präsident Selenskyj vor. Zugleich wächst der politische Druck: Ex-Verteidigungsminister Fedorow fordert Wahlen - auch während des Krieges.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-entlassung-100.html",
-      "publishedAt": "2026-08-19T14:39:03.000Z"
-    },
-    {
-      "id": "n_870f92bb80",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wie KI in der öffentlichen Verwaltung helfen kann",
-      "summary": "Ob KI-Avatare, Chat- oder Voicebots: Viele Städte- und Gemeindeverwaltungen nutzen KI. Auf einer internationalen Konferenz in Bremen diskutieren Fachleute derzeit über die neuesten Entwicklungen. Von M. Lang und L. Boucheligua.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/technologie/ki-oeffentliche-verwaltung-100.html",
-      "publishedAt": "2026-08-19T14:37:16.000Z"
-    },
-    {
-      "id": "n_d5c8bf2a55",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Waldbrände in Europa: Feuer in Belgien ist \"eingekreist\"",
-      "summary": "Das Feuer in Belgien ist noch nicht unter Kontrolle - aber eingekreist. Die evakuierten Menschen aus dem benachbarten Monschau dürfen wieder in ihre Häuser zurückkehren. Und es gibt noch einen Lichtblick.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/waldbrand-belgien-108.html",
-      "publishedAt": "2026-08-19T14:30:09.000Z"
-    },
-    {
-      "id": "n_52b253129a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Obdachlosigkeit in Großbritannien: Burnham will Obdachlose von Straße holen",
-      "summary": "In Großbritannien schlafen Tausende Menschen auf der Straße. Der neue Premier Burnham will das ändern - und kündigte ein Millionenprogramm an. Die Opposition spricht von Planlosigkeit.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-obdachlosigkeit-100.html",
-      "publishedAt": "2026-08-19T14:21:24.000Z"
-    },
-    {
-      "id": "n_876c1f8fb6",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wie Kürzungen die humanitäre Hilfe verändern",
-      "summary": "Die humanitäre Hilfe steht weltweit immer stärker unter Druck. In vielen Ländern werden die Mittel gekürzt - auch durch die Bundesregierung. Was bedeutet das für Helfer und Menschen in Not? Von N. Markwald und C. Buckenmaier.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/humanitaere-hilfe-bundesregierung-100.html",
-      "publishedAt": "2026-08-19T13:05:26.000Z"
     },
     {
       "id": "n_39330a7c8a",
@@ -178,6 +178,39 @@
       "publishedAt": "2026-08-18T15:44:00.000Z"
     },
     {
+      "id": "n_062973d5b4",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Kompressor für den 18V-Akku von Makita kostet bei Amazon rund 36 Euro",
+      "summary": "Ein viel gekaufter Kompressor kostet bei Amazon knapp unter 36 Euro. Er ist mit den Akkus von Makita kompatibel. (Technik/Hardware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-kompressor-fuer-den-18v-akku-von-makita-kostet-bei-amazon-rund-36-euro-2608-212107.html",
+      "publishedAt": "2026-08-19T16:55:02.000Z"
+    },
+    {
+      "id": "n_8e623e6497",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Identity- und Access-Management mit Keycloak absichern",
+      "summary": "Identity- und Access-Management sind für viele Unternehmen eine Herausforderung. Ein praxisorientiertes Training vermittelt den sicheren Einsatz von Keycloak samt SSO und MFA. (Golem Karrierewelt, Server-Applikationen)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-identity-und-access-management-mit-keycloak-absichern-2608-212069.html",
+      "publishedAt": "2026-08-19T16:45:01.000Z"
+    },
+    {
+      "id": "n_ce9358c06c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "(g+) Technology: No room for data centers? South Korea wants to build one underwater",
+      "summary": "Pilot project off Ulsan coast aims to find space for AI infrastructure Von Nami Matsuura (KI, Software)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/technology-no-room-for-data-centers-south-korea-wants-to-build-one-underwater-2608-212060.html",
+      "publishedAt": "2026-08-19T16:30:01.000Z"
+    },
+    {
       "id": "n_ecd6d548e1",
       "type": "news",
       "topic": "tech",
@@ -233,81 +266,15 @@
       "publishedAt": "2026-08-19T14:02:02.000Z"
     },
     {
-      "id": "n_49918bcb68",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Statt Telekom: Lufthansa startet erstmals mit Onboard-Internet von Starlink",
-      "summary": "Der erste öffentliche Flug der Lufthansa mit Starlink ist von Berlin nach Rom und zurück geflogen. Das European Aviation Network (EAN) von Inmarsat und Deutsche Telekom hat hier ausgedient. (Lufthansa, Telekommunikation)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/statt-telekom-lufthansa-startet-erstmals-mit-onboard-internet-von-starlink-2608-212102.html",
-      "publishedAt": "2026-08-19T13:44:01.000Z"
-    },
-    {
-      "id": "n_773da8f518",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Google Pixel Watch 4 mit 33 Prozent Rabatt zum Tiefstpreis",
-      "summary": "Die Google Pixel Watch 4 mit 45 mm großem Gehäuse ist für nur 299 Euro erhältlich. Damit kostet die Smartwatch 150 Euro weniger als die UVP. (Smartwatch, Google)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-google-pixel-watch-4-mit-33-prozent-rabatt-zum-tiefstpreis-2608-212100.html",
-      "publishedAt": "2026-08-19T13:17:02.000Z"
-    },
-    {
-      "id": "n_42dc68fd10",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Heißluftfritteuse von Ninja für unter 100 Euro bei Back Market",
-      "summary": "Eine Dual-Heißluftfritteuse von Ninja für bis zu acht Personen und weitere Modelle gibt es professionell erneuert günstig bei Back Market. (Technik/Hardware)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-heissluftfritteuse-von-ninja-fuer-unter-100-euro-bei-back-market-2608-212098.html",
-      "publishedAt": "2026-08-19T12:48:01.000Z"
-    },
-    {
-      "id": "n_8721135b34",
+      "id": "n_2642b6ed2d",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Trump administration can target Ethiopians for deportation",
-      "summary": "A judge's ruling on Tuesday removed the last remaining block on Trump officials' efforts to cancel Temporary Protected Status for Ethiopians.",
+      "headline": "Canada and US say they are finalising a trade deal, but details remain murky",
+      "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c39e8zy12pyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T15:11:19.000Z"
-    },
-    {
-      "id": "n_f2081d65ac",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Watch: SpaceX rocket spotted off Christmas Island coast",
-      "summary": "A Christmas Island resident was surprised to find the massive piece of debris floating off the coast.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c4gw160q3v3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T15:01:57.000Z"
-    },
-    {
-      "id": "n_1f8b7b3962",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Retail giant Target receives $1bn boost from tariff refunds",
-      "summary": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T14:47:02.000Z"
-    },
-    {
-      "id": "n_a5c4c34722",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Angélique Kidjo becomes first African musician with Hollywood Walk of Fame star",
-      "summary": "Without Africans, no music is possible on this planet, says the 66-year-old musical icon from Benin.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62xyg6527go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T14:36:25.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T17:47:52.000Z"
     },
     {
       "id": "n_fe307da7bf",
@@ -318,29 +285,40 @@
       "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T14:16:27.000Z"
+      "publishedAt": "2026-08-19T17:39:49.000Z"
     },
     {
-      "id": "n_f0db32b6db",
+      "id": "n_f53d7089c6",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
-      "summary": "She initially survived the attack but her body was recovered days later in Gaza City in 2024.",
+      "headline": "Sacked Ukrainian defence minister calls for presidential election",
+      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T13:53:51.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T17:23:42.000Z"
     },
     {
-      "id": "n_96f51d25cd",
+      "id": "n_3d02ce96b2",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Six tourists and pilot killed in Kenya helicopter crash",
-      "summary": "The Aircraft Accident Investigation Department tells the BBC the nationalities are yet to be confirmed.",
+      "headline": "Israel opens up bids for highly-sensitive West Bank settlement project",
+      "summary": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T13:00:09.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T17:16:28.000Z"
+    },
+    {
+      "id": "n_1f8b7b3962",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Retail giant Target receives $1bn boost from tariff refunds",
+      "summary": "The US chain said it received a $994 million pre-tax reimbursement, which resulted in its second quarter operating income rising to $2.6bn.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T17:07:49.000Z"
     },
     {
       "id": "n_471f548932",
@@ -351,18 +329,51 @@
       "summary": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T12:47:53.000Z"
+      "publishedAt": "2026-08-19T16:31:48.000Z"
+    },
+    {
+      "id": "n_bf624da0c0",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Lindsay Clancy's trial puts postpartum psychosis on the map",
+      "summary": "Postpartum psychosis is a psychiatric emergency that can involve mania, depression, hallucinations and delusions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yedy98j7po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T16:30:55.000Z"
+    },
+    {
+      "id": "n_d74eabb71a",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Two detained after French influencer's scorched body found in vineyard",
+      "summary": "Sonia Bellina's body was \"abandoned\" after \"a murder of rare savagery\", the family's lawyer says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3r058eeqv2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T16:04:39.000Z"
+    },
+    {
+      "id": "n_be1ff494cd",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
+      "summary": "According to a Freedom of Information (FOI) request the number of letters sent has almost tripled since 2024.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0ej09nywdno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T16:14:46.000Z"
     },
     {
       "id": "n_968cc968f3",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Monzo down as some users unable to make card payments or transfers",
-      "summary": "The digital bank said it was \"rolling out a fix and moving quickly\" to get the service working again",
+      "headline": "Monzo says issue with card payments and transfers now resolved",
+      "summary": "The digital bank said all of its services were now \"back up and running\"",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T14:13:33.000Z"
+      "publishedAt": "2026-08-19T16:04:16.000Z"
     },
     {
       "id": "n_d1c7a1c2fa",
@@ -431,15 +442,70 @@
       "publishedAt": "2026-08-18T09:26:41.000Z"
     },
     {
-      "id": "n_42d214b635",
+      "id": "n_f7c8719669",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
-      "summary": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T09:00:33.000Z"
+      "headline": "A fantastical journey unfolds in gorgeous Wildwood trailer",
+      "summary": "\"I will tear apart this forest and bring back what it took from me.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/",
+      "publishedAt": "2026-08-19T17:06:06.000Z"
+    },
+    {
+      "id": "n_01e81f7c66",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "mRNA cancer vaccine succeeded in Phase 3 melanoma trial, Moderna and Merck say",
+      "summary": "The vaccine reportedly thwarted the cancer's return and spread.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/",
+      "publishedAt": "2026-08-19T16:53:56.000Z"
+    },
+    {
+      "id": "n_cf70bce2fb",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Google Pixel 11 series review: Is the magic fading?",
+      "summary": "Google's new Pixels make some compromises but still manage to be good phones.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
+      "publishedAt": "2026-08-19T16:11:30.000Z"
+    },
+    {
+      "id": "n_b39ae874fb",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Scientists find closest star to the Milky Way's central black hole",
+      "summary": "Star, moving at 8% the speed of light, may let us measure the black hole's rotation.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/08/scientists-find-closest-star-to-the-milky-ways-central-black-hole/",
+      "publishedAt": "2026-08-19T15:56:56.000Z"
+    },
+    {
+      "id": "n_9b3a18b55b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Meta ran ads for an app promising to nudify female politicians",
+      "summary": "One ad featured a pornographic video with deepfake closely resembling a US politician.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+      "publishedAt": "2026-08-19T15:45:29.000Z"
+    },
+    {
+      "id": "n_d96554161b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Trump expected to pick conservative policy wonk Heidi Overton to lead FDA",
+      "summary": "She opposes abortion, is wary of peptides, supports limiting vaccines, vexes MAHA.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/08/trump-expected-to-pick-conservative-policy-wonk-heidi-overton-to-lead-fda/",
+      "publishedAt": "2026-08-19T13:54:36.000Z"
     },
     {
       "id": "n_b6864953c7",
@@ -464,70 +530,26 @@
       "publishedAt": "2026-08-18T22:18:13.000Z"
     },
     {
-      "id": "n_a5b27fe2af",
+      "id": "n_f5e18ad6f0",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
-      "summary": "\"A team of SpaceX engineers is on their way to conduct additional analysis on the vehicle.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
-      "publishedAt": "2026-08-18T19:01:09.000Z"
+      "headline": "Meet the startup helping Wall Street put a price on AI compute",
+      "summary": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn’t a straightforward way to put a pri",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "publishedAt": "2026-08-19T17:26:48.000Z"
     },
     {
-      "id": "n_34c590c62c",
+      "id": "n_7815289e17",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
-      "summary": "FCC demands \"total capitulation\" in Trump censorship campaign, Disney suit says.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
-      "publishedAt": "2026-08-18T18:11:26.000Z"
-    },
-    {
-      "id": "n_b4ca0427a2",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Peacock raises prices by 18 percent after becoming profitable",
-      "summary": "Peacock's quarterly profitability isn't guaranteed.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/",
-      "publishedAt": "2026-08-18T16:42:30.000Z"
-    },
-    {
-      "id": "n_172febb378",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "The United States is about to wake up to the threat from China's space program",
-      "summary": "One big question: Will China assert territorial rights where its rover explores?",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/",
-      "publishedAt": "2026-08-18T16:30:07.000Z"
-    },
-    {
-      "id": "n_05ebf2f3b4",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Fairphone's latest repairable phone is finally available in the US for $650",
-      "summary": "Fairphone sells components like the USB port and screen, all swappable with a single torx driver.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/",
-      "publishedAt": "2026-08-18T16:05:00.000Z"
-    },
-    {
-      "id": "n_a4b44fd3be",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Ford hopes this Hypercar will be its next Le Mans winner",
-      "summary": "The American automaker returns to the top category of endurance racing next year.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/08/ford-hopes-this-hypercar-will-be-its-next-le-mans-winner/",
-      "publishedAt": "2026-08-18T15:52:50.000Z"
+      "headline": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+      "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+      "publishedAt": "2026-08-19T15:44:53.000Z"
     },
     {
       "id": "n_21c2455c8e",
@@ -596,26 +618,26 @@
       "publishedAt": "2026-08-18T18:00:00.000Z"
     },
     {
-      "id": "n_7d26bb4b9e",
+      "id": "n_832d30971d",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Etched’s valuation doubles to $21B in a month",
-      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "publishedAt": "2026-08-18T17:21:58.000Z"
+      "headline": "OpenAI hit the brakes. Now what?",
+      "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened se",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "publishedAt": "2026-08-19T17:10:09.000Z"
     },
     {
-      "id": "n_1b26716648",
+      "id": "n_5e28cbf1ea",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-      "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-      "publishedAt": "2026-08-18T16:19:10.000Z"
+      "headline": "Meta AI is getting a Mac app",
+      "summary": "Meta AI can create content and make suggestions based on what it “sees” on your screen. | Image: Meta Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestio",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+      "publishedAt": "2026-08-19T17:00:00.000Z"
     },
     {
       "id": "n_09ece407a4",
@@ -682,28 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
       "publishedAt": "2026-08-18T11:00:00.000Z"
-    },
-    {
-      "id": "n_78030b55c4",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "ChatGPT is getting a dedicated mode for teens",
-      "summary": "ChatGPT for Teens includes safeguards and parental controls. | Image: OpenAI OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-      "publishedAt": "2026-08-18T11:00:00.000Z"
-    },
-    {
-      "id": "n_14640eb10a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
-      "summary": "The AirPods in the video look like a chunkier version of Apple’s AirPods Pro 3. | Image: Apple / MacRumors We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video c",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-      "publishedAt": "2026-08-18T09:00:01.000Z"
     },
     {
       "id": "n_e2f95ae810",
@@ -871,6 +871,17 @@
       "publishedAt": "2026-08-10T20:00:00.000Z"
     },
     {
+      "id": "n_406b4e515e",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+      "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+      "publishedAt": "2026-08-19T16:44:07.000Z"
+    },
+    {
       "id": "n_62cf25f54f",
       "type": "news",
       "topic": "ai",
@@ -946,17 +957,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
       "publishedAt": "2026-08-14T10:45:00.000Z"
-    },
-    {
-      "id": "n_38c15e978c",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
-      "summary": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
-      "publishedAt": "2026-08-14T10:15:00.000Z"
     },
     {
       "id": "n_22e214c525",
@@ -1047,6 +1047,18 @@
       "publishedAt": "2026-08-12T16:14:36.000Z"
     },
     {
+      "id": "n_22acc98b43",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DeepSeek Just Made Closed AI Look Ridiculous",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=kyYepbhe1g8",
+      "thumbnail": "https://i.ytimg.com/vi/kyYepbhe1g8/hqdefault.jpg",
+      "publishedAt": "2026-08-19T18:02:46.000Z"
+    },
+    {
       "id": "n_5ac4def88e",
       "type": "video",
       "topic": "video",
@@ -1081,18 +1093,6 @@
       "url": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
       "thumbnail": "https://i.ytimg.com/vi/vO6SWG-jxvE/hqdefault.jpg",
       "publishedAt": "2026-08-07T08:22:00.000Z"
-    },
-    {
-      "id": "n_cbc630e184",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Billion Dollar AI Race Just Broke",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
-      "thumbnail": "https://i.ytimg.com/vi/ppQh4Tc9BmM/hqdefault.jpg",
-      "publishedAt": "2026-08-05T13:54:29.000Z"
     },
     {
       "id": "n_6a18d8c315",
