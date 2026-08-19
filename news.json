@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-18T21:11:54.194Z",
+  "generatedAt": "2026-08-19T00:31:00.973Z",
   "items": [
+    {
+      "id": "n_d027aa18b2",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "ZZ-Top-Schlagzeuger Beard im Alter von 77 Jahren gestorben",
+      "summary": "Der US-Schlagzeuger Frank Beard ist im Alter von 77 Jahren in Texas gestorben. Mit seiner Band ZZ Top verkaufte er weltweit mehr als 50 Millionen Tonträger und war Mitglied in der Rock and Roll Hall of Fame.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/kultur/frank-beard-gestorben-zz-top-100.html",
+      "publishedAt": "2026-08-18T23:43:27.000Z"
+    },
     {
       "id": "n_3c83603dad",
       "type": "news",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-moskau-charkiw-100.html",
       "publishedAt": "2026-08-18T15:48:11.000Z"
-    },
-    {
-      "id": "n_3ace34c465",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Ausgebeutet für Sanifair? Schmutzige Geschäfte mit sauberen Toiletten",
-      "summary": "Es sind schwere Vorwürfe, die Reinigungskräfte bei Report Mainz erheben. Sie schildern, in Sanifair-Toilettenanlagen täglich zwölf Stunden arbeiten zu müssen. Sieben Tage die Woche. Dafür erhielten sie einen Stundenlohn von rund fünf Euro.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/investigativ/report-mainz/sanifair-tank-und-rast-raststaette-toilette-arbeitsbedingungen-100.html",
-      "publishedAt": "2026-08-18T15:44:40.000Z"
     },
     {
       "id": "n_3aa32257d8",
@@ -266,6 +266,50 @@
       "publishedAt": "2026-08-18T14:17:02.000Z"
     },
     {
+      "id": "n_02501b5f50",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Harvard agrees to pay millions after morgue manager sold body parts",
+      "summary": "Harvard Medical School has agreed to pay $53 million to families who alleged the school mishandled the donated remains of loved ones.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T00:07:37.000Z"
+    },
+    {
+      "id": "n_9b655fd728",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "ZZ Top drummer Frank Beard dies aged 77",
+      "summary": "A statement on the blues-rock band's website said he died on Monday in hospice",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T22:25:46.000Z"
+    },
+    {
+      "id": "n_85e51cb7b8",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "The Indian activist jailed after taking on a luxury hotel plan",
+      "summary": "An activist's detention has brought under focus a larger battle over land and development around the famed Kaziranga National Park.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T22:18:50.000Z"
+    },
+    {
+      "id": "n_20564c93e8",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Meta hooked children on Facebook and Instagram, court hears",
+      "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T22:11:07.000Z"
+    },
+    {
       "id": "n_f9e315f00d",
       "type": "news",
       "topic": "general",
@@ -310,48 +354,15 @@
       "publishedAt": "2026-08-18T20:21:49.000Z"
     },
     {
-      "id": "n_5c0ac9fb35",
+      "id": "n_4997bc84cc",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Judge swapped in Trump's defamation case against BBC",
-      "summary": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC.",
+      "headline": "The critical tech staying safe by going underground",
+      "summary": "The war in Ukraine has spurred people to consider putting vital infrastructure underground.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T19:52:32.000Z"
-    },
-    {
-      "id": "n_d52cc91dcb",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-      "summary": "Lindsay Clancy has admitted killing her daughter and two sons but has pleaded not guilty to murder, saying she was experiencing postpartum psychosis.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T17:54:46.000Z"
-    },
-    {
-      "id": "n_8e7e394a8f",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Earthquake rocks Spain's historic Granada, injuring three",
-      "summary": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T17:15:39.000Z"
-    },
-    {
-      "id": "n_18185c1805",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
-      "summary": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T17:00:29.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T23:25:21.000Z"
     },
     {
       "id": "n_d04585d09c",
@@ -420,26 +431,48 @@
       "publishedAt": "2026-08-15T11:25:32.000Z"
     },
     {
-      "id": "n_0648cff31d",
+      "id": "n_b6864953c7",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Why tech bosses keep sharing their manifestos about AI",
-      "summary": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T23:06:27.000Z"
+      "headline": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
+      "summary": "US healthcare is broken. Under RFK Jr., the research agency working to fix it is, too.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
+      "publishedAt": "2026-08-18T22:32:46.000Z"
     },
     {
-      "id": "n_57b4a23cfc",
+      "id": "n_2860dde463",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Bumble divides users by ditching its signature 'women-first' chat rule",
-      "summary": "The dating app's boss says the move is in response to a successful trial and a change in what users want.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T14:09:05.000Z"
+      "headline": "Ukrainian drones overwhelm Russian tanks’ new active protection system—for now",
+      "summary": "Tanks with defensive tech for shooting down drones are still proving vulnerable.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/",
+      "publishedAt": "2026-08-18T22:18:13.000Z"
+    },
+    {
+      "id": "n_a5b27fe2af",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
+      "summary": "\"A team of SpaceX engineers is on their way to conduct additional analysis on the vehicle.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
+      "publishedAt": "2026-08-18T19:01:09.000Z"
+    },
+    {
+      "id": "n_34c590c62c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
+      "summary": "FCC demands \"total capitulation\" in Trump censorship campaign, Disney suit says.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
+      "publishedAt": "2026-08-18T18:11:26.000Z"
     },
     {
       "id": "n_b4ca0427a2",
@@ -486,48 +519,15 @@
       "publishedAt": "2026-08-18T15:52:50.000Z"
     },
     {
-      "id": "n_89db0a73f4",
+      "id": "n_5ae44dec09",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Teenage Sex and Death at Camp Miasma takes pains to deliver a slasher fan’s dream",
-      "summary": "Matte paintings—not CGI—warp a world designed to hit a nerve for slasher fans.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-takes-pains-to-deliver-a-slasher-fans-dream/",
-      "publishedAt": "2026-08-18T15:36:47.000Z"
-    },
-    {
-      "id": "n_18da0ed6c2",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "X-rays add new twist to narwhal's spiral tusk",
-      "summary": "New study finds that the tusks have not one but two spirals, twisting in opposite directions.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/08/x-rays-add-new-twist-to-narwhals-spiral-tusk/",
-      "publishedAt": "2026-08-18T15:00:51.000Z"
-    },
-    {
-      "id": "n_3bbaa3b8ac",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-      "publishedAt": "2026-08-18T13:00:04.000Z"
-    },
-    {
-      "id": "n_19cb8962d1",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "As temperatures get hotter, pesticides are more dangerous to farmworkers",
-      "summary": "Research shows heat amplifies the dangers of pesticides.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers/",
-      "publishedAt": "2026-08-18T11:07:49.000Z"
+      "headline": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "publishedAt": "2026-08-18T22:14:25.000Z"
     },
     {
       "id": "n_d8b7c8511a",
@@ -607,15 +607,26 @@
       "publishedAt": "2026-08-17T23:56:26.000Z"
     },
     {
-      "id": "n_63576ecb69",
+      "id": "n_9dffd5e77e",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "publishedAt": "2026-08-17T21:27:05.000Z"
+      "headline": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "publishedAt": "2026-08-18T19:48:26.000Z"
+    },
+    {
+      "id": "n_34d85fbbba",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes o",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "publishedAt": "2026-08-18T19:28:30.000Z"
     },
     {
       "id": "n_dc3392639f",
@@ -682,28 +693,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
       "publishedAt": "2026-08-17T11:00:00.000Z"
-    },
-    {
-      "id": "n_e6c585a846",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-      "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source w",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "publishedAt": "2026-08-17T10:57:13.000Z"
-    },
-    {
-      "id": "n_639f236e7d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI reportedly disbanded its preparedness team",
-      "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hac",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "publishedAt": "2026-08-16T21:32:56.000Z"
     },
     {
       "id": "n_3d6d30af34",
