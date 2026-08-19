@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-19T00:31:00.973Z",
+  "generatedAt": "2026-08-19T03:36:12.145Z",
   "items": [
+    {
+      "id": "n_9a45c983eb",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Unfall bei Kamen: A2 bis abends in beide Richtungen gesperrt",
+      "summary": "Ein Schwertransporter liegt auf der A2 bei Kamen quer. Er hatte einen Kran geladen, der jetzt die Gegenfahrbahn blockiert. In dem Bereich wurden deshalb bis auf Weiteres beide Richtungen voll gesperrt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-a2-bei-kamen-gesperrt-schwertransporter-mit-bagger-umgekippt-100.html",
+      "publishedAt": "2026-08-19T03:24:00.000Z"
+    },
+    {
+      "id": "n_32773fdf45",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wie sich die EU von einem Milizenführer erpressen lässt",
+      "summary": "Die EU plant eine engere Zusammenarbeit mit Ostlibyen, um die Fluchtroute nach Kreta zu schließen. Das zeigen vertrauliche Unterlagen, die Report Mainz und dem Spiegel vorliegen. Experten warnen: Wieder liefere sich Europa einem Autokraten aus.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/investigativ/report-mainz/migration-mittelmeer-eu-libyen-miliz-100.html",
+      "publishedAt": "2026-08-19T03:05:10.000Z"
+    },
+    {
+      "id": "n_c74c399f03",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "USA sanktionieren Präsidentin des Internationalen Strafgerichtshofs",
+      "summary": "Die US-Regierung erhöht weiter den Druck auf den Internationalen Strafgerichtshof: Sie kündigte Sanktionen gegen dessen Präsidentin und einen leitenden Anwalt an. Der IStGH sieht die Rechtsstaatlichkeit gefährdet.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-internationaler-strafgerichtshof-100.html",
+      "publishedAt": "2026-08-19T01:30:14.000Z"
+    },
     {
       "id": "n_d027aa18b2",
       "type": "news",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/afrika/marokko-jugend-100.html",
       "publishedAt": "2026-08-18T17:13:05.000Z"
-    },
-    {
-      "id": "n_73c96ded1a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: Den DAX verlassen die Kräfte",
-      "summary": "Der Ölmarkt bleibt auf unabsehbare Zeit angespannt, und die Renditen am Anleihemarkt steigen. Kein gutes Umfeld für Aktien. Der DAX entfernte sich weiter von seinem jüngsten Rekordhoch.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-146.html",
-      "publishedAt": "2026-08-18T16:13:29.000Z"
-    },
-    {
-      "id": "n_c21dea2fcf",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Assad-Cousin in Syrien zum Tode verurteilt",
-      "summary": "In Syrien geht die juristische Aufarbeitung der Assad-Ära weiter: Nach dem Ex-Machthaber ist auch ein Cousin Assads zum Tode verurteilt worden. Der Libanon will zudem einen syrischen Ex-General an das Land ausliefern.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/syrien-assad-cousin-todesurteil-100.html",
-      "publishedAt": "2026-08-18T16:03:42.000Z"
-    },
-    {
-      "id": "n_f30045f8b0",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Zehn Menschen bei russischen Angriffen im Gebiet Charkiw getötet",
-      "summary": "Im Osten der Ukraine sind bei russischen Angriffen mindestens zehn Menschen getötet worden. Auch die ukrainische Armee verstärkte ihre Luftangriffe und setzte Hunderte Drohnen gegen die Region Moskau ein.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-moskau-charkiw-100.html",
-      "publishedAt": "2026-08-18T15:48:11.000Z"
     },
     {
       "id": "n_3aa32257d8",
@@ -266,6 +266,61 @@
       "publishedAt": "2026-08-18T14:17:02.000Z"
     },
     {
+      "id": "n_c47111c525",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
+      "summary": "The immigration status of Maryam Tahmasebi was revoked because her husband is the son of a prominent figure in Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T03:12:06.000Z"
+    },
+    {
+      "id": "n_1312c5000a",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Husband and mother-in-law charged over Indian bride's death",
+      "summary": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T03:04:07.000Z"
+    },
+    {
+      "id": "n_e200c7e9cf",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Witness gets combative in Tupac murder trial - 'I don't want to send him to prison'",
+      "summary": "The witness said he had little love for the man on trial for the rapper's murder, but refused to answer questions that he thought would send Duane \"Keffe D\" to prison.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T03:00:35.000Z"
+    },
+    {
+      "id": "n_6854b3ddf9",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T02:41:36.000Z"
+    },
+    {
+      "id": "n_f53d7089c6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Sacked Ukrainian defence minister calls for presidential election",
+      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T01:31:15.000Z"
+    },
+    {
       "id": "n_02501b5f50",
       "type": "news",
       "topic": "general",
@@ -299,61 +354,6 @@
       "publishedAt": "2026-08-18T22:18:50.000Z"
     },
     {
-      "id": "n_20564c93e8",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Meta hooked children on Facebook and Instagram, court hears",
-      "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T22:11:07.000Z"
-    },
-    {
-      "id": "n_f9e315f00d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Tracking USS Lincoln's months-long mission as concerns about conditions grow",
-      "summary": "BBC Verify has used satellite imagery to monitor the warship on one of the longest ever US deployments.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cdrv71lzejpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T20:48:09.000Z"
-    },
-    {
-      "id": "n_3d18859ed2",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
-      "summary": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T20:39:36.000Z"
-    },
-    {
-      "id": "n_af8f85dbb8",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Man in Chucky-style mask terrorises Philadelphia residents",
-      "summary": "\"It was just weird, like some twisted game\": At least half a dozen people were threatened near City Hall last week.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c39em89z4vmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T20:27:44.000Z"
-    },
-    {
-      "id": "n_f5a79ac333",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US announces new sanctions on top ICC figures",
-      "summary": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T20:21:49.000Z"
-    },
-    {
       "id": "n_4997bc84cc",
       "type": "news",
       "topic": "tech",
@@ -363,6 +363,17 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-18T23:25:21.000Z"
+    },
+    {
+      "id": "n_20564c93e8",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Meta hooked children on Facebook and Instagram, US court hears",
+      "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-18T22:11:07.000Z"
     },
     {
       "id": "n_d04585d09c",
@@ -1084,54 +1095,6 @@
       "publishedAt": "2026-08-05T13:54:29.000Z"
     },
     {
-      "id": "n_6a18d8c315",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
-      "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
-      "publishedAt": "2026-08-12T12:57:24.000Z"
-    },
-    {
-      "id": "n_49a7d5405f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
-      "publishedAt": "2026-07-28T20:02:11.000Z"
-    },
-    {
-      "id": "n_39feb22ff6",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
-      "thumbnail": "https://i.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
-      "publishedAt": "2026-06-30T21:16:13.000Z"
-    },
-    {
-      "id": "n_6a7b36e7cd",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
-      "thumbnail": "https://i.ytimg.com/vi/1M3Vdl6DRkU/hqdefault.jpg",
-      "publishedAt": "2026-05-29T16:18:31.000Z"
-    },
-    {
       "id": "n_fc0b0cbd09",
       "type": "video",
       "topic": "video",
@@ -1178,54 +1141,6 @@
       "url": "https://www.youtube.com/watch?v=2X2V3xv_jik",
       "thumbnail": "https://i.ytimg.com/vi/2X2V3xv_jik/hqdefault.jpg",
       "publishedAt": "2026-08-05T18:08:46.000Z"
-    },
-    {
-      "id": "n_d84c0c1d09",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Google Pixel 11/Pro/Fold Impressions: It Is What It Is",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=o4SSoURPODY",
-      "thumbnail": "https://i.ytimg.com/vi/o4SSoURPODY/hqdefault.jpg",
-      "publishedAt": "2026-08-12T14:00:35.000Z"
-    },
-    {
-      "id": "n_5f31592cac",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Galaxy Z Fold 8 Review: Honeymoon's Over",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=Z6z_feacXW8",
-      "thumbnail": "https://i.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg",
-      "publishedAt": "2026-08-01T00:05:00.000Z"
-    },
-    {
-      "id": "n_bf51349fdf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Framework 13 Pro: The Modular Laptop is Real!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
-      "thumbnail": "https://i.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg",
-      "publishedAt": "2026-07-27T15:38:21.000Z"
-    },
-    {
-      "id": "n_64ebc2a7bf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
-      "thumbnail": "https://i.ytimg.com/vi/8Hx2yvWSgs0/hqdefault.jpg",
-      "publishedAt": "2026-07-22T13:01:05.000Z"
     }
   ]
 }
