@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-08-19T06:21:59.277Z",
+  "generatedAt": "2026-08-19T09:21:00.770Z",
   "items": [
+    {
+      "id": "n_6c3ee06354",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Weiterer Verdächtiger wegen Nord-Stream-Anschlägen festgenommen",
+      "summary": "Ermittler in Kroatien haben nach ARD-Information einen zweiten Verdächtigen im Fall der Sprengung der Nord-Stream-Pipelines festgenommen. Er soll einer der Taucher gewesen sein, die die Sprengsätze an den Pipelines angebracht haben. Von Holger Schmidt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/ermittlungen-nordstream-generalbundesanwalt-100.html",
+      "publishedAt": "2026-08-19T09:15:44.000Z"
+    },
+    {
+      "id": "n_05c0d65766",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Warum Italien und Deutschland wieder über Migranten streiten",
+      "summary": "Seit Juni gilt das neue EU-Asylsystem GEAS. Nun will Deutschland wieder Migranten nach Italien überstellen, die dort in die EU eingereist sind. Italien aber lehnt das ab. Warum die Fronten so verhärtet sind, erklärt Lisa Weiß.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asylstreit-italien-deutschland-100.html",
+      "publishedAt": "2026-08-19T08:28:54.000Z"
+    },
+    {
+      "id": "n_fdc816c781",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Hilfsorganisationen: Angriffe auf Helfer erreichen Höchstwert",
+      "summary": "Angriffe auf Helfer humanitärer Organisationen erreichten laut UN 2025 einen Höchststand. 907 Helfer seien im vergangenen Jahr getötet, verletzt oder entführt worden. Besonders gefährlich war es im Gazastreifen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/un-helfer-102.html",
+      "publishedAt": "2026-08-19T08:17:27.000Z"
+    },
+    {
+      "id": "n_c74c399f03",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "USA sanktionieren Präsidentin des Internationalen Strafgerichtshofs",
+      "summary": "Die US-Regierung erhöht weiter den Druck auf den Internationalen Strafgerichtshof: Sie kündigte Sanktionen gegen dessen Präsidentin und einen leitenden Anwalt an. Der IStGH sieht die Rechtsstaatlichkeit gefährdet.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-internationaler-strafgerichtshof-100.html",
+      "publishedAt": "2026-08-19T08:13:12.000Z"
+    },
+    {
+      "id": "n_8196634634",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: Anleihen machen Aktien Konkurrenz",
+      "summary": "Der DAX hält sich zur Wochenmitte stabil. Positive Konjunkturdaten tragen dazu bei. Doch die Sorgen der Investoren gelten den Anleihemärkten. Sie werden zur Konkurrenz für Aktien.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-verluste-sorgen-anleihenmarkt-100.html",
+      "publishedAt": "2026-08-19T07:40:43.000Z"
+    },
+    {
+      "id": "n_d0d2f94873",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Zollstreit in Nordamerika: USA stoppen Zölle gegen Kanada im letzten Moment",
+      "summary": "Weniger als zwei Stunden vor Inkrafttreten neuer US-Zölle haben sich die USA und Kanada auf eine dreitägige Verschiebung geeinigt. Beide Seiten wollen die Frist für weitere Verhandlungen nutzen - doch der Streit geht weiter.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-kanada-zollstreit-100.html",
+      "publishedAt": "2026-08-19T07:10:04.000Z"
+    },
+    {
+      "id": "n_032427f315",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bundesanleihen: Hohe Zinsen treffen Staat, Hauskäufer und Anleger",
+      "summary": "Die Renditen langlaufender Bundesanleihen sind deutlich gestiegen. Das macht Anleihen für Anleger wieder attraktiver - doch für den Staat, Hauskäufer und Unternehmen wird geliehenes Geld immer teurer. Von Angela Göpfert.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/bundesanleihen-renditen-bauzinsen-staat-anleger-100.html",
+      "publishedAt": "2026-08-19T07:07:52.000Z"
+    },
     {
       "id": "n_1803c83341",
       "type": "news",
@@ -10,91 +87,36 @@
       "summary": "Die USA und Südkorea verkürzen ihre Militärübung zur Abwehr eines möglichen nordkoreanischen Angriffs. Eine offizielle Begründung gibt es nicht. US-Präsident Trump hatte zuletzt Nordkoreas Diktator Kim auffällig gelobt.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/asien/usa-suedkorea-verkuerzen-militaermanoever-100.html",
-      "publishedAt": "2026-08-19T06:01:30.000Z"
+      "publishedAt": "2026-08-19T06:56:37.000Z"
     },
     {
-      "id": "n_48b81d6593",
+      "id": "n_0a417b4f8a",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Prozess in Oakland: US-Staaten werfen Meta Gefährdung junger Nutzer vor",
-      "summary": "Der Meta-Konzern soll Kinder absichtlich an Facebook und Instagram gebunden haben - mit verheerenden Folgen, so der Vorwurf mehrerer US-Bundesstaaten. Im Prozess wurden nun die Eröffnungsplädoyers gehalten. Von Reinhard Spiegelhauer.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/meta-prozess-eroeffnungsplaedoyers-100.html",
-      "publishedAt": "2026-08-19T05:40:45.000Z"
+      "headline": "Linux 7.2 bringt umfangreiche Treiberupdates",
+      "summary": "Am Sonntag hat Linus Torvalds den Linux-Kernel 7.2 freigegeben. Im Entwicklungs-Endspurt gab es noch größere Änderungen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Linux-7-2-bringt-umfangreiche-Treiberupdates-11419043.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-19T09:12:00.000Z"
     },
     {
-      "id": "n_8196634634",
+      "id": "n_c5d6f26ca7",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Marktbericht: Noch hält die 26.000er-Marke im DAX",
-      "summary": "Die Sorgen von Investoren werden größer. Das liegt vor allem am US-Anleihenmarkt. Dort steigen die Renditen immer weiter. Das belastet vor allem Tech-Aktien.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-verluste-sorgen-anleihenmarkt-100.html",
-      "publishedAt": "2026-08-19T05:31:17.000Z"
-    },
-    {
-      "id": "n_d41ea72b10",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Gedenken an Zhu und Jiang: Erinnerung an ein etwas freieres China",
-      "summary": "China gedenkt seiner früheren Führer Zhu und Jiang. Die Staatsführung würdigt ihre Verdienste - dabei hatte sie einst gefürchtet, durch die Reformen ihrer Ära die Kontrolle zu verlieren. Von Jörg Endriss.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/china-beisetzung-zhu-zeitenwende-100.html",
-      "publishedAt": "2026-08-19T05:06:12.000Z"
-    },
-    {
-      "id": "n_9a45c983eb",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Unfall bei Kamen: A2 bis abends in beide Richtungen gesperrt",
-      "summary": "Ein Schwertransporter liegt auf der A2 bei Kamen quer. Er hatte einen Kran geladen, der jetzt die Gegenfahrbahn blockiert. In dem Bereich wurden deshalb bis auf Weiteres beide Richtungen voll gesperrt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-a2-bei-kamen-gesperrt-schwertransporter-mit-bagger-umgekippt-100.html",
-      "publishedAt": "2026-08-19T04:45:00.000Z"
-    },
-    {
-      "id": "n_66e589cfc6",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Waldbrand in Belgien weiter nicht unter Kontrolle - Hoffnung auf Regen",
-      "summary": "Einsatzkräfte versuchen weiter, den Waldbrand im Hohen Venn in Belgien unter Kontrolle zu bringen. Es gibt einen Lichtblick: mehr Regen. Noch könnten die aus Monschau in NRW evakuierten Bewohner aber nicht zurück.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/belgien-waldbrand-hohes-venn-102.html",
-      "publishedAt": "2026-08-19T04:40:29.000Z"
-    },
-    {
-      "id": "n_53a345ca21",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Fehlinvestitionen auch bei Kirchenbezirken, Pensionskassen und TÜV",
-      "summary": "Nicht nur Krankenkassen und Kassenärztliche Vereinigungen, sondern auch Kirchenbezirke, Pensionskassen und der TÜV verloren Millionen mit riskanten Immobilienfonds. Das zeigen neue Recherchen von NDR, WDR und SZ.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/investigativ/fehlinvestments-kirchen-sterbekassen-100.html",
-      "publishedAt": "2026-08-19T04:03:01.000Z"
-    },
-    {
-      "id": "n_37eda04221",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Migranten in Ceuta treten im Kampf um Asyl in Hungerstreik",
-      "summary": "Drei Wochen nach dem Massenandrang harren immer noch Hunderte Migranten am Strand in Ceuta aus - in Verschlägen aus Kartons und Plastikplanen. Mit einem Hungerstreik wollen sie nun auf ihre Situation aufmerksam machen. Von Franka Welz.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/ceuta-migranten-128.html",
-      "publishedAt": "2026-08-19T03:39:01.000Z"
+      "headline": "OpenAI vs. Anthropic: Umsatzwachstum vs. Umsatzverdoppelung, Verlust vs. Gewinn",
+      "summary": "Die Entwicklung von OpenAI und Anthropic koppelt sich wohl voneinander ab. Etwas mehr Umsatz und mehr Verlust stehen viel mehr Umsatz und Gewinn gegenüber.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/KI-OpenAI-waechst-bei-mehr-Verlust-Anthropic-waechst-schneller-und-macht-Gewinn-11418779.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-19T07:11:00.000Z"
     },
     {
       "id": "n_8daed91d08",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "USA: Meta wegen App-Nutzung durch Kinder erneut vor Gericht",
+      "headline": "Vorwürfe gegen Meta: Instagram und Facebook in der Kritik",
       "summary": "Mehrere US-Bundesstaaten werfen dem Meta-Konzern vor, Kinder absichtlich an Facebook und Instagram gebunden zu haben. Meta weist das zurück.",
       "source": "heise online",
       "url": "https://www.heise.de/news/USA-Meta-wegen-App-Nutzung-durch-Kinder-erneut-vor-Gericht-11418803.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
@@ -156,114 +178,125 @@
       "publishedAt": "2026-08-18T13:25:00.000Z"
     },
     {
-      "id": "n_494610d6c0",
+      "id": "n_564f0a6d48",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Weltraumteleskop Hubble: Weitere historische Kollision der Milchstraße entdeckt",
-      "summary": "Vor 11,8 Milliarden Jahren ist die Milchstraße mit einer Zwerggalaxie ähnlicher Größe kollidiert. Es ist nicht die erste, von der Überreste erhalten sind.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Weltraumteleskop-Hubble-Weitere-historische-Kollision-der-Milchstrasse-entdeckt-11416999.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-18T08:59:00.000Z"
-    },
-    {
-      "id": "n_84e06dee10",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Fürs KI-Training: Google kauft interne Daten der insolventen Spirit Airlines",
-      "summary": "Im Mai hat die US-Billigfluglinie Spirit ihren Betrieb eingestellt, jetzt läuft das Insolvenzverfahren. Für 10 Millionen US-Dollar kauft Google interne Inhalte.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Fuers-KI-Training-Google-kauft-interne-Daten-der-insolventen-Spirit-Airlines-11416749.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-18T05:12:00.000Z"
-    },
-    {
-      "id": "n_b4f2423c82",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Künstliche Intelligenz: OpenAI bremst Entwicklung nach Sicherheitsvorfall",
-      "summary": "OpenAI verlangsamt die Modellentwicklung nach einem Sicherheitsvorfall. Auch beim Umsatzwachstum hinkt das Unternehmen Anthropic hinterher. (OpenAI, Börse)",
+      "headline": "Erkennung von Einbrechern: Millionen von Routern werden zu Überwachungsgeräten",
+      "summary": "Einbrecher lassen sich anhand von WLAN-Signalen erkennen. In den USA wird ein entsprechendes Router-Feature jetzt großflächig ausgerollt. (WLAN, Netzwerk)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/kuenstliche-intelligenz-openai-bremst-entwicklung-nach-sicherheitsvorfall-2608-212070.html",
-      "publishedAt": "2026-08-19T06:15:01.000Z"
+      "url": "https://www.golem.de/news/erkennung-von-einbrechern-millionen-von-routern-werden-zu-ueberwachungsgeraeten-2608-212080.html",
+      "publishedAt": "2026-08-19T09:12:02.000Z"
     },
     {
-      "id": "n_04703a68f0",
+      "id": "n_6f5d62b4bb",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: KI im Pentesting: Schwachstellen finden, Resilienz sichern",
-      "summary": "Sicherheitstests binden viel Zeit, während Bedrohungen und regulatorische Anforderungen wachsen. Ein Workshop zeigt, wie KI-gestütztes Pentesting Prüfungen und Reports beschleunigt. (Golem Karrierewelt, Server-Applikationen)",
+      "headline": "Mit WSE-3 Turbo: Cerebras neues Rack-Scale-System hängt GPUs weiter ab",
+      "summary": "Mit komplett neuem Rack-System und überarbeitetem Chip in Wafer-Größe will Cerebras seinen Vorsprung bei KI-Inferenz weiter ausbauen. (KI, Prozessor)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-ki-im-pentesting-schwachstellen-finden-resilienz-sichern-2608-209586.html",
-      "publishedAt": "2026-08-19T05:15:01.000Z"
+      "url": "https://www.golem.de/news/mit-wse-3-turbo-cerebras-neues-rack-scale-system-haengt-gpus-weiter-ab-2608-212079.html",
+      "publishedAt": "2026-08-19T09:00:01.000Z"
     },
     {
-      "id": "n_51f3d31766",
+      "id": "n_ce2d5c61d2",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Mietverträge und Hardware: US-Konzerne verstecken KI-Ausgaben in Höhe von 3 Billionen US-Dollar",
-      "summary": "Kosten für Mietverträge von gigantischen Rechenzentren und Bestellungen für GPUs, TPUs und HBM-Speicher tauchen bei den US-Konzernen noch nicht auf. (KI, Google)",
+      "headline": "Werbung in ChatGPT: OpenAI startet Anzeigengeschäft Europa",
+      "summary": "In ChatGPT geschaltete Werbeanzeigen sollen weder die Antworten des Chatbots beeinflussen noch Werbekunden Zugriff auf Chatverläufe geben. (ChatGPT, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/mietvertraege-und-hardware-us-konzerne-verstecken-ki-ausgaben-in-hoehe-von-3-billionen-us-dollar-2608-212067.html",
-      "publishedAt": "2026-08-18T16:34:02.000Z"
+      "url": "https://www.golem.de/news/werbung-in-chatgpt-openai-startet-anzeigengeschaeft-europa-2608-212081.html",
+      "publishedAt": "2026-08-19T08:45:02.000Z"
     },
     {
-      "id": "n_12b612ada4",
+      "id": "n_b1786bc20c",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) Opinion: AI's Original Sin Is Written Into Its Training",
-      "summary": "Artificial intelligence models are trained not to lie to humans. Yet a funny thing is happening: AI has been lying to humans quite a bit. Von Parmy Olson (KI, Software)",
+      "headline": "Anzeige: Beliebtes Anker Nano 45-W-Ladegerät noch kurzzeitig wieder zum Amazon-Bestpreis knapp ...",
+      "summary": "Das Anker Nano-Ladegerät zum bisherigen Amazon-Bestpreis lädt iPhones mit 45 Watt, erkennt viele Modelle automatisch und schont den Akku. (Technik/Hardware, USB-C)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/opinion-ai-s-original-sin-is-written-into-its-training-2608-212056.html",
-      "publishedAt": "2026-08-18T16:00:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-beliebtes-anker-nano-45-w-ladegeraet-noch-kurzzeitig-wieder-zum-amazon-bestpreis-knapp-unter-28-euro-2608-212078.html",
+      "publishedAt": "2026-08-19T08:37:01.000Z"
     },
     {
-      "id": "n_1518f794a9",
+      "id": "n_844ec6d71b",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Bluetooth-Kopfhörer von EarFun jetzt zum Tiefstpreis bei Amazon",
-      "summary": "Die Bluetooth-Kopfhörer EarFun Air Pro 4 sind bei Amazon reduziert. Der Hersteller bietet sie über den Versandhändler wieder zum Tiefstpreis an. (Kopfhörer, Technik/Hardware)",
+      "headline": "Förderung von Elektroautos: Wie muss die Kaufprämie reformiert werden?",
+      "summary": "Geförderte Luxusautos und viele Fahrzeuge aus chinesischer Produktion: An den Modalitäten der Kaufprämie für E-Autos wächst die Kritik. Eine Analyse von Friedhelm Greis (Elektroauto, Politik)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-bluetooth-kopfhoerer-von-earfun-jetzt-zum-tiefstpreis-bei-amazon-2608-212066.html",
-      "publishedAt": "2026-08-18T15:35:02.000Z"
+      "url": "https://www.golem.de/news/foerderung-von-elektroautos-wie-muss-die-kaufpraemie-reformiert-werden-2608-212068.html",
+      "publishedAt": "2026-08-19T08:30:01.000Z"
     },
     {
-      "id": "n_1766aa86e4",
+      "id": "n_60ad4ed309",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: 2-in-1-Laptop günstig bei Amazon mitnehmen",
-      "summary": "Bei Amazon gibt es derzeit das HP Omnibook X Flip zum Sonderpreis im Angebot. Das Convertible ist mit sechs Prozent Rabatt erhältlich. (Convertible, Notebook)",
+      "headline": "SpaceX: Intaktes Starship wird nach 24 Tagen auf dem Meer geborgen",
+      "summary": "Ingenieure von SpaceX wollen sich das im indischen Ozean gelandete Starship genauer ansehen und eine Analyse direkt am Vehikel durchführen. (Raumfahrt, SpaceX)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-2-in-1-laptop-guenstig-bei-amazon-mitnehmen-2608-212064.html",
-      "publishedAt": "2026-08-18T14:53:01.000Z"
+      "url": "https://www.golem.de/news/spacex-intaktes-starship-wird-nach-24-tagen-auf-dem-meer-geborgen-2608-212077.html",
+      "publishedAt": "2026-08-19T08:06:01.000Z"
     },
     {
-      "id": "n_18a575141c",
+      "id": "n_0216a49fc0",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Kleine Atomreaktoren: SMR-Branche verliert Milliarden an Börsenwert",
-      "summary": "Investoren verlieren zunehmend das Vertrauen in Unternehmen, die kleine modulare Kernreaktoren entwickeln. (Atomkraft, Wirtschaft)",
+      "headline": "Megaprojekt Neom: The Line wird zum KI-Rechenzentrum",
+      "summary": "Nachdem immer mehr Einzelprojekte der 1.000 Milliarden Dollar teuren Investition gestoppt worden sind, soll nun auf Wirtschaftlichkeit geachtet werden. (The Line, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/kleine-atomreaktoren-smr-branche-verliert-milliarden-an-boersenwert-2608-212059.html",
-      "publishedAt": "2026-08-18T14:47:01.000Z"
+      "url": "https://www.golem.de/news/megaprojekt-neom-the-line-wird-zum-ki-rechenzentrum-2608-212076.html",
+      "publishedAt": "2026-08-19T07:38:02.000Z"
     },
     {
-      "id": "n_2ab3ae7e44",
+      "id": "n_436ec4a746",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Kabellose Powerbank mit USB-C für 27,98 Euro bei Amazon",
-      "summary": "Amazon hat eine Powerbank von Anker mit 10.000 mAh im Angebot, die Mobilgeräte kabellos oder über ein USB-C-Kabel auflädt. (Anker, Technik/Hardware)",
+      "headline": "Browser-Integration: Firefox 154 integriert Startpage als Suchoption",
+      "summary": "Mozilla integriert die datenschutzfreundliche Suchmaschine Startpage direkt in Firefox 154 für europäische Märkte. (Firefox, Browser)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-kabellose-powerbank-mit-usb-c-fuer-27-98-euro-bei-amazon-2608-212062.html",
-      "publishedAt": "2026-08-18T14:41:01.000Z"
+      "url": "https://www.golem.de/news/browser-integration-firefox-154-integriert-startpage-als-suchoption-2608-212075.html",
+      "publishedAt": "2026-08-19T07:10:02.000Z"
+    },
+    {
+      "id": "n_f53d7089c6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Sacked Ukrainian defence minister calls for presidential election",
+      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T09:02:08.000Z"
+    },
+    {
+      "id": "n_8645345fff",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
+      "summary": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T08:25:03.000Z"
+    },
+    {
+      "id": "n_7413336668",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Alleged sexual assault by local official and businessman sparks outrage in China",
+      "summary": "Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T07:21:51.000Z"
     },
     {
       "id": "n_fe307da7bf",
@@ -277,81 +310,48 @@
       "publishedAt": "2026-08-19T05:53:53.000Z"
     },
     {
-      "id": "n_f53d7089c6",
+      "id": "n_8f7f5fa7ee",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Sacked Ukrainian defence minister calls for presidential election",
-      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+      "headline": "Thai teen found in suitcase died from suffocation, police reveal",
+      "summary": "New evidence sheds more light on the death of Tunchanok Donholma, who was allegedly murdered in June.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T04:44:41.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c141605846jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T05:04:27.000Z"
+    },
+    {
+      "id": "n_0ab383d37d",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Families' agonising search for answers as thousands still missing in Gaza",
+      "summary": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T05:04:00.000Z"
+    },
+    {
+      "id": "n_657eda19b9",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "French civil servant drugged us to make us urinate on ourselves, say accusers",
+      "summary": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T05:00:39.000Z"
     },
     {
       "id": "n_6854b3ddf9",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Trump pauses new tariffs on Canada and says countries close to a deal",
-      "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
+      "headline": "Trump pauses new tariffs on Canada for three days, saying deal close",
+      "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T03:56:35.000Z"
-    },
-    {
-      "id": "n_3be946d4d2",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Five Australian rules footy players suspended amid police investigation",
-      "summary": "The suspensions, for drinking and inviting women to a hotel, come as police investigate an alleged sexual assault.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg4d7q2ne7go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T03:36:59.000Z"
-    },
-    {
-      "id": "n_c47111c525",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Iranian academic writes of US detention 'hell' over link to 1979 hostage crisis",
-      "summary": "The immigration status of Maryam Tahmasebi was revoked because her husband is the son of a prominent figure in Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgjeped6ewxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T03:12:06.000Z"
-    },
-    {
-      "id": "n_1312c5000a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Husband and mother-in-law charged over Indian bride's death",
-      "summary": "Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjej8nze1wko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T03:04:07.000Z"
-    },
-    {
-      "id": "n_e200c7e9cf",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'I don't want to send you to prison', witness tells Tupac accused in combative testimony",
-      "summary": "A member of Tupac Shakur's entourage said he was threatened with contempt of court if he did not testify in the murder trial of Duane \"Keffe D\" Davis.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg3j15v2npo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T03:00:35.000Z"
-    },
-    {
-      "id": "n_02501b5f50",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Harvard agrees to pay millions after morgue manager sold body parts",
-      "summary": "Harvard Medical School has agreed to pay $53 million to families who alleged the school mishandled the donated remains of loved ones.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0lyde9rvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T00:07:37.000Z"
     },
     {
       "id": "n_4997bc84cc",
@@ -871,6 +871,17 @@
       "publishedAt": "2026-08-10T20:00:00.000Z"
     },
     {
+      "id": "n_62cf25f54f",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+      "summary": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/flock-safety-os-investigate/",
+      "publishedAt": "2026-08-19T09:00:00.000Z"
+    },
+    {
       "id": "n_9d7c59a2ab",
       "type": "news",
       "topic": "ai",
@@ -946,17 +957,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
       "publishedAt": "2026-08-14T10:15:00.000Z"
-    },
-    {
-      "id": "n_9ff6f1b7d0",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The Safety Reckoning Inside OpenAI",
-      "summary": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-      "publishedAt": "2026-08-13T22:37:19.000Z"
     },
     {
       "id": "n_5ce8103476",
@@ -1093,6 +1093,150 @@
       "url": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
       "thumbnail": "https://i.ytimg.com/vi/ppQh4Tc9BmM/hqdefault.jpg",
       "publishedAt": "2026-08-05T13:54:29.000Z"
+    },
+    {
+      "id": "n_6a18d8c315",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
+      "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
+      "publishedAt": "2026-08-12T12:57:24.000Z"
+    },
+    {
+      "id": "n_49a7d5405f",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
+      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
+      "publishedAt": "2026-07-28T20:02:11.000Z"
+    },
+    {
+      "id": "n_39feb22ff6",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
+      "thumbnail": "https://i.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
+      "publishedAt": "2026-06-30T21:16:13.000Z"
+    },
+    {
+      "id": "n_6a7b36e7cd",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
+      "thumbnail": "https://i.ytimg.com/vi/1M3Vdl6DRkU/hqdefault.jpg",
+      "publishedAt": "2026-05-29T16:18:31.000Z"
+    },
+    {
+      "id": "n_fc0b0cbd09",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "This new startup can query anywhere you've been...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=E7la7-dtfVM",
+      "thumbnail": "https://i.ytimg.com/vi/E7la7-dtfVM/hqdefault.jpg",
+      "publishedAt": "2026-08-14T17:44:59.000Z"
+    },
+    {
+      "id": "n_ad1498d887",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Meta's new model wants \"deep access\" to your personal life...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=G55HSGpuh1M",
+      "thumbnail": "https://i.ytimg.com/vi/G55HSGpuh1M/hqdefault.jpg",
+      "publishedAt": "2026-08-12T18:29:41.000Z"
+    },
+    {
+      "id": "n_fb0984ce7d",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "I spent 3 days at MIT... the robot hype is worse than you think",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=aB5LGrHISqY",
+      "thumbnail": "https://i.ytimg.com/vi/aB5LGrHISqY/hqdefault.jpg",
+      "publishedAt": "2026-08-11T16:10:08.000Z"
+    },
+    {
+      "id": "n_cdc415b5c6",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The safest way to store Bitcoin was just hacked...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=2X2V3xv_jik",
+      "thumbnail": "https://i.ytimg.com/vi/2X2V3xv_jik/hqdefault.jpg",
+      "publishedAt": "2026-08-05T18:08:46.000Z"
+    },
+    {
+      "id": "n_d84c0c1d09",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Google Pixel 11/Pro/Fold Impressions: It Is What It Is",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=o4SSoURPODY",
+      "thumbnail": "https://i.ytimg.com/vi/o4SSoURPODY/hqdefault.jpg",
+      "publishedAt": "2026-08-12T14:00:35.000Z"
+    },
+    {
+      "id": "n_5f31592cac",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Galaxy Z Fold 8 Review: Honeymoon's Over",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=Z6z_feacXW8",
+      "thumbnail": "https://i.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg",
+      "publishedAt": "2026-08-01T00:05:00.000Z"
+    },
+    {
+      "id": "n_bf51349fdf",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Framework 13 Pro: The Modular Laptop is Real!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
+      "thumbnail": "https://i.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg",
+      "publishedAt": "2026-07-27T15:38:21.000Z"
+    },
+    {
+      "id": "n_64ebc2a7bf",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
+      "thumbnail": "https://i.ytimg.com/vi/8Hx2yvWSgs0/hqdefault.jpg",
+      "publishedAt": "2026-07-22T13:01:05.000Z"
     }
   ]
 }
