@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-20T00:30:49.884Z",
+  "generatedAt": "2026-08-20T03:36:22.304Z",
   "items": [
+    {
+      "id": "n_ca326f3965",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Massive russische Angriffe auf die ukrainische Hauptstadt Kiew",
+      "summary": "Russland hat die ukrainische Hauptstadt Kiew erneut massiv angegriffen. Mindestens drei Menschen wurden getötet, mehrere verletzt. Polen reagierte mit einer militärischen Luftoperationen zum Schutz seines Luftraums.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-kiew-100.html",
+      "publishedAt": "2026-08-20T03:08:49.000Z"
+    },
+    {
+      "id": "n_f9401fc2b5",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Fedorow fordert Wahlen in der Ukraine - während des Krieges",
+      "summary": "Wahlen mitten im Krieg? In der Ukraine galt das bislang als Tabu. Ex-Verteidigungsminister Fedorow hat diese Forderung nun offen in den Raum gestellt und damit eine Debatte angestoßen. Kritiker sehen dahinter ein Kalkül. Von Florian Kellermann.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-debatte-wahlen-100.html",
+      "publishedAt": "2026-08-20T03:05:04.000Z"
+    },
+    {
+      "id": "n_c364299f4f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ernährungssicherheit: Wie sinnvoll sind die Maßnahmen der Politik?",
+      "summary": "Braucht es Agrarsubventionen, um die Lebensmittelversorgung in Europa zu sichern? Eine neue Studie des NABU stellt ein zentrales Argument von Bundeslandwirtschaftsminister Rainer infrage. Von Eva Huber.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/ernaehrungssicherheit-landwirtschaft-100.html",
+      "publishedAt": "2026-08-20T03:04:50.000Z"
+    },
     {
       "id": "n_4c32e39c6a",
       "type": "news",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/merz-kritik-ben-gvir-100.html",
       "publishedAt": "2026-08-19T16:41:47.000Z"
-    },
-    {
-      "id": "n_8d4ac87b98",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Arbeiterwohlfahrt will Bündelung von Sozialleistungen",
-      "summary": "In der Diskussion um eine Reform des Sozialstaats hat die Arbeiterwohlfahrt eigene Vorschläge präsentiert. Unter anderem soll mit einem \"Erwerbsbooster\" die Armut verringert werden. Von Dagmar Pepping.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/sozialstaat-deutschland-100.html",
-      "publishedAt": "2026-08-19T16:40:30.000Z"
-    },
-    {
-      "id": "n_15909cf15c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Erkrankung des Bayern-Profis: Was steckt hinter Musialas Zusammenbrüchen?",
-      "summary": "Bayern-Profi Musiala bricht erneut zusammen, ist für mehrere Sekunden außer Gefecht gesetzt. Damit wird öffentlich über eine bisher weitgehend unbekannte Erkrankung gesprochen: Absencen. Was steckt dahinter? Von F. Wittig.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/absencen-epilepsie-wissenschaft-100.html",
-      "publishedAt": "2026-08-19T15:58:21.000Z"
-    },
-    {
-      "id": "n_32f180bc73",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Sieben weitere Gesundheitszonen in der DR Kongo von Ebola betroffen",
-      "summary": "In der DR Kongo melden sieben weitere Gesundheitszonen erste Ebola-Infektionen. Die Zahl der Infizierten und Toten im Land steigt weiter an. Viele Menschen können nicht behandelt werden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/ebola-kongo-neue-regionen-update-100.html",
-      "publishedAt": "2026-08-19T15:16:24.000Z"
     },
     {
       "id": "n_39330a7c8a",
@@ -266,15 +266,81 @@
       "publishedAt": "2026-08-19T14:02:02.000Z"
     },
     {
+      "id": "n_61c52ea5c1",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T03:22:57.000Z"
+    },
+    {
+      "id": "n_35560161c0",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Missing teen hiker found dead in Australian bush after eight-day search",
+      "summary": "Lily Hooper was reported missing on 12 August after failing to return from a hike in a Sydney national park.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T03:16:22.000Z"
+    },
+    {
+      "id": "n_088e31d8fd",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+      "summary": "Australia's foreign minister summoned the Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T03:12:07.000Z"
+    },
+    {
       "id": "n_2642b6ed2d",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Canada and US say they are finalising a trade deal, but details remain murky",
+      "headline": "Canada and US say they are finalising a trade deal",
       "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T00:18:01.000Z"
+      "publishedAt": "2026-08-20T03:10:48.000Z"
+    },
+    {
+      "id": "n_2c99652c82",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Former Liberian vice president charged in drug-trafficking probe",
+      "summary": "Jewel Howard-Taylor faces charges of illegally facilitating, importing and selling drugs, alongside money laundering.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T03:09:24.000Z"
+    },
+    {
+      "id": "n_c956a27fca",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Giant whales move into Greenland waters as ice disappears",
+      "summary": "Melting sea ice from climate change has opened up the region for giant whales to undertake 'feeding frenzies'.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T02:05:20.000Z"
+    },
+    {
+      "id": "n_3d02ce96b2",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Israel opens up bids for highly-sensitive West Bank settlement project",
+      "summary": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T00:53:20.000Z"
     },
     {
       "id": "n_dd468abe1d",
@@ -286,72 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T23:11:14.000Z"
-    },
-    {
-      "id": "n_088e31d8fd",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
-      "summary": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T22:55:37.000Z"
-    },
-    {
-      "id": "n_96f51d25cd",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "summary": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T21:32:15.000Z"
-    },
-    {
-      "id": "n_f53d7089c6",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Sacked Ukrainian defence minister calls for presidential election",
-      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T20:34:39.000Z"
-    },
-    {
-      "id": "n_94c380ffc4",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "81-year-old confesses to German cold case murder of US tourist in 1994",
-      "summary": "Amy Lopez from Texas was last seen alive in September 1994 while on a visit to a fortress in Koblenz.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T18:26:21.000Z"
-    },
-    {
-      "id": "n_a0e824c0fe",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-      "summary": "BBC Verify looks at footage from two deadly strikes in under 24 hours in Gaza.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T17:46:01.000Z"
-    },
-    {
-      "id": "n_fe307da7bf",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "South Korea shortens war games with US, citing Washington request",
-      "summary": "It comes after Trump announced plans to curtail joint military exercises with South Korea, citing a \"very good\" relationship with North Korea's Kim Jong Un.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T17:39:49.000Z"
     },
     {
       "id": "n_be1ff494cd",
@@ -442,6 +442,17 @@
       "publishedAt": "2026-08-18T09:26:41.000Z"
     },
     {
+      "id": "n_2bb7ef0354",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "NASA calls off mission to rescue Swift gamma-ray observatory",
+      "summary": "Without a rescue, NASA's Swift Observatory is expected to reenter the atmosphere later this year.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
+      "publishedAt": "2026-08-20T00:18:48.000Z"
+    },
+    {
       "id": "n_038ae9e970",
       "type": "news",
       "topic": "tech",
@@ -517,17 +528,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/",
       "publishedAt": "2026-08-19T16:53:56.000Z"
-    },
-    {
-      "id": "n_cf70bce2fb",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Google Pixel 11 series review: Is the magic fading?",
-      "summary": "Google's new Pixels make some compromises but still manage to be good phones.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
-      "publishedAt": "2026-08-19T16:11:30.000Z"
     },
     {
       "id": "n_a5a7e6076f",
@@ -1047,54 +1047,6 @@
       "publishedAt": "2026-08-12T16:14:36.000Z"
     },
     {
-      "id": "n_22acc98b43",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek Just Made Closed AI Look Ridiculous",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=kyYepbhe1g8",
-      "thumbnail": "https://i.ytimg.com/vi/kyYepbhe1g8/hqdefault.jpg",
-      "publishedAt": "2026-08-19T18:02:46.000Z"
-    },
-    {
-      "id": "n_5ac4def88e",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude AI Failed 650 Times…Then Beat The Human Record",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
-      "thumbnail": "https://i.ytimg.com/vi/QnGNF8k_uoc/hqdefault.jpg",
-      "publishedAt": "2026-08-14T08:42:07.000Z"
-    },
-    {
-      "id": "n_611562df74",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI’s AI Agents Just Crossed A Line",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
-      "thumbnail": "https://i.ytimg.com/vi/JQ97GiDwPxc/hqdefault.jpg",
-      "publishedAt": "2026-08-11T15:35:35.000Z"
-    },
-    {
-      "id": "n_a6ebe1d55c",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepMind Just Changed How AI Sees The World",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
-      "thumbnail": "https://i.ytimg.com/vi/vO6SWG-jxvE/hqdefault.jpg",
-      "publishedAt": "2026-08-07T08:22:00.000Z"
-    },
-    {
       "id": "n_6a18d8c315",
       "type": "video",
       "topic": "video",
@@ -1141,102 +1093,6 @@
       "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
       "thumbnail": "https://i.ytimg.com/vi/1M3Vdl6DRkU/hqdefault.jpg",
       "publishedAt": "2026-05-29T16:18:31.000Z"
-    },
-    {
-      "id": "n_77fd367f31",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The summer Math fell to the machines...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=iuZPTE5qsJY",
-      "thumbnail": "https://i.ytimg.com/vi/iuZPTE5qsJY/hqdefault.jpg",
-      "publishedAt": "2026-08-19T18:45:57.000Z"
-    },
-    {
-      "id": "n_fc0b0cbd09",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "This new startup can query anywhere you've been...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=E7la7-dtfVM",
-      "thumbnail": "https://i.ytimg.com/vi/E7la7-dtfVM/hqdefault.jpg",
-      "publishedAt": "2026-08-14T17:44:59.000Z"
-    },
-    {
-      "id": "n_ad1498d887",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Meta's new model wants \"deep access\" to your personal life...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=G55HSGpuh1M",
-      "thumbnail": "https://i.ytimg.com/vi/G55HSGpuh1M/hqdefault.jpg",
-      "publishedAt": "2026-08-12T18:29:41.000Z"
-    },
-    {
-      "id": "n_fb0984ce7d",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "I spent 3 days at MIT... the robot hype is worse than you think",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=aB5LGrHISqY",
-      "thumbnail": "https://i.ytimg.com/vi/aB5LGrHISqY/hqdefault.jpg",
-      "publishedAt": "2026-08-11T16:10:08.000Z"
-    },
-    {
-      "id": "n_d84c0c1d09",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Google Pixel 11/Pro/Fold Impressions: It Is What It Is",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=o4SSoURPODY",
-      "thumbnail": "https://i.ytimg.com/vi/o4SSoURPODY/hqdefault.jpg",
-      "publishedAt": "2026-08-12T14:00:35.000Z"
-    },
-    {
-      "id": "n_5f31592cac",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Galaxy Z Fold 8 Review: Honeymoon's Over",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=Z6z_feacXW8",
-      "thumbnail": "https://i.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg",
-      "publishedAt": "2026-08-01T00:05:00.000Z"
-    },
-    {
-      "id": "n_bf51349fdf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Framework 13 Pro: The Modular Laptop is Real!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
-      "thumbnail": "https://i.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg",
-      "publishedAt": "2026-07-27T15:38:21.000Z"
-    },
-    {
-      "id": "n_64ebc2a7bf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
-      "thumbnail": "https://i.ytimg.com/vi/8Hx2yvWSgs0/hqdefault.jpg",
-      "publishedAt": "2026-07-22T13:01:05.000Z"
     }
   ]
 }
