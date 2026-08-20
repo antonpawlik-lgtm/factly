@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T21:14:38.009Z",
+  "generatedAt": "2026-08-20T00:30:49.884Z",
   "items": [
     {
       "id": "n_4c32e39c6a",
@@ -266,6 +266,39 @@
       "publishedAt": "2026-08-19T14:02:02.000Z"
     },
     {
+      "id": "n_2642b6ed2d",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Canada and US say they are finalising a trade deal, but details remain murky",
+      "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T00:18:01.000Z"
+    },
+    {
+      "id": "n_dd468abe1d",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Who is Natalie Harp, Trump's right-hand woman?",
+      "summary": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T23:11:14.000Z"
+    },
+    {
+      "id": "n_088e31d8fd",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+      "summary": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T22:55:37.000Z"
+    },
+    {
       "id": "n_96f51d25cd",
       "type": "news",
       "topic": "general",
@@ -274,7 +307,7 @@
       "summary": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T20:34:41.000Z"
+      "publishedAt": "2026-08-19T21:32:15.000Z"
     },
     {
       "id": "n_f53d7089c6",
@@ -286,28 +319,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T20:34:39.000Z"
-    },
-    {
-      "id": "n_2642b6ed2d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Canada and US say they are finalising a trade deal, but details remain murky",
-      "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T19:59:14.000Z"
-    },
-    {
-      "id": "n_dd468abe1d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Who is Natalie Harp, Trump's right-hand woman?",
-      "summary": "One of Trump's longest serving and most loyal aides, Harp was thrust again into the spotlight when Democrat Jon Ossoff noted her closeness to the president.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T19:02:41.000Z"
     },
     {
       "id": "n_94c380ffc4",
@@ -341,17 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T17:39:49.000Z"
-    },
-    {
-      "id": "n_3d02ce96b2",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Israel opens up bids for highly-sensitive West Bank settlement project",
-      "summary": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T17:16:28.000Z"
     },
     {
       "id": "n_be1ff494cd",
@@ -442,6 +442,17 @@
       "publishedAt": "2026-08-18T09:26:41.000Z"
     },
     {
+      "id": "n_038ae9e970",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
+      "summary": "US residents face trade-offs as delivery drone services such as Prime Air expand.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
+      "publishedAt": "2026-08-19T22:02:38.000Z"
+    },
+    {
       "id": "n_9c41596179",
       "type": "news",
       "topic": "tech",
@@ -519,15 +530,37 @@
       "publishedAt": "2026-08-19T16:11:30.000Z"
     },
     {
-      "id": "n_b39ae874fb",
+      "id": "n_a5a7e6076f",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Scientists find closest star to the Milky Way's central black hole",
-      "summary": "Star, moving at 8% the speed of light, may let us measure the black hole's rotation.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/08/scientists-find-closest-star-to-the-milky-ways-central-black-hole/",
-      "publishedAt": "2026-08-19T15:56:56.000Z"
+      "headline": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "publishedAt": "2026-08-19T23:32:00.000Z"
+    },
+    {
+      "id": "n_36c53ad4b6",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "publishedAt": "2026-08-19T22:10:46.000Z"
+    },
+    {
+      "id": "n_c83af89f9f",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "publishedAt": "2026-08-19T21:51:23.000Z"
     },
     {
       "id": "n_78d8316069",
@@ -583,39 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
       "publishedAt": "2026-08-19T15:44:53.000Z"
-    },
-    {
-      "id": "n_21c2455c8e",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-      "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-      "publishedAt": "2026-08-19T15:00:00.000Z"
-    },
-    {
-      "id": "n_43c97a629e",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Calendly throws its hat into meeting note-taker circus",
-      "summary": "Calendly is also releasing a meeting scheduling assistant called Callie.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
-      "publishedAt": "2026-08-19T14:09:39.000Z"
-    },
-    {
-      "id": "n_30d3d7085f",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
-      "summary": "It's the data, stupid.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-      "publishedAt": "2026-08-19T12:00:00.000Z"
     },
     {
       "id": "n_336770ff41",
