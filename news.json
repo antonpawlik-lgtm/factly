@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-20T21:16:29.747Z",
+  "generatedAt": "2026-08-21T00:33:46.069Z",
   "items": [
+    {
+      "id": "n_d6fcab82a3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Erdbeben erschüttert Andenregion in Peru",
+      "summary": "Erst vor zehn Tagen hatte ein starkes Erdbeben den Westen Kolumbiens erschüttert. Nun hat es Peru getroffen. Die Auswirkungen sind auch in der Hauptstadt Lima zu spüren. Berichte über Tote gibt es bisher nicht.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/erdbeben-peru-104.html",
+      "publishedAt": "2026-08-21T00:30:43.000Z"
+    },
     {
       "id": "n_657ea2733b",
       "type": "news",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nikkei-staatsverschuldung-100.html",
       "publishedAt": "2026-08-20T17:04:25.000Z"
-    },
-    {
-      "id": "n_b434208665",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "West-Nil-Virus: 157 Fälle in Griechenland gemeldet",
-      "summary": "Dutzende Menschen haben sich in Südeuropa in den vergangenen Wochen mit dem West-Nil-Virus infiziert. In Griechenland hat sich die Zahl seit Ende Juli vervierfacht, seit Jahresbeginn starben dort 13 Menschen nach einer Infektion.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/griechenland-infektionen-100.html",
-      "publishedAt": "2026-08-20T16:49:58.000Z"
     },
     {
       "id": "n_d4148a578f",
@@ -266,6 +266,61 @@
       "publishedAt": "2026-08-20T12:59:02.000Z"
     },
     {
+      "id": "n_2cd478a755",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Why Nigeria's one-time political giant may face extinction",
+      "summary": "Once a giant of African politics, the PDP is in danger of being wiped out after January's elections.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T23:21:22.000Z"
+    },
+    {
+      "id": "n_7bad4a1985",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "How much could Trump's 'economic D-Day' hurt Iran?",
+      "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T23:16:45.000Z"
+    },
+    {
+      "id": "n_8fa036f595",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+      "summary": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, according to his party.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T22:43:42.000Z"
+    },
+    {
+      "id": "n_0582391aa0",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump wants to be friends with Kim - but South Korea could pay the price",
+      "summary": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T22:01:26.000Z"
+    },
+    {
+      "id": "n_f29c7e3763",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "FBI arrests woman over alleged plot to bomb New York capitol building",
+      "summary": "Prosecutors say the Albany woman had pledged allegiance to the Islamic State group, and wanted to bomb the statehouse to kill lawmakers.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T21:03:30.000Z"
+    },
+    {
       "id": "n_5270533fc2",
       "type": "news",
       "topic": "general",
@@ -275,17 +330,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-20T20:41:31.000Z"
-    },
-    {
-      "id": "n_8fa036f595",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
-      "summary": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, local media report.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T20:40:17.000Z"
     },
     {
       "id": "n_7e1d630fe6",
@@ -310,48 +354,15 @@
       "publishedAt": "2026-08-20T20:08:29.000Z"
     },
     {
-      "id": "n_910d737212",
+      "id": "n_8c3d837448",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-      "summary": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
+      "headline": "How landscape gardening is being electrified",
+      "summary": "The switch to quieter electric equipment is not going as fast as some would like.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T19:52:48.000Z"
-    },
-    {
-      "id": "n_e28573af70",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-      "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T18:55:14.000Z"
-    },
-    {
-      "id": "n_cedf7f5c01",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-      "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T17:14:55.000Z"
-    },
-    {
-      "id": "n_b0e5cd247d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Watch: What does Harry's return mean for his fractured relationship with William?",
-      "summary": "The brothers have had a fractured relationship for a number of years.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T16:54:51.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T23:12:38.000Z"
     },
     {
       "id": "n_aa51624274",
@@ -431,15 +442,37 @@
       "publishedAt": "2026-08-18T22:11:07.000Z"
     },
     {
-      "id": "n_d04585d09c",
+      "id": "n_b7e65a5154",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Tech Life",
-      "summary": "Vapour trails from aircraft contribute to warming in the atmosphere.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jy9?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-18T20:00:00.000Z"
+      "headline": "US distributor of China’s most popular humanoid robots pivots after US ban",
+      "summary": "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
+      "publishedAt": "2026-08-20T22:00:11.000Z"
+    },
+    {
+      "id": "n_6a6c4f1575",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Europe cancels planned upgrades for Ariane 6 rocket",
+      "summary": "Arianespace hasn’t publicly disclosed the cost for an Ariane 6 launch.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
+      "publishedAt": "2026-08-20T21:40:52.000Z"
+    },
+    {
+      "id": "n_4f853a8a60",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "They survived 9/11; 25 years later, their bonds remain unbroken",
+      "summary": "Survivors reconnect with those who saved them in National Geographic's 9/11: Reunited.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/",
+      "publishedAt": "2026-08-20T21:25:25.000Z"
     },
     {
       "id": "n_9d8f56e4dc",
@@ -497,45 +530,45 @@
       "publishedAt": "2026-08-20T13:00:35.000Z"
     },
     {
-      "id": "n_2bb7ef0354",
+      "id": "n_35f97ccf87",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "NASA calls off mission to rescue Swift gamma-ray observatory",
-      "summary": "Without a rescue, NASA's Swift Observatory is expected to reenter the atmosphere later this year.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
-      "publishedAt": "2026-08-20T00:18:48.000Z"
+      "headline": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "publishedAt": "2026-08-21T00:13:44.000Z"
     },
     {
-      "id": "n_038ae9e970",
+      "id": "n_e1438dc5cd",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
-      "summary": "US residents face trade-offs as delivery drone services such as Prime Air expand.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
-      "publishedAt": "2026-08-19T22:02:38.000Z"
+      "headline": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "publishedAt": "2026-08-20T22:36:37.000Z"
     },
     {
-      "id": "n_9c41596179",
+      "id": "n_f9af7db8ab",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
-      "summary": "Framework says it's replacing some out-of-warranty AMD mainboards.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
-      "publishedAt": "2026-08-19T20:21:59.000Z"
+      "headline": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "publishedAt": "2026-08-20T22:09:51.000Z"
     },
     {
       "id": "n_1eb80258f5",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Ok, can we actually cool data centers with our pee?",
-      "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- his suggestion is not completely ludicrous.",
+      "headline": "OK, can we actually cool data centers with our pee?",
+      "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
       "publishedAt": "2026-08-20T20:53:13.000Z"
@@ -585,37 +618,15 @@
       "publishedAt": "2026-08-20T17:32:16.000Z"
     },
     {
-      "id": "n_8b7a6ac6a0",
+      "id": "n_abea01bdfe",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
-      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-      "publishedAt": "2026-08-20T17:18:58.000Z"
-    },
-    {
-      "id": "n_cb6503028d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Ramp launches its own AI model router, called Router",
-      "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-      "publishedAt": "2026-08-20T16:46:00.000Z"
-    },
-    {
-      "id": "n_a80433f1fe",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-      "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-      "publishedAt": "2026-08-20T16:07:26.000Z"
+      "headline": "Google Discover is getting an AI chatbot-tuned feed",
+      "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the opti",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "publishedAt": "2026-08-20T21:50:22.000Z"
     },
     {
       "id": "n_d7ef297558",
@@ -623,7 +634,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "It’s Greg Brockman’s OpenAI now",
-      "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepa",
+      "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepar",
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
       "publishedAt": "2026-08-20T15:45:55.000Z"
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
       "publishedAt": "2026-08-19T12:00:00.000Z"
-    },
-    {
-      "id": "n_9dffd5e77e",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-      "publishedAt": "2026-08-18T19:48:26.000Z"
     },
     {
       "id": "n_e2f95ae810",
