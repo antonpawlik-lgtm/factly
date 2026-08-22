@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-08-22T15:08:48.135Z",
+  "generatedAt": "2026-08-22T18:12:06.795Z",
   "items": [
+    {
+      "id": "n_47bba2a8ef",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wie Künstliche Intelligenz die Justiz ausbremst",
+      "summary": "Vor allem die Sozialgerichte erleben das Phänomen: Immer mehr Kläger nutzen offenbar Künstliche Intelligenz, um Eingaben zu formulieren. Für die Justiz bedeutet das viel Arbeit mit teils unsinnigen Schriftsätzen. Von T. Denzel.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/kuenstliche-intelligenz-justiz-100.html",
+      "publishedAt": "2026-08-22T17:59:00.000Z"
+    },
+    {
+      "id": "n_1b7448ec5d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Handelsgespräche gescheitert - USA verhängen neue Zölle gegen Kanada",
+      "summary": "Die Verhandlungen über ein Handelsabkommen zwischen den USA und Kanada sind gescheitert. Washington setzte daraufhin weitere Zölle in Kraft. Die Reaktion des Nachbarn fällt hart aus: Regierungschef Carney spricht von Vergeltung.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-handelsstreit-zoelle-100.html",
+      "publishedAt": "2026-08-22T17:04:55.000Z"
+    },
+    {
+      "id": "n_e6997e17ab",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wadephul verspricht der Ukraine weitere humanitäre Hilfe",
+      "summary": "Bei seinem Besuch in der Hauptstadt Kiew hat Bundesaußenminister Wadephul der Ukraine weitere 50 Millionen Euro an humanitärer Hilfe zugesagt. Die anhaltenden russischen Angriffe auf das Land nannte er einen \"wahllosen Mord an Zivilisten\".",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-106.html",
+      "publishedAt": "2026-08-22T16:25:33.000Z"
+    },
+    {
+      "id": "n_6681943ff3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Aldi gegen Lidl: Discounter-Zoff um den günstigsten Preis",
+      "summary": "Die deutschen Discounter liefern sich einen Preiskampf. Aldi setzt auf den besten Preis für alle - ganz ohne Bonus-App. Lidl kontert digital. Wer hat die bessere Strategie? Von Anke Heinhaus.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/aldi-lidl-discounter-wettbewerb-100.html",
+      "publishedAt": "2026-08-22T15:09:13.000Z"
+    },
     {
       "id": "n_5e0758e94c",
       "type": "news",
@@ -44,50 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-100.html",
       "publishedAt": "2026-08-22T12:19:28.000Z"
-    },
-    {
-      "id": "n_b5eb665d22",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Kanzler Merz besucht Waldbrandgebiet in NRW",
-      "summary": "Sommerpause, Urlaub, terminfreie Zeit: Für die Abwesenheit von Kanzler Merz gibt es viele Begriffe. Doch nun ist er wieder da - im Waldbrandgebiet in NRW. Dort ist das Feuer gelöscht, für die Brandherde des Kanzlers gilt das nicht.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/merz-waldbrand-besuch-100.html",
-      "publishedAt": "2026-08-22T12:12:54.000Z"
-    },
-    {
-      "id": "n_b9894f26c5",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Klingbeil macht Vorstoß für Übergewinnsteuer bei Ölkonzernen",
-      "summary": "Während die Spritpreise im Zuge des Iran-Kriegs stark gestiegen sind, machen Ölkonzerne höhere Gewinne. Finanzminister Klingbeil will diese deshalb zur Kasse bitten und fordert - zusammen mit anderen EU-Staaten - eine Übergewinnsteuer.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/uebergewinnsteuer-klingbeil-eu-100.html",
-      "publishedAt": "2026-08-22T12:10:42.000Z"
-    },
-    {
-      "id": "n_70bd9d4c5e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Langlebigkeit - Hype oder wissenschaftlich belegbar?",
-      "summary": "Wie kann es gelingen, möglichst gesund alt zu werden? Ist Longevity nur ein Hype oder gibt es wissenschaftliche Fakten? Ein Kongress im September will informieren. Initiator Kluge rät im Interview zur Vorsicht.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/gesundheit/longevity-langlebigkeit-supplements-nahrungsergaenzung-100.html",
-      "publishedAt": "2026-08-22T11:35:22.000Z"
-    },
-    {
-      "id": "n_2608c34571",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Trauer und Fassungslosigkeit nach Schwertangriff in Schweden",
-      "summary": "Der Angriff an einer Schule schockiert Schweden. Ein 18-Jähriger hatte gestern mit einem Schwert eine Schülerin getötet und mehrere verletzt. Der Täter soll frühere Schulmassaker verherrlicht haben. Von Christian Stichler.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/schweden-fagersta-schwertangriff-100.html",
-      "publishedAt": "2026-08-22T11:23:43.000Z"
     },
     {
       "id": "n_beb433fac0",
@@ -266,26 +266,59 @@
       "publishedAt": "2026-08-22T08:30:02.000Z"
     },
     {
-      "id": "n_47b46dfdfc",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
-      "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T14:35:11.000Z"
-    },
-    {
       "id": "n_e07785f45b",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Watch: Moment robot attempts to beat Usain Bolt's 100m record",
-      "summary": "An android at China's World Humanoid Robot Games ran faster than Bolt's world record, smartphone maker Honor says.",
+      "headline": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+      "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T14:10:05.000Z"
+      "publishedAt": "2026-08-22T17:02:06.000Z"
+    },
+    {
+      "id": "n_524958d33a",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US military newspaper editor voices censorship fears after being fired",
+      "summary": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T16:57:19.000Z"
+    },
+    {
+      "id": "n_f4c36d47d3",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T16:45:02.000Z"
+    },
+    {
+      "id": "n_5fd4de93df",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Carney faces crucial test after walking away from Trump's deal",
+      "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T16:20:51.000Z"
+    },
+    {
+      "id": "n_47b46dfdfc",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+      "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T14:35:11.000Z"
     },
     {
       "id": "n_347841731a",
@@ -310,17 +343,6 @@
       "publishedAt": "2026-08-22T13:13:16.000Z"
     },
     {
-      "id": "n_1ba93b1032",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-      "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T12:20:46.000Z"
-    },
-    {
       "id": "n_926c138da4",
       "type": "news",
       "topic": "general",
@@ -330,28 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-22T10:01:18.000Z"
-    },
-    {
-      "id": "n_ab57fdba55",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Sydney Marathon medal mistakenly depicts Munich stadium",
-      "summary": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T07:53:57.000Z"
-    },
-    {
-      "id": "n_424fbe8bb8",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
-      "summary": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T03:43:26.000Z"
     },
     {
       "id": "n_4f4a8c529b",
@@ -530,6 +530,28 @@
       "publishedAt": "2026-08-21T18:07:15.000Z"
     },
     {
+      "id": "n_ceb77d2acd",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI says California should strengthen its AI safety bill",
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "publishedAt": "2026-08-22T16:30:34.000Z"
+    },
+    {
+      "id": "n_32aab1e028",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "publishedAt": "2026-08-22T16:00:00.000Z"
+    },
+    {
       "id": "n_5a859cda51",
       "type": "news",
       "topic": "ai",
@@ -594,28 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
       "publishedAt": "2026-08-21T00:13:44.000Z"
-    },
-    {
-      "id": "n_e1438dc5cd",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "publishedAt": "2026-08-20T22:36:37.000Z"
-    },
-    {
-      "id": "n_f9af7db8ab",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "publishedAt": "2026-08-20T22:09:51.000Z"
     },
     {
       "id": "n_016ca72fa4",
