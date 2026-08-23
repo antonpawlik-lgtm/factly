@@ -1,16 +1,71 @@
 {
-  "generatedAt": "2026-08-23T09:15:50.494Z",
+  "generatedAt": "2026-08-23T15:09:55.488Z",
   "items": [
     {
-      "id": "n_36697f62db",
+      "id": "n_3c91728298",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Eisenbahngewerkschaft EVG droht mit Blockade im Regionalverkehr",
-      "summary": "Seit dem tödlichen Angriff auf einen Zugbegleiter in Rheinland-Pfalz Anfang Februar werden Maßnahmen für mehr Sicherheit diskutiert. Die Eisenbahngewerkschaft EVG fordert Ergebnisse - und droht mit einer Blockade der Dienstpläne.",
+      "headline": "Außenminister Wadephul lobt den Widerstandswillen Charkiws",
+      "summary": "Das ukrainische Charkiw liegt nur rund 30 Kilometer von der Front entfernt - häufig steht sie unter russischem Beschuss. Dennoch besuchte Außenminister Wadephul die Millionenstadt. Dabei würdigte er den Widerstandswillen der Bewohner.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/evg-droht-mit-streiks-im-regionalverkehr-100.html",
-      "publishedAt": "2026-08-23T09:10:10.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-108.html",
+      "publishedAt": "2026-08-23T14:21:56.000Z"
+    },
+    {
+      "id": "n_bb5abd5508",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wie die Urlaubserholung zurück im Job möglichst lange anhält",
+      "summary": "Der Urlaub ist um, die Erholung weicht dem Alltagsstress. Doch muss das sein? Wie lässt sich das Urlaubsgefühl in den Alltag hinüberretten - zumindest eine Zeit lang? Von Laura Lippert.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/urlaub-erholung-arbeitsalltag-100.html",
+      "publishedAt": "2026-08-23T13:52:16.000Z"
+    },
+    {
+      "id": "n_07dda1cbe6",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Präsidentenwahl: \"Schlimmste Krise in Kosovo seit dem Krieg\"",
+      "summary": "Der Kosovo erlebt eine beispiellose Verfassungskrise. Auch nach drei Wahlen in kurzer Folge hat sich das Parlament nicht auf einen neuen Präsidenten verständigen können. Ein Ausweg ist nicht absehbar. Von S. Hahne.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/kosovo-suche-neuer-staatspraesident-100.html",
+      "publishedAt": "2026-08-23T13:40:30.000Z"
+    },
+    {
+      "id": "n_1de542acb5",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Rhein-Fähren fahren wieder - Binnenschiffe haben weiter Probleme",
+      "summary": "Die Hitzewelle hat Deutschlands Flüssen erheblich zugesetzt. Auf dem Rhein läuft nun zumindest der Fährbetrieb wieder an. Bis sich die Lage für die großen Binnenschiffe normalisiert, dürfte es aber noch Wochen dauern.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/niedrigwasser-schifffahrt-rhein-100.html",
+      "publishedAt": "2026-08-23T12:51:05.000Z"
+    },
+    {
+      "id": "n_66162720b0",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Selenskyj rechnet mit Mobilisierung Hunderttausender russischer Soldaten",
+      "summary": "Lange hatte Kremlchef Putin zu den ukrainischen Angriffen auf Raffinerien und Logistikzentren geschwiegen - nun droht er mit einer harten Antwort. Die Ukraine geht davon aus, dass Moskau bald Hunderttausende Soldaten mobilisieren will.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-selenskyj-lage-100.html",
+      "publishedAt": "2026-08-23T12:22:33.000Z"
+    },
+    {
+      "id": "n_b6deb54f3e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Sydney-Marathon-Medaille zeigt versehentlich Münchner Allianz Arena",
+      "summary": "Beim Sydney-Marathon dürfen sich die Teilnehmer auf eine ganz besondere Medaille freuen: Darauf sind Sehenswürdigkeiten Sydneys zu sehen - und die Münchner Allianz Arena. Ein \"unglücklicher Fehler\", so der Veranstalter.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/sydney-marathon-allianz-100.html",
+      "publishedAt": "2026-08-23T11:54:24.000Z"
     },
     {
       "id": "n_18a0a6527d",
@@ -21,73 +76,18 @@
       "summary": "Lange galt sie hierzulande als Exotin, doch mittlerweile hat sich die Gottesanbeterin sprunghaft verbreitet - eine Folge des Klimawandels. Vor allem in zwei Regionen Deutschlands ist das Insekt zu finden.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wissen/gottesanbeterin-ausbreitung-erderwaermung-100.html",
-      "publishedAt": "2026-08-23T08:28:46.000Z"
+      "publishedAt": "2026-08-23T11:31:55.000Z"
     },
     {
-      "id": "n_42202a879d",
+      "id": "n_ce375a6fd2",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
-      "summary": "Die Zoll-Gespräche zwischen den USA und Kanada sind gescheitert - jetzt treten neue US-Zölle in Kraft. Ein neuer \"Handelskrieg\" droht, denn Kanada will mit Gegenzöllen antworten. Beide Seiten geben sich gegenseitig die Schuld.",
+      "headline": "Linnemann gegen Rentenkürzungen für pflegende Angehörige",
+      "summary": "Wer seine Angehörigen pflegt, soll künftig weniger Rente als bisher bekommen - das sehen die Sparpläne der Bundesregierung vor. Nun hat der neue Gesundheitsminister Linnemann angekündigt, diesen Punkt korrigieren zu wollen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html",
-      "publishedAt": "2026-08-23T07:19:06.000Z"
-    },
-    {
-      "id": "n_85b6e69171",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Krieg gegen die Ukraine: Urlaub unter Beschuss an Russlands Küste",
-      "summary": "Es ist Sommer, und die Menschen in Russland zieht es an die Strände der Schwarzmeerküste. Doch dort gibt es zunehmend Luftalarm - und so zeigt sich der Krieg gegen die Ukraine den Russen auch im Urlaub. Von Silke Diettrich.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/russland-urlaub-krieg-100.html",
-      "publishedAt": "2026-08-23T07:02:36.000Z"
-    },
-    {
-      "id": "n_2f19f4aea9",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Tote und Entführte bei Angriff auf Dorf in Nigeria",
-      "summary": "In Nigeria haben Islamisten ein Dorf überfallen. Dutzende Menschen wurden getötet oder entführt - wie viele genau, ist unklar. Hinter dem Angriff steckt offenbar ein Ableger der Terrorgruppe \"Islamischer Staat\".",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/nigeria-angriff-102.html",
-      "publishedAt": "2026-08-23T06:17:34.000Z"
-    },
-    {
-      "id": "n_a255611692",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Schildkröten in Mexiko: Vom gefundenen Fressen zum Touri-Highlight",
-      "summary": "Einst vor allem bei Wilderern berühmt, hat sich ein kleiner Strand im mexikanischen Bundesstaat Oaxaca mittlerweile zum Paradies für Ökotourismus gewandelt. Die Stars sind Meeresschildkröten. Von Christina Fee Moebus.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/schildkroeten-in-mexiko-touristenhit-100.html",
-      "publishedAt": "2026-08-23T04:37:22.000Z"
-    },
-    {
-      "id": "n_afacbaea1c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Kasachstan wählt neues Parlament",
-      "summary": "2019 beerbte der kasachische Präsident Tokajew den Langzeitherrscher Nasarbajew. Doch Hoffnungen auf demokratische Veränderungen bleiben unerfüllt. Heute wird ein neues Parlament gewählt - nach umfassenden Verfassungsänderungen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/parlamentswahl-in-kasachstan-100.html",
-      "publishedAt": "2026-08-23T03:03:07.000Z"
-    },
-    {
-      "id": "n_0d0e98fb95",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Merz will Reformbeschlüsse so schnell wie möglich umsetzen",
-      "summary": "Nach der Urlaubszeit kommen Bundeskanzler Merz und die Minister in der kommenden Woche zur Klausur in Brandenburg zusammen. Merz will die beschlossenen Reformen voranbringen - trotz des Gegenwindes, der in drei Wochen Urlaub aufkam.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/wie-geht-es-nach-der-sommerpause-weiter-bundesregierung-100.html",
-      "publishedAt": "2026-08-23T00:21:07.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/linnemann-rente-pflege-100.html",
+      "publishedAt": "2026-08-23T11:27:04.000Z"
     },
     {
       "id": "n_beb433fac0",
@@ -178,6 +178,50 @@
       "publishedAt": "2026-08-19T15:00:00.000Z"
     },
     {
+      "id": "n_59f167171b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Power Delivery: USB-Kabel zeigt Ladeleistung auf kleinem Display an",
+      "summary": "Das Vogatiki informiert per Display über die aktuelle Stromstärke, Spannung und Leistung. Maximal sind 240 Watt möglich. (Kickstarter, Crowdfunding)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/power-delivery-usb-kabel-zeigt-ladeleistung-auf-kleinem-display-an-2608-212202.html",
+      "publishedAt": "2026-08-23T14:17:02.000Z"
+    },
+    {
+      "id": "n_a8b3674d9c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Weltraumrecht: Der Mond droht zur Mülldeponie für die Raumfahrt zu werden",
+      "summary": "Der Mond wird zur Mülldeponie für Raketen. Experten fordern strenge Regeln, bevor wertvolle Experimente oder Menschenleben bedroht sind. (Falcon-9, Raumfahrt)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/weltraumrecht-der-mond-droht-zur-muelldeponie-fuer-die-raumfahrt-zu-werden-2608-212198.html",
+      "publishedAt": "2026-08-23T13:43:02.000Z"
+    },
+    {
+      "id": "n_a99090f1c0",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Begehrter E-Scooter mit Straßenzulassung reduziert bei Amazon",
+      "summary": "Der Segway-Ninebot F2 Pro D II überzeugt als E-Scooter mit Straßenzulassung und 65 Kilometern Reichweite. Bei Amazon ist er reduziert. (Technik/Hardware, E-Scooter)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-begehrter-e-scooter-mit-strassenzulassung-reduziert-bei-amazon-2608-212187.html",
+      "publishedAt": "2026-08-23T11:40:02.000Z"
+    },
+    {
+      "id": "n_8097cb832f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Virusalarm: Mysteriöse 113 GByte große ISO von GTA 6 im Internet aufgetaucht",
+      "summary": "Die angebliche ISO-Datei von GTA 6 soll laut ihrem Namen von Cyberleek persönlich stammen. Allerdings finden mehrere Personen ein Virus. (GTA 6, Virus)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/virusalarm-mysterioese-113-gbyte-grosse-iso-von-gta-6-im-internet-aufgetaucht-2608-212200.html",
+      "publishedAt": "2026-08-23T09:25:01.000Z"
+    },
+    {
       "id": "n_6d20f6182f",
       "type": "news",
       "topic": "tech",
@@ -222,136 +266,92 @@
       "publishedAt": "2026-08-23T05:30:02.000Z"
     },
     {
-      "id": "n_6cd9b3411b",
+      "id": "n_95e7989ace",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: IT-Jobs in Architektur, Führung und Support",
-      "summary": "Von Microsoft-365-Architektur über IT-Führung bis zum Support - diese sechs Positionen bieten vielfältige Karrierechancen in der IT. (Golem Karrierewelt, Unternehmenssoftware)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-it-jobs-in-architektur-fuehrung-und-support-2608-212156.html",
-      "publishedAt": "2026-08-23T05:00:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "France links rise in drownings to heatwaves",
+      "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T15:00:17.000Z"
     },
     {
-      "id": "n_91df0768ac",
+      "id": "n_7e7a0d4f47",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "(g+) Artificial Intelligence: AI hasn't gone rogue. It's worse than that",
-      "summary": "Recent cyber attacks reflect what the technology was trained to do but safeguards are falling short Von Madhumita Murgia (LLM, KI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/artificial-intelligence-ai-hasn-t-gone-rogue-it-s-worse-than-that-2608-212188.html",
-      "publishedAt": "2026-08-22T13:30:02.000Z"
-    },
-    {
-      "id": "n_7d0c0304d3",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Claude und SynthID: Tool entfernt KI-Wasserzeichen mit KI",
-      "summary": "Anthropics neue KI-Wasserzeichen stoßen auf Widerstand. Ein Entwickler hat binnen weniger Stunden ein Tool gebaut, um sie zu entfernen. (KI, Software)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/claude-und-synthid-tool-entfernt-ki-wasserzeichen-mit-ki-2608-212197.html",
-      "publishedAt": "2026-08-22T12:52:01.000Z"
-    },
-    {
-      "id": "n_688e3308ab",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "EZB-Analysten: Einbruch bei KI-Aktien auch ohne Blase zu erwarten",
-      "summary": "Sind Aktien aus dem KI-Umfeld überbewertet? Spielt keine Rolle, sagen EZB-Analysten, der prognostizierte Einbruch habe andere Gründe. (Wirtschaft, Börse)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/ezb-analysten-einbruch-bei-ki-aktien-auch-ohne-blase-zu-erwarten-2608-212196.html",
-      "publishedAt": "2026-08-22T11:43:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Kejelcha breaks men's half marathon world record by 29 seconds",
+      "summary": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of 56 minutes 51 seconds in a World Athletics road race in Buenos Aires.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T13:35:06.000Z"
     },
     {
       "id": "n_c85614423c",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
-      "summary": "The sacked former defence minister has also called for elections to be held in Ukraine.",
+      "headline": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+      "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T08:47:47.000Z"
+      "publishedAt": "2026-08-23T12:56:43.000Z"
     },
     {
-      "id": "n_f4c36d47d3",
+      "id": "n_02fe1f5a45",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+      "headline": "DR Congo and M23 rebels agree roadmap for peace talks",
+      "summary": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T05:46:43.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T12:52:08.000Z"
     },
     {
-      "id": "n_2f30b2d397",
+      "id": "n_9df0000ed1",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "'We're not going to run from it': Sydney Marathon laughs off medal error",
-      "summary": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
+      "headline": "Wicker Man director's sons complete their late father's film trilogy",
+      "summary": "The final film in the folk horror trilogy brings closure to the saga as well as its creator's family after more than 50 years.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T03:44:19.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cj36kv62g7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T12:51:15.000Z"
     },
     {
-      "id": "n_91f9a2d4a4",
+      "id": "n_0ddadb7cee",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Girl, 17, killed in Swedish sword attack, police say",
-      "summary": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained.",
+      "headline": "Robot boxing, football and sprinting at World Humanoid Games",
+      "summary": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T01:34:15.000Z"
+      "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T12:47:06.000Z"
     },
     {
-      "id": "n_a53bddc975",
+      "id": "n_042d59a9ae",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
-      "summary": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
+      "headline": "'New season, new trim' - Haaland reveals buzzcut",
+      "summary": "Manchester City striker Erling Haaland reveals his new buzz cut on social media.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T23:22:02.000Z"
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T12:36:54.000Z"
     },
     {
-      "id": "n_e31109fac9",
+      "id": "n_f69b5c55bc",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Syria says Israeli strike near Damascus violation of international law",
-      "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
+      "headline": "Golf brand apologises for advert that shows woman being pushed over",
+      "summary": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T21:42:42.000Z"
-    },
-    {
-      "id": "n_5fd4de93df",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Carney faces crucial test after walking away from Trump's deal",
-      "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T20:02:46.000Z"
-    },
-    {
-      "id": "n_1c70cb419c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "The hotel booking mix-up that could free mushroom murderer",
-      "summary": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T19:03:03.000Z"
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T12:25:40.000Z"
     },
     {
       "id": "n_4f4a8c529b",
@@ -442,6 +442,28 @@
       "publishedAt": "2026-08-19T11:19:12.000Z"
     },
     {
+      "id": "n_d41bba2863",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+      "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+      "publishedAt": "2026-08-23T14:30:16.000Z"
+    },
+    {
+      "id": "n_0d50cbd1b3",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Volcanoes that made history",
+      "summary": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
+      "publishedAt": "2026-08-23T11:02:54.000Z"
+    },
+    {
       "id": "n_cd8d6f001c",
       "type": "news",
       "topic": "tech",
@@ -508,26 +530,15 @@
       "publishedAt": "2026-08-21T19:32:29.000Z"
     },
     {
-      "id": "n_2a6422304d",
+      "id": "n_badce92339",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Lawsuit demands Logitech hand tariff refunds over to customers",
-      "summary": "Logitech increased prices by up to 25 percent last year.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
-      "publishedAt": "2026-08-21T19:04:41.000Z"
-    },
-    {
-      "id": "n_195fe7a817",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Chinese regulators tell Tesla to fix nearly 3 million cars",
-      "summary": "Chinese safety regulators have cracked down on doors that don't open in a crash.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
-      "publishedAt": "2026-08-21T18:07:15.000Z"
+      "headline": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "publishedAt": "2026-08-23T15:00:00.000Z"
     },
     {
       "id": "n_6024a826f3",
@@ -605,17 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
       "publishedAt": "2026-08-21T19:43:39.000Z"
-    },
-    {
-      "id": "n_8a5a6d190a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "There's about to be a big fight to secure access to space.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "publishedAt": "2026-08-21T14:00:00.000Z"
     },
     {
       "id": "n_016ca72fa4",
