@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-23T00:33:30.428Z",
+  "generatedAt": "2026-08-23T03:39:26.490Z",
   "items": [
+    {
+      "id": "n_42202a879d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
+      "summary": "Nach geplatzten Verhandlungen drohen Kanada und die USA in einen Zollkonflikt mit offenem Ende zu geraten. Ein Experte warnt vor hohen Kosten, US-Konzerne wollen neue Gespräche, und aus Kanada kommt Kritik an Trump.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html",
+      "publishedAt": "2026-08-23T03:07:24.000Z"
+    },
+    {
+      "id": "n_afacbaea1c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Einkammerparlament statt Zweikammersystem",
+      "summary": "2019 beerbte der kasachische Präsident Tokajew den Langzeitherrscher Nasarbajew. Doch Hoffnungen auf demokratische Veränderungen bleiben unerfüllt. Heute wird ein neues Parlament gewählt - nach umfassenden Verfassungsänderungen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/parlamentswahl-in-kasachstan-100.html",
+      "publishedAt": "2026-08-23T03:03:07.000Z"
+    },
+    {
+      "id": "n_36697f62db",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bahngewerkschaft macht Druck bei Gesetz zu Sicherheit",
+      "summary": "Seit dem tödlichen Angriff auf einen Zugbegleiter in einem Regionalexpress Anfang Februar werden Maßnahmen für mehr Sicherheit diskutiert. Die Eisenbahngewerkschaft EVG fordert nun Ergebnisse - und droht mit einer Blockade der Dienstpläne.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/evg-droht-mit-streiks-im-regionalverkehr-100.html",
+      "publishedAt": "2026-08-23T01:29:20.000Z"
+    },
     {
       "id": "n_0d0e98fb95",
       "type": "news",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-handelsstreit-zoelle-100.html",
       "publishedAt": "2026-08-22T17:04:55.000Z"
-    },
-    {
-      "id": "n_e6997e17ab",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wadephul verspricht der Ukraine weitere humanitäre Hilfe",
-      "summary": "Bei seinem Besuch in der Hauptstadt Kiew hat Bundesaußenminister Wadephul der Ukraine weitere 50 Millionen Euro an humanitärer Hilfe zugesagt. Die anhaltenden russischen Angriffe auf das Land nannte er einen \"wahllosen Mord an Zivilisten\".",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-106.html",
-      "publishedAt": "2026-08-22T16:25:33.000Z"
-    },
-    {
-      "id": "n_6681943ff3",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Aldi gegen Lidl: Discounter-Zoff um den günstigsten Preis",
-      "summary": "Die deutschen Discounter liefern sich einen Preiskampf. Aldi setzt auf den besten Preis für alle - ganz ohne Bonus-App. Lidl kontert digital. Wer hat die bessere Strategie? Von Anke Heinhaus.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/aldi-lidl-discounter-wettbewerb-100.html",
-      "publishedAt": "2026-08-22T15:09:13.000Z"
-    },
-    {
-      "id": "n_5e0758e94c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Kanzler Merz dankt Helfern im Waldbrandgebiet in NRW",
-      "summary": "Nach dem Waldbrand im nordrhein-westfälischen Hürtgenwald hat der Kanzler den Helfern gedankt. Zu spät sei sein Besuch gekommen, sagen Anwohner. Doch die Rettungskräfte loben das Timing des Kanzlers.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/merz-waldbrand-eifel-100.html",
-      "publishedAt": "2026-08-22T15:06:54.000Z"
     },
     {
       "id": "n_beb433fac0",
@@ -266,6 +266,17 @@
       "publishedAt": "2026-08-22T08:30:02.000Z"
     },
     {
+      "id": "n_91f9a2d4a4",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Swedish sword attack victim was 17-year-old girl, police say",
+      "summary": "Two boys aged 12 and 17 were also injured in the attack, while an 18-year-old suspect has been detained.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T01:34:15.000Z"
+    },
+    {
       "id": "n_e31109fac9",
       "type": "news",
       "topic": "general",
@@ -341,17 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-22T14:35:11.000Z"
-    },
-    {
-      "id": "n_347841731a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Fourteen killed in strike on Myanmar monastery",
-      "summary": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T13:48:06.000Z"
     },
     {
       "id": "n_4f4a8c529b",
