@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-08-23T15:09:55.488Z",
+  "generatedAt": "2026-08-23T18:11:22.082Z",
   "items": [
+    {
+      "id": "n_0aa60230d0",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
+      "summary": "Deutschland erlebt einen Extremsommer mit Hitzetoten und Waldbränden. Der AfD-Vorsitzende Chrupalla kritisiert dennoch einen \"Klima-Hype\". Wichtig sei, den Strom für Klimageräte bezahlbar zu machen, sagte er im ARD-Sommerinterview.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
+      "publishedAt": "2026-08-23T18:05:46.000Z"
+    },
+    {
+      "id": "n_2cced4312d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Das ARD-Sommerinterview mit AfD-Chef Chrupalla im Faktencheck",
+      "summary": "Der AfD-Vorsitzende Chrupalla war im ARD-Sommerinterview zu Gast. Viele Aussagen halten einer Überprüfung stand. Doch beim Thema Klimawandel lag er daneben, einige Aussagen zur Migration waren ebenfalls falsch.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-chrupalla-100.html",
+      "publishedAt": "2026-08-23T16:40:57.000Z"
+    },
+    {
+      "id": "n_9ceb25f2e7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Berliner Senatsverwaltungen sind nach Hackerangriff wieder online",
+      "summary": "Die Berliner Verwaltung ist wieder komplett online. Nach einem Hackerangriff waren zwei Senatsverwaltungen tagelang vom IT-Netz abgetrennt, diverse Dienstleistungen waren eingeschränkt. Die Hintergründe werden weiterhin ermittelt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/hackerangriff-berliner-senatsverwaltungen-100.html",
+      "publishedAt": "2026-08-23T16:15:18.000Z"
+    },
+    {
+      "id": "n_5913730294",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Iran reagiert mit Drohungen auf US-Drohungen",
+      "summary": "Noch immer gibt es keine Einigung im Iran-Krieg. Die USA drohen mit einem \"Wirtschaftskrieg\", Teheran reagiert scharf. Jeder, der sich daran beteilige, werde als \"Feind\" gesehen. Doch die ökonomischen Probleme Irans wachsen offenbar.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/usa-iran-warnung-sanktionen-100.html",
+      "publishedAt": "2026-08-23T15:25:53.000Z"
+    },
     {
       "id": "n_3c91728298",
       "type": "news",
@@ -44,50 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/niedrigwasser-schifffahrt-rhein-100.html",
       "publishedAt": "2026-08-23T12:51:05.000Z"
-    },
-    {
-      "id": "n_66162720b0",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Selenskyj rechnet mit Mobilisierung Hunderttausender russischer Soldaten",
-      "summary": "Lange hatte Kremlchef Putin zu den ukrainischen Angriffen auf Raffinerien und Logistikzentren geschwiegen - nun droht er mit einer harten Antwort. Die Ukraine geht davon aus, dass Moskau bald Hunderttausende Soldaten mobilisieren will.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-selenskyj-lage-100.html",
-      "publishedAt": "2026-08-23T12:22:33.000Z"
-    },
-    {
-      "id": "n_b6deb54f3e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Sydney-Marathon-Medaille zeigt versehentlich Münchner Allianz Arena",
-      "summary": "Beim Sydney-Marathon dürfen sich die Teilnehmer auf eine ganz besondere Medaille freuen: Darauf sind Sehenswürdigkeiten Sydneys zu sehen - und die Münchner Allianz Arena. Ein \"unglücklicher Fehler\", so der Veranstalter.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/sydney-marathon-allianz-100.html",
-      "publishedAt": "2026-08-23T11:54:24.000Z"
-    },
-    {
-      "id": "n_18a0a6527d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Gottesanbeterin breitet sich in Deutschland aus",
-      "summary": "Lange galt sie hierzulande als Exotin, doch mittlerweile hat sich die Gottesanbeterin sprunghaft verbreitet - eine Folge des Klimawandels. Vor allem in zwei Regionen Deutschlands ist das Insekt zu finden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/gottesanbeterin-ausbreitung-erderwaermung-100.html",
-      "publishedAt": "2026-08-23T11:31:55.000Z"
-    },
-    {
-      "id": "n_ce375a6fd2",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Linnemann gegen Rentenkürzungen für pflegende Angehörige",
-      "summary": "Wer seine Angehörigen pflegt, soll künftig weniger Rente als bisher bekommen - das sehen die Sparpläne der Bundesregierung vor. Nun hat der neue Gesundheitsminister Linnemann angekündigt, diesen Punkt korrigieren zu wollen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/linnemann-rente-pflege-100.html",
-      "publishedAt": "2026-08-23T11:27:04.000Z"
     },
     {
       "id": "n_beb433fac0",
@@ -178,6 +178,17 @@
       "publishedAt": "2026-08-19T15:00:00.000Z"
     },
     {
+      "id": "n_841f090e6d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Microsoft: RGB-Software lässt Windows 11 abstürzen",
+      "summary": "Nach einem Windows-11-Update stürzt das Betriebssystem häufig mit einem Bluescreen ab. Das geschieht vor allem mitten in Games. (Windows 11, Microsoft)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/microsoft-rgb-software-laesst-windows-11-abstuerzen-2608-212201.html",
+      "publishedAt": "2026-08-23T16:56:01.000Z"
+    },
+    {
       "id": "n_59f167171b",
       "type": "news",
       "topic": "tech",
@@ -255,26 +266,37 @@
       "publishedAt": "2026-08-23T08:00:01.000Z"
     },
     {
-      "id": "n_9f15d0b65a",
+      "id": "n_205682e3e1",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "KI aus Deutschland: Ein Fördersystem, das Innovationen bremst",
-      "summary": "Bisher kam bei KI in Deutschland eher Mittelmaß heraus. Das liegt aber nicht an den Wissenschaftlern, sondern an einem System, das Forscherdrang nicht belohnt. Ein IMHO von Tim Elsner (KI, Silicon Valley)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/ki-aus-deutschland-ein-foerdersystem-das-innovationen-bremst-2608-212027.html",
-      "publishedAt": "2026-08-23T05:30:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+      "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T17:54:34.000Z"
     },
     {
       "id": "n_95e7989ace",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "France links rise in drownings to heatwaves",
+      "headline": "France links sharp rise in drownings to heatwaves",
       "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T15:00:17.000Z"
+      "publishedAt": "2026-08-23T17:39:33.000Z"
+    },
+    {
+      "id": "n_b11fa1f9ca",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Thousands struggling without power in Indiana 12 days after severe storms",
+      "summary": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T15:54:32.000Z"
     },
     {
       "id": "n_7e7a0d4f47",
@@ -330,28 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-23T12:47:06.000Z"
-    },
-    {
-      "id": "n_042d59a9ae",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'New season, new trim' - Haaland reveals buzzcut",
-      "summary": "Manchester City striker Erling Haaland reveals his new buzz cut on social media.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T12:36:54.000Z"
-    },
-    {
-      "id": "n_f69b5c55bc",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Golf brand apologises for advert that shows woman being pushed over",
-      "summary": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T12:25:40.000Z"
     },
     {
       "id": "n_4f4a8c529b",
@@ -530,6 +530,17 @@
       "publishedAt": "2026-08-21T19:32:29.000Z"
     },
     {
+      "id": "n_80d039e631",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "publishedAt": "2026-08-23T15:30:00.000Z"
+    },
+    {
       "id": "n_badce92339",
       "type": "news",
       "topic": "ai",
@@ -605,17 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
       "publishedAt": "2026-08-21T22:37:38.000Z"
-    },
-    {
-      "id": "n_6df4ce9078",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "publishedAt": "2026-08-21T19:43:39.000Z"
     },
     {
       "id": "n_016ca72fa4",
