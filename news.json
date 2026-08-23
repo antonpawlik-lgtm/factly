@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-22T18:12:06.795Z",
+  "generatedAt": "2026-08-23T00:33:30.428Z",
   "items": [
+    {
+      "id": "n_0d0e98fb95",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Merz will Reformbeschlüsse so schnell wie möglich umsetzen",
+      "summary": "Nach der Urlaubszeit kommen Bundeskanzler Merz und die Minister in der kommenden Woche zur Klausur in Brandenburg zusammen. Merz will die beschlossenen Reformen voranbringen - trotz des Gegenwindes, der in drei Wochen Urlaub aufkam.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/wie-geht-es-nach-der-sommerpause-weiter-bundesregierung-100.html",
+      "publishedAt": "2026-08-23T00:21:07.000Z"
+    },
+    {
+      "id": "n_b7399fad26",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Schwertangriff in Schweden: Wenn plötzlich das Grauen zu spüren ist",
+      "summary": "Nach dem Schwertangriff an einer schwedischen Schule am vergangenen Freitag bleibt die Provinzstadt Fagersta fassungslos zurück. Ein Mädchen wurde getötet, zwei Schüler schwer verletzt. Wie umgehen mit dieser Tat? Von Christian Stichler.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/schweden-nach-schwertangriff-100.html",
+      "publishedAt": "2026-08-23T00:04:59.000Z"
+    },
+    {
+      "id": "n_53762394e9",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "China: Humanoider Roboter schneller über 100 Meter als Usain Bolt",
+      "summary": "Bei der Weltmeisterschaft humanoider Roboter in China hat ein chinesisches Modell den 100-Meter-Weltrekord von Usain Bolt unterboten. Es war nicht das erste Mal, dass Roboter schneller als Menschen laufen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/china-roboter-lauf-100.html",
+      "publishedAt": "2026-08-22T19:29:05.000Z"
+    },
     {
       "id": "n_47bba2a8ef",
       "type": "news",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/merz-waldbrand-eifel-100.html",
       "publishedAt": "2026-08-22T15:06:54.000Z"
-    },
-    {
-      "id": "n_abfea92844",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Mindestens 13 Migranten nach Bootsunglück vor Tunesien vermisst",
-      "summary": "Bei einem Unglück vor der Küste Tunesiens sind offenbar mehrere Menschen ertrunken. Nachdem ihr Boot gekentert war, konnten bislang nur zwei Personen gerettet werden. Auch Minderjährige und eine Schwangere werden vermisst.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/tunesien-migranten-bootunglueck-100.html",
-      "publishedAt": "2026-08-22T14:41:06.000Z"
-    },
-    {
-      "id": "n_31e0513934",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Druck auf Transmenschen in den USA: \"Das ist entmenschlichend\"",
-      "summary": "Seit der Rückkehr ins Weiße Haus versucht die Trump-Administration, Rechte von Transmenschen zu mindern. Zuletzt wurde die Zahlung für Behandlungen von Transjugendlichen gestoppt. Wie lebt die Community damit? Von Marc Feuser.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-transmenschen-100.html",
-      "publishedAt": "2026-08-22T13:34:42.000Z"
-    },
-    {
-      "id": "n_31d84cddec",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Außenminister Wadephul zu unangekündigtem Besuch in der Ukraine",
-      "summary": "Inmitten neuer russischer Angriffe ist Außenminister Wadephul in die Ukraine gereist. Er warf der Führung in Moskau \"wahllosen Mord an Zivilisten\" vor. Gleichzeitig sprach er von Zeichen der Schwäche im russischen Regime.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-100.html",
-      "publishedAt": "2026-08-22T12:19:28.000Z"
     },
     {
       "id": "n_beb433fac0",
@@ -266,6 +266,50 @@
       "publishedAt": "2026-08-22T08:30:02.000Z"
     },
     {
+      "id": "n_e31109fac9",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Syria says Israeli strike near Damascus violation of international law",
+      "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T21:42:42.000Z"
+    },
+    {
+      "id": "n_f4c36d47d3",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T20:10:00.000Z"
+    },
+    {
+      "id": "n_5fd4de93df",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Carney faces crucial test after walking away from Trump's deal",
+      "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T20:02:46.000Z"
+    },
+    {
+      "id": "n_1c70cb419c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "The hotel booking mix-up that could free mushroom murderer",
+      "summary": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T19:03:03.000Z"
+    },
+    {
       "id": "n_e07785f45b",
       "type": "news",
       "topic": "general",
@@ -288,28 +332,6 @@
       "publishedAt": "2026-08-22T16:57:19.000Z"
     },
     {
-      "id": "n_f4c36d47d3",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T16:45:02.000Z"
-    },
-    {
-      "id": "n_5fd4de93df",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Carney faces crucial test after walking away from Trump's deal",
-      "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T16:20:51.000Z"
-    },
-    {
       "id": "n_47b46dfdfc",
       "type": "news",
       "topic": "general",
@@ -330,28 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-22T13:48:06.000Z"
-    },
-    {
-      "id": "n_fcfb10d2b5",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-      "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T13:13:16.000Z"
-    },
-    {
-      "id": "n_926c138da4",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Robot horse and rider steal the spotlight at Chinese conference",
-      "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T10:01:18.000Z"
     },
     {
       "id": "n_4f4a8c529b",
@@ -530,6 +530,28 @@
       "publishedAt": "2026-08-21T18:07:15.000Z"
     },
     {
+      "id": "n_6024a826f3",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "publishedAt": "2026-08-22T21:46:56.000Z"
+    },
+    {
+      "id": "n_00b5c41772",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "publishedAt": "2026-08-22T19:00:00.000Z"
+    },
+    {
       "id": "n_ceb77d2acd",
       "type": "news",
       "topic": "ai",
@@ -594,28 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
       "publishedAt": "2026-08-21T14:00:00.000Z"
-    },
-    {
-      "id": "n_897ae96f35",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrang",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "publishedAt": "2026-08-21T14:00:00.000Z"
-    },
-    {
-      "id": "n_35f97ccf87",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "publishedAt": "2026-08-21T00:13:44.000Z"
     },
     {
       "id": "n_016ca72fa4",
