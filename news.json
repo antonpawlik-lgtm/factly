@@ -1,13 +1,57 @@
 {
-  "generatedAt": "2026-08-23T06:19:54.511Z",
+  "generatedAt": "2026-08-23T09:15:50.494Z",
   "items": [
+    {
+      "id": "n_36697f62db",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Eisenbahngewerkschaft EVG droht mit Blockade im Regionalverkehr",
+      "summary": "Seit dem tödlichen Angriff auf einen Zugbegleiter in Rheinland-Pfalz Anfang Februar werden Maßnahmen für mehr Sicherheit diskutiert. Die Eisenbahngewerkschaft EVG fordert Ergebnisse - und droht mit einer Blockade der Dienstpläne.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/evg-droht-mit-streiks-im-regionalverkehr-100.html",
+      "publishedAt": "2026-08-23T09:10:10.000Z"
+    },
+    {
+      "id": "n_18a0a6527d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Gottesanbeterin breitet sich in Deutschland aus",
+      "summary": "Lange galt sie hierzulande als Exotin, doch mittlerweile hat sich die Gottesanbeterin sprunghaft verbreitet - eine Folge des Klimawandels. Vor allem in zwei Regionen Deutschlands ist das Insekt zu finden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wissen/gottesanbeterin-ausbreitung-erderwaermung-100.html",
+      "publishedAt": "2026-08-23T08:28:46.000Z"
+    },
+    {
+      "id": "n_42202a879d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
+      "summary": "Die Zoll-Gespräche zwischen den USA und Kanada sind gescheitert - jetzt treten neue US-Zölle in Kraft. Ein neuer \"Handelskrieg\" droht, denn Kanada will mit Gegenzöllen antworten. Beide Seiten geben sich gegenseitig die Schuld.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html",
+      "publishedAt": "2026-08-23T07:19:06.000Z"
+    },
+    {
+      "id": "n_85b6e69171",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Krieg gegen die Ukraine: Urlaub unter Beschuss an Russlands Küste",
+      "summary": "Es ist Sommer, und die Menschen in Russland zieht es an die Strände der Schwarzmeerküste. Doch dort gibt es zunehmend Luftalarm - und so zeigt sich der Krieg gegen die Ukraine den Russen auch im Urlaub. Von Silke Diettrich.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/russland-urlaub-krieg-100.html",
+      "publishedAt": "2026-08-23T07:02:36.000Z"
+    },
     {
       "id": "n_2f19f4aea9",
       "type": "news",
       "topic": "general",
       "lang": "de",
       "headline": "Tote und Entführte bei Angriff auf Dorf in Nigeria",
-      "summary": "In Nigeria haben Islamisten ein Dorf überfallen. Dutzende Menschen wurde getötet oder entführt - wie viele genau, ist unklar. Hinter dem Angriff steckt offenbar ein Ableger der Terrorgruppe \"Islamischer Staat\".",
+      "summary": "In Nigeria haben Islamisten ein Dorf überfallen. Dutzende Menschen wurden getötet oder entführt - wie viele genau, ist unklar. Hinter dem Angriff steckt offenbar ein Ableger der Terrorgruppe \"Islamischer Staat\".",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/afrika/nigeria-angriff-102.html",
       "publishedAt": "2026-08-23T06:17:34.000Z"
@@ -24,17 +68,6 @@
       "publishedAt": "2026-08-23T04:37:22.000Z"
     },
     {
-      "id": "n_42202a879d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Experte warnt vor \"Handelskrieg\" zwischen Kanada und USA",
-      "summary": "Nach geplatzten Verhandlungen drohen Kanada und die USA in einen Zollkonflikt mit offenem Ende zu geraten. Ein Experte warnt vor hohen Kosten, US-Konzerne wollen neue Gespräche, und aus Kanada kommt Kritik an Trump.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/zollstreit-usa-kanada-eskaliert-100.html",
-      "publishedAt": "2026-08-23T03:07:24.000Z"
-    },
-    {
       "id": "n_afacbaea1c",
       "type": "news",
       "topic": "general",
@@ -46,17 +79,6 @@
       "publishedAt": "2026-08-23T03:03:07.000Z"
     },
     {
-      "id": "n_36697f62db",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Eisenbahngewerkschaft EVG droht mit Blockade im Regionalverkehr",
-      "summary": "Seit dem tödlichen Angriff auf einen Zugbegleiter in einem Regionalexpress Anfang Februar werden Maßnahmen für mehr Sicherheit diskutiert. Die Eisenbahngewerkschaft EVG fordert nun Ergebnisse - und droht mit einer Blockade der Dienstpläne.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/evg-droht-mit-streiks-im-regionalverkehr-100.html",
-      "publishedAt": "2026-08-23T01:29:20.000Z"
-    },
-    {
       "id": "n_0d0e98fb95",
       "type": "news",
       "topic": "general",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/wie-geht-es-nach-der-sommerpause-weiter-bundesregierung-100.html",
       "publishedAt": "2026-08-23T00:21:07.000Z"
-    },
-    {
-      "id": "n_b7399fad26",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Schwertangriff in Schweden: Wenn plötzlich das Grauen zu spüren ist",
-      "summary": "Nach dem Schwertangriff an einer schwedischen Schule am vergangenen Freitag bleibt die Provinzstadt Fagersta fassungslos zurück. Ein Mädchen wurde getötet, zwei Schüler schwer verletzt. Wie umgehen mit dieser Tat? Von Christian Stichler.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/schweden-nach-schwertangriff-100.html",
-      "publishedAt": "2026-08-23T00:04:59.000Z"
-    },
-    {
-      "id": "n_53762394e9",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "China: Humanoider Roboter schneller über 100 Meter als Usain Bolt",
-      "summary": "Bei der Weltmeisterschaft humanoider Roboter in China hat ein chinesisches Modell den 100-Meter-Weltrekord von Usain Bolt unterboten. Es war nicht das erste Mal, dass Roboter schneller als Menschen laufen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/china-roboter-lauf-100.html",
-      "publishedAt": "2026-08-22T19:29:05.000Z"
     },
     {
       "id": "n_beb433fac0",
@@ -178,6 +178,39 @@
       "publishedAt": "2026-08-19T15:00:00.000Z"
     },
     {
+      "id": "n_6d20f6182f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Biegetest: Pixel 11 Pro Fold zerbricht sehr leicht in Einzelteile",
+      "summary": "Das Google Pixel 11 Pro Fold hat strukturelle Schwächen. Sand, Fingernägel und zu viel Kraft in die falsche Richtung können es zerstören. (Google Pixel, Smartphone)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/biegetest-pixel-11-pro-fold-zerbricht-sehr-leicht-in-einzelteile-2608-212199.html",
+      "publishedAt": "2026-08-23T08:51:02.000Z"
+    },
+    {
+      "id": "n_2de6dfdb7e",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Grundig UC 6620 Ultraschallreiniger zum neuen Amazon-Bestpreis für 26,39 Euro",
+      "summary": "Der Grundig Ultraschallreiniger löst Schmutz per Kavitation aus Brillen, Schmuck und Zahnersatz und ist bei Amazon so günstig wie nie. (Technik/Hardware, Ultraschall)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-grundig-uc-6620-ultraschallreiniger-zum-neuen-amazon-bestpreis-fuer-26-39-euro-2608-212184.html",
+      "publishedAt": "2026-08-23T08:40:02.000Z"
+    },
+    {
+      "id": "n_6a28dce096",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "(g+) Freelancer auf Linkedin: 100 Likes, 0 Aufträge",
+      "summary": "Auf Linkedin reicht es nicht, als Freelancer sichtbar zu sein und mit Meinungsposts Likes abzugreifen. Aufträge entstehen hier anders - wir zeigen, wie. Ein Ratgebertext von Pierre Wilken (IT-Freelancer, Wirtschaft)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/freelancer-auf-linkedin-100-likes-0-auftraege-2608-212174.html",
+      "publishedAt": "2026-08-23T08:00:01.000Z"
+    },
+    {
       "id": "n_9f15d0b65a",
       "type": "news",
       "topic": "tech",
@@ -233,45 +266,23 @@
       "publishedAt": "2026-08-22T11:43:02.000Z"
     },
     {
-      "id": "n_d4e8d9d51d",
+      "id": "n_c85614423c",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Passend zur Gamescom: Golem Allround-PC jetzt mit Rabatt und Finanzierung bei Systemtreff",
-      "summary": "Gamescom 2026 steht an, RAM-Ageddon treibt Preise: Der Golem Allround bietet RTX-5070-Power, 40 Euro Rabatt und 0-Prozent-Finanzierung. (Technik/Hardware, Gamescom)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-passend-zur-gamescom-golem-allround-pc-jetzt-mit-rabatt-und-finanzierung-bei-systemtreff-2608-212164.html",
-      "publishedAt": "2026-08-22T11:40:02.000Z"
-    },
-    {
-      "id": "n_eab4edc14a",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Wegen destruktiver KI-Scans: Anna's Archive ruft zum Scannen von Büchern auf",
-      "summary": "KI-Firmen scannen und zerstören massenhaft Bücher. Die Schattenbibliothek Anna's Archive befürchtet einen Verlust von Kulturgütern. (KI, Urheberrecht)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/wegen-destruktiver-ki-scans-anna-s-archive-ruft-zum-scannen-von-buechern-auf-2608-212195.html",
-      "publishedAt": "2026-08-22T09:48:02.000Z"
-    },
-    {
-      "id": "n_2313e300c1",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Aufräumaktion: Windows 11 kann im Eco-Modus GPU-Treiber löschen",
-      "summary": "Windows 11 entfernt regelmäßig ungenutzte Treiber. Unter gewissen Bedingungen kann das GPUs treffen. Das Verhalten lässt sich aber leicht abstellen. (Windows 11, Grafikkarten)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/aufraeumaktion-windows-11-kann-im-eco-modus-gpu-treiber-loeschen-2608-212194.html",
-      "publishedAt": "2026-08-22T08:51:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+      "summary": "The sacked former defence minister has also called for elections to be held in Ukraine.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T08:47:47.000Z"
     },
     {
       "id": "n_f4c36d47d3",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
-      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-23T05:46:43.000Z"
@@ -292,8 +303,8 @@
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Swedish sword attack victim was 17-year-old girl, police say",
-      "summary": "Two boys aged 12 and 17 were also injured in the attack, while an 18-year-old suspect has been detained.",
+      "headline": "Girl, 17, killed in Swedish sword attack, police say",
+      "summary": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-23T01:34:15.000Z"
@@ -341,17 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-22T19:03:03.000Z"
-    },
-    {
-      "id": "n_e07785f45b",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-      "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T17:02:06.000Z"
     },
     {
       "id": "n_4f4a8c529b",
@@ -607,14 +607,14 @@
       "publishedAt": "2026-08-21T19:43:39.000Z"
     },
     {
-      "id": "n_897ae96f35",
+      "id": "n_8a5a6d190a",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrang",
+      "headline": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "summary": "There's about to be a big fight to secure access to space.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
       "publishedAt": "2026-08-21T14:00:00.000Z"
     },
     {
