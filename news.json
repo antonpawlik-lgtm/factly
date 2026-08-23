@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-08-23T03:39:26.490Z",
+  "generatedAt": "2026-08-23T06:19:54.511Z",
   "items": [
+    {
+      "id": "n_2f19f4aea9",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Tote und Entführte bei Angriff auf Dorf in Nigeria",
+      "summary": "In Nigeria haben Islamisten ein Dorf überfallen. Dutzende Menschen wurde getötet oder entführt - wie viele genau, ist unklar. Hinter dem Angriff steckt offenbar ein Ableger der Terrorgruppe \"Islamischer Staat\".",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/afrika/nigeria-angriff-102.html",
+      "publishedAt": "2026-08-23T06:17:34.000Z"
+    },
+    {
+      "id": "n_a255611692",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Schildkröten in Mexiko: Vom gefundenen Fressen zum Touri-Highlight",
+      "summary": "Einst vor allem bei Wilderern berühmt, hat sich ein kleiner Strand im mexikanischen Bundesstaat Oaxaca mittlerweile zum Paradies für Ökotourismus gewandelt. Die Stars sind Meeresschildkröten. Von Christina Fee Moebus.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/schildkroeten-in-mexiko-touristenhit-100.html",
+      "publishedAt": "2026-08-23T04:37:22.000Z"
+    },
     {
       "id": "n_42202a879d",
       "type": "news",
@@ -17,7 +39,7 @@
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Einkammerparlament statt Zweikammersystem",
+      "headline": "Kasachstan wählt neues Parlament",
       "summary": "2019 beerbte der kasachische Präsident Tokajew den Langzeitherrscher Nasarbajew. Doch Hoffnungen auf demokratische Veränderungen bleiben unerfüllt. Heute wird ein neues Parlament gewählt - nach umfassenden Verfassungsänderungen.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/asien/parlamentswahl-in-kasachstan-100.html",
@@ -28,7 +50,7 @@
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Bahngewerkschaft macht Druck bei Gesetz zu Sicherheit",
+      "headline": "Eisenbahngewerkschaft EVG droht mit Blockade im Regionalverkehr",
       "summary": "Seit dem tödlichen Angriff auf einen Zugbegleiter in einem Regionalexpress Anfang Februar werden Maßnahmen für mehr Sicherheit diskutiert. Die Eisenbahngewerkschaft EVG fordert nun Ergebnisse - und droht mit einer Blockade der Dienstpläne.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/evg-droht-mit-streiks-im-regionalverkehr-100.html",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/asien/china-roboter-lauf-100.html",
       "publishedAt": "2026-08-22T19:29:05.000Z"
-    },
-    {
-      "id": "n_47bba2a8ef",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wie Künstliche Intelligenz die Justiz ausbremst",
-      "summary": "Vor allem die Sozialgerichte erleben das Phänomen: Immer mehr Kläger nutzen offenbar Künstliche Intelligenz, um Eingaben zu formulieren. Für die Justiz bedeutet das viel Arbeit mit teils unsinnigen Schriftsätzen. Von T. Denzel.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/kuenstliche-intelligenz-justiz-100.html",
-      "publishedAt": "2026-08-22T17:59:00.000Z"
-    },
-    {
-      "id": "n_1b7448ec5d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Handelsgespräche gescheitert - USA verhängen neue Zölle gegen Kanada",
-      "summary": "Die Verhandlungen über ein Handelsabkommen zwischen den USA und Kanada sind gescheitert. Washington setzte daraufhin weitere Zölle in Kraft. Die Reaktion des Nachbarn fällt hart aus: Regierungschef Carney spricht von Vergeltung.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-kanada-handelsstreit-zoelle-100.html",
-      "publishedAt": "2026-08-22T17:04:55.000Z"
     },
     {
       "id": "n_beb433fac0",
@@ -178,6 +178,28 @@
       "publishedAt": "2026-08-19T15:00:00.000Z"
     },
     {
+      "id": "n_9f15d0b65a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "KI aus Deutschland: Ein Fördersystem, das Innovationen bremst",
+      "summary": "Bisher kam bei KI in Deutschland eher Mittelmaß heraus. Das liegt aber nicht an den Wissenschaftlern, sondern an einem System, das Forscherdrang nicht belohnt. Ein IMHO von Tim Elsner (KI, Silicon Valley)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/ki-aus-deutschland-ein-foerdersystem-das-innovationen-bremst-2608-212027.html",
+      "publishedAt": "2026-08-23T05:30:02.000Z"
+    },
+    {
+      "id": "n_6cd9b3411b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: IT-Jobs in Architektur, Führung und Support",
+      "summary": "Von Microsoft-365-Architektur über IT-Führung bis zum Support - diese sechs Positionen bieten vielfältige Karrierechancen in der IT. (Golem Karrierewelt, Unternehmenssoftware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-it-jobs-in-architektur-fuehrung-und-support-2608-212156.html",
+      "publishedAt": "2026-08-23T05:00:02.000Z"
+    },
+    {
       "id": "n_91df0768ac",
       "type": "news",
       "topic": "tech",
@@ -244,26 +266,26 @@
       "publishedAt": "2026-08-22T08:51:01.000Z"
     },
     {
-      "id": "n_485787731b",
+      "id": "n_f4c36d47d3",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Kameras und smarte Türklingeln von Ring bei Media Markt zum Angebotspreis",
-      "summary": "Bei Media Markt gibt es derzeit günstige Angebote zum Schulstart. Unter anderem dabei: Smart-Home-Produkte wie Kameras und Türklingeln von Ring. (Media Markt, Smart Home)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-kameras-und-smarte-tuerklingeln-von-ring-bei-media-markt-zum-angebotspreis-2608-212190.html",
-      "publishedAt": "2026-08-22T08:40:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T05:46:43.000Z"
     },
     {
-      "id": "n_ebe09ac110",
+      "id": "n_2f30b2d397",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Luftraumsperrung: Transportflugzeug der Air Force muss überraschend umkehren",
-      "summary": "Nach dem Start einer Maschine der U.S. Air Force wurde der betreffende Luftraum wegen russischer Luft- und Weltraum-Aktivitäten gesperrt. Der genaue Grund ist unbekannt. (Militär, Politik)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/luftraumsperrung-transportflugzeug-der-air-force-muss-ueberraschend-umkehren-2608-212163.html",
-      "publishedAt": "2026-08-22T08:30:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+      "summary": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T03:44:19.000Z"
     },
     {
       "id": "n_91f9a2d4a4",
@@ -277,6 +299,17 @@
       "publishedAt": "2026-08-23T01:34:15.000Z"
     },
     {
+      "id": "n_a53bddc975",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
+      "summary": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T23:22:02.000Z"
+    },
+    {
       "id": "n_e31109fac9",
       "type": "news",
       "topic": "general",
@@ -286,17 +319,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-22T21:42:42.000Z"
-    },
-    {
-      "id": "n_f4c36d47d3",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T20:10:00.000Z"
     },
     {
       "id": "n_5fd4de93df",
@@ -330,28 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-22T17:02:06.000Z"
-    },
-    {
-      "id": "n_524958d33a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US military newspaper editor voices censorship fears after being fired",
-      "summary": "Erik Slavin believes he was fired for saying in an interview that \"in a hypothetical situation, censorship would be a red line\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T16:57:19.000Z"
-    },
-    {
-      "id": "n_47b46dfdfc",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-      "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T14:35:11.000Z"
     },
     {
       "id": "n_4f4a8c529b",
@@ -607,14 +607,14 @@
       "publishedAt": "2026-08-21T19:43:39.000Z"
     },
     {
-      "id": "n_8a5a6d190a",
+      "id": "n_897ae96f35",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "There's about to be a big fight to secure access to space.",
+      "headline": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrang",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
       "publishedAt": "2026-08-21T14:00:00.000Z"
     },
     {
