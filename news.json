@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-24T12:21:30.284Z",
+  "generatedAt": "2026-08-24T15:27:30.852Z",
   "items": [
+    {
+      "id": "n_e4774f8da0",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "EU-Klimadienst Copernicus: 21,1 Grad - Weltmeere warm wie nie",
+      "summary": "So warm wie am vergangenen Wochenende waren die Weltmeere noch nie. Laut dem EU-Programm Copernicus wurden im Schnitt 21,1 Grad gemessen. Für die Klimaexperten kommt der neue Rekord zu einem ungewöhnlichen Zeitpunkt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wissen/weltmeere-rekordtemperatur-100.html",
+      "publishedAt": "2026-08-24T15:15:43.000Z"
+    },
+    {
+      "id": "n_ba4a56ced8",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Gas aus Norwegen: Uniper schließt Liefervertrag mit Equinor",
+      "summary": "Schon jetzt bezieht Deutschland den größten Anteil seiner Gaslieferungen aus Norwegen - langfristig soll es noch mehr werden. Dazu hat der staatliche Gashändler Uniper einen umfangreichen Liefervertrag abgeschlossen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/uniper-equinor-100.html",
+      "publishedAt": "2026-08-24T15:04:43.000Z"
+    },
+    {
+      "id": "n_f39a1e4d89",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wie Apfelbauern mit Hitze und Trockenheit umgehen",
+      "summary": "Der heimische Apfelanbau kämpft nicht nur mit günstiger Konkurrenz aus dem Ausland: Auch Hitze und ausbleibender Regen belasten Betriebe. Wie Apfelbauern damit umgehen und was in Zukunft helfen könnte. Von M. Holzreiter.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wissen/klima/apfelbau-hitze-klimawandel-100.html",
+      "publishedAt": "2026-08-24T14:43:53.000Z"
+    },
     {
       "id": "n_3d8ee62052",
       "type": "news",
@@ -10,7 +43,18 @@
       "summary": "Er galt als einer der einflussreichsten Geschäftsmänner und als einer der reichsten Deutschen: Klaus-Michael Kühne ist im Alter von 89 Jahren gestorben. Der gebürtige Hamburger förderte auch Sport und Kultur.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/tod-kuehne-100.html",
-      "publishedAt": "2026-08-24T11:45:56.000Z"
+      "publishedAt": "2026-08-24T12:42:04.000Z"
+    },
+    {
+      "id": "n_85e5545b9f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: Bitcoin meldet sich fulminant zurück",
+      "summary": "Was ist los beim Bitcoin? In wenigen Tagen ist die Kryptowährung um mehr als 25 Prozent nach oben geschossen. Experten machen vor allem drei Kurstreiber aus. Von Detlev Landmesser.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-bitcoin-100.html",
+      "publishedAt": "2026-08-24T12:25:38.000Z"
     },
     {
       "id": "n_72a82e8b61",
@@ -46,48 +90,37 @@
       "publishedAt": "2026-08-24T10:52:11.000Z"
     },
     {
-      "id": "n_eb8874212e",
+      "id": "n_15bb37a349",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "VW-Belegschaft kritisiert Kommunikation des Vorstands in Krisenzeit",
-      "summary": "Die VW-Belegschaft kritisiert die Kommunikation des Vorstands scharf. Eine interne Umfrage zeigt die Verunsicherung der Mitarbeiter. Die Konzernspitze soll nun auf Betriebsversammlungen Antworten geben.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/vw-kritik-kommunikation-vorstand-sparkurs-100.html",
-      "publishedAt": "2026-08-24T10:09:10.000Z"
+      "headline": "Irland: So viel Geld bekommt die Republik nach Apples EU-Niederlage",
+      "summary": "Das Steuermodell des iPhone-Herstellers in Europa musste nach einem EU-Verfahren geändert werden. Nun ist klar, wie massiv Irland davon profitiert.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Nach-EU-Urteil-Geldregen-fuer-Irland-dank-Apple-Niederlage-11422851.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-24T12:53:00.000Z"
     },
     {
-      "id": "n_94531a0814",
+      "id": "n_ef09ce2136",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Ankündigung zum Unabhängigkeitstag: EU gibt Milliarden für Ukraine frei",
-      "summary": "Zum heutigen Unabhängigkeitstag der Ukraine hat die EU neue Finanzhilfen in Milliardenhöhe genehmigt - auch vor dem Hintergrund intensivierter russischer Angriffe. Viele Verbündete der Ukraine treffen sich heute in Kiew.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-unterstuetzung-eu-100.html",
-      "publishedAt": "2026-08-24T09:42:47.000Z"
+      "headline": "Smartphonemarkt: Samsung könnte Apple wieder von Platz 1 verdrängen",
+      "summary": "Der globale Smartphonemarkt wird in diesem Jahr um über 14 Prozent schrumpfen. Samsung soll derweil Apple wieder von Platz 1 schubsen, sagen Marktforscher.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Smartphonemarkt-Samsung-koennte-Apple-wieder-von-Platz-1-verdraengen-11423914.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-24T12:46:00.000Z"
     },
     {
-      "id": "n_f299f22454",
+      "id": "n_f89a9195c7",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Kasachstan: Klare Mehrheit für Regierungspartei bei Parlamentswahl",
-      "summary": "In Kasachstan kann Präsident Tokajew seine Macht weiter ausbauen: Bei der Parlamentswahl gewinnt seine Regierungspartei deutlich. Gleichzeitig ermöglicht ihm eine Verfassungsreform eine erneute Kandidatur 2029.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/kasachstan-wahl-110.html",
-      "publishedAt": "2026-08-24T09:34:48.000Z"
-    },
-    {
-      "id": "n_9ceb25f2e7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Berliner Senatsverwaltungen sind nach Hackerangriff wieder online",
-      "summary": "Die Berliner Verwaltung ist wieder komplett online. Nach einem Hackerangriff waren zwei Senatsverwaltungen tagelang vom IT-Netz abgetrennt, diverse Dienstleistungen waren eingeschränkt. Die Hintergründe werden weiterhin ermittelt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/berlin/hackerangriff-berliner-senatsverwaltungen-100.html",
-      "publishedAt": "2026-08-24T09:32:19.000Z"
+      "headline": "NASA-Weltraumteleskop vor Start: „Roman“ soll 100.000 Exoplaneten finden",
+      "summary": "Mit einer Falcon Heavy von SpaceX soll am Sonntag, dem 30. August, das nächste große Weltraumteleskop ins All starten. Die Erwartungen sind bereits immens.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/NASA-Weltraumteleskop-vor-Start-Roman-soll-100-000-Exoplaneten-finden-11423581.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-24T12:27:00.000Z"
     },
     {
       "id": "n_56da73d98d",
@@ -145,125 +178,147 @@
       "publishedAt": "2026-08-24T09:10:00.000Z"
     },
     {
-      "id": "n_bed6910209",
+      "id": "n_7289aea5e8",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Analyse: Maximaler Ausbau von Offshore-Windenergie kann Niederschläge verändern",
-      "summary": "Wenn Windparks in Nord- und Ostsee maximal ausgebaut werden, kann das die Verteilung von Niederschlägen verändern. Das Szenario ist aktuell aber unrealistisch.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Analyse-Maximaler-Ausbau-von-Offshore-Windenergie-kann-Niederschlaege-veraendern-11423323.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-24T08:57:00.000Z"
-    },
-    {
-      "id": "n_c7c16c3900",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "„Computer History“: OpenAI bringt Windows-Recall-ähnliche Funktion auf Macs",
-      "summary": "Business-, Enterprise- und Pro-Nutzer können ihre gesamte Rechnerarbeit unter macOS künftig von ChatGPT mitschreiben lassen. Die Memory-Files liegen offen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Computer-History-OpenAI-bringt-Windows-Recall-aehnliche-Funktion-auf-Macs-11422534.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-24T08:52:00.000Z"
-    },
-    {
-      "id": "n_e09bf228b1",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "GrapheneOS und Motorola: Erste Smartphones sollen teurer als Pixel werden",
-      "summary": "GrapheneOS hat neue Details zur Partnerschaft mit Motorola genannt. Die ersten Smartphones sollen 2027 erscheinen und teurer als Pixel-Geräte werden.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/GrapheneOS-und-Motorola-Erste-Smartphones-sollen-teurer-als-Pixel-werden-11423311.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-24T08:43:00.000Z"
-    },
-    {
-      "id": "n_88bb6ffba0",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Smartwatch von Amazfit fällt bei Amazon auf neuen Tiefstpreis",
-      "summary": "Sportler und gesundheitsbewusste Menschen profitieren von einer Smartwatch besonders. Ein Modell von Amazfit gibt es bei Amazon zum Tiefstpreis. (Smartwatch, Wearable)",
+      "headline": "Anzeige: Gaming-Maus Logitech G 502 Hero für 29,99 Euro bei Amazon",
+      "summary": "Die Gaming-Maus Logitech G502 Hero mit 25.600 DPI, elf programmierbaren Tasten und Lightsync-RGB ist bei Amazon reduziert. (Technik/Hardware, Logitech)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-smartwatch-von-amazfit-faellt-bei-amazon-auf-neuen-tiefstpreis-2608-212231.html",
-      "publishedAt": "2026-08-24T12:19:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-gaming-maus-logitech-g-502-hero-fuer-29-99-euro-bei-amazon-2608-212238.html",
+      "publishedAt": "2026-08-24T15:09:02.000Z"
     },
     {
-      "id": "n_9974fd205c",
+      "id": "n_5144d1bfc6",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Flugtest: Taiwans Weltraumrakete scheitert grandios",
-      "summary": "Der Testflug einer taiwanesischen Weltraumrakete endet mit einem Absturz. Besorgte Anwohner fordern eine genaue Aufklärung. (Rakete, Raumfahrt)",
+      "headline": "Anzeige: Der Herr der Ringe - Saurons Helm zum Amazon-Tiefstpreis sichern",
+      "summary": "Amazon senkt das Lego-Herr-der-Ringe-Set Saurons Helm auf 45,99 Euro. Gemäß Preistracker gab es den Bausatz beim Onlinehändler nie günstiger. (Lego, Amazon)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/flugtest-taiwans-weltraumrakete-scheitert-grandios-2608-212219.html",
-      "publishedAt": "2026-08-24T11:52:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-der-herr-der-ringe-saurons-helm-zum-amazon-tiefstpreis-sichern-2608-212232.html",
+      "publishedAt": "2026-08-24T14:39:01.000Z"
     },
     {
-      "id": "n_6e698beb76",
+      "id": "n_2769c96e75",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Ladegerät mit 65 W und drei Ports für 19,99 Euro bei Amazon",
-      "summary": "Ein beliebtes Ladegerät von Ugreen mit 65 W, drei USB-Ports und GaN-II-Technologie wird bei Amazon zum reduzierten Preis angeboten. (Technik/Hardware)",
+      "headline": "Bidirektionales Laden: Autoindustrie kritisiert Strombremse für PV-Anlagen",
+      "summary": "Wirtschaftsministerin Reiche will die Einspeisung kleiner Solaranlagen pauschal deckeln. Das würde auch für Elektroautos gelten. (Solarenergie, Elektroauto)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-ladegeraet-mit-65-w-und-drei-ports-fuer-19-99-euro-bei-amazon-2608-212227.html",
-      "publishedAt": "2026-08-24T11:35:02.000Z"
+      "url": "https://www.golem.de/news/bidirektionales-laden-autoindustrie-kritisiert-strombremse-fuer-pv-anlagen-2608-212239.html",
+      "publishedAt": "2026-08-24T14:25:01.000Z"
     },
     {
-      "id": "n_c0f0b7b638",
+      "id": "n_6136bfc65e",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) KI in der Softwareentwicklung: Wenn Scrum Master zum Engpass werden",
-      "summary": "KI macht Scrum Master nicht überflüssig. Allerdings bekommen sie neue Tasks und laufen so Gefahr, sich im Micromanagement zu verlieren. Wie man sich davor schützen kann. Ein Ratgebertext von Marcel Gießler (Arbeit, KI)",
+      "headline": "Anzeige: FRITZ!Smart Thermo 302 Heizkörperregler im Angebot für 49 Euro bei Amazon",
+      "summary": "Der FRITZ!Smart Thermo 302 Heizkörperregler ist bei Amazon reduziert, regelt die Raumtemperatur automatisch und lässt sich per App steuern. (Technik/Hardware, Smart Home)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/ki-in-der-softwareentwicklung-wenn-scrum-master-zum-engpass-werden-2608-212217.html",
-      "publishedAt": "2026-08-24T11:30:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-fritz-smart-thermo-302-heizkoerperregler-im-angebot-fuer-49-euro-bei-amazon-2608-212237.html",
+      "publishedAt": "2026-08-24T14:16:01.000Z"
     },
     {
-      "id": "n_244192d375",
+      "id": "n_58dde47b5e",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Umfrage: Zahl der Nutzer von Festnetztelefonie stark gesunken",
-      "summary": "Das klassische Festnetz-Telefon gerät zusehends in Vergessenheit: Fast 40 Prozent der Deutschen nutzen es nicht mehr, Tendenz drastisch steigend. (Telefonie, VoIP)",
+      "headline": "Rebel Wolves: The Blood of Dawnwalker bekommt 60-fps-Modus nach Protesten",
+      "summary": "Erst waren auf Konsolen höchstens 40 fps angekündigt, nun reagiert Rebel Wolves auf die Kritik an The Blood of Dawnwalker. (The Blood of Dawnwalker, Sony)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/umfrage-zahl-der-nutzer-von-festnetztelefonie-stark-gesunken-2608-212228.html",
-      "publishedAt": "2026-08-24T11:20:01.000Z"
+      "url": "https://www.golem.de/news/rebel-wolves-the-blood-of-dawnwalker-bekommt-60-fps-modus-nach-protesten-2608-212235.html",
+      "publishedAt": "2026-08-24T13:59:02.000Z"
     },
     {
-      "id": "n_f22eafc186",
+      "id": "n_3a3d204f1a",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Missbrauch von Passkeys: Phishing-Toolkit soll Passwort-Reset umgehen können",
-      "summary": "Ein ab 10.000 US-Dollar gehandeltes Phishing-Toolkit soll Angreifern über Passkeys einen dauerhaften Zugriff etwa auf gekaperte Google-Konten verleihen. (Phishing, Google)",
+      "headline": "Systemeinstellungen: Microsoft baut App, die überall Bing als Standard setzt",
+      "summary": "Die sonderbare App erkennt Browser und setzt bei ihnen Bing als Suchmaschine. Auch installiert sie passende Browsererweiterungen. (Bing, Windows)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/missbrauch-von-passkeys-phishing-toolkit-soll-passwort-reset-umgehen-koennen-2608-212226.html",
-      "publishedAt": "2026-08-24T10:50:02.000Z"
+      "url": "https://www.golem.de/news/systemeinstellungen-microsoft-baut-app-die-ueberall-bing-als-standard-setzt-2608-212234.html",
+      "publishedAt": "2026-08-24T13:44:01.000Z"
     },
     {
-      "id": "n_e2b32d4a0a",
+      "id": "n_5992750b21",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Philips Hue White Ambiance GU10 LED-Spots im 5er-Pack für nur rund 16 Euro pro Stück ...",
-      "summary": "Die Philips Hue White Ambiance LED Spots sind bei Amazon reduziert. Sie dimmen von Warm- bis Kaltweiß und sind per App oder Sprache steuerbar. (Hue, Smart Home)",
+      "headline": "Salt und Sunrise: Swisscom-Konkurrenten wollen Mobilfunknetz zusammen ausbauen",
+      "summary": "Salt und Sunrise planen eine umfassende Netzallianz, um künftig ihre Antennen zu teilen. Es geht gegen die übermächtige Swisscom. (Mobilfunk, Telekommunikation)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-philips-hue-white-ambiance-gu10-led-spots-im-5er-pack-fuer-nur-rund-16-euro-pro-stueck-bei-amazon-2608-212225.html",
-      "publishedAt": "2026-08-24T10:43:01.000Z"
+      "url": "https://www.golem.de/news/salt-und-sunrise-swisscom-konkurrenten-wollen-mobilfunknetz-zusammen-ausbauen-2608-212233.html",
+      "publishedAt": "2026-08-24T13:31:02.000Z"
     },
     {
-      "id": "n_76f55d09d8",
+      "id": "n_6a5c5067ae",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Gaming: Esports World Cup schüttet 75 Millionen Dollar Preisgeld aus",
-      "summary": "Mehr als 2.000 Profis kämpften sieben Wochen lang um 75 Millionen US-Dollar. Den Gesamtsieg holte die chinesische E-Sport-Organisation AG.AL. (E-Sport, Spiele)",
+      "headline": "Anzeige: Roborock QV 35A mit Dock und Wischfunktion bei Amazon nie billiger",
+      "summary": "Der Roborock QV 35A Set mit Saug- und Wischfunktion sowie einem All-in-One-Dock ist auf den bisher besten Amazon-Preis gefallen. (Roborock, Saugroboter)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/gaming-esports-world-cup-schuettet-75-millionen-dollar-preisgeld-aus-2608-212224.html",
-      "publishedAt": "2026-08-24T10:35:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-roborock-qv-35a-mit-dock-und-wischfunktion-bei-amazon-nie-billiger-2608-212229.html",
+      "publishedAt": "2026-08-24T12:48:01.000Z"
+    },
+    {
+      "id": "n_2b2eabcd96",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Is UK's Storm Shadow missile a game changer for Ukraine?",
+      "summary": "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T15:14:14.000Z"
+    },
+    {
+      "id": "n_515cc1be6f",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Access to Zambian courts prevented as election petition deadline looms",
+      "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T14:02:17.000Z"
+    },
+    {
+      "id": "n_c5704ab79e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T13:56:22.000Z"
+    },
+    {
+      "id": "n_6655729cdf",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T13:35:07.000Z"
+    },
+    {
+      "id": "n_2ef879858d",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Sonya Massey's killer Sean Grayson dies in US prison",
+      "summary": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T13:14:10.000Z"
     },
     {
       "id": "n_f631750f09",
@@ -288,28 +343,6 @@
       "publishedAt": "2026-08-24T11:26:19.000Z"
     },
     {
-      "id": "n_97d306bab1",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-      "summary": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T11:25:21.000Z"
-    },
-    {
-      "id": "n_515cc1be6f",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Access to Zambian courts prevented as election petition deadline looms",
-      "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T11:17:28.000Z"
-    },
-    {
       "id": "n_3a7e4db059",
       "type": "news",
       "topic": "general",
@@ -321,48 +354,26 @@
       "publishedAt": "2026-08-24T11:08:27.000Z"
     },
     {
-      "id": "n_529f520e70",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-      "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T10:40:22.000Z"
-    },
-    {
-      "id": "n_6655729cdf",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T10:39:23.000Z"
-    },
-    {
-      "id": "n_d6cf97b993",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
-      "summary": "Tens of thousands of people in the US state have been warned to evacuate as the wildfire spreads in the outskirts of Reno.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T10:05:22.000Z"
-    },
-    {
       "id": "n_b4290bb9d1",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "UK minister urges social media firms to remove dangerous driving videos",
-      "summary": "Defence minister Luke Pollard says \"there's no place\" for social media trend showing people driving the wrong way down roads.",
+      "headline": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
+      "summary": "His comments come as the government urged TikTok and other social media firms to remove wrong-way driving videos.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T11:46:21.000Z"
+      "publishedAt": "2026-08-24T13:47:29.000Z"
+    },
+    {
+      "id": "n_400d3f4f9f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Twitch and Amazon face legal action over using livestreams to train AI",
+      "summary": "The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T13:09:44.000Z"
     },
     {
       "id": "n_4f4a8c529b",
@@ -431,22 +442,22 @@
       "publishedAt": "2026-08-19T16:14:46.000Z"
     },
     {
-      "id": "n_968cc968f3",
+      "id": "n_b01edcf6b7",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Monzo says issue with card payments and transfers now resolved",
-      "summary": "The digital bank said all of its services were now \"back up and running\"",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T16:04:16.000Z"
+      "headline": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
+      "summary": "The Unibook is a weird entry-level laptop for people with patience.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
+      "publishedAt": "2026-08-24T11:00:01.000Z"
     },
     {
       "id": "n_d41bba2863",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+      "headline": "Due to need for \"absolute success,\" China delays critical Moon launch to 2027",
       "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
@@ -519,15 +530,37 @@
       "publishedAt": "2026-08-21T20:10:50.000Z"
     },
     {
-      "id": "n_392c32ec61",
+      "id": "n_97614477a9",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
-      "summary": "The private Android-based OS will expand beyond Pixels next year.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
-      "publishedAt": "2026-08-21T19:32:29.000Z"
+      "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "publishedAt": "2026-08-24T15:24:18.000Z"
+    },
+    {
+      "id": "n_25d39522dc",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "publishedAt": "2026-08-24T15:00:00.000Z"
+    },
+    {
+      "id": "n_c98f9ed203",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Hugging Face reportedly in talks to be acquired for $13B",
+      "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "publishedAt": "2026-08-24T13:47:26.000Z"
     },
     {
       "id": "n_bab230b853",
@@ -583,39 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
       "publishedAt": "2026-08-22T21:46:56.000Z"
-    },
-    {
-      "id": "n_00b5c41772",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "publishedAt": "2026-08-22T19:00:00.000Z"
-    },
-    {
-      "id": "n_ceb77d2acd",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI says California should strengthen its AI safety bill",
-      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "publishedAt": "2026-08-22T16:30:34.000Z"
-    },
-    {
-      "id": "n_32aab1e028",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "publishedAt": "2026-08-22T16:00:00.000Z"
     },
     {
       "id": "n_016ca72fa4",
@@ -783,6 +783,17 @@
       "publishedAt": "2026-01-12T11:30:00.000Z"
     },
     {
+      "id": "n_b09e26ca9f",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "How to encourage smarter AI use in the classroom",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an a",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "publishedAt": "2026-08-24T14:20:19.000Z"
+    },
+    {
       "id": "n_3d1f34a6b2",
       "type": "news",
       "topic": "ai",
@@ -858,17 +869,6 @@
       "source": "MIT Technology Review",
       "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
       "publishedAt": "2026-08-17T09:00:00.000Z"
-    },
-    {
-      "id": "n_ce303cd37c",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several c",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "publishedAt": "2026-08-13T13:41:10.000Z"
     },
     {
       "id": "n_bcac6effbe",
