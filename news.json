@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-24T03:42:50.722Z",
+  "generatedAt": "2026-08-24T06:32:18.699Z",
   "items": [
+    {
+      "id": "n_1e0d686a1f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: DAX vor schwunglosem Wochenstart",
+      "summary": "In dieser Woche warten die Anleger gespannt auf die Bilanz des US-Chipherstellers Nvidia. Auch ein Treffen von US-Notenbankern steht im Fokus. Der DAX dürfte deshalb schwunglos in den Montag starten.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-100.html",
+      "publishedAt": "2026-08-24T05:39:25.000Z"
+    },
+    {
+      "id": "n_de5e8045e6",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Leisten wir uns zu viele Jobs, die dem Wohlstand nichts bringen?",
+      "summary": "Deutschland hat ein Problem: Die Wirtschaft wächst nicht mehr so stark, wie sie müsste, um den Wohlstand zu halten. Wird zu viel verwaltet und berichtet, statt Investitionen und Ideen ins Land zu holen? Von Bianca v. d. Au.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/produktivitaet-jobbabau-buerokratie-unproduktive-jobs-100.html",
+      "publishedAt": "2026-08-24T04:18:06.000Z"
+    },
+    {
+      "id": "n_bfe5f94aab",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wahl in Sachsen-Anhalt: Lackmustest für die Linke",
+      "summary": "Die Linke präsentiert heute ihr Programm für ein \"zukunftsfestes Sachsen-Anhalt\". Die Partei kämpft um ein starkes Ergebnis bei der Wahl - mit prominenter Unterstützung. Aus Berlin kam aber nicht nur Rückenwind. Von Alexander Budweg.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/linke-landtagswahl-sachsen-anhalt-100.html",
+      "publishedAt": "2026-08-24T04:00:02.000Z"
+    },
     {
       "id": "n_859db22268",
       "type": "news",
@@ -57,37 +90,15 @@
       "publishedAt": "2026-08-23T21:38:32.000Z"
     },
     {
-      "id": "n_dd38b01609",
+      "id": "n_f7964becb0",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "OpenAI startet Werbegeschäft in Europa: Wie sich KI finanzieren lässt",
-      "summary": "Von Montag an wird ChatGPT in Europa Werbung enthalten. Obwohl OpenAI-Chef Altman lange dagegen war, setzt der Konzern nun genau darauf, um die KI zu finanzieren. Welche Folgen das hat, erklärt Lilli-Marie Hiltscher.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/chat-gpt-werbung-finanzierung-ki-100.html",
-      "publishedAt": "2026-08-23T18:34:43.000Z"
-    },
-    {
-      "id": "n_0aa60230d0",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "AfD-Vorsitzender Chrupalla nennt Klimawandel \"Nebenthema\"",
-      "summary": "Deutschland erlebt einen Extremsommer mit Hitzetoten und Waldbränden. Der AfD-Vorsitzende Chrupalla kritisiert dennoch einen \"Klima-Hype\". Wichtig sei, den Strom für Klimageräte bezahlbar zu machen, sagte er im ARD-Sommerinterview.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-chrupalla-afd-102.html",
-      "publishedAt": "2026-08-23T18:05:46.000Z"
-    },
-    {
-      "id": "n_2cced4312d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Das ARD-Sommerinterview mit AfD-Chef Chrupalla im Faktencheck",
-      "summary": "Der AfD-Vorsitzende Chrupalla war im ARD-Sommerinterview zu Gast. Viele Aussagen halten einer Überprüfung stand. Doch beim Thema Klimawandel lag er daneben, einige Aussagen zur Migration waren ebenfalls falsch.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-chrupalla-100.html",
-      "publishedAt": "2026-08-23T16:40:57.000Z"
+      "headline": "Microsoft stopft zahlreiche Cloud-Schwachstellen",
+      "summary": "Microsoft dokumentiert 18 teils kritische Sicherheitslücken in Cloud-Produkten, die die Entwickler geschlossen haben.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Microsoft-stopft-zahlreiche-Cloud-Schwachstellen-11423129.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-24T06:19:00.000Z"
     },
     {
       "id": "n_beb433fac0",
@@ -167,15 +178,37 @@
       "publishedAt": "2026-08-20T09:45:00.000Z"
     },
     {
-      "id": "n_39330a7c8a",
+      "id": "n_b5a56132d1",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "90.000.000 km/h: Schnellster Stern der Milchstraße rast um Schwarzes Loch Sgr A*",
-      "summary": "Um das zentrale Schwarze Loch der Milchstraße passiert Seltsames. Nun wurde dort ein rasanter Stern entdeckt, der einen zentralen Nachweis ermöglichen könnte.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/90-000-000-km-h-Schnellster-Stern-der-Milchstrasse-rast-um-Schwarzes-Loch-Sgr-A-11418977.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-19T15:00:00.000Z"
+      "headline": "E-Mail-Programm: Outlook für Windows bekommt Outlook-Classic-Skin als Anreiz",
+      "summary": "Das webbasierte Outlook für Windows ist nicht bei allen Usern beliebt. Ein neuer Skin soll den Umstieg erleichtern. (Windows 11, Groupware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/e-mail-programm-outlook-fuer-windows-bekommt-outlook-classic-skin-als-anreiz-2608-212205.html",
+      "publishedAt": "2026-08-24T06:31:01.000Z"
+    },
+    {
+      "id": "n_e6e7bd9d5d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Mondmission: Chinas Chang'e-7-Mondsonde abgesagt",
+      "summary": "Kurz vor dem geplanten Start ist Chinas Mondmission Chang'e-7 abgesagt worden. Die Gründe sind unklar. (China, Raumfahrt)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/mondmission-chinas-chang-e-7-mondsonde-abgesagt-2608-212204.html",
+      "publishedAt": "2026-08-24T05:44:01.000Z"
+    },
+    {
+      "id": "n_83c023d531",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Microsoft Entra ID richtig absichern",
+      "summary": "Die Absicherung von Cloud-Identitäten wird für Unternehmen immer wichtiger. Ein Workshop vermittelt praxisnahes Wissen zur Verwaltung und Härtung von Microsoft Entra ID. (Golem Karrierewelt, Sicherheitslücke)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-microsoft-entra-id-richtig-absichern-2608-212191.html",
+      "publishedAt": "2026-08-24T05:15:02.000Z"
     },
     {
       "id": "n_841f090e6d",
@@ -233,50 +266,6 @@
       "publishedAt": "2026-08-23T09:25:01.000Z"
     },
     {
-      "id": "n_6d20f6182f",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Biegetest: Pixel 11 Pro Fold zerbricht sehr leicht in Einzelteile",
-      "summary": "Das Google Pixel 11 Pro Fold hat strukturelle Schwächen. Sand, Fingernägel und zu viel Kraft in die falsche Richtung können es zerstören. (Google Pixel, Smartphone)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/biegetest-pixel-11-pro-fold-zerbricht-sehr-leicht-in-einzelteile-2608-212199.html",
-      "publishedAt": "2026-08-23T08:51:02.000Z"
-    },
-    {
-      "id": "n_2de6dfdb7e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Grundig UC 6620 Ultraschallreiniger zum neuen Amazon-Bestpreis für 26,39 Euro",
-      "summary": "Der Grundig Ultraschallreiniger löst Schmutz per Kavitation aus Brillen, Schmuck und Zahnersatz und ist bei Amazon so günstig wie nie. (Technik/Hardware, Ultraschall)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-grundig-uc-6620-ultraschallreiniger-zum-neuen-amazon-bestpreis-fuer-26-39-euro-2608-212184.html",
-      "publishedAt": "2026-08-23T08:40:02.000Z"
-    },
-    {
-      "id": "n_6a28dce096",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "(g+) Freelancer auf Linkedin: 100 Likes, 0 Aufträge",
-      "summary": "Auf Linkedin reicht es nicht, als Freelancer sichtbar zu sein und mit Meinungsposts Likes abzugreifen. Aufträge entstehen hier anders - wir zeigen, wie. Ein Ratgebertext von Pierre Wilken (IT-Freelancer, Wirtschaft)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/freelancer-auf-linkedin-100-likes-0-auftraege-2608-212174.html",
-      "publishedAt": "2026-08-23T08:00:01.000Z"
-    },
-    {
-      "id": "n_398564c7de",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Nearly 3 million Teslas recalled in China over hidden door handles",
-      "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T03:27:11.000Z"
-    },
-    {
       "id": "n_8bcb9c0fd4",
       "type": "news",
       "topic": "general",
@@ -285,7 +274,18 @@
       "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T02:05:04.000Z"
+      "publishedAt": "2026-08-24T06:13:32.000Z"
+    },
+    {
+      "id": "n_6372ee5d40",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "China probes use of formaldehyde to keep cabbages fresh",
+      "summary": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T05:40:48.000Z"
     },
     {
       "id": "n_c31e3c4947",
@@ -296,18 +296,40 @@
       "summary": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T00:34:59.000Z"
+      "publishedAt": "2026-08-24T05:31:53.000Z"
     },
     {
-      "id": "n_6c51db2072",
+      "id": "n_398564c7de",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
-      "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+      "headline": "Nearly three million Teslas recalled in China over hidden door handles",
+      "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T23:07:10.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T05:01:17.000Z"
+    },
+    {
+      "id": "n_b4a6fbb627",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+      "summary": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T05:00:22.000Z"
+    },
+    {
+      "id": "n_cff087719c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+      "summary": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T03:55:35.000Z"
     },
     {
       "id": "n_205682e3e1",
@@ -330,39 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-23T19:11:30.000Z"
-    },
-    {
-      "id": "n_c3bfba41d6",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Guinea rubbish landfill collapse kills 30",
-      "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T18:17:37.000Z"
-    },
-    {
-      "id": "n_95e7989ace",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "France links sharp rise in drownings to heatwaves",
-      "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T17:39:33.000Z"
-    },
-    {
-      "id": "n_ca36e704e0",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Why students are being paid £2,000 to play computer games",
-      "summary": "Roehampton University offers students £2,000 a year to play esports alongside their studies.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T23:23:55.000Z"
     },
     {
       "id": "n_4f4a8c529b",
@@ -440,6 +429,17 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T16:04:16.000Z"
+    },
+    {
+      "id": "n_d1c7a1c2fa",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "OpenAI slows down training after its AI carried out hack",
+      "summary": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T11:19:12.000Z"
     },
     {
       "id": "n_d41bba2863",
