@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-24T00:32:37.171Z",
+  "generatedAt": "2026-08-24T03:42:50.722Z",
   "items": [
+    {
+      "id": "n_859db22268",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Verhandlungsbeginn: Sammelklage gegen E.ON wegen Fernwärmepreisen",
+      "summary": "Um mehrere Hundert Prozent sollen sich die Preise vom Anbieter E.ON für Fernwärme in einigen Fällen erhöht haben. Der Verbraucherzentrale Bundesverband klagt - heute beginnt die Verhandlung. Für Betroffene könnte es um Tausende Euro gehen. Von J. Eberl.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/sammelklage-eon-100.html",
+      "publishedAt": "2026-08-24T03:00:37.000Z"
+    },
+    {
+      "id": "n_90f3464eb4",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Evakuierungen wegen Brände im US-Bundesstaat Nevada",
+      "summary": "Die als \"Hawk Fire\" bezeichneten Brände im US-Bundesstaat Nevada haben die ersten Wohnviertel der Großstadt Reno erreicht. Die Behörden rufen Zehntausende Menschen dazu auf, ihre Häuser zu verlassen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-waldbrand-nevada-100.html",
+      "publishedAt": "2026-08-24T02:21:21.000Z"
+    },
+    {
+      "id": "n_16969f115c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Außenminister Wadephul in der Ukraine: Eindrucksvoller Symbolbesuch",
+      "summary": "Sein Besuch sollte ein Symbol der deutschen Verbundenheit mit der Ukraine sein. Doch der Krieg und dessen Folgen vor Ort erinnern Bundesaußenminister Wadephul daran, was das Land am Dringendsten braucht: Abwehrraketen. Von Claudia Buckenmaier.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/wadephul-besuch-ukraine-100.html",
+      "publishedAt": "2026-08-24T01:41:08.000Z"
+    },
     {
       "id": "n_5191730782",
       "type": "news",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-chrupalla-100.html",
       "publishedAt": "2026-08-23T16:40:57.000Z"
-    },
-    {
-      "id": "n_9ceb25f2e7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Berliner Senatsverwaltungen sind nach Hackerangriff wieder online",
-      "summary": "Die Berliner Verwaltung ist wieder komplett online. Nach einem Hackerangriff waren zwei Senatsverwaltungen tagelang vom IT-Netz abgetrennt, diverse Dienstleistungen waren eingeschränkt. Die Hintergründe werden weiterhin ermittelt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/berlin/hackerangriff-berliner-senatsverwaltungen-100.html",
-      "publishedAt": "2026-08-23T16:15:18.000Z"
-    },
-    {
-      "id": "n_5913730294",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Iran reagiert mit Drohungen auf US-Drohungen",
-      "summary": "Noch immer gibt es keine Einigung im Iran-Krieg. Die USA drohen mit einem \"Wirtschaftskrieg\", Teheran reagiert scharf. Jeder, der sich daran beteilige, werde als \"Feind\" gesehen. Doch die ökonomischen Probleme Irans wachsen offenbar.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/usa-iran-warnung-sanktionen-100.html",
-      "publishedAt": "2026-08-23T15:25:53.000Z"
-    },
-    {
-      "id": "n_3c91728298",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Außenminister Wadephul lobt den Widerstandswillen Charkiws",
-      "summary": "Das ukrainische Charkiw liegt nur rund 30 Kilometer von der Front entfernt - häufig steht sie unter russischem Beschuss. Dennoch besuchte Außenminister Wadephul die Millionenstadt. Dabei würdigte er den Widerstandswillen der Bewohner.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-108.html",
-      "publishedAt": "2026-08-23T14:21:56.000Z"
     },
     {
       "id": "n_beb433fac0",
@@ -266,6 +266,50 @@
       "publishedAt": "2026-08-23T08:00:01.000Z"
     },
     {
+      "id": "n_398564c7de",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Nearly 3 million Teslas recalled in China over hidden door handles",
+      "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T03:27:11.000Z"
+    },
+    {
+      "id": "n_8bcb9c0fd4",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Shein aims for almost $27bn valuation in stock market debut",
+      "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T02:05:04.000Z"
+    },
+    {
+      "id": "n_c31e3c4947",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Australian shark attack victim grateful for 'second chance at life'",
+      "summary": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T00:34:59.000Z"
+    },
+    {
+      "id": "n_6c51db2072",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+      "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T23:07:10.000Z"
+    },
+    {
       "id": "n_205682e3e1",
       "type": "news",
       "topic": "general",
@@ -308,50 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-23T17:39:33.000Z"
-    },
-    {
-      "id": "n_b11fa1f9ca",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Frustration builds in Indiana town struggling without power for 12 days",
-      "summary": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T15:54:32.000Z"
-    },
-    {
-      "id": "n_7e7a0d4f47",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Kejelcha breaks men's half marathon world record by 29 seconds",
-      "summary": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of 56 minutes 51 seconds in a World Athletics road race in Buenos Aires.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T13:35:06.000Z"
-    },
-    {
-      "id": "n_c85614423c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-      "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T12:56:43.000Z"
-    },
-    {
-      "id": "n_02fe1f5a45",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "DR Congo and M23 rebels agree roadmap for peace talks",
-      "summary": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T12:52:08.000Z"
     },
     {
       "id": "n_ca36e704e0",
