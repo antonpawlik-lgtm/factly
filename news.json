@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-23T18:11:22.082Z",
+  "generatedAt": "2026-08-24T00:32:37.171Z",
   "items": [
+    {
+      "id": "n_5191730782",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "30 Tote nach Abrutsch einer Mülldeponie im westafrikanischen Guinea",
+      "summary": "Mindestens 30 Menschen sind beim Abrutsch einer Mülldeponie im westafrikanischen Guinea ums Leben gekommen, weitere wurden verletzt. Schwerer Regen hatte die Deponie in der Hauptstadt Conakry aufgeweicht.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/afrika/guinea-tote-muellkippe-100.html",
+      "publishedAt": "2026-08-23T22:44:33.000Z"
+    },
+    {
+      "id": "n_fdcfc80202",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Mehrere Leichen nach Bootsunglück vor Tunesien geborgen",
+      "summary": "Die Zahl der Todesopfer ist nach dem Bootsunglück vor der Küste des nordafrikanischen Landes weiter gestiegen. Von den 15 Insassen wird nur noch ein Mensch vermisst. Die Migranten wollten offenbar nach Italien.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/afrika/tunesien-migranten-bootsunglueck-100.html",
+      "publishedAt": "2026-08-23T21:38:32.000Z"
+    },
+    {
+      "id": "n_dd38b01609",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "OpenAI startet Werbegeschäft in Europa: Wie sich KI finanzieren lässt",
+      "summary": "Von Montag an wird ChatGPT in Europa Werbung enthalten. Obwohl OpenAI-Chef Altman lange dagegen war, setzt der Konzern nun genau darauf, um die KI zu finanzieren. Welche Folgen das hat, erklärt Lilli-Marie Hiltscher.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/chat-gpt-werbung-finanzierung-ki-100.html",
+      "publishedAt": "2026-08-23T18:34:43.000Z"
+    },
     {
       "id": "n_0aa60230d0",
       "type": "news",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-wadephul-108.html",
       "publishedAt": "2026-08-23T14:21:56.000Z"
-    },
-    {
-      "id": "n_bb5abd5508",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wie die Urlaubserholung zurück im Job möglichst lange anhält",
-      "summary": "Der Urlaub ist um, die Erholung weicht dem Alltagsstress. Doch muss das sein? Wie lässt sich das Urlaubsgefühl in den Alltag hinüberretten - zumindest eine Zeit lang? Von Laura Lippert.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/urlaub-erholung-arbeitsalltag-100.html",
-      "publishedAt": "2026-08-23T13:52:16.000Z"
-    },
-    {
-      "id": "n_07dda1cbe6",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Präsidentenwahl: \"Schlimmste Krise in Kosovo seit dem Krieg\"",
-      "summary": "Der Kosovo erlebt eine beispiellose Verfassungskrise. Auch nach drei Wahlen in kurzer Folge hat sich das Parlament nicht auf einen neuen Präsidenten verständigen können. Ein Ausweg ist nicht absehbar. Von S. Hahne.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/kosovo-suche-neuer-staatspraesident-100.html",
-      "publishedAt": "2026-08-23T13:40:30.000Z"
-    },
-    {
-      "id": "n_1de542acb5",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Rhein-Fähren fahren wieder - Binnenschiffe haben weiter Probleme",
-      "summary": "Die Hitzewelle hat Deutschlands Flüssen erheblich zugesetzt. Auf dem Rhein läuft nun zumindest der Fährbetrieb wieder an. Bis sich die Lage für die großen Binnenschiffe normalisiert, dürfte es aber noch Wochen dauern.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/niedrigwasser-schifffahrt-rhein-100.html",
-      "publishedAt": "2026-08-23T12:51:05.000Z"
     },
     {
       "id": "n_beb433fac0",
@@ -270,11 +270,33 @@
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+      "headline": "Trump waves green flag to start IndyCar race through Washington streets",
       "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T17:54:34.000Z"
+      "publishedAt": "2026-08-23T20:19:36.000Z"
+    },
+    {
+      "id": "n_f4c36d47d3",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T19:11:30.000Z"
+    },
+    {
+      "id": "n_c3bfba41d6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Guinea rubbish landfill collapse kills 30",
+      "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T18:17:37.000Z"
     },
     {
       "id": "n_95e7989ace",
@@ -292,7 +314,7 @@
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Thousands struggling without power in Indiana 12 days after severe storms",
+      "headline": "Frustration builds in Indiana town struggling without power for 12 days",
       "summary": "In the town of Gary, where a third of residents live in poverty, people say they have been living in \"survival mode\".",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
@@ -332,26 +354,15 @@
       "publishedAt": "2026-08-23T12:52:08.000Z"
     },
     {
-      "id": "n_9df0000ed1",
+      "id": "n_ca36e704e0",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Wicker Man director's sons complete their late father's film trilogy",
-      "summary": "The final film in the folk horror trilogy brings closure to the saga as well as its creator's family after more than 50 years.",
+      "headline": "Why students are being paid £2,000 to play computer games",
+      "summary": "Roehampton University offers students £2,000 a year to play esports alongside their studies.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj36kv62g7yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T12:51:15.000Z"
-    },
-    {
-      "id": "n_0ddadb7cee",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Robot boxing, football and sprinting at World Humanoid Games",
-      "summary": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T12:47:06.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T23:23:55.000Z"
     },
     {
       "id": "n_4f4a8c529b",
@@ -429,17 +440,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-19T16:04:16.000Z"
-    },
-    {
-      "id": "n_d1c7a1c2fa",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "OpenAI slows down training after its AI carried out hack",
-      "summary": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-19T11:19:12.000Z"
     },
     {
       "id": "n_d41bba2863",
@@ -530,6 +530,28 @@
       "publishedAt": "2026-08-21T19:32:29.000Z"
     },
     {
+      "id": "n_bab230b853",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "publishedAt": "2026-08-23T20:01:36.000Z"
+    },
+    {
+      "id": "n_ff8825167e",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "publishedAt": "2026-08-23T19:14:08.000Z"
+    },
+    {
       "id": "n_80d039e631",
       "type": "news",
       "topic": "ai",
@@ -594,28 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
       "publishedAt": "2026-08-22T16:00:00.000Z"
-    },
-    {
-      "id": "n_5a859cda51",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Anthropic’s Opus 4.6 is a smut-machine",
-      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "publishedAt": "2026-08-21T23:07:25.000Z"
-    },
-    {
-      "id": "n_e4f6afd078",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Nvidia partners with data center developer Cloverleaf",
-      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "publishedAt": "2026-08-21T22:37:38.000Z"
     },
     {
       "id": "n_016ca72fa4",
