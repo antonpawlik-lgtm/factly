@@ -1,93 +1,170 @@
 {
-  "generatedAt": "2026-08-25T12:22:13.751Z",
+  "generatedAt": "2026-08-25T18:20:59.142Z",
   "items": [
     {
-      "id": "n_d3e01c0489",
+      "id": "n_bf58365692",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Sorge um Top-Rating: Deutsches Staatsdefizit fast verdoppelt",
-      "summary": "Im ersten Halbjahr hat sich das Staatsdefizit nahezu verdoppelt. Während das Fiskalpaket offenbar bei den Unternehmen Wirkung zeigt, bringt es den Staat in eine schwierige Lage. Von Detlev Landmesser.",
+      "headline": "Kanada kündigt Vergeltungszölle gegen USA von bis zu 50 Prozent an",
+      "summary": "Gegenzölle von bis zu 50 Prozent auf bestimmte Importe aus den Vereinigten Staaten: So lautet die Antwort der kanadischen Regierung auf die neuen US-Zölle. Der Konflikt zwischen den Nachbarstaaten spitzt sich zu.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-staatsdefizit-rentenmarkt-100.html",
-      "publishedAt": "2026-08-25T12:12:42.000Z"
+      "url": "https://www.tagesschau.de/ausland/amerika/kanada-zoelle-100.html",
+      "publishedAt": "2026-08-25T16:46:12.000Z"
     },
     {
-      "id": "n_b31ea97dd2",
+      "id": "n_5d1361675c",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Licht- und Medienkunst \"Nebula\" in den Beelitzer Heilstätten",
-      "summary": "Wo früher Moorbäder und Saunagänge zur Genesung beitragen sollten, entstehen künftig leuchtende, bewegliche Kunstwerke. In den Beelitzer Heilstätten eröffnet im September die Medienkunstausstellung \"Nebula\". Von J. Piwon.",
+      "headline": "Firmen werden optimistischer - das Beispiel des Kabelherstellers Lapp",
+      "summary": "Die Stimmung in der deutschen Wirtschaft hat sich aufgehellt, der ifo-Geschäftsklimaindex steigt. Der Kabelhersteller Lapp aus Stuttgart spürt das ebenfalls. Erfolgreich ist das Unternehmen mit einer Abkehr von seinen Wurzeln. Von Laura Bisch.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kultur/lichtkunst-in-beelitzer-heilstaetten,lichtkunst-in-beelitzer-heilstaetten-100.html",
-      "publishedAt": "2026-08-25T11:47:34.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/lapp-kabel-100.html",
+      "publishedAt": "2026-08-25T16:39:48.000Z"
     },
     {
-      "id": "n_73cad56126",
+      "id": "n_11ac14b4d2",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Wie tief steckt VW in der Krise?",
-      "summary": "Beim Autobauer Volkswagen hat die Serie von Betriebsversammlungen begonnen, in denen es um die drohenden Sparpläne geht. Was steht dabei zur Debatte? Und warum kämpft der Konzern überhaupt mit so massiven wirtschaftlichen Problemen?",
+      "headline": "Marktbericht: Konjunkturdaten bringen neuen Schwung",
+      "summary": "Erfreulich robuste Daten aus der deutschen Wirtschaft haben den DAX am Dienstag aus seiner Lethargie gerissen. Vor wichtigen Terminen bleibt die Stimmung aber angespannt.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-krise-106.html",
-      "publishedAt": "2026-08-25T11:46:43.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zinsen-rendite-100.html",
+      "publishedAt": "2026-08-25T16:23:57.000Z"
     },
     {
-      "id": "n_7155471f8e",
+      "id": "n_21f04ab1f9",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Tornado zieht über Südfrankreich - mehrere Verletzte",
-      "summary": "Fast 40 Verletzte und Hunderte beschädigte Häuser - am Montag hat ein Tornado das französische Département Aude ungewöhnlich hart getroffen. Noch immer sind viele Haushalte in der Region ohne Strom.",
+      "headline": "Slowakische Polizei vereitelt Anschlag auf Drohnenfabrik",
+      "summary": "Improvisiertes Napalm und ein handschriftlicher Plan: In der Slowakei haben Ermittler nach eigenen Angaben einen Anschlag auf eine Drohnenfabrik verhindert. Drei Männer wurden festgenommen - einer von ihnen in Deutschland.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/tornado-frankreich-100.html",
-      "publishedAt": "2026-08-25T11:45:35.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/slowakei-anschlag-drohnenfabrik-vereitelt-100.html",
+      "publishedAt": "2026-08-25T15:42:47.000Z"
     },
     {
-      "id": "n_b933240ffe",
+      "id": "n_792e83cd55",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Bundesregierung will Zuckersteuer auf Light-Getränke ausweiten",
-      "summary": "Die Bundesregierung will eine Steuer auf zuckerhaltige Getränke einführen. Nun wurde bekannt, dass die geplante Steuer womöglich ausgeweitet werden soll, etwa auf Fruchtnektar oder Haferdrinks. Das Vorhaben ist umstritten.",
+      "headline": "Rede über Zuwanderung - Steinmeier fordert Absage an völkische Ideologie",
+      "summary": "Es ist die erste Publikumsveranstaltung des Bundespräsidenten in seinem Übergangsquartier - und Steinmeier nutzt sie für eine Warnung vor einem Rückfall in völkisches Denken. Er sagt auch, Zuwanderung koste Kraft.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-zuckersteuer-ausweitung-100.html",
-      "publishedAt": "2026-08-25T11:40:30.000Z"
+      "url": "https://www.tagesschau.de/inland/gesellschaft/steinmeier-migration-100.html",
+      "publishedAt": "2026-08-25T14:55:55.000Z"
     },
     {
-      "id": "n_54ba891a75",
+      "id": "n_8e299c53d4",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Warten auf Reformen: Wirtschaft will Taten sehen",
-      "summary": "Schon 2025 versprach Kanzler Merz einen \"Herbst der Reformen\". Nun warten die Unternehmen darauf, dass der große Wurf tatsächlich kommt. Dabei steht vor allem die Rente im Blickpunkt. Von Stefan Wolff.",
+      "headline": "Die Wirtschaft schöpft wieder Hoffnung - das sind die Gründe",
+      "summary": "Lange Zeit zeigten die Wirtschaftsdaten in Deutschland vor allem nach unten. Nun machen die jüngsten Konjunkturzahlen etwas Hoffnung. Wie kommt das? Und ist diese Entwicklung auch wirklich nachhaltig?",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschafts-forderungen-kabinett-100.html",
-      "publishedAt": "2026-08-25T10:16:15.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/konjunkturdaten-wirtschaft-faq-100.html",
+      "publishedAt": "2026-08-25T14:28:43.000Z"
     },
     {
-      "id": "n_b3a6cdd8a8",
+      "id": "n_ce4649e9e2",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "ifo-Index: Die Zuversicht in der Wirtschaft wächst",
-      "summary": "Zum vierten Mal in Folge ist im August der ifo-Index gestiegen. Die Stimmung in den Chefetagen der Unternehmen hellt sich damit weiter auf. Deutschland trotzt damit auch den wirtschaftlichen Folgen des Iran-Kriegs.",
+      "headline": "Provokative Mao-Skulpturen - drei Jahren Gefängnis für chinesischen Künstler",
+      "summary": "Unter Staatschef Xi geht die chinesische Justiz verstärkt gegen kritische Künstler vor. Ein Gericht verurteilte jetzt Gao Zhen zu einer Gefängnisstrafe. Sein Vergehen: Er hatte vor Jahren provokative Statuen von Mao angefertigt. Von B. Eyssel.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-q2-2026-100.html",
-      "publishedAt": "2026-08-25T10:06:33.000Z"
+      "url": "https://www.tagesschau.de/ausland/asien/china-kunst-justiz-100.html",
+      "publishedAt": "2026-08-25T14:16:39.000Z"
     },
     {
-      "id": "n_bba88ddbfe",
+      "id": "n_a96ba43fb9",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Kabinettsklausur: Merz will mehr Wachstum ermöglichen",
-      "summary": "Bei der Kabinettsklausur in Neuhardenberg geht es zum Auftakt um die Stärkung der schwächelnden deutschen Wirtschaft. Kanzler Merz sieht keinen Grund, \"uns kleinzumachen\".",
+      "headline": "China kritisiert angedrohte US-Sanktionen gegen Irans Handelspartner",
+      "summary": "Um Iran finanziell weiter zu schwächen, drohen die USA nun den Handelspartnern des Landes und verlangen von ihnen, jegliche Geschäfte mit Iran einzustellen. China - der größte Handelspartner Irans - droht bereits mit Gegenmaßnahmen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/kabinettsklausur-union-spd-100.html",
-      "publishedAt": "2026-08-25T10:00:40.000Z"
+      "url": "https://www.tagesschau.de/ausland/asien/usa-sanktionen-iran-handelspartner-100.html",
+      "publishedAt": "2026-08-25T13:48:01.000Z"
+    },
+    {
+      "id": "n_b6a2359c6a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Umsetzung des Cyber Resilience Act: Deutsche Industrie hat noch Nachholbedarf",
+      "summary": "Im Dezember 2027 tritt der Cyber Resilience Act vollständig in Kraft, viele Unternehmen kämpfen noch mit den Vorgaben etwa zu Meldepflichten und SBOMs.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Umsetzung-des-Cyber-Resilience-Act-Deutsche-Industrie-hat-noch-Nachholbedarf-11425603.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-25T16:25:00.000Z"
+    },
+    {
+      "id": "n_a509ecaa1a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "ROG Xbox Ally X20: OLED-Upgrade mit deutlichem Preisaufschlag",
+      "summary": "Der Gaming-Handheld ROG Xbox Ally X20 bringt OLED, verbesserte Bedienelemente und Jubiläumsoptik und kostet deutlich mehr als sein direkter Vorgänger.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/ROG-Xbox-Ally-X20-OLED-Upgrade-mit-deutlichem-Preisaufschlag-11425567.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-25T16:08:00.000Z"
+    },
+    {
+      "id": "n_c5c9aa7337",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Waymo kündigt Betrieb in München an",
+      "summary": "Waymo will Ende 2027 einen fahrerlosen Taxidienst in München starten. In den kommenden Wochen beginnt die Kartierung des Straßennetzes.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Waymo-kuendigt-Betrieb-in-Muenchen-an-11425485.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-25T15:53:00.000Z"
+    },
+    {
+      "id": "n_c70fab0921",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Browser-Tracking per Web Audio: Das verborgene Tonstudio",
+      "summary": "Einem Entwickler ist aufgefallen, dass AliExpress das Web Audio API benutzt, um Geräte per unhörbarem Audiosignal zu erkennen. Fragt sich nur: Wie geht das?",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Browser-Tracking-per-Web-Audio-Das-verborgene-Tonstudio-11425479.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-25T15:24:00.000Z"
+    },
+    {
+      "id": "n_94f962fe6e",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "WhatsApp führt mehrere Passkeys ein und ersetzt PINs",
+      "summary": "WhatsApp verbessert die Kontosicherheit durch die Unterstützung mehrerer Passkeys, stärkere Passwörter und Kontextinformationen bei unbekannten Anrufen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/WhatsApp-Mehr-Passkeys-und-verbesserte-Sicherheit-bei-unbekannten-Anrufen-11425433.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-25T14:16:00.000Z"
+    },
+    {
+      "id": "n_b265dcdd10",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "IFA: Garmin Fenix 9: Neue Top-Uhren mit Amoled und InReach-Technik",
+      "summary": "Garmin hat seine Fenix-Reihe aktualisiert. Die neuen 9er-Modelle bieten AMOLED-Displays, mehr Speicher und optional InReach-Satellitenkommunikation.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Garmin-Fenix-9-Neue-Top-Uhren-mit-AMOLED-und-InReach-Technik-11425311.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-25T13:10:00.000Z"
+    },
+    {
+      "id": "n_7ca31956c1",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Mac mini und Mac Studio: Apple stellt M6 und M5 Ultra vor",
+      "summary": "Apple präsentiert überraschend neue Mac mini und Mac Studio mit M6- und M5-Ultra-Chips sowie M5 Pro und M5 Max. Die neuen Rechner gibt es ab 22. September.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Grosses-Hardware-Update-Apple-ruestet-Mac-mini-und-Mac-Studio-auf-11424993.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-25T13:00:00.000Z"
     },
     {
       "id": "n_347c989b2e",
@@ -101,169 +178,147 @@
       "publishedAt": "2026-08-25T07:05:00.000Z"
     },
     {
-      "id": "n_15bb37a349",
+      "id": "n_2d85d4ca63",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Irland: So viel Geld bekommt die Republik nach Apples EU-Niederlage",
-      "summary": "Das Steuermodell des iPhone-Herstellers in Europa musste nach einem EU-Verfahren geändert werden. Nun ist klar, wie massiv Irland davon profitiert.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Nach-EU-Urteil-Geldregen-fuer-Irland-dank-Apple-Niederlage-11422851.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-24T12:53:00.000Z"
-    },
-    {
-      "id": "n_ef09ce2136",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Smartphonemarkt: Samsung könnte Apple wieder von Platz 1 verdrängen",
-      "summary": "Der globale Smartphonemarkt wird in diesem Jahr um über 14 Prozent schrumpfen. Samsung soll derweil Apple wieder von Platz 1 schubsen, sagen Marktforscher.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Smartphonemarkt-Samsung-koennte-Apple-wieder-von-Platz-1-verdraengen-11423914.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-24T12:46:00.000Z"
-    },
-    {
-      "id": "n_f89a9195c7",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "NASA-Weltraumteleskop vor Start: „Roman“ soll 100.000 Exoplaneten finden",
-      "summary": "Mit einer Falcon Heavy von SpaceX soll am Sonntag, dem 30. August, das nächste große Weltraumteleskop ins All starten. Die Erwartungen sind bereits immens.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/NASA-Weltraumteleskop-vor-Start-Roman-soll-100-000-Exoplaneten-finden-11423581.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-24T12:27:00.000Z"
-    },
-    {
-      "id": "n_56da73d98d",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Polen: Mit Strafrecht gegen Gewaltvideos",
-      "summary": "In Polen ist ein neues Gesetz in Kraft getreten, das die Verbreitung von Gewaltvideos unter Strafe stellt. Ziel ist primär die Eindämmung von „Patostreaming“.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Polen-Mit-Strafrecht-gegen-Gewaltvideos-11423850.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-24T12:10:00.000Z"
-    },
-    {
-      "id": "n_9d076a0edf",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "AIS.chat: Sachsen-Anhalt setzt KI-Chatbot an Schulen ein",
-      "summary": "Sachsen-Anhalt stattet seine Schulen mit dem KI-Chatbot AIS.chat – vormals Telli – aus. Der Chatbot soll KI-Kompetenzen vermitteln helfen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/AIS-chat-Sachsen-Anhalt-setzt-KI-Chatbot-an-Schulen-ein-11423739.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-24T12:02:00.000Z"
-    },
-    {
-      "id": "n_735c3a6d27",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Windows-Defender-Treiber hebelt Windows-Sicherheitsmechanismen aus",
-      "summary": "Der Windows Defender Boot-Time Removal-Treiber öffnet Angreifern weitreichende Möglichkeiten, Systeme zu kompromittieren.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Windows-Defender-Treiber-zum-Kompromittieren-von-Windows-missbrauchbar-11423812.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-24T11:46:00.000Z"
-    },
-    {
-      "id": "n_0736ccb9f3",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "IP-Protokollierung genügt nicht: Gericht fordert E-Mail-Nachweis bei Werbemails",
-      "summary": "Das Verwaltungsgericht Düsseldorf hat entschieden: Reine IP-Adressen und Zeitstempel reichen nicht aus, um ein gültiges Double-Opt-In-Verfahren nachzuweisen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/IP-Protokollierung-genuegt-nicht-Gericht-fordert-E-Mail-Nachweis-bei-Werbemails-11423547.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-24T09:59:00.000Z"
-    },
-    {
-      "id": "n_2cba3ff1e1",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Z/Architecture & ARM: IBMs nächste Mainframe-CPU unterstützt zwei Befehlssätze",
-      "summary": "Neben der eigenen z/Architecture unterstützen IBMs Mainframes bald auch ARM-Befehle - ohne Emulation in Hardware. (Prozessor, IBM)",
+      "headline": "Ubisoft: Rainbow Six Tactics bietet Elitensoldaten-Rundenstrategie",
+      "summary": "Ubisoft macht aus Rainbow Six ein rundenbasiertes Taktikspiel mit Solo-Kampagne und ungewöhnlichen Echtzeitangriffen. (Rainbow Six, Ubisoft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/z-architecture-arm-ibms-naechste-mainframe-cpu-unterstuetzt-zwei-befehlssaetze-2608-212271.html",
-      "publishedAt": "2026-08-25T12:19:01.000Z"
+      "url": "https://www.golem.de/news/ubisoft-rainbow-six-tactics-bietet-elitensoldaten-rundenstrategie-2608-212246.html",
+      "publishedAt": "2026-08-25T18:15:02.000Z"
     },
     {
-      "id": "n_febade228e",
+      "id": "n_b0d3cfb3ec",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Oktoberfest: Telefónica lässt 5G-Laternen rund um Theresienwiese bauen",
-      "summary": "Für das Oktoberfest baut der Netzbetreiber Telefónica ein eigenes temporäres Netz auf und verwandelt dafür Straßenlaternen in 5G-Antennen. (Telefónica, Mobilfunk)",
+      "headline": "Telekom-Streit um Inhouse-Glasfaser: Eigentümer hatte Ausbau bereits an Pyur vergeben",
+      "summary": "Der Hauseigentümer, dem die Deutsche Telekom eigenmächtig Glasfaser im Gebäude verlegt hatte, hatte bereits einen fertigen Ausbauvertrag mit Tele Columbus (Pyur), die der Telekom sogar die Mitnutzung angeboten hatte. (Tele Columbus, Telekom)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/oktoberfest-telefonica-laesst-5g-laternen-rund-um-theresienwiese-bauen-2608-212270.html",
-      "publishedAt": "2026-08-25T11:52:02.000Z"
+      "url": "https://www.golem.de/news/telekom-streit-um-inhouse-glasfaser-eigentuemer-hatte-ausbau-bereits-an-pyur-vergeben-2608-212291.html",
+      "publishedAt": "2026-08-25T17:01:01.000Z"
     },
     {
-      "id": "n_79bfbb9fa9",
+      "id": "n_454bc95445",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Powerstation mit 1.800 W und 1.024 Wh reduziert bei Amazon",
-      "summary": "Amazon hat eine tragbare Powerstation mit 1.800 W und 1.024 Wh im Angebot, die zehn Ausgänge enthält und die UPS-Funktion unterstützt. (Powerstation, Technik/Hardware)",
+      "headline": "Anzeige: Balkonkraftwerk mit 1.000 Watt fällt bei Amazon befristet auf 230 Euro",
+      "summary": "Ein Balkonkraftwerk mit zwei bifazialen Modulen zu je 500 Wattpeak ist auf knapp unter 230 Euro gefallen. Der Kurs gilt bis Sonntag. (Balkonkraftwerk, Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-powerstation-mit-1-800-w-und-1-024-wh-reduziert-bei-amazon-2608-212269.html",
-      "publishedAt": "2026-08-25T11:39:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-balkonkraftwerk-mit-1-000-watt-faellt-bei-amazon-befristet-auf-230-euro-2608-212290.html",
+      "publishedAt": "2026-08-25T16:57:01.000Z"
     },
     {
-      "id": "n_cdb7d6705d",
+      "id": "n_7d26f4950f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Garmin: Fenix 9 und Fenix 9 Pro starten mit hellerem Display und Satellitenfunk",
-      "summary": "Fenix 9 und Fenix 9 Pro starten mit hellerem AMOLED-Display und Satellitenfunk. Es gibt wieder MIP-Display-Versionen. (Garmin Fenix, Garmin)",
+      "headline": "Anzeige: Zero Trust in Microsoft 365 richtig umsetzen",
+      "summary": "Klassische Netzwerkgrenzen verlieren an Bedeutung. Ein Workshop zeigt, wie Unternehmen ihre Microsoft-365-Umgebung nach dem Zero-Trust-Prinzip absichern. (Golem Karrierewelt, Server-Applikationen)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/garmin-fenix-9-und-fenix-9-pro-starten-mit-hellerem-display-und-satellitenfunk-2608-212268.html",
-      "publishedAt": "2026-08-25T11:37:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-zero-trust-in-microsoft-365-richtig-umsetzen-2608-212247.html",
+      "publishedAt": "2026-08-25T16:45:02.000Z"
     },
     {
-      "id": "n_488b94a27e",
+      "id": "n_7e668fe425",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) Developer Analytics: Coder unter Beobachtung",
-      "summary": "Developer Analytics liefert Zahlen über die Arbeit von Devs. Falsch angewendet, schaffen sie aber eine Atmosphäre von Misstrauen und liefern irreführende Ergebnisse. Wie es besser geht. Ein Ratgebertext von Otto Geißler (Arbeit, KI)",
+      "headline": "Bis zu 115.000 Stellen: VW-Betriebsrat befürchtet hohe Jobverluste in Deutschland",
+      "summary": "VW-Chef Oliver Blume deutet die Streichung von weiteren 25.000 Stellen bei VW in Deutschland an. Die Schließung von vier Werken ist nicht vom Tisch. (VW, Elektroauto)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/developer-analytics-coder-unter-beobachtung-2608-212260.html",
-      "publishedAt": "2026-08-25T11:30:02.000Z"
+      "url": "https://www.golem.de/news/bis-zu-115-000-stellen-vw-betriebsrat-befuerchtet-hohe-jobverluste-in-deutschland-2608-212289.html",
+      "publishedAt": "2026-08-25T16:40:02.000Z"
     },
     {
-      "id": "n_1328d66c6c",
+      "id": "n_3d910742db",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Govee-GU10-LED-Glühbirne im 4er-Pack zum Aktionspreis nur rund 32 Euro",
-      "summary": "Die Govee-GU10-LED-Glühbirnen sind bei Amazon reduziert, wechseln zwischen 16 Millionen Farben und synchronisieren sich mit Musik. (Technik/Hardware)",
+      "headline": "MHP: Porsche verkauft seine IT-Beratung nach Indien",
+      "summary": "Der Sportwagenbauer fokussiert sich aufs Kerngeschäft und lagert seine IT-Zukunft aus: Mit dem Verkauf von MHP an Tata sichert sich Porsche das Know-how auf Kosten der Entwickler und IT-Berater. Eine Analyse von Achim Sawall (Porsche, SAP)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-govee-gu10-led-gluehbirne-im-4er-pack-zum-aktionspreis-nur-rund-32-euro-2608-212266.html",
-      "publishedAt": "2026-08-25T10:55:01.000Z"
+      "url": "https://www.golem.de/news/mhp-porsche-verkauft-seine-it-beratung-nach-indien-2608-212288.html",
+      "publishedAt": "2026-08-25T16:25:02.000Z"
     },
     {
-      "id": "n_bac5f0181a",
+      "id": "n_6b0cca277f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Phishing-Warnung: Betrüger ködern mit angeblicher Steuererstattung",
-      "summary": "Viele Bürger warten seit Wochen auf ihren Steuerbescheid 2025. Betrüger nutzen das aktuell vermehrt aus, um mittels Phishing Daten abzugreifen. (Phishing, E-Mail)",
+      "headline": "(g+) Tech Asia: Google's China shift and the battle over AI models",
+      "summary": "The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times (TSMC, Google)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/verbraucherzentrale-warnt-phishing-mails-koedern-mit-angeblicher-steuererstattung-2608-212265.html",
-      "publishedAt": "2026-08-25T10:49:01.000Z"
+      "url": "https://www.golem.de/news/tech-asia-google-s-china-shift-and-the-battle-over-ai-models-2608-212284.html",
+      "publishedAt": "2026-08-25T16:00:02.000Z"
     },
     {
-      "id": "n_f7781de628",
+      "id": "n_24fc9d52e1",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Forschung: Kokosnussöl als Treibstoff für die Luftfahrt",
-      "summary": "Forscher testen Flug-Kraftstoff aus Kokosabfällen. Im Triebwerk überzeugt der SAF-Treibstoff, zeigt aber Schwächen bei der Korrosion. (Luftfahrt, Flugzeug)",
+      "headline": "Bigsky SF-2U870: Sifive zeigt eigenen RISC-V-Server",
+      "summary": "Mit 32 Kernen und Cuda soll die RISC-V-Plattform für KI-Server interessant sein. Fertigung in einem älteren Prozess soll den Preis attraktiv machen. (RISCV, Prozessor)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/forschung-kokosnussoel-als-treibstoff-fuer-die-luftfahrt-2608-212264.html",
-      "publishedAt": "2026-08-25T10:36:01.000Z"
+      "url": "https://www.golem.de/news/bigsky-sf-2u870-sifive-zeigt-eigenen-risc-v-server-2608-212276.html",
+      "publishedAt": "2026-08-25T15:45:02.000Z"
+    },
+    {
+      "id": "n_89c4e17188",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T16:56:20.000Z"
+    },
+    {
+      "id": "n_e052c0ac72",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Two unvaccinated people die of measles in Pennsylvania",
+      "summary": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T16:43:08.000Z"
+    },
+    {
+      "id": "n_de20a44721",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "European rights court orders Turkey to free imprisoned businessman",
+      "summary": "Philanthropist and activist Osman Kavala has spent almost a decade in jail over charges rights groups say are politically motivated.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T15:58:20.000Z"
+    },
+    {
+      "id": "n_9fa5caa2d1",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Swedish military seeks to take over Russian-owned estate near naval base",
+      "summary": "The armed forces request the seizure of the plot near Muskö Naval Base citing threats from Russian drones.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T15:18:50.000Z"
+    },
+    {
+      "id": "n_451e7aec1d",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Brain disease in dead NFL players 'higher than previously shown'",
+      "summary": "A new study says at least one in four ex-NFL players who died between 2016 and 2021 had a degenerative brain disease but the true figure could be much higher.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T11:54:40.000Z"
     },
     {
       "id": "n_41f66579f4",
@@ -281,7 +336,7 @@
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "China warns it will safeguard its interests after US widens sanctions against Iran",
+      "headline": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
       "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
@@ -299,53 +354,9 @@
       "publishedAt": "2026-08-25T09:50:42.000Z"
     },
     {
-      "id": "n_97d306bab1",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US firefighters say major blaze near Reno about a quarter contained",
-      "summary": "But officials fear that winds could fan the flames for two more days, as many locals remain under evacuation orders.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T09:49:02.000Z"
-    },
-    {
-      "id": "n_7a518d23a4",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "British man charged in Singapore two years after alleged theft at airport",
-      "summary": "The 26-year-old faces up to seven years in jail for allegedly stealing a denim jacket from an airport shop in 2024.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T09:01:35.000Z"
-    },
-    {
-      "id": "n_f641d9105f",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
-      "summary": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T08:52:17.000Z"
-    },
-    {
-      "id": "n_c4ac7b4756",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
-      "summary": "Hoult was announced as Gilderoy Lockhart two weeks ago but has dropped out due to scheduling issues.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T07:39:25.000Z"
-    },
-    {
       "id": "n_fbf9a6df4c",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
       "headline": "Songs created by AI banned from Australia's music charts",
       "summary": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
@@ -431,6 +442,72 @@
       "publishedAt": "2026-08-20T09:44:04.000Z"
     },
     {
+      "id": "n_e3f3f347c0",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
+      "summary": "\"[P]eople are not familiar with this disease and don’t fully understand the potential severity.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/",
+      "publishedAt": "2026-08-25T17:39:38.000Z"
+    },
+    {
+      "id": "n_582ff1eabf",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
+      "summary": "\"This will be a project like no other.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
+      "publishedAt": "2026-08-25T17:26:15.000Z"
+    },
+    {
+      "id": "n_c772e10a4a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Lab supply companies have been selling antibodies using manipulated images",
+      "summary": "Image changes that would get a paper retracted are widespread among suppliers.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
+      "publishedAt": "2026-08-25T16:16:57.000Z"
+    },
+    {
+      "id": "n_54c6c5c6fa",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
+      "summary": "Privilege escalation attack grants \"full control\" and freedom from Meta's servers/apps.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
+      "publishedAt": "2026-08-25T16:04:37.000Z"
+    },
+    {
+      "id": "n_c1c1e3cb93",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "AI won’t replace radiologists, but it will dramatically change their jobs",
+      "summary": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+      "publishedAt": "2026-08-25T15:10:03.000Z"
+    },
+    {
+      "id": "n_a037d648cf",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Apple's new desktop computers are designed specifically for local AI development",
+      "summary": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+      "publishedAt": "2026-08-25T13:00:11.000Z"
+    },
+    {
       "id": "n_f2e956db9d",
       "type": "news",
       "topic": "tech",
@@ -447,76 +524,65 @@
       "topic": "tech",
       "lang": "en",
       "headline": "Data centers become \"killer application\" for new power transformer tech",
-      "summary": "Solid-state transformers could also benefit EV charging and someday households.",
+      "summary": "Solid-state transformers could also benefit EV charging and, someday, households.",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
       "publishedAt": "2026-08-24T21:32:16.000Z"
     },
     {
-      "id": "n_f2431745b2",
+      "id": "n_c00d0b0feb",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "RFK Jr. may upend how vaccine recommendations are categorized",
-      "summary": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
-      "publishedAt": "2026-08-24T21:04:48.000Z"
+      "headline": "Claude Cowork finally remembers what you told the app in chat",
+      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "publishedAt": "2026-08-25T17:50:33.000Z"
     },
     {
-      "id": "n_6f59bd9305",
+      "id": "n_3fceac33ce",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
-      "summary": "Monitor vendors are playing with fire.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
-      "publishedAt": "2026-08-24T20:17:41.000Z"
+      "headline": "Gamma acquires Accel-backed design startup Lica",
+      "summary": "Lica co-founders are going to work on Gamma's new research team.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+      "publishedAt": "2026-08-25T15:00:00.000Z"
     },
     {
-      "id": "n_6e4e9a9222",
+      "id": "n_d95a58ad47",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "GM vehicles under federal scrutiny after hundreds of reports",
-      "summary": "The eBoost brake-by-wire system is responsible for at least 22 crashes now.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
-      "publishedAt": "2026-08-24T19:42:50.000Z"
+      "headline": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "publishedAt": "2026-08-25T14:22:04.000Z"
     },
     {
-      "id": "n_74e7cf421f",
+      "id": "n_9f1468a442",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
-      "summary": "Is the technique outdated? Yes. Is it still creepy? Also yes.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
-      "publishedAt": "2026-08-24T19:19:21.000Z"
+      "headline": "Accel-backed Keenable is indexing the web for AI agents",
+      "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+      "publishedAt": "2026-08-25T13:00:00.000Z"
     },
     {
-      "id": "n_3226dc8d79",
+      "id": "n_9e2dc1206d",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Buyer beware: Those mummified remains might carry toxic spores",
-      "summary": "\"Mummified remains sold online exhibit signs of biodeterioration, yet sellers provide no safety guidance.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
-      "publishedAt": "2026-08-24T16:59:07.000Z"
-    },
-    {
-      "id": "n_3de1560a7a",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
-      "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-      "publishedAt": "2026-08-24T16:41:45.000Z"
+      "headline": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+      "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "publishedAt": "2026-08-25T12:00:00.000Z"
     },
     {
       "id": "n_23a36ae92a",
@@ -552,59 +618,15 @@
       "publishedAt": "2026-08-24T19:54:19.000Z"
     },
     {
-      "id": "n_679f443c18",
+      "id": "n_0f75219d5e",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "publishedAt": "2026-08-24T18:03:55.000Z"
-    },
-    {
-      "id": "n_97614477a9",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "publishedAt": "2026-08-24T15:24:18.000Z"
-    },
-    {
-      "id": "n_25d39522dc",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "publishedAt": "2026-08-24T15:00:00.000Z"
-    },
-    {
-      "id": "n_c98f9ed203",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Hugging Face reportedly in talks to be acquired for $13B",
-      "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-      "publishedAt": "2026-08-24T13:47:26.000Z"
-    },
-    {
-      "id": "n_bab230b853",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "publishedAt": "2026-08-23T20:01:36.000Z"
+      "headline": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+      "summary": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalapeño offers the \"best of",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "publishedAt": "2026-08-25T14:00:00.000Z"
     },
     {
       "id": "n_63243808b1",
@@ -682,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
       "publishedAt": "2026-08-20T12:00:00.000Z"
-    },
-    {
-      "id": "n_336770ff41",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Google Gemini is getting a dedicated student hub",
-      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-      "publishedAt": "2026-08-19T19:00:00.000Z"
     },
     {
       "id": "n_e2f95ae810",
@@ -948,6 +959,17 @@
       "publishedAt": "2026-08-19T16:44:07.000Z"
     },
     {
+      "id": "n_74043a2c13",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Granite 4.2 LLMs: How They're Built",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "publishedAt": "2026-08-25T15:14:14.000Z"
+    },
+    {
       "id": "n_f6b26e55a4",
       "type": "news",
       "topic": "ai",
@@ -1023,17 +1045,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/multi-vector-encoder",
       "publishedAt": "2026-08-18T00:00:00.000Z"
-    },
-    {
-      "id": "n_b597a3d03e",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "publishedAt": "2026-08-17T19:46:21.000Z"
     },
     {
       "id": "n_105ab17fca",
