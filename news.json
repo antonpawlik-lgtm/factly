@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-24T21:17:15.971Z",
+  "generatedAt": "2026-08-25T00:31:57.869Z",
   "items": [
+    {
+      "id": "n_25efcb7994",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Handelsstreit mit Kanada: USA verdoppeln Zölle auf Autos",
+      "summary": "Am Wochenende war der Zollstreit zwischen den USA und Kanada neu ausgebrochen. Jetzt legt US-Präsident Trump nach und kündigt deutlich höhere Abgaben auf Autos und Autoteile aus dem Nachbarland an.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zollstreit-usa-kanada-104.html",
+      "publishedAt": "2026-08-24T22:56:35.000Z"
+    },
     {
       "id": "n_0d2345143f",
       "type": "news",
@@ -22,17 +33,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-neuhardenberg-100.html",
       "publishedAt": "2026-08-24T19:38:42.000Z"
-    },
-    {
-      "id": "n_25efcb7994",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Handelsstreit mit Kanada: USA verdoppeln Zölle auf Autos",
-      "summary": "Am Wochenende war der Zollstreit zwischen den USA und Kanada neu ausgebrochen. Jetzt legt US-Präsident Trump nach und kündigt deutlich höhere Abgaben auf Autos und Autoteile aus dem Nachbarland an.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zollstreit-usa-kanada-104.html",
-      "publishedAt": "2026-08-24T18:01:28.000Z"
     },
     {
       "id": "n_a0cdee8cbf",
@@ -266,6 +266,39 @@
       "publishedAt": "2026-08-24T14:25:01.000Z"
     },
     {
+      "id": "n_4ff6fd0394",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US removes Syria from list of state sponsors of terrorism",
+      "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda militant Ahmed al-Sharaa.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T00:17:25.000Z"
+    },
+    {
+      "id": "n_e1edf19d96",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Moment tornado tears through southern France",
+      "summary": "The tornado has injured more than 40 people and destroyed homes in villages.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T00:16:35.000Z"
+    },
+    {
+      "id": "n_398564c7de",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Nearly three million Teslas recalled in China over hidden door handles",
+      "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T23:53:32.000Z"
+    },
+    {
       "id": "n_6655729cdf",
       "type": "news",
       "topic": "general",
@@ -274,7 +307,29 @@
       "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T19:12:35.000Z"
+      "publishedAt": "2026-08-24T23:48:25.000Z"
+    },
+    {
+      "id": "n_cb03001b92",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Caste divides make scorching summers harder in a parched corner of India",
+      "summary": "Rising heat and water scarcity are deepening old caste inequalities in Bundelkhand region, activists say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T23:36:58.000Z"
+    },
+    {
+      "id": "n_25882b8f9c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
+      "summary": "There are more than two million robots working in China's factories - and they are scaling up fast.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T22:13:20.000Z"
     },
     {
       "id": "n_6c51db2072",
@@ -297,61 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-24T17:24:25.000Z"
-    },
-    {
-      "id": "n_2b2eabcd96",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Is UK's Storm Shadow missile a game changer for Ukraine?",
-      "summary": "Correspondent Joe Inwood breaks down the weapons technology that could make a difference in the Russia-Ukraine war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T15:14:14.000Z"
-    },
-    {
-      "id": "n_515cc1be6f",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Access to Zambian courts prevented as election petition deadline looms",
-      "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T14:02:17.000Z"
-    },
-    {
-      "id": "n_c5704ab79e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Israel warns of 'forceful' response to kites flown from Gaza",
-      "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T13:56:22.000Z"
-    },
-    {
-      "id": "n_2ef879858d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Sonya Massey's killer Sean Grayson dies in US prison",
-      "summary": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T13:14:10.000Z"
-    },
-    {
-      "id": "n_f631750f09",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "New Zealand to introduce bill for under-16s social media ban",
-      "summary": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T12:17:34.000Z"
     },
     {
       "id": "n_b4290bb9d1",
@@ -442,6 +442,50 @@
       "publishedAt": "2026-08-19T16:14:46.000Z"
     },
     {
+      "id": "n_f2e956db9d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "publishedAt": "2026-08-24T21:45:53.000Z"
+    },
+    {
+      "id": "n_743a13d8b1",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Data centers become \"killer application\" for new power transformer tech",
+      "summary": "Solid-state transformers could also benefit EV charging and someday households.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
+      "publishedAt": "2026-08-24T21:32:16.000Z"
+    },
+    {
+      "id": "n_f2431745b2",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "RFK Jr. may upend how vaccine recommendations are categorized",
+      "summary": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
+      "publishedAt": "2026-08-24T21:04:48.000Z"
+    },
+    {
+      "id": "n_6f59bd9305",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
+      "summary": "Monitor vendors are playing with fire.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
+      "publishedAt": "2026-08-24T20:17:41.000Z"
+    },
+    {
       "id": "n_6e4e9a9222",
       "type": "news",
       "topic": "tech",
@@ -486,48 +530,26 @@
       "publishedAt": "2026-08-24T16:41:45.000Z"
     },
     {
-      "id": "n_923a97904c",
+      "id": "n_23a36ae92a",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "F1 in the Netherlands: The driver you most want to beat is your teammate",
-      "summary": "Formula 1 returned from its summer break with this weekend's Dutch Grand Prix.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/08/f1-in-the-netherlands-the-driver-you-most-want-to-beat-is-your-teammate/",
-      "publishedAt": "2026-08-24T16:02:54.000Z"
+      "headline": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "publishedAt": "2026-08-25T00:23:12.000Z"
     },
     {
-      "id": "n_6c0ab7f23b",
+      "id": "n_44dcec9c12",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Trump tried to curb clean energy. It’s booming anyway.",
-      "summary": "Capacity will rise by a record 45GW this year, according to S&P Global Energy.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway/",
-      "publishedAt": "2026-08-24T14:43:56.000Z"
-    },
-    {
-      "id": "n_b01edcf6b7",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo",
-      "summary": "The Unibook is a weird entry-level laptop for people with patience.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
-      "publishedAt": "2026-08-24T11:00:01.000Z"
-    },
-    {
-      "id": "n_d41bba2863",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Due to need for \"absolute success,\" China delays critical Moon launch to 2027",
-      "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
-      "publishedAt": "2026-08-23T14:30:16.000Z"
+      "headline": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "publishedAt": "2026-08-24T21:24:17.000Z"
     },
     {
       "id": "n_d7e46a5aa8",
@@ -594,28 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
       "publishedAt": "2026-08-23T20:01:36.000Z"
-    },
-    {
-      "id": "n_ff8825167e",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "publishedAt": "2026-08-23T19:14:08.000Z"
-    },
-    {
-      "id": "n_80d039e631",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-      "publishedAt": "2026-08-23T15:30:00.000Z"
     },
     {
       "id": "n_016ca72fa4",
