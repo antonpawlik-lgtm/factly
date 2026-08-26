@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T21:15:43.513Z",
+  "generatedAt": "2026-08-26T00:32:59.632Z",
   "items": [
     {
       "id": "n_9c56cb091c",
@@ -354,6 +354,17 @@
       "publishedAt": "2026-08-25T11:54:40.000Z"
     },
     {
+      "id": "n_c7c9f391fd",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Firms scramble for battery power in Spain and Portugal",
+      "summary": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T23:09:31.000Z"
+    },
+    {
       "id": "n_3acc2725e5",
       "type": "news",
       "topic": "tech",
@@ -431,15 +442,26 @@
       "publishedAt": "2026-08-20T23:12:38.000Z"
     },
     {
-      "id": "n_aa51624274",
+      "id": "n_a6e98391ec",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Is Vine back? Short-form video-sharing app Divine opens to public",
-      "summary": "The app lets users create six-second looping videos and hosts more than two million classic videos.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3r05g378w4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T16:58:37.000Z"
+      "headline": "The world's busiest spaceport is about to get a lot quieter, at least for now",
+      "summary": "SpaceX aims to launch Starship from Florida by the end of the year. 2027 seems more likely.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
+      "publishedAt": "2026-08-25T22:21:06.000Z"
+    },
+    {
+      "id": "n_91e48aee10",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "World humanoid robot games show runners breaking records, bursting into flames",
+      "summary": "Record-breaking robot races are less substantial than household chore challenges.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+      "publishedAt": "2026-08-25T20:59:03.000Z"
     },
     {
       "id": "n_54a31dd8a1",
@@ -508,26 +530,15 @@
       "publishedAt": "2026-08-25T16:04:37.000Z"
     },
     {
-      "id": "n_c1c1e3cb93",
+      "id": "n_bae87cb127",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "AI won’t replace radiologists, but it will dramatically change their jobs",
-      "summary": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
-      "publishedAt": "2026-08-25T15:10:03.000Z"
-    },
-    {
-      "id": "n_a037d648cf",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Apple's new desktop computers are designed specifically for local AI development",
-      "summary": "Folks have been daisy-chaining Macs for AI—this refresh keeps that in mind.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
-      "publishedAt": "2026-08-25T13:00:11.000Z"
+      "headline": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "publishedAt": "2026-08-26T00:06:20.000Z"
     },
     {
       "id": "n_e1546878c7",
@@ -605,17 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
       "publishedAt": "2026-08-25T00:23:12.000Z"
-    },
-    {
-      "id": "n_44dcec9c12",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-      "publishedAt": "2026-08-24T21:24:17.000Z"
     },
     {
       "id": "n_0f75219d5e",
@@ -1225,18 +1225,6 @@
       "url": "https://www.youtube.com/watch?v=o4SSoURPODY",
       "thumbnail": "https://i.ytimg.com/vi/o4SSoURPODY/hqdefault.jpg",
       "publishedAt": "2026-08-12T14:00:35.000Z"
-    },
-    {
-      "id": "n_5f31592cac",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Galaxy Z Fold 8 Review: Honeymoon's Over",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=Z6z_feacXW8",
-      "thumbnail": "https://i.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg",
-      "publishedAt": "2026-08-01T00:05:00.000Z"
     }
   ]
 }
