@@ -1,27 +1,82 @@
 {
-  "generatedAt": "2026-08-26T16:07:47.086Z",
+  "generatedAt": "2026-08-26T19:29:23.714Z",
   "items": [
-    {
-      "id": "n_3eba0f2cfb",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "ARD-Vorwahlumfrage für Sachsen-Anhalt: AfD mit großem Vorsprung",
-      "summary": "In der letzten ARD-Umfrage vor der Landtagswahl in Sachsen-Anhalt liegt die AfD deutlich vorn. Die CDU verliert dagegen weiter. Einen Patt gibt es bei der Frage nach der Regierungsführung. Von Claudia Müller.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-sachsen-anhalt-100.html",
-      "publishedAt": "2026-08-26T16:00:07.000Z"
-    },
     {
       "id": "n_709e1ecede",
       "type": "news",
       "topic": "general",
       "lang": "de",
       "headline": "Viele Tote nach Sturzflut in Nepal - Hunderte vermisst",
-      "summary": "Wassermassen, die ganze Dörfer wegreißen: Bei Sturzfluten sind in Nepal mindestens 95 Menschen ums Leben gekommen. Hunderte Menschen werden noch vermisst. Auch aus dem benachbarten China werden Opfer gemeldet.",
+      "summary": "Wassermassen, die ganze Dörfer wegreißen: Bei Sturzfluten sind in Nepal mindestens 157 Menschen ums Leben gekommen. Hunderte Menschen werden noch vermisst. Auch aus dem benachbarten China werden Opfer gemeldet.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/asien/sturzflut-himalaja-100.html",
-      "publishedAt": "2026-08-26T15:49:02.000Z"
+      "publishedAt": "2026-08-26T19:07:47.000Z"
+    },
+    {
+      "id": "n_b569a41be3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Finanzminister in den tagesthemen: Klingbeil sieht Regierung im Aufbruch",
+      "summary": "Nach zwei Tagen Kabinettsklausur gibt sich Vizekanzler Klingbeil kämpferisch. In den tagesthemen appellierte der SPD-Chef auch an die Geschlossenheit der Koalition: Es gehe jetzt darum, das Land wieder stärker zu machen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/kabinettsklausur-klingbeil-tagesthemen-100.html",
+      "publishedAt": "2026-08-26T18:55:17.000Z"
+    },
+    {
+      "id": "n_2e608a02d7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wirtschaftsvertreter fordern Tempo und konkretes Handeln nach Kabinettsklausur",
+      "summary": "Ob Joggen vor 7 Uhr oder große Reformpläne - die Kabinettsklausur in Schloss Neuhardenberg sollte Tatkraft ausstrahlen. Denn vor allem die Wirtschaft wird ungeduldig. Die Regierung muss schnell ins Handeln kommen. Von N. Kohnert.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/kabinettsklausur-neuhardenberg-106.html",
+      "publishedAt": "2026-08-26T18:31:54.000Z"
+    },
+    {
+      "id": "n_d60ea84cd3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Britischer Schauspieler und Musical-Star Tim Curry ist tot",
+      "summary": "Der britische Schauspieler und Musical-Star Tim Curry ist im Alter von 80 Jahren gestorben. Das bestätigte seine Managerin. Curry war vor allem für seine Darstellung in der \"Rocky Horror Picture Show\" bekannt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/kultur/tim-curry-tot-100.html",
+      "publishedAt": "2026-08-26T17:45:49.000Z"
+    },
+    {
+      "id": "n_b4084ea707",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: DAX bleibt auf hohem Niveau",
+      "summary": "Vor neuen Bilanzzahlen des KI-Chipriesen Nvidia haben sich die Anleger heute vorsichtig bewegt. Der DAX legt trotzdem leicht zu und kratzt am Allzeithoch. Geholfen hat der weitere Rückgang der Ölpreise.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-nvidia-100.html",
+      "publishedAt": "2026-08-26T16:17:44.000Z"
+    },
+    {
+      "id": "n_9eb62dc469",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Stärke der AfD in Sachsen-Anhalt: \"Der Osten ist eher das Normal\"",
+      "summary": "Kurz vor der Wahl in Sachsen-Anhalt führt die AfD die Umfragen klar an. Parteienforscher Höhne sieht darin keinen ostdeutschen Sonderfall, benennt aber eine historische Spur und ein Szenario für den Fall der Regierungsübernahme. Von L. Frohmüller.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/afd-landtagswahl-sachsen-anhalt-108.html",
+      "publishedAt": "2026-08-26T16:07:35.000Z"
+    },
+    {
+      "id": "n_3eba0f2cfb",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "ARD-Vorwahlumfrage für Sachsen-Anhalt: AfD mit großem Vorsprung",
+      "summary": "In der letzten ARD-Umfrage vor der Landtagswahl in Sachsen-Anhalt liegt die AfD deutlich vorn. Die CDU verliert dagegen weiter. Ein Patt gibt es bei der Frage nach der Regierungsführung. Von Claudia Müller.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-sachsen-anhalt-100.html",
+      "publishedAt": "2026-08-26T16:00:07.000Z"
     },
     {
       "id": "n_2724ae8f85",
@@ -33,61 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-meta-staaten-einigung-100.html",
       "publishedAt": "2026-08-26T15:39:21.000Z"
-    },
-    {
-      "id": "n_0bc21ffbbf",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "\"Airport-Malaria\": Zwei Tote nach Infektion am Frankfurter Flughafen",
-      "summary": "Zwei Fraport-Mitarbeiter sind infolge einer Malaria-Infektion gestorben. Zunächst war nur von einem Toten die Rede. Die sogenannte Airport-Malaria gilt als seltener Übertragungsweg der Krankheit. Sechs Menschen sollen infiziert sein.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/hessen/malaria-am-frankfurter-flughafen-100.html",
-      "publishedAt": "2026-08-26T15:17:08.000Z"
-    },
-    {
-      "id": "n_e5f1c96a04",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wie Menschen in Iran unter den wirtschaftlichen Kriegsfolgen leiden",
-      "summary": "Die USA erlassen neue Sanktionen gegen Iran und drohen auch Handelspartnern des Landes mit wirtschaftlichen Konsequenzen. Während sich das Regime unbeeindruckt zeigt, wird der Alltag für die iranische Bevölkerung noch härter. Von Katharina Willinger.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iran-krieg-alltag-folgen-100.html",
-      "publishedAt": "2026-08-26T15:15:31.000Z"
-    },
-    {
-      "id": "n_2797ad67d1",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Deutsches Kino auf dem Vormarsch bei den Oscars",
-      "summary": "Wenn im März die Oscars verliehen werden, könnte es einen regelrechten Aufmarsch deutscher Filmschaffender geben. Das ermöglicht eine neue Regelung für ausländische Filme. Ihre Produktionen können sich sehen lassen. Von B. Dunkel.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kultur/vorauswahl-oscars-100.html",
-      "publishedAt": "2026-08-26T15:13:30.000Z"
-    },
-    {
-      "id": "n_794af8ecf4",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Eurofurence in Hamburg: Konferenz der Kuscheltiere",
-      "summary": "Die Eurofurence in Hamburg ist das größte Furry-Treffen in Europa. Zu der Convention kamen knapp 10.000 Besucher, in der Regel in Plüschkostümen. Was bewegt erwachsene Menschen, sich als Kuscheltiere zu verkleiden? Von Sandra Hofmann.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kultur/eurofurence-100.html",
-      "publishedAt": "2026-08-26T14:27:30.000Z"
-    },
-    {
-      "id": "n_04725d4ef0",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Britisches Königshaus: Prinz Harry und Meghan wieder zurück in England",
-      "summary": "Der Herzog von Sussex, Harry, und seine Frau, Herzogin Meghan, sind wieder in Großbritannien. Wie Medien berichten, landeten sie mit ihren Kindern, Archie und Lilibet, mit einem Privatflugzeug in Birmingham.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/england-harry-meghan-100.html",
-      "publishedAt": "2026-08-26T13:26:07.000Z"
     },
     {
       "id": "n_152b7eb08b",
@@ -178,6 +178,61 @@
       "publishedAt": "2026-08-25T14:16:00.000Z"
     },
     {
+      "id": "n_64be982bfa",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Schweizer Taschenmesser befristet im Amazon-Angebot",
+      "summary": "Schweizer Taschenmesser sowie die Swiss Card im Kreditkartenformat sind bei Amazon vorübergehend reduziert. (Victorinox, Technik/Hardware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-schweizer-taschenmesser-befristet-im-amazon-angebot-2608-212341.html",
+      "publishedAt": "2026-08-26T17:00:02.000Z"
+    },
+    {
+      "id": "n_f6924ef8dd",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Teurer Wechsel: Telekom-Umstellung auf LTE-Telefonie kostet 260 Euro mehr",
+      "summary": "Der Telekom-Umstieg von alten Telefonanschlüssen auf LTE-Sprachtelefonie ist zu teuer. Ein Vergleichsportal rechnet nach. (Festnetz, Mobilfunk)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/teurer-wechsel-telekom-umstellung-auf-lte-telefonie-kostet-260-euro-mehr-2608-212340.html",
+      "publishedAt": "2026-08-26T16:50:02.000Z"
+    },
+    {
+      "id": "n_9f7597ea10",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Security Incidents: die ersten Schritte nach dem Vorfall",
+      "summary": "Ein Sicherheitsvorfall verlangt schnelles, überlegtes Handeln. Ein Workshop vermittelt praxisnahes Wissen zu ersten Reaktionsschritten, Beweissicherung und Notbetrieb. (Golem Karrierewelt, Server-Applikationen)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-security-incidents-die-ersten-schritte-nach-dem-vorfall-2608-212295.html",
+      "publishedAt": "2026-08-26T16:45:02.000Z"
+    },
+    {
+      "id": "n_90280043c3",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "(g+) Opinion Business Insight: AI has opened up big holes in cyber security",
+      "summary": "It is too late to stop the technology being used as a damaging weapon, so great investment in defences is urgently needed Von Richard Waters (Security, KI)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/opinion-business-insight-ai-has-opened-up-big-holes-in-cyber-security-2608-212328.html",
+      "publishedAt": "2026-08-26T16:30:01.000Z"
+    },
+    {
+      "id": "n_3c948bfb9f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Hackerangriff auf Senatsverwaltungen: Berlin räumt Abfluss weiterer Daten ein",
+      "summary": "Beim Hackerangriff auf zwei Berliner Senatsverwaltungen sind möglicherweise nicht nur offene Geo-Daten abgeflossen. (Security, GreenIT)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/hackerangriff-auf-senatsverwaltungen-berlin-raeumt-abfluss-weiterer-daten-ein-2608-212339.html",
+      "publishedAt": "2026-08-26T16:14:01.000Z"
+    },
+    {
       "id": "n_199f3680fb",
       "type": "news",
       "topic": "tech",
@@ -211,59 +266,26 @@
       "publishedAt": "2026-08-26T15:35:02.000Z"
     },
     {
-      "id": "n_802ed1dbed",
+      "id": "n_554e787c58",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Bowser, Yoshi, Goomba: Lego stellt erste Sets mit richtigen Mario-Minifiguren vor",
-      "summary": "Die kommenden Mario-Sets könnten für Sammelfreunde interessant sein, die Fans von Super Mario und Lego sind. (Lego, Nintendo)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/bowser-yoshi-goomba-lego-stellt-erste-sets-mit-richtigen-mario-minifiguren-vor-2608-212338.html",
-      "publishedAt": "2026-08-26T15:26:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+      "summary": "It is believed the mosquitoes arrived at Germany's busiest airport on a plane, according to German public health officials.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T18:22:41.000Z"
     },
     {
-      "id": "n_a30db51b9b",
+      "id": "n_64ae0097ad",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Über Smartphone des Fahrers: Uber führt Videostream für Teenager-Fahrten ein",
-      "summary": "Uber erweitert seine Teenager-Konten um einen Videostream, mit dem Eltern live ins Fahrzeug schauen können. (Uber, Jugendschutz)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/ueber-smartphone-des-fahrers-uber-fuehrt-videostream-fuer-teenager-fahrten-ein-2608-212337.html",
-      "publishedAt": "2026-08-26T15:08:01.000Z"
-    },
-    {
-      "id": "n_f42307f714",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "KI-Pläne der Regierung: Klingbeil warnt vor \"gefährlicher Ideologie\" der Tech-Bros",
-      "summary": "Auch Bundeskanzler Merz will nicht die besten KI-Modelle für die deutsche Wirtschaft. Souveräne Lösungen für alle Branchen seien wichtiger. (KI, Silicon Valley)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/ki-plaene-der-regierung-klingbeil-warnt-vor-gefaehrlicher-ideologie-der-tech-bros-2608-212332.html",
-      "publishedAt": "2026-08-26T14:43:01.000Z"
-    },
-    {
-      "id": "n_049071c76e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Apples Foldable: Leaks zeigen Mainboards des möglichen iPhone Ultra",
-      "summary": "In zwei unabhängigen Leaks sind vier Hauptplatinen zu sehen, auf denen unter anderem ein A20-Pro-Chip von Apple Platz findet. (iPhone, Smartphone)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/apples-foldable-leaks-zeigen-mainboards-des-moeglichen-iphone-ultra-2608-212335.html",
-      "publishedAt": "2026-08-26T14:26:02.000Z"
-    },
-    {
-      "id": "n_a862f4c657",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Powerbank mit 20.000 mAh und 45 W für 29,99 Euro bei Amazon",
-      "summary": "Amazon hat eine Powerbank von Anker mit 20.000 mAh und 45 W im Angebot, die über zwei USB-C-Kabel und zwei weitere USB-Ports verfügt. (Technik/Hardware, Anker)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-powerbank-mit-20-000-mah-und-45-w-fuer-29-99-euro-bei-amazon-2608-212333.html",
-      "publishedAt": "2026-08-26T14:15:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
+      "summary": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T15:42:45.000Z"
     },
     {
       "id": "n_fd7e67b0b8",
@@ -275,17 +297,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-26T14:42:03.000Z"
-    },
-    {
-      "id": "n_554e787c58",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "German airport worker dies of malaria after 'mosquito arrives on plane'",
-      "summary": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T13:55:22.000Z"
     },
     {
       "id": "n_c6eb9d72ae",
@@ -343,15 +354,15 @@
       "publishedAt": "2026-08-26T08:47:18.000Z"
     },
     {
-      "id": "n_f1f5dde9d5",
+      "id": "n_dd68857a78",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
-      "summary": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
+      "headline": "Meta to pay up to $18bn to settle claims its platforms harm children",
+      "summary": "The deal has been reached during a California federal court trial over claims brought by US states.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T08:17:45.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T17:44:39.000Z"
     },
     {
       "id": "n_3a639d7b92",
@@ -363,17 +374,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c17jlngexy9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-26T15:38:49.000Z"
-    },
-    {
-      "id": "n_dd68857a78",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Meta agrees to pay up to $18bn to settle social media case",
-      "summary": "The deal has been reached during a California federal court trial over claims brought by US states.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T14:10:17.000Z"
     },
     {
       "id": "n_34222f5aa2",
@@ -442,6 +442,28 @@
       "publishedAt": "2026-08-22T12:47:28.000Z"
     },
     {
+      "id": "n_bb40d84771",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "The Porsche 911 GT3 Touring punches above its weight class",
+      "summary": "The \"everyday\" GT3 delivers, despite looming regulations and an ever-inflating price tag.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/08/driven-the-992-2-porsche-911-gt3-touring-earns-its-keep/",
+      "publishedAt": "2026-08-26T17:25:53.000Z"
+    },
+    {
+      "id": "n_07782fdd28",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Xbox’s new disc-to-digital program gives physical games a digital future",
+      "summary": "\"Most\" Xbox One and Series X games are compatible; discs will still work after being claimed.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/08/xboxs-new-disc-to-digital-program-gives-physical-games-a-digital-future/",
+      "publishedAt": "2026-08-26T16:59:41.000Z"
+    },
+    {
       "id": "n_d0606a5bd0",
       "type": "news",
       "topic": "tech",
@@ -508,26 +530,15 @@
       "publishedAt": "2026-08-26T11:00:12.000Z"
     },
     {
-      "id": "n_a6e98391ec",
+      "id": "n_e0f5f82e7d",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "The world's busiest spaceport is about to get a lot quieter, at least for now",
-      "summary": "SpaceX aims to launch Starship from Florida by the end of the year. 2027 seems more likely.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
-      "publishedAt": "2026-08-25T22:21:06.000Z"
-    },
-    {
-      "id": "n_91e48aee10",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "World humanoid robot games show runners breaking records, bursting into flames",
-      "summary": "Record-breaking robot races are less substantial than household chore challenges.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
-      "publishedAt": "2026-08-25T20:59:03.000Z"
+      "headline": "OpenAI releases its official report on the Hugging Face breach",
+      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "publishedAt": "2026-08-26T19:05:22.000Z"
     },
     {
       "id": "n_00cb965972",
@@ -607,15 +618,15 @@
       "publishedAt": "2026-08-26T12:55:28.000Z"
     },
     {
-      "id": "n_5e47f0272d",
+      "id": "n_b058b9480d",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-      "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-      "publishedAt": "2026-08-26T12:00:00.000Z"
+      "headline": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+      "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waitin",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+      "publishedAt": "2026-08-26T17:00:00.000Z"
     },
     {
       "id": "n_214a2fe83e",
@@ -695,17 +706,6 @@
       "publishedAt": "2026-08-20T15:45:55.000Z"
     },
     {
-      "id": "n_8d8f0f8898",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Welcome to the AI crisis in math",
-      "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in m",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "publishedAt": "2026-08-20T14:00:00.000Z"
-    },
-    {
       "id": "n_3f482c14d6",
       "type": "news",
       "topic": "ai",
@@ -781,6 +781,17 @@
       "source": "VentureBeat",
       "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
       "publishedAt": "2026-01-13T13:00:00.000Z"
+    },
+    {
+      "id": "n_69b225fb59",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The inside story on why OpenAI agents hacked Hugging Face",
+      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "publishedAt": "2026-08-26T19:00:00.000Z"
     },
     {
       "id": "n_f53aafc869",
@@ -860,15 +871,37 @@
       "publishedAt": "2026-08-20T15:42:39.000Z"
     },
     {
-      "id": "n_318d5ffb0f",
+      "id": "n_873282db3b",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Unlocking hidden revenue streams with market models",
-      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these jou",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "publishedAt": "2026-08-20T09:47:22.000Z"
+      "headline": "OpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers",
+      "summary": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
+      "publishedAt": "2026-08-26T19:16:42.000Z"
+    },
+    {
+      "id": "n_8a8f3eb610",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery",
+      "summary": "Beijing’s endlessly delightful Robot Games featured tons of impressive stunts. But the most mind-blowing tricks challenged the humanoid’s brain, not its brawn.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
+      "publishedAt": "2026-08-26T18:15:00.000Z"
+    },
+    {
+      "id": "n_2af56089bc",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
+      "summary": "More than 15 politicians from across the country have signed on to the AI Pact, vowing to regulate data centers and AI. “We’ve got to get this right,” says Senate candidate Dan Osborn of Nebraska.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
+      "publishedAt": "2026-08-26T17:13:37.000Z"
     },
     {
       "id": "n_0508c6c0ae",
@@ -924,39 +957,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
       "publishedAt": "2026-08-21T23:25:32.000Z"
-    },
-    {
-      "id": "n_4593a742e4",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The Single English County Saying No to Palantir",
-      "summary": "The UK government is facing calls to cancel a sprawling health care contract with Palantir. The region of Greater Manchester insists it can do a better job itself.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
-      "publishedAt": "2026-08-21T06:00:00.000Z"
-    },
-    {
-      "id": "n_beffc8d33a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Silicon Valley Doesn't Get Why You Hate AI",
-      "summary": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
-      "publishedAt": "2026-08-20T18:49:07.000Z"
-    },
-    {
-      "id": "n_051a5538f8",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
-      "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
-      "publishedAt": "2026-08-19T19:30:00.000Z"
     },
     {
       "id": "n_5309d96554",
