@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-26T19:29:23.714Z",
+  "generatedAt": "2026-08-27T00:19:03.712Z",
   "items": [
+    {
+      "id": "n_2a890f055f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wie sich Uruguay auf einen \"Super-El-Niño\" vorbereitet",
+      "summary": "Das Wetterphänomen El Niño könnte in diesem Jahr besonders extreme Folgen haben. In Uruguay bereiten sich die Menschen auf starke Regenfälle vor. Dafür verändern sie die Hauptstadt und forschen an wasserdurchlässigem Straßenbelag. Von Xenia Böttcher.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/uruguay-el-nino-ueberschwemmungen-100.html",
+      "publishedAt": "2026-08-27T00:15:31.000Z"
+    },
     {
       "id": "n_709e1ecede",
       "type": "news",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-sachsen-anhalt-100.html",
       "publishedAt": "2026-08-26T16:00:07.000Z"
-    },
-    {
-      "id": "n_2724ae8f85",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Meta und US-Staaten einigen sich auf Milliarden-Vergleich",
-      "summary": "Es war ein viel beachtetes Verfahren, in dem US-Staaten Meta vorgeworfen haben, jugendliche Nutzer abhängig zu machen. Nun stimmte der Social-Media-Konzern einem Milliardenvergleich zu, der auch weitere Schutzmechanismen vorsieht.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-meta-staaten-einigung-100.html",
-      "publishedAt": "2026-08-26T15:39:21.000Z"
     },
     {
       "id": "n_152b7eb08b",
@@ -266,6 +266,61 @@
       "publishedAt": "2026-08-26T15:35:02.000Z"
     },
     {
+      "id": "n_adc5f18650",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis",
+      "summary": "Many communities are living in fear of being kidnapped for ransom as the crisis spreads further south.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z0p3nmdro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T23:11:24.000Z"
+    },
+    {
+      "id": "n_af47ef1dac",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Iceland holds knife-edge referendum on EU - and it could be decided on fish",
+      "summary": "On Saturday, Iceland will vote on EU membership talks, amid economic and geopolitical tensions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c99dvmyr4glo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T23:08:43.000Z"
+    },
+    {
+      "id": "n_2e3fdae596",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "The question dominating Indian politics: Is it worse when women swear?",
+      "summary": "Rahul Gandhi's comments renew the debate over gender disparity in reactions to insults hurled at PM Narendra Modi.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zn6gy7zjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T23:03:31.000Z"
+    },
+    {
+      "id": "n_311af4b2e8",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US drug agency approves breakthrough treatment for pancreatic cancer",
+      "summary": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T22:02:18.000Z"
+    },
+    {
+      "id": "n_380ee43401",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Parrot eggs hatch after suspected Thai smuggler arrested at South African airport",
+      "summary": "A 50-year-old Thai suspect was arrested with the eggs in a \"homemade incubator\" carried as hand luggage.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ceq8n04q0gxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T19:19:46.000Z"
+    },
+    {
       "id": "n_554e787c58",
       "type": "news",
       "topic": "general",
@@ -299,59 +354,26 @@
       "publishedAt": "2026-08-26T14:42:03.000Z"
     },
     {
-      "id": "n_c6eb9d72ae",
+      "id": "n_b392bbbec1",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Guinea's president dismisses 173 soldiers, including coup ally, for desertion",
-      "summary": "It is thought to be part of efforts to consolidate the former coup leader's control.",
+      "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+      "summary": "OpenAI's cyber agents banded together to perform a hack during a security test.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z0j3nyl4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T13:49:55.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T22:03:45.000Z"
     },
     {
-      "id": "n_033193ef8a",
+      "id": "n_b4a5a5127d",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
-      "summary": "Eswatini is one of 12 countries, and the only one in Africa, that has diplomatic relations with Taiwan.",
+      "headline": "Nvidia revenue doubles on continued AI demand",
+      "summary": "Chipmaker's $96bn quarter beat forecasts as demand for AI hardware continues to accelerate.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T12:17:12.000Z"
-    },
-    {
-      "id": "n_3808efb7fc",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
-      "summary": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T11:32:11.000Z"
-    },
-    {
-      "id": "n_f320dfe7e4",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Radiation link in flight attendant's breast cancer, French court finds",
-      "summary": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T10:29:36.000Z"
-    },
-    {
-      "id": "n_2a2c18d4bb",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Canada's retaliation tests the limit of American power under Trump",
-      "summary": "The president is using US dominance to challenge allies and enemies alike - but both Canada and Iran have found ways to fight back.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce8xd5k1krpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T08:47:18.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T21:49:26.000Z"
     },
     {
       "id": "n_dd68857a78",
@@ -362,7 +384,7 @@
       "summary": "The deal has been reached during a California federal court trial over claims brought by US states.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T17:44:39.000Z"
+      "publishedAt": "2026-08-26T21:27:23.000Z"
     },
     {
       "id": "n_3a639d7b92",
@@ -420,26 +442,70 @@
       "publishedAt": "2026-08-24T16:03:24.000Z"
     },
     {
-      "id": "n_400d3f4f9f",
+      "id": "n_e69eb14794",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Twitch and Amazon face legal action over using livestreams to train AI",
-      "summary": "The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T13:09:44.000Z"
+      "headline": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
+      "summary": "A dashing pirate, a butler, a killer clown, an alien mad scientist in drag—the man had range.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/",
+      "publishedAt": "2026-08-26T22:13:15.000Z"
     },
     {
-      "id": "n_4f4a8c529b",
+      "id": "n_fbbe9e7cb9",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Robot horse and rider steal the spotlight at Chinese conference",
-      "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T12:47:28.000Z"
+      "headline": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+      "summary": "Report shows Meta's challenges replacing people with AI agents.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+      "publishedAt": "2026-08-26T21:25:27.000Z"
+    },
+    {
+      "id": "n_1f2ea201e8",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "New Twitter launches, says Musk's X gave up the name",
+      "summary": "Judge hasn't ruled on X Corp’s preliminary injunction, but Operation Bluebird plows ahead",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/",
+      "publishedAt": "2026-08-26T20:49:04.000Z"
+    },
+    {
+      "id": "n_a5c00e68d2",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Meta settles states' child-safety claims for $18B; Florida rejects deal as \"peanuts\"",
+      "summary": "Meta to impose daily limit on child social media use in deal with nearly every state.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts/",
+      "publishedAt": "2026-08-26T19:50:52.000Z"
+    },
+    {
+      "id": "n_c2daa75c63",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Florida Catholics slap down state AG by rejecting religious vaccine exemptions",
+      "summary": "The bishops' snub comes as the state continues to attack vaccines.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/08/catholic-bishops-tell-florida-theres-no-religious-reason-for-vaccine-exemptions/",
+      "publishedAt": "2026-08-26T19:39:24.000Z"
+    },
+    {
+      "id": "n_e138211bec",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+      "summary": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "publishedAt": "2026-08-26T19:19:22.000Z"
     },
     {
       "id": "n_bb40d84771",
@@ -464,70 +530,48 @@
       "publishedAt": "2026-08-26T16:59:41.000Z"
     },
     {
-      "id": "n_d0606a5bd0",
+      "id": "n_54c6ad305d",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Court blocks Trump FCC order that could flood broadcast TV with more election ads",
-      "summary": "Republicans demanded that parties and fundraising committees be given lowest ad rates.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/court-blocks-trump-fcc-order-that-could-flood-broadcast-tv-with-more-election-ads/",
-      "publishedAt": "2026-08-26T15:45:07.000Z"
+      "headline": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "publishedAt": "2026-08-26T23:47:18.000Z"
     },
     {
-      "id": "n_7f957bf50e",
+      "id": "n_9951d4d161",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Researchers get two genetic codes to work at the same time",
-      "summary": "Messing with the genetic code might have gotten a bit easier to do.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/",
-      "publishedAt": "2026-08-26T15:00:34.000Z"
+      "headline": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "publishedAt": "2026-08-26T21:37:39.000Z"
     },
     {
-      "id": "n_09a3d49de5",
+      "id": "n_5069764c86",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "15,000 years of solar wind in four hours? A Seattle company gives it a go.",
-      "summary": "\"We're living in this world of scarcity with the Moon.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/",
-      "publishedAt": "2026-08-26T14:14:52.000Z"
+      "headline": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "summary": "Consumer AI apps need to stop making users learn their product architecture.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "publishedAt": "2026-08-26T19:37:34.000Z"
     },
     {
-      "id": "n_0fcb13f709",
+      "id": "n_a4f8022563",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Psychiatry’s diagnostic bible is finally getting a biological upgrade",
-      "summary": "Biology is coming to psychiatry’s diagnostic manual, even as reliable biomarkers remain rare.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/08/psychiatrys-diagnostic-bible-is-finally-getting-a-biological-upgrade/",
-      "publishedAt": "2026-08-26T13:53:32.000Z"
-    },
-    {
-      "id": "n_05f45dd4d9",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
-      "summary": "The focus is on agentic capability and predictable enterprise deployment.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
-      "publishedAt": "2026-08-26T11:10:49.000Z"
-    },
-    {
-      "id": "n_471f89d285",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Xtracycle's Swoop ASM e-bike brings an automatic transmission to cargo bikes",
-      "summary": "A steel frame cargo bike with a unique twist: You can let it choose your gear.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/",
-      "publishedAt": "2026-08-26T11:00:12.000Z"
+      "headline": "How do we explain OpenAI’s executive exodus?",
+      "summary": "Was Greg Brockman the right executive all along?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "publishedAt": "2026-08-26T19:34:04.000Z"
     },
     {
       "id": "n_e0f5f82e7d",
@@ -574,48 +618,26 @@
       "publishedAt": "2026-08-26T14:37:01.000Z"
     },
     {
-      "id": "n_d807f10db6",
+      "id": "n_5466e82242",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-      "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-      "publishedAt": "2026-08-26T14:19:29.000Z"
+      "headline": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+      "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its latest earnings report ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+      "publishedAt": "2026-08-26T21:40:53.000Z"
     },
     {
-      "id": "n_d481ce7b5f",
+      "id": "n_3f42b441a7",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Robot brain builders are pushing out of their GPT-2 era",
-      "summary": "Robot bodies are waiting for their AI brains to catch up.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-      "publishedAt": "2026-08-26T13:30:00.000Z"
-    },
-    {
-      "id": "n_4ce0a25c62",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "QueryStory wants you to believe what AI is telling you",
-      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-      "publishedAt": "2026-08-26T13:00:00.000Z"
-    },
-    {
-      "id": "n_22b66277c6",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Arga Labs is building a better way to train enterprise AI agents",
-      "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-      "publishedAt": "2026-08-26T12:55:28.000Z"
+      "headline": "OpenAI’s rogue AI model incident was worse than we thought",
+      "summary": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"mes",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "publishedAt": "2026-08-26T21:36:06.000Z"
     },
     {
       "id": "n_b058b9480d",
@@ -682,28 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
       "publishedAt": "2026-08-21T13:37:52.000Z"
-    },
-    {
-      "id": "n_abea01bdfe",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Google Discover is getting an AI chatbot-tuned feed",
-      "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the opti",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "publishedAt": "2026-08-20T21:50:22.000Z"
-    },
-    {
-      "id": "n_d7ef297558",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "It’s Greg Brockman’s OpenAI now",
-      "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepar",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "publishedAt": "2026-08-20T15:45:55.000Z"
     },
     {
       "id": "n_3f482c14d6",
@@ -875,7 +875,7 @@
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "OpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers",
+      "headline": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
       "summary": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming.",
       "source": "Wired",
       "url": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
@@ -1095,6 +1095,18 @@
       "publishedAt": "2026-08-14T08:42:07.000Z"
     },
     {
+      "id": "n_ffdb3dfd14",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
+      "publishedAt": "2026-08-26T21:44:41.000Z"
+    },
+    {
       "id": "n_6a18d8c315",
       "type": "video",
       "topic": "video",
@@ -1129,18 +1141,6 @@
       "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
       "thumbnail": "https://i.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
       "publishedAt": "2026-06-30T21:16:13.000Z"
-    },
-    {
-      "id": "n_6a7b36e7cd",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU",
-      "thumbnail": "https://i.ytimg.com/vi/1M3Vdl6DRkU/hqdefault.jpg",
-      "publishedAt": "2026-05-29T16:18:31.000Z"
     },
     {
       "id": "n_f978bd3ac8",
