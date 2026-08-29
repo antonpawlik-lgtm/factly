@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-08-29T11:52:05.210Z",
+  "generatedAt": "2026-08-29T15:50:34.994Z",
   "items": [
+    {
+      "id": "n_d004aa4c81",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Iran räumt wirtschaftliche Kriegsfolgen ein - dennoch kein Einlenken",
+      "summary": "Irans Führung räumt schwere wirtschaftliche Schäden durch den Krieg mit den USA ein, dennoch will das Land nicht einlenken. In der Hauptstadt Teheran bilden sich lange Schlangen vor Tankstellen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/iran-kriegsfolgen-wirtschaft-100.html",
+      "publishedAt": "2026-08-29T15:20:56.000Z"
+    },
+    {
+      "id": "n_fc872f1248",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Offenbar Putschversuch gegen Militärjunta in Niger - Schüsse in Niamey",
+      "summary": "In Niger in Westafrika hat es offenbar einen Putschversuch gegeben. Soldaten nahmen der Militärjunta zufolge Offiziere in der Hauptstadt als Geiseln und griffen strategische Ziele an. Inzwischen sei der Aufstand beendet.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/afrika/militaerjunta-niger-meuterei-soldaten-100.html",
+      "publishedAt": "2026-08-29T14:34:23.000Z"
+    },
+    {
+      "id": "n_34de647346",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Außergewöhnlich heftiges Unwetter unter anderem am Bodensee",
+      "summary": "Abgedeckte Häuser, umgestürzte Bäume, gesperrte Bahnstrecken: Unwetter haben im Süden Deutschlands schwere Schäden angerichtet. Auch Norditalien und die Schweiz wurden getroffen - dort gab es mehrere Verletzte.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/hagelsturm-deutschland-italien-schweiz-100.html",
+      "publishedAt": "2026-08-29T14:05:28.000Z"
+    },
     {
       "id": "n_dd679bd902",
       "type": "news",
@@ -10,7 +43,40 @@
       "summary": "Im russischen Krieg gegen die Ukraine halten die Luftangriffe auf beiden Seiten unvermindert an: Russland attackierte erneut den Großraum Kiew. Mindestens 37 Menschen starben. Auch die Ukraine flog Angriffe.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-tote-butscha-odessa-kiew-100.html",
-      "publishedAt": "2026-08-29T11:39:29.000Z"
+      "publishedAt": "2026-08-29T13:52:07.000Z"
+    },
+    {
+      "id": "n_6280310aa4",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ex-Kohlekraftwerk Frimmersdorf: RWE sprengt riesigen Schornstein",
+      "summary": "Der Rückbau des ehemaligen Braunkohlekraftwerks Frimmersdorf in Nordrhein-Westfalen kommt voran. RWE hat einen 200 Meter hohen Schornstein auf dem Gelände kontrolliert gesprengt. Zurück bleiben 14.000 Tonnen Schutt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/rwe-sprengung-schornstein-frimmersdorf-100.html",
+      "publishedAt": "2026-08-29T13:37:50.000Z"
+    },
+    {
+      "id": "n_561ce3c062",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Referendum: Nimmt Island Beitrittsverhandlungen mit der EU auf?",
+      "summary": "Es geht um Sicherheit, Souveränität und Fischereirechte: Heute stimmt Island darüber ab, ob die Beitrittsgespräche mit der EU wieder aufgenommen werden. Bei dem Referendum ist Island gespalten wie nie. Von Jana Sinram.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/island-eu-referendum-104.html",
+      "publishedAt": "2026-08-29T13:02:55.000Z"
+    },
+    {
+      "id": "n_abb0803f40",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Schiefer als der in Pisa - der Turm von Michalovice",
+      "summary": "Der Schiefe Turm von Pisa ist nicht der schiefste Glockenturm der Welt. Der Wehrturm der Burgruine von Michalovice nahe Prag ist noch stärker geneigt. Die Gemeinde überlegt, ob es ihr einen Guinness-Rekord-Eintrag wert ist. Von Marianne Allweiss.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/schiefe-turm-wehrturm-michalovice-tschechien-100.html",
+      "publishedAt": "2026-08-29T12:09:11.000Z"
     },
     {
       "id": "n_578d96c078",
@@ -22,72 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/estland-drogen-100.html",
       "publishedAt": "2026-08-29T09:37:08.000Z"
-    },
-    {
-      "id": "n_77de1c376a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Sturzflut in Nepal und Tibet: Zahl der Toten steigt über 600",
-      "summary": "Nach der Sturzflut in Nepal und Tibet suchen Rettungskräfte noch immer nach 2.500 Vermissten. Die Zahl der Toten liegt inzwischen über 600. Doch es gibt bei den Einsätzen auch positive Nachrichten. Von Lena Bodewein.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/himalaya-sturzflut-nepal-100.html",
-      "publishedAt": "2026-08-29T09:31:12.000Z"
-    },
-    {
-      "id": "n_c733606bd5",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Interview: Was den Erfolg der AfD antreibt",
-      "summary": "Eine AfD-Regierung galt lange als undenkbar - heute erscheint sie möglich. Der Extremismusforscher Quent erklärt, wie es so weit kam und warum die AfD auch in westdeutschen Bundesländern an Stärke gewinnt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/afd-rechtsextremismus-quent-100.html",
-      "publishedAt": "2026-08-29T07:56:07.000Z"
-    },
-    {
-      "id": "n_342ce44649",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Was steckt hinter dem Öl-Abkommen mit Venezuela?",
-      "summary": "Die USA haben offenbar ein Öl-Abkommen mit Venezuela geschlossen. Laut Präsident Trump sichert sich das Land damit mehr als 65 Milliarden Barrel Öl. Außenminister Rubio spricht von großen Vorteilen auch für Venezuela. Von C. Kühntopp.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/venezuela-oel-faq-100.html",
-      "publishedAt": "2026-08-29T07:54:08.000Z"
-    },
-    {
-      "id": "n_59126e1c2f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Bas stellt Krankschreibung ab erstem Tag infrage und stellt Bedingungen",
-      "summary": "Die Attestpflicht ab dem 1. Krankheitstag ist ein Wunsch der Union. Die Arbeitsministerin und SPD-Chefin zweifelt nun am Sinn und stellt Bedingungen. Bei der Abschaffung der abschlagsfreien Rente plädiert auch sie für eine Übergangsfrist.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bas-attestpflicht-erster-krankheitstag-abschlagsfreie-rente-100.html",
-      "publishedAt": "2026-08-29T07:44:43.000Z"
-    },
-    {
-      "id": "n_149b5904a2",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Was die energetische Sanierung von Häusern beschleunigen könnte",
-      "summary": "Millionen Häuser könnten energetisch saniert werden. Doch Eigenheimbesitzer sind oft zögerlich: Hohe Kosten, unkalkulierbare Risiken und die Aussicht auf monatelange Baustellen schrecken viele ab. Doch muss das sein? Von Andre Kartschall.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/haus-sanierung-tempo-umbau-100.html",
-      "publishedAt": "2026-08-29T06:29:16.000Z"
-    },
-    {
-      "id": "n_54af25ef3c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Rettungsteams im Himalaya kämpfen sich durch Katastrophengebiet",
-      "summary": "Enorme Schlammmassen und Regenfälle erschweren die Rettungsarbeiten im Flut-Katastrophengebiet im Himalaya. Die Todeszahlen sind auf mehr als 630 gestiegen, etwa 2.400 Menschen werden noch immer vermisst.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/nepal-tibet-flut-100.html",
-      "publishedAt": "2026-08-29T05:12:54.000Z"
     },
     {
       "id": "n_10845fa8eb",
@@ -270,11 +270,33 @@
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "At least 27 dead and hundreds evacuated after strike on Kyiv warehouse",
-      "summary": "An investigation has been launched into whether ammunition was being stored at the site near residential buildings.",
+      "headline": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T11:38:27.000Z"
+      "publishedAt": "2026-08-29T15:27:56.000Z"
+    },
+    {
+      "id": "n_d1fd3bc001",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T15:13:42.000Z"
+    },
+    {
+      "id": "n_83790b1502",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Deadly strike on Kyiv warehouse prompts evacuations",
+      "summary": "Ukraine correspondent Dan Johnson reports from Kyiv after the deadly strike, which authorities said killed more than 30 people.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T13:55:55.000Z"
     },
     {
       "id": "n_305384639a",
@@ -321,17 +343,6 @@
       "publishedAt": "2026-08-29T03:54:11.000Z"
     },
     {
-      "id": "n_d1fd3bc001",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T02:42:27.000Z"
-    },
-    {
       "id": "n_ac57fa72d7",
       "type": "news",
       "topic": "general",
@@ -341,17 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-29T01:14:13.000Z"
-    },
-    {
-      "id": "n_24b2fda83a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Close race as Iceland votes on whether to restart talks on joining EU",
-      "summary": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T00:56:19.000Z"
     },
     {
       "id": "n_dfa7e4ed18",
@@ -442,6 +442,17 @@
       "publishedAt": "2026-08-26T15:38:49.000Z"
     },
     {
+      "id": "n_01fb7eabce",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "I asked 100 companies for my data. Some deleted it instead.",
+      "summary": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
+      "publishedAt": "2026-08-29T10:50:31.000Z"
+    },
+    {
       "id": "n_5161e1d00e",
       "type": "news",
       "topic": "tech",
@@ -519,15 +530,15 @@
       "publishedAt": "2026-08-28T16:44:47.000Z"
     },
     {
-      "id": "n_941119c98c",
+      "id": "n_dcb10e4dd9",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
-      "summary": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
-      "publishedAt": "2026-08-28T15:42:24.000Z"
+      "headline": "Nvidia’s AI advantage is moving beyond the GPU",
+      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "publishedAt": "2026-08-29T13:00:00.000Z"
     },
     {
       "id": "n_d63f08afee",
@@ -607,15 +618,15 @@
       "publishedAt": "2026-08-27T19:52:52.000Z"
     },
     {
-      "id": "n_9eadc7db28",
+      "id": "n_143903ddbe",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-      "publishedAt": "2026-08-27T17:43:24.000Z"
+      "headline": "Musicians-turned-detectives are hunting for AI grifters",
+      "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "publishedAt": "2026-08-29T12:00:00.000Z"
     },
     {
       "id": "n_2c0deb26fc",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
       "publishedAt": "2026-08-27T13:11:23.000Z"
-    },
-    {
-      "id": "n_d02f5ca62f",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Adobe is adding more AI to Photoshop",
-      "summary": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools. Launching in beta, the \"AI Assisted Editor\" view will show all of Photoshop's AI features in a single toolbar, including its prompt-based image editor, backgr",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
-      "publishedAt": "2026-08-27T13:00:00.000Z"
     },
     {
       "id": "n_b0a07733da",
