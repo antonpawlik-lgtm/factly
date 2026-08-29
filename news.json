@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-08-29T15:50:34.994Z",
+  "generatedAt": "2026-08-29T20:04:51.436Z",
   "items": [
+    {
+      "id": "n_c1c65eb20f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Haakon hält erste emotionale Ansprache als König von Norwegen",
+      "summary": "In seiner ersten Rede als norwegischer König hat Haakon VIII. seinen verstorbenen Vater geehrt. Harald V. sei ein großzügiger König gewesen, der allen mit Respekt begegnet sei. Auf ihn selbst warte nun eine große Aufgabe, so Haakon.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/norwegen-rede-koenig-haakon-100.html",
+      "publishedAt": "2026-08-29T19:05:42.000Z"
+    },
+    {
+      "id": "n_86fb83fb92",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "37 Tote bei Angriff nahe Kiew - Ukraine spricht von Fahrlässigkeit",
+      "summary": "Nach einem schweren russischen Angriff mit 37 Toten spricht der ukrainische Präsident Selenskyj von Fahrlässigkeit. Offenbar gab es Verstöße gegen Vorschriften zur Munitionslagerung. Ermittlungen wurden eingeleitet.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-vielen-toten-nahe-kiew-100.html",
+      "publishedAt": "2026-08-29T18:42:43.000Z"
+    },
+    {
+      "id": "n_49fcb550cd",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Iran-Krieg: Rund 400 Schiffe stecken weiter im Persischen Golf fest",
+      "summary": "Seit Beginn des Iran-Kriegs ist der Schiffsverkehr durch die Straße von Hormus stark eingeschränkt. Wie viele Tanker und Frachter sie täglich passieren, ist unklar. Noch immer können Hunderte Schiffe den Persischen Golf nicht verlassen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/iran-krieg-strasse-hormus-100.html",
+      "publishedAt": "2026-08-29T16:33:48.000Z"
+    },
+    {
+      "id": "n_dd08b3be52",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Die irische Biermarke Guinness widersteht dem Brauerei-Sterben",
+      "summary": "Auch auf den britischen Inseln geht der Bierkonsum zurück, viele kleine Brauereien müssen schließen. Eine Traditionsmarke aber erlebt einen erstaunlichen Boom: Guinness aus Irland. Von Lisa-Maria Röhling.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/guinness-bier-irland-100.html",
+      "publishedAt": "2026-08-29T16:16:37.000Z"
+    },
     {
       "id": "n_d004aa4c81",
       "type": "news",
@@ -44,50 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-tote-butscha-odessa-kiew-100.html",
       "publishedAt": "2026-08-29T13:52:07.000Z"
-    },
-    {
-      "id": "n_6280310aa4",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Ex-Kohlekraftwerk Frimmersdorf: RWE sprengt riesigen Schornstein",
-      "summary": "Der Rückbau des ehemaligen Braunkohlekraftwerks Frimmersdorf in Nordrhein-Westfalen kommt voran. RWE hat einen 200 Meter hohen Schornstein auf dem Gelände kontrolliert gesprengt. Zurück bleiben 14.000 Tonnen Schutt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/rwe-sprengung-schornstein-frimmersdorf-100.html",
-      "publishedAt": "2026-08-29T13:37:50.000Z"
-    },
-    {
-      "id": "n_561ce3c062",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Referendum: Nimmt Island Beitrittsverhandlungen mit der EU auf?",
-      "summary": "Es geht um Sicherheit, Souveränität und Fischereirechte: Heute stimmt Island darüber ab, ob die Beitrittsgespräche mit der EU wieder aufgenommen werden. Bei dem Referendum ist Island gespalten wie nie. Von Jana Sinram.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/island-eu-referendum-104.html",
-      "publishedAt": "2026-08-29T13:02:55.000Z"
-    },
-    {
-      "id": "n_abb0803f40",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Schiefer als der in Pisa - der Turm von Michalovice",
-      "summary": "Der Schiefe Turm von Pisa ist nicht der schiefste Glockenturm der Welt. Der Wehrturm der Burgruine von Michalovice nahe Prag ist noch stärker geneigt. Die Gemeinde überlegt, ob es ihr einen Guinness-Rekord-Eintrag wert ist. Von Marianne Allweiss.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/schiefe-turm-wehrturm-michalovice-tschechien-100.html",
-      "publishedAt": "2026-08-29T12:09:11.000Z"
-    },
-    {
-      "id": "n_578d96c078",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Estland als Testlabor für neue synthetische Drogen",
-      "summary": "Estland ist zu einer Art Testmarkt für synthetische Drogen geworden. Das Land hat die höchste Zahl von Drogentoten pro Einwohner in der EU. Dabei war es eigentlich besonders erfolgreich im Kampf gegen illegale Opioide. Von Christian Stichler.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/estland-drogen-100.html",
-      "publishedAt": "2026-08-29T09:37:08.000Z"
     },
     {
       "id": "n_10845fa8eb",
@@ -178,6 +178,17 @@
       "publishedAt": "2026-08-27T15:06:00.000Z"
     },
     {
+      "id": "n_8b85b841a6",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Nurflügler: Chinas Riesenflugzeug-Konzept für 800 Passagiere",
+      "summary": "Ein Nurflügler als Großraumflugzeug? Chinesische Wissenschaftler stellen laut einem Bericht der South China Morning Post ihre Grundlagenstudie vor und berichten über erste Modelltests im Windkanal. (Luftfahrt, Flugzeug)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/nurfluegler-chinas-riesenflugzeug-konzept-fuer-800-passagiere-2608-212297.html",
+      "publishedAt": "2026-08-29T16:08:02.000Z"
+    },
+    {
       "id": "n_393d3ad72a",
       "type": "news",
       "topic": "tech",
@@ -255,15 +266,59 @@
       "publishedAt": "2026-08-29T08:00:02.000Z"
     },
     {
-      "id": "n_4d9a8f6e07",
+      "id": "n_7b3d3d9a0a",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Eure Support-Geschichten: \"Die Karte war noch nie bei uns zur Reklamation\"",
-      "summary": "Egal, ob unkomplizierte Hilfe oder monatelanges Warten: Bei euren Geschichten über Kundendienste ist alles dabei. Von Mike Faust (Recycling & Reparatur, Smartphone)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/eure-support-geschichten-die-karte-war-noch-nie-bei-uns-zur-reklamation-2608-212398.html",
-      "publishedAt": "2026-08-29T05:30:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Former Ecuadorian president imprisoned for corruption",
+      "summary": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T19:44:54.000Z"
+    },
+    {
+      "id": "n_2cfea3c266",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Norway's new king remembers 'my dear father' in first speech",
+      "summary": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T19:06:28.000Z"
+    },
+    {
+      "id": "n_f380d6c27e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
+      "summary": "According to official figures only 1,811 cuttlefish turned up to mate this year, down 97% on last year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T18:30:32.000Z"
+    },
+    {
+      "id": "n_627c6dfa54",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+      "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T17:52:42.000Z"
+    },
+    {
+      "id": "n_d1fd3bc001",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T16:15:56.000Z"
     },
     {
       "id": "n_2458fe404e",
@@ -275,17 +330,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-29T15:27:56.000Z"
-    },
-    {
-      "id": "n_d1fd3bc001",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T15:13:42.000Z"
     },
     {
       "id": "n_83790b1502",
@@ -308,50 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-29T08:48:34.000Z"
-    },
-    {
-      "id": "n_4a9b891e0f",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
-      "summary": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T07:11:04.000Z"
-    },
-    {
-      "id": "n_2fe184afe9",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Forget Starbucks coffee - Gen Z like their drinks ice cold",
-      "summary": "Young consumers are choosing cold, customisable drinks and coffee chains are racing to catch up.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2r9n2mrp8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T04:30:27.000Z"
-    },
-    {
-      "id": "n_929aeaf9b4",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T03:54:11.000Z"
-    },
-    {
-      "id": "n_ac57fa72d7",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
-      "summary": "Two ships were seized within four days last week raising to at least 13 the number attacked since January.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T01:14:13.000Z"
     },
     {
       "id": "n_dfa7e4ed18",
@@ -530,6 +530,28 @@
       "publishedAt": "2026-08-28T16:44:47.000Z"
     },
     {
+      "id": "n_a07c3116b1",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "publishedAt": "2026-08-29T18:41:59.000Z"
+    },
+    {
+      "id": "n_160a511db1",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thi",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "publishedAt": "2026-08-29T17:36:47.000Z"
+    },
+    {
       "id": "n_dcb10e4dd9",
       "type": "news",
       "topic": "ai",
@@ -596,26 +618,15 @@
       "publishedAt": "2026-08-28T12:21:06.000Z"
     },
     {
-      "id": "n_2f47506cdb",
+      "id": "n_202512972a",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-08-27T23:16:45.000Z"
-    },
-    {
-      "id": "n_9d531c3266",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "publishedAt": "2026-08-27T19:52:52.000Z"
+      "headline": "Sony Music and Warner Chappell are suing Anthropic",
+      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "publishedAt": "2026-08-29T18:19:53.000Z"
     },
     {
       "id": "n_143903ddbe",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
       "publishedAt": "2026-08-27T13:44:00.000Z"
-    },
-    {
-      "id": "n_52e774adbc",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Plaud is launching AI earbuds",
-      "summary": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin. The Plaud One Explorer Edition can be worn like traditional earbuds or used through its standalone charging case,",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
-      "publishedAt": "2026-08-27T13:11:23.000Z"
     },
     {
       "id": "n_b0a07733da",
