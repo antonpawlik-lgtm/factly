@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T20:04:51.436Z",
+  "generatedAt": "2026-08-29T22:52:43.718Z",
   "items": [
     {
       "id": "n_c1c65eb20f",
@@ -266,6 +266,28 @@
       "publishedAt": "2026-08-29T08:00:02.000Z"
     },
     {
+      "id": "n_d1fd3bc001",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T22:40:51.000Z"
+    },
+    {
+      "id": "n_2458fe404e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T20:13:16.000Z"
+    },
+    {
       "id": "n_7b3d3d9a0a",
       "type": "news",
       "topic": "general",
@@ -308,28 +330,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-29T17:52:42.000Z"
-    },
-    {
-      "id": "n_d1fd3bc001",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T16:15:56.000Z"
-    },
-    {
-      "id": "n_2458fe404e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T15:27:56.000Z"
     },
     {
       "id": "n_83790b1502",
