@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-08-30T02:01:35.458Z",
+  "generatedAt": "2026-08-30T08:36:09.800Z",
   "items": [
+    {
+      "id": "n_71df93d817",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Tote und Verletzte nach Schüssen bei Techno-Veranstaltung in der Schweiz",
+      "summary": "Bei einem Rave im schweizerischen Aarau, westlich von Zürich, sind in der Nacht Schüsse gefallen. Die Polizei spricht von einer Toten und fünf Verletzten. Die Hintergründe der Tat sind noch unklar.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-100.html",
+      "publishedAt": "2026-08-30T08:29:48.000Z"
+    },
+    {
+      "id": "n_7e778db957",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Knappes Rennen bei EU-Referendum in Island",
+      "summary": "Noch sind nicht alle Stimmen in Island ausgezählt. Die beiden Lager beim Referendum über die Aufnahme von EU-Beitrittsverhandlungen lagen fast gleich auf, doch kurz vor Ende der Auszählung zeichnet sich ein Nein immer deutlicher ab.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/island-referendum-auszaehlung-100.html",
+      "publishedAt": "2026-08-30T07:13:42.000Z"
+    },
+    {
+      "id": "n_a494b0ded3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Superreiche in New York: \"Wir wollen mehr Steuern zahlen\"",
+      "summary": "Eine Gruppe schwerreicher New Yorker fordert, höher besteuert zu werden. In ihrem neuen Bürgermeister Mamdani haben sie dabei einen politischen Mitstreiter - dessen Mantra im Wahlkampf war \"tax the rich\". Von Marion Schmickler.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/new-york-reichensteuer-millionaere-100.html",
+      "publishedAt": "2026-08-30T06:29:42.000Z"
+    },
+    {
+      "id": "n_c9e00a1298",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Antisemitismusbeauftragter: Wer folgt auf Felix Klein?",
+      "summary": "Nach dem Weggang von Felix Klein bleibt das Amt des Antisemitismusbeauftragten unbesetzt. Angesichts steigender antisemitischer Vorfälle sorgt die Verzögerung bei der Nachfolge für Kritik. Von Dietrich Karl Mäurer.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/antisemitismus-beauftragter-bundesregierung-100.html",
+      "publishedAt": "2026-08-30T06:00:46.000Z"
+    },
+    {
+      "id": "n_e9590b8579",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nepal und China: Opferzahl steigt, Suche nach Vermissten geht weiter",
+      "summary": "Nach der Flut im Himalaya werden in China laut den Behörden drei Deutsche vermisst. Nepals Katastrophenschutz mahnt zur Vorsicht: Gefährlich könnte der Fluss Bhotekoshi werden. Die Zahl der Opfer stieg unterdessen auf 750.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/flut-nepal-tibet-opferzahl-steigt-100.html",
+      "publishedAt": "2026-08-30T05:16:43.000Z"
+    },
+    {
+      "id": "n_0b16bdbbae",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Westjordanland: Netanjahu verurteilt Siedlergewalt ungewöhnlich scharf",
+      "summary": "In einem seit Wochen von israelischen Siedlern belagerten Dorf im Westjordanland ist es erneut zu Gewalt gekommen. Die Täter schadeten \"Israels Ansehen in der Welt\", kritisierte nun Premier Netanjahu.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/netanjahu-westjordanland-siedlergewalt-100.html",
+      "publishedAt": "2026-08-30T02:14:23.000Z"
+    },
     {
       "id": "n_c1c65eb20f",
       "type": "news",
@@ -22,72 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-vielen-toten-nahe-kiew-100.html",
       "publishedAt": "2026-08-29T18:42:43.000Z"
-    },
-    {
-      "id": "n_49fcb550cd",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Iran-Krieg: Rund 400 Schiffe stecken weiter im Persischen Golf fest",
-      "summary": "Seit Beginn des Iran-Kriegs ist der Schiffsverkehr durch die Straße von Hormus stark eingeschränkt. Wie viele Tanker und Frachter sie täglich passieren, ist unklar. Noch immer können Hunderte Schiffe den Persischen Golf nicht verlassen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/iran-krieg-strasse-hormus-100.html",
-      "publishedAt": "2026-08-29T16:33:48.000Z"
-    },
-    {
-      "id": "n_dd08b3be52",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Die irische Biermarke Guinness widersteht dem Brauerei-Sterben",
-      "summary": "Auch auf den britischen Inseln geht der Bierkonsum zurück, viele kleine Brauereien müssen schließen. Eine Traditionsmarke aber erlebt einen erstaunlichen Boom: Guinness aus Irland. Von Lisa-Maria Röhling.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/guinness-bier-irland-100.html",
-      "publishedAt": "2026-08-29T16:16:37.000Z"
-    },
-    {
-      "id": "n_d004aa4c81",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Iran räumt wirtschaftliche Kriegsfolgen ein - dennoch kein Einlenken",
-      "summary": "Irans Führung räumt schwere wirtschaftliche Schäden durch den Krieg mit den USA ein, dennoch will das Land nicht einlenken. In der Hauptstadt Teheran bilden sich lange Schlangen vor Tankstellen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/iran-kriegsfolgen-wirtschaft-100.html",
-      "publishedAt": "2026-08-29T15:20:56.000Z"
-    },
-    {
-      "id": "n_fc872f1248",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Offenbar Putschversuch gegen Militärjunta in Niger - Schüsse in Niamey",
-      "summary": "In Niger in Westafrika hat es offenbar einen Putschversuch gegeben. Soldaten nahmen der Militärjunta zufolge Offiziere in der Hauptstadt als Geiseln und griffen strategische Ziele an. Inzwischen sei der Aufstand beendet.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/militaerjunta-niger-meuterei-soldaten-100.html",
-      "publishedAt": "2026-08-29T14:34:23.000Z"
-    },
-    {
-      "id": "n_34de647346",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Außergewöhnlich heftiges Unwetter unter anderem am Bodensee",
-      "summary": "Abgedeckte Häuser, umgestürzte Bäume, gesperrte Bahnstrecken: Unwetter haben im Süden Deutschlands schwere Schäden angerichtet. Auch Norditalien und die Schweiz wurden getroffen - dort gab es mehrere Verletzte.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/hagelsturm-deutschland-italien-schweiz-100.html",
-      "publishedAt": "2026-08-29T14:05:28.000Z"
-    },
-    {
-      "id": "n_dd679bd902",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Krieg gegen die Ukraine: Viele Tote bei Luftangriff im Raum Kiew",
-      "summary": "Im russischen Krieg gegen die Ukraine halten die Luftangriffe auf beiden Seiten unvermindert an: Russland attackierte erneut den Großraum Kiew. Mindestens 37 Menschen starben. Auch die Ukraine flog Angriffe.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-tote-butscha-odessa-kiew-100.html",
-      "publishedAt": "2026-08-29T13:52:07.000Z"
     },
     {
       "id": "n_10845fa8eb",
@@ -178,6 +178,50 @@
       "publishedAt": "2026-08-27T15:06:00.000Z"
     },
     {
+      "id": "n_5e245488f9",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "ID.1: VWs 20.000-Euro-Elektroauto soll ID.Up heißen",
+      "summary": "Volkswagen hat sich wohl bei der Benennung des Kleinwagens für eine bekannte Marke entschieden. Der ID.Up soll weiterhin günstiger bleiben. (Volkswagen ID., Elektroauto)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/id-1-vws-20-000-euro-elektroauto-soll-id-up-heissen-2608-212422.html",
+      "publishedAt": "2026-08-30T08:33:01.000Z"
+    },
+    {
+      "id": "n_5b5ff53df6",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "(g+) LPCAMM2: Wir vergleichen den neuen Arbeitsspeicher mit klassischem SO-DIMM",
+      "summary": "LPCAMM2 soll diverse Nachteile ausgleichen, die der bei Laptops verbreitete SO-DIMM-Standard aufweist. Im Test kommen aber Fragen auf. Ein Test von Oliver Nickel (RAM, Test)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/lpcamm2-wir-vergleichen-den-neuen-arbeitsspeicher-mit-klassischem-so-dimm-2608-212267.html",
+      "publishedAt": "2026-08-30T08:00:02.000Z"
+    },
+    {
+      "id": "n_f60df2f267",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Tech-Branche: Vom sympathischen Nerd zum grässlichen Overlord",
+      "summary": "Grusel-CEOs wie Elon Musk treten die Nerd-Kultur mit Füßen. Zeit, sich zu fragen wie es dazu kommen konnte - und wie wir sie zurückbringen. Ein Essay von Mr. Market (Wirtschaft, Paypal)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/tech-branche-vom-sympathischen-nerd-zum-graesslichen-overlord-2608-212407.html",
+      "publishedAt": "2026-08-30T05:30:02.000Z"
+    },
+    {
+      "id": "n_b03fa3ac35",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: IT-Jobs in Cloud, Datenbanken und Netzwerktechnik",
+      "summary": "Sechs neue IT-Stellen in Cloud-Administration, Datenbanktechnik, Netzwerksicherheit und SAP-Entwicklung bei Unternehmen und Behörden. (Golem Karrierewelt, Betriebssysteme)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-it-jobs-in-cloud-datenbanken-und-netzwerktechnik-2608-212391.html",
+      "publishedAt": "2026-08-30T05:00:02.000Z"
+    },
+    {
       "id": "n_8b85b841a6",
       "type": "news",
       "topic": "tech",
@@ -222,59 +266,37 @@
       "publishedAt": "2026-08-29T09:25:02.000Z"
     },
     {
-      "id": "n_ee1c342690",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Drohnenabwehr: US-Militär schießt Kartelldrohnen mit Hochenergielaser ab",
-      "summary": "An der Grenze zu Mexiko hat das US-Militär erstmals mutmaßlich von Kartellen eingesetzte Drohnen mit einem Hochenergielaser zerstört. (Militär, Politik)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/drohnenabwehr-us-militaer-schiesst-kartelldrohnen-mit-hochenergielaser-ab-2608-212417.html",
-      "publishedAt": "2026-08-29T08:55:01.000Z"
-    },
-    {
-      "id": "n_585ff3016d",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Mini-Beamer mit Akku, Google TV, Netflix reduziert bei Amazon",
-      "summary": "Amazon hat einen smarten Mini-Beamer mit Akku im Angebot, der über Google-TV Zugriff auf Streamingdienste wie Netflix bietet. (Beamer, Google TV)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-mini-beamer-mit-akku-google-tv-netflix-reduziert-bei-amazon-2608-212355.html",
-      "publishedAt": "2026-08-29T08:50:02.000Z"
-    },
-    {
-      "id": "n_62a5ecfd7b",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Wegen SpaceX-Übernahme: OpenAI zieht seine Modelle aus Cursor zurück",
-      "summary": "OpenAI möchte nicht darauf vertrauen, dass Elon Musk die Technologie des Unternehmens wirklich nur gemäß den Nutzungsbedingungen einsetzt. (KI, Wirtschaft)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/wegen-spacex-uebernahme-openai-zieht-seine-modelle-aus-cursor-zurueck-2608-212416.html",
-      "publishedAt": "2026-08-29T08:20:02.000Z"
-    },
-    {
-      "id": "n_036988247e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "(g+) Unternehmensstrategie: Wie KI mehr wird als ein reines Sparprogramm",
-      "summary": "Outsourcing hat Arbeit schon vor vielen Jahren standardisiert. Was IT-Entscheider daraus für den Einsatz von KI lernen können. Ein Ratgebertext von Philipp Maier (KI, Wirtschaft)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/unternehmensstrategie-wie-ki-mehr-wird-als-ein-reines-sparprogramm-2608-212395.html",
-      "publishedAt": "2026-08-29T08:00:02.000Z"
-    },
-    {
-      "id": "n_4dcd5aa8ed",
+      "id": "n_868f6bb6e2",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Canada installs large Lake Ontario sign in latest jab at US",
-      "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+      "headline": "Manhunt after woman, 22, killed and five injured in Swiss shooting",
+      "summary": "Swiss media reported shots were fired at a rave overnight, with all the victims in their twenties.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T00:17:25.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T08:17:11.000Z"
+    },
+    {
+      "id": "n_a3d0d3ca0d",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Iceland on track to reject EU referendum as counting nears end",
+      "summary": "Broadcaster RUV reports the nation is on track to reject resuming EU membership talks as the final votes are tallied.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T08:08:30.000Z"
+    },
+    {
+      "id": "n_7680d74361",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "WhatsApp chat used to send cash for crime and extremism",
+      "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T04:59:56.000Z"
     },
     {
       "id": "n_d1fd3bc001",
@@ -285,7 +307,18 @@
       "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T22:40:51.000Z"
+      "publishedAt": "2026-08-30T04:01:02.000Z"
+    },
+    {
+      "id": "n_4dcd5aa8ed",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Large Lake Ontario sign installed in Canada in latest jab at US",
+      "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T00:17:25.000Z"
     },
     {
       "id": "n_2458fe404e",
@@ -319,39 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-29T19:06:28.000Z"
-    },
-    {
-      "id": "n_f380d6c27e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
-      "summary": "According to official figures only 1,811 cuttlefish turned up to mate this year, down 97% on last year.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T18:30:32.000Z"
-    },
-    {
-      "id": "n_627c6dfa54",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-      "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T17:52:42.000Z"
-    },
-    {
-      "id": "n_83790b1502",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Deadly strike on Kyiv warehouse prompts evacuations",
-      "summary": "Ukraine correspondent Dan Johnson reports from Kyiv after the deadly strike, which authorities said killed more than 30 people.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T13:55:55.000Z"
     },
     {
       "id": "n_b7b15a9b35",
