@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-08-30T08:36:09.800Z",
+  "generatedAt": "2026-08-30T14:02:23.308Z",
   "items": [
+    {
+      "id": "n_e524a7862e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach Sturzflut in Nepal: Die lange Suche nach Gewissheit",
+      "summary": "Noch immer werden Hunderte in Nepal und China vermisst. Sie könnten kilometerweit ins Tal gerissen worden sein, die Identifikation der Toten ist daher schwierig. Für die Angehörigen ist die Ungewissheit eine Qual. Von L. Bodewein und M. Spieker.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/nepal-china-sturzflut-100.html",
+      "publishedAt": "2026-08-30T13:52:40.000Z"
+    },
+    {
+      "id": "n_856a979d26",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Gefängnisausbruch in Duisburg - Häftling flieht über das Dach",
+      "summary": "Mit einer waghalsigen Aktion ist am Morgen ein Mann aus der JVA Duisburg-Hamborn entkommen. Der Häftling sägte das Gitter am Fenster seiner Zelle durch und floh über das Dach der Anstalt. Die Fahndung läuft.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/jva-duisburg-haeftling-gefaengnis-ausbruch-100.html",
+      "publishedAt": "2026-08-30T13:32:46.000Z"
+    },
+    {
+      "id": "n_ae806be128",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Deutschland hat unter G20-Staaten die höchsten Strompreise",
+      "summary": "Seit Langem beklagen Wirtschaftsverbände den im internationalen Vergleich hohen Strompreis in Deutschland. Eine Analyse des Portals Verivox hat nun ergeben: Unter den G20-Ländern ist Strom hierzulande am teuersten.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/deutschland-strompreise-vergleich-100.html",
+      "publishedAt": "2026-08-30T13:29:59.000Z"
+    },
+    {
+      "id": "n_cb0cbf7ef8",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Passagierschiff gekentert - Mehrere Tote vor Zypern",
+      "summary": "Vor der Küste Nordzyperns ist ein Schiff mit mehr als 260 Menschen an Bord gekentert. Küstenwache und Rettungsteams sind im Einsatz. Offenbar gibt es mehrere Todesopfer.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/zypern-faehre-seenot-102.html",
+      "publishedAt": "2026-08-30T13:02:10.000Z"
+    },
+    {
+      "id": "n_71e317a7ad",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Klingbeil fordert vor G20-Treffen in den USA ein Ende des Iran-Kriegs",
+      "summary": "Bundesfinanzminister Klingbeil fliegt zum Treffen der G20-Finanzminister in die USA. Überschattet wird diese Reise vom Iran-Krieg - aber auch der Handelskonflikt zwischen Kanada und den USA steht auf der Agenda. Von P. Eckstein.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-g20-finanzminister-100.html",
+      "publishedAt": "2026-08-30T10:31:14.000Z"
+    },
+    {
+      "id": "n_a1aae4007e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Mit Russlands Hilfe: Junta in Niger schlägt Aufstand von Soldaten nieder",
+      "summary": "Für die USA und Frankreich war Niger bis 2023 ein wichtiger Ausgangspunkt für Einsätze gegen Dschihadisten in der Sahelregion. Dann kam es zum Putsch. Nun gab es wieder einen Aufstand - der mit Russlands Hilfe niedergeschlagen wurde.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/afrika/militaerjunta-niger-russland-100.html",
+      "publishedAt": "2026-08-30T10:23:45.000Z"
+    },
+    {
+      "id": "n_044ce579ee",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Isländer stimmen per Referendum gegen EU-Beitrittsverhandlungen",
+      "summary": "Die Menschen in Island haben sich gegen die Wiederaufnahme von Beitrittsverhandlungen mit der Europäischen Union entschieden. Das Ergebnis des Referendums fiel mit 52,8 zu 47,2 der Stimmen allerdings knapp aus.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/island-referendum-eu-beitritt-100.html",
+      "publishedAt": "2026-08-30T10:12:39.000Z"
+    },
     {
       "id": "n_71df93d817",
       "type": "news",
@@ -11,83 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-100.html",
       "publishedAt": "2026-08-30T08:29:48.000Z"
-    },
-    {
-      "id": "n_7e778db957",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Knappes Rennen bei EU-Referendum in Island",
-      "summary": "Noch sind nicht alle Stimmen in Island ausgezählt. Die beiden Lager beim Referendum über die Aufnahme von EU-Beitrittsverhandlungen lagen fast gleich auf, doch kurz vor Ende der Auszählung zeichnet sich ein Nein immer deutlicher ab.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/island-referendum-auszaehlung-100.html",
-      "publishedAt": "2026-08-30T07:13:42.000Z"
-    },
-    {
-      "id": "n_a494b0ded3",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Superreiche in New York: \"Wir wollen mehr Steuern zahlen\"",
-      "summary": "Eine Gruppe schwerreicher New Yorker fordert, höher besteuert zu werden. In ihrem neuen Bürgermeister Mamdani haben sie dabei einen politischen Mitstreiter - dessen Mantra im Wahlkampf war \"tax the rich\". Von Marion Schmickler.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/new-york-reichensteuer-millionaere-100.html",
-      "publishedAt": "2026-08-30T06:29:42.000Z"
-    },
-    {
-      "id": "n_c9e00a1298",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Antisemitismusbeauftragter: Wer folgt auf Felix Klein?",
-      "summary": "Nach dem Weggang von Felix Klein bleibt das Amt des Antisemitismusbeauftragten unbesetzt. Angesichts steigender antisemitischer Vorfälle sorgt die Verzögerung bei der Nachfolge für Kritik. Von Dietrich Karl Mäurer.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/antisemitismus-beauftragter-bundesregierung-100.html",
-      "publishedAt": "2026-08-30T06:00:46.000Z"
-    },
-    {
-      "id": "n_e9590b8579",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Nepal und China: Opferzahl steigt, Suche nach Vermissten geht weiter",
-      "summary": "Nach der Flut im Himalaya werden in China laut den Behörden drei Deutsche vermisst. Nepals Katastrophenschutz mahnt zur Vorsicht: Gefährlich könnte der Fluss Bhotekoshi werden. Die Zahl der Opfer stieg unterdessen auf 750.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/flut-nepal-tibet-opferzahl-steigt-100.html",
-      "publishedAt": "2026-08-30T05:16:43.000Z"
-    },
-    {
-      "id": "n_0b16bdbbae",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Westjordanland: Netanjahu verurteilt Siedlergewalt ungewöhnlich scharf",
-      "summary": "In einem seit Wochen von israelischen Siedlern belagerten Dorf im Westjordanland ist es erneut zu Gewalt gekommen. Die Täter schadeten \"Israels Ansehen in der Welt\", kritisierte nun Premier Netanjahu.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/netanjahu-westjordanland-siedlergewalt-100.html",
-      "publishedAt": "2026-08-30T02:14:23.000Z"
-    },
-    {
-      "id": "n_c1c65eb20f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Haakon hält erste emotionale Ansprache als König von Norwegen",
-      "summary": "In seiner ersten Rede als norwegischer König hat Haakon VIII. seinen verstorbenen Vater geehrt. Harald V. sei ein großzügiger König gewesen, der allen mit Respekt begegnet sei. Auf ihn selbst warte nun eine große Aufgabe, so Haakon.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/norwegen-rede-koenig-haakon-100.html",
-      "publishedAt": "2026-08-29T19:05:42.000Z"
-    },
-    {
-      "id": "n_86fb83fb92",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "37 Tote bei Angriff nahe Kiew - Ukraine spricht von Fahrlässigkeit",
-      "summary": "Nach einem schweren russischen Angriff mit 37 Toten spricht der ukrainische Präsident Selenskyj von Fahrlässigkeit. Offenbar gab es Verstöße gegen Vorschriften zur Munitionslagerung. Ermittlungen wurden eingeleitet.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ermittlungen-nach-vielen-toten-nahe-kiew-100.html",
-      "publishedAt": "2026-08-29T18:42:43.000Z"
     },
     {
       "id": "n_10845fa8eb",
@@ -178,6 +178,50 @@
       "publishedAt": "2026-08-27T15:06:00.000Z"
     },
     {
+      "id": "n_af88bd7be7",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "WLAN: Asus bringt schon jetzt Wi-Fi-8-Router heraus",
+      "summary": "Der kommende WLAN-Standard ist nicht einmal fertiggestellt. Der ROG Rapture GT-BN98 kommuniziert mit acht Antennen und vielen RJ45-Ports. (Asus, WLAN)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/wlan-asus-bringt-schon-jetzt-wi-fi-8-router-heraus-2608-212425.html",
+      "publishedAt": "2026-08-30T11:30:02.000Z"
+    },
+    {
+      "id": "n_6e03563629",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Atomenergie: U.S. Army plant nukleare Mikroreaktoren für Militärbasen",
+      "summary": "2,2 Milliarden US-Dollar winken den fünf Unternehmen, die nun für die U.S. Army kleine Atomkraftwerke bauen sollen. (Atomkraft, Politik)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/atomenergie-u-s-army-plant-nukleare-mikroreaktoren-fuer-militaerbasen-2608-212424.html",
+      "publishedAt": "2026-08-30T10:10:02.000Z"
+    },
+    {
+      "id": "n_9e79df6cfd",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Serien und Filme: Apple TV wird 20 Prozent teurer",
+      "summary": "Erst einmal sind von der Preiserhöhung nur Kunden in den USA betroffen. Auch Apple One wird merklich mehr kosten. (Apple TV, Apple)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/serien-und-filme-apple-tv-wird-20-prozent-teurer-2608-212423.html",
+      "publishedAt": "2026-08-30T09:15:02.000Z"
+    },
+    {
+      "id": "n_3a051fca6d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Reolink Außenkamera mit Solar im 2er-Set für 186,99 Euro bei Amazon",
+      "summary": "Das Reolink Argus PT Lite im 2er-Set überwacht 360 Grad auch bei Nacht und speichert lokal - ganz ohne Abogebühren. (Technik/Hardware, Smart Home)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-reolink-aussenkamera-mit-solar-im-2er-set-fuer-186-99-euro-bei-amazon-2608-212372.html",
+      "publishedAt": "2026-08-30T08:40:02.000Z"
+    },
+    {
       "id": "n_5e245488f9",
       "type": "news",
       "topic": "tech",
@@ -222,70 +266,37 @@
       "publishedAt": "2026-08-30T05:00:02.000Z"
     },
     {
-      "id": "n_8b85b841a6",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Nurflügler: Chinas Riesenflugzeug-Konzept für 800 Passagiere",
-      "summary": "Ein Nurflügler als Großraumflugzeug? Chinesische Wissenschaftler stellen laut einem Bericht der South China Morning Post ihre Grundlagenstudie vor und berichten über erste Modelltests im Windkanal. (Luftfahrt, Flugzeug)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/nurfluegler-chinas-riesenflugzeug-konzept-fuer-800-passagiere-2608-212297.html",
-      "publishedAt": "2026-08-29T16:08:02.000Z"
-    },
-    {
-      "id": "n_393d3ad72a",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Hitzeprobleme beim ROG Zephyrus M16: Flüssigmetall soll Asus-Notebook beschädigt haben",
-      "summary": "Ein Besitzer eines Asus Zephyrus M16 berichtet von Verfärbungen am Kühler seines Gaming-Notebooks. Er führt das auf Flüssigmetall zurück. (PC & Notebooks, Notebook)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/hitzeprobleme-beim-rog-zephyrus-m16-fluessigmetall-soll-asus-notebook-beschaedigt-haben-2608-212420.html",
-      "publishedAt": "2026-08-29T10:25:02.000Z"
-    },
-    {
-      "id": "n_338f87694e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Atlas, Spot und Stretch: Hyundai plant, Roboter künftig in Autohäusern zu verkaufen",
-      "summary": "Laut dem Hyundai-Chef José Muñoz ist das Netz von Autohäusern ein idealer Vertriebskanal für Roboter. (Roboter, Wirtschaft)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/atlas-spot-und-stretch-hyundai-plant-roboter-kuenftig-in-autohaeusern-zu-verkaufen-2608-212419.html",
-      "publishedAt": "2026-08-29T09:55:02.000Z"
-    },
-    {
-      "id": "n_5d8f56b14e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Mobilfunk bei Stromausfall: Bundesregierung will keine pauschale Batteriepflicht",
-      "summary": "Die Bundesregierung hält eine starre Batteriepflicht für Mobilfunkstandorte zur Ausfallsicherung für ungeeignet. (Mobilfunk, Politik)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/mobilfunk-bei-stromausfall-bundesregierung-will-keine-pauschale-batteriepflicht-2608-212418.html",
-      "publishedAt": "2026-08-29T09:25:02.000Z"
-    },
-    {
       "id": "n_868f6bb6e2",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Manhunt after woman, 22, killed and five injured in Swiss shooting",
-      "summary": "Swiss media reported shots were fired at a rave overnight, with all the victims in their twenties.",
+      "headline": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T08:17:11.000Z"
+      "publishedAt": "2026-08-30T12:44:08.000Z"
     },
     {
       "id": "n_a3d0d3ca0d",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Iceland on track to reject EU referendum as counting nears end",
-      "summary": "Broadcaster RUV reports the nation is on track to reject resuming EU membership talks as the final votes are tallied.",
+      "headline": "Iceland votes against restarting talks on joining EU",
+      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T08:08:30.000Z"
+      "publishedAt": "2026-08-30T10:49:11.000Z"
+    },
+    {
+      "id": "n_a864eedddc",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Zambian opposition leader charged with treason",
+      "summary": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T09:08:23.000Z"
     },
     {
       "id": "n_7680d74361",
@@ -321,6 +332,17 @@
       "publishedAt": "2026-08-30T00:17:25.000Z"
     },
     {
+      "id": "n_6208c0d02e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "They fell in love - then had to check they weren't brother and sister",
+      "summary": "A French couple - both conceived by sperm donors - wanted children. But with home DNA tests illegal, how could they be sure they were not related?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8en3n29wdro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T23:03:51.000Z"
+    },
+    {
       "id": "n_2458fe404e",
       "type": "news",
       "topic": "general",
@@ -330,28 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-29T20:13:16.000Z"
-    },
-    {
-      "id": "n_7b3d3d9a0a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Former Ecuadorian president imprisoned for corruption",
-      "summary": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T19:44:54.000Z"
-    },
-    {
-      "id": "n_2cfea3c266",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Norway's new king remembers 'my dear father' in first speech",
-      "summary": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T19:06:28.000Z"
     },
     {
       "id": "n_b7b15a9b35",
@@ -442,6 +442,17 @@
       "publishedAt": "2026-08-26T21:27:23.000Z"
     },
     {
+      "id": "n_ce11c9b872",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Inside Meta’s push to put robots to work in data centers",
+      "summary": "The company is testing robots on tasks that can performed by technicians.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+      "publishedAt": "2026-08-30T11:03:47.000Z"
+    },
+    {
       "id": "n_01fb7eabce",
       "type": "news",
       "topic": "tech",
@@ -517,17 +528,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
       "publishedAt": "2026-08-28T17:23:53.000Z"
-    },
-    {
-      "id": "n_a85dfefd30",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Our 10 favorite scenes from T2: Judgment Day",
-      "summary": "James Cameron's 1991 sci-fi blockbuster returns to theaters this weekend for its 35th anniversary.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/08/our-10-favorite-scenes-from-t2-judgment-day/",
-      "publishedAt": "2026-08-28T16:44:47.000Z"
     },
     {
       "id": "n_a07c3116b1",
@@ -622,8 +622,8 @@
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Sony Music and Warner Chappell are suing Anthropic",
-      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance ",
+      "headline": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+      "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for eac",
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
       "publishedAt": "2026-08-29T18:19:53.000Z"
@@ -871,6 +871,17 @@
       "publishedAt": "2026-08-20T15:42:39.000Z"
     },
     {
+      "id": "n_d73f149604",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Why the Hottest New Wearables Want to Be Ignored",
+      "summary": "Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
+      "publishedAt": "2026-08-30T10:30:00.000Z"
+    },
+    {
       "id": "n_8d05056bc8",
       "type": "news",
       "topic": "ai",
@@ -946,17 +957,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
       "publishedAt": "2026-08-27T21:08:34.000Z"
-    },
-    {
-      "id": "n_4de9a845b3",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend",
-      "summary": "After an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements—and those of a man whose vehicle often showed up near hers, internal investigation records show.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/",
-      "publishedAt": "2026-08-27T18:12:17.000Z"
     },
     {
       "id": "n_b0b2c2da12",
