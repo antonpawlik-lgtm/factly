@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T22:52:43.718Z",
+  "generatedAt": "2026-08-30T02:01:35.458Z",
   "items": [
     {
       "id": "n_c1c65eb20f",
@@ -266,6 +266,17 @@
       "publishedAt": "2026-08-29T08:00:02.000Z"
     },
     {
+      "id": "n_4dcd5aa8ed",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Canada installs large Lake Ontario sign in latest jab at US",
+      "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T00:17:25.000Z"
+    },
+    {
       "id": "n_d1fd3bc001",
       "type": "news",
       "topic": "general",
@@ -343,15 +354,15 @@
       "publishedAt": "2026-08-29T13:55:55.000Z"
     },
     {
-      "id": "n_305384639a",
+      "id": "n_b7b15a9b35",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
-      "summary": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says.",
+      "headline": "I've been to Gamescom six times - here's what excited me this year",
+      "summary": "The BBC's Laura Cress gets a first look at the biggest games in Cologne from Witcher 3 to Alien: Isolation 2.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T08:48:34.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cew92lp2g45o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T23:02:28.000Z"
     },
     {
       "id": "n_dfa7e4ed18",
@@ -429,17 +440,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-26T21:27:23.000Z"
-    },
-    {
-      "id": "n_3a639d7b92",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Xbox boss 'thinking about affordability' of next-gen console",
-      "summary": "In an exclusive interview with the BBC, Asha Sharma also discusses giving gamers digital versions of games they own.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c17jlngexy9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T15:38:49.000Z"
     },
     {
       "id": "n_01fb7eabce",
