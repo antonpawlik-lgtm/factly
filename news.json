@@ -1,93 +1,115 @@
 {
-  "generatedAt": "2026-08-31T01:57:30.786Z",
+  "generatedAt": "2026-08-31T08:59:06.182Z",
   "items": [
+    {
+      "id": "n_7d83fe45e7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: Der Kater nach dem DAX-Rekord?",
+      "summary": "Zinssorgen, Inflationsangst und eine mögliche Eskalation im Nahen Osten - die Themen an der Börse sind vielfältig. Nach dem Rekordhoch vom Freitag bleiben die Investoren heute zunächst zurückhaltend.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-iran-geldanlage-102.html",
+      "publishedAt": "2026-08-31T08:36:51.000Z"
+    },
+    {
+      "id": "n_794d213e45",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bericht: Korallenriffe haben kaum noch Zeit zur Erholung",
+      "summary": "Korallenriffe weltweit geraten zunehmend unter Druck: Immer häufiger gibt es schwere Bleichen - und die Zeit zur Erholung wird immer kürzer. Experten warnen vor einer \"Abwärtsspirale\".",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wissen/korallenriffe-zustand-100.html",
+      "publishedAt": "2026-08-31T08:11:46.000Z"
+    },
+    {
+      "id": "n_e5d024eb5f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "USA greifen Iran erneut an",
+      "summary": "Einen Monat lang herrschte relative Ruhe am Golf. Nun haben die USA wieder iranische Stellungen angegriffen. Ziel waren nach US-Angaben iranische Raketenwerfer auf der Insel Larak. Teheran antwortete mit Gegenangriffen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/usa-angriffe-iran-gegenangriffe-100.html",
+      "publishedAt": "2026-08-31T08:05:00.000Z"
+    },
+    {
+      "id": "n_fc5c8c6c8a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Fährunglück vor Nordzypern: Schwere Vorwürfe gegen Schiffsbesatzung",
+      "summary": "Nach dem Fährunglück vor der Küste Nordzyperns gibt es Vorwürfe gegen die Crew: Der Kapitän soll von Bord geflüchtet sein, Fluchtwege waren wohl teils versperrt. Die Bergung des Schiffdatenschreibers soll Aufklärung bringen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/nordzypern-faehrunglueck-vorwuerfe-besatzung-100.html",
+      "publishedAt": "2026-08-31T08:01:35.000Z"
+    },
+    {
+      "id": "n_926946b5b1",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Schüsse auf ein Café in Köln",
+      "summary": "In der Kölner Südstadt sind am Morgen vor einem Café mehrere Schüsse gefallen. Verletzte gab es laut Polizei nicht. Die Einsatzkräfte fahnden jetzt nach einem männlichen Tatverdächtigen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schuesse-cafe-koeln-100.html",
+      "publishedAt": "2026-08-31T07:36:00.000Z"
+    },
+    {
+      "id": "n_b932a96f0b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bilanz des DWD: Einer der wärmsten Sommer seit Aufzeichnung",
+      "summary": "Hitze, Dürre und Unwetter: Der diesjährige Sommer erreichte laut Deutschem Wetterdienst \"Dimensionen, wie sie in Deutschland bislang nicht beobachtet wurden\". Der Klimawandel habe dabei eine Rolle gespielt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/dwd-sommer-bilanz-100.html",
+      "publishedAt": "2026-08-31T06:18:23.000Z"
+    },
+    {
+      "id": "n_63dcb21b2e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach Sturzflut im Himalaya: Kinder allein nach Flut",
+      "summary": "Die verheerende Flut in Nepal und Tibet hat mehr als 900 Menschen getötet. Die Überlebenden stehen meist vor dem Nichts - darunter auch viele Kinder. Ihre Rettung verlief dramatisch. Wie geht es für sie weiter? Von Lena Bodewein.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/nepal-erdrutsch-gerettete-kinder-100.html",
+      "publishedAt": "2026-08-31T05:50:10.000Z"
+    },
     {
       "id": "n_ec30ba4727",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Nach Sturzflut im Grand Canyon: Suche nach 15 Menschen",
-      "summary": "Nach einer Sturzflut im Grand Canyon Nationalpark im Westen der USA wird nach 15 Menschen gesucht. Es ist unklar, ob die Menschen vermisst werden oder ob sie sich woanders aufhalten. Die plötzliche Flut hatte sich am Samstag ereignet.",
+      "headline": "Nach Sturzflut im Grand Canyon: Ein Toter und mehrere Vermisste",
+      "summary": "Eine Sturzflut im Grand Canyon Nationalpark im Westen der USA hat einen Menschen getötet, nach 15 weiteren wird noch gesucht. Es ist unklar, ob die Menschen vermisst werden oder ob sie sich woanders aufhalten.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/sturzflut-100.html",
-      "publishedAt": "2026-08-31T01:11:11.000Z"
+      "publishedAt": "2026-08-31T05:27:46.000Z"
     },
     {
-      "id": "n_b7f29b8fab",
+      "id": "n_97d263c169",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Nach Schüssen bei Rave: Deutsche unter Verletzten des Schweizer Raves",
-      "summary": "Nach den tödlichen Schüssen bei einem Rave in Aarau ermitteln die Schweizer Behörden auch in Richtung eines Terroraktes. Möglich seien ebenfalls ein Amoklauf oder ein anderes kriminelles Motiv. Unter den Verletzten ist eine deutsche Frau.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/schweiz-schuesse-rave-104.html",
-      "publishedAt": "2026-08-31T00:28:59.000Z"
+      "headline": "NASA-Weltraumteleskop „Roman“ gestartet: Trump lobt die „fantastische Arbeit“",
+      "summary": "Das Nancy Grace Roman Space Telescope der NASA ist ins All gestartet und Donald Trump persönlich gratuliert der NASA. Dabei wollte er die Mission absagen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/NASA-Weltraumteleskop-Roman-gestartet-Trump-lobt-die-fantastische-Arbeit-11434901.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-31T07:52:00.000Z"
     },
     {
-      "id": "n_001002a39e",
+      "id": "n_0a1a91c808",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "USA greifen offenbar iranische Raketenwerfer an",
-      "summary": "Nachdem sich die USA zuletzt zurückhaltend in Bezug auf Iran gezeigt hatten, haben sie nun offenbar erneut angegriffen. Ziel waren iranische Raketenwerfer auf der Insel Larak. Iran griff unmittelbar danach zwei US-Stützpunkte in Jordanien an.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/iran-usa-244.html",
-      "publishedAt": "2026-08-30T23:35:59.000Z"
-    },
-    {
-      "id": "n_c2f686a143",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Das ARD-Sommerinterview mit Bundeskanzler und CDU-Chef Merz im Faktencheck",
-      "summary": "Der Bundeskanzler und CDU-Vorsitzende Merz war im ARD-Sommerinterview zu Gast. Bei den Themen Migration, Klimaschutz und Ölpreis waren seine Aussagen ungenau.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/faktenfinder/sommerinterview-faktencheck-merz-100.html",
-      "publishedAt": "2026-08-30T20:12:13.000Z"
-    },
-    {
-      "id": "n_ebc6f0e0a4",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Islands Nein zu EU-Beitrittsgesprächen: Angst war stärker als Europa",
-      "summary": "Island sagt Nein zu neuen Beitrittsverhandlungen mit der EU und setzt auf einen eigenen Weg. Auch finanzstarke Kampagnen beeinflussten die Debatte. Doch am Ende, meint Jana Sinram, überwog ein Wunsch: der nach Souveränität.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kommentar/island-referendum-104.html",
-      "publishedAt": "2026-08-30T18:35:28.000Z"
-    },
-    {
-      "id": "n_cb0cbf7ef8",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Mindestens acht Menschen sterben bei Fährunglück vor Zypern",
-      "summary": "Vor der Küste Nordzyperns ist ein Schiff mit mehr als 260 Menschen an Bord gekentert. Mindestens acht Menschen kamen dabei ums Leben. Der Kapitän und sieben Crewmitglieder wurden festgenommen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/zypern-faehre-seenot-102.html",
-      "publishedAt": "2026-08-30T18:26:09.000Z"
-    },
-    {
-      "id": "n_b115ada786",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Merz im ARD-Sommerinterview: \"Es wird am Ende zusammengezählt\"",
-      "summary": "Der Kanzler und seine Regierung stecken im Umfragetief. Dennoch zeigt sich Merz im ARD-Sommerinterview optimistisch. Die Wirtschaft erhole sich bereits - und wichtig sei vor allem, dass Deutschland langfristig gut aufgestellt sei.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/sommerinterview-kanzler-merz-100.html",
-      "publishedAt": "2026-08-30T17:55:49.000Z"
-    },
-    {
-      "id": "n_bc66b650a7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Referendum in Island: Ein Nein - aber keine Abkehr von Europa",
-      "summary": "Die Isländer haben sich in einem Referendum gegen eine Wiederaufnahme von EU-Beitrittsgesprächen entschieden. Doch die knappe Abstimmung zeigt: Die Frage nach Islands Platz in Europa ist noch längst nicht geklärt. Von Arne Bartram.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/island-referendum-102.html",
-      "publishedAt": "2026-08-30T17:42:47.000Z"
+      "headline": "Exchange-Sicherheitslücke: 85 Prozent der On-Prem-Server in Deutschland anfällig",
+      "summary": "Ein Proof-of-Concept-Exploit für eine hochriskante Exchange-Lücke ist öffentlich. 85 Prozent der On-Premises-Server sind anfällig.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Exchange-Sicherheitsluecke-85-Prozent-der-On-Prem-Server-in-Deutschland-anfaellig-11434785.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-08-31T06:01:00.000Z"
     },
     {
       "id": "n_10845fa8eb",
@@ -156,136 +178,147 @@
       "publishedAt": "2026-08-28T05:09:00.000Z"
     },
     {
-      "id": "n_b11eb6ac7c",
+      "id": "n_d48c428192",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Nvidia kündigt High Bandwidth Memory NVHBM an",
-      "summary": "Nvidia stellt einen Baukasten für Custom-HBM4 bereit. Er enthält Speicher-Controller und eine NVLink-Fusion-Schnittstelle.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Nvidia-kuendigt-High-Bandwidth-Memory-NVHBM-an-11432374.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-27T15:32:00.000Z"
-    },
-    {
-      "id": "n_485eadbb16",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Streit über Spannerbrillen: Verbände legen Leitlinien für Smart Glasses vor",
-      "summary": "XR-Verbände und Hochschulen haben Leitlinien für Smart Glasses veröffentlicht. Privatsphärebedenken gegen Metas Datenbrille werden jedoch immer lauter.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Streit-ueber-Spannerbrillen-Verbaende-legen-Leitlinien-fuer-Smart-Glasses-vor-11432354.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-08-27T15:06:00.000Z"
-    },
-    {
-      "id": "n_af88bd7be7",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "WLAN: Asus bringt schon jetzt Wi-Fi-8-Router heraus",
-      "summary": "Der kommende WLAN-Standard ist nicht einmal fertiggestellt. Der ROG Rapture GT-BN98 kommuniziert mit acht Antennen und vielen RJ45-Ports. (Asus, WLAN)",
+      "headline": "Anzeige: Ultimea-Poseidon-D80-7.1-Soundsystem jetzt zum Aktionspreis bei Amazon",
+      "summary": "Das Ultimea Poseidon D80 bringt 7.1-Sound mit Dolby Atmos und kabellosem Subwoofer ins Wohnzimmer und ist bei Amazon deutlich günstiger. (Soundbar, Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/wlan-asus-bringt-schon-jetzt-wi-fi-8-router-heraus-2608-212425.html",
-      "publishedAt": "2026-08-30T11:30:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-ultimea-poseidon-d80-7-1-soundsystem-jetzt-zum-aktionspreis-bei-amazon-2608-212440.html",
+      "publishedAt": "2026-08-31T08:55:02.000Z"
     },
     {
-      "id": "n_6e03563629",
+      "id": "n_20cfad9ee2",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Atomenergie: U.S. Army plant nukleare Mikroreaktoren für Militärbasen",
-      "summary": "2,2 Milliarden US-Dollar winken den fünf Unternehmen, die nun für die U.S. Army kleine Atomkraftwerke bauen sollen. (Atomkraft, Politik)",
+      "headline": "Nach Trump-Erlass: Google Maps nennt Ontariosee in Lake America um",
+      "summary": "Im Zollstreit mit Kanada hat US-Präsident Trump einen der Großen Seen umbenannt. Google setzt die Entscheidung unmittelbar um. (Google Maps, Google)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/atomenergie-u-s-army-plant-nukleare-mikroreaktoren-fuer-militaerbasen-2608-212424.html",
-      "publishedAt": "2026-08-30T10:10:02.000Z"
+      "url": "https://www.golem.de/news/nach-trump-erlass-google-maps-nennt-ontariosee-in-lake-america-um-2608-212439.html",
+      "publishedAt": "2026-08-31T08:50:01.000Z"
     },
     {
-      "id": "n_9e79df6cfd",
+      "id": "n_bb152bee70",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Serien und Filme: Apple TV wird 20 Prozent teurer",
-      "summary": "Erst einmal sind von der Preiserhöhung nur Kunden in den USA betroffen. Auch Apple One wird merklich mehr kosten. (Apple TV, Apple)",
+      "headline": "Ohne Hypervisor: Linux-Fork startet mehrere Kernels auf einem Computer",
+      "summary": "Ein Entwickler hat den Linux-Kernel so modifiziert, dass mehrere Kernels parallel laufen können. Eine erste Version ist verfügbar. (Linux, Linux-Kernel)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/serien-und-filme-apple-tv-wird-20-prozent-teurer-2608-212423.html",
-      "publishedAt": "2026-08-30T09:15:02.000Z"
+      "url": "https://www.golem.de/news/ohne-hypervisor-linux-fork-startet-mehrere-kernels-auf-einem-computer-2608-212438.html",
+      "publishedAt": "2026-08-31T08:37:02.000Z"
     },
     {
-      "id": "n_3a051fca6d",
+      "id": "n_6b11f86c15",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Reolink Außenkamera mit Solar im 2er-Set für 186,99 Euro bei Amazon",
-      "summary": "Das Reolink Argus PT Lite im 2er-Set überwacht 360 Grad auch bei Nacht und speichert lokal - ganz ohne Abogebühren. (Technik/Hardware, Smart Home)",
+      "headline": "Gamescom 2026: Diebe stehlen Laptops mit unveröffentlichten Spielen",
+      "summary": "Mehrere Aussteller melden gestohlene Hardware. Zugleich gibt es Beschwerden über überfüllte Gänge und mangelhafte Sicherheitskontrollen. (Gamescom 2026, Spiele)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-reolink-aussenkamera-mit-solar-im-2er-set-fuer-186-99-euro-bei-amazon-2608-212372.html",
-      "publishedAt": "2026-08-30T08:40:02.000Z"
+      "url": "https://www.golem.de/news/gamescom-2026-diebe-stehlen-laptops-mit-unveroeffentlichten-spielen-2608-212437.html",
+      "publishedAt": "2026-08-31T08:24:01.000Z"
     },
     {
-      "id": "n_5e245488f9",
+      "id": "n_0f140ce90a",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "ID.1: VWs 20.000-Euro-Elektroauto soll ID.Up heißen",
-      "summary": "Volkswagen hat sich wohl bei der Benennung des Kleinwagens für eine bekannte Marke entschieden. Der ID.Up soll weiterhin günstiger bleiben. (Volkswagen ID., Elektroauto)",
+      "headline": "Kernel.org: 98 Prozent des Linux-Kernel-Archiv-Traffics sind wohl keine Menschen",
+      "summary": "Bots scrapen die gesamte Sammlung an Kernel-Commits und -Forks. Schließlich ist der Linux-Kernel eine exzellente Quelle menschlicher Arbeit. (Linux-Kernel, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/id-1-vws-20-000-euro-elektroauto-soll-id-up-heissen-2608-212422.html",
-      "publishedAt": "2026-08-30T08:33:01.000Z"
+      "url": "https://www.golem.de/news/kernel-org-98-prozent-des-linux-kernel-archiv-traffics-sind-wohl-keine-menschen-2608-212436.html",
+      "publishedAt": "2026-08-31T08:13:01.000Z"
     },
     {
-      "id": "n_5b5ff53df6",
+      "id": "n_f623dfb4bc",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) LPCAMM2: Wir vergleichen den neuen Arbeitsspeicher mit klassischem SO-DIMM",
-      "summary": "LPCAMM2 soll diverse Nachteile ausgleichen, die der bei Laptops verbreitete SO-DIMM-Standard aufweist. Im Test kommen aber Fragen auf. Ein Test von Oliver Nickel (RAM, Test)",
+      "headline": "Arbeitsspeicher: CXMT startet Massenfertigung von LPDDR6-RAM",
+      "summary": "Xiaomis nächstes Foldable kommt mit LPDDR6-Arbeitsspeicher - die Produktionsmenge wird aber eher gering sein. (CXMT, PC-Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/lpcamm2-wir-vergleichen-den-neuen-arbeitsspeicher-mit-klassischem-so-dimm-2608-212267.html",
-      "publishedAt": "2026-08-30T08:00:02.000Z"
+      "url": "https://www.golem.de/news/arbeitsspeicher-cxmt-startet-massenfertigung-von-lpddr6-ram-2608-212435.html",
+      "publishedAt": "2026-08-31T07:58:01.000Z"
     },
     {
-      "id": "n_f60df2f267",
+      "id": "n_be604a217a",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Tech-Branche: Vom sympathischen Nerd zum grässlichen Overlord",
-      "summary": "Grusel-CEOs wie Elon Musk treten die Nerd-Kultur mit Füßen. Zeit, sich zu fragen wie es dazu kommen konnte - und wie wir sie zurückbringen. Ein Essay von Mr. Market (Wirtschaft, Paypal)",
+      "headline": "Einwanderungsbehörde: US-Behörde ICE will Spot-Roboter kaufen",
+      "summary": "Die US-Einwanderungsbehörde ICE plant die Anschaffung von Boston Dynamics Spot für den Einsatz in Risikogebieten. (Roboter, Deutsche Bahn)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/tech-branche-vom-sympathischen-nerd-zum-graesslichen-overlord-2608-212407.html",
-      "publishedAt": "2026-08-30T05:30:02.000Z"
+      "url": "https://www.golem.de/news/einwanderungsbehoerde-us-behoerde-ice-will-spot-roboter-kaufen-2608-212433.html",
+      "publishedAt": "2026-08-31T07:38:01.000Z"
     },
     {
-      "id": "n_b03fa3ac35",
+      "id": "n_3240c8d79e",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: IT-Jobs in Cloud, Datenbanken und Netzwerktechnik",
-      "summary": "Sechs neue IT-Stellen in Cloud-Administration, Datenbanktechnik, Netzwerksicherheit und SAP-Entwicklung bei Unternehmen und Behörden. (Golem Karrierewelt, Betriebssysteme)",
+      "headline": "Energiewende verplant: Ausbau von Wind- und Solarenergie muss neu gedacht werden",
+      "summary": "Mit wenigen planerischen Eingriffen könnte das deutsche Energiesystem resilienter, fairer und unabhängiger werden. Erste Ansätze sind erkennbar. Eine Analyse von Mario Petzold (Energiewende, Smart Meter)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-it-jobs-in-cloud-datenbanken-und-netzwerktechnik-2608-212391.html",
-      "publishedAt": "2026-08-30T05:00:02.000Z"
+      "url": "https://www.golem.de/news/energiewende-verplant-ausbau-von-wind-und-solarenergie-muss-neu-gedacht-werden-2608-211420.html",
+      "publishedAt": "2026-08-31T07:30:02.000Z"
     },
     {
       "id": "n_77c755dad9",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
-      "summary": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+      "headline": "US and Iran trade strikes for first time in weeks",
+      "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T23:53:03.000Z"
+      "publishedAt": "2026-08-31T08:34:25.000Z"
     },
     {
       "id": "n_a2ad7f2294",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
-      "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
+      "headline": "One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
+      "summary": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 15 people are missing.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T23:52:27.000Z"
+      "publishedAt": "2026-08-31T08:17:25.000Z"
+    },
+    {
+      "id": "n_71ec75783a",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Algeria president seeks death penalty for arsonists after deadly forest fires",
+      "summary": "President Abdelmadjid Tebboune says he is not ruling out foul play after 100 wildfires were recorded.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy41lwe0jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T08:13:40.000Z"
+    },
+    {
+      "id": "n_46b435eed5",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'Moonies' church leader jailed for two years over bribery offences",
+      "summary": "Han Hak-ja, 83, gave South Korea's former first lady two Chanel bags and a diamond necklace, a court found.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8xkqjdk142o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T06:56:40.000Z"
+    },
+    {
+      "id": "n_80226a3cb4",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
+      "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T03:56:15.000Z"
     },
     {
       "id": "n_82e2afc4f7",
@@ -297,17 +330,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/c5ydwy004v0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-30T20:40:02.000Z"
-    },
-    {
-      "id": "n_80226a3cb4",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Eight killed and others missing after ferry capsizes off northern Cyprus",
-      "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T20:02:43.000Z"
     },
     {
       "id": "n_61d0db5498",
@@ -330,28 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-30T17:49:31.000Z"
-    },
-    {
-      "id": "n_a864eedddc",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Zambian opposition leader charged with treason",
-      "summary": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T17:06:15.000Z"
-    },
-    {
-      "id": "n_1202fec433",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
-      "summary": "Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T16:48:13.000Z"
     },
     {
       "id": "n_b7b15a9b35",
@@ -530,6 +530,17 @@
       "publishedAt": "2026-08-28T18:07:55.000Z"
     },
     {
+      "id": "n_f2a0380f36",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "publishedAt": "2026-08-31T02:34:00.000Z"
+    },
+    {
       "id": "n_a05533f3a7",
       "type": "news",
       "topic": "ai",
@@ -605,17 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
       "publishedAt": "2026-08-28T19:30:38.000Z"
-    },
-    {
-      "id": "n_883e80af1d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-      "summary": "There's a lot of capital pouring into the business of giving models away.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "publishedAt": "2026-08-28T18:19:40.000Z"
     },
     {
       "id": "n_4538153b57",
