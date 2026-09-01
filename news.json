@@ -1,12 +1,45 @@
 {
-  "generatedAt": "2026-09-01T18:01:27.385Z",
+  "generatedAt": "2026-09-01T22:52:50.417Z",
   "items": [
+    {
+      "id": "n_e760e4dbee",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "USA und Iran melden erneut heftige Angriffe",
+      "summary": "Die USA melden neue Angriffe auf iranische Ziele nahe der Straße von Hormus. Iranische Staatsmedien berichten von zivilen Opfern. Als Reaktion auf die US-Attacken beschoss Iran offenbar Jordanien mit ballistischen Raketen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-124.html",
+      "publishedAt": "2026-09-01T22:37:46.000Z"
+    },
+    {
+      "id": "n_b482bdc06a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Kommentar zu Sanktionen gegen Russland: Auch politische Waffen sind schmerzhaft",
+      "summary": "Deutschland benennt Russland als Drahtzieher des Anschlagsversuchs, ohne sich provozieren zu lassen. Die Regierung hat damit einen Balanceakt geschafft, meint Markus Sambale. Denn die Demokratie nutzt andere Waffen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/kommentar/kommentar-anschlag-russland-100.html",
+      "publishedAt": "2026-09-01T19:56:04.000Z"
+    },
+    {
+      "id": "n_34c6c44d7b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Kurzschlüsse nahe Kohlekraftwerk: Sabotage sollte wohl Blackout auslösen",
+      "summary": "In Brandenburg haben Unbekannte mit selbstgebauten Flugkörpern Kurzschlüsse an einer Hochspannungsleitung verursacht. Zu einem Stromausfall kam es nicht, aber Brandenburgs Innenminister warnt: \"Das war kein Kinderstreich.\"",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/sabotage-umspannwerk-brandenburg-100.html",
+      "publishedAt": "2026-09-01T19:09:43.000Z"
+    },
     {
       "id": "n_fb7fa4e608",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Anschlagsversuch mit Drohne: \"Bekanntes Muster russischer Operationen\"",
+      "headline": "Anschlagsversuch mit Drohnen: \"Bekanntes Muster russischer Operationen\"",
       "summary": "Die Spuren des Anschlagversuchs am Flughafen Leipzig/Halle sollen zu sogenannten Wegwerfagenten eines russischen Geheimdienstes führen. Michael Götschenberg erklärt, wie Ermittler und Bundesregierung zu diesem Schluss kamen.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/drohnen-flughafen-bundesregierung-100.html",
@@ -57,39 +90,6 @@
       "publishedAt": "2026-09-01T16:33:27.000Z"
     },
     {
-      "id": "n_32cae01143",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Karin Angerer für Bettina Limperg: Stabwechsel am Bundesgerichtshof",
-      "summary": "An der Spitze von Deutschlands oberstem Straf- und Zivilgericht gibt es einen Personalwechsel: Karin Angerer übernimmt heute das Amt der Gerichtspräsidentin von Bettina Limperg. Von Antonetta Stephany.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/bundesgerichtshof-praesidentin-100.html",
-      "publishedAt": "2026-09-01T15:48:16.000Z"
-    },
-    {
-      "id": "n_a91681e815",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Sprengvorrichtung an Umspannwerk in Brandenburg gefunden",
-      "summary": "In Brandenburg sind in der Nähe des Kraftwerks Jänschwalde Sprengvorrichtungen gefunden worden. Laut Ministerpräsident Woidke war es ein \"Anschlagsversuch\" auf die Stromversorgung. Die Hintergründe sind noch unklar.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/sprengvorrichtung-umspannwerk-brandenburg-100.html",
-      "publishedAt": "2026-09-01T15:44:44.000Z"
-    },
-    {
-      "id": "n_53bc730aa0",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Rückschlag für Finnlands Kampf gegen Wohnungslosigkeit",
-      "summary": "Finnland galt lange als Vorbild im Kampf gegen Wohnungslosigkeit. Doch nun steigt die Zahl der Obdachlosen wieder. Die konservative Regierung kürzt Sozialleistungen und investiert weniger in sozialen Wohnungsbau. Von A. Bartram.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/finnland-kampf-obdachlosigkeit-100.html",
-      "publishedAt": "2026-09-01T15:07:36.000Z"
-    },
-    {
       "id": "n_c16b017710",
       "type": "news",
       "topic": "tech",
@@ -98,7 +98,7 @@
       "summary": "Die Berliner Senatsverwaltung hat bestätigt, dass auch Passwörter beim Cyberangriff aus dem August entwendet wurden. Alle Systeme werden geprüft.",
       "source": "heise online",
       "url": "https://www.heise.de/news/Berlin-Passwoerter-abgeflossen-12-000-Systeme-werden-gescannt-11436809.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-01T12:38:00.000Z"
+      "publishedAt": "2026-09-01T18:31:00.000Z"
     },
     {
       "id": "n_ae487ffa97",
@@ -266,6 +266,39 @@
       "publishedAt": "2026-09-01T15:23:02.000Z"
     },
     {
+      "id": "n_4565edc510",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Cup noodles made with cold water? BBC tries Japan's viral snack",
+      "summary": "The BBC's Tokyo correspondent Kurumi Mori tries Japan's latest food trend, instant noodles made using cold water.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ce30lqln299o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T22:02:14.000Z"
+    },
+    {
+      "id": "n_eef742c721",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US strikes Iran as state media reports four killed at wedding party",
+      "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T21:48:28.000Z"
+    },
+    {
+      "id": "n_e0595bd110",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Ariana Grande completes tour and steps back from public life",
+      "summary": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T21:41:05.000Z"
+    },
+    {
       "id": "n_10a1cf7344",
       "type": "news",
       "topic": "general",
@@ -274,84 +307,62 @@
       "summary": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T16:53:40.000Z"
+      "publishedAt": "2026-09-01T21:05:22.000Z"
     },
     {
-      "id": "n_f3bb76bbe4",
+      "id": "n_1452b76e2d",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Trump says US position on Falklands 'one of many' under review",
-      "summary": "The UK says Falkland islanders \"are British with a right to determine their own future\".",
+      "headline": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
+      "summary": "The Israeli military says it carried out strikes in Gaza City during a raid by special forces to capture the head of Hamas's internal security service.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T16:35:28.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T20:24:28.000Z"
     },
     {
-      "id": "n_f8870adb16",
+      "id": "n_8c82411987",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Pistol in a lake gives hope for French cold case",
-      "summary": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
+      "headline": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
+      "summary": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T16:33:29.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T20:05:23.000Z"
     },
     {
-      "id": "n_b4c36ef072",
+      "id": "n_fb11d9ff67",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
-      "summary": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
+      "headline": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
+      "summary": "Duane \"Keffe D\" Davis was convicted over the drive-by shooting of the rap superstar 30 years ago.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T16:11:18.000Z"
-    },
-    {
-      "id": "n_ce0197abb5",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'I have fired 40 of my agents for being corrupt', says Nigeria's anti-corruption chief",
-      "summary": "The EFCC boss says more than five of the dismissed officials are already facing prosecution.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9863817xzpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T15:57:18.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T18:26:12.000Z"
     },
     {
       "id": "n_9cfe6c1614",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Vance calls Michigan Senate candidate El-Sayed 'evil' at campaign rally",
+      "headline": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
       "summary": "El-Sayed faces Trump ally Mike Rogers in what has quickly become a senate race characterised by personal attacks and insults between the two.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T15:51:40.000Z"
+      "publishedAt": "2026-09-01T18:06:58.000Z"
     },
     {
-      "id": "n_ad0b8c7e95",
+      "id": "n_7a1c0e80d3",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Woman killed in Times Square stabbing, suspect shot dead by police",
-      "summary": "Police say the double stabbing, which injured another person, was random and the suspect had a mental health history.",
+      "headline": "Tech Life",
+      "summary": "AI can only communicate in languages that it's been trained on.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T15:48:38.000Z"
-    },
-    {
-      "id": "n_8bc338b3ad",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
-      "summary": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T15:33:14.000Z"
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyc?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T20:10:00.000Z"
     },
     {
       "id": "n_b677206629",
@@ -431,15 +442,48 @@
       "publishedAt": "2026-08-27T13:24:03.000Z"
     },
     {
-      "id": "n_b392bbbec1",
+      "id": "n_4a37762fac",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
-      "summary": "OpenAI's cyber agents banded together to perform a hack during a security test.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-26T22:03:45.000Z"
+      "headline": "CDC reported then deleted two measles deaths that were questioned by RFK Jr.",
+      "summary": "Historically, state health departments determine cases and deaths, not the CDC.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
+      "publishedAt": "2026-09-01T18:21:16.000Z"
+    },
+    {
+      "id": "n_ce09b2857e",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
+      "summary": "New features are rolling out across the Android ecosystem starting today.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
+      "publishedAt": "2026-09-01T18:00:02.000Z"
+    },
+    {
+      "id": "n_2dfabbada3",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions",
+      "summary": "FTC says firm replaces actual ad-auction results \"with higher prices set by Amazon.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
+      "publishedAt": "2026-09-01T17:51:17.000Z"
+    },
+    {
+      "id": "n_f6b96c46f6",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "This is what a supercar was like a century ago",
+      "summary": "When the average car could only do 40 mph, this Bentley could break 100.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
+      "publishedAt": "2026-09-01T17:34:16.000Z"
     },
     {
       "id": "n_20f8322418",
@@ -486,48 +530,48 @@
       "publishedAt": "2026-08-31T23:01:16.000Z"
     },
     {
-      "id": "n_cfd746cd5b",
+      "id": "n_79fb6f5823",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Trump admin shelves Cyclospora research despite record-breaking outbreak",
-      "summary": "The CDC has tallied nearly 30,000 confirmed and probable cases this summer.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/",
-      "publishedAt": "2026-08-31T21:23:09.000Z"
+      "headline": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "publishedAt": "2026-09-01T22:08:24.000Z"
     },
     {
-      "id": "n_4c346055d8",
+      "id": "n_a4eeed34b9",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Get in on the Ars community that doesn’t fit beneath an article",
-      "summary": "You've read the stories. Now check out our forums.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/staff/2026/08/get-in-on-the-ars-community-that-doesnt-fit-beneath-an-article/",
-      "publishedAt": "2026-08-31T21:12:01.000Z"
+      "headline": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "publishedAt": "2026-09-01T21:06:24.000Z"
     },
     {
-      "id": "n_99297a3d07",
+      "id": "n_011aafc373",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Review: Coyote vs. Acme is an unabashed love letter to Looney Tunes",
-      "summary": "Director Dave Green's live action/animated hybrid captures smart, subversive weirdness of the classic cartoons.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/08/review-coyote-vs-acme-is-an-unabashed-love-letter-to-looney-tunes/",
-      "publishedAt": "2026-08-31T20:02:16.000Z"
+      "headline": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "publishedAt": "2026-09-01T20:53:05.000Z"
     },
     {
-      "id": "n_926829ec03",
+      "id": "n_d6a02419dc",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Trump tells FCC to punish journalist for calling his election results \"mixed\"",
-      "summary": "Trump furious at NBC's Kristen Welker for saying he had mixed results in primary endorsements.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/",
-      "publishedAt": "2026-08-31T18:39:25.000Z"
+      "headline": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "publishedAt": "2026-09-01T19:39:22.000Z"
     },
     {
       "id": "n_5f4331d84f",
@@ -574,48 +618,37 @@
       "publishedAt": "2026-09-01T15:51:55.000Z"
     },
     {
-      "id": "n_1847690842",
+      "id": "n_52dc97c53c",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-      "publishedAt": "2026-09-01T15:45:51.000Z"
+      "headline": "OpenAI delayed its new model’s development after the Hugging Face hack",
+      "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "publishedAt": "2026-09-01T20:45:49.000Z"
     },
     {
-      "id": "n_fb0b621eb4",
+      "id": "n_07d9f1d4fa",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Fambot introduces an ‘AI chief of staff’ for families",
-      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
-      "publishedAt": "2026-09-01T15:10:58.000Z"
+      "headline": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+      "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+      "publishedAt": "2026-09-01T19:02:54.000Z"
     },
     {
-      "id": "n_71ebe41f5e",
+      "id": "n_07f23843f1",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "publishedAt": "2026-09-01T00:13:00.000Z"
-    },
-    {
-      "id": "n_bb1d02abd1",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The Pentagon now has its own version of ChatGPT and Grok",
-      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "publishedAt": "2026-08-31T20:13:45.000Z"
+      "headline": "Apple accuses OpenAI of destroying evidence",
+      "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "publishedAt": "2026-09-01T18:19:26.000Z"
     },
     {
       "id": "n_6d0e3cbcab",
@@ -671,39 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
       "publishedAt": "2026-08-31T14:00:00.000Z"
-    },
-    {
-      "id": "n_8b9768eab1",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "ChatGPT to face tougher regulation in the EU",
-      "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-      "publishedAt": "2026-08-31T13:27:36.000Z"
-    },
-    {
-      "id": "n_8051bcd07a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Instagram cracks down on AI accounts pretending to be human",
-      "summary": "“AI creator” accounts like Aitana Lopez will get a new “AI-generated profile” label. | Image: Aitana Lopez Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-genera",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
-      "publishedAt": "2026-08-31T13:00:00.000Z"
-    },
-    {
-      "id": "n_4538153b57",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Texas Governor Abbott blocks funding for more Flock cameras",
-      "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was prima",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-      "publishedAt": "2026-08-30T15:35:10.000Z"
     },
     {
       "id": "n_b0a07733da",
@@ -871,6 +871,17 @@
       "publishedAt": "2026-08-24T09:00:00.000Z"
     },
     {
+      "id": "n_fedc128a28",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+      "summary": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+      "publishedAt": "2026-09-01T20:00:00.000Z"
+    },
+    {
       "id": "n_0085e45af3",
       "type": "news",
       "topic": "ai",
@@ -948,15 +959,15 @@
       "publishedAt": "2026-08-28T11:00:00.000Z"
     },
     {
-      "id": "n_713e77be0e",
+      "id": "n_23bdbfdbd0",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Inside Meta’s Push to Put Robots to Work in Data Centers",
-      "summary": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
-      "publishedAt": "2026-08-28T10:56:22.000Z"
+      "headline": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "publishedAt": "2026-09-01T21:39:07.000Z"
     },
     {
       "id": "n_85562dc163",
@@ -1033,17 +1044,6 @@
       "summary": "",
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/pwc-search",
-      "publishedAt": "2026-08-21T00:00:00.000Z"
-    },
-    {
-      "id": "n_68e9fb1705",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Measuring benchmark optimization in speech recognition",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
       "publishedAt": "2026-08-21T00:00:00.000Z"
     },
     {
@@ -1147,7 +1147,7 @@
       "type": "video",
       "topic": "video",
       "lang": "en",
-      "headline": "A mysterious new model just took over the internet...",
+      "headline": "The mystery is solved... and the answer is 40x cheaper than Claude",
       "summary": "",
       "source": "Fireship",
       "url": "https://www.youtube.com/watch?v=r-tzcMlQISk",
