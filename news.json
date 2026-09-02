@@ -1,13 +1,46 @@
 {
-  "generatedAt": "2026-09-02T18:11:47.909Z",
+  "generatedAt": "2026-09-02T22:53:15.185Z",
   "items": [
+    {
+      "id": "n_58704e8bd3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Mehr als 3.000 Tote - WHO-Chef fordert mehr Einsatz gegen Ebola",
+      "summary": "WHO-Chef Tedros hat die internationale Gemeinschaft zu mehr Anstrengung bei der Bekämpfung der Ebola-Epidemie aufgefordert. Das Maßnahmenpaket der kongolesischen Regierung müsse schneller finanziert werden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/afrika/ebola-who-aufruf-100.html",
+      "publishedAt": "2026-09-02T20:09:49.000Z"
+    },
+    {
+      "id": "n_cb2b8c67bd",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ernteausfälle durch Hitze - Agrarminister Rainer kündigt Hilfen für Bauern an",
+      "summary": "Die durch Hitze und Trockenheit geschmälerte Ernte ist laut Bundesagrarminister Rainer eine \"herbe Enttäuschung\" für viele Landwirte. Der CSU-Politiker kündigte Hilfen für die betroffenen Betriebe an.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/ernteausfaelle-krise-rainer-100.html",
+      "publishedAt": "2026-09-02T18:30:29.000Z"
+    },
+    {
+      "id": "n_4126c2a13f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ermittlungen nach Tiefflügen über Rugby-Stadion in Südafrika",
+      "summary": "In Südafrika sind zwei Passagierflugzeuge vor einem Rugby-Spiel nur wenige Meter über die Köpfe der Zuschauer geflogen. Was als Showeinlage geplant war, ging vielen Zuschauern offenbar zu weit. Nun ermittelt die Luftfahrtbehörde.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/afrika/suedafrika-rugby-flugzeug-100.html",
+      "publishedAt": "2026-09-02T18:19:24.000Z"
+    },
     {
       "id": "n_b2fe95842d",
       "type": "news",
       "topic": "general",
       "lang": "de",
       "headline": "Warum die Zukunft der VW-Werke wohl noch länger ungewiss bleibt",
-      "summary": "Freitag soll der VW-Aufsichtsrat über den Sparkurs und mögliche Werksschließungen beraten. Doch es gibt viel Streit und Drohkulissen. Ein Kompromiss ist nicht in Sicht - und einigen scheint das ganz recht zu sein. Von Annette Deutskens.",
+      "summary": "Freitag soll der VW-Aufsichtsrat über den Sparkurs und mögliche Werksschließungen beraten. Doch es gibt viel Streit und Drohkulissen. Ein Kompromiss ist nicht in Sicht - und einigen scheint das ganz recht zu sein. Von A. Deutskens.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-aufsichtsrat-streit-werksschliessungen-100.html",
       "publishedAt": "2026-09-02T18:06:02.000Z"
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wissen/kinderwunsch-deutschland-wirklichkeit-100.html",
       "publishedAt": "2026-09-02T16:40:26.000Z"
-    },
-    {
-      "id": "n_fa7a528543",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: Hohe Ölpreise drücken die Stimmung",
-      "summary": "Das Anlageumfeld bleibt weiter herausfordernd. Denn wieder höhere Ölpreise schieben die Inflationserwartungen an. In einem solchen Umfeld blieben die DAX-Anleger vorsichtig.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-rendite-100.html",
-      "publishedAt": "2026-09-02T16:30:29.000Z"
-    },
-    {
-      "id": "n_274701dcb2",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Stellenabbau bei Uber trifft auch Führungskräfte",
-      "summary": "Der US-Fahrdienstvermittler Uber will rund 3.300 Stellen streichen. Besonders Führungskräfte sollen davon betroffen sein. Von Gabi Biesinger.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/uber-stellenabbau-100.html",
-      "publishedAt": "2026-09-02T15:46:08.000Z"
-    },
-    {
-      "id": "n_8c8f23f856",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Warum die Fünf-Prozent-Hürde in Sachsen-Anhalt eine große Rolle spielt",
-      "summary": "Grüne und BSW kratzen in Sachsen-Anhalt an der Fünf-Prozent-Hürde. Für die FDP könnte es schwierig werden. Scheitern die Parteien, dürfte das die Sitzverteilung erheblich verändern - und der AfD zugutekommen. Von F. Aischmann.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/kleine-parteien-sachsen-anhalt-100.html",
-      "publishedAt": "2026-09-02T15:03:41.000Z"
     },
     {
       "id": "n_1fe6182cc5",
@@ -266,6 +266,61 @@
       "publishedAt": "2026-09-02T14:37:02.000Z"
     },
     {
+      "id": "n_98ba994251",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Protests in Spain over government's handling of Ceuta migrant crisis",
+      "summary": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T21:34:27.000Z"
+    },
+    {
+      "id": "n_b89624d1a9",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "South African airline behind daring stadium stunt cancels next flyby",
+      "summary": "The civil aviation authority says it is also investigating last Saturday's aerial display.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T21:21:08.000Z"
+    },
+    {
+      "id": "n_ccedae1703",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+      "summary": "Nigeria - Africa's most populous country - is proving a tough market for ride-hailing services.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T20:21:04.000Z"
+    },
+    {
+      "id": "n_cd5bad4229",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
+      "summary": "For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T20:12:32.000Z"
+    },
+    {
+      "id": "n_b6c5af4368",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
+      "summary": "Daphne Caruana Galizia exposed corruption and money laundering schemes in Malta before she was killed by a car bomb in 2017.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T19:05:31.000Z"
+    },
+    {
       "id": "n_5ff02e054c",
       "type": "news",
       "topic": "general",
@@ -277,6 +332,17 @@
       "publishedAt": "2026-09-02T17:33:45.000Z"
     },
     {
+      "id": "n_5ff8f1d383",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+      "summary": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geopolitical unrest\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T17:21:00.000Z"
+    },
+    {
       "id": "n_b2acf3401c",
       "type": "news",
       "topic": "general",
@@ -286,72 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-02T17:05:09.000Z"
-    },
-    {
-      "id": "n_b89624d1a9",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "South African airline behind daring stadium stunt cancels next flyby, regulator says",
-      "summary": "The civil aviation authority says it is also investigating last Saturday's aerial display.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T16:58:59.000Z"
-    },
-    {
-      "id": "n_15381f586f",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-      "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T16:49:00.000Z"
-    },
-    {
-      "id": "n_4ce7279214",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "summary": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T16:12:43.000Z"
-    },
-    {
-      "id": "n_be35ef0f7c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
-      "summary": "More than 1,200 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T15:57:13.000Z"
-    },
-    {
-      "id": "n_eef742c721",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-      "summary": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T15:33:19.000Z"
-    },
-    {
-      "id": "n_752b667c2c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
-      "summary": "The About Damn Time singer says she is \"relieved\" at the outcome and will \"continue to fight\" every claim.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8xk4rl904vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T15:20:19.000Z"
     },
     {
       "id": "n_3685e0e767",
@@ -442,6 +442,72 @@
       "publishedAt": "2026-08-31T21:28:49.000Z"
     },
     {
+      "id": "n_fae6522e99",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Spending deal comes with a bonus: Blocking political control of grants",
+      "summary": "Congress pauses the OMB's attempt to rewrite how research is funded.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
+      "publishedAt": "2026-09-02T21:20:03.000Z"
+    },
+    {
+      "id": "n_4767180cb8",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "I rented a car, and within hours, my driver's license was for sale",
+      "summary": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+      "publishedAt": "2026-09-02T20:32:02.000Z"
+    },
+    {
+      "id": "n_ddf2b9940a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "FCC plans robocall scorecard to grade phone companies on spam call blocking",
+      "summary": "Carrier scorecards may include call-blocking stats and data on customer complaints.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking/",
+      "publishedAt": "2026-09-02T19:54:27.000Z"
+    },
+    {
+      "id": "n_39117b4f5c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
+      "summary": "\"Requirements are being adjusted to reflect near-term mission needs.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/",
+      "publishedAt": "2026-09-02T19:37:08.000Z"
+    },
+    {
+      "id": "n_b0c60d5e22",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+      "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "publishedAt": "2026-09-02T18:13:54.000Z"
+    },
+    {
+      "id": "n_97e3746f8f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+      "summary": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+      "publishedAt": "2026-09-02T17:58:33.000Z"
+    },
+    {
       "id": "n_8b5038aec1",
       "type": "news",
       "topic": "tech",
@@ -464,70 +530,37 @@
       "publishedAt": "2026-09-02T14:47:42.000Z"
     },
     {
-      "id": "n_5a94dd08bc",
+      "id": "n_e54d1c1e85",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "The Army just used a 20-kilowatt laser to take out three drones",
-      "summary": "The Army says its laser system can track and destroy hostile drones.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones/",
-      "publishedAt": "2026-09-02T13:04:59.000Z"
+      "headline": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "summary": "The acquisition also leaves Sequoia-backed Serval as the de-facto startup leader in AI IT service automation, industry watchers believe.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "publishedAt": "2026-09-02T22:44:56.000Z"
     },
     {
-      "id": "n_57c96ba73c",
+      "id": "n_16bf1bec9e",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Is Russia's rival to Starlink failing? Here's what we know.",
-      "summary": "At least three of the first 32 Rassvet satellites likely suffered outright failures, and more may be in trouble.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/",
-      "publishedAt": "2026-09-02T11:15:23.000Z"
+      "headline": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "publishedAt": "2026-09-02T22:24:09.000Z"
     },
     {
-      "id": "n_2182e292c7",
+      "id": "n_800d247a22",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
-      "summary": "What can we learn from a BGP hijacking that poisoned production software? Plenty.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
-      "publishedAt": "2026-09-02T11:00:43.000Z"
-    },
-    {
-      "id": "n_a94d0ae719",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Here's our first look—and drive—of the 2027 Range Rover Electric",
-      "summary": "333 miles of real-world range with uncompromised comfort and off-road ability.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
-      "publishedAt": "2026-09-01T23:01:52.000Z"
-    },
-    {
-      "id": "n_7b391dea3c",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Research roundup: 7 cool science stories we almost missed",
-      "summary": "\"Black hole stars,\" making cookies from plastic, tiny sound-powered drones, and more.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
-      "publishedAt": "2026-09-01T19:06:10.000Z"
-    },
-    {
-      "id": "n_4a37762fac",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "A newborn and child reportedly died of measles; CDC isn't counting them",
-      "summary": "Historically, state health departments determine cases and deaths, not the CDC.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
-      "publishedAt": "2026-09-01T18:21:16.000Z"
+      "headline": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "publishedAt": "2026-09-02T20:19:14.000Z"
     },
     {
       "id": "n_8561de7d37",
@@ -585,37 +618,15 @@
       "publishedAt": "2026-09-02T16:01:48.000Z"
     },
     {
-      "id": "n_71656b2e31",
+      "id": "n_535ee29f1a",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-      "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-      "publishedAt": "2026-09-02T15:01:23.000Z"
-    },
-    {
-      "id": "n_0de66ce5b5",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-      "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-      "publishedAt": "2026-09-02T14:56:34.000Z"
-    },
-    {
-      "id": "n_73ecf3d27d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Adobe acquires Indian market intelligence startup Rilo",
-      "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-      "publishedAt": "2026-09-02T14:03:57.000Z"
+      "headline": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "publishedAt": "2026-09-02T20:11:40.000Z"
     },
     {
       "id": "n_2140bd018e",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
       "publishedAt": "2026-09-01T22:50:29.000Z"
-    },
-    {
-      "id": "n_e05e11f4e8",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
-      "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and u",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-      "publishedAt": "2026-09-01T22:01:36.000Z"
     },
     {
       "id": "n_b0a07733da",
@@ -871,6 +871,28 @@
       "publishedAt": "2026-08-24T14:20:19.000Z"
     },
     {
+      "id": "n_a41df2b781",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+      "summary": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+      "publishedAt": "2026-09-02T18:41:02.000Z"
+    },
+    {
+      "id": "n_f7954d1b87",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+      "summary": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+      "publishedAt": "2026-09-02T18:20:00.000Z"
+    },
+    {
       "id": "n_5e62caa3d5",
       "type": "news",
       "topic": "ai",
@@ -935,28 +957,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
       "publishedAt": "2026-08-30T10:30:00.000Z"
-    },
-    {
-      "id": "n_8d05056bc8",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
-      "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
-      "publishedAt": "2026-08-29T10:30:00.000Z"
-    },
-    {
-      "id": "n_d26e861bc1",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "How to Run a Chatbot on Your Own Computer",
-      "summary": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
-      "publishedAt": "2026-08-29T10:00:00.000Z"
     },
     {
       "id": "n_22915ca8a2",
@@ -1143,6 +1143,18 @@
       "publishedAt": "2026-06-30T21:16:13.000Z"
     },
     {
+      "id": "n_41b8d826b3",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The most interesting hack in history just got weirder...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=0Rp9KJCEIvg",
+      "thumbnail": "https://i.ytimg.com/vi/0Rp9KJCEIvg/hqdefault.jpg",
+      "publishedAt": "2026-09-02T19:01:28.000Z"
+    },
+    {
       "id": "n_0bc1e159ad",
       "type": "video",
       "topic": "video",
@@ -1177,18 +1189,6 @@
       "url": "https://www.youtube.com/watch?v=xBByvFrqmWU",
       "thumbnail": "https://i.ytimg.com/vi/xBByvFrqmWU/hqdefault.jpg",
       "publishedAt": "2026-08-20T17:53:37.000Z"
-    },
-    {
-      "id": "n_77fd367f31",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The summer Math fell to the machines...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=iuZPTE5qsJY",
-      "thumbnail": "https://i.ytimg.com/vi/iuZPTE5qsJY/hqdefault.jpg",
-      "publishedAt": "2026-08-19T18:45:57.000Z"
     },
     {
       "id": "n_a5e182c8fe",
