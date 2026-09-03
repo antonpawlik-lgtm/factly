@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-02T22:53:15.185Z",
+  "generatedAt": "2026-09-03T01:46:40.127Z",
   "items": [
+    {
+      "id": "n_484f140278",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Demonstrationen in Spanien für Ceuta und gegen Sánchez",
+      "summary": "Mehr als einen Monat nach dem Ansturm auf Ceuta sind Zehntausende Menschen in ganz Spanien auf die Straße gegangen. Ihr Protest richtete sich gegen die Migrationspolitik der Zentralregierung. In einigen Städten gab es auch Gegendemos.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/demonstrationen-ceuta-spanien-migration-100.html",
+      "publishedAt": "2026-09-03T01:34:38.000Z"
+    },
+    {
+      "id": "n_3d3decfbe1",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Freispruch nach Mord an maltesischer Journalistin Caruana Galizia",
+      "summary": "Wer ließ die maltesische Journalistin Daphne Caruana Galizia ermorden? Diese Frage bleibt auch nach fast neun Jahren unbeantwortet. Geschworene sprachen einen Unternehmer vom Vorwurf frei, Drahtzieher des Anschlags gewesen zu sein.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/freispruch-mord-journalistin-malta-100.html",
+      "publishedAt": "2026-09-02T22:56:35.000Z"
+    },
     {
       "id": "n_58704e8bd3",
       "type": "news",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/nrw-umspannwerk-anfangsverdacht-100.html",
       "publishedAt": "2026-09-02T17:15:59.000Z"
-    },
-    {
-      "id": "n_9bdc3c11b6",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Umfrage zu Berlin-Wahl: CDU wieder vorn, Linke verliert",
-      "summary": "Zweieinhalb Wochen vor der Abgeordnetenhauswahl verliert die Linkspartei im BerlinTrend an Zuspruch und fällt hinter die CDU zurück. Die regierende Koalition aus CDU und SPD hätte aber keine Mehrheit mehr.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/berlin/ard-berlintrend-100.html",
-      "publishedAt": "2026-09-02T16:48:29.000Z"
-    },
-    {
-      "id": "n_47ecd5a8d5",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Institut für Bevölkerungsforschung: Was Menschen vom Kinderkriegen abhält",
-      "summary": "Viele Menschen in Deutschland würden gern mehr Kinder kriegen, als sie tatsächlich bekommen. Das zeigen neue Daten des Bundesinstituts für Bevölkerungsforschung. Die Gründe sind vielfältig. Von Joachim Budde.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/kinderwunsch-deutschland-wirklichkeit-100.html",
-      "publishedAt": "2026-09-02T16:40:26.000Z"
     },
     {
       "id": "n_1fe6182cc5",
@@ -354,6 +354,17 @@
       "publishedAt": "2026-09-02T17:05:09.000Z"
     },
     {
+      "id": "n_970f8b61bf",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
+      "summary": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-02T23:36:49.000Z"
+    },
+    {
       "id": "n_3685e0e767",
       "type": "news",
       "topic": "tech",
@@ -429,17 +440,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-01T10:18:47.000Z"
-    },
-    {
-      "id": "n_3a8a40ab3d",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
-      "summary": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T21:28:49.000Z"
     },
     {
       "id": "n_fae6522e99",
@@ -530,12 +530,23 @@
       "publishedAt": "2026-09-02T14:47:42.000Z"
     },
     {
+      "id": "n_f3b8c7fe39",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-02T23:01:00.000Z"
+    },
+    {
       "id": "n_e54d1c1e85",
       "type": "news",
       "topic": "ai",
       "lang": "en",
       "headline": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "summary": "The acquisition also leaves Sequoia-backed Serval as the de-facto startup leader in AI IT service automation, industry watchers believe.",
+      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
       "publishedAt": "2026-09-02T22:44:56.000Z"
@@ -605,17 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
       "publishedAt": "2026-09-02T16:04:10.000Z"
-    },
-    {
-      "id": "n_14dcfb7c95",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-      "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-      "publishedAt": "2026-09-02T16:01:48.000Z"
     },
     {
       "id": "n_535ee29f1a",
@@ -689,7 +689,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "NYC bans AI use for students until they reach high school",
-      "summary": "New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600,000 public school students in 2-K through eighth grade and ",
+      "summary": "New York City Mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600,000 public school students in 2-K through eighth grade and ",
       "source": "The Verge",
       "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
       "publishedAt": "2026-09-02T14:30:00.000Z"
@@ -871,6 +871,17 @@
       "publishedAt": "2026-08-24T14:20:19.000Z"
     },
     {
+      "id": "n_5291e514b0",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+      "summary": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+      "publishedAt": "2026-09-03T01:32:02.000Z"
+    },
+    {
       "id": "n_a41df2b781",
       "type": "news",
       "topic": "ai",
@@ -946,17 +957,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
       "publishedAt": "2026-08-31T10:30:00.000Z"
-    },
-    {
-      "id": "n_d73f149604",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Why the Hottest New Wearables Want to Be Ignored",
-      "summary": "Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
-      "publishedAt": "2026-08-30T10:30:00.000Z"
     },
     {
       "id": "n_22915ca8a2",
@@ -1045,186 +1045,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/gradio-workflow-guide",
       "publishedAt": "2026-08-25T00:00:00.000Z"
-    },
-    {
-      "id": "n_afefdcee88",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "GLM 5.3: Powerful AI Is Becoming Almost Free",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
-      "thumbnail": "https://i.ytimg.com/vi/w9RDunJACkc/hqdefault.jpg",
-      "publishedAt": "2026-09-01T09:04:56.000Z"
-    },
-    {
-      "id": "n_0638f3b98b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Billion Dollar AI Gap Is Collapsing",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
-      "thumbnail": "https://i.ytimg.com/vi/LBiNcdGNgrg/hqdefault.jpg",
-      "publishedAt": "2026-08-28T09:44:44.000Z"
-    },
-    {
-      "id": "n_39fab27727",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek’s New AI System Shouldn’t Be Possible",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
-      "thumbnail": "https://i.ytimg.com/vi/L9mMfAFwbl4/hqdefault.jpg",
-      "publishedAt": "2026-08-26T13:10:13.000Z"
-    },
-    {
-      "id": "n_105ab17fca",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "This Small AI Will Change Everything",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
-      "thumbnail": "https://i.ytimg.com/vi/wMl6c_r0ubw/hqdefault.jpg",
-      "publishedAt": "2026-08-24T16:48:40.000Z"
-    },
-    {
-      "id": "n_ffdb3dfd14",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
-      "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_6a18d8c315",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
-      "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
-      "publishedAt": "2026-08-12T12:57:24.000Z"
-    },
-    {
-      "id": "n_49a7d5405f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
-      "publishedAt": "2026-07-28T20:02:11.000Z"
-    },
-    {
-      "id": "n_39feb22ff6",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
-      "thumbnail": "https://i.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
-      "publishedAt": "2026-06-30T21:16:13.000Z"
-    },
-    {
-      "id": "n_41b8d826b3",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The most interesting hack in history just got weirder...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=0Rp9KJCEIvg",
-      "thumbnail": "https://i.ytimg.com/vi/0Rp9KJCEIvg/hqdefault.jpg",
-      "publishedAt": "2026-09-02T19:01:28.000Z"
-    },
-    {
-      "id": "n_0bc1e159ad",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The mystery is solved... and the answer is 40x cheaper than Claude",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=r-tzcMlQISk",
-      "thumbnail": "https://i.ytimg.com/vi/r-tzcMlQISk/hqdefault.jpg",
-      "publishedAt": "2026-09-01T17:31:27.000Z"
-    },
-    {
-      "id": "n_d4a1282ff3",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The most expensive software bug in history...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=UuqSy1jPSUw",
-      "thumbnail": "https://i.ytimg.com/vi/UuqSy1jPSUw/hqdefault.jpg",
-      "publishedAt": "2026-08-27T17:48:13.000Z"
-    },
-    {
-      "id": "n_f978bd3ac8",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek is back... and Silicon Valley is terrified",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=xBByvFrqmWU",
-      "thumbnail": "https://i.ytimg.com/vi/xBByvFrqmWU/hqdefault.jpg",
-      "publishedAt": "2026-08-20T17:53:37.000Z"
-    },
-    {
-      "id": "n_a5e182c8fe",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Truth About the Bezelless Concept Phone",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=ngPkbaZliaU",
-      "thumbnail": "https://i.ytimg.com/vi/ngPkbaZliaU/hqdefault.jpg",
-      "publishedAt": "2026-08-24T20:27:50.000Z"
-    },
-    {
-      "id": "n_af9184c60b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "I Said Yes to Every Email for a Month! (Again)",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=mfmdXPT7nAM",
-      "thumbnail": "https://i.ytimg.com/vi/mfmdXPT7nAM/hqdefault.jpg",
-      "publishedAt": "2026-08-21T18:53:07.000Z"
-    },
-    {
-      "id": "n_d84c0c1d09",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Google Pixel 11/Pro/Fold Impressions: It Is What It Is",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=o4SSoURPODY",
-      "thumbnail": "https://i.ytimg.com/vi/o4SSoURPODY/hqdefault.jpg",
-      "publishedAt": "2026-08-12T14:00:35.000Z"
     }
   ]
 }
