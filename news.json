@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-05T16:58:42.471Z",
+  "generatedAt": "2026-09-05T19:38:29.078Z",
   "items": [
+    {
+      "id": "n_c11f2571f2",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "US-Rekordschulden von 40 Billionen Dollar beunruhigen Ökonomen",
+      "summary": "Die US-Staatsschulden liegen inzwischen bei mehr als 40 Billionen Dollar. Immer mehr Geld aus dem Haushalt fließt so in Zinszahlungen - und weniger bleibt übrig für Investitionen in die Zukunft des Landes. Von Anne Schneider.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/usa-schulden-haushalt-100.html",
+      "publishedAt": "2026-09-05T19:14:33.000Z"
+    },
+    {
+      "id": "n_b78e940ddf",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Öffentliche Fahndung der Polizei: Sabotage-Verdächtiger weiter flüchtig",
+      "summary": "Ein 48-Jähriger hat sich in zwei Schreiben zu den versuchten Sabotageakten gegen das Stromnetz bekannt. Darin nennt er seinen Namen, er wurde aber noch nicht gefasst. Nun setzt die Polizei auf eine öffentliche Fahndung.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/fahndung-sabotage-stromnetz-102.html",
+      "publishedAt": "2026-09-05T17:52:19.000Z"
+    },
     {
       "id": "n_b8d9d3792c",
       "type": "news",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/wahlen-osten-stimmung-100.html",
       "publishedAt": "2026-09-05T14:09:11.000Z"
-    },
-    {
-      "id": "n_1483c4fbbd",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Hacker leaken Daten aus Berliner Landesnetz - BSI alarmiert",
-      "summary": "Personalakten, Stundenzettel, Telefonnummern - im Darknet haben Hacker etwa 1,4 Millionen Daten veröffentlicht, die von der Berliner Verwaltung gestohlen wurden. Das zuständige Bundesamt warnt vor Risiken infolge des Leaks.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/bsi-hackerangriff-berlin-verwaltung-100.html",
-      "publishedAt": "2026-09-05T14:03:56.000Z"
-    },
-    {
-      "id": "n_d20018291e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "50 Jahre Muppet Show: Die Kunst des gepflegten Unsinns",
-      "summary": "Kleine Puppen mit großen Klappen - vor 50 Jahren startete die Muppet Show. Mit Miss Piggys und Kermits frechen Witzen, Musik und prominenten Gästen wurde aus Puppentheater eine weltweite Erfolgsgeschichte. Von Franziska Hoppen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kultur/muppet-show-geburtstag-100.html",
-      "publishedAt": "2026-09-05T13:17:16.000Z"
     },
     {
       "id": "n_8b1bf09805",
@@ -270,11 +270,11 @@
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "US envoys in Moscow ahead of Ukraine talks",
-      "summary": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
+      "headline": "US envoys meet Putin in Moscow for Ukraine talks",
+      "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T16:57:15.000Z"
+      "publishedAt": "2026-09-05T19:01:31.000Z"
     },
     {
       "id": "n_84a48662e5",
@@ -282,10 +282,10 @@
       "topic": "general",
       "lang": "en",
       "headline": "US hits three Iranian oil tankers after saying its warships were targeted",
-      "summary": "The tit-for-tat strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
+      "summary": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T16:53:43.000Z"
+      "publishedAt": "2026-09-05T18:48:37.000Z"
     },
     {
       "id": "n_24fd29acb2",
@@ -530,6 +530,28 @@
       "publishedAt": "2026-09-04T17:18:12.000Z"
     },
     {
+      "id": "n_e2a0f6185b",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Hikers rescued after using Google Gemini for planning",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "publishedAt": "2026-09-05T19:35:24.000Z"
+    },
+    {
+      "id": "n_5d4986f08b",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "publishedAt": "2026-09-05T18:05:27.000Z"
+    },
+    {
       "id": "n_266031deb4",
       "type": "news",
       "topic": "ai",
@@ -594,28 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
       "publishedAt": "2026-09-04T16:04:08.000Z"
-    },
-    {
-      "id": "n_7e4db382f3",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Google’s Gemini Spark can now manage your Google Photos library",
-      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-      "publishedAt": "2026-09-04T14:47:11.000Z"
-    },
-    {
-      "id": "n_f5a7053a72",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-      "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
-      "publishedAt": "2026-09-04T14:00:00.000Z"
     },
     {
       "id": "n_ac5a64ceef",
