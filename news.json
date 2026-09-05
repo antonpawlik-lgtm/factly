@@ -1,13 +1,68 @@
 {
-  "generatedAt": "2026-09-05T01:41:26.796Z",
+  "generatedAt": "2026-09-05T07:09:43.007Z",
   "items": [
+    {
+      "id": "n_eaba7f6778",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Polizei fahndet nach Sabotage an Umspannwerken nach Verdächtigem",
+      "summary": "Die Polizei fahndet weiter nach einem Mann, der sich zu Sabotageakten auf das Stromnetz bekannt hat. Nach Anschlagsversuchen in Brandenburg und Nordrhein-Westfalen wurden auch in Sachsen nahe Umspannwerken Sprengvorrichtungen entdeckt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/fahndung-sabotage-stromnetz-100.html",
+      "publishedAt": "2026-09-05T07:07:09.000Z"
+    },
+    {
+      "id": "n_26a2a3b4d7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Warum Schweden seine Gefangenen in Estland unterbringt",
+      "summary": "Steigende Kriminalität und verschärftes Strafrecht - in Schwedens Gefängnissen wird der Platz knapp. Das Land verlegt deshalb jetzt einen Teil seiner Häftlinge nach Estland. Es ist ein Deal, der nicht unumstritten ist. Von Christian Stichler.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/schweden-estland-haeftlinge-100.html",
+      "publishedAt": "2026-09-05T06:10:34.000Z"
+    },
+    {
+      "id": "n_7de5e0dc01",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ist Sachsen-Anhalt wirtschaftlich abgehängt?",
+      "summary": "Die Wirtschaftslage ist bei der Wahl in Sachsen-Anhalt ein wichtiges Thema. Das Bundesland altert und schrumpft, die Arbeitslosigkeit ist eher hoch. Manche Sorgen kennen aber auch Westregionen - und es gibt Standort-Vorteile. Von Bianca von der Au.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/sachsen-anhalt-wirtschaft-wahl-afd-100.html",
+      "publishedAt": "2026-09-05T05:25:59.000Z"
+    },
+    {
+      "id": "n_1bdf81a978",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "So ist die Stimmung vor der Landtagswahl in Sachsen-Anhalt",
+      "summary": "Vor der Landtagswahl in Sachsen-Anhalt dominieren Unzufriedenheit und Misstrauen. Die AfD führt in Umfragen. Integration, Bildung und Wirtschaft sind die wichtigsten Themen. Von Katharina Gebauer.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-stimmung-themen-100.html",
+      "publishedAt": "2026-09-05T05:25:50.000Z"
+    },
+    {
+      "id": "n_a79ff3afde",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Friedensbemühungen - Trump-Gesandte reisen nach Moskau und Kiew",
+      "summary": "US-Präsident Trump entsendet seine Unterhändler Witkoff und Kushner zu neuen Gesprächen über ein Ende des russischen Angriffskrieges gegen die Ukraine. Es sollen diesmal auch Verhandlungen in Kiew geplant sein.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-russland-witkoff-kushner-100.html",
+      "publishedAt": "2026-09-05T04:26:54.000Z"
+    },
     {
       "id": "n_6aaeefb5ef",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "UN stimmen für neue Weltkarte - Afrika wächst",
-      "summary": "Afrika soll größer werden - zumindest auf der Weltkarte. Die UN haben für eine neue Karte gestimmt, die das tatsächliche Größenverhältnis besser abbilden soll. Nur die USA waren dagegen.",
+      "headline": "UN-Vollversammlung stimmt für neue Weltkarte - Afrika wächst",
+      "summary": "Die bisherige Weltkarte stammt aus dem 16. Jahrhundert - und stellt Afrika deutlich zu klein dar. Daher hat die UN-Vollversammlung für eine neue Karte gestimmt, die das tatsächliche Größenverhältnis besser abbilden soll. Nur die USA waren dagegen.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/afrika/un-weltkarte-afrika-100.html",
       "publishedAt": "2026-09-05T00:12:20.000Z"
@@ -33,61 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-sbu-100.html",
       "publishedAt": "2026-09-04T19:34:14.000Z"
-    },
-    {
-      "id": "n_9f69ad705b",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Sabotage an Umspannwerken - Polizei fahndet nach Verdächtigem aus NRW",
-      "summary": "Nach der Sabotage an Umspannwerken in Nordrhein-Westfalen und Brandenburg fahndet die Polizei nach einem Verdächtigen. Der Mann hatte Bekennerschreiben verfasst. Ob er aber auch der Täter ist, ist noch offen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/sabotageversuche-dobrindt-reul-100.html",
-      "publishedAt": "2026-09-04T19:30:24.000Z"
-    },
-    {
-      "id": "n_6506a86596",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Hacker veröffentlichen Daten nach Angriff auf Berliner Landesnetz",
-      "summary": "Nach dem Hackerangriff auf die Berliner Landesverwaltung haben Cyberkriminelle etliche gestohlene Daten im Internet zum Herunterladen veröffentlicht. Zuvor war ein Ultimatum abgelaufen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/berlin/hackergruppe-berlin-daten-veroeffentlichung-100.html",
-      "publishedAt": "2026-09-04T18:46:40.000Z"
-    },
-    {
-      "id": "n_96c820f1d2",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wie kann die kritische Infrastruktur besser geschützt werden?",
-      "summary": "Die jüngsten Ereignisse haben gezeigt, wie anfällig kritische Infrastruktur in Deutschland ist. Stromnetze, Flughäfen und Wasserwerke müssen besser geschützt werden. Wie ist das möglich? Von Theo Steinbach.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/schutz-kritische-infrastruktur-100.html",
-      "publishedAt": "2026-09-04T16:59:41.000Z"
-    },
-    {
-      "id": "n_5a82021609",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wie geht es im Thüringer Landtag nun weiter?",
-      "summary": "Der Dauerstreit des Thüringer BSW mit Parteigründerin Wagenknecht ist eskaliert, die Mehrheit der Landtagsabgeordneten verlässt die Partei. Welche Optionen hat die Fraktion nun? Und was bedeutet das für die Regierungskoalition?",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/thueringen-wie-geht-es-weiter-100.html",
-      "publishedAt": "2026-09-04T16:46:03.000Z"
-    },
-    {
-      "id": "n_c88de50e92",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "EU verzeichnet neue Höchststände bei Syphilis und Tripper",
-      "summary": "Die Zahl sexuell übertragbarer Bakterieninfektionen hat in der EU stark zugenommen. Einige der Krankheiten gehen mit drastischen Symptomen einher. Dabei ist der Schutz ganz einfach: Kondome. Von Joachim Budde.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/tag-der-sexuellen-gesundheit-100.html",
-      "publishedAt": "2026-09-04T16:10:06.000Z"
     },
     {
       "id": "n_8b1bf09805",
@@ -178,6 +178,17 @@
       "publishedAt": "2026-09-04T14:26:00.000Z"
     },
     {
+      "id": "n_a2402796f4",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Garmin Fenix 9 Pro im Test: Großes Upgrade - aber längst nicht für alle",
+      "summary": "Die Fenix 9 Pro bietet schnellere Karten, besseres Training und Satelliten-SOS. Für Besitzer des Vorgängers lohnt sich das Upgrade nur selten. Ein Test von Peter Steinlechner (Garmin Fenix, Garmin)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/garmin-fenix-9-pro-im-test-grosses-upgrade-aber-laengst-nicht-fuer-alle-2609-212595.html",
+      "publishedAt": "2026-09-05T05:30:02.000Z"
+    },
+    {
       "id": "n_5c009959ad",
       "type": "news",
       "topic": "tech",
@@ -255,15 +266,81 @@
       "publishedAt": "2026-09-04T15:22:02.000Z"
     },
     {
-      "id": "n_ff98ea1b73",
+      "id": "n_f92b4cd96f",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Unrechtmäßige Dazn-Preiserhöhung: Verbraucherzentrale weist auf Sammelklage hin",
-      "summary": "Betroffene der einseitigen Preiserhöhungen des Streamingdienstes Dazn können sich im Klageregister eintragen. (Dazn, Verbraucherschutz)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/unrechtmaessige-dazn-preiserhoehung-verbraucherzentrale-weist-auf-sammelklage-hin-2609-212676.html",
-      "publishedAt": "2026-09-04T15:15:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Why did USS Lincoln turn up in Thailand looking so rusty?",
+      "summary": "When the USS Abraham Lincoln docked in Thailand this week some people were quick to criticise the condition it was in.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c4gr9y1ny3xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T06:53:20.000Z"
+    },
+    {
+      "id": "n_38bd10b374",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
+      "summary": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T06:37:46.000Z"
+    },
+    {
+      "id": "n_07da5d49e7",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "At least two dead in blast at Bolivia military barracks",
+      "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T06:00:05.000Z"
+    },
+    {
+      "id": "n_af2f5b8966",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+      "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T04:28:21.000Z"
+    },
+    {
+      "id": "n_8e9bc2d2e6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
+      "summary": "Russian forces were brought in to help defeat jihadists but they also defend the military leadership in Niger.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T04:03:51.000Z"
+    },
+    {
+      "id": "n_ee1a1164e1",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "How much can Canada fight back in its trade war with the US?",
+      "summary": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T02:13:21.000Z"
+    },
+    {
+      "id": "n_981b798dde",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Why are European countries moving their gold out of North America?",
+      "summary": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T01:42:09.000Z"
     },
     {
       "id": "n_9570969d26",
@@ -275,83 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-05T01:16:27.000Z"
-    },
-    {
-      "id": "n_019b2f5a17",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "UN votes to adopt new world map to reflect Africa's true size",
-      "summary": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T00:53:11.000Z"
-    },
-    {
-      "id": "n_d86a7d9082",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Germany's far-right AfD bids for first taste of power in eastern vote",
-      "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T23:07:23.000Z"
-    },
-    {
-      "id": "n_ab7c596249",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-      "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T22:48:38.000Z"
-    },
-    {
-      "id": "n_d3ad7d37bf",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
-      "summary": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T22:02:52.000Z"
-    },
-    {
-      "id": "n_af2f5b8966",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-      "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T20:03:52.000Z"
-    },
-    {
-      "id": "n_537d21e471",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Argentine couple to return Nazi-looted painting to rightful owner",
-      "summary": "The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near Buenos Aires.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T17:14:21.000Z"
-    },
-    {
-      "id": "n_4217cb2605",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-      "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T16:49:15.000Z"
     },
     {
       "id": "n_46b60883e1",
@@ -968,6 +968,186 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
       "publishedAt": "2026-08-28T00:00:00.000Z"
+    },
+    {
+      "id": "n_f14a8fc519",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
+      "thumbnail": "https://i.ytimg.com/vi/B3LXEW4Pc-w/hqdefault.jpg",
+      "publishedAt": "2026-09-03T08:23:37.000Z"
+    },
+    {
+      "id": "n_afefdcee88",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "GLM 5.3: Powerful AI Is Becoming Almost Free",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
+      "thumbnail": "https://i.ytimg.com/vi/w9RDunJACkc/hqdefault.jpg",
+      "publishedAt": "2026-09-01T09:04:56.000Z"
+    },
+    {
+      "id": "n_0638f3b98b",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The Billion Dollar AI Gap Is Collapsing",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
+      "thumbnail": "https://i.ytimg.com/vi/LBiNcdGNgrg/hqdefault.jpg",
+      "publishedAt": "2026-08-28T09:44:44.000Z"
+    },
+    {
+      "id": "n_39fab27727",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DeepSeek’s New AI System Shouldn’t Be Possible",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
+      "thumbnail": "https://i.ytimg.com/vi/L9mMfAFwbl4/hqdefault.jpg",
+      "publishedAt": "2026-08-26T13:10:13.000Z"
+    },
+    {
+      "id": "n_ffdb3dfd14",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
+      "publishedAt": "2026-08-26T21:44:41.000Z"
+    },
+    {
+      "id": "n_6a18d8c315",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
+      "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
+      "publishedAt": "2026-08-12T12:57:24.000Z"
+    },
+    {
+      "id": "n_49a7d5405f",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
+      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
+      "publishedAt": "2026-07-28T20:02:11.000Z"
+    },
+    {
+      "id": "n_39feb22ff6",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
+      "thumbnail": "https://i.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
+      "publishedAt": "2026-06-30T21:16:13.000Z"
+    },
+    {
+      "id": "n_cedb5d5fd8",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Did OpenAI actually build AGI? GPT-6 Astra first look",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=FluKUJyeYD8",
+      "thumbnail": "https://i.ytimg.com/vi/FluKUJyeYD8/hqdefault.jpg",
+      "publishedAt": "2026-09-04T20:14:12.000Z"
+    },
+    {
+      "id": "n_41b8d826b3",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The most interesting hack in history just got weirder...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=0Rp9KJCEIvg",
+      "thumbnail": "https://i.ytimg.com/vi/0Rp9KJCEIvg/hqdefault.jpg",
+      "publishedAt": "2026-09-02T19:01:28.000Z"
+    },
+    {
+      "id": "n_0bc1e159ad",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The mystery is solved... and the answer is 40x cheaper than Claude",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=r-tzcMlQISk",
+      "thumbnail": "https://i.ytimg.com/vi/r-tzcMlQISk/hqdefault.jpg",
+      "publishedAt": "2026-09-01T17:31:27.000Z"
+    },
+    {
+      "id": "n_d4a1282ff3",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The most expensive software bug in history...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=UuqSy1jPSUw",
+      "thumbnail": "https://i.ytimg.com/vi/UuqSy1jPSUw/hqdefault.jpg",
+      "publishedAt": "2026-08-27T17:48:13.000Z"
+    },
+    {
+      "id": "n_3c40a2bec8",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "I Made a Bet with Tesla",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=fo-uubnajWM",
+      "thumbnail": "https://i.ytimg.com/vi/fo-uubnajWM/hqdefault.jpg",
+      "publishedAt": "2026-09-04T01:18:34.000Z"
+    },
+    {
+      "id": "n_a5e182c8fe",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The Truth About the Bezelless Concept Phone",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=ngPkbaZliaU",
+      "thumbnail": "https://i.ytimg.com/vi/ngPkbaZliaU/hqdefault.jpg",
+      "publishedAt": "2026-08-24T20:27:50.000Z"
+    },
+    {
+      "id": "n_af9184c60b",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "I Said Yes to Every Email for a Month! (Again)",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=mfmdXPT7nAM",
+      "thumbnail": "https://i.ytimg.com/vi/mfmdXPT7nAM/hqdefault.jpg",
+      "publishedAt": "2026-08-21T18:53:07.000Z"
     }
   ]
 }
