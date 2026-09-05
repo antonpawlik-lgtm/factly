@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-04T19:58:26.550Z",
+  "generatedAt": "2026-09-05T01:41:26.796Z",
   "items": [
+    {
+      "id": "n_6aaeefb5ef",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "UN stimmen für neue Weltkarte - Afrika wächst",
+      "summary": "Afrika soll größer werden - zumindest auf der Weltkarte. Die UN haben für eine neue Karte gestimmt, die das tatsächliche Größenverhältnis besser abbilden soll. Nur die USA waren dagegen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/afrika/un-weltkarte-afrika-100.html",
+      "publishedAt": "2026-09-05T00:12:20.000Z"
+    },
+    {
+      "id": "n_438cfba9f7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Neue Vorwürfe gegen Farages Rechtspopulisten",
+      "summary": "Die britischen Rechtspopulisten von Reform UK um Nigel Farage haben ihren Parteitag fortgesetzt - und müssen sich mit neuen Vorwürfen auseinandersetzen. Wieder geht es um Geld. Von Franziska Hoppen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-farage-104.html",
+      "publishedAt": "2026-09-04T22:05:27.000Z"
+    },
     {
       "id": "n_b8aebf5908",
       "type": "news",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wissen/tag-der-sexuellen-gesundheit-100.html",
       "publishedAt": "2026-09-04T16:10:06.000Z"
-    },
-    {
-      "id": "n_cb31b674f6",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: DAX-Anleger bleiben vorsichtig",
-      "summary": "Trotz guter Nachrichten aus dem VW-Konzern hat sich der DAX heute nur wenig bewegt. Zins- und Inflationssorgen bleiben. Auch die Wall Street schwächelt nach neuen Daten vom Arbeitsmarkt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-leitzins-geldanlage-100.html",
-      "publishedAt": "2026-09-04T16:09:28.000Z"
-    },
-    {
-      "id": "n_232f213224",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Bas fordert Erhalt der VW-Produktionsstätten in Deutschland",
-      "summary": "Bundesarbeitsministerin Bas fordert vom Autobauer VW, die Werke in Neckarsulm, Hannover, Emden und Zwickau zu sichern. Die Bundesregierung hofft vage auf \"zukunftsfähige Lösungen\". Tausende Stellen bei VW könnten wegbrechen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/vw-sparmassnahmen-politische-reaktionen-100.html",
-      "publishedAt": "2026-09-04T14:12:47.000Z"
     },
     {
       "id": "n_8b1bf09805",
@@ -266,15 +266,70 @@
       "publishedAt": "2026-09-04T15:15:02.000Z"
     },
     {
+      "id": "n_9570969d26",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Flock says its cameras make US safer - so why are they being sabotaged?",
+      "summary": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T01:16:27.000Z"
+    },
+    {
       "id": "n_019b2f5a17",
       "type": "news",
       "topic": "general",
       "lang": "en",
       "headline": "UN votes to adopt new world map to reflect Africa's true size",
-      "summary": "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.",
+      "summary": "The Togo-sponsored resolution was backed by 164 nations - with the US as the only nation to vote against it.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T19:44:40.000Z"
+      "publishedAt": "2026-09-05T00:53:11.000Z"
+    },
+    {
+      "id": "n_d86a7d9082",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Germany's far-right AfD bids for first taste of power in eastern vote",
+      "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T23:07:23.000Z"
+    },
+    {
+      "id": "n_ab7c596249",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+      "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T22:48:38.000Z"
+    },
+    {
+      "id": "n_d3ad7d37bf",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
+      "summary": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T22:02:52.000Z"
+    },
+    {
+      "id": "n_af2f5b8966",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+      "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T20:03:52.000Z"
     },
     {
       "id": "n_537d21e471",
@@ -299,59 +354,15 @@
       "publishedAt": "2026-09-04T16:49:15.000Z"
     },
     {
-      "id": "n_af2f5b8966",
+      "id": "n_46b60883e1",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-      "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
+      "headline": "Tech Now",
+      "summary": "Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T16:30:50.000Z"
-    },
-    {
-      "id": "n_2812aaa9cb",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-      "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T16:02:32.000Z"
-    },
-    {
-      "id": "n_342e01d3bf",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-      "summary": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T14:40:00.000Z"
-    },
-    {
-      "id": "n_da8eaee1de",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Body of world's youngest traditional king returns home to Uganda amid succession row",
-      "summary": "King Oyo died in the US last week aged 34 after receiving treatment for an aggressive form of cancer.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T13:00:44.000Z"
-    },
-    {
-      "id": "n_89282106da",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
-      "summary": "Palestinian teenagers Omar al-Naasan and Khalil Abu Alia were shot dead when Israeli settlers and soldiers entered a village in the occupied West Bank.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T12:39:05.000Z"
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0031d1p?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T01:00:00.000Z"
     },
     {
       "id": "n_3152bdb0ea",
@@ -431,15 +442,48 @@
       "publishedAt": "2026-09-03T07:20:23.000Z"
     },
     {
-      "id": "n_970f8b61bf",
+      "id": "n_3ee62c9aa7",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
-      "summary": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T23:36:49.000Z"
+      "headline": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
+      "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+      "publishedAt": "2026-09-04T22:49:17.000Z"
+    },
+    {
+      "id": "n_680bad5aa9",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "publishedAt": "2026-09-04T22:17:36.000Z"
+    },
+    {
+      "id": "n_6756f32e5a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
+      "summary": "\"It’s long past time for RFK to stop playing games with people’s lives.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
+      "publishedAt": "2026-09-04T20:22:41.000Z"
+    },
+    {
+      "id": "n_25e3bbb955",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
+      "summary": "FCC tells court it is “open-minded\" about whether ABC should lose licenses.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
+      "publishedAt": "2026-09-04T19:46:34.000Z"
     },
     {
       "id": "n_a05f06c61f",
@@ -486,48 +530,37 @@
       "publishedAt": "2026-09-04T16:57:24.000Z"
     },
     {
-      "id": "n_53652dd831",
+      "id": "n_266031deb4",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "A ratings board wouldn't let Valve release a trailer. It \"leaked\" it instead.",
-      "summary": "\"I think we can't get in trouble for that now. It's like 20 years ago.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/",
-      "publishedAt": "2026-09-04T16:42:53.000Z"
+      "headline": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "publishedAt": "2026-09-04T23:36:14.000Z"
     },
     {
-      "id": "n_16a96e2c89",
+      "id": "n_a2ddce03d4",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Second complete map of a fruit fly brain completed",
-      "summary": "Every neuron and connection in the brain of a fly has been mapped—twice.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/",
-      "publishedAt": "2026-09-04T16:24:24.000Z"
+      "headline": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "publishedAt": "2026-09-04T23:15:11.000Z"
     },
     {
-      "id": "n_980af6a6b7",
+      "id": "n_2f64692ac0",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
-      "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
-      "publishedAt": "2026-09-04T16:22:18.000Z"
-    },
-    {
-      "id": "n_5c448f94fc",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Musk wins court order to block use of “Twitter,” but not “tweet” and bird logo",
-      "summary": "Saying X is “formerly Twitter” in App Store lets Musk block use of Twitter name.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/musk-wins-court-order-to-block-use-of-twitter-but-not-tweet-and-bird-logo/",
-      "publishedAt": "2026-09-04T15:59:47.000Z"
+      "headline": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "publishedAt": "2026-09-04T21:12:11.000Z"
     },
     {
       "id": "n_4fd0827aa9",
@@ -583,39 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
       "publishedAt": "2026-09-04T14:00:00.000Z"
-    },
-    {
-      "id": "n_73d7f7bb41",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The sameness problem behind those unappetizing AI-generated menus",
-      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "publishedAt": "2026-09-04T04:21:03.000Z"
-    },
-    {
-      "id": "n_49b35d8af9",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Crusoe reportedly raises $3B at a $30B valuation",
-      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "publishedAt": "2026-09-04T00:48:42.000Z"
-    },
-    {
-      "id": "n_46fa5743a6",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-      "publishedAt": "2026-09-03T19:36:29.000Z"
     },
     {
       "id": "n_480cff7899",
@@ -968,186 +968,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
       "publishedAt": "2026-08-28T00:00:00.000Z"
-    },
-    {
-      "id": "n_f14a8fc519",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
-      "thumbnail": "https://i.ytimg.com/vi/B3LXEW4Pc-w/hqdefault.jpg",
-      "publishedAt": "2026-09-03T08:23:37.000Z"
-    },
-    {
-      "id": "n_afefdcee88",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "GLM 5.3: Powerful AI Is Becoming Almost Free",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
-      "thumbnail": "https://i.ytimg.com/vi/w9RDunJACkc/hqdefault.jpg",
-      "publishedAt": "2026-09-01T09:04:56.000Z"
-    },
-    {
-      "id": "n_0638f3b98b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Billion Dollar AI Gap Is Collapsing",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
-      "thumbnail": "https://i.ytimg.com/vi/LBiNcdGNgrg/hqdefault.jpg",
-      "publishedAt": "2026-08-28T09:44:44.000Z"
-    },
-    {
-      "id": "n_39fab27727",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek’s New AI System Shouldn’t Be Possible",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
-      "thumbnail": "https://i.ytimg.com/vi/L9mMfAFwbl4/hqdefault.jpg",
-      "publishedAt": "2026-08-26T13:10:13.000Z"
-    },
-    {
-      "id": "n_ffdb3dfd14",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
-      "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_6a18d8c315",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
-      "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
-      "publishedAt": "2026-08-12T12:57:24.000Z"
-    },
-    {
-      "id": "n_49a7d5405f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
-      "publishedAt": "2026-07-28T20:02:11.000Z"
-    },
-    {
-      "id": "n_39feb22ff6",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
-      "thumbnail": "https://i.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
-      "publishedAt": "2026-06-30T21:16:13.000Z"
-    },
-    {
-      "id": "n_41b8d826b3",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The most interesting hack in history just got weirder...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=0Rp9KJCEIvg",
-      "thumbnail": "https://i.ytimg.com/vi/0Rp9KJCEIvg/hqdefault.jpg",
-      "publishedAt": "2026-09-02T19:01:28.000Z"
-    },
-    {
-      "id": "n_0bc1e159ad",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The mystery is solved... and the answer is 40x cheaper than Claude",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=r-tzcMlQISk",
-      "thumbnail": "https://i.ytimg.com/vi/r-tzcMlQISk/hqdefault.jpg",
-      "publishedAt": "2026-09-01T17:31:27.000Z"
-    },
-    {
-      "id": "n_d4a1282ff3",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The most expensive software bug in history...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=UuqSy1jPSUw",
-      "thumbnail": "https://i.ytimg.com/vi/UuqSy1jPSUw/hqdefault.jpg",
-      "publishedAt": "2026-08-27T17:48:13.000Z"
-    },
-    {
-      "id": "n_f978bd3ac8",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek is back... and Silicon Valley is terrified",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=xBByvFrqmWU",
-      "thumbnail": "https://i.ytimg.com/vi/xBByvFrqmWU/hqdefault.jpg",
-      "publishedAt": "2026-08-20T17:53:37.000Z"
-    },
-    {
-      "id": "n_3c40a2bec8",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "I Made a Bet with Tesla",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=fo-uubnajWM",
-      "thumbnail": "https://i.ytimg.com/vi/fo-uubnajWM/hqdefault.jpg",
-      "publishedAt": "2026-09-04T01:18:34.000Z"
-    },
-    {
-      "id": "n_a5e182c8fe",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Truth About the Bezelless Concept Phone",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=ngPkbaZliaU",
-      "thumbnail": "https://i.ytimg.com/vi/ngPkbaZliaU/hqdefault.jpg",
-      "publishedAt": "2026-08-24T20:27:50.000Z"
-    },
-    {
-      "id": "n_af9184c60b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "I Said Yes to Every Email for a Month! (Again)",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=mfmdXPT7nAM",
-      "thumbnail": "https://i.ytimg.com/vi/mfmdXPT7nAM/hqdefault.jpg",
-      "publishedAt": "2026-08-21T18:53:07.000Z"
     }
   ]
 }
