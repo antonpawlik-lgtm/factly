@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-05T19:38:29.078Z",
+  "generatedAt": "2026-09-05T22:25:14.811Z",
   "items": [
+    {
+      "id": "n_170b1cc13d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Rakete Spectrum erreicht Orbit - \"Deutschland kann Raumfahrt\"",
+      "summary": "Meilenstein in der deutschen Raumfahrtgeschichte: Die Trägerrakete Spectrum hat bei einem Testflug vom norwegischen Weltraumbahnhof Andøya aus den Orbit erreicht. Das Raketen-Unternehmen spricht von einer europäischen Premiere.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wissen/isar-aerospace-rakete-102.html",
+      "publishedAt": "2026-09-05T22:20:33.000Z"
+    },
+    {
+      "id": "n_db7c6d1197",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "US-Sondergesandte Witkoff und Kushner treffen Putin in Moskau",
+      "summary": "Mit einer \"Idee für den Frieden\" sind die US-Sondergesandten Witkoff und Kushner nach Russland gereist und dort von Präsident Putin empfangen worden. Details des Friedensplans bleiben unbekannt - als nächstes wird er in Kiew vorgestellt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-treffen-putin-100.html",
+      "publishedAt": "2026-09-05T20:42:55.000Z"
+    },
     {
       "id": "n_c11f2571f2",
       "type": "news",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-koalition-optionen-100.html",
       "publishedAt": "2026-09-05T15:08:27.000Z"
-    },
-    {
-      "id": "n_4d505042dd",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Vermummte legen Hafen im südenglischen Dover lahm",
-      "summary": "Mit Sturmhauben maskierte Personen haben zeitweise den Verkehr im südenglischen Hafen von Dover lahmgelegt. Offenbar handelte es sich um eine Protestaktion gegen Migranten, die regelmäßig in Schlauchbooten an der britischen Küste ankommen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/blockade-hafen-dover-100.html",
-      "publishedAt": "2026-09-05T14:42:26.000Z"
-    },
-    {
-      "id": "n_10b92c0d2a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Vor den Wahlen in Ostdeutschland: Engagiert - und trotzdem machtlos",
-      "summary": "Ob Fußballverein in Berlin, Krankenhausinitiative in Sachsen-Anhalt oder Bürgermeister in Mecklenburg-Vorpommern: Sie alle wollen etwas bewegen - und stoßen dabei immer wieder an Grenzen. Das kann Vertrauen in die Politik kosten. Von C. Bazydlo.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/wahlen-osten-stimmung-100.html",
-      "publishedAt": "2026-09-05T14:09:11.000Z"
     },
     {
       "id": "n_8b1bf09805",
@@ -274,7 +274,29 @@
       "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T19:01:31.000Z"
+      "publishedAt": "2026-09-05T21:39:02.000Z"
+    },
+    {
+      "id": "n_d31b4f8c91",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "TV presenter among 11 sentenced to death in Egypt drugs case",
+      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T21:29:38.000Z"
+    },
+    {
+      "id": "n_5ef7d85089",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Prince William to attend King Harald's funeral in Norway",
+      "summary": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T21:00:02.000Z"
     },
     {
       "id": "n_84a48662e5",
@@ -282,10 +304,10 @@
       "topic": "general",
       "lang": "en",
       "headline": "US hits three Iranian oil tankers after saying its warships were targeted",
-      "summary": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
+      "summary": "Iran's state media reported that Tehran has launched retaliatory attacks against three US-affiliated vessels; the US is yet to comment.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T18:48:37.000Z"
+      "publishedAt": "2026-09-05T20:41:59.000Z"
     },
     {
       "id": "n_24fd29acb2",
@@ -330,28 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-05T10:02:29.000Z"
-    },
-    {
-      "id": "n_4a7dca476c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump signs order to remove endangered species protection for grey wolves",
-      "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T09:12:48.000Z"
-    },
-    {
-      "id": "n_ebcfd7b3db",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "How might Lindsay Clancy’s case have unfolded in another country?",
-      "summary": "The US mother was on trial for strangling her three children. In other western countries, there’s a specific law for mums who kill their young children.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cqlw6q0xv4zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T09:12:34.000Z"
     },
     {
       "id": "n_46b60883e1",
@@ -1114,6 +1114,18 @@
       "publishedAt": "2026-08-27T17:48:13.000Z"
     },
     {
+      "id": "n_166d86fc1e",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Google Pixel 11/Pro Review: Poker Face",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=ANmTVYkEtLw",
+      "thumbnail": "https://i.ytimg.com/vi/ANmTVYkEtLw/hqdefault.jpg",
+      "publishedAt": "2026-09-05T21:18:49.000Z"
+    },
+    {
       "id": "n_3c40a2bec8",
       "type": "video",
       "topic": "video",
@@ -1136,18 +1148,6 @@
       "url": "https://www.youtube.com/watch?v=ngPkbaZliaU",
       "thumbnail": "https://i.ytimg.com/vi/ngPkbaZliaU/hqdefault.jpg",
       "publishedAt": "2026-08-24T20:27:50.000Z"
-    },
-    {
-      "id": "n_af9184c60b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "I Said Yes to Every Email for a Month! (Again)",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=mfmdXPT7nAM",
-      "thumbnail": "https://i.ytimg.com/vi/mfmdXPT7nAM/hqdefault.jpg",
-      "publishedAt": "2026-08-21T18:53:07.000Z"
     }
   ]
 }
