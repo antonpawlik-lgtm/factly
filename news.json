@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-05T22:25:14.811Z",
+  "generatedAt": "2026-09-06T01:35:15.271Z",
   "items": [
+    {
+      "id": "n_db7c6d1197",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "US-Sondergesandte Witkoff und Kushner treffen Putin in Moskau",
+      "summary": "Mit einer \"Idee für den Frieden\" sind die US-Sondergesandten Witkoff und Kushner nach Russland gereist und dort von Präsident Putin empfangen worden. Ein Kreml-Berater spricht von \"äußerst nützlichen\" Gesprächen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-treffen-putin-100.html",
+      "publishedAt": "2026-09-05T22:58:14.000Z"
+    },
     {
       "id": "n_170b1cc13d",
       "type": "news",
@@ -11,17 +22,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wissen/isar-aerospace-rakete-102.html",
       "publishedAt": "2026-09-05T22:20:33.000Z"
-    },
-    {
-      "id": "n_db7c6d1197",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "US-Sondergesandte Witkoff und Kushner treffen Putin in Moskau",
-      "summary": "Mit einer \"Idee für den Frieden\" sind die US-Sondergesandten Witkoff und Kushner nach Russland gereist und dort von Präsident Putin empfangen worden. Details des Friedensplans bleiben unbekannt - als nächstes wird er in Kiew vorgestellt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-treffen-putin-100.html",
-      "publishedAt": "2026-09-05T20:42:55.000Z"
     },
     {
       "id": "n_c11f2571f2",
@@ -274,7 +274,51 @@
       "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T21:39:02.000Z"
+      "publishedAt": "2026-09-06T01:10:25.000Z"
+    },
+    {
+      "id": "n_947a2d4550",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
+      "summary": "Haitian immigrants make up a large portion of the already overburdened home-care workforce.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T00:17:05.000Z"
+    },
+    {
+      "id": "n_750a18cc30",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
+      "summary": "Ukraine's third-biggest city Odesa decides this week whether to ban Russian-language content in music and literature in public.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T23:54:07.000Z"
+    },
+    {
+      "id": "n_4a2a530054",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+      "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T23:20:00.000Z"
+    },
+    {
+      "id": "n_84a48662e5",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US and Iran trade retaliatory attacks on ships as conflict flares",
+      "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T22:44:07.000Z"
     },
     {
       "id": "n_d31b4f8c91",
@@ -299,17 +343,6 @@
       "publishedAt": "2026-09-05T21:00:02.000Z"
     },
     {
-      "id": "n_84a48662e5",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US hits three Iranian oil tankers after saying its warships were targeted",
-      "summary": "Iran's state media reported that Tehran has launched retaliatory attacks against three US-affiliated vessels; the US is yet to comment.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T20:41:59.000Z"
-    },
-    {
       "id": "n_24fd29acb2",
       "type": "news",
       "topic": "general",
@@ -319,39 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-05T16:14:24.000Z"
-    },
-    {
-      "id": "n_07da5d49e7",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "At least two dead in blast at Bolivia military barracks",
-      "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T15:22:41.000Z"
-    },
-    {
-      "id": "n_d3ad7d37bf",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
-      "summary": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T14:07:38.000Z"
-    },
-    {
-      "id": "n_38bd10b374",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
-      "summary": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T10:02:29.000Z"
     },
     {
       "id": "n_46b60883e1",
@@ -530,6 +530,17 @@
       "publishedAt": "2026-09-04T17:18:12.000Z"
     },
     {
+      "id": "n_a5bf96dbe6",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "publishedAt": "2026-09-05T22:49:55.000Z"
+    },
+    {
       "id": "n_e2a0f6185b",
       "type": "news",
       "topic": "ai",
@@ -605,17 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
       "publishedAt": "2026-09-04T16:21:11.000Z"
-    },
-    {
-      "id": "n_668e14479e",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-      "summary": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Coo",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-      "publishedAt": "2026-09-04T16:04:08.000Z"
     },
     {
       "id": "n_ac5a64ceef",
