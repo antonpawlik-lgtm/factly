@@ -1,16 +1,27 @@
 {
-  "generatedAt": "2026-09-07T18:54:04.065Z",
+  "generatedAt": "2026-09-07T23:06:31.301Z",
   "items": [
     {
       "id": "n_ebb2efdede",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Liveticker zur Sachsen-Anhalt-Wahl: ++ ARD-DeutschlandTrend: Viele sind besorgt ++",
-      "summary": "Laut einer repräsentativen Blitzumfrage der ARD sieht eine deutliche Mehrheit der Deutschen das Wahlergebnis der AfD in Sachsen-Anhalt mit Sorge. In Berlin hat es eine Protestaktion gegen die AfD am Brandenburger Tor gegeben.",
+      "headline": "Liveticker zur Sachsen-Anhalt-Wahl: ++ Sepp Müller will als CDU-Landeschef kandidieren ++",
+      "summary": "Im Spätherbst will die CDU in Sachsen-Anhalt einen neuen neuen Vorstand wählen. Der Bundestagsabgeordnete Sepp Müller will dann für den Landesvorsitz kandidieren. In Berlin hat es eine Protestaktion gegen die AfD am Brandenburger Tor gegeben.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-montag-100.html",
-      "publishedAt": "2026-09-07T18:48:24.000Z"
+      "publishedAt": "2026-09-07T21:16:35.000Z"
+    },
+    {
+      "id": "n_c47c0392d3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "ARD-DeutschlandTrend: Zwei Drittel schauen besorgt nach Sachsen-Anhalt",
+      "summary": "Eine Mehrheit der Deutschen blickt mit Sorge auf den Ausgang der Wahl in Sachsen-Anhalt. Im DeutschlandTrend extra ist zugleich jeder Zweite der Meinung, die anderen Parteien sollten die AfD stärker einbinden. Von J. Schönenborn.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/deutschlandtrend/sachsen-anhalt-wahlergebnis-100.html",
+      "publishedAt": "2026-09-07T19:11:43.000Z"
     },
     {
       "id": "n_cab251b933",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/russland-schliessung-konsulat-100.html",
       "publishedAt": "2026-09-07T15:49:18.000Z"
-    },
-    {
-      "id": "n_3798cba951",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Strafverfahren gegen Sänger Xavier Naidoo eröffnet",
-      "summary": "Xavier Naidoo muss sich vor Gericht wegen des Vorwurfs der Volksverhetzung und Beleidigung verantworten. Das Landgericht Mannheim hat eine entsprechende Anklage der Staatsanwaltschaft von 2023 zugelassen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/strafverfahren-saenger-xavier-naidoo-100.html",
-      "publishedAt": "2026-09-07T15:39:40.000Z"
     },
     {
       "id": "n_cede980d0e",
@@ -266,15 +266,26 @@
       "publishedAt": "2026-09-07T14:42:01.000Z"
     },
     {
-      "id": "n_85e21207cd",
+      "id": "n_c0fa9c1f63",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Investigators begin work on why cargo plane overran Miami runway",
-      "summary": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
+      "headline": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+      "summary": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T17:46:25.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T22:23:03.000Z"
+    },
+    {
+      "id": "n_a4d3815524",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Palestinian parents fear for children's lives at school as settler attacks grow",
+      "summary": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T21:12:37.000Z"
     },
     {
       "id": "n_a67d14f4bf",
@@ -343,15 +354,15 @@
       "publishedAt": "2026-09-07T14:04:01.000Z"
     },
     {
-      "id": "n_115206efe7",
+      "id": "n_5422e75d3f",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Israeli strikes in southern Lebanese village kill 12",
-      "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+      "headline": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+      "summary": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T13:39:23.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T23:05:12.000Z"
     },
     {
       "id": "n_348801b676",
@@ -418,17 +429,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-04T02:02:02.000Z"
-    },
-    {
-      "id": "n_9eabf52a09",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "'I lost my savings after a job interview scam'",
-      "summary": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T23:41:49.000Z"
     },
     {
       "id": "n_d1f74a46c4",
@@ -519,6 +519,17 @@
       "publishedAt": "2026-09-04T19:46:34.000Z"
     },
     {
+      "id": "n_bbd44de733",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Opaque recurrence, and other AI terms that you should probably know",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "publishedAt": "2026-09-07T19:24:00.000Z"
+    },
+    {
       "id": "n_6a3a62ca59",
       "type": "news",
       "topic": "ai",
@@ -594,17 +605,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
       "publishedAt": "2026-09-04T23:15:11.000Z"
-    },
-    {
-      "id": "n_2f64692ac0",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "publishedAt": "2026-09-04T21:12:11.000Z"
     },
     {
       "id": "n_2f083f991a",
@@ -1059,7 +1059,7 @@
       "type": "video",
       "topic": "video",
       "lang": "en",
-      "headline": "Big AI wants you broke... here are some free alternatives",
+      "headline": "5 open source tools that replaced my $320/mo AI stack...",
       "summary": "",
       "source": "Fireship",
       "url": "https://www.youtube.com/watch?v=Y5rSSvXfL4g",
