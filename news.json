@@ -1,38 +1,82 @@
 {
-  "generatedAt": "2026-09-06T22:30:14.967Z",
+  "generatedAt": "2026-09-07T07:36:44.822Z",
   "items": [
     {
-      "id": "n_89818aafa1",
+      "id": "n_ebb2efdede",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "++ Liveticker zur Sachsen-Anhalt-Wahl: Schulze verpasst Direktmandat in Magdeburg ++",
-      "summary": "CDU-Ministerpräsident Schulze hat im Wahlkreis Magdeburg III gegen den AfD-Kandidaten Mertens verloren. AfD-Spitzenkandidat Siegmund lehnt den Vorschlag des BSW eines überparteilichen Ministerpräsidenten ab.",
+      "headline": "++ Liveticker zur Sachsen-Anhalt-Wahl: Warken hält Personaldebatte über Merz für falsch ++",
+      "summary": "Kanzleramtschefin Warken hat vor den Beratungen der CDU-Spitze über das Wahlergebnis in Sachsen-Anhalt eine Ablösung von Bundeskanzler Merz ausgeschlossen. Grünen-Chef Banaszak appelliert an alle demokratischen Parteien gleichermaßen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-100.html",
-      "publishedAt": "2026-09-06T22:24:27.000Z"
+      "url": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-sachsen-anhalt-montag-100.html",
+      "publishedAt": "2026-09-07T07:09:38.000Z"
     },
     {
-      "id": "n_3137c6a5b4",
+      "id": "n_b2aa5a46f7",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Analyse zur Wahl in Sachsen-Anhalt: Ein Land - zwei Lager",
-      "summary": "Die AfD profitiert von der Unzufriedenheit der Menschen, aber sie überzeugt viele auch inhaltlich mehr als die anderen Parteien, wie Umfragen zeigen. Für die meisten Wähler in Sachsen-Anhalt war die Kernfrage: für oder gegen die AfD? Von H. Schwesinger.",
+      "headline": "Landtagswahl: \"Erst mal ist es ein Ergebnis für Sachsen-Anhalt\"",
+      "summary": "In Sachsen-Anhalt könnte erstmals ein AfD-Politiker Ministerpräsident werden. Politikwissenschaftlerin Petra Dobner bezeichnet die Wahl als historisch, warnt aber vor voreiligen Rückschlüssen auf die Bundespolitik.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-sachsen-anhalt-100.html",
-      "publishedAt": "2026-09-06T21:53:59.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-gruende-100.html",
+      "publishedAt": "2026-09-07T06:39:44.000Z"
     },
     {
-      "id": "n_58889cd022",
+      "id": "n_3cf543c630",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Kommentar zur Wahl in Sachsen-Anhalt: Ratlos mit Ansage",
-      "summary": "Die AfD hat die Wahl in Sachsen-Anhalt gewonnen. Das ist keine Überraschung. Doch weder Wahlsieger noch die anderen Parteien haben einen Plan, was sie mit dem Ergebnis machen, meint Gabor Halasz.",
+      "headline": "Signal an die USA: EU plant mehr Investitionen in Grönland",
+      "summary": "\"Wir sind Familie\", betonte EU-Kommissionspräsidentin von der Leyen bei ihrer Ankunft in Grönland. Nun will sie die Partnerschaft mit einem großen Finanzpaket stärken - auch als Signal gegen die Gebietsansprüche der USA.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kommentar/landtagswahl-sachsen-anhalt-afd-104.html",
-      "publishedAt": "2026-09-06T21:52:36.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/eu-investitionen-groenland-100.html",
+      "publishedAt": "2026-09-07T06:38:27.000Z"
+    },
+    {
+      "id": "n_a23956815e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: DAX muss sich auf hohem Niveau behaupten",
+      "summary": "Der DAX muss sich in der neuen Woche behaupten. Dabei blicken Anleger auf die Zinsentscheidung der Europäischen Zentralbank. Außerdem dürfte Investoren die Landtagswahl in Sachsen-Anhalt beschäftigen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-oel-100.html",
+      "publishedAt": "2026-09-07T05:27:03.000Z"
+    },
+    {
+      "id": "n_ededaa21a2",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Gegenseitige Angriffe: Schiffsverkehr in Straße von Hormus eingebrochen",
+      "summary": "Die USA und Iran greifen immer wieder Tanker in der Straße von Hormus an. Der Schiffsverkehr in der Meerenge ist auf dem niedrigsten Stand seit Mai. Iran plant außerdem die Einrichtung einer Sperrzone.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/iran-strasse-von-hormus-100.html",
+      "publishedAt": "2026-09-07T03:27:09.000Z"
+    },
+    {
+      "id": "n_091d238dca",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach der Wahl: Wie geht es weiter?",
+      "summary": "Die Wahl in Sachsen-Anhalt ist gelaufen, doch die Regierungsbildung dürfte kompliziert werden. Was sind die nächsten Schritte? Bis wann muss ein Ministerpräsident gewählt werden? Ein Überblick. Von F. Bräutigam, A. Tadey und K. Schwartz.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-faq-100.html",
+      "publishedAt": "2026-09-07T02:55:15.000Z"
+    },
+    {
+      "id": "n_0528898944",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wahlergebnis in Sachsen-Anhalt: AfD siegt - aber verpasst absolute Mehrheit",
+      "summary": "Bei der Landtagswahl in Sachsen-Anhalt ist die AfD stärkste Kraft geworden - mit einem Rekordergebnis. Das erklärte Ziel, allein regieren zu können, verfehlt sie aber. Nun könnte es auf das BSW ankommen, das den Einzug knapp schafft.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-180.html",
+      "publishedAt": "2026-09-07T01:14:02.000Z"
     },
     {
       "id": "n_256c751d5b",
@@ -43,51 +87,7 @@
       "summary": "Die AfD feiert ihren Wahlsieg in Sachsen-Anhalt überschwänglich. Die Parteichefs Weidel und Chrupalla sehen in Spitzenkandidat Siegmund den nächsten Ministerpräsidenten. Die CDU lehnt eine Koalition mit der AfD weiter ab.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-ergebnis-sachsen-anhalt-100.html",
-      "publishedAt": "2026-09-06T21:42:58.000Z"
-    },
-    {
-      "id": "n_6b8fbca953",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Sorge bei jüdischen Organisationen und Kirchen nach AfD-Erfolg",
-      "summary": "Nach dem AfD-Sieg in Sachsen-Anhalt äußern sich Kirchen und jüdische Organisationen besorgt. Holocaust-Überlebende wie Charlotte Knobloch reagieren fassungslos. In mehreren Städten gab es Demonstrationen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-gesellschaft-landtagswahl-sachsen-anhalt-100.html",
-      "publishedAt": "2026-09-06T21:39:17.000Z"
-    },
-    {
-      "id": "n_039d0c94f2",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Hochrechnung zur Wahl in Sachsen-Anhalt: AfD mit Rekordergebnis - CDU stürzt ab",
-      "summary": "Die AfD gewinnt erstmals eine Landtagswahl in Sachsen-Anhalt und erreicht laut ARD-Hochrechnung ein Rekordergebnis. Die CDU verliert deutlich. SPD, Grüne und Linke ziehen sicher ins Parlament ein. Das BSW bewältigt vermutlich die Fünf-Prozent-Hürde.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-172.html",
-      "publishedAt": "2026-09-06T20:56:51.000Z"
-    },
-    {
-      "id": "n_ffb1351708",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Warum der Kanzler wackelt - und weitere Lehren aus der Wahl in Sachsen-Anhalt",
-      "summary": "Die Wahl in Sachsen-Anhalt bringt Kanzler Merz und seine CDU in Schwierigkeiten - aus den hinteren Reihen der Union kommen erste Rücktrittsforderungen. Fünf Lehren aus der Wahl in Sachsen-Anhalt. Von Tina Handel.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-erkenntnisse-100.html",
-      "publishedAt": "2026-09-06T20:43:45.000Z"
-    },
-    {
-      "id": "n_b832577ef2",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wahlkarte zur Landtagswahl in Sachsen-Anhalt 2026",
-      "summary": "Wer liegt in welchen Wahlkreisen und Gemeinden vorne? Welche Partei hat wo ihre Hochburgen? Die interaktive Karte zeigt detaillierte Ergebnisse der Landtagswahl 2026 in Sachsen-Anhalt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/wahlkreisergebnisse-landtagswahl-sachsen-anhalt-2026-100.html",
-      "publishedAt": "2026-09-06T20:17:52.000Z"
+      "publishedAt": "2026-09-07T01:13:15.000Z"
     },
     {
       "id": "n_6a5d311b2b",
@@ -178,6 +178,72 @@
       "publishedAt": "2026-09-04T14:40:00.000Z"
     },
     {
+      "id": "n_84629cce2d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Kritische Infrastruktur: Energiecontainer liefert klimafreundlichen Notstrom",
+      "summary": "Um den Mobilfunk über Tage hinweg aufrechtzuerhalten, kombiniert das System Batteriespeicher und Wasserstoffverbrennung. (Wasserstoff, Mobilfunk)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/kritische-infrastruktur-energiecontainer-liefert-klimafreundlichen-notstrom-2609-212702.html",
+      "publishedAt": "2026-09-07T07:26:01.000Z"
+    },
+    {
+      "id": "n_7cf452bcf8",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Mikrotik: Über 100.000 Router sind laufenden Angriffen ausgesetzt",
+      "summary": "Wer einen Mikrotik-Router verwendet, sollte diesen dringend aktualisieren. Angreifer nutzen mehrere Sicherheitslücken aus, um die Geräte zu kapern. (Sicherheitslücke, Netzwerk)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/mikrotik-ueber-100-000-router-sind-laufenden-angriffen-ausgesetzt-2609-212701.html",
+      "publishedAt": "2026-09-07T07:04:01.000Z"
+    },
+    {
+      "id": "n_311e0c629a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Softwareentwicklung: \"Typing Code is absolutely over\"",
+      "summary": "Microsoft setzt verstärkt auf KI-Agenten. Laut David Fowler verlagert sich die Arbeit von der Codeeingabe zur Architektur. (Softwareentwicklung, Microsoft)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/softwareentwicklung-typing-code-is-absolutely-over-2609-212699.html",
+      "publishedAt": "2026-09-07T06:42:02.000Z"
+    },
+    {
+      "id": "n_b09c0e4e65",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Wahlen in Sachsen-Anhalt: Musk und US-Politiker gratulieren der AfD zum Wahlsieg",
+      "summary": "Nach der Wahl in Sachsen-Anhalt gratulieren Elon Musk, Richard Grenell und Kirill Dmitrijew der AfD. Die Partei bietet Musk Kooperation an. (Donald Trump, Politik)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/wahlen-in-sachsen-anhalt-musk-und-us-politiker-gratulieren-der-afd-zum-wahlsieg-2609-212697.html",
+      "publishedAt": "2026-09-07T06:24:02.000Z"
+    },
+    {
+      "id": "n_16fc0d3906",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Werbepläne: Miami streitet über Verwandlung in Vice City",
+      "summary": "Rund um den Start von GTA 6 könnte Miami teilweise zu Vice City werden. Die Verwaltung hofft auf Einnahmen, Sheriff und Politiker protestieren. (GTA 6, Take-Two)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/werbeplaene-miami-streitet-ueber-verwandlung-in-vice-city-2609-212695.html",
+      "publishedAt": "2026-09-07T05:27:02.000Z"
+    },
+    {
+      "id": "n_3abeb01ccb",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Zero Trust in Microsoft 365 sicher implementieren",
+      "summary": "Da Cloud-Umgebungen keine klassischen Netzwerkgrenzen mehr kennen, wird Zero Trust zum zentralen Sicherheitsmodell. Ein Workshop zeigt die praktische Umsetzung in Microsoft 365. (Golem Karrierewelt, Server-Applikationen)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-zero-trust-in-microsoft-365-sicher-implementieren-2609-212696.html",
+      "publishedAt": "2026-09-07T05:15:02.000Z"
+    },
+    {
       "id": "n_248a07248e",
       "type": "news",
       "topic": "tech",
@@ -200,158 +266,92 @@
       "publishedAt": "2026-09-06T11:09:01.000Z"
     },
     {
-      "id": "n_473803385d",
+      "id": "n_115206efe7",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "US-Arbeitsmarkt: Silicon Valley baut vermehrt Stellen ab",
-      "summary": "Der KI-Boom führt im IT- und Finanzsektor verstärkt zum Abbau von Stellen. Im August 2026 lag das Minus bei 34.000 Jobs. (Arbeit, KI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/us-arbeitsmarkt-silicon-valley-baut-vermehrt-stellen-ab-2609-212692.html",
-      "publishedAt": "2026-09-06T10:44:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Israeli strikes in southern Lebanese village kill 11, state media say",
+      "summary": "Lebanon says renewed attacks jeopardise a US-brokered ceasefire meant to end the conflict between Israel and armed group Hezbollah.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T07:25:06.000Z"
     },
     {
-      "id": "n_e6018db15d",
+      "id": "n_85e21207cd",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Isar Aerospace: Spectrum Rakete zeigt erfolgreichen Qualifikationsflug",
-      "summary": "Nach dem ersten Flug in den Orbit ist vor dem zweiten Flug in den Orbit. Die wichtigsten Aufgaben stehen Isar Aerospace noch bevor. Eine Analyse von Frank Wunderlich-Pfeiffer (Raumfahrt, SpaceX)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/isar-aerospace-spectrum-rakete-zeigt-erfolgreichen-qualifikationsflug-2609-212691.html",
-      "publishedAt": "2026-09-06T09:34:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "summary": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T06:59:57.000Z"
     },
     {
-      "id": "n_0e39be8272",
+      "id": "n_3ca9920f77",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Hackerangriff in Berlin: Bezirk verweigert Einsatz von Crowdstrike",
-      "summary": "Der Berliner Senat will mithilfe der US-Software Crowdstrike nach Spuren des Hackerangriffs suchen. Doch das geht einem Bezirk zu weit. (Security, Server)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/hackerangriff-in-berlin-bezirk-verweigert-einsatz-von-crowdstrike-2609-212690.html",
-      "publishedAt": "2026-09-06T08:52:01.000Z"
-    },
-    {
-      "id": "n_129405b388",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: 4K-Mini-Überwachungskamera mit App-Unterstützung wieder zum Tiefstpreis",
-      "summary": "Zum zweiten Mal verkauft Amazon eine beliebte 4K-Mini-Überwachungskamera von Javiscam zum bisher niedrigsten Preis. (Technik/Hardware, Amazon)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-4k-mini-ueberwachungskamera-mit-app-unterstuetzung-wieder-zum-tiefstpreis-2609-212672.html",
-      "publishedAt": "2026-09-06T08:40:02.000Z"
-    },
-    {
-      "id": "n_87112969a4",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "(g+) Rechenleistung nach Bedarf: Wie serverless sind Serverless-Datenbanken wirklich?",
-      "summary": "Serverless-Datenbanken versprechen Rechenleistung nach Bedarf und weniger Kosten für Leerlauf. Aber erst im Alltag zeigt sich, wie viel serverless tatsächlich in diesem Modell steckt. Ein Ratgebertext von Fabian Deitelhoff (Datenbank, Server-Applikationen)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/rechenleistung-nach-bedarf-wie-serverless-sind-serverless-datenbanken-wirklich-2609-212657.html",
-      "publishedAt": "2026-09-06T08:00:02.000Z"
-    },
-    {
-      "id": "n_c9427ed6f2",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "\"Zizianer\": Gewalt aus dem Silicon Valley",
-      "summary": "Sie waren Wissenschaftler und Technikerinnen und wollten die Welt zu einem besseren Ort machen. Heute werden die sogenannten Zizianer mit sechs Todesfällen in Verbindung gebracht. Was ist passiert? Von Elke Wittich (True Crime, Silicon Valley)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/zizianer-gewalt-aus-dem-silicon-valley-2609-212532.html",
-      "publishedAt": "2026-09-06T05:30:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?",
+      "summary": "Omar al-Bayoumi has always denied being an extremist and a Saudi spy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ce8e151n56po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T06:32:06.000Z"
     },
     {
       "id": "n_aafc7669e1",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Germany's far-right AfD set for big win in eastern state, just short of majority",
-      "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%.",
+      "headline": "Germany's far-right AfD hails big victory in east, but falls short of majority",
+      "summary": "Alternative for Germany hails a \"historic\" success as preliminary results show a big margin of victory with almost 44% of the vote.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T21:37:05.000Z"
+      "publishedAt": "2026-09-07T06:17:08.000Z"
     },
     {
-      "id": "n_4b22560d82",
+      "id": "n_3fd71b033d",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-      "summary": "Despite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
+      "headline": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
+      "summary": "Anak Krakatau, which lies about 150km from the capital Jakarta, began erupting late on Friday.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T20:52:12.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T06:13:17.000Z"
     },
     {
-      "id": "n_5ea7c78ca3",
+      "id": "n_757e95bca2",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Zelensky says he expects war to continue into winter after talks with US envoys",
-      "summary": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+      "headline": "New videos of man in 9/11 lawsuit reveal extremist links",
+      "summary": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T20:41:58.000Z"
-    },
-    {
-      "id": "n_ef61e9d527",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Video shows damaged Amazon cargo plane after crash",
-      "summary": "An Amazon Air cargo plane has overshot the runway while attempting to land at Miami International Airport.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c62k8dz8r4lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T20:41:48.000Z"
-    },
-    {
-      "id": "n_971db20893",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Germany's far-right AfD celebrate projected win in state election",
-      "summary": "AfD leaders celebrated tonight as exit polls projected a big lead in the Saxony-Anhalt vote.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T18:32:53.000Z"
-    },
-    {
-      "id": "n_44ac47f1f8",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-      "summary": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T17:00:56.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T05:31:06.000Z"
     },
     {
       "id": "n_8888dade1b",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Dozens feared trapped in collapsed building in Delhi",
-      "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
+      "headline": "Six dead and more feared trapped in collapsed building in Delhi",
+      "summary": "Eyewitnesses say two-to-four dozen are thought to have been inside the five-storey hostel when it came down.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T16:54:34.000Z"
+      "publishedAt": "2026-09-07T05:10:18.000Z"
     },
     {
-      "id": "n_de38747863",
+      "id": "n_966a44eb61",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-      "summary": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+      "headline": "Europe wrestles with impact of historic regional gains for Germany's AfD",
+      "summary": "The BBC's Europe editor Katya Adler sees the far-right win in Saxony-Anhalt state ringing alarm bells for the EU and traditional parties.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-06T16:00:21.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T04:07:23.000Z"
     },
     {
       "id": "n_46b60883e1",
@@ -618,6 +618,17 @@
       "publishedAt": "2026-09-04T21:12:11.000Z"
     },
     {
+      "id": "n_2f083f991a",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "summary": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 Astra, its most advanced model to date. (Photo by Samuel Boivin/NurPhoto via Get",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "publishedAt": "2026-09-06T23:36:04.000Z"
+    },
+    {
       "id": "n_ac5a64ceef",
       "type": "news",
       "topic": "ai",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
       "publishedAt": "2026-09-04T10:44:15.000Z"
-    },
-    {
-      "id": "n_38096b9b5a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
-      "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-      "publishedAt": "2026-09-04T10:41:48.000Z"
     },
     {
       "id": "n_f391404a1d",
