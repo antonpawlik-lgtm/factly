@@ -1,93 +1,159 @@
 {
-  "generatedAt": "2026-09-08T07:29:23.478Z",
+  "generatedAt": "2026-09-08T23:02:08.248Z",
   "items": [
-    {
-      "id": "n_983206d61b",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Handelskonflikt mit den USA: Kanadas Gegenzölle in Kraft",
-      "summary": "Der Zollstreit in Nordamerika geht in die nächste Phase: Kanada erhebt ab sofort Gegenzölle auf bestimmte US-Importe. US-Präsident Trump drohte unterdessen dem kanadischen Flugzeughersteller Bombardier.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/kanada-usa-gegenzoelle-100.html",
-      "publishedAt": "2026-09-08T07:26:21.000Z"
-    },
     {
       "id": "n_1495f7b3e0",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Liveblog zu Sachsen-Anhalt: ++ BSW-Chefin sieht wenig Gemeinsames mit AfD ++",
-      "summary": "Die Chefin des BSW, Mohamed Ali, sieht wenige inhaltliche Gemeinsamkeiten mit der AfD. Ein Verfassungsschützer rät, der AfD nicht alle sensiblen Informationen zu geben.",
+      "headline": "Liveblog zu Sachsen-Anhalt:++ Klingbeil spricht von \"klarem Signal an Berlin\" ++",
+      "summary": "SPD-Chef Klingbeil kündigt in den tagesthemen an, Politik besser erklären zu wollen. Der geschäftsführende Ministerpräsident von Sachsen-Anhalt, Schulze, ist als neuer Chef der CDU-Landtagsfraktion gewählt worden.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/liveblog-nach-sachsen-anhalt-wahl-100.html",
-      "publishedAt": "2026-09-08T07:18:13.000Z"
+      "publishedAt": "2026-09-08T21:01:22.000Z"
     },
     {
-      "id": "n_fee0845afd",
+      "id": "n_c34c035127",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Ende der Amtszeit: Was Baerbock bei den UN angestoßen hat",
-      "summary": "Als Präsidentin der UN-Generalversammlung wollte sich Annalena Baerbock für Reformen einsetzen. In ihrer einjährigen Amtszeit brachte sie Veränderungen auf den Weg - stieß aber auch auf Widerstand. Von Giselle Ucar.",
+      "headline": "Brisanter Bericht: Was wusste Netanjahu vor dem Hamas-Überfall 2023?",
+      "summary": "Dass Israels Premier Netanjahu Warnungen vor dem Hamas-Überfall am 7. Oktober 2023 ignoriert haben soll, war bereits bekannt. Nun erreicht der Vorwurf durch eine brisante Enthüllung eine neue Dimension - und das kurz vor der Wahl. Von J. Ley",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/baerbock-un-amtszeit-ende-100.html",
-      "publishedAt": "2026-09-08T06:06:06.000Z"
+      "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-bericht-warnung-100.html",
+      "publishedAt": "2026-09-08T20:03:18.000Z"
+    },
+    {
+      "id": "n_458005047c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Polizei nimmt mutmaßlichen Strom-Saboteur fest",
+      "summary": "Die Polizei hat in der Nähe eines Kraftwerks bei Aachen den mutmaßlichen Strom-Saboteur gefasst. Der 48-Jährige soll bundesweit Anschläge auf das Stromnetz verübt haben. Die Bundesregierung spricht von \"Klimaextremismus\".",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/festnahme-strom-saboteur-100.html",
+      "publishedAt": "2026-09-08T16:58:03.000Z"
+    },
+    {
+      "id": "n_224b1f83f8",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Großbritannien sanktioniert Handel mit Siedlungen im Westjordanland",
+      "summary": "Großbritannien will ein Handelsverbot für Waren aus völkerrechtswidrigen israelischen Siedlungen im Westjordanland verhängen. Israel reagiert mit Gegenmaßnahmen: Das britische Konsulat in Jerusalem soll geschlossen werden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-siedler-westjordanland-100.html",
+      "publishedAt": "2026-09-08T16:53:32.000Z"
+    },
+    {
+      "id": "n_dbc7a33454",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Pistorius verspricht mehr Waffen - Trump telefoniert mit Putin",
+      "summary": "Verteidigungsminister Pistorius sagt der Ukraine weitere Abfangraketen zu. Während Kiews Unterstützer ihre Hilfe ausbauen, spricht Moskau nach einem Telefonat zwischen Putin und Trump von einer möglichen Wiederannäherung an die USA.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/pistorius-waffenhilfe-ukraine-100.html",
+      "publishedAt": "2026-09-08T16:47:44.000Z"
+    },
+    {
+      "id": "n_0b09f0780e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Sachsen-Anhalt: Viele AfD-Maßnahmen zur Migration wären rechtlich unzulässig",
+      "summary": "Eine \"migrationspolitische Kehrtwende\" und eine Vielzahl von Einzelmaßnahmen kündigt die AfD in Sachsen-Anhalt in ihrem Regierungsprogramm an. Doch zwei Drittel davon wären rechtlich überhaupt nicht umsetzbar. Von Max Bauer.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-migration-100.html",
+      "publishedAt": "2026-09-08T16:44:06.000Z"
     },
     {
       "id": "n_9739339aba",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Marktbericht: Hohe Ölpreise haben Aktienmarkt im Griff",
-      "summary": "Die Vorgaben für den heutigen Handelstag sind durchwachsen: Die Ölpreise liegen auf ihrem höchsten Niveau seit Juni. Und die am Donnerstag erwartete Leitzinserhöhung der EZB sorgt für Zurückhaltung.",
+      "headline": "Marktbericht: DAX schafft eine Punktlandung",
+      "summary": "Die Misere am Ölmarkt hält die Anleger weiter vom Aktienkauf ab. Immerhin konnte der DAX am Ende sein Niveau halten. Hervorragende Nachrichten gab es von der Elektrobranche.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-100.html",
-      "publishedAt": "2026-09-08T05:13:05.000Z"
+      "publishedAt": "2026-09-08T16:37:27.000Z"
     },
     {
-      "id": "n_03bcb4f2f4",
+      "id": "n_5fc2d6bb35",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Wie viel Geld der Bund 2027 ausgeben will - und wofür",
-      "summary": "Der Bundestag berät erstmals den Haushaltsentwurf für 2027. Geplant sind höhere Ausgaben und Schulden, besonders für Verteidigung. Um welche Summen geht es? Und woran gibt es Kritik?",
+      "headline": "Sexualisiertes Fehlverhalten: Fast 2000 Verdachtsfälle bei der Bundeswehr",
+      "summary": "Eine Auflistung aus dem Verteidigungsministerium gibt Aufschluss über Verdachtsfälle von sexualisiertem Fehlverhalten innerhalb der Bundeswehr, die in den letzten fünf Jahren gemeldet wurden - insgesamt gab es fast 2.000 solcher Meldungen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bundestag-ausgaben-schulden-100.html",
-      "publishedAt": "2026-09-08T04:47:50.000Z"
+      "url": "https://www.tagesschau.de/investigativ/ndr-wdr/verdachtsfaelle-sexualisiertes-fehlverhalten-bundeswehr-100.html",
+      "publishedAt": "2026-09-08T16:20:31.000Z"
     },
     {
-      "id": "n_e43960e87d",
+      "id": "n_9645a0067d",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "60 Jahre \"Star Trek\" als Spiegel der Gesellschaft",
-      "summary": "Am 8. September 1966 lief die erste Folge von \"Star Trek\" erstmals im US-Fernsehen. Noch heute ist das Franchise bei Fans beliebt. Vielleicht auch, weil dort eine bessere Zukunft versprochen wird. Von L. Fettich",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kultur/60-jahre-star-trek-was-enterprise-ueber-politik-verraet-100.html",
-      "publishedAt": "2026-09-08T04:16:34.000Z"
+      "headline": "IFA: Smarte Gartenhelfer: Mähroboter lernen Kanten trimmen und Aufräumen",
+      "summary": "Hersteller wie Segway Navimow, Mammotion und Dreame zeigen auf der IFA 2026 neue Mähroboter, die Igel schützen, Rasenkanten trimmen und sogar aufräumen können.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Trends-bei-Maehrobotern-Waermesensoren-fuer-Igel-Arme-fuer-Kanten-und-Aufraeumen-11445485.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-08T13:21:00.000Z"
     },
     {
-      "id": "n_b42e3d41a4",
+      "id": "n_4e2359fd9f",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Ukraine meldet neue russische Angriffe nach dreitägiger Feuerpause",
-      "summary": "Nach einer kurzzeitigen Feuerpause während des Besuchs von US-Unterhändlern in der Ukraine hat Russland seine schweren Luftangriffe wieder aufgenommen. Aus Kiew wurden Explosionen gemeldet, berichteten ukrainische Medien.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-krieg-100.html",
-      "publishedAt": "2026-09-08T03:09:42.000Z"
+      "headline": "„WeWorm“: Zero-Click-Wurm hätte alle Konten von WeChat übernehmen können",
+      "summary": "Eine KI hat eine Schwachstelle in WeChat gefunden, über die man in kürzester Zeit eine Milliarde Konten hätte übernehmen können. Sie ist bereits geschlossen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/WeWorm-Zero-Click-Wurm-haette-alle-Konten-von-WeChat-uebernehmen-koennen-11445370.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-08T12:27:00.000Z"
     },
     {
-      "id": "n_16653709d2",
+      "id": "n_614b48ef4e",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Schifffahrt unter Attacke: Das ukrainische Getreide steckt fest",
-      "summary": "Angriffe Russlands bringen die ukrainische Schifffahrt auf dem Schwarzen Meer nahezu zum Erliegen. Landwirte bleiben auf ihrer Ernte sitzen, während sich vor den Donauhäfen die Laster stauen. Eindrücke aus der Region Odessa. Von S. Petersohn.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-export-getreide-100.html",
-      "publishedAt": "2026-09-08T02:20:08.000Z"
+      "headline": "Vergleich mit Tschernobyl-Explosion: So weit war die Blue-Origin-Rakete zu hören",
+      "summary": "Nach der Explosion der Schwerlastrakete New Glenn von Blue Origin im Mai haben Forscher nun anhand der erzeugten Schallwellen die Sprengwirkung errechnet.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Vergleich-mit-Tschernobyl-Explosion-So-weit-war-die-Blue-Origin-Rakete-zu-hoeren-11445382.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-08T12:02:00.000Z"
+    },
+    {
+      "id": "n_ba71a6a005",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Urheberrechtsklage: Zwei US-Zeitungen fordern Vernichtung von KI-Modellen",
+      "summary": "Zwei weitere US-Zeitungen werfen OpenAI und Microsoft vor, ihre Artikel ohne Erlaubnis für KI-Training genutzt zu haben. Sie fordern die Zerstörung der Modelle.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Urheberrechtsklage-Zwei-US-Zeitungen-fordern-Vernichtung-von-KI-Modellen-11443778.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-08T11:04:00.000Z"
+    },
+    {
+      "id": "n_0573a5c3ea",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "PISA 2025: Wer nicht (intensiv) lesen kann, kann auch nichts lernen",
+      "summary": "Die Lesekompetenz hat abgenommen und das erschwert den Aufbau auch anderer Kompetenzen. PISA 2025 vermutet Zusammenhänge mit schnell getakteten Feeds.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/PISA-2025-Wer-nicht-intensiv-lesen-kann-kann-auch-nichts-lernen-11444413.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-08T10:07:00.000Z"
+    },
+    {
+      "id": "n_efb99eecf7",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Energie in Deutschland: Stromimporte stark gesunken, -exporte gewachsen",
+      "summary": "Nach dem außergewöhnlich windarmen Frühjahr 2025 hat der Anteil der Windkraft am deutschen Strommix besonders stark zugelegt. Zurückgegangen sind die Importe.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Energie-in-Deutschland-Stromimporte-stark-gesunken-exporte-gewachsen-11441433.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-08T08:33:00.000Z"
     },
     {
       "id": "n_cede980d0e",
@@ -112,246 +178,213 @@
       "publishedAt": "2026-09-07T15:45:00.000Z"
     },
     {
-      "id": "n_27faff52a9",
+      "id": "n_0df9131c65",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Gefahr für die nationale Sicherheit: Berliner Datenleck schlägt hohe Wellen",
-      "summary": "Nach dem Darknet-Leak streiten Bezirke über Forensik-Software von Crowdstrike. Die Datenschutzbeauftragte warnt und gibt Verhaltensregeln für Betroffene heraus.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Gefahr-fuer-die-nationale-Sicherheit-Berliner-Datenleck-schlaegt-hohe-Wellen-11444301.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-07T15:40:00.000Z"
-    },
-    {
-      "id": "n_6bb800c416",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Plug-in-Hybride emittieren sechsmal mehr CO₂ im Alltag als offiziell angegeben",
-      "summary": "Neue EU-Realfahrdaten zeigen: PHEVs emittieren im Schnitt sechsmal so viel CO₂ wie im WLTP, und die Lücke zum Verbrenner schrumpft weiter.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Plug-in-Hybride-emittieren-sechsmal-mehr-CO-im-Alltag-als-offiziell-angegeben-11444152.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-07T14:59:00.000Z"
-    },
-    {
-      "id": "n_67ca4a2308",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "BSI erklärt ersten Angriffsvektor auf Berliner Behörden",
-      "summary": "Erst Phishing, dann ein Fake-Captcha und ein Terminal-Befehl – so einfach lief nach ersten Analysen die Cyberattacke auf Berlin ab.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/BSI-erklaert-ersten-Angriffsvektor-auf-Berliner-Behoerden-11444072.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-07T14:26:00.000Z"
-    },
-    {
-      "id": "n_6a5d311b2b",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "13 Millionen Zeilen Code: KI verifiziert Beweis von Fermats letztem Satz",
-      "summary": "Anthropic hat nach eigenen Angaben erstmals eine vollständig computerverifizierte Fassung von Fermats letztem Satz vorgelegt – erstellt von Claude-Agenten.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Fermats-letzter-Satz-KI-liefert-maschinell-geprueften-Beweis-11442958.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-06T20:12:00.000Z"
-    },
-    {
-      "id": "n_8b1bf09805",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "IFA: Neue KI-Brillen: Dashcam, Dolmetscher und Walkie-Talkie-Ersatz",
-      "summary": "In Berlin präsentieren Firmen eine neue Generation von KI-Brillen, die Grenzen der aktuell verfügbaren Technik weiter verschieben.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Neue-KI-Brillen-Dashcam-Dolmetscher-und-Walkie-Talkie-Ersatz-11442258.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-04T16:38:00.000Z"
-    },
-    {
-      "id": "n_e98193ebef",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "IFA: AMD packt seine Instinct MI350P mit Wasserkühlung in eine Workstation",
-      "summary": "Die Threadripper Halo Station kommt mit mehreren MI350P-Beschleunigern. Die einstigen Server-GPUs haben Kompakt-Wasserkühlungen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/AMD-packt-seine-Instinct-MI350P-mit-Wasserkuehlung-in-eine-Workstation-11442356.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-04T16:31:00.000Z"
-    },
-    {
-      "id": "n_48260813ea",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Elektroauto: Dacia Spring komplett überarbeitet",
-      "summary": "Der Elektro-Stadtflitzer Dacia Spring kehrt in neuer Generation zurück - größer, moderner, aber weiterhin erfreulich günstig, obwohl er in Europa gebaut wird. (Elektroauto, Auto)",
+      "headline": "Finanzierungsrunde: Französisches KI-Start-up Mistral mit 21 Milliarden Euro bewertet",
+      "summary": "Der größte Investor in der Runde ist Samsung, der führende Hersteller von HBM‑Speicher. Mistral wirbt weiter mit Souveränität als Geschäftsmodell. (Souveränität, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/elektroauto-dacia-spring-komplett-ueberarbeitet-2609-212752.html",
-      "publishedAt": "2026-09-08T07:14:02.000Z"
+      "url": "https://www.golem.de/news/finanzierungsrunde-franzoesisches-ki-start-up-mistral-mit-21-milliarden-euro-bewertet-2609-212789.html",
+      "publishedAt": "2026-09-08T17:50:02.000Z"
     },
     {
-      "id": "n_79d35c5930",
+      "id": "n_22ff436874",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Phishing-Warnung: Kleinanzeigen informiert Nutzer über Datenpanne",
-      "summary": "Angreifer sind über eine Schnittstelle von Kleinanzeigen an Nutzerdaten gelangt. Der Anbieter warnt vor einem möglichen Missbrauch für Phishing. (Phishing, E-Mail)",
+      "headline": "Custom Silicon: Amazon ordert KI-Chips für 60 Milliarden US-Dollar bei Qualcomm",
+      "summary": "Amazons AWS sichert sich Custom-Silicon von Qualcomm, um der rasant steigenden Last bei KI-Inferenz und Agentic Workloads Herr zu werden. Der Megadeal geht mit einer tiefen finanziellen Verflechtung einher. (Qualcomm, Cloud Computing)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/phishing-warnung-kleinanzeigen-informiert-nutzer-ueber-datenpanne-2609-212751.html",
-      "publishedAt": "2026-09-08T06:50:07.000Z"
+      "url": "https://www.golem.de/news/custom-silicon-amazon-ordert-ki-chips-fuer-60-milliarden-us-dollar-bei-qualcomm-2609-212788.html",
+      "publishedAt": "2026-09-08T17:16:02.000Z"
     },
     {
-      "id": "n_89c45e540b",
+      "id": "n_ad111a3d25",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "DIY: Das Balkonkraftwerk als E-Auto-Tankstelle",
-      "summary": "Das E-Auto mit Strom aus eigener Produktion zu laden, war lange Hausbesitzern mit großer Dach-PV vorbehalten. Nun gibt es moderne Akku-Balkonkraftwerke - was geht damit bereits? Ein Erfahrungsbericht von Dennis Ziesecke (Elektroauto, Auto)",
+      "headline": "Anzeige: Beliebter Multischleifer von Einhell auf 27 Euro gefallen",
+      "summary": "Ein beliebter Multischleifer von Einhell ist nun bei Amazon günstiger als in den letzten Wochen. Er läuft mit dem 18V-Akku des Herstellers. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/diy-das-balkonkraftwerk-als-e-auto-tankstelle-2609-212716.html",
-      "publishedAt": "2026-09-08T06:38:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-beliebter-multischleifer-von-einhell-auf-27-euro-gefallen-2609-212786.html",
+      "publishedAt": "2026-09-08T16:58:02.000Z"
     },
     {
-      "id": "n_b0ab934dc9",
+      "id": "n_2f64043ab7",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Experiment: KI-Agenten scheitern beim autonomen Geldverdienen",
-      "summary": "Ein Test von Bottleneck Labs offenbart, dass autonome KI-Modelle kein Geld verdienen, sondern Spam und unberechtigte Rechnungen erzeugen. (KI, API)",
+      "headline": "Anzeige: Mobile Geräte sicher verwalten mit Microsoft Intune",
+      "summary": "Windows, iOS, MacOS und Android parallel zu verwalten stellt IT-Administratoren vor komplexe Aufgaben. Ein Workshop zu Microsoft Intune vermittelt das nötige Praxiswissen. (Golem Karrierewelt, Betriebssysteme)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/experiment-ki-agenten-scheitern-beim-autonomen-geldverdienen-2609-212750.html",
-      "publishedAt": "2026-09-08T06:25:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-mobile-geraete-sicher-verwalten-mit-microsoft-intune-2609-212785.html",
+      "publishedAt": "2026-09-08T16:45:01.000Z"
     },
     {
-      "id": "n_ab5749b327",
+      "id": "n_9b7bac5caa",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Scharfe Kritik an Rokus KI-Sender: So spannend wie ein DVD-Menü oder das Betrachten eines ...",
-      "summary": "Das Streamingunternehmen Roku bietet einen Sender, der ausschließlich KI-generierte Inhalte zeigt. Das Ergebnis ist schlimmer als erwartet. (Roku, KI)",
+      "headline": "(g+) IPOs: Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO",
+      "summary": "Investment-grade designation would unlock cheaper financing for AI labs and their infrastructure partners Von Michelle Chan (Unternehmen, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/scharfe-kritik-in-rokus-ki-sender-so-spannend-wie-ein-dvd-menue-oder-das-betrachten-eines-kuehlschranks-2609-212749.html",
-      "publishedAt": "2026-09-08T06:16:01.000Z"
+      "url": "https://www.golem.de/news/ipos-anthropic-and-openai-bankers-push-for-top-tier-credit-ratings-post-ipo-2609-212782.html",
+      "publishedAt": "2026-09-08T16:00:02.000Z"
     },
     {
-      "id": "n_b232c81511",
+      "id": "n_f16fb7db8c",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: IT-Grundschutz-Praktiker: Workshop mit BSI-Zertifikat",
-      "summary": "Informationssicherheit nach dem IT-Grundschutz des BSI aufzubauen, verlangt fundiertes Methodenwissen. Ein Training vermittelt Grundlagen für Risikoanalyse und Zertifizierung. (Golem Karrierewelt, Server-Applikationen)",
+      "headline": "The Legend of Zelda: Ocarina of Time wird für Remake massiv umgebaut",
+      "summary": "Neben neuer 3D-Grafik gibt es im The-Legend-of-Zelda-Remake zahlreiche Änderungen bei Steuerung, Spielwelt und Bedienung. (Zelda, Nintendo)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-it-grundschutz-praktiker-workshop-mit-bsi-zertifikat-2609-212747.html",
-      "publishedAt": "2026-09-08T05:15:02.000Z"
+      "url": "https://www.golem.de/news/the-legend-of-zelda-ocarina-of-time-wird-fuer-remake-massiv-umgebaut-2609-212784.html",
+      "publishedAt": "2026-09-08T15:40:01.000Z"
     },
     {
-      "id": "n_0e979d08c7",
+      "id": "n_e5290e24da",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "CSS for Mobile 2: ARM will weiterhin ohne NPU auskommen",
-      "summary": "ARM hat eine neue Generation an CPU-Kernen für Smartphones vorgestellt. Die sieht Matrixeinheiten für KI bereits im Einstiegssegment vor. (Prozessor, Smartphone)",
+      "headline": "Anzeige: USB-C-Hub mit acht Anschlüssen für nur 29,97 Euro bei Amazon",
+      "summary": "Ein USB-C-Hub von Anker mit acht Anschlüssen inklusive Dual-HDMI@4K, PD 100 W und Kartenleser gibt es bei Amazon zum reduzierten Preis. (Technik/Hardware, HDMI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/css-for-mobile-2-arm-will-weiterhin-ohne-npu-auskommen-2609-212746.html",
-      "publishedAt": "2026-09-08T02:01:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-usb-c-hub-mit-acht-anschluessen-fuer-nur-29-97-euro-bei-amazon-2609-212780.html",
+      "publishedAt": "2026-09-08T15:35:02.000Z"
     },
     {
-      "id": "n_f618a89299",
+      "id": "n_37b4e91217",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Mali G2-Ultra NX: KI-Rendering ist auch bei ARM angekommen",
-      "summary": "Bessere Grafik, höhere Frameraten bei gleichzeitig niedrigerer Leistungsaufnahme verspricht ARMs neue Mali-GPU-Generation dank KI-Kernen. (Grafikkarten, KI)",
+      "headline": "Tim Höttges: Telekom bereitet sich auf Bewerbung für KI-Gigafactory vor",
+      "summary": "Telekom-Chef Tim Höttges verhandelt um massive Subventionen und staatliche Energierabatte. Es geht um das Aufteilen öffentlicher Fördergelder. (Telekom, Wirtschaft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/mali-g2-ultra-nx-ki-rendering-ist-auch-bei-arm-angekommen-2609-212741.html",
-      "publishedAt": "2026-09-08T02:00:02.000Z"
+      "url": "https://www.golem.de/news/tim-hoettges-telekom-bereitet-sich-auf-bewerbung-fuer-ki-gigafactory-vor-2609-212783.html",
+      "publishedAt": "2026-09-08T15:18:01.000Z"
     },
     {
-      "id": "n_e1a39ce3fb",
+      "id": "n_93750ee7c1",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "'Good to have choice': Australians on opting out of social media algorithms",
-      "summary": "The BBC spoke to people in Sydney about Australia's plans to force social media companies to allow users to easily opt in or out of personalised algorithms.",
+      "headline": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+      "summary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/clyl2dnjgkro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T06:20:10.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T21:46:31.000Z"
     },
     {
-      "id": "n_ee0a37d2e3",
+      "id": "n_c0fa9c1f63",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
-      "summary": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
+      "headline": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
+      "summary": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T04:39:14.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T21:41:11.000Z"
     },
     {
-      "id": "n_01edd8a066",
+      "id": "n_358ee43386",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "North Korea and Russia open first road bridge linking both countries",
-      "summary": "It comes as relations between both countries have strengthened since the start of the Ukraine war.",
+      "headline": "LIV files for bankruptcy protection with $45m owed to players",
+      "summary": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T03:53:27.000Z"
+      "url": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T21:20:22.000Z"
     },
     {
-      "id": "n_590d5bd95a",
+      "id": "n_832c384b67",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
-      "summary": "The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads.",
+      "headline": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T01:32:56.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T19:11:39.000Z"
     },
     {
-      "id": "n_0f125662ea",
+      "id": "n_50607f402b",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
-      "summary": "In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in political confrontation\".",
+      "headline": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
+      "summary": "Newly released documents show toxins lingered for months after the attacks, but officials told people it was safe.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T01:07:47.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T18:21:40.000Z"
     },
     {
-      "id": "n_a10299274d",
+      "id": "n_88d1d02e9e",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-      "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
+      "headline": "British widow faces deportation from Sweden after 22 years",
+      "summary": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T00:48:43.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T18:02:42.000Z"
     },
     {
-      "id": "n_b1ad3a0a8a",
+      "id": "n_62fa068020",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
-      "summary": "An investigation will be launched into the incident, which left female employees \"humiliated\", a union representative says.",
+      "headline": "Fourteen go on trial over deadliest Channel small boats disaster",
+      "summary": "At least 30 men, women and children drowned when their dinghy capsized on 24 November 2021.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T23:46:44.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cd94jn72w2yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T17:24:25.000Z"
     },
     {
-      "id": "n_a6f39d98dc",
+      "id": "n_5913c4a326",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "A food safety officer has become a social media star in India - why?",
-      "summary": "Tukaram Mundhe has gone viral after a series of aggressive inspections of restaurants to detect hygiene lapses.",
+      "headline": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+      "summary": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T23:40:39.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T17:10:54.000Z"
+    },
+    {
+      "id": "n_d71ed4603e",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+      "summary": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T20:57:09.000Z"
+    },
+    {
+      "id": "n_00b37a80f0",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Tech Life",
+      "summary": "Scammers demand money from Instagram users over fake copyright claims.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyd?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T20:00:00.000Z"
+    },
+    {
+      "id": "n_8de0626e6e",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "New law to force tech firms to stop children taking or sharing nude images",
+      "summary": "The government said it will legislate \"as soon as they can\" but may \"reassess\" its plans if firms make the desired changes sooner.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T16:48:29.000Z"
     },
     {
       "id": "n_64e92dcf18",
@@ -409,125 +442,169 @@
       "publishedAt": "2026-09-05T01:00:18.000Z"
     },
     {
-      "id": "n_3152bdb0ea",
+      "id": "n_153ab89786",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-      "summary": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T14:59:13.000Z"
-    },
-    {
-      "id": "n_4ad266db0d",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
-      "summary": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T11:48:24.000Z"
-    },
-    {
-      "id": "n_fe6fd08770",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Could robots be the future of theme parks?",
-      "summary": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T02:02:02.000Z"
-    },
-    {
-      "id": "n_d1f74a46c4",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "The complex corporate web behind a $3.2 billion AI data center",
-      "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
+      "headline": "Supreme Court forces TV stations to sell more election ads at steep discounts",
+      "summary": "Republican victory means stations must offer lowest ad prices to political parties.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-      "publishedAt": "2026-09-07T11:00:03.000Z"
+      "url": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
+      "publishedAt": "2026-09-08T19:50:00.000Z"
     },
     {
-      "id": "n_4f2c430ba4",
+      "id": "n_97bd724efa",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "German company becomes first in Europe to launch fully commercial orbital rocket",
-      "summary": "\"We achieved within a few years what had taken the European space industry decades before.\"",
+      "headline": "Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",
+      "summary": "Chipmaking changes could boost productivity of new ASML machines by 40 percent.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
-      "publishedAt": "2026-09-06T11:55:26.000Z"
+      "url": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/",
+      "publishedAt": "2026-09-08T19:12:53.000Z"
     },
     {
-      "id": "n_a165ac63c9",
+      "id": "n_0aaa2b7dda",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Farmed salmon may not be as nutritious as it once was, new research suggests",
-      "summary": "The shift in the fish’s diet is having significant downstream impacts on the environment and climate.",
+      "headline": "Godzilla Minus Zero IMAX trailer teases King Ghidorah",
+      "summary": "Director Takashi Yamazaki's hotly anticipated sequel takes place two years after 2023 film's events.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
-      "publishedAt": "2026-09-06T10:00:35.000Z"
+      "url": "https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/",
+      "publishedAt": "2026-09-08T18:53:23.000Z"
     },
     {
-      "id": "n_5ab91582f4",
+      "id": "n_083ec72c2d",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
-      "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
+      "headline": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+      "summary": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
-      "publishedAt": "2026-09-05T15:17:36.000Z"
+      "url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+      "publishedAt": "2026-09-08T18:43:09.000Z"
     },
     {
-      "id": "n_3ee62c9aa7",
+      "id": "n_a7d30b6a86",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
-      "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
+      "headline": "Update to Google’s AI weather model improves forecast accuracy",
+      "summary": "Like traditional weather models, it benefits from an expanded set of inputs.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
-      "publishedAt": "2026-09-04T22:49:17.000Z"
+      "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+      "publishedAt": "2026-09-08T18:00:56.000Z"
     },
     {
-      "id": "n_680bad5aa9",
+      "id": "n_4795c1e465",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "headline": "Google complies with EU rules for travel searches, says the new results stink",
+      "summary": "The EU continues to go after Google search practices it sees as anticompetitive.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-      "publishedAt": "2026-09-04T22:17:36.000Z"
+      "url": "https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/",
+      "publishedAt": "2026-09-08T16:49:55.000Z"
     },
     {
-      "id": "n_6756f32e5a",
+      "id": "n_1c66ae5141",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
-      "summary": "\"It’s long past time for RFK to stop playing games with people’s lives.\"",
+      "headline": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
+      "summary": "Trump admin's propaganda \"arcade\" hits some apparent legal limits.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
-      "publishedAt": "2026-09-04T20:22:41.000Z"
+      "url": "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/",
+      "publishedAt": "2026-09-08T16:31:21.000Z"
     },
     {
-      "id": "n_25e3bbb955",
+      "id": "n_2b3d53af88",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
-      "summary": "FCC tells court it is “open-minded\" about whether ABC should lose licenses.",
+      "headline": "The secret to protecting next-gen spacecraft might be eggshells",
+      "summary": "3D-printed aluminum eggshell arrays filled with water proved more effective at impact resistance.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
-      "publishedAt": "2026-09-04T19:46:34.000Z"
+      "url": "https://arstechnica.com/science/2026/09/how-eggshells-can-protect-spacecraft-from-space-debris/",
+      "publishedAt": "2026-09-08T16:20:58.000Z"
+    },
+    {
+      "id": "n_8910eda6fc",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Hackers are stealing Claude tokens from subscribers",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "publishedAt": "2026-09-08T21:10:27.000Z"
+    },
+    {
+      "id": "n_c445cd5328",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "publishedAt": "2026-09-08T21:04:06.000Z"
+    },
+    {
+      "id": "n_6f347d89db",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "publishedAt": "2026-09-08T19:00:00.000Z"
+    },
+    {
+      "id": "n_30fef87af6",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "publishedAt": "2026-09-08T17:32:15.000Z"
+    },
+    {
+      "id": "n_befa855d43",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "publishedAt": "2026-09-08T16:20:31.000Z"
+    },
+    {
+      "id": "n_10701593ca",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "publishedAt": "2026-09-08T15:04:09.000Z"
+    },
+    {
+      "id": "n_608813ed25",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Mistral raises €3B as sovereign AI becomes big business",
+      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "publishedAt": "2026-09-08T14:17:48.000Z"
     },
     {
       "id": "n_bbd44de733",
@@ -541,81 +618,70 @@
       "publishedAt": "2026-09-07T19:24:00.000Z"
     },
     {
-      "id": "n_6a3a62ca59",
+      "id": "n_0ac264fddc",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "publishedAt": "2026-09-06T20:47:37.000Z"
+      "headline": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to t",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "publishedAt": "2026-09-08T20:53:52.000Z"
     },
     {
-      "id": "n_5325508b04",
+      "id": "n_e20ac68d83",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "publishedAt": "2026-09-06T16:45:00.000Z"
+      "headline": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "summary": "I used ChatGPT and its Sketch tool to make this AI-generated image of a cat. OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw somet",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "publishedAt": "2026-09-08T20:16:09.000Z"
     },
     {
-      "id": "n_a5bf96dbe6",
+      "id": "n_726d56896e",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "publishedAt": "2026-09-05T22:49:55.000Z"
+      "headline": "Meta bets on AI agent Muse to catch up in AI race",
+      "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing p",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+      "publishedAt": "2026-09-08T19:00:00.000Z"
     },
     {
-      "id": "n_e2a0f6185b",
+      "id": "n_c1967aee05",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Hikers rescued after using Google Gemini for planning",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "publishedAt": "2026-09-05T19:35:24.000Z"
+      "headline": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription th",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+      "publishedAt": "2026-09-08T17:27:31.000Z"
     },
     {
-      "id": "n_5d4986f08b",
+      "id": "n_235e7b1262",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "publishedAt": "2026-09-05T18:05:27.000Z"
+      "headline": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "publishedAt": "2026-09-08T14:00:00.000Z"
     },
     {
-      "id": "n_266031deb4",
+      "id": "n_f167f45505",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "publishedAt": "2026-09-04T23:36:14.000Z"
-    },
-    {
-      "id": "n_a2ddce03d4",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "publishedAt": "2026-09-04T23:15:11.000Z"
+      "headline": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+      "summary": "Suspenseful clock ticking… as you wait for AI to take your job. | Image: Adobe Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundsc",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+      "publishedAt": "2026-09-08T13:00:00.000Z"
     },
     {
       "id": "n_2f083f991a",
@@ -640,70 +706,15 @@
       "publishedAt": "2026-09-05T11:15:55.000Z"
     },
     {
-      "id": "n_480cff7899",
+      "id": "n_52c4de3e96",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Roland is getting into generative AI music with Melody Flip",
-      "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collec",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "publishedAt": "2026-09-04T17:51:35.000Z"
-    },
-    {
-      "id": "n_5663e6b86d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-      "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book a",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-      "publishedAt": "2026-09-04T16:05:57.000Z"
-    },
-    {
-      "id": "n_0d71a440bd",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-      "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "publishedAt": "2026-09-04T13:34:12.000Z"
-    },
-    {
-      "id": "n_94e948ac94",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Instagram’s AI detection is a mess (again)",
-      "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
-      "publishedAt": "2026-09-04T12:00:00.000Z"
-    },
-    {
-      "id": "n_f23a53b844",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Why AI food looks like that",
-      "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and s",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
-      "publishedAt": "2026-09-04T11:00:00.000Z"
-    },
-    {
-      "id": "n_95d78f5f2c",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
-      "summary": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
-      "publishedAt": "2026-09-04T10:44:15.000Z"
+      "headline": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "publishedAt": "2026-09-08T10:34:00.000Z"
     },
     {
       "id": "n_f391404a1d",
@@ -783,15 +794,26 @@
       "publishedAt": "2026-08-26T09:00:00.000Z"
     },
     {
-      "id": "n_12fc958819",
+      "id": "n_26a148a2e1",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-      "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marin",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-      "publishedAt": "2026-08-26T07:01:00.000Z"
+      "headline": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
+      "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+      "publishedAt": "2026-09-08T20:12:51.000Z"
+    },
+    {
+      "id": "n_59099424e7",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+      "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+      "publishedAt": "2026-09-08T16:42:05.000Z"
     },
     {
       "id": "n_2ba326ea52",
@@ -860,26 +882,15 @@
       "publishedAt": "2026-09-04T10:00:00.000Z"
     },
     {
-      "id": "n_840678f87f",
+      "id": "n_4f420d1c5c",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-      "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-      "publishedAt": "2026-09-03T21:56:21.000Z"
-    },
-    {
-      "id": "n_77883cff7f",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Prediction Market Betting Is Getting People Banned and Arrested",
-      "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
-      "publishedAt": "2026-09-03T21:48:24.000Z"
+      "headline": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "publishedAt": "2026-09-08T14:23:07.000Z"
     },
     {
       "id": "n_96a3500c5a",
@@ -959,15 +970,16 @@
       "publishedAt": "2026-09-01T00:00:00.000Z"
     },
     {
-      "id": "n_b0b2c2da12",
-      "type": "news",
-      "topic": "ai",
+      "id": "n_ff7563162b",
+      "type": "video",
+      "topic": "video",
       "lang": "en",
-      "headline": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "headline": "GPT-6 Astra Changes Everything",
       "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-      "publishedAt": "2026-08-28T00:00:00.000Z"
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
+      "thumbnail": "https://i.ytimg.com/vi/eVBJIUxv8N8/hqdefault.jpg",
+      "publishedAt": "2026-09-08T08:24:27.000Z"
     },
     {
       "id": "n_f14a8fc519",
@@ -1004,18 +1016,6 @@
       "url": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
       "thumbnail": "https://i.ytimg.com/vi/LBiNcdGNgrg/hqdefault.jpg",
       "publishedAt": "2026-08-28T09:44:44.000Z"
-    },
-    {
-      "id": "n_39fab27727",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek’s New AI System Shouldn’t Be Possible",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
-      "thumbnail": "https://i.ytimg.com/vi/L9mMfAFwbl4/hqdefault.jpg",
-      "publishedAt": "2026-08-26T13:10:13.000Z"
     },
     {
       "id": "n_ffdb3dfd14",
