@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T23:06:31.301Z",
+  "generatedAt": "2026-09-08T01:44:01.541Z",
   "items": [
     {
       "id": "n_ebb2efdede",
@@ -266,6 +266,61 @@
       "publishedAt": "2026-09-07T14:42:01.000Z"
     },
     {
+      "id": "n_0f125662ea",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
+      "summary": "In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in political confrontation\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T01:07:47.000Z"
+    },
+    {
+      "id": "n_a10299274d",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+      "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T00:48:43.000Z"
+    },
+    {
+      "id": "n_b1ad3a0a8a",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
+      "summary": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T23:46:44.000Z"
+    },
+    {
+      "id": "n_a6f39d98dc",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "A food safety officer has become a social media star in India - why?",
+      "summary": "Tukaram Mundhe has gone viral after a series of aggressive inspections of restaurants to detect hygiene lapses.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T23:40:39.000Z"
+    },
+    {
+      "id": "n_5422e75d3f",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+      "summary": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-07T23:05:12.000Z"
+    },
+    {
       "id": "n_c0fa9c1f63",
       "type": "news",
       "topic": "general",
@@ -288,17 +343,6 @@
       "publishedAt": "2026-09-07T21:12:37.000Z"
     },
     {
-      "id": "n_a67d14f4bf",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Tanzanian President Samia's husband dies in hospital",
-      "summary": "Hafidh Ameir Hassan kept a low profile and was rarely seen in public with the president.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T16:23:02.000Z"
-    },
-    {
       "id": "n_3fd71b033d",
       "type": "news",
       "topic": "general",
@@ -312,57 +356,13 @@
     {
       "id": "n_6157437743",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
       "headline": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
       "summary": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-07T15:27:50.000Z"
-    },
-    {
-      "id": "n_6c855c2b87",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Burundians rush to leave Kenya ahead of crackdown on unregistered traders",
-      "summary": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T14:57:16.000Z"
-    },
-    {
-      "id": "n_58e356deed",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić",
-      "summary": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T14:50:50.000Z"
-    },
-    {
-      "id": "n_826be3ecd3",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-      "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T14:04:01.000Z"
-    },
-    {
-      "id": "n_5422e75d3f",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-      "summary": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T23:05:12.000Z"
     },
     {
       "id": "n_348801b676",
@@ -957,186 +957,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
       "publishedAt": "2026-08-28T00:00:00.000Z"
-    },
-    {
-      "id": "n_f14a8fc519",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
-      "thumbnail": "https://i.ytimg.com/vi/B3LXEW4Pc-w/hqdefault.jpg",
-      "publishedAt": "2026-09-03T08:23:37.000Z"
-    },
-    {
-      "id": "n_afefdcee88",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "GLM 5.3: Powerful AI Is Becoming Almost Free",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
-      "thumbnail": "https://i.ytimg.com/vi/w9RDunJACkc/hqdefault.jpg",
-      "publishedAt": "2026-09-01T09:04:56.000Z"
-    },
-    {
-      "id": "n_0638f3b98b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Billion Dollar AI Gap Is Collapsing",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
-      "thumbnail": "https://i.ytimg.com/vi/LBiNcdGNgrg/hqdefault.jpg",
-      "publishedAt": "2026-08-28T09:44:44.000Z"
-    },
-    {
-      "id": "n_39fab27727",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek’s New AI System Shouldn’t Be Possible",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
-      "thumbnail": "https://i.ytimg.com/vi/L9mMfAFwbl4/hqdefault.jpg",
-      "publishedAt": "2026-08-26T13:10:13.000Z"
-    },
-    {
-      "id": "n_ffdb3dfd14",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
-      "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_6a18d8c315",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
-      "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
-      "publishedAt": "2026-08-12T12:57:24.000Z"
-    },
-    {
-      "id": "n_49a7d5405f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
-      "publishedAt": "2026-07-28T20:02:11.000Z"
-    },
-    {
-      "id": "n_39feb22ff6",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
-      "thumbnail": "https://i.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
-      "publishedAt": "2026-06-30T21:16:13.000Z"
-    },
-    {
-      "id": "n_f14faacfbf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "5 open source tools that replaced my $320/mo AI stack...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=Y5rSSvXfL4g",
-      "thumbnail": "https://i.ytimg.com/vi/Y5rSSvXfL4g/hqdefault.jpg",
-      "publishedAt": "2026-09-07T17:24:51.000Z"
-    },
-    {
-      "id": "n_cedb5d5fd8",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did OpenAI actually build AGI? GPT-6 Astra first look",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=FluKUJyeYD8",
-      "thumbnail": "https://i.ytimg.com/vi/FluKUJyeYD8/hqdefault.jpg",
-      "publishedAt": "2026-09-04T20:14:12.000Z"
-    },
-    {
-      "id": "n_41b8d826b3",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The most interesting hack in history just got weirder...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=0Rp9KJCEIvg",
-      "thumbnail": "https://i.ytimg.com/vi/0Rp9KJCEIvg/hqdefault.jpg",
-      "publishedAt": "2026-09-02T19:01:28.000Z"
-    },
-    {
-      "id": "n_0bc1e159ad",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The mystery is solved... and the answer is 40x cheaper than Claude",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=r-tzcMlQISk",
-      "thumbnail": "https://i.ytimg.com/vi/r-tzcMlQISk/hqdefault.jpg",
-      "publishedAt": "2026-09-01T17:31:27.000Z"
-    },
-    {
-      "id": "n_166d86fc1e",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Google Pixel 11/Pro Review: Poker Face",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=ANmTVYkEtLw",
-      "thumbnail": "https://i.ytimg.com/vi/ANmTVYkEtLw/hqdefault.jpg",
-      "publishedAt": "2026-09-05T21:18:49.000Z"
-    },
-    {
-      "id": "n_3c40a2bec8",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "I Made a Bet with Tesla",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=fo-uubnajWM",
-      "thumbnail": "https://i.ytimg.com/vi/fo-uubnajWM/hqdefault.jpg",
-      "publishedAt": "2026-09-04T01:18:34.000Z"
-    },
-    {
-      "id": "n_a5e182c8fe",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Truth About the Bezelless Concept Phone",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=ngPkbaZliaU",
-      "thumbnail": "https://i.ytimg.com/vi/ngPkbaZliaU/hqdefault.jpg",
-      "publishedAt": "2026-08-24T20:27:50.000Z"
     }
   ]
 }
