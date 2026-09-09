@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-08T23:02:08.248Z",
+  "generatedAt": "2026-09-09T01:50:47.350Z",
   "items": [
+    {
+      "id": "n_ab8aa6d775",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bahn-Streik in den Niederlanden - auch Deutschland betroffen",
+      "summary": "Ein Streik dürfe den Bahnverkehr in den Niederlanden heute weitgehend zum Stillstand bringen. Betroffen sind auch mehrere Verbindungen von und nach Deutschland. Hintergrund sind geplante Einschnitte im Sozialsystem.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/niederlande-streik-bahnverkehr-100.html",
+      "publishedAt": "2026-09-08T23:08:56.000Z"
+    },
     {
       "id": "n_1495f7b3e0",
       "type": "news",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-oel-100.html",
       "publishedAt": "2026-09-08T16:37:27.000Z"
-    },
-    {
-      "id": "n_5fc2d6bb35",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Sexualisiertes Fehlverhalten: Fast 2000 Verdachtsfälle bei der Bundeswehr",
-      "summary": "Eine Auflistung aus dem Verteidigungsministerium gibt Aufschluss über Verdachtsfälle von sexualisiertem Fehlverhalten innerhalb der Bundeswehr, die in den letzten fünf Jahren gemeldet wurden - insgesamt gab es fast 2.000 solcher Meldungen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/investigativ/ndr-wdr/verdachtsfaelle-sexualisiertes-fehlverhalten-bundeswehr-100.html",
-      "publishedAt": "2026-09-08T16:20:31.000Z"
     },
     {
       "id": "n_9645a0067d",
@@ -266,6 +266,61 @@
       "publishedAt": "2026-09-08T15:18:01.000Z"
     },
     {
+      "id": "n_832c384b67",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T01:45:15.000Z"
+    },
+    {
+      "id": "n_0e9b964933",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US slaps import ban on Canadian alcohol and other goods",
+      "summary": "It is the latest escalation in a trade war between the two countries, and comes as Canadian retaliatory tariffs on US goods come into force.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-09T01:09:15.000Z"
+    },
+    {
+      "id": "n_d6d4aa7a20",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Meta continues to run ads promoting child sexual abuse material in India - report",
+      "summary": "The report follows a BBC Eye investigation that found Instagram running paid ads promoting such material in India.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T23:27:23.000Z"
+    },
+    {
+      "id": "n_5af94d8a6d",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
+      "summary": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T23:11:41.000Z"
+    },
+    {
+      "id": "n_61d9c17f80",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+      "summary": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T23:11:32.000Z"
+    },
+    {
       "id": "n_93750ee7c1",
       "type": "news",
       "topic": "general",
@@ -277,37 +332,15 @@
       "publishedAt": "2026-09-08T21:46:31.000Z"
     },
     {
-      "id": "n_c0fa9c1f63",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
-      "summary": "Investigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T21:41:11.000Z"
-    },
-    {
       "id": "n_358ee43386",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "LIV files for bankruptcy protection with $45m owed to players",
+      "headline": "LIV files for bankruptcy protection with over $45m owed to players",
       "summary": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-08T21:20:22.000Z"
-    },
-    {
-      "id": "n_832c384b67",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-      "summary": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T19:11:39.000Z"
     },
     {
       "id": "n_50607f402b",
@@ -321,37 +354,15 @@
       "publishedAt": "2026-09-08T18:21:40.000Z"
     },
     {
-      "id": "n_88d1d02e9e",
+      "id": "n_75538fdf90",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "British widow faces deportation from Sweden after 22 years",
-      "summary": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
+      "headline": "Should promotion depend on how workers use AI?",
+      "summary": "More companies are tying career progression to AI use: is that fair?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T18:02:42.000Z"
-    },
-    {
-      "id": "n_62fa068020",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Fourteen go on trial over deadliest Channel small boats disaster",
-      "summary": "At least 30 men, women and children drowned when their dinghy capsized on 24 November 2021.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd94jn72w2yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T17:24:25.000Z"
-    },
-    {
-      "id": "n_5913c4a326",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-      "summary": "President Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T17:10:54.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T23:05:23.000Z"
     },
     {
       "id": "n_d71ed4603e",
@@ -420,26 +431,59 @@
       "publishedAt": "2026-09-07T12:22:07.000Z"
     },
     {
-      "id": "n_49fa1c646a",
+      "id": "n_dc3eda17ca",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
-      "summary": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-07T11:30:27.000Z"
+      "headline": "LG TV shown scanning LAN for third-party phones and other devices",
+      "summary": "“It doesn’t cost a lot to store text forever.”",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
+      "publishedAt": "2026-09-08T21:52:29.000Z"
     },
     {
-      "id": "n_46b60883e1",
+      "id": "n_e883a47e53",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Tech Now",
-      "summary": "Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0031d1p?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T01:00:18.000Z"
+      "headline": "GOG brings back \"big box\" PC games, one printable template at a time",
+      "summary": "Preservation \"goodies\" also includes downloadable 3D models for desktop perusal.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
+      "publishedAt": "2026-09-08T21:23:13.000Z"
+    },
+    {
+      "id": "n_bf8c2b1da3",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Why this month's Microsoft patch release is a doozy",
+      "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "publishedAt": "2026-09-08T21:11:46.000Z"
+    },
+    {
+      "id": "n_74012351da",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "The universal language of space is... Star Trek? Mais oui.",
+      "summary": "\"Science fiction imagines the future. We build it.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/",
+      "publishedAt": "2026-09-08T20:20:20.000Z"
+    },
+    {
+      "id": "n_cec960be6b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "NIH to use part of its budget to pay for Department of Defense research",
+      "summary": "Money would ostensibly fund research the NIH leadership said it no longer wanted.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/",
+      "publishedAt": "2026-09-08T20:06:44.000Z"
     },
     {
       "id": "n_153ab89786",
@@ -473,61 +517,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/",
       "publishedAt": "2026-09-08T18:53:23.000Z"
-    },
-    {
-      "id": "n_083ec72c2d",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
-      "summary": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
-      "publishedAt": "2026-09-08T18:43:09.000Z"
-    },
-    {
-      "id": "n_a7d30b6a86",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Update to Google’s AI weather model improves forecast accuracy",
-      "summary": "Like traditional weather models, it benefits from an expanded set of inputs.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
-      "publishedAt": "2026-09-08T18:00:56.000Z"
-    },
-    {
-      "id": "n_4795c1e465",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Google complies with EU rules for travel searches, says the new results stink",
-      "summary": "The EU continues to go after Google search practices it sees as anticompetitive.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/",
-      "publishedAt": "2026-09-08T16:49:55.000Z"
-    },
-    {
-      "id": "n_1c66ae5141",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
-      "summary": "Trump admin's propaganda \"arcade\" hits some apparent legal limits.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/",
-      "publishedAt": "2026-09-08T16:31:21.000Z"
-    },
-    {
-      "id": "n_2b3d53af88",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "The secret to protecting next-gen spacecraft might be eggshells",
-      "summary": "3D-printed aluminum eggshell arrays filled with water proved more effective at impact resistance.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/09/how-eggshells-can-protect-spacecraft-from-space-debris/",
-      "publishedAt": "2026-09-08T16:20:58.000Z"
     },
     {
       "id": "n_8910eda6fc",
