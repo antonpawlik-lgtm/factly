@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-10T20:12:34.049Z",
+  "generatedAt": "2026-09-10T22:49:47.717Z",
   "items": [
+    {
+      "id": "n_d107af5979",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ermittlungen gegen Krach in drei Fällen",
+      "summary": "Die Staatsanwaltschaft Hannover ermittelt in drei Fällen gegen den Berliner SPD-Spitzenkandidaten Krach. Es geht um Verrat von Geschäftsgeheimnissen und den Anfangsverdacht auf Vorteilsnahme. Krach weist die Vorwürfe zurück.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-staatsanwaltschaft-ermittelt-in-drei-faellen-gegen-spd-spitzenkandidat-krach-102.html",
+      "publishedAt": "2026-09-10T22:03:41.000Z"
+    },
     {
       "id": "n_18ef1c07ee",
       "type": "news",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-ezb-100.html",
       "publishedAt": "2026-09-10T16:32:35.000Z"
-    },
-    {
-      "id": "n_01ea7cdb0f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "ARD-Vorwahlumfrage für Berlin: Linke liegt hauchdünn vor der CDU",
-      "summary": "Es könnte eng werden bei der Wahl in Berlin: Die Linke liegt der ARD-Umfrage zufolge knapp vor der CDU. Das BSW würde es nicht ins Abgeordnetenhaus schaffen. Von Florian Riesewieck.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-berlin-100.html",
-      "publishedAt": "2026-09-10T16:00:31.000Z"
     },
     {
       "id": "n_b9fd80cb6f",
@@ -266,6 +266,28 @@
       "publishedAt": "2026-09-10T15:23:01.000Z"
     },
     {
+      "id": "n_24d251fe76",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Coach crash kills several people in Swiss Alps",
+      "summary": "A coach carrying 48 Dutch passengers overturns, leaving several people dead.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T20:44:51.000Z"
+    },
+    {
+      "id": "n_f388562125",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Man jailed after threatening to kill son's teacher in French village",
+      "summary": "The father had threatened to behead a female primary school teacher near Toulouse.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T20:10:51.000Z"
+    },
+    {
       "id": "n_0d5e1b404f",
       "type": "news",
       "topic": "general",
@@ -330,28 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-10T15:54:17.000Z"
-    },
-    {
-      "id": "n_ef8b392f6e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
-      "summary": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T13:12:40.000Z"
-    },
-    {
-      "id": "n_61eae7e487",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Twenty-five dead after fire on cargo ship in eastern China",
-      "summary": "Of the 42 people on board, 17 were were evacuated, CCTV reports.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T12:24:54.000Z"
     },
     {
       "id": "n_a5aa19509c",
@@ -442,6 +442,17 @@
       "publishedAt": "2026-09-08T20:00:00.000Z"
     },
     {
+      "id": "n_8bbba81b85",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
+      "summary": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
+      "publishedAt": "2026-09-10T20:55:29.000Z"
+    },
+    {
       "id": "n_74bb69ef82",
       "type": "news",
       "topic": "tech",
@@ -519,15 +530,48 @@
       "publishedAt": "2026-09-10T11:30:42.000Z"
     },
     {
-      "id": "n_eca0578fed",
+      "id": "n_31c8ff7591",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Four groups caught using the same Chrome and Windows exploit kit",
-      "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
-      "publishedAt": "2026-09-09T20:55:02.000Z"
+      "headline": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "publishedAt": "2026-09-10T21:51:59.000Z"
+    },
+    {
+      "id": "n_6ef5efba80",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-10T21:35:00.000Z"
+    },
+    {
+      "id": "n_c3c4ec3c12",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "publishedAt": "2026-09-10T20:59:51.000Z"
+    },
+    {
+      "id": "n_8e2bb47760",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "publishedAt": "2026-09-10T20:57:30.000Z"
     },
     {
       "id": "n_11165f51c8",
@@ -574,48 +618,15 @@
       "publishedAt": "2026-09-10T14:53:50.000Z"
     },
     {
-      "id": "n_f9f39a68dc",
+      "id": "n_1a89e65b75",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Maven Robotics wants to steal your robot deployment deal",
-      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-      "publishedAt": "2026-09-10T14:17:37.000Z"
-    },
-    {
-      "id": "n_c1f34cbe9c",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "publishedAt": "2026-09-10T00:00:37.000Z"
-    },
-    {
-      "id": "n_2d26331197",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI adds a prominent AI doomer to its board of directors",
-      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "publishedAt": "2026-09-09T22:25:22.000Z"
-    },
-    {
-      "id": "n_9b8574f427",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Massachusetts hits data centers with new clean power rules",
-      "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-      "publishedAt": "2026-09-09T21:43:34.000Z"
+      "headline": "Slack can now vibe-code interactive charts and reports inside chats",
+      "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from rel",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "publishedAt": "2026-09-10T21:25:21.000Z"
     },
     {
       "id": "n_5e0cb078be",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
       "publishedAt": "2026-09-09T21:16:34.000Z"
-    },
-    {
-      "id": "n_d6f0852fba",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Read the Apple document explaining how new listening features still protect your privacy",
-      "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI \"",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-      "publishedAt": "2026-09-09T20:44:43.000Z"
     },
     {
       "id": "n_bd0657d2bf",
@@ -794,6 +794,17 @@
       "publishedAt": "2026-08-26T19:00:00.000Z"
     },
     {
+      "id": "n_ec15e8533e",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Is AI Actually Going to Kill Us All?",
+      "summary": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
+      "publishedAt": "2026-09-10T20:30:37.000Z"
+    },
+    {
       "id": "n_925cfdd9b8",
       "type": "news",
       "topic": "ai",
@@ -869,17 +880,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
       "publishedAt": "2026-09-08T20:12:51.000Z"
-    },
-    {
-      "id": "n_59099424e7",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
-      "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
-      "publishedAt": "2026-09-08T16:42:05.000Z"
     },
     {
       "id": "n_cb50b0c3c8",
