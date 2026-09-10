@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-09-10T17:55:56.359Z",
+  "generatedAt": "2026-09-10T20:12:34.049Z",
   "items": [
+    {
+      "id": "n_18ef1c07ee",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Huthi-Miliz nimmt laut Berichten Hafenstadt im Jemen ein",
+      "summary": "Die Huthi haben im Jemen eine Offensive auf das Küstengebiet gestartet. Medienberichten zufolge nahm die vom Iran unterstützte Miliz nun die Hafenstadt Mokka ein - und kontrolliert damit einen Zugang zu einer strategisch wichtigen Meerenge.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/huthi-jemen-114.html",
+      "publishedAt": "2026-09-10T19:23:15.000Z"
+    },
+    {
+      "id": "n_c20de71d2c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Emirate investieren 40 Milliarden Euro in Deutschland",
+      "summary": "Deutschland und die Vereinigten Arabischen Emirate wollen ihre Beziehungen ausbauen. Der Golfstaat plant Investitionen von 40 Milliarden Euro. Zudem darf die Fluggesellschaft Emirates eine weitere deutsche Stadt anfliegen. Von Nicole Markwald.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/vae-deutschland-100.html",
+      "publishedAt": "2026-09-10T18:24:58.000Z"
+    },
+    {
+      "id": "n_f11749ea64",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Was die AfD in den Schulen in Sachsen-Anhalt verändern könnte",
+      "summary": "Mehr Bismarck, weniger Hitler; Inklusion abschaffen und Unterricht zu Hause: Im Bereich der Bildungspolitik hat die AfD in Sachsen-Anhalt viele Pläne. Doch nicht alles, was politisch gefordert wird, ist rechtlich auch möglich. Von A. Tadey.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-bildungspolitik-100.html",
+      "publishedAt": "2026-09-10T18:03:25.000Z"
+    },
     {
       "id": "n_50d79079b6",
       "type": "news",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-berlin-100.html",
       "publishedAt": "2026-09-10T16:00:31.000Z"
-    },
-    {
-      "id": "n_48a8ce2211",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Iran-Krieg: Wie die Golfstaaten US-Präsident Trump sehen",
-      "summary": "Anfangs gab es viel Sympathie und große Deals. Doch inzwischen ist die Trump-Euphorie am Golf vorbei. Die arabischen Partner fühlen sich von den USA im Iran-Krieg alleingelassen - und ziehen ihre Lehren daraus. Von Anna Osius.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/trump-golfstaaten-verhaeltnis-100.html",
-      "publishedAt": "2026-09-10T15:43:18.000Z"
-    },
-    {
-      "id": "n_d5a4e62aea",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Sind Flutkatastrophen wie im Himalaya auch in den Alpen möglich?",
-      "summary": "Die Flut in Nepal und Tibet Ende August kostete Hunderte Menschen das Leben. Ausgelöst wurde das Unglück durch einen Felssturz. Ist eine vergleichbare Katastrophe auch in den Alpen möglich? Von Frank Bäumer.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/sturzflut-gefahr-alpen-100.html",
-      "publishedAt": "2026-09-10T15:09:37.000Z"
-    },
-    {
-      "id": "n_5aa804ad2a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "ARD-Vorwahlumfrage für Mecklenburg-Vorpommern: AfD klar vor SPD",
-      "summary": "In der ARD-Umfrage vor der Wahl in Mecklenburg-Vorpommern liegt die AfD fünf Prozentpunkte vor der SPD. Die Mehrheit spricht sich jedoch für eine SPD-geführte Landesregierung aus. Von Claudia Müller.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-vorwahl-mecklenburg-vorpommern-100.html",
-      "publishedAt": "2026-09-10T15:00:39.000Z"
     },
     {
       "id": "n_b9fd80cb6f",
@@ -178,6 +178,17 @@
       "publishedAt": "2026-09-08T12:27:00.000Z"
     },
     {
+      "id": "n_0ca5bb6fc2",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "CATV und DOCSIS: Einen ganzen Satelliten direkt ins Kabelnetz einspeisen",
+      "summary": "Alle Satellitenprogramme ins Kabelnetz schicken, das funktioniert. Doch ohne sehr hochwertige Technik gebe es Probleme, sagt Jultec-Chef Müller. (Kabelnetz, DSL)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/catv-und-docsis-einen-ganzen-satelliten-direkt-ins-kabelnetz-einspeisen-2609-212894.html",
+      "publishedAt": "2026-09-10T18:46:02.000Z"
+    },
+    {
       "id": "n_e8b4bd39af",
       "type": "news",
       "topic": "tech",
@@ -255,15 +266,26 @@
       "publishedAt": "2026-09-10T15:23:01.000Z"
     },
     {
-      "id": "n_3cfad39b19",
+      "id": "n_0d5e1b404f",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Marvel's Wolverine im Test: So brutal lässt es der Superheld krachen",
-      "summary": "Marvel's Wolverine ist blutig, geradlinig und sieht gut aus. Uns begeistern vor allem die wuchtigen Kämpfe - in überschaubaren Dosen (nur PS5). Ein Test von Peter Steinlechner (Playstation 5, Spieletest)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/marvel-s-wolverine-im-test-so-brutal-laesst-es-der-superheld-krachen-2609-212829.html",
-      "publishedAt": "2026-09-10T15:00:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "More than 20 children killed in DR Congo school fire",
+      "summary": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T19:16:24.000Z"
+    },
+    {
+      "id": "n_5885c6bd56",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+      "summary": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T18:15:47.000Z"
     },
     {
       "id": "n_755d67bbb8",
@@ -299,17 +321,6 @@
       "publishedAt": "2026-09-10T16:31:30.000Z"
     },
     {
-      "id": "n_0d5e1b404f",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "More than 20 children feared dead in DR Congo school fire",
-      "summary": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T16:21:50.000Z"
-    },
-    {
       "id": "n_7270f17d48",
       "type": "news",
       "topic": "general",
@@ -319,17 +330,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-10T15:54:17.000Z"
-    },
-    {
-      "id": "n_5885c6bd56",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-      "summary": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T15:38:56.000Z"
     },
     {
       "id": "n_ef8b392f6e",
@@ -442,6 +442,72 @@
       "publishedAt": "2026-09-08T20:00:00.000Z"
     },
     {
+      "id": "n_74bb69ef82",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Europe will go it alone on Venus mission after NASA yanks radar instrument",
+      "summary": "Europe is looking inward, and perhaps to China, as the White House tries to cancel some NASA partnerships.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/",
+      "publishedAt": "2026-09-10T19:09:29.000Z"
+    },
+    {
+      "id": "n_618b76c1d6",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Android can now securely migrate your logins between password managers",
+      "summary": "App support is slim right now, but Google says more are coming.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
+      "publishedAt": "2026-09-10T18:41:09.000Z"
+    },
+    {
+      "id": "n_032cea4944",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Panic builds over bankrupt Spirit’s looming data sale to Google",
+      "summary": "\"Bankruptcy cannot become the new land grab for AI.”",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+      "publishedAt": "2026-09-10T18:14:14.000Z"
+    },
+    {
+      "id": "n_01a1930533",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Physicist does the math on Star Trek’s “Picard maneuver”",
+      "summary": "The trick from Next Generation would be even more effective in real life.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/09/physicist-does-the-math-on-star-treks-picard-maneuver/",
+      "publishedAt": "2026-09-10T17:54:33.000Z"
+    },
+    {
+      "id": "n_8d623c3040",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Kimmel's ABC show won't air interview with Democrat because of Trump FCC threats",
+      "summary": "Talarico talk to be on YouTube to save ABC stations the hassle of dealing with FCC.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
+      "publishedAt": "2026-09-10T17:30:09.000Z"
+    },
+    {
+      "id": "n_5605ce270c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Drones deliver food and remove bodies after Nepal’s flood disaster",
+      "summary": "DJI drones that already supply Mount Everest camps assist Nepal’s flood relief.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
+      "publishedAt": "2026-09-10T16:53:52.000Z"
+    },
+    {
       "id": "n_309bc3c431",
       "type": "news",
       "topic": "tech",
@@ -464,70 +530,15 @@
       "publishedAt": "2026-09-09T20:55:02.000Z"
     },
     {
-      "id": "n_19322c230a",
+      "id": "n_11165f51c8",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Europe may finally have found a space entrepreneur who is meeting the moment",
-      "summary": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
-      "publishedAt": "2026-09-09T20:27:40.000Z"
-    },
-    {
-      "id": "n_1fcac2698c",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Six Chinese AI firms accused of aggressively copying US frontier models",
-      "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
-      "publishedAt": "2026-09-09T20:06:28.000Z"
-    },
-    {
-      "id": "n_bf73a4f73e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
-      "summary": "Apple's first foldable can be yours next month.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
-      "publishedAt": "2026-09-09T19:42:00.000Z"
-    },
-    {
-      "id": "n_c6f2eda348",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "When it comes to Beatles references, scientists can't let it be",
-      "summary": "New study detects 3,200 references to Beatles song titles and lyrics in academic papers.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/",
-      "publishedAt": "2026-09-09T19:31:55.000Z"
-    },
-    {
-      "id": "n_b3a28ff7c5",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
-      "summary": "Four women sue Amazon, say company denied basic accommodations and fired them.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
-      "publishedAt": "2026-09-09T19:09:20.000Z"
-    },
-    {
-      "id": "n_716b73a6f8",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
-      "summary": "AirPods 5 with noise cancellation is cheaper than its predecessor.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
-      "publishedAt": "2026-09-09T18:58:24.000Z"
+      "headline": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "publishedAt": "2026-09-10T19:50:04.000Z"
     },
     {
       "id": "n_4a1ed41738",
@@ -607,15 +618,15 @@
       "publishedAt": "2026-09-09T21:43:34.000Z"
     },
     {
-      "id": "n_679dc40aae",
+      "id": "n_5e0cb078be",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-      "publishedAt": "2026-09-09T20:24:48.000Z"
+      "headline": "Schools are catching on to Big Tech’s playbook",
+      "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companie",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+      "publishedAt": "2026-09-10T19:44:20.000Z"
     },
     {
       "id": "n_95095ad620",
@@ -695,17 +706,6 @@
       "publishedAt": "2026-09-09T20:44:43.000Z"
     },
     {
-      "id": "n_9289099b73",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
-      "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera sensor to \"sign every pixel it sees.\" The iP",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
-      "publishedAt": "2026-09-09T19:30:12.000Z"
-    },
-    {
       "id": "n_bd0657d2bf",
       "type": "news",
       "topic": "ai",
@@ -733,7 +733,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in",
+      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visited, earlier this year, there’s only one other person there, and little in the way of furniture.",
       "source": "MIT Technology Review",
       "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
       "publishedAt": "2026-09-08T10:34:00.000Z"
