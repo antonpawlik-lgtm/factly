@@ -1,93 +1,93 @@
 {
-  "generatedAt": "2026-09-10T07:33:47.657Z",
+  "generatedAt": "2026-09-10T13:10:31.579Z",
   "items": [
+    {
+      "id": "n_5122367004",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Historischer Teppich in Londoner Museum zieht Menschenmassen an",
+      "summary": "Auf 70 Metern Länge erzählt der Wandteppich von Bayeux die normannische Invasion Englands und die Thronbesteigung von Wilhelm \"dem Eroberer\". In London erobert er als seltene Leihgabe die Herzen der Museumsbesucher. Von. C. Prössl.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/london-british-museum-teppich-100.html",
+      "publishedAt": "2026-09-10T13:00:40.000Z"
+    },
+    {
+      "id": "n_46c4faa0cf",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Daimler Truck investiert in großem Stil in Wasserstoff-Technologie",
+      "summary": "Daimler Truck investiert mehrere Hundert Millionen Euro in Wasserstoff-Technologie für Lkw. Allerdings fährt der DAX-Konzern zweigleisig - auch die E-Technologie bleibt eine Option. Insgesamt soll die Klimabilanz verbessert werden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-daimler-truck-100.html",
+      "publishedAt": "2026-09-10T12:35:48.000Z"
+    },
+    {
+      "id": "n_6047c36b03",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Trotz Ermittlungen: Krach will SPD-Spitzenkandidat in Berlin bleiben",
+      "summary": "Der Berliner SPD-Spitzenkandidat Krach will ungeachtet der Ermittlungen der Staatsanwaltschaft Hannover gegen ihn weiter Wahlkampf machen. Die Vorwürfe wies er erneut vehement zurück.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-spd-spitzenkandidat-krach-will-weiter-wahlkampf-machen-102.html",
+      "publishedAt": "2026-09-10T12:19:36.000Z"
+    },
+    {
+      "id": "n_74badd3bb7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Höhere Zinsen - die Auswirkungen für Verbraucher und die Wirtschaft",
+      "summary": "Zum zweiten Mal in diesem Jahr heben Europas Währungshüter den Leitzins an. Was bedeutet das für Verbraucher und Firmen? Wie könnte es in der Geldpolitik weitergehen? Fragen und Antworten. Von Klaus-Rainer Jackisch.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ezb-zinsen-114.html",
+      "publishedAt": "2026-09-10T12:16:55.000Z"
+    },
+    {
+      "id": "n_b437cc4a7a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "EZB erhöht erneut den Leitzins - auf 2,5 Prozent",
+      "summary": "Die Teuerungsrate in der Eurozone ist zuletzt über die Drei-Prozent-Marke geklettert. Um die Inflation abzuschwächen, hat die Europäische Zentralbank nun erneut den Leitzins angehoben.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-sitzung-leitzins-100.html",
+      "publishedAt": "2026-09-10T12:15:29.000Z"
+    },
+    {
+      "id": "n_fcd30828be",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wer muss wie viel sparen im Gesundheitswesen?",
+      "summary": "Heute berät der Bundestag über den Gesundheits-Etat. Bei Kliniken, Arzneien oder auch Psychotherapeuten sollen nach dem Willen der Regierung Milliarden eingespart werden. Wen trifft es am härtesten? Von Petra Boberg.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/krankenkassen-gesundheitsreform-einsparungen-100.html",
+      "publishedAt": "2026-09-10T12:06:13.000Z"
+    },
     {
       "id": "n_4336c0a95f",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Fragen und Antworten zum bundesweiten Warntag",
-      "summary": "Sirenen heulen, Mobiltelefone schrillen, Digitalradios schalten sich von selbst sein - zum sechsten Mal findet heute ab 11 Uhr der bundesweite Warntag statt. Was gibt es zu beachten? Eine Übersicht zu den wichtigsten Fragen.",
+      "headline": "Bundesweiter Warntag: Warum es heute ab 11 Uhr laut wurde",
+      "summary": "Sirenen heulten, Mobiltelefone schrillten, Digitalradios schalteten sich von selbst ein - zum sechsten Mal hat heute der bundesweite Warntag stattgefunden. Antworten auf wichtige Fragen.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/gesellschaft/warntag-faq-100.html",
-      "publishedAt": "2026-09-10T07:24:11.000Z"
+      "publishedAt": "2026-09-10T11:12:11.000Z"
     },
     {
-      "id": "n_dc47df6edb",
+      "id": "n_d0e4b18a0f",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Trump lockt auf Parteitag Wähler mit 5.000-Dollar-Versprechen",
-      "summary": "Den Republikanern droht bei den US-Kongresswahlen im November eine Schlappe. Die Umfragewerte von Präsident Trump sinken. Er versucht, das Ruder herumzureißen - und verspricht im Falle eines Wahlsiegs 5.000 Dollar für jeden Erwachsenen.",
+      "headline": "Bahn-Chefin Palla kündigt weniger Korridorsanierungen pro Jahr an",
+      "summary": "Eigentlich sollten die sogenannten Korridorsanierungen bis 2036 abgeschlossen sein. Doch die Arbeiten werden nach Aussage von Bahn-Chefin Palla länger dauern. Vier große Sanierungen pro Jahr - wie bislang angestrebt - seien zu viel.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/parteitag-republikaner-dallas-100.html",
-      "publishedAt": "2026-09-10T07:03:50.000Z"
-    },
-    {
-      "id": "n_9bf1e9637b",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Umfrage zu Hausärzte-Versorgung: Wenn der Hausarzt fehlt, hat das Einfluss auf die Wahl",
-      "summary": "Deutschlandweit fehlen Tausende Hausarztpraxen. Die Unzufriedenheit darüber hat Folgen auch für das Wahlverhalten von Bürgern, so eine Umfrage. Eine Kommune in Rheinland-Pfalz versucht, dagegenzuhalten. Von A. John und J. Baumert.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/hausaerzte-deutschland-100.html",
-      "publishedAt": "2026-09-10T07:03:04.000Z"
-    },
-    {
-      "id": "n_a1ed2d3544",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Teures Heizöl - warten oder kaufen?",
-      "summary": "Der Ölpreis ist hoch, die Heizsaison beginnt schon bald. Viele Verbraucher sind verunsichert. Lohnt es sich jetzt, Heizöl zu bestellen? Oder soll man auf sinkende Preise warten? Von Jörg Marksteiner.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/oelpreise-heizen-100.html",
-      "publishedAt": "2026-09-10T06:33:33.000Z"
-    },
-    {
-      "id": "n_a66adbec04",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Dubai: Schlechte Aussichten für die Organisierte Kriminalität",
-      "summary": "Dubai gilt nicht nur als Luxusziel, sondern auch als Zufluchtsort für Kriminelle. Deutschland will die Zusammenarbeit mit der Justiz verbessern. Beim Besuch von Präsident bin Zayed heute soll ein Abkommen unterzeichnet werden. Von P. Eckstein, B. Strunz und M. Sarti.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/investigativ/ndr/dubai-organisierte-kriminalitaet-strafverfolgung-100.html",
-      "publishedAt": "2026-09-10T06:00:12.000Z"
-    },
-    {
-      "id": "n_175b16f575",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: Anleger warten auf den EZB-Zinsentscheid",
-      "summary": "Nach den gestrigen Kursverlusten dürfte der DAX heute kaum verändert in den Handel starten. Die Anleger warten gespannt auf den Zinsentscheid der EZB. Sie hoffen insbesondere auf Hinweise zur weiteren Geldpolitik.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-ezb-100.html",
-      "publishedAt": "2026-09-10T05:52:13.000Z"
-    },
-    {
-      "id": "n_c20fea58ce",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Hausdurchsuchungen bei Berliner SPD-Kandidat Krach",
-      "summary": "Die Staatsanwaltschaft Hannover ermittelt gegen den Berliner SPD-Spitzenkandidaten Krach. Die Polizei durchsuchte drei Objekte. Einem Medienbericht zufolge geht es um den Verdacht auf Bestechlichkeit. Krach weist die Vorwürfe zurück.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-spd-spitzenkandidat-staatsanwaltschaft-ermittelt-gegen-krach-100.html",
-      "publishedAt": "2026-09-10T05:20:26.000Z"
-    },
-    {
-      "id": "n_d24e20cceb",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Spanischer Geheimdienst warnte vor Ausnahmesituation in Ceuta",
-      "summary": "Ende Juli kamen binnen Stunden Zehntausende Migranten nach Ceuta. Neue Dokumente zeigen nun: Der spanische Geheimdienst hatte vor der beispiellosen Massenankunft von Menschen aus Marokko in der Exklave gewarnt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/geheimdienst-warnte-offenbar-vor-andrang-in-ceuta-100.html",
-      "publishedAt": "2026-09-10T05:15:06.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/deutsche-bahn-sanierung-palla-100.html",
+      "publishedAt": "2026-09-10T11:00:58.000Z"
     },
     {
       "id": "n_9ecbc23d1a",
@@ -178,114 +178,114 @@
       "publishedAt": "2026-09-08T12:02:00.000Z"
     },
     {
-      "id": "n_bb9ed6b4a6",
+      "id": "n_53cf2a4e3d",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Nach der Preiserhöhung: Hier gibt es Netflix zum alten Preis und teilweise mit ordentlich Rabatt",
-      "summary": "Neukunden von Netflix müssen seit Anfang September 2026 mehr für das Abo bezahlen. Diese höheren Kosten lassen sich umgehen. Ein Ratgebertext von Ingo Pakalski (Netflix, Telekom)",
+      "headline": "Prototyp schon im Jahr 2027: Bundeswehr entwickelt deutsche Alternative zu Palantir",
+      "summary": "Aus Gründen der Souveränität schloss die Bundeswehr Palantir von Beginn des Projekts an aus. (KI, Politik)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/nach-der-preiserhoehung-hier-gibt-es-netflix-zum-alten-preis-und-teilweise-mit-ordentlich-rabatt-2609-212800.html",
-      "publishedAt": "2026-09-10T07:01:02.000Z"
+      "url": "https://www.golem.de/news/prototyp-schon-im-jahr-2027-bundeswehr-entwickelt-deutsche-alternative-zu-palantir-2609-212882.html",
+      "publishedAt": "2026-09-10T12:54:02.000Z"
     },
     {
-      "id": "n_1a595eed97",
+      "id": "n_0bbff63552",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Shieldcrash: Forscher ärgert Microsoft mit neuem Defender-Exploit",
-      "summary": "Microsofts \"High-Quality-Update\" gegen den Shieldbreak-Exploit ist offenbar wenig effektiv. Ein frisch geleakter Exploit umgeht den Schutz. (Sicherheitslücke, Microsoft)",
+      "headline": "Anzeige: Externes DVD-Laufwerk für 16,98 Euro bei Amazon",
+      "summary": "Ein externes DVD-Laufwerk zum Abspielen und Brennen von DVDs und CDs am Laptop gibt es bei Amazon zum Schnäppchenpreis. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/shieldcrash-forscher-aergert-microsoft-mit-neuem-defender-exploit-2609-212855.html",
-      "publishedAt": "2026-09-10T06:55:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-externes-dvd-laufwerk-fuer-16-98-euro-bei-amazon-2609-212881.html",
+      "publishedAt": "2026-09-10T12:31:02.000Z"
     },
     {
-      "id": "n_018efe01ea",
+      "id": "n_30b26f127b",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Polizeisoftware: Bayern hält vorerst an Palantir fest",
-      "summary": "Bayerns Polizei soll Palantirs Software länger nutzen, da Alternativen fehlen. Die geplante Vertragsverlängerung ist umstritten. (Politik, Wirtschaft)",
+      "headline": "Matt Mullenweg: Wordpress-Mitbegründer wird von Vorstand beurlaubt",
+      "summary": "Wordpress-Mitbegründer Matt Mullenweg verursachte in den vergangenen Jahren einige Kontroversen durch seine Unternehmensführung. (Wordpress, Wirtschaft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/polizeisoftware-bayern-haelt-vorerst-an-palantir-fest-2609-212854.html",
-      "publishedAt": "2026-09-10T06:45:02.000Z"
+      "url": "https://www.golem.de/news/matt-mullenweg-wordpress-mitbegruender-wird-von-vorstand-beurlaubt-2609-212880.html",
+      "publishedAt": "2026-09-10T12:19:02.000Z"
     },
     {
-      "id": "n_c2b996ce78",
+      "id": "n_f2554fbead",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Tastatur-Befehle: Versteckte Tastenkombination öffnet in Windows Linkedin",
-      "summary": "Eine Kombination aus fünf Tasten ruft in Windows Linkedin mit einem Tracking-Parameter auf. Ursprung ist eine alte Office-Taste. (Windows, Microsoft)",
+      "headline": "Kosmologie: Entstehung schwarzer Löcher muss infrage gestellt werden",
+      "summary": "Die Entdeckung zahlreicher superschwerer schwarzer Löcher in relativ kleinen Galaxien passt nicht zu bestehenden Theorien über deren Entstehung. (Physik, Weltraumteleskop)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/tastatur-befehle-versteckte-tastenkombination-oeffnet-in-windows-linkedin-2609-212853.html",
-      "publishedAt": "2026-09-10T06:33:02.000Z"
+      "url": "https://www.golem.de/news/kosmologie-entstehung-schwarzer-loecher-muss-infrage-gestellt-werden-2609-212879.html",
+      "publishedAt": "2026-09-10T12:04:02.000Z"
     },
     {
-      "id": "n_a4b36360ee",
+      "id": "n_e661107d8f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Digitalisierung: Digitale Brieftasche D-you startet im Januar 2027",
-      "summary": "Die Bundesregierung startet im Januar 2027 die digitale Brieftasche D-you für Personalausweis und Führerschein. (E-Personalausweis, BSI)",
+      "headline": "Anzeige: Bonsaii-Aktenvernichter zum Amazon-Tiefstpreis",
+      "summary": "Den zuverlässigen Bonsaii-Aktenvernichter für das Homeoffice gibt es bei Amazon aktuell mit fast 10 Euro Rabatt für unter 35 Euro zum Amazon-Tiefstpreis. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/digitalisierung-digitale-brieftasche-d-you-startet-im-januar-2027-2609-212852.html",
-      "publishedAt": "2026-09-10T06:15:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-bonsaii-aktenvernichter-zum-amazon-tiefstpreis-2609-212875.html",
+      "publishedAt": "2026-09-10T11:59:02.000Z"
     },
     {
-      "id": "n_d9c61398b7",
+      "id": "n_5ae41a1b9e",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "OXG: Vodafone Joint Venture erreicht zweithöchstes Glasfaser-Ausbautempo im deutschen Markt",
-      "summary": "Vodafone setzt sich die Krone des Zweitbesten beim FTTH-Ausbau auf. Doch die Gründe sind eher traurig. (Glasfaser, Vodafone)",
+      "headline": "Kepler Compute: Start-up verspricht Lösung für die Speicherkrise",
+      "summary": "Ferroelektrischer Speicher statt HBM: Damit will das US-Start-up Kepler Compute die Fertigungskapazität für RAM schnell und günstig ausbauen. (RAM, Globalfoundries)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/oxg-vodafone-joint-venture-erreicht-zweithoechstes-glasfaser-ausbautempo-im-deutschen-markt-2609-212845.html",
-      "publishedAt": "2026-09-10T06:01:02.000Z"
+      "url": "https://www.golem.de/news/kepler-compute-start-up-verspricht-loesung-fuer-die-speicherkrise-2609-212877.html",
+      "publishedAt": "2026-09-10T11:47:02.000Z"
     },
     {
-      "id": "n_8baf7d0d6e",
+      "id": "n_d68ea34ca0",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Ansible für automatisiertes Systemmanagement",
-      "summary": "Ansible automatisiert Konfiguration und Deployment von Linux-Systemen ohne Agent auf den Zielsystemen. Ein Online-Workshop vermittelt dafür zentrale Werkzeuge und Abläufe. (Golem Karrierewelt, Server-Applikationen)",
+      "headline": "(g+) Selbstständigkeit in der IT: So erstellen Tech-Freelancer den idealen Lebenslauf",
+      "summary": "Die Marktlage ist schwierig, also wird der Lebenslauf länger: noch ein Projekt, noch ein Tool, noch ein Zertifikat. Wie es besser geht. Ein Ratgebertext von Pierre Wilken (Arbeit, API)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-ansible-fuer-automatisiertes-systemmanagement-2609-212809.html",
-      "publishedAt": "2026-09-10T05:15:02.000Z"
+      "url": "https://www.golem.de/news/selbststaendigkeit-in-der-it-so-erstellen-tech-freelancer-den-idealen-lebenslauf-2609-212860.html",
+      "publishedAt": "2026-09-10T11:30:02.000Z"
     },
     {
-      "id": "n_175fe353e5",
+      "id": "n_96128919a5",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "FRK: An das Behördenregister gemeldete Daten müssen sicher vor Hackern sein",
-      "summary": "Auf dem FRK-Breitbandkongress in Leipzig fordert der Fachverband faire Regeln für alle Netzbetreiber sowie mehr Sicherheit bei Infrastrukturdaten. (Festnetz, DSL)",
+      "headline": "Anzeige: Bestseller Nr. 1 für nur 59,99 Euro - diese Soundbar ist ein Hit",
+      "summary": "Die Ultimea M20 Pro führt Amazons Soundbar-Bestsellerliste an. Aktuell kostet das Modell mit integriertem Subwoofer 59,99 Euro. (Heimkino, Amazon)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/frk-an-das-behoerdenregister-gemeldeten-daten-muessten-sicher-vor-hackern-sein-2609-212851.html",
-      "publishedAt": "2026-09-09T20:31:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-bestseller-nr-1-fuer-nur-59-99-euro-diese-soundbar-ist-ein-hit-2609-212876.html",
+      "publishedAt": "2026-09-10T11:23:01.000Z"
     },
     {
-      "id": "n_2e11e20cde",
+      "id": "n_61eae7e487",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Trump says every adult American would get $5,000 if Republicans win midterms",
-      "summary": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
+      "headline": "Twenty-five dead after fire on cargo ship in eastern China",
+      "summary": "Of the 42 people on board, 17 were were evacuated, CCTV reports.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T06:56:38.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T12:24:54.000Z"
     },
     {
-      "id": "n_9b7633b858",
+      "id": "n_ef8b392f6e",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
-      "summary": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
+      "headline": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
+      "summary": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T06:30:19.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T10:46:24.000Z"
     },
     {
       "id": "n_7d0d4d3f6b",
@@ -296,62 +296,62 @@
       "summary": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T05:56:38.000Z"
+      "publishedAt": "2026-09-10T10:43:53.000Z"
     },
     {
-      "id": "n_10969d400c",
+      "id": "n_2e11e20cde",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Russia outpacing Ukraine's air defences with daily use of new jet-powered drones",
-      "summary": "The new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
+      "headline": "Trump says every adult American will get $5,000 if Republicans win midterms",
+      "summary": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T04:43:54.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T10:07:19.000Z"
     },
     {
-      "id": "n_c4e9a534ed",
+      "id": "n_b44ba886e2",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Four key takeaways from Republican midterms convention",
-      "summary": "The US president covered many of the subjects he has returned to time and again - with a few surprises thrown in.",
+      "headline": "'People were trampling me': Philippine ferry fire survivor recalls narrow escape",
+      "summary": "A survivor has told the BBC of the chaos onboard as the ferry caught fire near the popular tourist spot of Coron.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T04:07:44.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c5y48mxm2zjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T09:35:46.000Z"
     },
     {
-      "id": "n_9dbd934229",
+      "id": "n_b8e16cf071",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Watch: Do Republicans blame Trump for high oil prices?",
-      "summary": "The BBC's Sarah Smith is at the Republican Party's first midterms convention in Texas, taking place as oil prices rise to $100 (£74) a barrel.",
+      "headline": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+      "summary": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T01:37:31.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T09:32:34.000Z"
     },
     {
-      "id": "n_3a48ce58c0",
+      "id": "n_70549b4c02",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Inside Thailand's school shooter drills following recent attacks",
-      "summary": "Police say they hope the drill will help prepare students, as concern grows over the increase in school shootings in South East Asia.",
+      "headline": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+      "summary": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c07lpp4e993o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T22:32:07.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T08:44:19.000Z"
     },
     {
-      "id": "n_55dca51cde",
+      "id": "n_87632bd15f",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
-      "summary": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
+      "headline": "Watch: Is Trump's $5,000 election pledge legal?",
+      "summary": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T22:17:22.000Z"
+      "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T07:12:32.000Z"
     },
     {
       "id": "n_a5aa19509c",
@@ -442,11 +442,22 @@
       "publishedAt": "2026-09-08T20:00:00.000Z"
     },
     {
+      "id": "n_309bc3c431",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Artemis II commander and pilot become NASA's first astronaut emeriti",
+      "summary": "\"Artemis II is done.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/",
+      "publishedAt": "2026-09-10T11:30:42.000Z"
+    },
+    {
       "id": "n_eca0578fed",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "4 groups caught using the same Chrome and Windows exploit kit",
+      "headline": "Four groups caught using the same Chrome and Windows exploit kit",
       "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
@@ -517,17 +528,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
       "publishedAt": "2026-09-09T18:58:24.000Z"
-    },
-    {
-      "id": "n_a3decef8ea",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
-      "summary": "New Apple Intelligence features, too.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing/",
-      "publishedAt": "2026-09-09T18:47:07.000Z"
     },
     {
       "id": "n_c1f34cbe9c",
@@ -618,6 +618,17 @@
       "publishedAt": "2026-09-09T18:08:35.000Z"
     },
     {
+      "id": "n_6be9484307",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Mathematicians want proof OpenAI didn’t use their work",
+      "summary": "Sam Altman, chief executive officer of OpenAI, during a media tour of the Stargate AI data center. | Bloomberg via Getty Images Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "publishedAt": "2026-09-10T11:00:57.000Z"
+    },
+    {
       "id": "n_6e51b04520",
       "type": "news",
       "topic": "ai",
@@ -695,15 +706,15 @@
       "publishedAt": "2026-09-09T12:05:01.000Z"
     },
     {
-      "id": "n_930cebb74d",
+      "id": "n_bd0657d2bf",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
-      "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman sys",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-      "publishedAt": "2026-09-09T09:56:28.000Z"
+      "headline": "Powering AI is an architecture problem",
+      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 ",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "publishedAt": "2026-09-10T11:00:00.000Z"
     },
     {
       "id": "n_2392282ee1",
@@ -783,15 +794,26 @@
       "publishedAt": "2026-08-26T19:00:00.000Z"
     },
     {
-      "id": "n_f53aafc869",
+      "id": "n_925cfdd9b8",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Raised on AI",
-      "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her o",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
-      "publishedAt": "2026-08-26T09:00:00.000Z"
+      "headline": "Everything New You Can Do With Siri AI",
+      "summary": "When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
+      "publishedAt": "2026-09-10T10:30:00.000Z"
+    },
+    {
+      "id": "n_3cbbd511bb",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
+      "summary": "InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information about people identified through Clearview.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
+      "publishedAt": "2026-09-10T10:00:00.000Z"
     },
     {
       "id": "n_327a25ddef",
@@ -860,26 +882,15 @@
       "publishedAt": "2026-09-08T16:42:05.000Z"
     },
     {
-      "id": "n_2ba326ea52",
+      "id": "n_cb50b0c3c8",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
-      "summary": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
-      "publishedAt": "2026-09-07T10:30:00.000Z"
-    },
-    {
-      "id": "n_ee69948e60",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "My Brief Summer Fling With Siri AI",
-      "summary": "I was initially enamored with the beta version of Apple’s revamped smartphone assistant. As the full release approaches, I’ve forgotten Siri AI even exists.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
-      "publishedAt": "2026-09-06T10:30:00.000Z"
+      "headline": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "publishedAt": "2026-09-10T00:00:00.000Z"
     },
     {
       "id": "n_e8608e40b7",
@@ -959,15 +970,16 @@
       "publishedAt": "2026-09-01T21:39:07.000Z"
     },
     {
-      "id": "n_85562dc163",
-      "type": "news",
-      "topic": "ai",
+      "id": "n_9818ebd3c2",
+      "type": "video",
+      "topic": "video",
       "lang": "en",
-      "headline": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "headline": "I Never Thought I’d See This Happen",
       "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "publishedAt": "2026-09-01T00:00:00.000Z"
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=mOvtumfyjCs",
+      "thumbnail": "https://i.ytimg.com/vi/mOvtumfyjCs/hqdefault.jpg",
+      "publishedAt": "2026-09-10T08:47:23.000Z"
     },
     {
       "id": "n_ff7563162b",
@@ -1004,18 +1016,6 @@
       "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
       "thumbnail": "https://i.ytimg.com/vi/w9RDunJACkc/hqdefault.jpg",
       "publishedAt": "2026-09-01T09:04:56.000Z"
-    },
-    {
-      "id": "n_0638f3b98b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Billion Dollar AI Gap Is Collapsing",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
-      "thumbnail": "https://i.ytimg.com/vi/LBiNcdGNgrg/hqdefault.jpg",
-      "publishedAt": "2026-08-28T09:44:44.000Z"
     },
     {
       "id": "n_ffdb3dfd14",
