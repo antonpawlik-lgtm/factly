@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-09-10T22:49:47.717Z",
+  "generatedAt": "2026-09-11T01:45:32.269Z",
   "items": [
+    {
+      "id": "n_1f603e36d9",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wie der 11. September die deutsche Gesellschaft prägte",
+      "summary": "Der 11. September 2001 prägte auch die deutsche Gesellschaft. Insbesondere Muslime und Menschen mit Einwanderungsgeschichte fühlen sich seitdem misstrauisch beäugt. Von C. Horn und K. Nastarowitz.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/elfter-september-anschlaege-muslime-100.html",
+      "publishedAt": "2026-09-11T01:37:15.000Z"
+    },
+    {
+      "id": "n_15b71c1fe6",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Mehrere Tote nach Busunglück in der Schweiz",
+      "summary": "Ein Reisebus ist in der Schweiz von der Straße abgekommen, dabei wurden nach Polizeiangaben mehrere Menschen getötet. Der Bus eines niederländischen Reiseveranstalters war mit mit knapp 50 Menschen an Bord unterwegs.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/schweiz-busunfall-100.html",
+      "publishedAt": "2026-09-11T01:03:39.000Z"
+    },
+    {
+      "id": "n_07dd409d47",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ukraine: Fünf Tote bei Angriff auf Einkaufszentrum in Pawlohrad",
+      "summary": "Erst am Donnerstag waren in Sumy drei Menschen bei einem russischen Angriff auf ein Einkaufszentrum getötet worden - nun wurde eines in Pawlohrad getroffen. Laut Behörden starben dabei fünf Menschen, mehr als 60 wurden verletzt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/angriff-ukraine-pawlohrad-100.html",
+      "publishedAt": "2026-09-11T00:57:21.000Z"
+    },
     {
       "id": "n_d107af5979",
       "type": "news",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/strom-sabotage-bundesanwaltschaft-100.html",
       "publishedAt": "2026-09-10T17:43:51.000Z"
-    },
-    {
-      "id": "n_c6786345d4",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "USA: Oberstes Gericht lehnt Wahlkreisänderung in Missouri ab",
-      "summary": "Weniger als zwei Monate vor den Midterms muss US-Präsident Trump einen Rückschlag hinnehmen: Der Supreme Court lehnte den Neuzuschnitt der Wahlkreise in Missouri ab. Die Änderung könnte zu Chaos führen. Von S. Jackisch.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-wahlkreise-missouri-oberstes-gericht-100.html",
-      "publishedAt": "2026-09-10T17:18:47.000Z"
-    },
-    {
-      "id": "n_6047c36b03",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Trotz Ermittlungen: Krach will SPD-Spitzenkandidat in Berlin bleiben",
-      "summary": "Der Berliner SPD-Spitzenkandidat Krach will ungeachtet der Ermittlungen der Staatsanwaltschaft Hannover gegen ihn weiter Wahlkampf machen. Die Vorwürfe wies er erneut vehement zurück.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-spd-spitzenkandidat-krach-will-weiter-wahlkampf-machen-102.html",
-      "publishedAt": "2026-09-10T16:56:27.000Z"
-    },
-    {
-      "id": "n_175b16f575",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: Der DAX dreht ins Minus",
-      "summary": "Der DAX hat weiter an Boden verloren. Denn die Zinserhöhung der EZB war zwar erwartet worden, könnte aber nicht die letzte gewesen sein. Besonders die hohen Ölpreise lasten weiter auf dem Markt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-ezb-100.html",
-      "publishedAt": "2026-09-10T16:32:35.000Z"
     },
     {
       "id": "n_b9fd80cb6f",
@@ -271,10 +271,10 @@
       "topic": "general",
       "lang": "en",
       "headline": "Coach crash kills several people in Swiss Alps",
-      "summary": "A coach carrying 48 Dutch passengers overturns, leaving several people dead.",
+      "summary": "The tourist coach was carrying dozens of Dutch passengers when it overturned in the south-eastern Swiss Alps.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T20:44:51.000Z"
+      "publishedAt": "2026-09-11T01:01:18.000Z"
     },
     {
       "id": "n_f388562125",
@@ -354,6 +354,17 @@
       "publishedAt": "2026-09-10T15:54:17.000Z"
     },
     {
+      "id": "n_31029957a2",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Can Europe recharge its battery industry?",
+      "summary": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T23:05:47.000Z"
+    },
+    {
       "id": "n_a5aa19509c",
       "type": "news",
       "topic": "tech",
@@ -431,15 +442,15 @@
       "publishedAt": "2026-09-08T20:57:09.000Z"
     },
     {
-      "id": "n_00b37a80f0",
+      "id": "n_f7d25b4f5a",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Tech Life",
-      "summary": "Scammers demand money from Instagram users over fake copyright claims.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyd?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-08T20:00:00.000Z"
+      "headline": "Boy developed \"toasted skin\" condition from using a laptop every day",
+      "summary": "Laptops don't usually get hot enough to burn—but they can still be harmful.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
+      "publishedAt": "2026-09-10T22:16:05.000Z"
     },
     {
       "id": "n_8bbba81b85",
@@ -512,22 +523,11 @@
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Drones deliver food and remove bodies after Nepal’s flood disaster",
+      "headline": "China’s drone supremacy shows in airlifting bodies and food after Nepal flood disaster",
       "summary": "DJI drones that already supply Mount Everest camps assist Nepal’s flood relief.",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
       "publishedAt": "2026-09-10T16:53:52.000Z"
-    },
-    {
-      "id": "n_309bc3c431",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Artemis II commander and pilot become NASA's first astronaut emeriti",
-      "summary": "\"Artemis II is done.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/",
-      "publishedAt": "2026-09-10T11:30:42.000Z"
     },
     {
       "id": "n_31c8ff7591",
@@ -794,6 +794,17 @@
       "publishedAt": "2026-08-26T19:00:00.000Z"
     },
     {
+      "id": "n_95fd067d5c",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+      "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+      "publishedAt": "2026-09-10T23:28:42.000Z"
+    },
+    {
       "id": "n_ec15e8533e",
       "type": "news",
       "topic": "ai",
@@ -869,17 +880,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
       "publishedAt": "2026-09-09T13:00:00.000Z"
-    },
-    {
-      "id": "n_26a148a2e1",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
-      "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
-      "publishedAt": "2026-09-08T20:12:51.000Z"
     },
     {
       "id": "n_cb50b0c3c8",
@@ -1064,54 +1064,6 @@
       "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
       "thumbnail": "https://i.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
       "publishedAt": "2026-06-30T21:16:13.000Z"
-    },
-    {
-      "id": "n_d0ecbe4c7e",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "I built the same game with Astra and Fable 5.1... only one was fun",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=2Xiljy4xzbc",
-      "thumbnail": "https://i.ytimg.com/vi/2Xiljy4xzbc/hqdefault.jpg",
-      "publishedAt": "2026-09-09T16:34:27.000Z"
-    },
-    {
-      "id": "n_f14faacfbf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "5 open source tools that replaced my $320/mo AI stack...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=Y5rSSvXfL4g",
-      "thumbnail": "https://i.ytimg.com/vi/Y5rSSvXfL4g/hqdefault.jpg",
-      "publishedAt": "2026-09-07T17:24:51.000Z"
-    },
-    {
-      "id": "n_cedb5d5fd8",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did OpenAI actually build AGI? GPT-6 Astra first look",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=FluKUJyeYD8",
-      "thumbnail": "https://i.ytimg.com/vi/FluKUJyeYD8/hqdefault.jpg",
-      "publishedAt": "2026-09-04T20:14:12.000Z"
-    },
-    {
-      "id": "n_41b8d826b3",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The most interesting hack in history just got weirder...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=0Rp9KJCEIvg",
-      "thumbnail": "https://i.ytimg.com/vi/0Rp9KJCEIvg/hqdefault.jpg",
-      "publishedAt": "2026-09-02T19:01:28.000Z"
     },
     {
       "id": "n_49c5442701",
