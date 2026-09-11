@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-09-11T01:45:32.269Z",
+  "generatedAt": "2026-09-11T07:32:38.556Z",
   "items": [
+    {
+      "id": "n_9f2059da32",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Debatte über mögliches AfD-Verbotsverfahren geht weiter",
+      "summary": "Die Debatte über ein mögliches Verbotsverfahren der AfD hält an. Der Vorsitzende der Innenministerkonferenz, Grote, unterstützte den Vorschlag, die Voraussetzungen für ein Verbot zu prüfen. Andere sind skeptisch.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/afd-pruefung-verbotsverfahren-100.html",
+      "publishedAt": "2026-09-11T07:01:21.000Z"
+    },
+    {
+      "id": "n_d107af5979",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ermittlungen gegen Krach in drei Fällen",
+      "summary": "Die Staatsanwaltschaft Hannover ermittelt in drei Fällen gegen den Berliner SPD-Spitzenkandidaten Krach. Es geht um Verrat von Geschäftsgeheimnissen und den Anfangsverdacht auf Vorteilsnahme. Krach weist die Vorwürfe zurück.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-staatsanwaltschaft-ermittelt-in-drei-faellen-gegen-spd-spitzenkandidat-krach-102.html",
+      "publishedAt": "2026-09-11T06:59:17.000Z"
+    },
+    {
+      "id": "n_1fe9d5f2bc",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "11KM-Podcast: Wie der Terror von 9/11 Deutschland verändert hat",
+      "summary": "Vor 25 Jahren erschütterte 9/11 die Welt. Nach dem Anschlag rückte auch Hamburg ins Zentrum der Ermittlungen. 11KM über die Frage, was das mit der Stadt und mit Deutschland gemacht hat.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/podcast-11km-9-11-veraenderung-deutschland-100.html",
+      "publishedAt": "2026-09-11T05:45:25.000Z"
+    },
+    {
+      "id": "n_cf9626e193",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: EZB-Zinserhöhung vergrault die Anleger",
+      "summary": "Die Ölpreise steigen, Leitzinsen, Anleiherenditen und Inflation ebenfalls. Die Zeiten für die Anleger am Aktienmarkt sind derzeit schwierig - der DAX dürfte weiter zurückfallen und sein Wochenminus ausbauen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-anleiherenditen-100.html",
+      "publishedAt": "2026-09-11T05:37:44.000Z"
+    },
+    {
+      "id": "n_c82218af56",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Parteitag der US-Republikaner: Vance bezeichnet Demokraten als \"Partei des Hasses\"",
+      "summary": "Zwei Monate vor den US-Zwischenwahlen hat Vizepräsident Vance auf dem Parteitag der Republikaner die Demokraten scharf attackiert. Er bezeichnete sie als \"Partei des Hasses\". Eine Präsidentschaftskandidatur ließ er offen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/republikaner-parteitag-104.html",
+      "publishedAt": "2026-09-11T05:32:14.000Z"
+    },
+    {
+      "id": "n_4752eb6228",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Elektromobilität: Baut Deutschland die falschen Ladesäulen?",
+      "summary": "Der Erfolg der E-Mobilität hängt nicht nur von den Fahrzeugen, sondern auch von der Ladeinfrastruktur ab. Je mehr Ladesäulen, desto besser - das war lange die Devise. Doch stimmt das noch? Von Thomas Eckert.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/elektro-autos-laden-100.html",
+      "publishedAt": "2026-09-11T04:23:49.000Z"
+    },
+    {
+      "id": "n_5ca2ae9cf4",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "25 Jahre nach 9/11: \"Ich werde jeden Tag an den Anschlag erinnert\"",
+      "summary": "Heute vor 25 Jahren verübten Terroristen den Anschlag auf das World Trade Center in New York. Der Arzt Gordon Huie überlebte, seine Schwester war eines der 2.753 Todesopfer. Bis heute leidet er unter den gesundheitlichen Folgen des giftigen Staubs.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-11-september-jahrestag-interview-100.html",
+      "publishedAt": "2026-09-11T04:20:44.000Z"
+    },
     {
       "id": "n_1f603e36d9",
       "type": "news",
@@ -13,81 +90,15 @@
       "publishedAt": "2026-09-11T01:37:15.000Z"
     },
     {
-      "id": "n_15b71c1fe6",
+      "id": "n_103174d242",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Mehrere Tote nach Busunglück in der Schweiz",
-      "summary": "Ein Reisebus ist in der Schweiz von der Straße abgekommen, dabei wurden nach Polizeiangaben mehrere Menschen getötet. Der Bus eines niederländischen Reiseveranstalters war mit mit knapp 50 Menschen an Bord unterwegs.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/schweiz-busunfall-100.html",
-      "publishedAt": "2026-09-11T01:03:39.000Z"
-    },
-    {
-      "id": "n_07dd409d47",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Ukraine: Fünf Tote bei Angriff auf Einkaufszentrum in Pawlohrad",
-      "summary": "Erst am Donnerstag waren in Sumy drei Menschen bei einem russischen Angriff auf ein Einkaufszentrum getötet worden - nun wurde eines in Pawlohrad getroffen. Laut Behörden starben dabei fünf Menschen, mehr als 60 wurden verletzt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/angriff-ukraine-pawlohrad-100.html",
-      "publishedAt": "2026-09-11T00:57:21.000Z"
-    },
-    {
-      "id": "n_d107af5979",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Ermittlungen gegen Krach in drei Fällen",
-      "summary": "Die Staatsanwaltschaft Hannover ermittelt in drei Fällen gegen den Berliner SPD-Spitzenkandidaten Krach. Es geht um Verrat von Geschäftsgeheimnissen und den Anfangsverdacht auf Vorteilsnahme. Krach weist die Vorwürfe zurück.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-staatsanwaltschaft-ermittelt-in-drei-faellen-gegen-spd-spitzenkandidat-krach-102.html",
-      "publishedAt": "2026-09-10T22:03:41.000Z"
-    },
-    {
-      "id": "n_18ef1c07ee",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Huthi-Miliz nimmt laut Berichten Hafenstadt im Jemen ein",
-      "summary": "Die Huthi haben im Jemen eine Offensive auf das Küstengebiet gestartet. Medienberichten zufolge nahm die vom Iran unterstützte Miliz nun die Hafenstadt Mokka ein - und kontrolliert damit einen Zugang zu einer strategisch wichtigen Meerenge.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/huthi-jemen-114.html",
-      "publishedAt": "2026-09-10T19:23:15.000Z"
-    },
-    {
-      "id": "n_c20de71d2c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Emirate investieren 40 Milliarden Euro in Deutschland",
-      "summary": "Deutschland und die Vereinigten Arabischen Emirate wollen ihre Beziehungen ausbauen. Der Golfstaat plant Investitionen von 40 Milliarden Euro. Zudem darf die Fluggesellschaft Emirates eine weitere deutsche Stadt anfliegen. Von Nicole Markwald.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/vae-deutschland-100.html",
-      "publishedAt": "2026-09-10T18:24:58.000Z"
-    },
-    {
-      "id": "n_f11749ea64",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Was die AfD in den Schulen in Sachsen-Anhalt verändern könnte",
-      "summary": "Mehr Bismarck, weniger Hitler; Inklusion abschaffen und Unterricht zu Hause: Im Bereich der Bildungspolitik hat die AfD in Sachsen-Anhalt viele Pläne. Doch nicht alles, was politisch gefordert wird, ist rechtlich auch möglich. Von A. Tadey.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-bildungspolitik-100.html",
-      "publishedAt": "2026-09-10T18:03:25.000Z"
-    },
-    {
-      "id": "n_50d79079b6",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Bundesanwaltschaft übernimmt Ermittlungen zu Strom-Sabotage",
-      "summary": "Nach den Attacken auf Umspannwerke in mehreren Bundesländern hat die Bundesanwaltschaft die Ermittlungen übernommen. Dem Tatverdächtigen wird verfassungsfeindliche Sabotage vorgeworfen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/strom-sabotage-bundesanwaltschaft-100.html",
-      "publishedAt": "2026-09-10T17:43:51.000Z"
+      "headline": "Anthropic hat angeblich untersagte KI-Forschung an Biowaffen unterbunden",
+      "summary": "Im ersten umfangreichen Bericht zu Versuchen, Anthropics KI zu missbrauchen, schlägt die Firma einen weiten Bogen zu ganz unterschiedlichen Themenkomplexen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Anthropic-hat-angeblich-untersagte-KI-Forschung-an-Biowaffen-unterbunden-11449768.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-11T05:09:00.000Z"
     },
     {
       "id": "n_b9fd80cb6f",
@@ -167,103 +178,136 @@
       "publishedAt": "2026-09-08T13:21:00.000Z"
     },
     {
-      "id": "n_4e2359fd9f",
+      "id": "n_21d9a8faf9",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "„WeWorm“: Zero-Click-Wurm hätte alle Konten von WeChat übernehmen können",
-      "summary": "Eine KI hat eine Schwachstelle in WeChat gefunden, über die man in kürzester Zeit eine Milliarde Konten hätte übernehmen können. Sie ist bereits geschlossen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/WeWorm-Zero-Click-Wurm-haette-alle-Konten-von-WeChat-uebernehmen-koennen-11445370.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-08T12:27:00.000Z"
+      "headline": "Android: Google stellt Pixel Tablet ein",
+      "summary": "Das Pixel Tablet ist schon länger nicht mehr verfügbar gewesen, jetzt schmeißt Google es aus dem Store. Damit dürften Tablets für Google vorerst kein Thema mehr sein. (Tablet, Google)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/android-google-stellt-pixel-tablet-ein-2609-212902.html",
+      "publishedAt": "2026-09-11T07:24:01.000Z"
     },
     {
-      "id": "n_0ca5bb6fc2",
+      "id": "n_933c0d8568",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "CATV und DOCSIS: Einen ganzen Satelliten direkt ins Kabelnetz einspeisen",
-      "summary": "Alle Satellitenprogramme ins Kabelnetz schicken, das funktioniert. Doch ohne sehr hochwertige Technik gebe es Probleme, sagt Jultec-Chef Müller. (Kabelnetz, DSL)",
+      "headline": "Googles und Samsung Foldables im Test: Zwei Formate, ein Favorit",
+      "summary": "Samsungs Galaxy Z Fold 8 hat ein neues, praktisches Format und ist technisch hochwertig. Was kann Google mit dem Pixel 11 Pro Fold entgegensetzen? Ein Test von Tobias Költzsch (Foldables, Smartphone)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/catv-und-docsis-einen-ganzen-satelliten-direkt-ins-kabelnetz-einspeisen-2609-212894.html",
-      "publishedAt": "2026-09-10T18:46:02.000Z"
+      "url": "https://www.golem.de/news/googles-und-samsung-foldables-im-test-galaxy-z-fold-8-punktet-beim-design-pixel-11-pro-fold-bei-den-kameras-2609-212874.html",
+      "publishedAt": "2026-09-11T07:15:02.000Z"
     },
     {
-      "id": "n_e8b4bd39af",
+      "id": "n_c40616d1aa",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Beliebter Gigabit-Netzwerk-Switch mit fünf Ports für unter 15 Euro",
-      "summary": "Der TP-Link TL-SG105 gehört zu den meistbestellten Produkten seiner Art bei Amazon und wird dort wieder günstiger angeboten. (Technik/Hardware, Amazon)",
+      "headline": "Germaniumfreie Solarzellen: Rocket Lab verbessert Stromversorgung im Orbit",
+      "summary": "Die neu entwickelten Solarzellen besitzen nicht nur einen hohen Wirkungsgrad, sie bieten zwei weitere Vorteile von unschätzbarem Wert. (Solarenergie, Nasa)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-beliebter-gigabit-netzwerk-switch-mit-fuenf-ports-fuer-unter-15-euro-2609-212893.html",
-      "publishedAt": "2026-09-10T16:55:00.000Z"
+      "url": "https://www.golem.de/news/germaniumfreie-solarzellen-rocket-lab-verbessert-stromversorgung-im-orbit-2609-212901.html",
+      "publishedAt": "2026-09-11T07:08:01.000Z"
     },
     {
-      "id": "n_5d717fa229",
+      "id": "n_1c3f07f3b2",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: IT-Notfallmanagement: Business Continuity Management gestalten",
-      "summary": "Ausfälle und Krisen bedrohen Geschäftsprozesse. IT-Notfallmanagement und Business Continuity Management stärken die Widerstandsfähigkeit. Ein Workshop zeigt die praktische Umsetzung. (Golem Karrierewelt, Sicherheitslücke)",
+      "headline": "KI-Sicherheit: Anthropic sperrt Wissenschaftler wegen Biowaffen-Forschung",
+      "summary": "Anthropic blockiert Konten von Forschern, die KI-Modelle wie Claude zur Entwicklung von biologischen Waffen nutzen wollten. (Anthropic, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-it-notfallmanagement-business-continuity-management-gestalten-2609-212892.html",
-      "publishedAt": "2026-09-10T16:45:01.000Z"
+      "url": "https://www.golem.de/news/ki-sicherheit-anthropic-sperrt-wissenschaftler-wegen-biowaffen-forschung-2609-212899.html",
+      "publishedAt": "2026-09-11T06:53:01.000Z"
     },
     {
-      "id": "n_f366b8285c",
+      "id": "n_d01d62174b",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: ANC-Kopfhörer für 32 Euro - Soundcore Q20i mit 60 Stunden Akkulaufzeit im Angebot",
-      "summary": "Bei Amazon gibt es aktuell den ANC-Kopfhörer Soundcore Q20i für 32 Euro. Der hält bis zu 60 h Akkulaufzeit bereit, erfordert aber Kompromisse. (Kopfhörer, Amazon)",
+      "headline": "Beschwerden häufen sich: Windows-Updates machen RDP-Verbindungen kaputt",
+      "summary": "Zahlreiche Nutzer können seit dem September-Patchday keine RDP-Verbindung mehr zu Windows-Servern aufbauen. Ein Fix ist noch nicht in Sicht. (Windows, Microsoft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-anc-kopfhoerer-fuer-32-euro-soundcore-q20i-mit-60-stunden-akkulaufzeit-im-angebot-2609-212891.html",
-      "publishedAt": "2026-09-10T16:25:02.000Z"
+      "url": "https://www.golem.de/news/beschwerden-haeufen-sich-windows-updates-machen-rdp-verbindungen-kaputt-2609-212898.html",
+      "publishedAt": "2026-09-11T06:47:02.000Z"
     },
     {
-      "id": "n_97bc443ecf",
+      "id": "n_0e9589c96c",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) Artificial Intelligence: Anthropic researcher quits over AI labs 'gambling with our lives'",
-      "summary": "Latest departure highlights mounting unease inside Silicon Valley companies racing to build ever more powerful systems Von Tom Wilson (Anthropic, KI)",
+      "headline": "Grafikkartenmarkt: Geforce RTX 5090 überschreitet Marke von 5.000 Euro",
+      "summary": "Die Preise für Grafikkarten steigen weiter. Selbst \"günstige\" Modelle der Geforce RTX 5090 kosten im Handel inzwischen über 5.000 Euro. (Geforce RTX, Grafikkarten)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/artificial-intelligence-anthropic-researcher-quits-over-ai-labs-gambling-with-our-lives-2609-212883.html",
-      "publishedAt": "2026-09-10T16:00:05.000Z"
+      "url": "https://www.golem.de/news/grafikkartenmarkt-geforce-rtx-5090-ueberschreitet-marke-von-5-000-euro-2609-212897.html",
+      "publishedAt": "2026-09-11T06:26:01.000Z"
     },
     {
-      "id": "n_8d026750fe",
+      "id": "n_a32621d769",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Deutsche TV-Plattform: Reine DVB-I Streaming-Fernseher kurz vor dem Start",
-      "summary": "DVB-I-TV-Geräte bringen das Fernseh-Programm ohne Kabel-, Satellit- oder Terrestrikanschluss. Die Hersteller sind beim Update vorsichtig, um mehr neue Geräte zu verkaufen. (Streaming, Server)",
+      "headline": "Kehrtwende: Zeiss verwirft bisherige SAP-Strategie",
+      "summary": "Der geplante SAP-Neustart bei Zeiss ist vom Tisch. Stattdessen soll zunächst die bestehende ERP-Umgebung auf S/4HANA übertragen werden. (SAP, Carl Zeiss)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/deutsche-tv-plattform-reine-dvb-i-streaming-fernseher-kurz-vor-dem-start-2609-212889.html",
-      "publishedAt": "2026-09-10T16:00:02.000Z"
+      "url": "https://www.golem.de/news/kehrtwende-zeiss-verwirft-bisherige-sap-strategie-2609-212896.html",
+      "publishedAt": "2026-09-11T06:18:02.000Z"
     },
     {
-      "id": "n_186c972c15",
+      "id": "n_c9fa783d51",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Action Cam DJI Osmo 360 für 8K-Videos reduziert bei Amazon",
-      "summary": "Die Action Cam DJI Osmo 360 für 8K-Videos gibt es als Adventure Combo mit drei Akkus, Ladegerät und Selfiestick zum Aktionspreis bei Amazon. (Actioncam, DJI)",
+      "headline": "Anzeige: Power Automate: Flows erstellen ohne Programmieren",
+      "summary": "Wiederkehrende Aufgaben in Microsoft 365 kosten Zeit. Mit Power Automate lassen sich Prozesse ohne Programmierung automatisieren. (Golem Karrierewelt, Server-Applikationen)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-action-cam-dji-osmo-360-fuer-8k-videos-reduziert-bei-amazon-2609-212866.html",
-      "publishedAt": "2026-09-10T15:25:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-power-automate-flows-erstellen-ohne-programmieren-2609-212895.html",
+      "publishedAt": "2026-09-11T05:15:01.000Z"
     },
     {
-      "id": "n_88958a1cc9",
+      "id": "n_e4de6ed939",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Anker SOLIX Solarbank zum Amazon-Sparpreis",
-      "summary": "Mit einem Batteriespeicher lässt sich die Effizienz eines Balkonkraftwerks steigern. Amazon bietet die Anker SOLIX 2 Plus Solarbank aktuell mit rund 50 Euro Rabatt an. (Technik/Hardware, Powerstation)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-anker-solix-solarbank-zum-amazon-sparpreis-2609-212890.html",
-      "publishedAt": "2026-09-10T15:23:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Princess Diana's 'revenge dress' goes up for auction",
+      "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T06:54:46.000Z"
+    },
+    {
+      "id": "n_f388562125",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Man jailed after threatening to kill son's teacher in French village",
+      "summary": "The father had threatened to behead a female primary school teacher near Toulouse.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T06:28:42.000Z"
+    },
+    {
+      "id": "n_5eb9daabec",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'Islam is being hijacked': Brother of Muslim first responder killed in 9/11",
+      "summary": "Zeshan Hamdani, who lost his older brother in the North Tower, is speaking out after push back against New York Mayor Zohran Mamdani attending the 25-year memorial.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ce8e67l4330o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T04:10:24.000Z"
+    },
+    {
+      "id": "n_df4a9c484f",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'It was heartbreaking'- Americans remember what they were doing on 9/11",
+      "summary": "The BBC asks people in Washington what they were doing on that day and how 11 September 2001 changed the country.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T02:48:43.000Z"
     },
     {
       "id": "n_24d251fe76",
@@ -277,81 +321,37 @@
       "publishedAt": "2026-09-11T01:01:18.000Z"
     },
     {
-      "id": "n_f388562125",
+      "id": "n_858afc7f61",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Man jailed after threatening to kill son's teacher in French village",
-      "summary": "The father had threatened to behead a female primary school teacher near Toulouse.",
+      "headline": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
+      "summary": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T20:10:51.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T23:22:11.000Z"
     },
     {
-      "id": "n_0d5e1b404f",
+      "id": "n_080cb506fc",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "More than 20 children killed in DR Congo school fire",
-      "summary": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
+      "headline": "Bernie Sanders speaks to the BBC about proposal to ban AI superintelligence",
+      "summary": "The senator has also proposed a sort of sovereign wealth fund in which the US would take a 50% stake in AI companies.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T19:16:24.000Z"
+      "url": "https://www.bbc.co.uk/news/videos/cgjq11576q2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T22:48:37.000Z"
     },
     {
-      "id": "n_5885c6bd56",
+      "id": "n_6bda194990",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-      "summary": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
+      "headline": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
+      "summary": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T18:15:47.000Z"
-    },
-    {
-      "id": "n_755d67bbb8",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'We never recovered him': Quest to identify remains from Ground Zero continues",
-      "summary": "Since the attacks, New York officials are working with new, complex technology to find traces of more than 1,000 victims.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T17:13:53.000Z"
-    },
-    {
-      "id": "n_f84315dca1",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Can Trump really pay $5,000 to every American adult?",
-      "summary": "Analysts question if the US president's election year offer is workable, legal or affordable.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T16:48:37.000Z"
-    },
-    {
-      "id": "n_3ca3e39dbd",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-      "summary": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T16:31:30.000Z"
-    },
-    {
-      "id": "n_7270f17d48",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
-      "summary": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T15:54:17.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-10T22:36:02.000Z"
     },
     {
       "id": "n_31029957a2",
@@ -546,7 +546,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
       "publishedAt": "2026-09-10T21:35:00.000Z"
@@ -1064,6 +1064,54 @@
       "url": "https://www.youtube.com/watch?v=pv1TUJSEM2k",
       "thumbnail": "https://i.ytimg.com/vi/pv1TUJSEM2k/hqdefault.jpg",
       "publishedAt": "2026-06-30T21:16:13.000Z"
+    },
+    {
+      "id": "n_d0ecbe4c7e",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "I built the same game with Astra and Fable 5.1... only one was fun",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=2Xiljy4xzbc",
+      "thumbnail": "https://i.ytimg.com/vi/2Xiljy4xzbc/hqdefault.jpg",
+      "publishedAt": "2026-09-09T16:34:27.000Z"
+    },
+    {
+      "id": "n_f14faacfbf",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "5 open source tools that replaced my $320/mo AI stack...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=Y5rSSvXfL4g",
+      "thumbnail": "https://i.ytimg.com/vi/Y5rSSvXfL4g/hqdefault.jpg",
+      "publishedAt": "2026-09-07T17:24:51.000Z"
+    },
+    {
+      "id": "n_cedb5d5fd8",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Did OpenAI actually build AGI? GPT-6 Astra first look",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=FluKUJyeYD8",
+      "thumbnail": "https://i.ytimg.com/vi/FluKUJyeYD8/hqdefault.jpg",
+      "publishedAt": "2026-09-04T20:14:12.000Z"
+    },
+    {
+      "id": "n_41b8d826b3",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The most interesting hack in history just got weirder...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=0Rp9KJCEIvg",
+      "thumbnail": "https://i.ytimg.com/vi/0Rp9KJCEIvg/hqdefault.jpg",
+      "publishedAt": "2026-09-02T19:01:28.000Z"
     },
     {
       "id": "n_49c5442701",
