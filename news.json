@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-11T20:20:16.663Z",
+  "generatedAt": "2026-09-11T22:50:39.710Z",
   "items": [
+    {
+      "id": "n_9e0b7a3ee9",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Frankreich: Mehr als 40 Verletzte bei Zugunglück",
+      "summary": "Ein Teil eines Zugs in Nordfrankreich ist nach einer Kollision entgleist. Mehr als 40 Menschen wurden nach vorläufigen Angaben verletzt, darunter eine Frau schwer. An Bord des Verkehrsmittels waren rund 180 Passagiere.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-zugentgleisung-100.html",
+      "publishedAt": "2026-09-11T21:31:05.000Z"
+    },
     {
       "id": "n_9c45890fca",
       "type": "news",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/huthi-eroberung-inseln-100.html",
       "publishedAt": "2026-09-11T16:01:53.000Z"
-    },
-    {
-      "id": "n_0a9777ec13",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "25 Jahre nach den Anschlägen - 9/11 ist nicht vorbei",
-      "summary": "Die Anschläge am 11. September 2001 wirken bis heute nach - politisch und gesellschaftlich, meint Christoph Heinzle. So sei unser Gefühl von Sicherheit nachhaltig erschüttert worden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kommentar/11-september-usa-afghanistan-100.html",
-      "publishedAt": "2026-09-11T14:46:01.000Z"
     },
     {
       "id": "n_4e49a74679",
@@ -274,7 +274,18 @@
       "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T20:11:47.000Z"
+      "publishedAt": "2026-09-11T22:17:45.000Z"
+    },
+    {
+      "id": "n_c496307818",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Six Nigerians accused of romance scams to be extradited to the US",
+      "summary": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T21:07:19.000Z"
     },
     {
       "id": "n_5c9d4dd477",
@@ -341,17 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-11T12:04:46.000Z"
-    },
-    {
-      "id": "n_4c03e94a08",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-      "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T10:50:04.000Z"
     },
     {
       "id": "n_68f6488325",
@@ -442,6 +442,50 @@
       "publishedAt": "2026-09-09T12:06:40.000Z"
     },
     {
+      "id": "n_d7b2f7525c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Random rewards enrich classic game-theory contests",
+      "summary": "Simple games gain rich strategies in the face of noise.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+      "publishedAt": "2026-09-11T21:41:16.000Z"
+    },
+    {
+      "id": "n_23758e5135",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
+      "summary": "The strain lurking in the inflatable structure was hypervirulent.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
+      "publishedAt": "2026-09-11T21:14:26.000Z"
+    },
+    {
+      "id": "n_c9ae2a448b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Trump's forced coal plant extensions thrown out by judge",
+      "summary": "The Department of Energy declared an \"emergency\" when none existed.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
+      "publishedAt": "2026-09-11T20:32:59.000Z"
+    },
+    {
+      "id": "n_bdc78941dc",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+      "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+      "publishedAt": "2026-09-11T19:34:09.000Z"
+    },
+    {
       "id": "n_96e9022e79",
       "type": "news",
       "topic": "tech",
@@ -486,48 +530,48 @@
       "publishedAt": "2026-09-11T13:02:35.000Z"
     },
     {
-      "id": "n_adc6888365",
+      "id": "n_2619d8ade2",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "ClickFix attacks infecting PCs and Macs are going viral",
-      "summary": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
-      "publishedAt": "2026-09-11T11:30:58.000Z"
+      "headline": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "publishedAt": "2026-09-11T20:59:47.000Z"
     },
     {
-      "id": "n_e399e87723",
+      "id": "n_b3b4818aa3",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "What happens when quantum mechanics and relativity meet?",
-      "summary": "Experiment put atoms in a superposition of trajectories to find out.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/",
-      "publishedAt": "2026-09-11T11:20:02.000Z"
+      "headline": "OpenAI’s feud with mathematicians is only escalating",
+      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "publishedAt": "2026-09-11T20:57:36.000Z"
     },
     {
-      "id": "n_93b35ee610",
+      "id": "n_c9bc20e498",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Could United Launch Alliance's money problems finally force its owners to sell?",
-      "summary": "ULA is preparing to resume launching the Vulcan rocket in the coming weeks.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
-      "publishedAt": "2026-09-11T11:00:44.000Z"
+      "headline": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-11T20:33:18.000Z"
     },
     {
-      "id": "n_685e0a836b",
+      "id": "n_54bc95a279",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?",
-      "summary": "\"We felt like now is the time to pour gas on that fire.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/",
-      "publishedAt": "2026-09-11T11:00:30.000Z"
+      "headline": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "publishedAt": "2026-09-11T20:30:17.000Z"
     },
     {
       "id": "n_83e605502c",
@@ -572,50 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
       "publishedAt": "2026-09-10T21:51:59.000Z"
-    },
-    {
-      "id": "n_6ef5efba80",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-10T21:35:00.000Z"
-    },
-    {
-      "id": "n_c3c4ec3c12",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "publishedAt": "2026-09-10T20:59:51.000Z"
-    },
-    {
-      "id": "n_8e2bb47760",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "publishedAt": "2026-09-10T20:57:30.000Z"
-    },
-    {
-      "id": "n_11165f51c8",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Meta’s AI agent Muse is now the No. 2 app in the US",
-      "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "publishedAt": "2026-09-10T19:50:04.000Z"
     },
     {
       "id": "n_c182342702",
@@ -710,7 +710,7 @@
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Roundtables: Will AI really kill us all?",
+      "headline": "Roundtables: AI’s apocalypse crisis",
       "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will D",
       "source": "MIT Technology Review",
       "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
