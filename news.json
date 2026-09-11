@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-11T17:57:34.584Z",
+  "generatedAt": "2026-09-11T20:20:16.663Z",
   "items": [
+    {
+      "id": "n_9c45890fca",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Seenotretter in England als Ziel rechter Anfeindung",
+      "summary": "Gegen die Ankunft von Flüchtlingen über den Ärmelkanal haben in England Hunderte protestiert. Nun wurde bekannt, dass sie Seenotretter angefeindet haben. Experten sehen eine neue Form rechter Mobilisierung. Von Franziska Hoppen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/uk-anfeindungen-seenotretter-100.html",
+      "publishedAt": "2026-09-11T18:45:23.000Z"
+    },
+    {
+      "id": "n_b8bc40a64c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Gedenken zum 11. September in den USA: Ein ganzes Land trauert",
+      "summary": "Am 25. Jahrestag erinnern zahlreiche Zeremonien in den USA an die Tausenden Opfer der Terroranschläge vom 11. September 2001. Mehrere Ex-Präsidenten nahmen an der Gedenkveranstaltung am Ground Zero in New York teil.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/new-york-gedenken-102.html",
+      "publishedAt": "2026-09-11T18:09:41.000Z"
+    },
     {
       "id": "n_4840a5487f",
       "type": "news",
@@ -57,17 +79,6 @@
       "publishedAt": "2026-09-11T16:01:53.000Z"
     },
     {
-      "id": "n_b8bc40a64c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Gedenken zum 11. September in den USA: Ein ganzes Land trauert",
-      "summary": "Am 25. Jahrestag erinnern zahlreiche Zeremonien in den USA an die Tausenden Opfer der Terroranschläge vom 11. September 2001. Mehrere Ex-Präsidenten nahmen an der Gedenkveranstaltung am Ground Zero in New York teil.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/new-york-gedenken-102.html",
-      "publishedAt": "2026-09-11T15:13:02.000Z"
-    },
-    {
       "id": "n_0a9777ec13",
       "type": "news",
       "topic": "general",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/kommentar/11-september-usa-afghanistan-100.html",
       "publishedAt": "2026-09-11T14:46:01.000Z"
-    },
-    {
-      "id": "n_a045d17f1c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Gegenwind im Bundestag - Arbeitsministerin Bas verteidigt Reformen",
-      "summary": "Ungerecht, sozial kalt, auf Sand gebaut: Arbeitsministerin Bas wird für den Haushaltsentwurf ihres Ministeriums von der Opposition scharf angegangen. Dabei ist der Etat so hoch nie. Von Dagmar Pepping.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bas-haushaltsdebatte-100.html",
-      "publishedAt": "2026-09-11T13:41:00.000Z"
     },
     {
       "id": "n_4e49a74679",
@@ -266,6 +266,28 @@
       "publishedAt": "2026-09-11T13:14:01.000Z"
     },
     {
+      "id": "n_fefac17505",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T20:11:47.000Z"
+    },
+    {
+      "id": "n_5c9d4dd477",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+      "summary": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T19:44:58.000Z"
+    },
+    {
       "id": "n_b43c2e14cf",
       "type": "news",
       "topic": "general",
@@ -275,17 +297,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-11T17:32:44.000Z"
-    },
-    {
-      "id": "n_fefac17505",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T16:58:34.000Z"
     },
     {
       "id": "n_4d54eb985f",
@@ -341,17 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-11T10:50:04.000Z"
-    },
-    {
-      "id": "n_c496307818",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Six Nigerians accused of romance scams to be extradited to the US",
-      "summary": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T09:54:51.000Z"
     },
     {
       "id": "n_68f6488325",
@@ -442,6 +442,28 @@
       "publishedAt": "2026-09-09T12:06:40.000Z"
     },
     {
+      "id": "n_96e9022e79",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
+      "summary": "Analysis revealed seed proteins from sesame and moringa, which held religious and symbolic significance.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
+      "publishedAt": "2026-09-11T18:49:39.000Z"
+    },
+    {
+      "id": "n_c34ea07e6f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Oracle tries to appease Stargate data center opponents with renewables push",
+      "summary": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
+      "publishedAt": "2026-09-11T18:22:22.000Z"
+    },
+    {
       "id": "n_af40d725e2",
       "type": "news",
       "topic": "tech",
@@ -508,26 +530,26 @@
       "publishedAt": "2026-09-11T11:00:30.000Z"
     },
     {
-      "id": "n_f7d25b4f5a",
+      "id": "n_83e605502c",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Boy developed \"toasted skin\" condition from using a laptop every day",
-      "summary": "Laptops don't usually get hot enough to burn—but they can still be harmful.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
-      "publishedAt": "2026-09-10T22:16:05.000Z"
+      "headline": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "publishedAt": "2026-09-11T19:35:54.000Z"
     },
     {
-      "id": "n_8bbba81b85",
+      "id": "n_0c8057bddc",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
-      "summary": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
-      "publishedAt": "2026-09-10T20:55:29.000Z"
+      "headline": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+      "summary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather than walking it back. It’s the kind of doom",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "publishedAt": "2026-09-11T18:41:49.000Z"
     },
     {
       "id": "n_b8f06fc0f8",
@@ -594,28 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
       "publishedAt": "2026-09-10T19:50:04.000Z"
-    },
-    {
-      "id": "n_4a1ed41738",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "publishedAt": "2026-09-10T17:54:44.000Z"
-    },
-    {
-      "id": "n_bb541ac986",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "publishedAt": "2026-09-10T17:45:00.000Z"
     },
     {
       "id": "n_c182342702",
@@ -706,6 +706,17 @@
       "publishedAt": "2026-09-10T11:00:57.000Z"
     },
     {
+      "id": "n_bc7fdc500a",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Roundtables: Will AI really kill us all?",
+      "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will D",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "publishedAt": "2026-09-11T20:05:06.000Z"
+    },
+    {
       "id": "n_bd0657d2bf",
       "type": "news",
       "topic": "ai",
@@ -783,15 +794,15 @@
       "publishedAt": "2026-08-31T18:00:00.000Z"
     },
     {
-      "id": "n_69b225fb59",
+      "id": "n_7a2125b6bc",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "The inside story on why OpenAI agents hacked Hugging Face",
-      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "publishedAt": "2026-08-26T19:00:00.000Z"
+      "headline": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+      "summary": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+      "publishedAt": "2026-09-11T18:59:25.000Z"
     },
     {
       "id": "n_7f9aec9fc8",
@@ -869,17 +880,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
       "publishedAt": "2026-09-09T22:11:55.000Z"
-    },
-    {
-      "id": "n_c5aab09e1b",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
-      "summary": "The City Attorney’s Office has asked Meta to explain how the harmful ads repeatedly ran on Facebook and Instagram. The company claims the ads are not under the city’s jurisdiction.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
-      "publishedAt": "2026-09-09T21:15:27.000Z"
     },
     {
       "id": "n_cb50b0c3c8",
@@ -1070,7 +1070,7 @@
       "type": "video",
       "topic": "video",
       "lang": "en",
-      "headline": "OpenAI is solving math... and nobody's happy about it",
+      "headline": "OpenAI's biggest math breakthrough is getting ugly...",
       "summary": "",
       "source": "Fireship",
       "url": "https://www.youtube.com/watch?v=aspmNhKAFMc",
