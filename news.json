@@ -1,93 +1,104 @@
 {
-  "generatedAt": "2026-09-12T07:23:54.841Z",
+  "generatedAt": "2026-09-12T12:27:57.792Z",
   "items": [
+    {
+      "id": "n_7e8be8e3da",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "CDU-Generalsekretärin Hoppermann verteidigt Bundeskanzler Merz",
+      "summary": "Trotz schlechter Umfragewerte sieht CDU-Generalsekretärin Hoppermann ihre Partei unter Bundeskanzler Merz \"auf dem richtigen Weg\". Als Beispiel nennt sie die Rentenreform - und wirbt für die Wahl am kommenden Wochenende.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/merz-kritik-hoppermann-100.html",
+      "publishedAt": "2026-09-12T11:46:56.000Z"
+    },
+    {
+      "id": "n_5ae2cdf567",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Versuchter Drohnenanschlag: Die Spur führt zum russischen Geheimdienst",
+      "summary": "Nach dem versuchten Drohnenanschlag auf den Flughafen Leipzig/Halle kommen immer mehr Details ans Licht. Einem Bericht zufolge führen die Ermittlungen direkt zum russischen Geheimdienst: Ein GRU-Mitarbeiter soll der Logistiker sein.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/leipzig-drohnenvorfall-russischer-geheimdienst-100.html",
+      "publishedAt": "2026-09-12T11:05:29.000Z"
+    },
+    {
+      "id": "n_14a121f2c0",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Zug entgleist in Frankreich - Ermittler schließen Sabotage nicht aus",
+      "summary": "In Nordfrankreich entgleist ein Zug, mehr als 40 Menschen werden verletzt. Französische Medien berichten nun, dass es möglicherweise kein Unglück war. Offenbar fanden Ermittler einen Schienenteil auf der Strecke.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-zug-entgleist-100.html",
+      "publishedAt": "2026-09-12T10:45:13.000Z"
+    },
+    {
+      "id": "n_7bac2aa040",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Hubig will Verstöße gegen Mietpreisbremse mit Bußgeldern bestrafen",
+      "summary": "Steigende Mieten machen vielen Menschen Sorgen. Die Mietpreisbremse soll in besonders angespannten Wohnungsmärkten helfen. Doch noch gibt es zu viele Schlupflöcher, sagt Justizministerin Hubig - und will dagegen vorgehen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/hubig-mietpreisbremse-102.html",
+      "publishedAt": "2026-09-12T10:43:25.000Z"
+    },
+    {
+      "id": "n_2df9144f94",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Brasilien: Bolsonaros Sohn greift nach der Macht",
+      "summary": "Der Sohn von Jair Bolsonaro will Brasiliens nächster Präsident werden - und setzt dabei auf einen aggressiven Ton. Rückhalt bekommt er von vielen Brasilianern, die die Verurteilung seines Vaters für ungerecht halten. Von Anne Herrberg.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/brasilien-bolsonaro-sohn-100.html",
+      "publishedAt": "2026-09-12T10:20:15.000Z"
+    },
+    {
+      "id": "n_1236eefa7a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Alaska: 15-Jähriger nach Tagen auf gekentertem Boot gerettet",
+      "summary": "Ein Teenager hat sich in der kalten Beringsee vor Alaska zwei Tage lang auf einem gekenterten Boot über Wasser gehalten. Er wurde schließlich von einem Fischerkutter gerettet - zwei seiner Begleiter starben jedoch.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-alaska-junge-rettung-boot-100.html",
+      "publishedAt": "2026-09-12T10:04:22.000Z"
+    },
+    {
+      "id": "n_7c690f40bc",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach US-Manöver: Nordkorea feuert erneut ballistische Raketen ab",
+      "summary": "US-Präsident Trump spricht von guten Beziehungen zu Nordkoreas Machthaber Kim. Doch unmittelbar nach Ende eines Manövers der USA mit Südkorea reagiert der Norden mit Raketen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/nordkorea-raketen-160.html",
+      "publishedAt": "2026-09-12T07:28:44.000Z"
+    },
     {
       "id": "n_970926d7e7",
       "type": "news",
       "topic": "general",
       "lang": "de",
       "headline": "Saudi-Arabien schaltet nach Drohnenangriffen wichtige Öl-Pipeline ab",
-      "summary": "Es ist eine Vorsichtsmaßnahme, die die Öl- und Benzinpreise weiter steigen lasse könnte: Nach den Drohnenangriffen aus dem Irak hat Saudi-Arabien seine Ost-West-Pipeline abgestellt. Exporte werden dadurch weiter reduziert.",
+      "summary": "Es ist eine Vorsichtsmaßnahme, die die Öl- und Benzinpreise weiter steigen lassen könnte: Nach den Drohnenangriffen aus dem Irak hat Saudi-Arabien seine Ost-West-Pipeline abgestellt. Exporte werden dadurch weiter reduziert.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-stellt-betrieb-von-oelpipeline-ein-100.html",
       "publishedAt": "2026-09-12T07:07:30.000Z"
     },
     {
-      "id": "n_e87c2a3e2e",
+      "id": "n_ee93573e82",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "BRICS-Gipfel im Zeichen globaler Ungewissheiten",
-      "summary": "Putin, Xi, Modi: Beim BRICS-Gipfel in Neu-Delhi treffen selbstbewusste Staatenlenker aufeinander. Bei vielen Themen liegen sie weit auseinander. Was kann das Treffen bei den globalen Krisen - von Ukraine bis Iran - bewirken? Von Lena Bodewein.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/brics-gipfel-indien-100.html",
-      "publishedAt": "2026-09-12T05:18:36.000Z"
-    },
-    {
-      "id": "n_df4ab14ec9",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Griechische Reeder: Verschwiegen, einflussreich, risikofreudig",
-      "summary": "Trotz weltweiter Krisen boomt das Geschäft der griechischen Reeder. Das kleine Land liegt bei den Transportkapazitäten weltweit auf Platz 1. Doch immer wieder sind die Reeder auch in Grauzonen unterwegs. Von Astrid Halder.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/reeder-griechenland-100.html",
-      "publishedAt": "2026-09-12T05:04:13.000Z"
-    },
-    {
-      "id": "n_9e0b7a3ee9",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Frankreich: Mehr als 40 Verletzte bei Zugunglück",
-      "summary": "Ein Teil eines Zugs in Nordfrankreich ist nach einer Kollision entgleist. Mehr als 40 Menschen wurden verletzt, darunter eine Person schwer. An Bord des Regionalzuges waren rund 180 Passagiere. Die Unfallursache ist noch unklar.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-zugentgleisung-100.html",
-      "publishedAt": "2026-09-12T03:41:39.000Z"
-    },
-    {
-      "id": "n_51176d0327",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Abwehr von Drohnen - die Sicherheitslücke am Himmel",
-      "summary": "Drohnen sind günstig, leicht zu beschaffen - und können für Verunsicherung sorgen. Laut Bundeskriminalamt gab es 2025 mehr als 1.000 verdächtige Drohnensichtungen. Wie gut sind Deutschlands Abwehrsysteme? Von H. Buchholz und P. Weimar.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/drohnen-abwehr-sicherheitsluecke-100.html",
-      "publishedAt": "2026-09-12T03:12:30.000Z"
-    },
-    {
-      "id": "n_9c45890fca",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Seenotretter in England als Ziel rechter Anfeindung",
-      "summary": "Gegen die Ankunft von Flüchtlingen über den Ärmelkanal haben in England Hunderte protestiert. Nun wurde bekannt, dass sie Seenotretter angefeindet haben. Experten sehen eine neue Form rechter Mobilisierung. Von Franziska Hoppen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/uk-anfeindungen-seenotretter-100.html",
-      "publishedAt": "2026-09-11T18:45:23.000Z"
-    },
-    {
-      "id": "n_b8bc40a64c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Gedenken zum 11. September in den USA: Ein ganzes Land trauert",
-      "summary": "Am 25. Jahrestag erinnern zahlreiche Zeremonien in den USA an die Tausenden Opfer der Terroranschläge vom 11. September 2001. Mehrere Ex-Präsidenten nahmen an der Gedenkveranstaltung am Ground Zero in New York teil.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/new-york-gedenken-102.html",
-      "publishedAt": "2026-09-11T18:09:41.000Z"
-    },
-    {
-      "id": "n_4840a5487f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Zwischenrufe im Bundestag - Linken-Abgeordnete muss 2.000 Euro zahlen",
-      "summary": "Für Zwischenrufe hat die Abgeordnete Köktürk drei Ordnungsrufe kassiert. Genug, um nach der neuen Geschäftsordnung des Bundestages eine Geldstrafe zu bekommen. Köktürk ist die erste, die zahlen muss.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/ordnungsgeld-koektuerk-bundestag-100.html",
-      "publishedAt": "2026-09-11T17:41:26.000Z"
+      "headline": "Salto rückwärts: Apple möchte KI-Modelle doch mit Nutzerdaten trainieren",
+      "summary": "Apples Versprechen war simpel: Persönliche Daten von iPhone-Nutzern fließen niemals in das Training von KI-Modellen ein. Damit ist es jetzt vorbei.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Salto-rueckwaerts-Apple-moechte-KI-Modelle-doch-mit-Nutzerdaten-trainieren-11451138.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-12T08:10:00.000Z"
     },
     {
       "id": "n_4e49a74679",
@@ -167,103 +178,136 @@
       "publishedAt": "2026-09-10T14:01:00.000Z"
     },
     {
-      "id": "n_9ecbc23d1a",
+      "id": "n_cc26756fe2",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Apple Watch Series 12 und Ultra 4: Neues System zur Gesundheitserkennung",
-      "summary": "Das Update der Apple Watch bringt Verbesserungen bei der Sensorik, Gesundheit und Fitness.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Apple-Watch-Series-12-und-Ultra-4-Neues-System-zur-Gesundheitserkennung-11447076.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-09T18:36:00.000Z"
+      "headline": "KI als Waffeningenieur: Huthi sollen Claude für Raketensoftware missbraucht haben",
+      "summary": "Huthi-Rebellen haben offenbar Claude genutzt, Steuerungssoftware für ballistische Raketen zu entwickeln, und dabei die eingebauten Sicherheitsvorkehrungen umgangen. (KI, Politik)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/ki-als-waffeningenieur-huthi-sollen-claude-fuer-raketensoftware-missbraucht-haben-2609-212947.html",
+      "publishedAt": "2026-09-12T12:03:02.000Z"
     },
     {
-      "id": "n_169f1d4e77",
+      "id": "n_5aba9e4212",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "So war euer Informatikunterricht: \"Die Schüler hielten den Unterricht\"",
-      "summary": "Während eurer Schulzeit trafen oft planlose Lehrer auf engagierte Schüler. Dennoch erinnert ihr euch gern zurück, an den Informatikunterricht. Von Mike Faust (Schulen, Studium)",
+      "headline": "Anzeige: Apple iPhone 18 Pro jetzt bei o2 mit Tarif für 1 Euro Anzahlung vorbestellen",
+      "summary": "Das neue iPhone 18 Pro sowie das iPhone 18 Pro Max von Apple sind endlich im Vorverkauf. Bei o2 gibt es die Smartphones jetzt im Tarif. (iPhone 18, Apple)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/so-war-euer-informatikunterricht-die-schueler-hielten-den-unterricht-2609-212931.html",
-      "publishedAt": "2026-09-12T05:30:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-apple-iphone-18-pro-jetzt-bei-o2-mit-tarif-fuer-1-euro-anzahlung-vorbestellen-2609-212937.html",
+      "publishedAt": "2026-09-12T11:47:02.000Z"
     },
     {
-      "id": "n_f3a4774d9b",
+      "id": "n_c459de6998",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Curved-OLED-Monitor mit 32 Zoll, 4K und 165 Hz von MSI zum Tiefstpreis",
-      "summary": "Amazon verkauft den MSI MAG 321CUP wieder zum Tiefstpreis. So günstig wie jetzt war der OLED-Gaming-Monitor selten. (TV & Monitore, Amazon)",
+      "headline": "Künstliche Intelligenz: OpenAI erwägt Verlangsamung der KI-Entwicklung",
+      "summary": "OpenAI prüft eine Drosselung der Entwicklungsgeschwindigkeit bei KI. Sam Altman hofft dabei auf eine Branchenvereinbarung. (Anthropic, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-curved-oled-monitor-mit-32-zoll-4k-und-165-hz-von-msi-zum-tiefstpreis-2609-212940.html",
-      "publishedAt": "2026-09-11T16:27:02.000Z"
+      "url": "https://www.golem.de/news/kuenstliche-intelligenz-openai-erwaegt-verlangsamung-der-ki-entwicklung-2609-212946.html",
+      "publishedAt": "2026-09-12T11:18:02.000Z"
     },
     {
-      "id": "n_e0485860e2",
+      "id": "n_0e7d6bd353",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) IPO: Chinese Nvidia challenger Enflame jumps 179% in Shanghai market debut",
-      "summary": "Tencent-backed 'little dragon' raises $910m; tech stocks' post-IPO slumps draw scrutiny Von Loretta Chen und Wataru Suzuki (Prozessor, Nvidia)",
+      "headline": "E-Commerce im Streaming: Amazon verknüpft Prime Video enger mit Onlineshopping",
+      "summary": "Neue X-Ray-Funktionen und bildbasierte Suche in Prime Video ermöglichen das direkte Einkaufen von Produkten aus Filmen und Serien. (Prime Video, Amazon)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/ipo-chinese-nvidia-challenger-enflame-jumps-179-in-shanghai-market-debut-2609-212927.html",
-      "publishedAt": "2026-09-11T16:00:02.000Z"
+      "url": "https://www.golem.de/news/e-commerce-im-streaming-amazon-verknuepft-prime-video-enger-mit-onlineshopping-2609-212945.html",
+      "publishedAt": "2026-09-12T10:16:02.000Z"
     },
     {
-      "id": "n_cb9508ee25",
+      "id": "n_4c4a4d5ef2",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Hypertune: Kostenpflichtige Software will Gaming-PC optimieren",
-      "summary": "Hypertune verspricht per automatischem Tuning mehr Spieleleistung. Dafür verändert die Software Einstellungen von CPU, GPU und Windows. (PC, Intel)",
+      "headline": "Urteil zu Rabatt-Apps: Laut OLG gelten Daten rechtlich nicht als Preis",
+      "summary": "Nutzerdaten in Rabatt-Apps gelten rechtlich nicht als Preis. Das OLG Köln weist eine Klage des Verbraucherzentrale Bundesverbands ab. (Verbraucherschutz, Lidl)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/hypertune-kostenpflichtige-software-will-gaming-pc-optimieren-2609-212936.html",
-      "publishedAt": "2026-09-11T15:29:02.000Z"
+      "url": "https://www.golem.de/news/urteil-zu-rabatt-apps-laut-olg-gelten-daten-rechtlich-nicht-als-preis-2609-212944.html",
+      "publishedAt": "2026-09-12T09:11:02.000Z"
     },
     {
-      "id": "n_88502724b7",
+      "id": "n_0f6cf83881",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Dual-USB-SD-Kartenleser von Acer für unter 8 Euro bei Amazon",
-      "summary": "Einfacher und schneller Daten übertragen: Acers Dual-USB-Kartenleser für SDs und MicroSDs ist bei Amazon wieder günstiger. (Technik/Hardware, Amazon)",
+      "headline": "Elektromobilität: Tesla bringt den Semi nach Europa",
+      "summary": "Tesla hat konkrete Leistungsdaten zum elektrischen Semi für Europa veröffentlicht. Der Marktstart erfolgt jedoch erst im Jahr 2027. (Tesla, Elektroauto)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-dual-usb-sd-kartenleser-von-acer-fuer-unter-8-euro-bei-amazon-2609-212938.html",
-      "publishedAt": "2026-09-11T15:25:02.000Z"
+      "url": "https://www.golem.de/news/elektromobilitaet-tesla-bringt-den-semi-nach-europa-2609-212943.html",
+      "publishedAt": "2026-09-12T08:42:01.000Z"
     },
     {
-      "id": "n_5e3286856e",
+      "id": "n_ed94ca2f54",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Arbeit: Uber-Fahrten sollen preiswerter werden - durch 3.300 Entlassungen",
-      "summary": "Uber will zehn Prozent der Mitarbeiter entlassen. Die Einsparungen sollen sich positiv auf die Fahrpreise auswirken, verspricht CEO Dara Khosrowshahi. (Uber, Wirtschaft)",
+      "headline": "Gamedev: Roblox-Spiele sollen ohne App im Browser laufen",
+      "summary": "Die Spieleplattform von Roblox öffnet sich: Spiele sollen direkt im Browser, offline und sogar als eigenständige Apps laufen. (Roblox, Spiele)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/arbeit-uber-fahrten-sollen-preiswerter-werden-durch-3-300-entlassungen-2609-212935.html",
-      "publishedAt": "2026-09-11T15:12:01.000Z"
+      "url": "https://www.golem.de/news/gamedev-roblox-spiele-sollen-ohne-app-im-browser-laufen-2609-212941.html",
+      "publishedAt": "2026-09-12T08:14:01.000Z"
     },
     {
-      "id": "n_0fd7d3b511",
+      "id": "n_db49f8408a",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Kritische Milliardärs-Doku: Musk-Anwalt droht Filmemacher mit Klage",
-      "summary": "Insbesondere die Andeutung, Elon Musk habe die US-Präsidentschaftswahlen im Jahr 2024 beeinflusst, ist Gegenstand der Vorwürfe. (Elon Musk, Politik)",
+      "headline": "(g+) Sidecar-Angriffsfläche: Die Dienste, die kein Portscan sieht",
+      "summary": "Ein Postgresql-Helfer riss Splunk auf. Solche Dienste laufen überall mit, ungezählt. Worauf Admins achten müssen. Ein Ratgebertext von Steffen Zahn (Security, PostgreSQL)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/kritische-milliardaers-doku-musk-anwalt-droht-filmemacher-mit-klage-2609-212934.html",
-      "publishedAt": "2026-09-11T14:37:01.000Z"
+      "url": "https://www.golem.de/news/sidecar-angriffsflaeche-die-dienste-die-kein-portscan-sieht-2609-212900.html",
+      "publishedAt": "2026-09-12T08:00:02.000Z"
     },
     {
-      "id": "n_c3b55cba1f",
+      "id": "n_dbb34488a1",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Einhell-Akku-Twinpack PXC 36V 5,2 Ah bei Amazon zum Aktionspreis von rund 48 Euro pro Stück",
-      "summary": "Das Einhell-Akku-Twinpack PXC mit zwei 5,2-Ah-Akkus kombinierbar für den 36-Volt-Einsatz ist bei Amazon aktuell zum Sparpreis erhältlich. (Technik/Hardware, Akku)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-einhell-akku-twinpack-pxc-36v-5-2-ah-bei-amazon-zum-aktionspreis-von-rund-48-euro-pro-stueck-2609-212932.html",
-      "publishedAt": "2026-09-11T14:05:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T12:15:50.000Z"
+    },
+    {
+      "id": "n_fd3d6f2dfd",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+      "summary": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T11:27:44.000Z"
+    },
+    {
+      "id": "n_0afcbfe534",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+      "summary": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T10:00:05.000Z"
+    },
+    {
+      "id": "n_de79ba4857",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+      "summary": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T08:04:16.000Z"
     },
     {
       "id": "n_c300038224",
@@ -275,17 +319,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-12T05:55:15.000Z"
-    },
-    {
-      "id": "n_dbb34488a1",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-      "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T04:43:10.000Z"
     },
     {
       "id": "n_a2ba9af87a",
@@ -310,48 +343,15 @@
       "publishedAt": "2026-09-12T02:29:49.000Z"
     },
     {
-      "id": "n_fefac17505",
+      "id": "n_2b1a4024d4",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+      "headline": "Firefighters say this antioxidant helped them - their union warns it could be risky",
+      "summary": "Glutathione, an antioxidant, has been offered as a treatment at some of the largest US wildfires in recent years.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T22:17:45.000Z"
-    },
-    {
-      "id": "n_a95a11f55b",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Passenger train derails in France leaving at least 44 injured",
-      "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T21:25:32.000Z"
-    },
-    {
-      "id": "n_c496307818",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Six Nigerians accused of romance scams to be extradited to the US",
-      "summary": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T21:07:19.000Z"
-    },
-    {
-      "id": "n_2a02efd449",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Tragic death of woman who testified against father in notorious mafia murder of mother",
-      "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T20:34:29.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/crk3n5z60pvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T01:04:49.000Z"
     },
     {
       "id": "n_af8a069d1e",
@@ -442,6 +442,17 @@
       "publishedAt": "2026-09-09T17:06:48.000Z"
     },
     {
+      "id": "n_55f9974596",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "I spent $4,000 on a robot dog from China",
+      "summary": "Unitree might be the world’s most important robotics company.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+      "publishedAt": "2026-09-12T11:00:53.000Z"
+    },
+    {
       "id": "n_4fb7c0b8bd",
       "type": "news",
       "topic": "tech",
@@ -517,17 +528,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
       "publishedAt": "2026-09-11T18:22:22.000Z"
-    },
-    {
-      "id": "n_af40d725e2",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "NASA moving at warp speed to set up US Space Academy",
-      "summary": "NASA asks US states to show them the money.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
-      "publishedAt": "2026-09-11T16:20:43.000Z"
     },
     {
       "id": "n_fad5f970d0",
@@ -618,6 +618,17 @@
       "publishedAt": "2026-09-11T16:46:25.000Z"
     },
     {
+      "id": "n_43166de57a",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI just wants to win",
+      "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a hist",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "publishedAt": "2026-09-12T11:00:00.000Z"
+    },
+    {
       "id": "n_eb3fa8e523",
       "type": "news",
       "topic": "ai",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
       "publishedAt": "2026-09-10T15:00:00.000Z"
-    },
-    {
-      "id": "n_81e9f49889",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Why the current tech backlash feels different",
-      "summary": "This interview has been lightly edited for length and clarity. Nick Statt: Hello and welcome to Decoder, Nilay’s show about big ideas and other problems. This is Nick Statt, senior producer. And I’m joined by our brand-new supervising producer, Greg Ott. Greg Ott: Good day, every",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
-      "publishedAt": "2026-09-10T14:00:00.000Z"
     },
     {
       "id": "n_bc7fdc500a",
@@ -794,6 +794,17 @@
       "publishedAt": "2026-08-31T18:00:00.000Z"
     },
     {
+      "id": "n_9d12233ef3",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+      "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+      "publishedAt": "2026-09-12T10:30:00.000Z"
+    },
+    {
       "id": "n_7a2125b6bc",
       "type": "news",
       "topic": "ai",
@@ -869,17 +880,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
       "publishedAt": "2026-09-10T10:00:00.000Z"
-    },
-    {
-      "id": "n_327a25ddef",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
-      "summary": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
-      "publishedAt": "2026-09-09T22:11:55.000Z"
     },
     {
       "id": "n_cb50b0c3c8",
