@@ -1,16 +1,60 @@
 {
-  "generatedAt": "2026-09-12T01:51:11.372Z",
+  "generatedAt": "2026-09-12T07:23:54.841Z",
   "items": [
+    {
+      "id": "n_970926d7e7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Saudi-Arabien schaltet nach Drohnenangriffen wichtige Öl-Pipeline ab",
+      "summary": "Es ist eine Vorsichtsmaßnahme, die die Öl- und Benzinpreise weiter steigen lasse könnte: Nach den Drohnenangriffen aus dem Irak hat Saudi-Arabien seine Ost-West-Pipeline abgestellt. Exporte werden dadurch weiter reduziert.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-stellt-betrieb-von-oelpipeline-ein-100.html",
+      "publishedAt": "2026-09-12T07:07:30.000Z"
+    },
+    {
+      "id": "n_e87c2a3e2e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "BRICS-Gipfel im Zeichen globaler Ungewissheiten",
+      "summary": "Putin, Xi, Modi: Beim BRICS-Gipfel in Neu-Delhi treffen selbstbewusste Staatenlenker aufeinander. Bei vielen Themen liegen sie weit auseinander. Was kann das Treffen bei den globalen Krisen - von Ukraine bis Iran - bewirken? Von Lena Bodewein.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/brics-gipfel-indien-100.html",
+      "publishedAt": "2026-09-12T05:18:36.000Z"
+    },
+    {
+      "id": "n_df4ab14ec9",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Griechische Reeder: Verschwiegen, einflussreich, risikofreudig",
+      "summary": "Trotz weltweiter Krisen boomt das Geschäft der griechischen Reeder. Das kleine Land liegt bei den Transportkapazitäten weltweit auf Platz 1. Doch immer wieder sind die Reeder auch in Grauzonen unterwegs. Von Astrid Halder.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/reeder-griechenland-100.html",
+      "publishedAt": "2026-09-12T05:04:13.000Z"
+    },
     {
       "id": "n_9e0b7a3ee9",
       "type": "news",
       "topic": "general",
       "lang": "de",
       "headline": "Frankreich: Mehr als 40 Verletzte bei Zugunglück",
-      "summary": "Ein Teil eines Zugs in Nordfrankreich ist nach einer Kollision entgleist. Mehr als 40 Menschen wurden nach vorläufigen Angaben verletzt, darunter eine Frau schwer. An Bord des Verkehrsmittels waren rund 180 Passagiere.",
+      "summary": "Ein Teil eines Zugs in Nordfrankreich ist nach einer Kollision entgleist. Mehr als 40 Menschen wurden verletzt, darunter eine Person schwer. An Bord des Regionalzuges waren rund 180 Passagiere. Die Unfallursache ist noch unklar.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-zugentgleisung-100.html",
-      "publishedAt": "2026-09-11T21:31:05.000Z"
+      "publishedAt": "2026-09-12T03:41:39.000Z"
+    },
+    {
+      "id": "n_51176d0327",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Abwehr von Drohnen - die Sicherheitslücke am Himmel",
+      "summary": "Drohnen sind günstig, leicht zu beschaffen - und können für Verunsicherung sorgen. Laut Bundeskriminalamt gab es 2025 mehr als 1.000 verdächtige Drohnensichtungen. Wie gut sind Deutschlands Abwehrsysteme? Von H. Buchholz und P. Weimar.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/drohnen-abwehr-sicherheitsluecke-100.html",
+      "publishedAt": "2026-09-12T03:12:30.000Z"
     },
     {
       "id": "n_9c45890fca",
@@ -44,50 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/ordnungsgeld-koektuerk-bundestag-100.html",
       "publishedAt": "2026-09-11T17:41:26.000Z"
-    },
-    {
-      "id": "n_fe75a68e54",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Rüstungsgüter für \"Abschiebeoffensive\": Empörung über Siegmund-Aussage",
-      "summary": "Nach seinem Wahlsieg in Sachsen-Anhalt hat AfD-Spitzenkandidat Siegmund davon gesprochen, Rüstungsgüter im Zusammenhang mit Abschiebungen zu nutzen. Seine Aussagen lösten bundesweit entsetzte Reaktionen aus.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/afd-siegmund-reaktionen-100.html",
-      "publishedAt": "2026-09-11T16:58:32.000Z"
-    },
-    {
-      "id": "n_80a66d7389",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Nach dem 11. September 2001 verschiebt sich der Fokus der NATO",
-      "summary": "Nach der Terrorattacke auf die USA erklärte die NATO zum bisher einzigen Mal den Bündnisfall. In der Folge setzte sie neue Prioritäten und weitete ihren Aktionsradius aus. Heute sieht die Entwicklung wieder ganz anders aus. Von Thomas Spickhofen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/11-september-nato-100.html",
-      "publishedAt": "2026-09-11T16:50:32.000Z"
-    },
-    {
-      "id": "n_cf9626e193",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: Der DAX stabilisiert sich",
-      "summary": "Dank Kursgewinnen der Wall Street und sinkender Ölpreise hat der DAX zum Wochenschluss wieder etwas Boden gut gemacht. Doch das Umfeld mit Inflations- und Zinssorgen bleibt schwierig.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ezb-anleiherenditen-100.html",
-      "publishedAt": "2026-09-11T16:32:18.000Z"
-    },
-    {
-      "id": "n_c5a8140c22",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Huthi-Miliz greift nach wichtiger Meerenge Bab al-Mandab",
-      "summary": "Die von Iran unterstützte Huthi-Miliz hat ihren Einfluss auf die Meerenge Bab al-Mandab erhöht: Die jemenitische Küste des Roten Meers und strategisch wichtige Inseln sind unter ihrer Kontrolle. Das hat Folgen für den Handel.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/huthi-eroberung-inseln-100.html",
-      "publishedAt": "2026-09-11T16:01:53.000Z"
     },
     {
       "id": "n_4e49a74679",
@@ -178,6 +178,17 @@
       "publishedAt": "2026-09-09T18:36:00.000Z"
     },
     {
+      "id": "n_169f1d4e77",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "So war euer Informatikunterricht: \"Die Schüler hielten den Unterricht\"",
+      "summary": "Während eurer Schulzeit trafen oft planlose Lehrer auf engagierte Schüler. Dennoch erinnert ihr euch gern zurück, an den Informatikunterricht. Von Mike Faust (Schulen, Studium)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/so-war-euer-informatikunterricht-die-schueler-hielten-den-unterricht-2609-212931.html",
+      "publishedAt": "2026-09-12T05:30:02.000Z"
+    },
+    {
       "id": "n_f3a4774d9b",
       "type": "news",
       "topic": "tech",
@@ -255,15 +266,37 @@
       "publishedAt": "2026-09-11T14:05:02.000Z"
     },
     {
-      "id": "n_1034a45ece",
+      "id": "n_c300038224",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Gefahr für die Menschheit: Trump sorgt sich nicht um Gefahren bei KI-Entwicklung",
-      "summary": "Der US-Präsident teilt die Sorge zahlreicher KI-Forscher nicht: KI sei nicht riskant, es gehe darum, gegen China zu gewinnen. (Donald Trump, KI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/gefahr-fuer-die-menschheit-trump-sorgt-sich-nicht-um-gefahren-bei-ki-entwicklung-2609-212930.html",
-      "publishedAt": "2026-09-11T13:14:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "summary": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T05:55:15.000Z"
+    },
+    {
+      "id": "n_dbb34488a1",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T04:43:10.000Z"
+    },
+    {
+      "id": "n_a2ba9af87a",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+      "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T03:02:28.000Z"
     },
     {
       "id": "n_7f7f15fe77",
@@ -274,7 +307,7 @@
       "summary": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T00:31:16.000Z"
+      "publishedAt": "2026-09-12T02:29:49.000Z"
     },
     {
       "id": "n_fefac17505",
@@ -319,39 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-11T20:34:29.000Z"
-    },
-    {
-      "id": "n_5c9d4dd477",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-      "summary": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T19:44:58.000Z"
-    },
-    {
-      "id": "n_b43c2e14cf",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-      "summary": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T17:32:44.000Z"
-    },
-    {
-      "id": "n_4d54eb985f",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "How global trade and oil prices could be hit by Houthi advance",
-      "summary": "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T16:13:39.000Z"
     },
     {
       "id": "n_af8a069d1e",
