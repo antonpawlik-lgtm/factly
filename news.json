@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T22:50:39.710Z",
+  "generatedAt": "2026-09-12T01:51:11.372Z",
   "items": [
     {
       "id": "n_9e0b7a3ee9",
@@ -266,6 +266,17 @@
       "publishedAt": "2026-09-11T13:14:01.000Z"
     },
     {
+      "id": "n_7f7f15fe77",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+      "summary": "Tasia Fortune's body was found in the lot of an abandoned home in Mississippi in August.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T00:31:16.000Z"
+    },
+    {
       "id": "n_fefac17505",
       "type": "news",
       "topic": "general",
@@ -277,6 +288,17 @@
       "publishedAt": "2026-09-11T22:17:45.000Z"
     },
     {
+      "id": "n_a95a11f55b",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Passenger train derails in France leaving at least 44 injured",
+      "summary": "France's transport minister says 180 passengers were on board the train operating the Rouen-Caen route in Normandy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T21:25:32.000Z"
+    },
+    {
       "id": "n_c496307818",
       "type": "news",
       "topic": "general",
@@ -286,6 +308,17 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-11T21:07:19.000Z"
+    },
+    {
+      "id": "n_2a02efd449",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+      "summary": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-11T20:34:29.000Z"
     },
     {
       "id": "n_5c9d4dd477",
@@ -321,37 +354,26 @@
       "publishedAt": "2026-09-11T16:13:39.000Z"
     },
     {
-      "id": "n_03fde929c3",
+      "id": "n_af8a069d1e",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
-      "summary": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
+      "headline": "Tech Now",
+      "summary": "Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T16:00:59.000Z"
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0031qjy?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T01:00:00.000Z"
     },
     {
-      "id": "n_b240f0515e",
+      "id": "n_c4ac593a50",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Israel says it has destroyed major underground Hezbollah base",
-      "summary": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+      "headline": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+      "summary": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T15:50:23.000Z"
-    },
-    {
-      "id": "n_e4de6ed939",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Princess Diana's 'revenge dress' goes up for auction",
-      "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T12:04:46.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T00:35:50.000Z"
     },
     {
       "id": "n_68f6488325",
@@ -420,33 +442,22 @@
       "publishedAt": "2026-09-09T17:06:48.000Z"
     },
     {
-      "id": "n_36024485ea",
+      "id": "n_4fb7c0b8bd",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-      "summary": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T15:34:09.000Z"
-    },
-    {
-      "id": "n_2bb9182af7",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
-      "summary": "The Tetris Company says it takes \"copyright infringement very seriously\" and is not involved with the game.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-09T12:06:40.000Z"
+      "headline": "Some satellite companies still have an appetite for boutique launch services",
+      "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+      "publishedAt": "2026-09-11T23:34:45.000Z"
     },
     {
       "id": "n_d7b2f7525c",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Random rewards enrich classic game-theory contests",
+      "headline": "Random rewards enrich classic game-theory insights",
       "summary": "Simple games gain rich strategies in the face of noise.",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
@@ -519,15 +530,15 @@
       "publishedAt": "2026-09-11T16:20:43.000Z"
     },
     {
-      "id": "n_499c7eee1e",
+      "id": "n_fad5f970d0",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Claude users found ways around safeguards for bioweapons research",
-      "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-      "publishedAt": "2026-09-11T13:02:35.000Z"
+      "headline": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "publishedAt": "2026-09-11T22:58:17.000Z"
     },
     {
       "id": "n_2619d8ade2",
@@ -607,15 +618,15 @@
       "publishedAt": "2026-09-11T16:46:25.000Z"
     },
     {
-      "id": "n_31c8ff7591",
+      "id": "n_eb3fa8e523",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-      "publishedAt": "2026-09-10T21:51:59.000Z"
+      "headline": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in co",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "publishedAt": "2026-09-11T20:44:02.000Z"
     },
     {
       "id": "n_c182342702",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
       "publishedAt": "2026-09-10T14:00:00.000Z"
-    },
-    {
-      "id": "n_6be9484307",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Mathematicians want proof OpenAI didn’t use their work",
-      "summary": "Sam Altman, chief executive officer of OpenAI, during a media tour of the Stargate AI data center. | Bloomberg via Getty Images Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-      "publishedAt": "2026-09-10T11:00:57.000Z"
     },
     {
       "id": "n_bc7fdc500a",
