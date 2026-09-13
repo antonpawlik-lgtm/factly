@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-09-13T07:43:00.228Z",
+  "generatedAt": "2026-09-13T13:30:02.172Z",
   "items": [
+    {
+      "id": "n_6d74324405",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Kupferpreis auf Rekordhoch: Warum es für Verbraucher teuer werden könnte",
+      "summary": "Kupfer kostet so viel wie nie. US-Zollsorgen, KI, Stromnetze und E-Autos treiben den Kupferpreis. Wo der Preisschub für Verbraucher spürbar werden könnte - vom Bauen bis zur Stromrechnung. Von Angela Göpfert.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/kupferpreis-rekordhoch-strom-verbraucher-100.html",
+      "publishedAt": "2026-09-13T13:03:38.000Z"
+    },
+    {
+      "id": "n_02caacf27c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "China 50 Jahre nach Maos Tod: Immer noch untersteht alles der Partei",
+      "summary": "50 Jahre nach dem Tod von Chinas Staatsgründer Mao Zedong ist die Volksrepublik ein kapitalistisches Land - seine Metropolen geprägt von Malls und Wolkenkratzern. Und doch kontrolliert die Kommunistische Partei weiterhin alles. Von Eva Lamby-Schmitt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/china-50-todestag-mao-zedong-100.html",
+      "publishedAt": "2026-09-13T11:24:56.000Z"
+    },
+    {
+      "id": "n_a6826d6000",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Goethe-Institute in Russland geschlossen",
+      "summary": "Nach mehr als 30 Jahren endet die Arbeit der Goethe-Institute in Russland. Die drei verbliebenen Standorte sind geschlossen. Moskau reagiert damit auf deutsche Strafmaßnahmen gegen Russland. Von Stephan Laack.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/russland-schliessung-goethe-institute-100.html",
+      "publishedAt": "2026-09-13T10:26:53.000Z"
+    },
+    {
+      "id": "n_986b5400ea",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Kenia: Gewaltexzesse im Auftrag der Regierung?",
+      "summary": "Motorradgangs, die Veranstaltungen der Opposition mit Macheten angreifen: Ein Jahr vor der Präsidentenwahl in Kenia wird das Land mit Gewalt überzogen. Die Opposition macht dafür auch die Regierung verantwortlich. Von Georg Restle.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/afrika/kenia-gangs-100.html",
+      "publishedAt": "2026-09-13T10:24:51.000Z"
+    },
+    {
+      "id": "n_10a2652e75",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Tote und Vermisste nach Fährunglück in Indonesien",
+      "summary": "In Indonesien ist eine Fähre mit mehr als 240 Menschen an Bord gesunken. Ein Großteil der Passagiere wird noch vermisst, bisher wurden sechs Todesopfer gemeldet. Der Such- und Rettungseinstz dauert bei rauer See noch an.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/faehre-indonesien-seenot-100.html",
+      "publishedAt": "2026-09-13T10:18:20.000Z"
+    },
+    {
+      "id": "n_e6a967613a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Söder zu Kanzlersturz-Spekulationen: \"Von der CSU auf keinen Fall\"",
+      "summary": "Was wird aus Kanzler Merz? In der CDU rumort es, Gerüchte über einen Kanzlersturz machen die Runde. Von der CSU werde Merz nicht gestürzt, versicherte Parteichef Söder nun. Für die CDU sei er nicht zuständig.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/soeder-merz-kanzlerwechsel-100.html",
+      "publishedAt": "2026-09-13T10:11:59.000Z"
+    },
+    {
+      "id": "n_375ecb65b9",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bilger drängt auf Wiedereinführung der Familienreservierung bei der Bahn",
+      "summary": "Wenn Familien bei der Bahn zusammen Sitzplätze reservieren, dann ist das seit Juni 2025 teurer. Verkehrsminister Bilger drängt nun auf die Wiedereinführung der Familienreservierung.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/bilger-bahn-familienreservierung-100.html",
+      "publishedAt": "2026-09-13T07:52:19.000Z"
+    },
     {
       "id": "n_b19cc98189",
       "type": "news",
@@ -13,88 +90,33 @@
       "publishedAt": "2026-09-13T06:16:32.000Z"
     },
     {
-      "id": "n_8cb490f5c4",
+      "id": "n_3d96162701",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Wie eine explodierende Erbpacht Familien überfordern kann",
-      "summary": "Erbpacht ist ein Modell, das auch Familien helfen soll, ins Eigenheim zu ziehen. Die Idee: Das Grundstück wird vom Eigentümer nur gepachtet, etwa von der Stadt. Doch das kann zur Falle werden. Von R. Hübner und M. Zimmermann.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/erbpacht-108.html",
-      "publishedAt": "2026-09-13T06:15:32.000Z"
+      "headline": "„World of Warcraft: Forever“: Blizzard erfindet das alte Azeroth neu",
+      "summary": "„World of Warcraft: Forever“ erweitert das ursprüngliche MMORPG um neue Geschichten als dauerhaftes drittes WoW neben Classic und Retail.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/World-of-Warcraft-Forever-Blizzard-erfindet-das-alte-Azeroth-neu-11451587.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-13T12:25:00.000Z"
     },
     {
-      "id": "n_6c5d87f69f",
+      "id": "n_b427218d82",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Richtungswahl in Schweden: Regierungswechsel oder Rechtsruck?",
-      "summary": "In Schweden wird heute ein neues Parlament gewählt. Der Ausgang ist offen: In Umfragen führen die Sozialdemokraten, doch die rechtspopulistischen Schwedendemokraten könnten so viel Einfluss erhalten wie nie zuvor. Von J. Sinram.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/schweden-wahl-130.html",
-      "publishedAt": "2026-09-13T04:57:05.000Z"
-    },
-    {
-      "id": "n_d3c04f1178",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Unkontrollierbare Risiken: KI-Bosse in den USA wollen Entwicklung bremsen",
-      "summary": "Angesichts der Risiken muss die Entwicklung von KI dringend verlangsamt werden, meint der Chef von Anthropic und fordert Regulierungen. Unterstützung bekommt er von OpenAI-Chef Altman und Tech-Unternehmer Musk. Von Gabi Biesinger.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/ki-anthropic-106.html",
-      "publishedAt": "2026-09-13T04:47:55.000Z"
-    },
-    {
-      "id": "n_de94ff31f7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Ermittler sehen keine Hinweise auf Anschlag bei Zugunglück",
-      "summary": "Bei der Entgleisung eines Zuges in der Normandie werden mehr als 40 Menschen verletzt. Hinweise auf einen Anschlag gibt es jedoch laut Staatsanwalt nicht - damit widerspricht er der Darstellung einiger Politiker.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-zugunglueck-100.html",
-      "publishedAt": "2026-09-13T02:44:07.000Z"
-    },
-    {
-      "id": "n_5375b7b5c1",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Zwischen Rohstoffen und Macht: Der Kampf um die Arktis",
-      "summary": "Die Arktis wirkt wie eine Region am Rand der Welt - und wird doch immer wichtiger: militärisch und wirtschaftlich. Das sieht auch die EU so und trifft sich zu Beratungen in Finnland - auch Kanzler Merz ist dabei. Von Christina Nagel.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/merz-arktis-100.html",
-      "publishedAt": "2026-09-13T00:03:56.000Z"
-    },
-    {
-      "id": "n_45fc4f0a24",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "OpenAI-Chef verschiebt Börsengang wegen Sicherheitsbedenken",
-      "summary": "Das Unternehmen OpenAI bereitet sich seit Längerem auf den Börsengang vor. Doch Firmenchef Altman hält den Zeitpunkt für ungünstig und gibt dem Chef von Anthropic recht, der eine Drosselung der KI-Entwicklung fordert.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-boersengang-102.html",
-      "publishedAt": "2026-09-12T23:53:35.000Z"
-    },
-    {
-      "id": "n_d673f0483c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "\"Woman Unknown\" gewinnt Goldenen Löwen in Venedig",
-      "summary": "Eine Auszeichnung bei den Filmfestspielen in Venedig zählt für Filmschaffende zu den wichtigsten Ehrungen. In diesem Jahr ging der Goldene Löwe für den besten Film an \"Women Unknown\" von May el-Toukhy. Einen Preis gab es auch für eine Gaza-Doku.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kultur/filmfestival-venedig-preise-100.html",
-      "publishedAt": "2026-09-12T20:36:15.000Z"
+      "headline": "Jugendschutz im Netz: Kalifornien erlässt strenge Regeln für KI und Social Media",
+      "summary": "Gouverneur Newsom hat ein Gesetzespaket zur Regulierung von Tech-Konzernen unterzeichnet, das Suchtfaktoren bremsen und KI-Anbieter in die Pflicht nehmen soll.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Jugendschutz-im-Netz-Kalifornien-erlaesst-strenge-Regeln-fuer-KI-und-Social-Media-11451599.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-13T12:17:00.000Z"
     },
     {
       "id": "n_23346e21e0",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Bei 219 Gigapascal: Exotisches Eis aus dem Inneren der Eisriesen",
+      "headline": "Hochdruckforschung: Hexagonales superionisches Wassereis nachgewiesen",
       "summary": "Einem Forscherteam gelang der Nachweis einer hexagonal dichtest gepackten Phase von superionischem Wassereis unter Bedingungen wie in Eisriesen.",
       "source": "heise online",
       "url": "https://www.heise.de/news/Bei-219-Gigapascal-Exotisches-Eis-aus-dem-Inneren-der-Eisriesen-11451439.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
@@ -156,114 +178,125 @@
       "publishedAt": "2026-09-11T09:00:00.000Z"
     },
     {
-      "id": "n_87937a4974",
+      "id": "n_826a5a3c82",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "DeepSeek V4.1 Flash: Mehr Leistung als V4-Pro zu niedrigeren Preisen",
-      "summary": "DeepSeek V4.1 Flash ersetzt vorerst V4-Pro und bietet mehr Leistung zu niedrigeren Kosten, allerdings mit ungewöhnlich hohem Tokenverbrauch.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/DeepSeek-V4-1-Flash-Mehr-Leistung-als-V4-Pro-zu-niedrigeren-Preisen-11449697.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-11T08:03:00.000Z"
+      "headline": "Anzeige: WLAN-Repeater mit bis zu 2.600 MBit/s reduziert bei Amazon",
+      "summary": "Ein WLAN-Repeater von TP-Link mit bis zu 2.600 MBit/s, Gigabit-LAN und Access-Point-Modus gibt es bei Amazon zum Aktionspreis. (TP-Link, WLAN)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-wlan-repeater-mit-bis-zu-2-600-mbit-s-reduziert-bei-amazon-2609-212933.html",
+      "publishedAt": "2026-09-13T11:40:02.000Z"
     },
     {
-      "id": "n_103174d242",
+      "id": "n_43dc1a267c",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anthropic hat angeblich untersagte KI-Forschung an Biowaffen unterbunden",
-      "summary": "Im ersten umfangreichen Bericht zu Versuchen, Anthropics KI zu missbrauchen, schlägt die Firma einen weiten Bogen zu ganz unterschiedlichen Themenkomplexen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Anthropic-hat-angeblich-untersagte-KI-Forschung-an-Biowaffen-unterbunden-11449768.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-11T05:09:00.000Z"
+      "headline": "Blizzard: WoW Forever macht mit dem alten Azeroth einfach weiter",
+      "summary": "Blizzard führt das ursprüngliche Azeroth mit neuen Gebieten, Quests und Raids fort. In WoW Forever bleibt der Level-Cap bei 60. (World of Warcraft, MMORPG)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/blizzard-wow-forever-macht-mit-dem-alten-azeroth-einfach-weiter-2609-212957.html",
+      "publishedAt": "2026-09-13T11:25:02.000Z"
+    },
+    {
+      "id": "n_9106a9d7f1",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Apple: Deutsches iPhone 18 Pro Max bekommt überraschend neue Technik",
+      "summary": "Apple setzt beim deutschen iPhone 18 Pro Max auf das neue C2-Modem. In den USA steckt dagegen weiterhin Technik von Qualcomm. (iPhone 18, Smartphone)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/apple-deutsches-iphone-18-pro-max-bekommt-ueberraschend-neue-technik-2609-212956.html",
+      "publishedAt": "2026-09-13T10:37:01.000Z"
+    },
+    {
+      "id": "n_214416e1e6",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Elon Musk: Teslas neuer Roadster soll mit Raketentechnik abheben",
+      "summary": "Neun Jahre nach der ersten Vorstellung soll Teslas neuer Roadster wieder öffentlich gezeigt werden. Elon Musk deutet eine außergewöhnliche Vorführung an. (Tesla, Elektroauto)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/elon-musk-teslas-neuer-roadster-soll-mit-raketentechnik-abheben-2609-212955.html",
+      "publishedAt": "2026-09-13T09:52:01.000Z"
+    },
+    {
+      "id": "n_eaf2952496",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anthropic: Angst vor Super-KI eint plötzlich die größten Rivalen",
+      "summary": "Anthropic-Chef Dario Amodei fordert eine Notbremse bei der KI-Entwicklung. Seine härtesten Rivalen Sam Altman und Elon Musk stimmen zu. (Anthropic, KI)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anthropic-angst-vor-super-ki-eint-ploetzlich-die-groessten-rivalen-2609-212954.html",
+      "publishedAt": "2026-09-13T09:08:01.000Z"
+    },
+    {
+      "id": "n_d8859c8c6b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Balkonkraftwerk exklusiv für Golem-Leser nur 359 Euro bei Kleines Kraftwerk",
+      "summary": "Mit dem bifazialen Balkonkraftwerk von Kleines Kraftwerk sichern sich Golem-Leser einen Exklusivrabatt und reduzieren ihre Stromrechnung. (Balkonkraftwerk, Solarenergie)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-balkonkraftwerk-exklusiv-fuer-golem-leser-nur-359-euro-bei-kleines-kraftwerk-2609-212910.html",
+      "publishedAt": "2026-09-13T08:40:02.000Z"
+    },
+    {
+      "id": "n_45e7fbb3f9",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "(g+) Vibecoding: Welche Fähigkeiten Entwickler im KI-Zeitalter bewahren müssen",
+      "summary": "Dank LLMs und Coding-Assistenten lagern Entwickler ihre kognitiven Aufgaben zunehmend an die KI aus. Aber wer trainiert dann das problemlösende Denken, das hinter jedem Code steckt? Ein Ratgebertext von Marc Favre (Arbeit, KI)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/vibecoding-welche-faehigkeiten-entwickler-im-ki-zeitalter-bewahren-muessen-2609-212925.html",
+      "publishedAt": "2026-09-13T08:00:01.000Z"
     },
     {
       "id": "n_96082b34e6",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Blizzard: Blizzard Starcraft kehrt als Open-World-Shooter zurück",
+      "headline": "Blizzard: Starcraft kehrt als Open-World-Shooter zurück",
       "summary": "Unter der Leitung eines Far-Cry-Entwicklers entsteht ein neues Starcraft. Im ersten Trailer schickt Blizzard einen Marine in den Kampf gegen die Zerg. (Blizzard, Far Cry)",
       "source": "Golem.de",
       "url": "https://www.golem.de/news/blizzard-blizzard-starcraft-kehrt-als-open-world-shooter-zurueck-2609-212951.html",
       "publishedAt": "2026-09-13T07:06:02.000Z"
     },
     {
-      "id": "n_30acabf207",
+      "id": "n_f1c6b50dde",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Indiegames: Sieben besondere Games abseits der großen Blockbuster",
-      "summary": "Von Mortal Shell 2 bis Corsair Cove: Diese kleineren Games-Neuheiten bieten ungewöhnliche Ideen, starke Atmosphäre und viel Spielspaß. Von Rainer Sigl (Indiegames, Rollenspiel)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/indiegames-sieben-besondere-games-abseits-der-grossen-blockbuster-2609-212838.html",
-      "publishedAt": "2026-09-13T06:00:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T12:56:39.000Z"
     },
     {
-      "id": "n_32aa5280d6",
+      "id": "n_2da8da4404",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: IT-Jobs in Datenmanagement, Administration und digitaler Transformation",
-      "summary": "Von der Datenplattform in der Verwaltung bis zur Backup-Infrastruktur für die Astrophysik - aktuell sind sechs vielseitige Positionen im Angebot. (Golem Karrierewelt, Unternehmenssoftware)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-it-jobs-in-datenmanagement-administration-und-digitaler-transformation-2609-212906.html",
-      "publishedAt": "2026-09-13T05:00:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Iran war reshapes Brics ties but also exposes divisions",
+      "summary": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T11:23:42.000Z"
     },
     {
-      "id": "n_c3e44e9a3b",
+      "id": "n_9e45ff7593",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Toyplosion in Deutschland: Action-Figuren-Messe verzeichnet neuen Besucherrekord",
-      "summary": "Im Ruhrgebiet entwickelt sich ein Stück Nerd-Kultur zu etwas sehr Großem. Über 4.000 Menschen kommen zur Retro-Messe Toyplosion. (BigJim, Star Wars)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/toyplosion-in-deutschland-action-figuren-messe-verzeichnet-neue-besucherrekorde-2609-212952.html",
-      "publishedAt": "2026-09-12T20:03:01.000Z"
-    },
-    {
-      "id": "n_6b23b091e1",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Blizzard: Diablo 5 kommt 2029 - und diesmal hat das Böse gewonnen",
-      "summary": "Blizzard hat Diablo 5 offiziell angekündigt, und zwar mit einer Besonderheit. Außerdem bekommt die Reihe eine Netflix-Serie. (Diablo, Rollenspiel)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/blizzard-diablo-5-kommt-2029-und-diesmal-hat-das-boese-gewonnen-2609-212950.html",
-      "publishedAt": "2026-09-12T18:45:02.000Z"
-    },
-    {
-      "id": "n_8746d4a521",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Die neuen iPhone 18 Pro (Max) für 1 Euro Anzahlung im Tarif bei Vodafone",
-      "summary": "Vodafone bietet die neuen Smartphones von Apple jetzt mit einem beliebten Tarif an. Besonders spannend: Die Anzahlung beträgt nur 1 Euro. (iPhone 18, Apple)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-die-neuen-iphone-18-pro-max-fuer-1-euro-anzahlung-im-tarif-bei-vodafone-2609-212939.html",
-      "publishedAt": "2026-09-12T14:40:01.000Z"
-    },
-    {
-      "id": "n_99a47c3de0",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "KI: Anthropic entlarvt Claude-Missbrauch für russische Drohnenschwärme",
-      "summary": "Russische Entwickler hatten mit Claude einen autonomen Kamikaze-Drohnenschwarm zum Einsatz gegen die Ukraine gebaut. (Drohne, KI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/ki-anthropic-entlarvt-claude-missbrauch-fuer-russische-drohnenschwaerme-2609-212949.html",
-      "publishedAt": "2026-09-12T13:46:01.000Z"
-    },
-    {
-      "id": "n_e111786936",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "eActros 600: Amazon lässt Mercedes-E-Lkw auf deutschen Straßen fahren",
-      "summary": "Amazon setzt über 50 batterieelektrische eActros 600 in Deutschland ein. (Amazon, Elektroauto)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/eactros-600-amazon-laesst-mercedes-e-lkw-auf-deutschen-strassen-fahren-2609-212948.html",
-      "publishedAt": "2026-09-12T13:08:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T11:13:07.000Z"
     },
     {
       "id": "n_8cc83cc7de",
@@ -275,6 +308,17 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-13T00:49:08.000Z"
+    },
+    {
+      "id": "n_7cd64c2ba3",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
+      "summary": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T23:51:05.000Z"
     },
     {
       "id": "n_e9de3776ef",
@@ -312,7 +356,7 @@
     {
       "id": "n_4a1f65fbb7",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
       "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
       "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
@@ -321,58 +365,14 @@
       "publishedAt": "2026-09-12T21:16:47.000Z"
     },
     {
-      "id": "n_420d57a0ec",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
-      "summary": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T20:27:25.000Z"
-    },
-    {
-      "id": "n_5b827161ba",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Fire at nursing home in Chile kills 16 residents",
-      "summary": "Ten people were evacuated from the home in Araucanía region in central Chile.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T19:36:50.000Z"
-    },
-    {
-      "id": "n_972e365885",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Bulgaria investigates fire at weapons site that owner calls sabotage",
-      "summary": "Officials are not ruling out \"outside interference\", while the company says the blaze at its site was sabotage.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd94kj17zvwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T17:38:21.000Z"
-    },
-    {
-      "id": "n_9e45ff7593",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-      "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T07:06:41.000Z"
-    },
-    {
-      "id": "n_af8a069d1e",
+      "id": "n_0e9f9a1a5f",
       "type": "news",
       "topic": "tech",
       "lang": "en",
       "headline": "Tech Now",
       "summary": "Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0031qjy?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-12T01:00:00.000Z"
     },
     {
@@ -429,6 +429,17 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-10T23:05:47.000Z"
+    },
+    {
+      "id": "n_863af1ee1e",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
+      "summary": "The manufacturer has a service that lets owners repair their own equipment.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
+      "publishedAt": "2026-09-13T11:00:41.000Z"
     },
     {
       "id": "n_55f9974596",
@@ -506,17 +517,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
       "publishedAt": "2026-09-11T18:49:39.000Z"
-    },
-    {
-      "id": "n_c34ea07e6f",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Oracle tries to appease Stargate data center opponents with renewables push",
-      "summary": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
-      "publishedAt": "2026-09-11T18:22:22.000Z"
     },
     {
       "id": "n_e82b8a9af4",
@@ -783,6 +783,17 @@
       "publishedAt": "2026-08-31T18:00:00.000Z"
     },
     {
+      "id": "n_208f51d1dc",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "AI Agents Are Thirsty for Power",
+      "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+      "publishedAt": "2026-09-13T10:00:00.000Z"
+    },
+    {
       "id": "n_9d12233ef3",
       "type": "news",
       "topic": "ai",
@@ -858,17 +869,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
       "publishedAt": "2026-09-10T10:30:00.000Z"
-    },
-    {
-      "id": "n_3cbbd511bb",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
-      "summary": "InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information about people identified through Clearview.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
-      "publishedAt": "2026-09-10T10:00:00.000Z"
     },
     {
       "id": "n_cb50b0c3c8",
