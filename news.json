@@ -1,93 +1,104 @@
 {
-  "generatedAt": "2026-09-12T19:46:10.024Z",
+  "generatedAt": "2026-09-13T07:43:00.228Z",
   "items": [
     {
-      "id": "n_666ed8d1b7",
+      "id": "n_b19cc98189",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "US-Präsident Trump in Irland: Golf, Proteste und ein heikles Thema",
-      "summary": "US-Präsident Trump besucht Irland - und ein Golfturnier in seinem eigenem Golfressort. Ein kleines Dorf steht Kopf, viele demonstrieren gegen den Besuch - und dann wird plötzlich die Einheit Irlands zum Thema. Von Mareike Aden.",
+      "headline": "Welt-Sepsis-Tag: Warum bei Blutvergiftungen oft zu viel Zeit vergeht",
+      "summary": "Der Welt-Sepsis-Tag soll heute auf die Gefahr durch Blutvergiftungen aufmerksam machen. In Deutschland sterben vergleichsweise viele Menschen daran - sie bleiben in Kliniken oft unerkannt. Von D. Remus und M. Stinn.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/trump-besuch-irland-104.html",
-      "publishedAt": "2026-09-12T17:55:57.000Z"
+      "url": "https://www.tagesschau.de/wissen/gesundheit/gesundheit-sepsis-100.html",
+      "publishedAt": "2026-09-13T06:16:32.000Z"
     },
     {
-      "id": "n_375fbaa39c",
+      "id": "n_8cb490f5c4",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Protest in vielen Städten: Zehntausende demonstrieren gegen rechts",
-      "summary": "Zehntausende Menschen sind in Deutschland gegen Rechtsextremismus und für Demokratie auf die Straße gegangen. Demos gab es in mehr als 35 Städten. Eine Forderung: Die Prüfung eines AfD-Verbotsverfahrens.",
+      "headline": "Wie eine explodierende Erbpacht Familien überfordern kann",
+      "summary": "Erbpacht ist ein Modell, das auch Familien helfen soll, ins Eigenheim zu ziehen. Die Idee: Das Grundstück wird vom Eigentümer nur gepachtet, etwa von der Stadt. Doch das kann zur Falle werden. Von R. Hübner und M. Zimmermann.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/demos-gegen-rechts-120.html",
-      "publishedAt": "2026-09-12T17:38:32.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/erbpacht-108.html",
+      "publishedAt": "2026-09-13T06:15:32.000Z"
     },
     {
-      "id": "n_1ae3212469",
+      "id": "n_6c5d87f69f",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Droht der nächste Ölpreis-Schock?",
-      "summary": "Erst die Straße von Hormus, nun die Meerenge Bab al-Mandab und eine beschädigte Pipeline. Der größte Ölexporteur der Welt, Saudi-Arabien, hat eine Reihe von Problemen. Wie entwickelt sich der Ölpreis? Welche Folgen hat das für Deutschland?",
+      "headline": "Richtungswahl in Schweden: Regierungswechsel oder Rechtsruck?",
+      "summary": "In Schweden wird heute ein neues Parlament gewählt. Der Ausgang ist offen: In Umfragen führen die Sozialdemokraten, doch die rechtspopulistischen Schwedendemokraten könnten so viel Einfluss erhalten wie nie zuvor. Von J. Sinram.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-oel-exporte-angriffe-100.html",
-      "publishedAt": "2026-09-12T17:31:20.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/schweden-wahl-130.html",
+      "publishedAt": "2026-09-13T04:57:05.000Z"
     },
     {
-      "id": "n_16aad6bcbb",
+      "id": "n_d3c04f1178",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Gefahr durch Russland: Was macht Europa gegen hybride Bedrohungen?",
-      "summary": "Sabotage, Drohungen, Drohnen-Vorfälle: Wegen der wachsenden Gefahr durch hybride Angriffe rücken die europäischen Partner zusammen und versuchen, Härte zu zeigen. Kritiker vermissen jedoch ein gesamteuropäisches Konzept. Von Olga Chladkova.",
+      "headline": "Unkontrollierbare Risiken: KI-Bosse in den USA wollen Entwicklung bremsen",
+      "summary": "Angesichts der Risiken muss die Entwicklung von KI dringend verlangsamt werden, meint der Chef von Anthropic und fordert Regulierungen. Unterstützung bekommt er von OpenAI-Chef Altman und Tech-Unternehmer Musk. Von Gabi Biesinger.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/abwehr-hybride-bedrohung-100.html",
-      "publishedAt": "2026-09-12T16:59:53.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/ki-anthropic-106.html",
+      "publishedAt": "2026-09-13T04:47:55.000Z"
     },
     {
-      "id": "n_14a121f2c0",
+      "id": "n_de94ff31f7",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Zug entgleist in Frankreich: Ermittler gehen Sabotage-Verdacht nach",
-      "summary": "In Nordfrankreich entgleist ein Zug, mehr als 40 Menschen werden verletzt. Die Staatsanwaltschaft prüft nun, ob es sich um Sabotage handelt. Denn Ermittler fanden ein Schienenteil auf der Strecke.",
+      "headline": "Ermittler sehen keine Hinweise auf Anschlag bei Zugunglück",
+      "summary": "Bei der Entgleisung eines Zuges in der Normandie werden mehr als 40 Menschen verletzt. Hinweise auf einen Anschlag gibt es jedoch laut Staatsanwalt nicht - damit widerspricht er der Darstellung einiger Politiker.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-zug-entgleist-100.html",
-      "publishedAt": "2026-09-12T14:57:44.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-zugunglueck-100.html",
+      "publishedAt": "2026-09-13T02:44:07.000Z"
     },
     {
-      "id": "n_5167250edc",
+      "id": "n_5375b7b5c1",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Wie die Stadt Wittenberge ihr Industrie-Erbe neu nutzen will",
-      "summary": "Wo früher Nähmaschinen produziert wurden, sollen nun Touristen übernachten, Start-ups arbeiten und Konzerte stattfinden. Wie die brandenburgische Stadt Wittenberge - zwischen Hamburg und Berlin gelegen - ihr Industrie-Erbe nutzt. Von J. Piwon.",
+      "headline": "Zwischen Rohstoffen und Macht: Der Kampf um die Arktis",
+      "summary": "Die Arktis wirkt wie eine Region am Rand der Welt - und wird doch immer wichtiger: militärisch und wirtschaftlich. Das sieht auch die EU so und trifft sich zu Beratungen in Finnland - auch Kanzler Merz ist dabei. Von Christina Nagel.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/wittenberge-industriequartier-100.html",
-      "publishedAt": "2026-09-12T13:22:03.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/merz-arktis-100.html",
+      "publishedAt": "2026-09-13T00:03:56.000Z"
     },
     {
-      "id": "n_7490d560b0",
+      "id": "n_45fc4f0a24",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Bundesnetzagentur stellt klar - Gasspeicher sind ausreichend gefüllt",
-      "summary": "Im kommenden Winter brauchen Millionen Haushalte wieder Gas für ihre Heizung - und die Sorge ist groß, dass dieses Jahr nicht genug Gas eingespeichert wurde. Die Bundesnetzagentur gibt nun Entwarnung: Die Speicher seien voll genug. Doch die Preise könnten steigen.",
+      "headline": "OpenAI-Chef verschiebt Börsengang wegen Sicherheitsbedenken",
+      "summary": "Das Unternehmen OpenAI bereitet sich seit Längerem auf den Börsengang vor. Doch Firmenchef Altman hält den Zeitpunkt für ungünstig und gibt dem Chef von Anthropic recht, der eine Drosselung der KI-Entwicklung fordert.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/gas-speicher-preise-102.html",
-      "publishedAt": "2026-09-12T13:20:55.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-boersengang-102.html",
+      "publishedAt": "2026-09-12T23:53:35.000Z"
     },
     {
-      "id": "n_39a66046d5",
+      "id": "n_d673f0483c",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "China fordert auf BRICS-Treffen in Neu-Delhi mehr Einsatz für Frieden",
-      "summary": "Auf dem Treffen der BRICS-Länder in Neu-Delhi hat Chinas Präsident Xi mehr Einsatz der Schwellenländer für Frieden im Nahen Osten gefordert. Man müsse \"auf der richtigen Seite der Geschichte\" stehen, sagte er.",
+      "headline": "\"Woman Unknown\" gewinnt Goldenen Löwen in Venedig",
+      "summary": "Eine Auszeichnung bei den Filmfestspielen in Venedig zählt für Filmschaffende zu den wichtigsten Ehrungen. In diesem Jahr ging der Goldene Löwe für den besten Film an \"Women Unknown\" von May el-Toukhy. Einen Preis gab es auch für eine Gaza-Doku.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/brics-treffen-neu-delhi-china-100.html",
-      "publishedAt": "2026-09-12T13:07:48.000Z"
+      "url": "https://www.tagesschau.de/kultur/filmfestival-venedig-preise-100.html",
+      "publishedAt": "2026-09-12T20:36:15.000Z"
+    },
+    {
+      "id": "n_23346e21e0",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Bei 219 Gigapascal: Exotisches Eis aus dem Inneren der Eisriesen",
+      "summary": "Einem Forscherteam gelang der Nachweis einer hexagonal dichtest gepackten Phase von superionischem Wassereis unter Bedingungen wie in Eisriesen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Bei-219-Gigapascal-Exotisches-Eis-aus-dem-Inneren-der-Eisriesen-11451439.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-13T07:21:00.000Z"
     },
     {
       "id": "n_ee93573e82",
@@ -167,15 +178,48 @@
       "publishedAt": "2026-09-11T05:09:00.000Z"
     },
     {
-      "id": "n_b9fd80cb6f",
+      "id": "n_96082b34e6",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Streit um KI-Beweise: Ein weiterer Mathematiker erhebt Vorwürfe gegen OpenAI",
-      "summary": "Ein Dresdner Mathematikprofessor fragt nun ebenfalls, ob unveröffentlichte Forschung aus ChatGPT-Chats in OpenAIs Mathe-Durchbrüche eingeflossen sein könnte.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Streit-um-KI-Beweise-Ein-weiterer-Mathematiker-erhebt-Vorwuerfe-gegen-OpenAI-11449347.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-10T14:01:00.000Z"
+      "headline": "Blizzard: Blizzard Starcraft kehrt als Open-World-Shooter zurück",
+      "summary": "Unter der Leitung eines Far-Cry-Entwicklers entsteht ein neues Starcraft. Im ersten Trailer schickt Blizzard einen Marine in den Kampf gegen die Zerg. (Blizzard, Far Cry)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/blizzard-blizzard-starcraft-kehrt-als-open-world-shooter-zurueck-2609-212951.html",
+      "publishedAt": "2026-09-13T07:06:02.000Z"
+    },
+    {
+      "id": "n_30acabf207",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Indiegames: Sieben besondere Games abseits der großen Blockbuster",
+      "summary": "Von Mortal Shell 2 bis Corsair Cove: Diese kleineren Games-Neuheiten bieten ungewöhnliche Ideen, starke Atmosphäre und viel Spielspaß. Von Rainer Sigl (Indiegames, Rollenspiel)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/indiegames-sieben-besondere-games-abseits-der-grossen-blockbuster-2609-212838.html",
+      "publishedAt": "2026-09-13T06:00:02.000Z"
+    },
+    {
+      "id": "n_32aa5280d6",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: IT-Jobs in Datenmanagement, Administration und digitaler Transformation",
+      "summary": "Von der Datenplattform in der Verwaltung bis zur Backup-Infrastruktur für die Astrophysik - aktuell sind sechs vielseitige Positionen im Angebot. (Golem Karrierewelt, Unternehmenssoftware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-it-jobs-in-datenmanagement-administration-und-digitaler-transformation-2609-212906.html",
+      "publishedAt": "2026-09-13T05:00:02.000Z"
+    },
+    {
+      "id": "n_c3e44e9a3b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Toyplosion in Deutschland: Action-Figuren-Messe verzeichnet neuen Besucherrekord",
+      "summary": "Im Ruhrgebiet entwickelt sich ein Stück Nerd-Kultur zu etwas sehr Großem. Über 4.000 Menschen kommen zur Retro-Messe Toyplosion. (BigJim, Star Wars)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/toyplosion-in-deutschland-action-figuren-messe-verzeichnet-neue-besucherrekorde-2609-212952.html",
+      "publishedAt": "2026-09-12T20:03:01.000Z"
     },
     {
       "id": "n_6b23b091e1",
@@ -222,48 +266,70 @@
       "publishedAt": "2026-09-12T13:08:01.000Z"
     },
     {
-      "id": "n_cc26756fe2",
+      "id": "n_8cc83cc7de",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "KI als Waffeningenieur: Huthi sollen Claude für Raketensoftware missbraucht haben",
-      "summary": "Huthi-Rebellen haben offenbar Claude genutzt, Steuerungssoftware für ballistische Raketen zu entwickeln, und dabei die eingebauten Sicherheitsvorkehrungen umgangen. (KI, Politik)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/ki-als-waffeningenieur-huthi-sollen-claude-fuer-raketensoftware-missbraucht-haben-2609-212947.html",
-      "publishedAt": "2026-09-12T12:03:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+      "summary": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T00:49:08.000Z"
     },
     {
-      "id": "n_5aba9e4212",
+      "id": "n_e9de3776ef",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Apple iPhone 18 Pro jetzt bei o2 mit Tarif für 1 Euro Anzahlung vorbestellen",
-      "summary": "Das neue iPhone 18 Pro sowie das iPhone 18 Pro Max von Apple sind endlich im Vorverkauf. Bei o2 gibt es die Smartphones jetzt im Tarif. (iPhone 18, Apple)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-apple-iphone-18-pro-jetzt-bei-o2-mit-tarif-fuer-1-euro-anzahlung-vorbestellen-2609-212937.html",
-      "publishedAt": "2026-09-12T11:47:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Best friends for decades - until a DNA test revealed they were sisters",
+      "summary": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T22:00:28.000Z"
     },
     {
-      "id": "n_c459de6998",
+      "id": "n_cd21a5daca",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Künstliche Intelligenz: OpenAI erwägt Verlangsamung der KI-Entwicklung",
-      "summary": "OpenAI prüft eine Drosselung der Entwicklungsgeschwindigkeit bei KI. Sam Altman hofft dabei auf eine Branchenvereinbarung. (Anthropic, KI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/kuenstliche-intelligenz-openai-erwaegt-verlangsamung-der-ki-entwicklung-2609-212946.html",
-      "publishedAt": "2026-09-12T11:18:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+      "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T21:25:28.000Z"
     },
     {
-      "id": "n_0e7d6bd353",
+      "id": "n_28eca65c1e",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "E-Commerce im Streaming: Amazon verknüpft Prime Video enger mit Onlineshopping",
-      "summary": "Neue X-Ray-Funktionen und bildbasierte Suche in Prime Video ermöglichen das direkte Einkaufen von Produkten aus Filmen und Serien. (Prime Video, Amazon)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/e-commerce-im-streaming-amazon-verknuepft-prime-video-enger-mit-onlineshopping-2609-212945.html",
-      "publishedAt": "2026-09-12T10:16:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Afghan woman deported from US in first use of 'alien terrorist' court",
+      "summary": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T21:19:11.000Z"
+    },
+    {
+      "id": "n_4a1f65fbb7",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T21:16:47.000Z"
+    },
+    {
+      "id": "n_420d57a0ec",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+      "summary": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T20:27:25.000Z"
     },
     {
       "id": "n_5b827161ba",
@@ -277,17 +343,6 @@
       "publishedAt": "2026-09-12T19:36:50.000Z"
     },
     {
-      "id": "n_4a1f65fbb7",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T17:42:38.000Z"
-    },
-    {
       "id": "n_972e365885",
       "type": "news",
       "topic": "general",
@@ -299,59 +354,15 @@
       "publishedAt": "2026-09-12T17:38:21.000Z"
     },
     {
-      "id": "n_44f55a1149",
+      "id": "n_9e45ff7593",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Céline Dion fans prepare for comeback concert in Paris",
-      "summary": "Fans of the Canadian singer greeted her as she left her hotel on Saturday.",
+      "headline": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T17:36:20.000Z"
-    },
-    {
-      "id": "n_bc7a042b18",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Uganda's King Oyo buried amid calls for unity over his successor",
-      "summary": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T16:55:31.000Z"
-    },
-    {
-      "id": "n_a2ba9af87a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Death toll from Philippines ferry fire rises to 76, with more still missing",
-      "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T15:09:55.000Z"
-    },
-    {
-      "id": "n_50eead3bd2",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "French officials investigate if malicious act caused train derailment",
-      "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T15:05:53.000Z"
-    },
-    {
-      "id": "n_fd3d6f2dfd",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "A united Ireland would be 'fantastic' says Trump during Irish visit",
-      "summary": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T13:56:20.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T07:06:41.000Z"
     },
     {
       "id": "n_af8a069d1e",
@@ -418,17 +429,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-10T23:05:47.000Z"
-    },
-    {
-      "id": "n_a5aa19509c",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "UK needs new laws for AI in healthcare, says watchdog",
-      "summary": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T00:48:35.000Z"
     },
     {
       "id": "n_55f9974596",
@@ -519,6 +519,17 @@
       "publishedAt": "2026-09-11T18:22:22.000Z"
     },
     {
+      "id": "n_e82b8a9af4",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "publishedAt": "2026-09-12T20:19:16.000Z"
+    },
+    {
       "id": "n_7658eb64cf",
       "type": "news",
       "topic": "ai",
@@ -596,15 +607,26 @@
       "publishedAt": "2026-09-11T19:35:54.000Z"
     },
     {
-      "id": "n_0c8057bddc",
+      "id": "n_4022c7a7f9",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-      "summary": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even co-signed the message rather than walking it back. It’s the kind of doom",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-      "publishedAt": "2026-09-11T18:41:49.000Z"
+      "headline": "OpenAI’s rogue AI tried to hack another company in May",
+      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "publishedAt": "2026-09-12T21:41:36.000Z"
+    },
+    {
+      "id": "n_fe9d508504",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of buildi",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "publishedAt": "2026-09-12T21:16:28.000Z"
     },
     {
       "id": "n_63c0cf89a6",
@@ -671,28 +693,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
       "publishedAt": "2026-09-11T14:25:21.000Z"
-    },
-    {
-      "id": "n_1a89e65b75",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Slack can now vibe-code interactive charts and reports inside chats",
-      "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from rel",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-      "publishedAt": "2026-09-10T21:25:21.000Z"
-    },
-    {
-      "id": "n_5e0cb078be",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Schools are catching on to Big Tech’s playbook",
-      "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companie",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "publishedAt": "2026-09-10T19:44:20.000Z"
     },
     {
       "id": "n_bc7fdc500a",
@@ -1103,6 +1103,18 @@
       "publishedAt": "2026-09-04T20:14:12.000Z"
     },
     {
+      "id": "n_81872e96d1",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "iPhone Duo: What We Missed!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=6D__H_DO2Xk",
+      "thumbnail": "https://i.ytimg.com/vi/6D__H_DO2Xk/hqdefault.jpg",
+      "publishedAt": "2026-09-12T21:36:57.000Z"
+    },
+    {
       "id": "n_49c5442701",
       "type": "video",
       "topic": "video",
@@ -1113,18 +1125,6 @@
       "url": "https://www.youtube.com/watch?v=Od6M0AXpcxQ",
       "thumbnail": "https://i.ytimg.com/vi/Od6M0AXpcxQ/hqdefault.jpg",
       "publishedAt": "2026-09-10T07:29:55.000Z"
-    },
-    {
-      "id": "n_166d86fc1e",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Google Pixel 11/Pro Review: Poker Face",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=ANmTVYkEtLw",
-      "thumbnail": "https://i.ytimg.com/vi/ANmTVYkEtLw/hqdefault.jpg",
-      "publishedAt": "2026-09-05T21:18:49.000Z"
     }
   ]
 }
