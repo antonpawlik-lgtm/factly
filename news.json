@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-09-13T13:30:02.172Z",
+  "generatedAt": "2026-09-13T22:42:03.981Z",
   "items": [
+    {
+      "id": "n_8bed144cc6",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Hochrechnungen: Sozialdemokraten bei Wahl in Schweden vorn",
+      "summary": "Bei der Parlamentswahl in Schweden sind die Sozialdemokraten von Ex-Regierungschefin Andersson laut Hochrechnungen stärkste Kraft geworden. Ob es für die Regierungsbildung reicht, ist aber noch offen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/schweden-wahl-132.html",
+      "publishedAt": "2026-09-13T22:35:26.000Z"
+    },
+    {
+      "id": "n_586f09f5fb",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "CDU-Influencerin von Nathusius übt scharfe Kritik an Kanzler Merz",
+      "summary": "In der CDU wächst die Kritik an Kanzler Merz: Clara von Nathusius, im Vorstand der Jungen Union, hält seine Tage im Amt für gezählt. Die CDU müsse sich nun entscheiden, wofür sie stehe, sagt sie im Bericht aus Berlin. Die Brandmauer hält sie für gescheitert.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bab-6378.html",
+      "publishedAt": "2026-09-13T18:44:54.000Z"
+    },
+    {
+      "id": "n_bfc22c3099",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Abschluss des BRICS-Treffens: Wenig Konfrontation, wenig geklärt",
+      "summary": "So unterschiedlich die Interessen der BRICS-Staaten auch sind: Beim Gipfel in Indien waren sie bemüht, Einigkeit zu demonstrieren. So beschlossen sie eine Erklärung, die jedoch vage blieb und niemandem wehtat. Von L. Bodewein.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/brics-zweiter-tag-100.html",
+      "publishedAt": "2026-09-13T17:43:05.000Z"
+    },
+    {
+      "id": "n_9a7eb65818",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach Angriffen auf Öl-Infrastruktur: Saudi-Arabien unter Druck",
+      "summary": "Nach dem Huthi-Vormarsch und dem Angriff auf eine Pipeline wächst der Druck auf Saudi-Arabien - denn nach der Straße von Hormus ist nun auch die Ausweichroute für Ölexporte vorerst nicht nutzbar. Von den USA kommt keine Hilfe. Von A. Osius.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-oelpreis-100.html",
+      "publishedAt": "2026-09-13T15:56:14.000Z"
+    },
+    {
+      "id": "n_6699708569",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ukraine: Russische Drohne trifft Passagierzug nach Warschau",
+      "summary": "In der Ukraine ist ein Passagierzug von Kiew nach Warschau von einer russischen Drohne attackiert worden. Verletzt wurde dabei niemand. Auch eine Tankstelle in der Grenzregion zu Polen wurde getroffen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-nahe-polnischer-grenze-100.html",
+      "publishedAt": "2026-09-13T15:08:51.000Z"
+    },
+    {
+      "id": "n_fe6151d641",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Sachsen-Anhalt: Wie realistisch sind die Rundfunk-Pläne der AfD?",
+      "summary": "Noch am Wahlabend bekräftigte AfD-Spitzenkandidat Siegmund in der tagesschau seine Absicht, den Medienstaatsvertrag zu kündigen. Was sind die juristischen Knackpunkte? Von Alena Lagmöller und Frank Bräutigam.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-mdr-rundfunk-100.html",
+      "publishedAt": "2026-09-13T14:28:14.000Z"
+    },
+    {
+      "id": "n_a753805f26",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Festnahmen bei Razzien gegen LGBTQ-Vereine in der Türkei",
+      "summary": "Türkische Behörden gehen hart gegen LGBTQ-Vereine vor: Bei Razzien wurden mehrere Menschen festgenommen. Die Staatsanwaltschaft spricht von einer Aktion zum Schutz der Familie, Menschenrechtler kritisieren staatlich gelenkte Diskriminierung.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/tuerkei-razzien-lgbtq-vereine-100.html",
+      "publishedAt": "2026-09-13T14:09:26.000Z"
+    },
     {
       "id": "n_6d74324405",
       "type": "news",
@@ -11,83 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/verbraucher/kupferpreis-rekordhoch-strom-verbraucher-100.html",
       "publishedAt": "2026-09-13T13:03:38.000Z"
-    },
-    {
-      "id": "n_02caacf27c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "China 50 Jahre nach Maos Tod: Immer noch untersteht alles der Partei",
-      "summary": "50 Jahre nach dem Tod von Chinas Staatsgründer Mao Zedong ist die Volksrepublik ein kapitalistisches Land - seine Metropolen geprägt von Malls und Wolkenkratzern. Und doch kontrolliert die Kommunistische Partei weiterhin alles. Von Eva Lamby-Schmitt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/china-50-todestag-mao-zedong-100.html",
-      "publishedAt": "2026-09-13T11:24:56.000Z"
-    },
-    {
-      "id": "n_a6826d6000",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Goethe-Institute in Russland geschlossen",
-      "summary": "Nach mehr als 30 Jahren endet die Arbeit der Goethe-Institute in Russland. Die drei verbliebenen Standorte sind geschlossen. Moskau reagiert damit auf deutsche Strafmaßnahmen gegen Russland. Von Stephan Laack.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/russland-schliessung-goethe-institute-100.html",
-      "publishedAt": "2026-09-13T10:26:53.000Z"
-    },
-    {
-      "id": "n_986b5400ea",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Kenia: Gewaltexzesse im Auftrag der Regierung?",
-      "summary": "Motorradgangs, die Veranstaltungen der Opposition mit Macheten angreifen: Ein Jahr vor der Präsidentenwahl in Kenia wird das Land mit Gewalt überzogen. Die Opposition macht dafür auch die Regierung verantwortlich. Von Georg Restle.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/kenia-gangs-100.html",
-      "publishedAt": "2026-09-13T10:24:51.000Z"
-    },
-    {
-      "id": "n_10a2652e75",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Tote und Vermisste nach Fährunglück in Indonesien",
-      "summary": "In Indonesien ist eine Fähre mit mehr als 240 Menschen an Bord gesunken. Ein Großteil der Passagiere wird noch vermisst, bisher wurden sechs Todesopfer gemeldet. Der Such- und Rettungseinstz dauert bei rauer See noch an.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/faehre-indonesien-seenot-100.html",
-      "publishedAt": "2026-09-13T10:18:20.000Z"
-    },
-    {
-      "id": "n_e6a967613a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Söder zu Kanzlersturz-Spekulationen: \"Von der CSU auf keinen Fall\"",
-      "summary": "Was wird aus Kanzler Merz? In der CDU rumort es, Gerüchte über einen Kanzlersturz machen die Runde. Von der CSU werde Merz nicht gestürzt, versicherte Parteichef Söder nun. Für die CDU sei er nicht zuständig.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/soeder-merz-kanzlerwechsel-100.html",
-      "publishedAt": "2026-09-13T10:11:59.000Z"
-    },
-    {
-      "id": "n_375ecb65b9",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Bilger drängt auf Wiedereinführung der Familienreservierung bei der Bahn",
-      "summary": "Wenn Familien bei der Bahn zusammen Sitzplätze reservieren, dann ist das seit Juni 2025 teurer. Verkehrsminister Bilger drängt nun auf die Wiedereinführung der Familienreservierung.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/bilger-bahn-familienreservierung-100.html",
-      "publishedAt": "2026-09-13T07:52:19.000Z"
-    },
-    {
-      "id": "n_b19cc98189",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Welt-Sepsis-Tag: Warum bei Blutvergiftungen oft zu viel Zeit vergeht",
-      "summary": "Der Welt-Sepsis-Tag soll heute auf die Gefahr durch Blutvergiftungen aufmerksam machen. In Deutschland sterben vergleichsweise viele Menschen daran - sie bleiben in Kliniken oft unerkannt. Von D. Remus und M. Stinn.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/gesundheit/gesundheit-sepsis-100.html",
-      "publishedAt": "2026-09-13T06:16:32.000Z"
     },
     {
       "id": "n_3d96162701",
@@ -266,92 +266,103 @@
       "publishedAt": "2026-09-13T07:06:02.000Z"
     },
     {
-      "id": "n_f1c6b50dde",
+      "id": "n_e2a8040159",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-      "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+      "headline": "Swedish party blocs tied after Sunday vote, projections say",
+      "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T12:56:39.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T22:27:54.000Z"
     },
     {
-      "id": "n_2da8da4404",
+      "id": "n_162a032f2f",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Iran war reshapes Brics ties but also exposes divisions",
-      "summary": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
+      "headline": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T11:23:42.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T19:34:36.000Z"
+    },
+    {
+      "id": "n_5923a3a276",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T19:14:21.000Z"
+    },
+    {
+      "id": "n_685eb5ef4b",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T18:49:37.000Z"
+    },
+    {
+      "id": "n_7a3b9fe623",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Questions mount over what an AI 'slowdown' would look like",
+      "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T18:20:22.000Z"
+    },
+    {
+      "id": "n_d1504790ba",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US congressman swims to safety after his plane is forced to land on a lake",
+      "summary": "The small plane carrying Rep Tom Tiffany had a mechanical issue that forced the pilot to make an emergency landing on a Wisconsin lake.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T15:30:43.000Z"
+    },
+    {
+      "id": "n_afcdebd294",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+      "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T14:25:56.000Z"
+    },
+    {
+      "id": "n_2eab36a9d3",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Legendary Canadian boxer George Chuvalo dies aged 89",
+      "summary": "The heavyweight champion took on the likes of Muhammad Ali and Joe Frazier, and was known for never once getting knocked out or knocked down.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-13T14:01:44.000Z"
     },
     {
       "id": "n_9e45ff7593",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
       "headline": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
       "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T11:13:07.000Z"
-    },
-    {
-      "id": "n_8cc83cc7de",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-      "summary": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T00:49:08.000Z"
-    },
-    {
-      "id": "n_7cd64c2ba3",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-      "summary": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T23:51:05.000Z"
-    },
-    {
-      "id": "n_e9de3776ef",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Best friends for decades - until a DNA test revealed they were sisters",
-      "summary": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T22:00:28.000Z"
-    },
-    {
-      "id": "n_cd21a5daca",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-      "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T21:25:28.000Z"
-    },
-    {
-      "id": "n_28eca65c1e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Afghan woman deported from US in first use of 'alien terrorist' court",
-      "summary": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T21:19:11.000Z"
+      "publishedAt": "2026-09-13T14:53:40.000Z"
     },
     {
       "id": "n_4a1f65fbb7",
@@ -365,14 +376,14 @@
       "publishedAt": "2026-09-12T21:16:47.000Z"
     },
     {
-      "id": "n_0e9f9a1a5f",
+      "id": "n_af8a069d1e",
       "type": "news",
       "topic": "tech",
       "lang": "en",
       "headline": "Tech Now",
       "summary": "Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0031qjy?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-12T01:00:00.000Z"
     },
     {
@@ -407,28 +418,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-11T12:49:30.000Z"
-    },
-    {
-      "id": "n_68c3fe3109",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Anthropic blocks possible attempt to use AI to make biological weapons",
-      "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T08:15:25.000Z"
-    },
-    {
-      "id": "n_31029957a2",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Can Europe recharge its battery industry?",
-      "summary": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-10T23:05:47.000Z"
     },
     {
       "id": "n_863af1ee1e",
@@ -519,6 +508,28 @@
       "publishedAt": "2026-09-11T18:49:39.000Z"
     },
     {
+      "id": "n_89769e5f1d",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "What’s behind the AI industry’s latest warnings of doom?",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "publishedAt": "2026-09-13T19:40:15.000Z"
+    },
+    {
+      "id": "n_7e363c87d8",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "publishedAt": "2026-09-13T16:30:00.000Z"
+    },
+    {
       "id": "n_e82b8a9af4",
       "type": "news",
       "topic": "ai",
@@ -585,26 +596,15 @@
       "publishedAt": "2026-09-11T20:33:18.000Z"
     },
     {
-      "id": "n_54bc95a279",
+      "id": "n_76cfee61f9",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-      "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-      "publishedAt": "2026-09-11T20:30:17.000Z"
-    },
-    {
-      "id": "n_83e605502c",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-      "publishedAt": "2026-09-11T19:35:54.000Z"
+      "headline": "Trump and Mike Johnson think the AI industry is overreacting",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative suppo",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "publishedAt": "2026-09-13T19:41:48.000Z"
     },
     {
       "id": "n_4022c7a7f9",
@@ -682,17 +682,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
       "publishedAt": "2026-09-11T16:09:14.000Z"
-    },
-    {
-      "id": "n_62d35db41d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the compan",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "publishedAt": "2026-09-11T14:25:21.000Z"
     },
     {
       "id": "n_bc7fdc500a",
