@@ -1,93 +1,115 @@
 {
-  "generatedAt": "2026-09-14T02:00:39.066Z",
+  "generatedAt": "2026-09-14T08:10:46.301Z",
   "items": [
     {
-      "id": "n_8bed144cc6",
+      "id": "n_abcf60eef0",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Hochrechnungen: Sozialdemokraten bei Wahl in Schweden vorn",
-      "summary": "Bei der Parlamentswahl in Schweden sind die Sozialdemokraten von Ex-Regierungschefin Andersson laut Hochrechnungen stärkste Kraft geworden. Ob es für die Regierungsbildung reicht, ist aber noch offen.",
+      "headline": "Trump gegen Regulierung: \"Wer bei KI gewinnt, gewinnt\"",
+      "summary": "Mehr staatliche Regulierung für Künstliche Intelligenz - mit dieser Forderung haben Tech-Bosse für Aufsehen gesorgt. Doch US-Präsident Trump hält davon wenig: Für ihn steht der US-Vorsprung bei KI gegenüber China im Vordergrund.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/schweden-wahl-132.html",
-      "publishedAt": "2026-09-14T01:22:42.000Z"
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-reaktion-ai-kritik-100.html",
+      "publishedAt": "2026-09-14T07:13:20.000Z"
     },
     {
-      "id": "n_586f09f5fb",
+      "id": "n_537539670a",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "CDU-Influencerin von Nathusius übt scharfe Kritik an Kanzler Merz",
-      "summary": "In der CDU wächst die Kritik an Kanzler Merz: Clara von Nathusius, im Vorstand der Jungen Union, hält seine Tage im Amt für gezählt. Die CDU müsse sich nun entscheiden, wofür sie stehe, sagt sie im Bericht aus Berlin. Die Brandmauer hält sie für gescheitert.",
+      "headline": "Nach Angriff auf Zug in der Ukraine: Polen wirft Russland Eskalation vor",
+      "summary": "Nach einem russischen Drohnenangriff auf einen Zug in der Ukraine nach Warschau hat Polens Krisenstab getagt. Seit Wochen gibt es Warnungen vor einer möglichen Zuspitzung, die auch Polen erreichen könnte. Von Palina Milling.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bab-6378.html",
-      "publishedAt": "2026-09-13T18:44:54.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/polen-krisenstab-ukraine-100.html",
+      "publishedAt": "2026-09-14T07:08:39.000Z"
     },
     {
-      "id": "n_bfc22c3099",
+      "id": "n_706ec7d89e",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Abschluss des BRICS-Treffens: Wenig Konfrontation, wenig geklärt",
-      "summary": "So unterschiedlich die Interessen der BRICS-Staaten auch sind: Beim Gipfel in Indien waren sie bemüht, Einigkeit zu demonstrieren. So beschlossen sie eine Erklärung, die jedoch vage blieb und niemandem wehtat. Von L. Bodewein.",
+      "headline": "Parlamentswahl in Schweden: Keine strahlenden Sieger und ein Verlierer",
+      "summary": "Schweden hat gewählt - aber noch lange keine Regierung. Sowohl die Sozialdemokraten als stärkste Kraft als auch die Konservativen brauchen Partner. Die rechtspopulistischen Schwedendemokraten büßten überraschend Stimmen ein. Von Arne Bartram.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/brics-zweiter-tag-100.html",
-      "publishedAt": "2026-09-13T17:43:05.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/schweden-parlamentswahl-110.html",
+      "publishedAt": "2026-09-14T05:49:34.000Z"
     },
     {
-      "id": "n_9a7eb65818",
+      "id": "n_1384cfae99",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Nach Angriffen auf Öl-Infrastruktur: Saudi-Arabien unter Druck",
-      "summary": "Nach dem Huthi-Vormarsch und dem Angriff auf eine Pipeline wächst der Druck auf Saudi-Arabien - denn nach der Straße von Hormus ist nun auch die Ausweichroute für Ölexporte vorerst nicht nutzbar. Von den USA kommt keine Hilfe. Von A. Osius.",
+      "headline": "Marktbericht: Hoher Ölpreis verhagelt den Wochenstart",
+      "summary": "Die Aktienmärkte bleiben an den steigenden Ölpreis gekettet: Die Eskalation in Saudi-Arabien schürt die Sorgen vor einem Anziehen der Inflation. Mit Spannung blicken die Investoren auf den Zinsentscheid der US-Notenbank.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-oelpreis-100.html",
-      "publishedAt": "2026-09-13T15:56:14.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-150.html",
+      "publishedAt": "2026-09-14T05:47:11.000Z"
     },
     {
-      "id": "n_6699708569",
+      "id": "n_ec4327d8d2",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Ukraine: Russische Drohne trifft Passagierzug nach Warschau",
-      "summary": "In der Ukraine ist ein Passagierzug von Kiew nach Warschau von einer russischen Drohne attackiert worden. Verletzt wurde dabei niemand. Auch eine Tankstelle in der Grenzregion zu Polen wurde getroffen.",
+      "headline": "Hitze, Feuer, Fluten: Wie das Mittelmeer Europas Wetter verändert",
+      "summary": "Das Mittelmeer wird immer heißer. Die Folge: Hitze, Brände, Fluten. 11KM darüber, wie sich das Klima des Mittelmeerraums gerade fundamental verändert.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-nahe-polnischer-grenze-100.html",
-      "publishedAt": "2026-09-13T15:08:51.000Z"
+      "url": "https://www.tagesschau.de/podcast-11km-mittelmeer-klima-100.html",
+      "publishedAt": "2026-09-14T05:00:50.000Z"
     },
     {
-      "id": "n_fe6151d641",
+      "id": "n_18a5397c4f",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Sachsen-Anhalt: Wie realistisch sind die Rundfunk-Pläne der AfD?",
-      "summary": "Noch am Wahlabend bekräftigte AfD-Spitzenkandidat Siegmund in der tagesschau seine Absicht, den Medienstaatsvertrag zu kündigen. Was sind die juristischen Knackpunkte? Von Alena Lagmöller und Frank Bräutigam.",
+      "headline": "Linke legt Fünf-Punkte-Plan für Berlin vor",
+      "summary": "Die Linken-Politikerin Eralp könnte Regierende Bürgermeisterin in Berlin werden. Nun legt sie für diesen Fall einen Fünf-Punkte-Plan vor: Er sieht etwa eine \"Taskforce Mietwucher\" und einen kostenlosen Sperrmülltag vor. Von A. Budweg.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/afd-sachsen-anhalt-mdr-rundfunk-100.html",
-      "publishedAt": "2026-09-13T14:28:14.000Z"
+      "url": "https://www.tagesschau.de/inland/linkspartei-berlin-100.html",
+      "publishedAt": "2026-09-14T04:00:51.000Z"
     },
     {
-      "id": "n_a753805f26",
+      "id": "n_b28feedb14",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Festnahmen bei Razzien gegen LGBTQ-Vereine in der Türkei",
-      "summary": "Türkische Behörden gehen hart gegen LGBTQ-Vereine vor: Bei Razzien wurden mehrere Menschen festgenommen. Die Staatsanwaltschaft spricht von einer Aktion zum Schutz der Familie, Menschenrechtler kritisieren staatlich gelenkte Diskriminierung.",
+      "headline": "Nach Sachsen-Anhalt: Ist die Brandmauer jetzt Geschichte?",
+      "summary": "Nach der Wahl in Sachsen-Anhalt wird über die Brandmauer zur AfD diskutiert. Der strikte Abgrenzungskurs sollte die AfD von der Macht fernhalten. Dieses Ziel könnte sie nun verfehlen. Ist die Brandmauer jetzt Geschichte? Von Jürgen P. Lang.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/tuerkei-razzien-lgbtq-vereine-100.html",
-      "publishedAt": "2026-09-13T14:09:26.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/landtagswahl-sachsen-anhalt-brandmauer-afd-100.html",
+      "publishedAt": "2026-09-14T02:06:44.000Z"
     },
     {
-      "id": "n_6d74324405",
+      "id": "n_ddbdca7dba",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Kupferpreis auf Rekordhoch: Warum es für Verbraucher teuer werden könnte",
-      "summary": "Kupfer kostet so viel wie nie. US-Zollsorgen, KI, Stromnetze und E-Autos treiben den Kupferpreis. Wo der Preisschub für Verbraucher spürbar werden könnte - vom Bauen bis zur Stromrechnung. Von Angela Göpfert.",
+      "headline": "Wahl in Schweden: Sozialdemokraten vorn - aber reicht es zur Macht?",
+      "summary": "Bei der Parlamentswahl in Schweden sind die Sozialdemokraten von Ex-Regierungschefin Andersson stärkste Kraft geworden. Ob das Mitte-Links-Lager eine Regierung bilden kann, ist aber offen - noch läuft die Auszählung.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/kupferpreis-rekordhoch-strom-verbraucher-100.html",
-      "publishedAt": "2026-09-13T13:03:38.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/schweden-wahl-142.html",
+      "publishedAt": "2026-09-14T02:01:04.000Z"
+    },
+    {
+      "id": "n_3a4bf96994",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "September-Updates: Windows-Probleme mit RDP, USB Audio und Hyper-V",
+      "summary": "Microsoft räumt Probleme durch die Windows-Updates vom September-Patchday ein. Einen Workaround gibt es nur für eines davon.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/September-Updates-Windows-Probleme-mit-RDP-USB-Audio-und-Hyper-V-11451793.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-14T06:28:00.000Z"
+    },
+    {
+      "id": "n_bc753f9f88",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Ruf nach KI-Pause: Börsen reagieren negativ, Trump winkt ab, Lob von Forschern",
+      "summary": "Führende KI-Unternehmen aus den USA haben dafür plädiert, die Forschung gezielt zu pausieren. Die Reaktionen darauf fallen ganz unterschiedlich aus.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Ruf-nach-KI-Drossel-Boersen-reagieren-negativ-Trump-winkt-ab-Lob-von-Forschern-11451741.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-14T05:03:00.000Z"
     },
     {
       "id": "n_3d96162701",
@@ -156,114 +178,125 @@
       "publishedAt": "2026-09-11T13:00:00.000Z"
     },
     {
-      "id": "n_92a8f191f5",
+      "id": "n_7fa25c7b22",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Die CRA-Meldepflicht startet – was Hersteller jetzt wissen müssen",
-      "summary": "Die ersten Meldepflichten des Cyber Resilience Act (CRA) starten am Freitag. Eine Bitkom-Umfrage zeigt: Viele Unternehmen sind unvorbereitet.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Gilt-ab-heute-CRA-setzt-24-Stunden-Frist-fuer-Sicherheitsmeldungen-11450208.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-11T09:31:00.000Z"
-    },
-    {
-      "id": "n_f39579d74e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Usability: So anders ist iOS 27 auf dem iPhone Duo",
-      "summary": "Das iPhone Duo setzt mit seinen zwei ungewöhnlichen Bildschirmen auf neue Bedienkonzepte. Ein vollwertiges Fenstersystem wie beim iPad gibt es zunächst nicht.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Usability-So-anders-ist-iOS-27-auf-dem-iPhone-Duo-11449671.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-11T09:00:00.000Z"
-    },
-    {
-      "id": "n_826a5a3c82",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: WLAN-Repeater mit bis zu 2.600 MBit/s reduziert bei Amazon",
-      "summary": "Ein WLAN-Repeater von TP-Link mit bis zu 2.600 MBit/s, Gigabit-LAN und Access-Point-Modus gibt es bei Amazon zum Aktionspreis. (TP-Link, WLAN)",
+      "headline": "Röhrencomputer: Eigenbau-Rechner arbeitet ohne Mikrochips",
+      "summary": "Ein Bastler baut einen wandmontierten 8-Bit-Computer aus 460 sowjetischen Vakuumröhren, der ganz ohne moderne Mikrochips auskommt. (PC & Notebooks, Prozessor)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-wlan-repeater-mit-bis-zu-2-600-mbit-s-reduziert-bei-amazon-2609-212933.html",
-      "publishedAt": "2026-09-13T11:40:02.000Z"
+      "url": "https://www.golem.de/news/roehrencomputer-eigenbau-rechner-arbeitet-ohne-mikrochips-2609-212967.html",
+      "publishedAt": "2026-09-14T07:56:01.000Z"
     },
     {
-      "id": "n_43dc1a267c",
+      "id": "n_dc6c19f38d",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Blizzard: WoW Forever macht mit dem alten Azeroth einfach weiter",
-      "summary": "Blizzard führt das ursprüngliche Azeroth mit neuen Gebieten, Quests und Raids fort. In WoW Forever bleibt der Level-Cap bei 60. (World of Warcraft, MMORPG)",
+      "headline": "Smart Glasses: Meta-Ray-Ban laut Datenschutzbeauftragtem untauglich für Alltag",
+      "summary": "Metas Smart Glasses fallen in einer Untersuchung des Hamburgischen Datenschutzbeauftragten durch - rechtlich sicher lassen sie sich im Alltag kaum benutzen. (Datenbrille, Datenschutz)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/blizzard-wow-forever-macht-mit-dem-alten-azeroth-einfach-weiter-2609-212957.html",
-      "publishedAt": "2026-09-13T11:25:02.000Z"
+      "url": "https://www.golem.de/news/smart-glasses-meta-ray-ban-laut-datenschutzbeauftragtem-untauglich-fuer-alltag-2609-212966.html",
+      "publishedAt": "2026-09-14T07:45:02.000Z"
     },
     {
-      "id": "n_9106a9d7f1",
+      "id": "n_47d38826e2",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Apple: Deutsches iPhone 18 Pro Max bekommt überraschend neue Technik",
-      "summary": "Apple setzt beim deutschen iPhone 18 Pro Max auf das neue C2-Modem. In den USA steckt dagegen weiterhin Technik von Qualcomm. (iPhone 18, Smartphone)",
+      "headline": "Physical Address Extension: Warum 32-Bit-Windows auf 4 GByte RAM begrenzt war",
+      "summary": "Fehlerhafte Treiber haben Microsoft daran gehindert, mehr als 4 GByte Arbeitsspeicher in 32-Bit-Client-Versionen freizugeben. (Windows XP, Microsoft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/apple-deutsches-iphone-18-pro-max-bekommt-ueberraschend-neue-technik-2609-212956.html",
-      "publishedAt": "2026-09-13T10:37:01.000Z"
+      "url": "https://www.golem.de/news/physical-address-extension-warum-32-bit-windows-auf-4-gbyte-ram-begrenzt-war-2609-212965.html",
+      "publishedAt": "2026-09-14T07:33:02.000Z"
     },
     {
-      "id": "n_214416e1e6",
+      "id": "n_c489dadf02",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Elon Musk: Teslas neuer Roadster soll mit Raketentechnik abheben",
-      "summary": "Neun Jahre nach der ersten Vorstellung soll Teslas neuer Roadster wieder öffentlich gezeigt werden. Elon Musk deutet eine außergewöhnliche Vorführung an. (Tesla, Elektroauto)",
+      "headline": "Hochtemperatur-Supraleitung: Proxima Fusion baut Kernfusions-Industrie auf",
+      "summary": "Das Fusions-Start-up und das Land Niedersachsen konkretisieren das Vorhaben, die Supraleiter erstmals in relevanten Mengen in Europa zu fertigen. (Kernfusion, Start-up)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/elon-musk-teslas-neuer-roadster-soll-mit-raketentechnik-abheben-2609-212955.html",
-      "publishedAt": "2026-09-13T09:52:01.000Z"
+      "url": "https://www.golem.de/news/hochtemperatur-supraleitung-proxima-fusion-baut-kernfusions-industrie-auf-2609-212964.html",
+      "publishedAt": "2026-09-14T07:25:01.000Z"
     },
     {
-      "id": "n_eaf2952496",
+      "id": "n_44ed29602b",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anthropic: Angst vor Super-KI eint plötzlich die größten Rivalen",
-      "summary": "Anthropic-Chef Dario Amodei fordert eine Notbremse bei der KI-Entwicklung. Seine härtesten Rivalen Sam Altman und Elon Musk stimmen zu. (Anthropic, KI)",
+      "headline": "MacOS 27 Golden Gate im Test: Mehr Speed, mehr KI, kaum Bugs - und was ist mit Siri AI?",
+      "summary": "Mit MacOS 27 fällt die letzte Unterstützung für Intel-Macs. Dafür hat Apple die KI jetzt tief im System verankert. Viel davon ist hilfreich, aber das Haupt-Feature derzeit eher nicht. Ein Test von Christian Rentrop (MacOS, Apple)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anthropic-angst-vor-super-ki-eint-ploetzlich-die-groessten-rivalen-2609-212954.html",
-      "publishedAt": "2026-09-13T09:08:01.000Z"
+      "url": "https://www.golem.de/news/macos-27-golden-gate-im-test-mehr-speed-mehr-ki-kaum-bugs-und-was-ist-mit-siri-ai-2609-212958.html",
+      "publishedAt": "2026-09-14T07:00:02.000Z"
     },
     {
-      "id": "n_d8859c8c6b",
+      "id": "n_b0038f876d",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Balkonkraftwerk exklusiv für Golem-Leser nur 359 Euro bei Kleines Kraftwerk",
-      "summary": "Mit dem bifazialen Balkonkraftwerk von Kleines Kraftwerk sichern sich Golem-Leser einen Exklusivrabatt und reduzieren ihre Stromrechnung. (Balkonkraftwerk, Solarenergie)",
+      "headline": "Sicherheitslücke in Klimaanlage: Midea Portasplit bekommt ein wichtiges Update",
+      "summary": "Angreifer können die Klimaanlage Midea Portasplit ohne Anmeldung per Bluetooth steuern. Ein neues Firmware-Update korrigiert das. (Sicherheitslücke, Bluetooth)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-balkonkraftwerk-exklusiv-fuer-golem-leser-nur-359-euro-bei-kleines-kraftwerk-2609-212910.html",
-      "publishedAt": "2026-09-13T08:40:02.000Z"
+      "url": "https://www.golem.de/news/klimaanlage-sicherheitsluecke-in-midea-portasplit-wird-geschlossen-2609-212963.html",
+      "publishedAt": "2026-09-14T06:23:01.000Z"
     },
     {
-      "id": "n_45e7fbb3f9",
+      "id": "n_b90f3cf60d",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) Vibecoding: Welche Fähigkeiten Entwickler im KI-Zeitalter bewahren müssen",
-      "summary": "Dank LLMs und Coding-Assistenten lagern Entwickler ihre kognitiven Aufgaben zunehmend an die KI aus. Aber wer trainiert dann das problemlösende Denken, das hinter jedem Code steckt? Ein Ratgebertext von Marc Favre (Arbeit, KI)",
+      "headline": "Erfolgreicher Angriff: Revolut gibt vertrauliche Kundendaten an gefälschte Behörden-E-Mail",
+      "summary": "Wie viele Kunden von dem Vorfall betroffen sind, behält Revolut für sich. Ausweisdokumente von Bankkunden sind an Unbefugte weitergeleitet worden. (Revolut, Datenschutz)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/vibecoding-welche-faehigkeiten-entwickler-im-ki-zeitalter-bewahren-muessen-2609-212925.html",
-      "publishedAt": "2026-09-13T08:00:01.000Z"
+      "url": "https://www.golem.de/news/erfolgreicher-angriff-revolut-gab-vertrauliche-kundendaten-an-gefaelschte-behoerden-e-mail-2609-212962.html",
+      "publishedAt": "2026-09-14T06:15:02.000Z"
     },
     {
-      "id": "n_96082b34e6",
+      "id": "n_33d71be4c5",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Blizzard: Starcraft kehrt als Open-World-Shooter zurück",
-      "summary": "Unter der Leitung eines Far-Cry-Entwicklers entsteht ein neues Starcraft. Im ersten Trailer schickt Blizzard einen Marine in den Kampf gegen die Zerg. (Blizzard, Far Cry)",
+      "headline": "Anzeige: Zwei 18V-Akkus für Makita kosten bei Amazon zusammen keine 40 Euro",
+      "summary": "Zwei 5-Ah-Akkus für Makita-Werkzeuge kosten bei Amazon nur 39,08 Euro. Was steckt dahinter? (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/blizzard-blizzard-starcraft-kehrt-als-open-world-shooter-zurueck-2609-212951.html",
-      "publishedAt": "2026-09-13T07:06:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-zwei-18v-akkus-fuer-makita-kosten-bei-amazon-zusammen-keine-40-euro-2609-212959.html",
+      "publishedAt": "2026-09-14T05:37:01.000Z"
+    },
+    {
+      "id": "n_24ae29aed4",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Bali police investigate after Australian man and children found dead in home",
+      "summary": "Police were called after the man's wife became concerned and asked neighbours to check on her family.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T07:15:35.000Z"
+    },
+    {
+      "id": "n_0bbda4507c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Hyrox athlete sparks debate for continuing race after soiling herself",
+      "summary": "Some have raised concerns around hygiene while others saluted her resolve to finish the race.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T05:34:13.000Z"
+    },
+    {
+      "id": "n_5923a3a276",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T03:38:13.000Z"
     },
     {
       "id": "n_e2a8040159",
@@ -271,10 +304,21 @@
       "topic": "general",
       "lang": "en",
       "headline": "Swedish left-wing bloc narrowly ahead with election too close to call",
-      "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
+      "summary": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-14T01:58:59.000Z"
+    },
+    {
+      "id": "n_dcfb43a800",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
+      "summary": "No casualties were reported after a Russian drone struck a train shortly after Boris Johnson and top European officials left the area.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T01:12:20.000Z"
     },
     {
       "id": "n_162a032f2f",
@@ -286,17 +330,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-13T19:34:36.000Z"
-    },
-    {
-      "id": "n_5923a3a276",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "summary": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T19:14:21.000Z"
     },
     {
       "id": "n_685eb5ef4b",
@@ -319,39 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-13T18:20:22.000Z"
-    },
-    {
-      "id": "n_d1504790ba",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US congressman swims to safety after his plane is forced to land on a lake",
-      "summary": "The small plane carrying Rep Tom Tiffany had a mechanical issue that forced the pilot to make an emergency landing on a Wisconsin lake.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T15:30:43.000Z"
-    },
-    {
-      "id": "n_afcdebd294",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-      "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T14:25:56.000Z"
-    },
-    {
-      "id": "n_2eab36a9d3",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Legendary Canadian boxer George Chuvalo dies aged 89",
-      "summary": "The heavyweight champion took on the likes of Muhammad Ali and Joe Frazier, and was known for never once getting knocked out or knocked down.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T14:01:44.000Z"
     },
     {
       "id": "n_9e45ff7593",
