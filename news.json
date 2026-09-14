@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T22:42:03.981Z",
+  "generatedAt": "2026-09-14T02:00:39.066Z",
   "items": [
     {
       "id": "n_8bed144cc6",
@@ -10,7 +10,7 @@
       "summary": "Bei der Parlamentswahl in Schweden sind die Sozialdemokraten von Ex-Regierungschefin Andersson laut Hochrechnungen stärkste Kraft geworden. Ob es für die Regierungsbildung reicht, ist aber noch offen.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/schweden-wahl-132.html",
-      "publishedAt": "2026-09-13T22:35:26.000Z"
+      "publishedAt": "2026-09-14T01:22:42.000Z"
     },
     {
       "id": "n_586f09f5fb",
@@ -270,11 +270,11 @@
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Swedish party blocs tied after Sunday vote, projections say",
-      "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority.",
+      "headline": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T22:27:54.000Z"
+      "publishedAt": "2026-09-14T01:58:59.000Z"
     },
     {
       "id": "n_162a032f2f",
@@ -304,7 +304,7 @@
       "topic": "general",
       "lang": "en",
       "headline": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-13T18:49:37.000Z"
@@ -420,6 +420,17 @@
       "publishedAt": "2026-09-11T12:49:30.000Z"
     },
     {
+      "id": "n_8dd937f03e",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
+      "summary": "The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
+      "publishedAt": "2026-09-13T21:56:52.000Z"
+    },
+    {
       "id": "n_863af1ee1e",
       "type": "news",
       "topic": "tech",
@@ -495,17 +506,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
       "publishedAt": "2026-09-11T19:34:09.000Z"
-    },
-    {
-      "id": "n_96e9022e79",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
-      "summary": "Analysis revealed seed proteins from sesame and moringa, which held religious and symbolic significance.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
-      "publishedAt": "2026-09-11T18:49:39.000Z"
     },
     {
       "id": "n_89769e5f1d",
