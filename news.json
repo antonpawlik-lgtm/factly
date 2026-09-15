@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-09-15T18:33:04.659Z",
+  "generatedAt": "2026-09-15T23:15:01.697Z",
   "items": [
+    {
+      "id": "n_e0fda4c0de",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Humanitäre Not im Jemen wächst durch Vormarsch der Huthi",
+      "summary": "Die Huthi-Miliz blockiert im Jemen eine der wichtigsten Meerengen der Welt. Doch abseits der Schlagzeilen zu Öl und Handel leiden Zehntausende Menschen. Sie sind der Gewalt schutzlos ausgeliefert. Von Anna Osius.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/humanitaere-not-jemen-huthi-vormarsch-100.html",
+      "publishedAt": "2026-09-15T19:30:53.000Z"
+    },
+    {
+      "id": "n_8084c68504",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Hohe Spritpreise: SPD-Fraktionsvize fordert Übergewinnsteuer",
+      "summary": "Mehr Druck auf Mineralölkonzerne und zielgerichtete Maßnahmen: SPD-Fraktionsvize Zorn verspricht neue Vorschläge der Sprit-Taskforce \"in den nächsten Tagen\". Angesichts der hohen Spritpreise seien staatliche Eingriffe nötig.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/sprit-taskforce-bundesregierung-100.html",
+      "publishedAt": "2026-09-15T19:17:52.000Z"
+    },
+    {
+      "id": "n_708d5f44e7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bundeskanzler Merz sagt Reise zur UN-Generaldebatte ab",
+      "summary": "Der \"Außenkanzler\" Merz steht unter Druck - innenpolitisch. Das Wahlergebnis in Sachsen-Anhalt setzt ihm zu - und die nächsten Wahlen stehen bevor. Nun sagt der CDU-Chef eine Reise zu den Vereinten Nationen ab: Er werde in Berlin gebraucht.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/merz-un-generaldebatte-absage-100.html",
+      "publishedAt": "2026-09-15T18:42:47.000Z"
+    },
     {
       "id": "n_72438973b9",
       "type": "news",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/union-kanzlerfrage-analyse-100.html",
       "publishedAt": "2026-09-15T16:57:43.000Z"
-    },
-    {
-      "id": "n_0d20c5c374",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wie blockierte Seewege den weltweiten Handel gefährden",
-      "summary": "Die Huthi-Miliz blockiert die Meerenge von Bab al-Mandab - und damit die kürzeste Route von Asien nach Europa. Das bedeutet teure Umwege. Wie gefährdet sind Schifffahrtsrouten und globale Lieferketten? Von Marcus Pfeiffer.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/blockierte-seewege-100.html",
-      "publishedAt": "2026-09-15T16:56:26.000Z"
-    },
-    {
-      "id": "n_14ef1fd96f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: Krisensignale häufen sich",
-      "summary": "Seit Tagen steigen die Ölpreise, was die Finanzmärkte zunehmend nervös macht. Während sich der DAX noch recht gut hielt, ging der Ausverkauf am Anleihemarkt weiter.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-152.html",
-      "publishedAt": "2026-09-15T16:20:10.000Z"
-    },
-    {
-      "id": "n_8872cac2d8",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Bundeskanzler Merz kündigt Entlastungen bei Spritpreisen an",
-      "summary": "Bundeskanzler Merz hat angesichts der hohen Spritpreise Entlastungen angekündigt. Er sei der Meinung, \"dass wir handeln müssen\". Das \"genaue Instrumentarium\" stehe allerdings noch nicht fest.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/merz-entlastungen-spritpreise-100.html",
-      "publishedAt": "2026-09-15T15:46:28.000Z"
     },
     {
       "id": "n_8f45364c04",
@@ -270,11 +270,55 @@
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Canada is a 'safe harbour' for global finance, Carney says",
-      "summary": "The prime minister is hosting a major global investment summit, with the goal of attracting money into the country amid a trade war with the US.",
+      "headline": "Data centres and pipelines up for grabs as Carney pitches Canada to investment giants",
+      "summary": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US - takeaways from the first Canada Investment Summit.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T17:54:46.000Z"
+      "publishedAt": "2026-09-15T22:46:20.000Z"
+    },
+    {
+      "id": "n_9c657c0b5d",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+      "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T21:07:13.000Z"
+    },
+    {
+      "id": "n_83c9ff637c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T20:34:12.000Z"
+    },
+    {
+      "id": "n_c739590992",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Nigeria arrests alleged Mexican drug kingpin at international airport",
+      "summary": "Arturo Carrera Loaiza denies allegations he was involved in meth production, the Nigerian authorities say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crq8j4k99w39o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T18:49:45.000Z"
+    },
+    {
+      "id": "n_2d8e1e0e96",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "South African president vows justice as more women's bodies found near Johannesburg",
+      "summary": "Police have not linked the deaths to a serial killer but are investigating this possibility.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T18:01:51.000Z"
     },
     {
       "id": "n_0057ebf99c",
@@ -293,7 +337,7 @@
       "topic": "general",
       "lang": "en",
       "headline": "Warning of space arms race as US confirms weapons in Earth's orbit",
-      "summary": "The US has confirmed it deployed a space weapon in Earth's orbit, the first time it has acknowledged such offensive capabilities.",
+      "summary": "The BBC's defence correspondent Jonathan Beale explains what an arms race in space might look like - and what it could mean for us on the ground.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-15T17:35:02.000Z"
@@ -310,48 +354,26 @@
       "publishedAt": "2026-09-15T16:55:04.000Z"
     },
     {
-      "id": "n_2469d74a55",
+      "id": "n_b17f30d549",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-      "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
+      "headline": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
+      "summary": "Jensen Huang's stance on AI safety contrasts with several current and former employees of AI-focused firm",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T16:13:41.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T22:13:10.000Z"
     },
     {
-      "id": "n_9c657c0b5d",
+      "id": "n_effb612279",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
-      "summary": "The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.",
+      "headline": "Tech Life",
+      "summary": "What should children learn in a world transformed by artificial intelligence?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T16:01:54.000Z"
-    },
-    {
-      "id": "n_83c9ff637c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-      "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T15:31:34.000Z"
-    },
-    {
-      "id": "n_5c029426b8",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Ash from Mount Etna grounds flights at Sicily airport",
-      "summary": "All flights are suspended from one of Italy's busiest airports until Tuesday night.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T14:35:04.000Z"
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyf?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T19:30:00.000Z"
     },
     {
       "id": "n_3fe5db2b4c",
@@ -420,26 +442,37 @@
       "publishedAt": "2026-09-13T18:20:22.000Z"
     },
     {
-      "id": "n_9e45ff7593",
+      "id": "n_b948f185a7",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-      "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T14:53:40.000Z"
+      "headline": "18-year-old dies of measles in PA from severe neurological complication",
+      "summary": "Teen developed acute disseminated encephalomyelitis, a known measles complication.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/",
+      "publishedAt": "2026-09-15T18:58:09.000Z"
     },
     {
-      "id": "n_4a1f65fbb7",
+      "id": "n_75a28c3dca",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T21:16:47.000Z"
+      "headline": "SpaceX declares Starship ready for orbit, sets launch date next week",
+      "summary": "Reaching orbit would mark a significant milestone.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
+      "publishedAt": "2026-09-15T18:48:08.000Z"
+    },
+    {
+      "id": "n_f557dac523",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+      "summary": "Robots can start working outside physical cages and without safety barriers.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
+      "publishedAt": "2026-09-15T18:33:02.000Z"
     },
     {
       "id": "n_74370992a1",
@@ -497,37 +530,37 @@
       "publishedAt": "2026-09-15T12:36:11.000Z"
     },
     {
-      "id": "n_c2297ec081",
+      "id": "n_75fb899a42",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
-      "summary": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
-      "publishedAt": "2026-09-15T12:00:41.000Z"
+      "headline": "The AI data center boom is colliding with cities scarred by big industry",
+      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "publishedAt": "2026-09-15T21:47:38.000Z"
     },
     {
-      "id": "n_1e67ea309e",
+      "id": "n_4a8be412f3",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
-      "summary": "The refreshed Volvos also get new infotainment systems with Gemini onboard.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
-      "publishedAt": "2026-09-15T07:00:30.000Z"
+      "headline": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "publishedAt": "2026-09-15T20:12:53.000Z"
     },
     {
-      "id": "n_50f4581c52",
+      "id": "n_34fe49b404",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "For the first time, the US military confirms it has deployed weapons in orbit",
-      "summary": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
-      "publishedAt": "2026-09-15T03:47:36.000Z"
+      "headline": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publishedAt": "2026-09-15T19:00:00.000Z"
     },
     {
       "id": "n_b6484e13d5",
@@ -583,39 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
       "publishedAt": "2026-09-15T15:22:48.000Z"
-    },
-    {
-      "id": "n_c34a54773d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-      "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-      "publishedAt": "2026-09-15T14:42:37.000Z"
-    },
-    {
-      "id": "n_a307d30da2",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-      "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-15T14:30:00.000Z"
-    },
-    {
-      "id": "n_21ea9c0ed0",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "4 days left to exhibit at TechCrunch Disrupt 2026",
-      "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-15T14:00:00.000Z"
     },
     {
       "id": "n_60e3714cb4",
