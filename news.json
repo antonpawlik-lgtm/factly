@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-16T18:30:58.934Z",
+  "generatedAt": "2026-09-16T23:19:51.125Z",
   "items": [
+    {
+      "id": "n_aea096fca3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "US-Notenbank erhöht Leitzins erstmals seit 2023",
+      "summary": "Im Kampf gegen die hartnäckig hohe Inflation hebt die US-Notenbank Fed den Leitzins an. Er wurde um einen Viertelpunkt erhöht - auf die neue Spanne von 3,75 bis 4,00 Prozent. Experten hatten mit diesem Schritt gerechnet.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/fed-leitzins-erhoeht-100.html",
+      "publishedAt": "2026-09-16T21:03:12.000Z"
+    },
     {
       "id": "n_daecd7e88f",
       "type": "news",
@@ -11,17 +22,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/regional/berlin/gutzeit-102.html",
       "publishedAt": "2026-09-16T18:20:26.000Z"
-    },
-    {
-      "id": "n_0791e69a90",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "US-Notenbank erhöht Leitzins erstmals seit 2023",
-      "summary": "Im Kampf gegen die hartnäckig hohe Inflation hebt die US-Notenbank Fed den Leitzins an. Er wurde um einen Viertelpunkt erhöht - auf die neue Spanne von 3,75 bis 4,00 Prozent. Experten hatten mit diesem Schritt gerechnet.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eilmeldung-fed-leitzins-erhoeht-100.html",
-      "publishedAt": "2026-09-16T18:17:05.000Z"
     },
     {
       "id": "n_475de9b1e4",
@@ -266,6 +266,72 @@
       "publishedAt": "2026-09-16T14:47:02.000Z"
     },
     {
+      "id": "n_f5b6dac208",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US interest rates raised for first time in three years",
+      "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T22:16:51.000Z"
+    },
+    {
+      "id": "n_f1ae59a87c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Handbags, jewels, watches: Inside Singapore's dirty money auction",
+      "summary": "The BBC goes inside a fortified storage facility to view luxury goods seized by police that are now up for auction.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cmew984dq92lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T22:13:36.000Z"
+    },
+    {
+      "id": "n_f7d05221ff",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
+      "summary": "The photos, provided by active military personnel, show a severed radar jet, flattened trailers and severely damaged buildings as a result of Iranian strikes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c9dr7e1lr265o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T21:24:24.000Z"
+    },
+    {
+      "id": "n_3fa3005b12",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
+      "summary": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T19:59:57.000Z"
+    },
+    {
+      "id": "n_e6df573a05",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump chief of staff Susie Wiles announces she's cancer-free",
+      "summary": "The 69-year-old White House chief of staff is a powerful figure and particularly close to the US president.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9xrx80ekro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T19:12:48.000Z"
+    },
+    {
+      "id": "n_2943f70f67",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Photos show widespread damage at US sites from Iranian attacks",
+      "summary": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T18:36:16.000Z"
+    },
+    {
       "id": "n_765ce480ad",
       "type": "news",
       "topic": "general",
@@ -277,81 +343,26 @@
       "publishedAt": "2026-09-16T17:16:47.000Z"
     },
     {
-      "id": "n_2943f70f67",
+      "id": "n_9aac3f7f27",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Photos show widespread damage at US sites from Iranian attacks",
-      "summary": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+      "headline": "Michelin-starred Seoul restaurant fined for using ants as garnish",
+      "summary": "The owner of the acclaimed establishment avoids jail but is made to pay 15 million won (£8,144; $10,965).",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T16:33:56.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T15:48:50.000Z"
     },
     {
-      "id": "n_961889ab29",
+      "id": "n_7122978d38",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting",
-      "summary": "The conservative activist was speaking to a crowd of thousands on the university campus when he was shot and killed by a gunman positioned on a roof.",
+      "headline": "Would you buy branded clothing from your favourite tech firm?",
+      "summary": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwzrz4xmknjgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T15:33:19.000Z"
-    },
-    {
-      "id": "n_f8eba46a46",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Eight German state premiers back Merz amid speculation over future",
-      "summary": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T14:50:26.000Z"
-    },
-    {
-      "id": "n_aa07e0c326",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US limits visas for South African officials over alleged anti-white discrimination",
-      "summary": "Secretary of State Marco Rubio says South Africa has not addressed US concerns over racial inequality.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T13:57:03.000Z"
-    },
-    {
-      "id": "n_3feec464df",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Nigeria’s ‘sarcasm queen’ answers ‘silly’ questions about Africa",
-      "summary": "Nigerian journalist and content creator Charity Ekezie believes the best way to challenge negative stereotypes about Africa is to laugh at them.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cq62jvr18ny4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T13:51:26.000Z"
-    },
-    {
-      "id": "n_56f5ac3ecc",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Legendary Nigerian actor Olu Jacobs dies aged 84",
-      "summary": "Olu Jacobs was one of Nigeria's most recognised actors, whose career spanned several decades.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T13:29:39.000Z"
-    },
-    {
-      "id": "n_418e851421",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "EU chief backs plan for Canada to become 'associate member'",
-      "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T12:36:51.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T23:18:47.000Z"
     },
     {
       "id": "n_ea82555f0a",
@@ -431,15 +442,81 @@
       "publishedAt": "2026-09-14T16:09:56.000Z"
     },
     {
-      "id": "n_2882773e5d",
+      "id": "n_c60fc05e1d",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Why are there concerns AI could threaten humanity, and how real are they?",
-      "summary": "Existential fears about AI have once again reared their head - here's what you need to know.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T12:00:08.000Z"
+      "headline": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+      "summary": "Group plans to be largely out of commission for several weeks.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+      "publishedAt": "2026-09-16T21:08:14.000Z"
+    },
+    {
+      "id": "n_1a466487d1",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Lionsgate releases a new trailer for Sunrise on the Reaping",
+      "summary": "Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, Wildwood.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
+      "publishedAt": "2026-09-16T20:44:41.000Z"
+    },
+    {
+      "id": "n_cb035bc8dd",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Not just Proton: Getting to know Valve's new SteamOS compatibility layers",
+      "summary": "New system-level tools bring Arm chipsets, Android APKs into the Steam ecosystem.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/09/not-just-proton-getting-to-know-valves-new-steamos-compatibility-layers/",
+      "publishedAt": "2026-09-16T20:23:16.000Z"
+    },
+    {
+      "id": "n_9668e15731",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "California may gut state net neutrality law to comply with Trump admin demand",
+      "summary": "Trump admin broadband grants forbid states from enforcing net neutrality laws.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/california-may-gut-state-net-neutrality-law-to-comply-with-trump-admin-demand/",
+      "publishedAt": "2026-09-16T19:36:44.000Z"
+    },
+    {
+      "id": "n_bbc292539c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Researchers swap in human brain cells for a mouse's cortex",
+      "summary": "The results are only a slight improvement over missing the entire brain structure.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/09/researchers-swap-in-human-brain-cells-for-a-mouses-cortex/",
+      "publishedAt": "2026-09-16T19:08:34.000Z"
+    },
+    {
+      "id": "n_1bf753da6d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Scientists develop new method for deciphering ancient scrolls",
+      "summary": "Even a handheld XRF scanner is sufficient to determine most promising scrolls for further analysis.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/09/why-researchers-made-their-own-model-herculaneum-scrolls/",
+      "publishedAt": "2026-09-16T18:43:23.000Z"
+    },
+    {
+      "id": "n_9de7ad2998",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "The Specialized Diverge Pro 4 makes rough gravel your playground",
+      "summary": "The Diverge Pro 4 is happiest when the road gets ugly.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/reviews/2026/09/the-specialized-diverge-pro-4-makes-rough-gravel-your-playground/",
+      "publishedAt": "2026-09-16T18:11:53.000Z"
     },
     {
       "id": "n_4e08e8bed0",
@@ -453,81 +530,26 @@
       "publishedAt": "2026-09-16T17:06:06.000Z"
     },
     {
-      "id": "n_5604e23691",
+      "id": "n_8c5a551560",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Iran strikes on Amazon data centers caused permanent loss of customer data",
-      "summary": "War damage to data centers exceeded what AWS services are designed to withstand.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
-      "publishedAt": "2026-09-16T16:40:11.000Z"
+      "headline": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "publishedAt": "2026-09-16T21:07:24.000Z"
     },
     {
-      "id": "n_eb6ba41d10",
+      "id": "n_bdf802861a",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "What happens when neutrinos swap identities inside a supernova?",
-      "summary": "Identity-fluid particles may carry some energy out, leading to direct collapse.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
-      "publishedAt": "2026-09-16T15:17:43.000Z"
-    },
-    {
-      "id": "n_0317bab3a3",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "macOS 27 Golden Gate: The Ars Technica review",
-      "summary": "It's both a \"Snow Leopard update\" and a major leap for Apple Intelligence.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
-      "publishedAt": "2026-09-16T14:50:06.000Z"
-    },
-    {
-      "id": "n_81568755a9",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "The world’s best racing driver is about to race 100 karts at once",
-      "summary": "Red Bull, Disney+, and ESPN are streaming the race at noon Eastern today.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/",
-      "publishedAt": "2026-09-16T14:19:01.000Z"
-    },
-    {
-      "id": "n_e207baffce",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Lawmakers target Flock cameras with a threat to highway funding",
-      "summary": "A bipartisan bill would restrict Flock cameras to a handful of public safety uses.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/",
-      "publishedAt": "2026-09-16T14:03:39.000Z"
-    },
-    {
-      "id": "n_ea18852fc5",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "How chimps teach their kids tool tricks",
-      "summary": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
-      "publishedAt": "2026-09-16T04:00:39.000Z"
-    },
-    {
-      "id": "n_ecaae448f6",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
-      "summary": "The Nancy Grace Roman Space Telescope is the first NASA observatory designed for in-space refueling.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
-      "publishedAt": "2026-09-15T22:26:32.000Z"
+      "headline": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "publishedAt": "2026-09-16T20:12:00.000Z"
     },
     {
       "id": "n_a80e9c51c9",
@@ -596,26 +618,26 @@
       "publishedAt": "2026-09-16T14:15:00.000Z"
     },
     {
-      "id": "n_7f85b3a63f",
+      "id": "n_cf356bfbc5",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-      "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-16T14:00:00.000Z"
+      "headline": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+      "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+      "publishedAt": "2026-09-16T20:59:13.000Z"
     },
     {
-      "id": "n_0273b0ea0b",
+      "id": "n_be79f3048c",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "SK Hynix reportedly in talks with Intel to build memory chips in US",
-      "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
-      "publishedAt": "2026-09-16T13:23:02.000Z"
+      "headline": "The AI data center e-waste problem is huge — and getting bigger",
+      "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It's a significantly higher estimate o",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+      "publishedAt": "2026-09-16T20:40:46.000Z"
     },
     {
       "id": "n_933ca83973",
@@ -682,28 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
       "publishedAt": "2026-09-15T23:34:25.000Z"
-    },
-    {
-      "id": "n_60e3714cb4",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Meta&#8217;s new One subscriptions put a price on social media and AI",
-      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-      "publishedAt": "2026-09-15T15:00:00.000Z"
-    },
-    {
-      "id": "n_e1cbe30e1d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "This doorbell camera lets a human security guard watch your front door",
-      "summary": "The new SimpliSafe Video Doorbell Series 2 adds 2K resolution and dual band Wi-Fi. | Image: Simplisafe DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-      "publishedAt": "2026-09-15T13:36:45.000Z"
     },
     {
       "id": "n_0a27d938a0",
@@ -794,6 +794,39 @@
       "publishedAt": "2026-09-08T10:34:00.000Z"
     },
     {
+      "id": "n_b9a016c3af",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+      "publishedAt": "2026-09-16T22:07:24.000Z"
+    },
+    {
+      "id": "n_ab80eed070",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Washington Won’t Be Regulating AI Anytime Soon",
+      "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+      "publishedAt": "2026-09-16T21:00:00.000Z"
+    },
+    {
+      "id": "n_e57e37aa86",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
+      "summary": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
+      "publishedAt": "2026-09-16T19:00:00.000Z"
+    },
+    {
       "id": "n_784ab7c1a0",
       "type": "news",
       "topic": "ai",
@@ -847,39 +880,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
       "publishedAt": "2026-09-14T11:00:00.000Z"
-    },
-    {
-      "id": "n_1fe093b4be",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
-      "summary": "While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
-      "publishedAt": "2026-09-14T09:00:00.000Z"
-    },
-    {
-      "id": "n_208f51d1dc",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI Agents Are Thirsty for Power",
-      "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
-      "publishedAt": "2026-09-13T10:00:00.000Z"
-    },
-    {
-      "id": "n_9d12233ef3",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
-      "summary": "Plus: The US disrupts the internet’s biggest black market, a Conti ransomware hacker gets prison time, Meta fails to stop AI-generated videos of child abuse.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
-      "publishedAt": "2026-09-12T10:30:00.000Z"
     },
     {
       "id": "n_16a7b27ed0",
