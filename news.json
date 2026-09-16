@@ -1,16 +1,60 @@
 {
-  "generatedAt": "2026-09-16T13:48:19.041Z",
+  "generatedAt": "2026-09-16T18:30:58.934Z",
   "items": [
     {
-      "id": "n_0564e34ee9",
+      "id": "n_daecd7e88f",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Neuer Bluttest weckt Hoffnung auf Früherkennung bei Bauchspeicheldrüsenkrebs",
-      "summary": "Tumore der Bauchspeicheldrüse sind meist erst erkennbar, wenn man sie kaum noch behandeln kann. Ein neuer Bluttest kann bei der Früherkennung helfen. Hoffnung weckt auch ein neuer Wirkstoff. Von Julia Jakob",
+      "headline": "DDR-Bürgerrechtler Martin Gutzeit gestorben",
+      "summary": "Martin Gutzeit war 1989 Mitbegründer der Ost-SPD und später langjähriger Berliner Beauftragter für die Stasi-Unterlagen. Nun ist er im Alter von 74 Jahren in Berlin gestorben.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/gesundheit/bluttest-bauspeicheldruesenkrebs-100.html",
-      "publishedAt": "2026-09-16T13:22:15.000Z"
+      "url": "https://www.tagesschau.de/inland/regional/berlin/gutzeit-102.html",
+      "publishedAt": "2026-09-16T18:20:26.000Z"
+    },
+    {
+      "id": "n_0791e69a90",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "US-Notenbank erhöht Leitzins erstmals seit 2023",
+      "summary": "Im Kampf gegen die hartnäckig hohe Inflation hebt die US-Notenbank Fed den Leitzins an. Er wurde um einen Viertelpunkt erhöht - auf die neue Spanne von 3,75 bis 4,00 Prozent. Experten hatten mit diesem Schritt gerechnet.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eilmeldung-fed-leitzins-erhoeht-100.html",
+      "publishedAt": "2026-09-16T18:17:05.000Z"
+    },
+    {
+      "id": "n_475de9b1e4",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Syrien: Größte Proteste seit Sturz von Assad",
+      "summary": "Gleich zweimal in kurzer Zeit hat die syrische Regierung Energiepreise erhöht. Dagegen regt sich im Land nun breiter Protest. Die Energiekrise hängt weniger mit der Entwicklung rund um Iran zusammen - sondern mit einem anderen Krieg. Von M. Behrendt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/syrien-proteste-energiepreise-100.html",
+      "publishedAt": "2026-09-16T18:11:51.000Z"
+    },
+    {
+      "id": "n_289f8b4f58",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Vier Jahre \"Frau, Leben, Freiheit\": Was von Irans Protesten geblieben ist",
+      "summary": "Vor vier Jahren starb eine junge Kurdin nach ihrer Festnahme durch die Sittenpolizei in Iran, es folgten landesweite Proteste. Frauen haben sich seitdem kleine Freiräume erkämpft - doch die Repression hat sich weiter verschärft. Von Antonia Rüller.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/iran-jahrestag-frau-leben-freiheit-100.html",
+      "publishedAt": "2026-09-16T17:40:33.000Z"
+    },
+    {
+      "id": "n_0d7a13c90c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Debatte über Spritpreise: Reiche will Mehrwertsteuer auf Sprit senken",
+      "summary": "Angesichts hoher Spritpreise hat die Politik Entlastung versprochen - aber es ist unklar, wie die aussehen könnte. Nach Unionsfraktionschef Frei sprach sich nun auch Wirtschaftsministerin Reiche für eine befristete Senkung der Mehrwertsteuer aus.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/reiche-mehrwertsteuer-100.html",
+      "publishedAt": "2026-09-16T17:15:59.000Z"
     },
     {
       "id": "n_73f7e7d14b",
@@ -18,76 +62,43 @@
       "topic": "general",
       "lang": "de",
       "headline": "Gazastreifen: Tote bei Einsturz von ausgebombtem Wohnhaus",
-      "summary": "Im Gazastreifen ist ein mehrstöckiges Wohnhaus eingestürzt. Es gibt zahlreiche Tote, noch fast 100 weitere Menschen werden vermisst. Helfer graben mit bloßen Händen nach ihnen. Das Gebäude war zuvor durch israelische Angriffe beschädigt worden.",
+      "summary": "Im Gazastreifen ist ein mehrstöckiges Wohnhaus eingestürzt. Es gibt mindestens 20 Tote, fast 100 Menschen werden noch vermisst. Helfer graben mit bloßen Händen nach ihnen. Das Gebäude war zuvor durch israelische Angriffe beschädigt worden.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/gaza-tote-hauseinsturz-100.html",
-      "publishedAt": "2026-09-16T13:03:01.000Z"
+      "publishedAt": "2026-09-16T17:13:18.000Z"
     },
     {
-      "id": "n_75d9163c4d",
+      "id": "n_5df426513a",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Mindestens 60 Tote bei Einsturz von Goldmine im Sudan",
-      "summary": "Beim Einsturz einer Goldmine im Sudan sind mindestens 60 Menschen ums Leben gekommen. Möglicherweise könnten weitere Arbeiter noch verschüttet sein. Das Land ist ein weltweit wichtiger Goldproduzent. Von Moritz Behrendt.",
+      "headline": "Streit um Kultureinrichtung: Trump verweigert Kennedy Center Renovierung",
+      "summary": "Das Kennedy Center ist nach einem Sturm in schlechtem Zustand. Es müsste dringend renoviert werden. Doch US-Präsident Trump will nur zustimmen, wenn er anschließend wieder seinen Namen am Gebäude anbringen darf. Von C. Kühntopp.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/sudan-goldmine-102.html",
-      "publishedAt": "2026-09-16T12:54:35.000Z"
+      "url": "https://www.tagesschau.de/ausland/amerika/kennedy-center-120.html",
+      "publishedAt": "2026-09-16T17:03:09.000Z"
     },
     {
-      "id": "n_29ffc948e9",
+      "id": "n_b180d6b15e",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Drohne über Litauen war laut Regierung mit Sprengstoff bestückt",
-      "summary": "Vorfälle mit Flugobjekten im NATO-Gebiet häufen sich: In Litauen wurde gestern eine Drohne abgeschossen, die der Regierung zufolge Sprengstoff geladen hatte. In Polen wurde ebenfalls eine mutmaßlich russische Drohne gefunden.",
+      "headline": "Südukraine: Mehrere Tote nach russischem Angriff auf Linienbus",
+      "summary": "Tote, Verletzte und schwere Schäden in der Südukraine: Russland hat laut ukrainischen Angaben einen Bus und zwei Züge mit Drohnen angegriffen. Mindestens fünf Menschen seien getötet worden. Präsident Selenskyj spricht von einem \"Akt der Barbarei\".",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/litauen-drohne-sprengstoff-100.html",
-      "publishedAt": "2026-09-16T12:40:15.000Z"
+      "url": "https://www.tagesschau.de/ausland/ukraine-russische-angriffe-verkehrsmittel-100.html",
+      "publishedAt": "2026-09-16T16:40:52.000Z"
     },
     {
-      "id": "n_fa515fae46",
+      "id": "n_cf6f93641e",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Social Media erst ab 13 Jahren - was die EU plant",
-      "summary": "Die EU plant Altersbeschränkungen für TikTok, Instagram und Co: In Deutschland und anderen Mitgliedsstaaten soll der Zugang zu Sozialen Netzwerken erst ab 13 Jahren erlaubt werden. Was Brüssel plant - ein Überblick.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-kommission-social-media-100.html",
-      "publishedAt": "2026-09-16T12:40:13.000Z"
-    },
-    {
-      "id": "n_f1e96f120c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "US-Senat stoppt Gesetz - Kryptowährungen unter Druck",
-      "summary": "Ein US-Gesetz zur Regulierung von Kryptowährungen ist im Senat gescheitert. Das ist eine Niederlage für Donald Trump und setzt die Kurse unter Druck. Der Bitcoin fällt zeitweise unter 75.000 Dollar.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/krypto-us-senat-100.html",
-      "publishedAt": "2026-09-16T12:37:06.000Z"
-    },
-    {
-      "id": "n_ce85cbac00",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Regierung legt Aktionsplan gegen Sozialbetrug vor",
-      "summary": "Die Bundesregierung verschärft den Kampf gegen Sozialleistungsmissbrauch. Ein neuer Aktionsplan setzt auf mehr Datenabgleich, mehr Kontrollen und strengere Regeln. Auch KI soll helfen. Von J.-P. Bartels und T. Aßmann.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-plan-sozialmissbrauch-100.html",
-      "publishedAt": "2026-09-16T12:01:27.000Z"
-    },
-    {
-      "id": "n_bbaac5ea6a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "25 Jahre Haft für Kosovos Ex-Präsident Thaci wegen Kriegsverbrechen",
-      "summary": "Das Kosovo-Sondertribunal in Den Haag hat den ehemaligen Präsidenten Thaci wegen Kriegsverbrechen zu 25 Jahren Haft verurteilt. In Pristina löste das Urteil Proteste aus. Vielen gilt Thaci als Nationalheld.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/verurteilung-thaci-100.html",
-      "publishedAt": "2026-09-16T11:48:26.000Z"
+      "headline": "Linux-Desktop Gnome 51: Mehr Geschwindigkeit und Komfort",
+      "summary": "Der Linux-Desktop Gnome 51 verbessert sichtbar viele Standard-Apps und sorgt für mehr Komfort im Alltag.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Linux-Desktop-Gnome-51-Mehr-Geschwindigkeit-und-Komfort-11454982.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-16T16:17:00.000Z"
     },
     {
       "id": "n_7045049c4f",
@@ -167,103 +178,158 @@
       "publishedAt": "2026-09-15T13:33:00.000Z"
     },
     {
-      "id": "n_e7146915ef",
+      "id": "n_666b06961e",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Debatte über KI-Pause: „Jede deutsche Großküche hat schärfere Kontrollsysteme“",
-      "summary": "Die Debatte über eine mögliche Pause bei der KI-Entwicklung zieht immer weitere Kreise. Die Reaktionen aus der deutschsprachigen Forschung sind gemischt.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Debatte-ueber-KI-Pause-Jede-deutsche-Grosskueche-hat-schaerfere-Kontrollsysteme-11453768.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-15T13:25:00.000Z"
+      "headline": "Anzeige: Großes Makita-Set mit Bits und Ratschenschrauber bei Amazon nur 19,21 Euro",
+      "summary": "Ein Ratschenschraubendreher, Bits und Stecknüsse von Makita sind bei Amazon auf unter 20 Euro gefallen. (Technik/Hardware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-grosses-makita-set-mit-bits-und-ratschenschrauber-bei-amazon-nur-19-21-euro-2609-213124.html",
+      "publishedAt": "2026-09-16T16:54:02.000Z"
     },
     {
-      "id": "n_11ddd077b7",
+      "id": "n_2cb576c16b",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "SpaceX: Starship fliegt als Wegwerfrakete in den Orbit",
-      "summary": "Booster und Starship werden nach dem Flug ins Meer fallen. SpaceX bestätigte das Versagen des Hitzeschutzschildes beim letzten Flug. Von Frank Wunderlich-Pfeiffer (Starship, Raumfahrt)",
+      "headline": "Anzeige: Microsoft 365 DSGVO-konform betreiben",
+      "summary": "Microsoft 365 stellt Unternehmen vor Datenschutz- und Compliance-Fragen. Die Golem Karrierewelt zeigt, wie sich DSGVO-Anforderungen technisch einordnen lassen. (Golem Karrierewelt, Sicherheitslücke)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/spacex-starship-fliegt-als-wegwerfrakete-in-den-orbit-2609-213100.html",
-      "publishedAt": "2026-09-16T13:41:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-2609-213059.html",
+      "publishedAt": "2026-09-16T16:45:02.000Z"
     },
     {
-      "id": "n_c0ceef3191",
+      "id": "n_6f9aa35b45",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Mobilität: Bau des bundesweiten E-Lkw-Ladenetzes an Autobahnen startet",
-      "summary": "Verkehrsminister Bilger hat den Start des Ausbaus eines bundesweiten E-Lkw-Ladenetzwerks verkündet. Zunächst werden 124 Ladepunkte eingerichtet. (Lkw, Elektroauto)",
+      "headline": "Anzeige: 160-W-USB-Ladegerät von Ugreen mit 5 Anschlüssen und Display zum Tiefstpreis",
+      "summary": "Das Nexode-Pro-USB-Ladegerät von Ugreen mit 160 W ist bei Amazon wieder für unter 66 Euro erhältlich. (Technik/Hardware, Amazon)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/mobilitaet-bau-des-bundesweiten-e-lkw-ladenetzes-an-autobahnen-startet-2609-213106.html",
-      "publishedAt": "2026-09-16T13:24:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-160-w-usb-ladegeraet-von-ugreen-mit-5-anschluessen-und-display-zum-tiefstpreis-2609-213123.html",
+      "publishedAt": "2026-09-16T16:32:01.000Z"
     },
     {
-      "id": "n_a188d3c01f",
+      "id": "n_029b03ad24",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Mechanische Gaming-Tastatur von Logitech reduziert bei Amazon",
-      "summary": "Eine mechanische Gaming-Tastatur mit taktilen GL-Switches, Keycontrol-Funktion und Signalraten von 1 Millisekunde ist bei Amazon reduziert. (Logitech, Eingabegerät)",
+      "headline": "Xserve: Apple plant mit Nvidia wohl die Rückkehr auf den Servermarkt",
+      "summary": "Apple prüft ein Wiederbeleben seines Servers aus dem Jahr 2011. Doch der Prozessor ist bisher nicht verfügbar und man braucht Nvidia als Partner. (Apple, Nvidia)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-mechanische-gaming-tastatur-von-logitech-reduziert-bei-amazon-2609-213102.html",
-      "publishedAt": "2026-09-16T12:49:02.000Z"
+      "url": "https://www.golem.de/news/xserve-apple-plant-mit-nvidia-wohl-die-rueckkehr-auf-den-servermarkt-2609-213122.html",
+      "publishedAt": "2026-09-16T16:14:02.000Z"
     },
     {
-      "id": "n_a51e3fd9d3",
+      "id": "n_bd29fc598e",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Rasswet: Russische Starlink-Alternative bereits in Gebrauch",
-      "summary": "Die Bundeswehr warnt vor einer russischen Megakonstellation aus Kommunikationssatelliten. Wann diese komplett sein könnte, ist unklar. (Satelliteninternet, Politik)",
+      "headline": "(g+) Tech Asia: Fachkräftemangel entwickelt sich zum größten Engpass der Tech-Branche im KI-Boom",
+      "summary": "\"Sorry, jeder Entwickler, der atmen kann, wurde schon von anderen angeworben\" - Der KI-Boom führt in Asien zu einem massiven Fachkräftemangel. Nikkei Asia hat dazu recherchiert. Unsere Leseempfehlung. Von Cheng Ting-Fang und Lauly Li (Wirtschaft, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/rasswet-russische-starlink-alternative-bereits-in-gebrauch-2609-213099.html",
-      "publishedAt": "2026-09-16T12:35:02.000Z"
+      "url": "https://www.golem.de/news/tech-asia-fachkraeftemangel-entwickelt-sich-zum-groessten-engpass-der-tech-branche-im-ki-boom-2609-213103.html",
+      "publishedAt": "2026-09-16T16:00:02.000Z"
     },
     {
-      "id": "n_f0690fc607",
+      "id": "n_8b00b91bdd",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: AVM FRITZ!Box Router zum Amazon-Bestpreis",
-      "summary": "Leistungsstarke Router bilden das Herzstück des Heimnetzwerks. Amazon bietet die FRITZ!Box 6690 Cable aktuell für unter 250 Euro zum Amazon-Bestpreis an. (Technik/Hardware)",
+      "headline": "Anzeige: Corsair Harpoon v2 Wireless Gaming-Maus mit 140 Std. ...",
+      "summary": "Die Corsair Harpoon v2 Wireless Gaming-Maus mit 26K-DPI-Sensor und 140 Stunden Akkulaufzeit ist bei Amazon zum neuen Bestpreis verfügbar. (Technik/Hardware, Maus)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-avm-fritz-box-router-zum-amazon-bestpreis-2609-213096.html",
-      "publishedAt": "2026-09-16T12:17:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-corsair-harpoon-v2-wireless-gaming-maus-mit-140-std-akkulaufzeit-erstmals-unter-50-euro-bei-amazon-2609-213114.html",
+      "publishedAt": "2026-09-16T15:20:01.000Z"
     },
     {
-      "id": "n_66aa64a59a",
+      "id": "n_df8c8787eb",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Software-Defined Defence: Rheinmetall veröffentlicht Militärschnittstellen als Open Source",
-      "summary": "Rheinmetall legt Schnittstellen seiner Militärplattform als Open Source frei. Ein Blick in die Dokumentation zeigt aber: Offen ist hier nur ein Teil. (Softwareentwicklung, API)",
+      "headline": "Sportuhren: Krafttraining bringt Pulssensoren an ihre Grenzen",
+      "summary": "Apple vergleicht aktuelle Wearables mit einem Brustgurt. Die Herstellerstudie zeigt auch, warum optische Pulssensoren bei manchen Sportarten Schwierigkeiten bekommen. (Sportuhr, Apple)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/software-defined-defence-rheinmetall-veroeffentlicht-militaerschnittstellen-als-open-source-2609-213084.html",
-      "publishedAt": "2026-09-16T12:05:02.000Z"
+      "url": "https://www.golem.de/news/sportuhren-krafttraining-bringt-pulssensoren-an-ihre-grenzen-2609-213119.html",
+      "publishedAt": "2026-09-16T15:04:01.000Z"
     },
     {
-      "id": "n_7b179f3594",
+      "id": "n_45fcfa2861",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) Softwareentwicklung: Wo KI beim Programmieren stark ist - und wo nicht",
-      "summary": "KI schreibt immer besseren Code. Doch Software Engineering verlangt Kontext, Abwägung und Erfahrung. Genau dort liegen die Grenzen. Ein Ratgebertext von Klaus Manhart (Softwareentwicklung, KI)",
+      "headline": "Anzeige: Kabelloser Etikettendrucker mit App für 16,14 Euro bei Amazon",
+      "summary": "Amazon hat einen kabellosen Etikettendrucker im Angebot, mit dem sich individuelle Beschriftungen per Smartphone erstellen lassen. (Drucker, Epson)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/softwareentwicklung-wo-ki-beim-programmieren-stark-ist-und-wo-nicht-2609-213079.html",
-      "publishedAt": "2026-09-16T11:30:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-kabelloser-etikettendrucker-mit-app-fuer-16-14-euro-bei-amazon-2609-213118.html",
+      "publishedAt": "2026-09-16T14:47:02.000Z"
     },
     {
-      "id": "n_c3e7f25bfe",
+      "id": "n_765ce480ad",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Limitierte David-Beckham-Kaffeemaschine mit 250 Euro Rabatt bei Amazon",
-      "summary": "Die Ninja Luxe Café Pro im David-Beckham-Design kostet bei Amazon nur noch 599,99 Euro. Das sind 250 Euro weniger als die UVP. (Haushaltsgeräte, Amazon)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-limitierte-david-beckham-kaffeemaschine-mit-250-euro-rabatt-bei-amazon-2609-213097.html",
-      "publishedAt": "2026-09-16T11:25:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "summary": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T17:16:47.000Z"
+    },
+    {
+      "id": "n_2943f70f67",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Photos show widespread damage at US sites from Iranian attacks",
+      "summary": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T16:33:56.000Z"
+    },
+    {
+      "id": "n_961889ab29",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting",
+      "summary": "The conservative activist was speaking to a crowd of thousands on the university campus when he was shot and killed by a gunman positioned on a roof.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrz4xmknjgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T15:33:19.000Z"
+    },
+    {
+      "id": "n_f8eba46a46",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Eight German state premiers back Merz amid speculation over future",
+      "summary": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T14:50:26.000Z"
+    },
+    {
+      "id": "n_aa07e0c326",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US limits visas for South African officials over alleged anti-white discrimination",
+      "summary": "Secretary of State Marco Rubio says South Africa has not addressed US concerns over racial inequality.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T13:57:03.000Z"
+    },
+    {
+      "id": "n_3feec464df",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Nigeria’s ‘sarcasm queen’ answers ‘silly’ questions about Africa",
+      "summary": "Nigerian journalist and content creator Charity Ekezie believes the best way to challenge negative stereotypes about Africa is to laugh at them.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cq62jvr18ny4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T13:51:26.000Z"
     },
     {
       "id": "n_56f5ac3ecc",
@@ -277,17 +343,6 @@
       "publishedAt": "2026-09-16T13:29:39.000Z"
     },
     {
-      "id": "n_765ce480ad",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "summary": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T13:28:46.000Z"
-    },
-    {
       "id": "n_418e851421",
       "type": "news",
       "topic": "general",
@@ -299,59 +354,26 @@
       "publishedAt": "2026-09-16T12:36:51.000Z"
     },
     {
-      "id": "n_879e22a050",
+      "id": "n_ea82555f0a",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Philippines' Duterte seen in person at International Criminal Court for first time",
-      "summary": "He is due to be tried for crimes against humanity over thousands of deaths linked to his war on drugs.",
+      "headline": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
+      "summary": "Mustafa Suleyman says he believes the AI giant is in effect teaching Claude it \"may be conscious\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T11:50:09.000Z"
-    },
-    {
-      "id": "n_02559d53ff",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Colombia and Brazil deadliest countries for environmental activists, report says",
-      "summary": "The two countries accounted for 52% of killings of environmental activists in 2025, according to Global Witness.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T11:02:54.000Z"
-    },
-    {
-      "id": "n_2d8e1e0e96",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "South African president vows justice as more women's bodies found near Johannesburg",
-      "summary": "Police have not linked the deaths to a serial killer but are investigating this possibility.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T10:44:02.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T14:16:14.000Z"
     },
     {
       "id": "n_b17f30d549",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
       "headline": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
       "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-16T10:02:05.000Z"
-    },
-    {
-      "id": "n_d01c93a6b3",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Journalist and pilot among three killed after news helicopter crashes in LA",
-      "summary": "The NBCLA news helicopter was flying near the scene of a fatal bus crash.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T09:49:48.000Z"
     },
     {
       "id": "n_ca95332186",
@@ -420,15 +442,70 @@
       "publishedAt": "2026-09-14T12:00:08.000Z"
     },
     {
-      "id": "n_685eb5ef4b",
+      "id": "n_4e08e8bed0",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-13T18:49:37.000Z"
+      "headline": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
+      "summary": "Man wins fight to block ICE threat over off-the-cuff angry email.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
+      "publishedAt": "2026-09-16T17:06:06.000Z"
+    },
+    {
+      "id": "n_5604e23691",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+      "summary": "War damage to data centers exceeded what AWS services are designed to withstand.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
+      "publishedAt": "2026-09-16T16:40:11.000Z"
+    },
+    {
+      "id": "n_eb6ba41d10",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "What happens when neutrinos swap identities inside a supernova?",
+      "summary": "Identity-fluid particles may carry some energy out, leading to direct collapse.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
+      "publishedAt": "2026-09-16T15:17:43.000Z"
+    },
+    {
+      "id": "n_0317bab3a3",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "macOS 27 Golden Gate: The Ars Technica review",
+      "summary": "It's both a \"Snow Leopard update\" and a major leap for Apple Intelligence.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+      "publishedAt": "2026-09-16T14:50:06.000Z"
+    },
+    {
+      "id": "n_81568755a9",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "The world’s best racing driver is about to race 100 karts at once",
+      "summary": "Red Bull, Disney+, and ESPN are streaming the race at noon Eastern today.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/",
+      "publishedAt": "2026-09-16T14:19:01.000Z"
+    },
+    {
+      "id": "n_e207baffce",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Lawmakers target Flock cameras with a threat to highway funding",
+      "summary": "A bipartisan bill would restrict Flock cameras to a handful of public safety uses.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/",
+      "publishedAt": "2026-09-16T14:03:39.000Z"
     },
     {
       "id": "n_ea18852fc5",
@@ -453,70 +530,81 @@
       "publishedAt": "2026-09-15T22:26:32.000Z"
     },
     {
-      "id": "n_7f3629cfa6",
+      "id": "n_a80e9c51c9",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "“Filmmaker” suing PassThePopcorn may be banned user out for revenge",
-      "summary": "Allegedly fake filmmaker targeted trackers like PassThePopcorn, BroadcasTheNet, and HDBits.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/",
-      "publishedAt": "2026-09-15T20:19:17.000Z"
+      "headline": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "publishedAt": "2026-09-16T18:25:25.000Z"
     },
     {
-      "id": "n_b948f185a7",
+      "id": "n_ffa6cd36bb",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "18-year-old dies of measles in PA from severe neurological complication",
-      "summary": "Teen developed acute disseminated encephalomyelitis, a known measles complication.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/",
-      "publishedAt": "2026-09-15T18:58:09.000Z"
+      "headline": "Your AI agents can now control your Google Home devices",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "publishedAt": "2026-09-16T17:00:00.000Z"
     },
     {
-      "id": "n_75a28c3dca",
+      "id": "n_26ddd6d19e",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "SpaceX declares Starship ready for orbit, sets launch date next week",
-      "summary": "Reaching orbit would mark a significant milestone.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
-      "publishedAt": "2026-09-15T18:48:08.000Z"
+      "headline": "Anthropic merges Claude chat and Cowork in one interface",
+      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "publishedAt": "2026-09-16T16:30:00.000Z"
     },
     {
-      "id": "n_f557dac523",
+      "id": "n_fd27e61521",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
-      "summary": "Robots can start working outside physical cages and without safety barriers.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
-      "publishedAt": "2026-09-15T18:33:02.000Z"
+      "headline": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-16T15:00:00.000Z"
     },
     {
-      "id": "n_74370992a1",
+      "id": "n_39749b4129",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Boston dumps Flock, says it shared data nationwide in violation of contract",
-      "summary": "City: Flock enabled \"nationwide lookup\" despite contract requiring it to be disabled.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/",
-      "publishedAt": "2026-09-15T18:14:11.000Z"
+      "headline": "Threads’ new features let podcasters promote shows and reach listeners",
+      "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+      "publishedAt": "2026-09-16T14:24:58.000Z"
     },
     {
-      "id": "n_32d1440d74",
+      "id": "n_b54f744453",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Demand for EV chargers is outstripping supply, says ChargePoint report",
-      "summary": "EV growth is happening, even in the US, and those EVs will need plugs to charge.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/",
-      "publishedAt": "2026-09-15T17:58:09.000Z"
+      "headline": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+      "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+      "publishedAt": "2026-09-16T14:15:00.000Z"
+    },
+    {
+      "id": "n_7f85b3a63f",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+      "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-16T14:00:00.000Z"
     },
     {
       "id": "n_0273b0ea0b",
@@ -530,81 +618,48 @@
       "publishedAt": "2026-09-16T13:23:02.000Z"
     },
     {
-      "id": "n_063fe6f27f",
+      "id": "n_933ca83973",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Former Infosys chief’s AI startup nabs another $53M",
-      "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-      "publishedAt": "2026-09-16T13:00:00.000Z"
+      "headline": "Apple might make servers again to cash in on the AI rush",
+      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute p",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+      "publishedAt": "2026-09-16T17:20:29.000Z"
     },
     {
-      "id": "n_9ec52daee7",
+      "id": "n_2306ad1a8f",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Amazon launches Alexa+ in India with Hindi support",
-      "summary": "Amazon is letting all customers use Alexa+ assistant in early access period.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-      "publishedAt": "2026-09-16T10:34:47.000Z"
+      "headline": "Google will now let any AI agent run your smart home",
+      "summary": "Google is inviting third-party agents, including Claude and Open Claw, into Google Home. | Photo by Jennifer Pattison Tuohy / The Verge Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "publishedAt": "2026-09-16T17:00:00.000Z"
     },
     {
-      "id": "n_3808e2aaf9",
+      "id": "n_b10d3b6dd4",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "publishedAt": "2026-09-16T00:20:39.000Z"
+      "headline": "Claude comes for Gemini with its own take on Docs and Slides",
+      "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+      "publishedAt": "2026-09-16T16:30:00.000Z"
     },
     {
-      "id": "n_75fb899a42",
+      "id": "n_a553240ea8",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "The AI data center boom is colliding with cities scarred by big industry",
-      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "publishedAt": "2026-09-15T21:47:38.000Z"
-    },
-    {
-      "id": "n_4a8be412f3",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "publishedAt": "2026-09-15T20:12:53.000Z"
-    },
-    {
-      "id": "n_34fe49b404",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "publishedAt": "2026-09-15T19:00:00.000Z"
-    },
-    {
-      "id": "n_b6484e13d5",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-      "publishedAt": "2026-09-15T18:29:20.000Z"
+      "headline": "The sexy AI-powered dating app scams are here",
+      "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She likes",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+      "publishedAt": "2026-09-16T14:45:00.000Z"
     },
     {
       "id": "n_3a2fbb6e37",
@@ -649,50 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
       "publishedAt": "2026-09-15T13:36:45.000Z"
-    },
-    {
-      "id": "n_e4b50f354b",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "publishedAt": "2026-09-14T22:59:41.000Z"
-    },
-    {
-      "id": "n_fa0bf0a9d2",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "What execs and politicians are saying about slowing down AI development",
-      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his poi",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-      "publishedAt": "2026-09-14T21:21:42.000Z"
-    },
-    {
-      "id": "n_0b4285d334",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-      "summary": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP via Getty Images) | AFP via Getty Images Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the A",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-      "publishedAt": "2026-09-14T20:03:37.000Z"
-    },
-    {
-      "id": "n_4057d675f5",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Microsoft says ‘people matter more than AI’ following safety concerns",
-      "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress c",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-      "publishedAt": "2026-09-14T13:00:00.000Z"
     },
     {
       "id": "n_0a27d938a0",
