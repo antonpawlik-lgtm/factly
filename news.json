@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-18T17:56:02.967Z",
+  "generatedAt": "2026-09-18T20:08:37.652Z",
   "items": [
+    {
+      "id": "n_e7eabe4122",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Pistorius nimmt in Texas ersten F-35A-Jet für Bundeswehr entgegen",
+      "summary": "In Texas hat Bundesverteidigungsminister Pistorius den ersten von 35 Kampfjets des Typs F-35A übernommen. Die Flugzeuge sind vom gegnerischen Radar nur schwer zu orten. Pistorius sprach von einer \"neuen Ära für die Luftwaffe\".",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/pistorius-texas-f-35-100.html",
+      "publishedAt": "2026-09-18T18:30:08.000Z"
+    },
     {
       "id": "n_59b33aa816",
       "type": "news",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/buffett-warren-howard-100.html",
       "publishedAt": "2026-09-18T15:27:15.000Z"
-    },
-    {
-      "id": "n_0af2522c3a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Anschlag auf Synagoge in NRW: Ermittler vermuten antisemitisches Motiv",
-      "summary": "Auf die Synagoge der Jüdischen Kultusgemeinde in Wuppertal ist ein Brandanschlag verübt worden. Ein aus Afghanistan stammender Verdächtiger ist in Untersuchungshaft. Die Ermittler gehen von einem antisemitischen Motiv aus.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/brandanschlag-synagoge-wuppertal-100.html",
-      "publishedAt": "2026-09-18T15:19:00.000Z"
     },
     {
       "id": "n_5018418904",
@@ -266,6 +266,39 @@
       "publishedAt": "2026-09-18T14:29:01.000Z"
     },
     {
+      "id": "n_d966c1faf1",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Donald Trump says he is banning CNN and Politico from White House",
+      "summary": "The US president has had a tense and fiery relationship with the US media since returning to office.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T20:04:29.000Z"
+    },
+    {
+      "id": "n_bab6b86906",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+      "summary": "Records in 2024 show the venue had a surplus of millions of dollars once contributions and grants had been factored in.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T18:56:17.000Z"
+    },
+    {
+      "id": "n_5847bd6003",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T18:04:38.000Z"
+    },
+    {
       "id": "n_4a7b35fbcf",
       "type": "news",
       "topic": "general",
@@ -277,6 +310,17 @@
       "publishedAt": "2026-09-18T17:31:30.000Z"
     },
     {
+      "id": "n_d104b6df2c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+      "summary": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T17:15:02.000Z"
+    },
+    {
       "id": "n_43332dda97",
       "type": "news",
       "topic": "general",
@@ -286,17 +330,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-18T15:47:28.000Z"
-    },
-    {
-      "id": "n_5847bd6003",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T15:14:35.000Z"
     },
     {
       "id": "n_bd5d0f2f77",
@@ -314,44 +347,11 @@
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Police begin operation to move migrants from Ceuta beaches",
+      "headline": "Shots heard as police start moving migrants from Ceuta beaches",
       "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-18T11:59:42.000Z"
-    },
-    {
-      "id": "n_ef57ed7345",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
-      "summary": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T11:49:46.000Z"
-    },
-    {
-      "id": "n_09d56a0899",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Three dead and eight injured in Philippines school shooting",
-      "summary": "The gunman is among the dead in what is the third school shooting in the country since June.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T11:01:46.000Z"
-    },
-    {
-      "id": "n_d38002f0af",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Japan raises interest rate to new 31-year high to curb rising prices",
-      "summary": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T07:14:57.000Z"
     },
     {
       "id": "n_e52342f13a",
@@ -442,6 +442,50 @@
       "publishedAt": "2026-09-15T23:27:17.000Z"
     },
     {
+      "id": "n_8a86701f25",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "FAA tees up $875M AI tool to help manage air traffic congestion",
+      "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+      "publishedAt": "2026-09-18T19:20:50.000Z"
+    },
+    {
+      "id": "n_20fc0c317b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
+      "summary": "FCC rejects concerns about repressive governments buying influence over CBS owner.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
+      "publishedAt": "2026-09-18T17:57:41.000Z"
+    },
+    {
+      "id": "n_d781200a2b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Finding the cells that put our brain to sleep",
+      "summary": "Rare cells with widespread connectivity seem to be able to trigger sleep.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
+      "publishedAt": "2026-09-18T17:49:50.000Z"
+    },
+    {
+      "id": "n_26bd35d9b3",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "US government website used Chinese model the FBI called \"malicious\"",
+      "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+      "publishedAt": "2026-09-18T17:28:50.000Z"
+    },
+    {
       "id": "n_161acfd6fd",
       "type": "news",
       "topic": "tech",
@@ -486,48 +530,26 @@
       "publishedAt": "2026-09-17T22:31:28.000Z"
     },
     {
-      "id": "n_289b2cb14f",
+      "id": "n_b311cc8207",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Small AI models let drones autonomously identify and attack battlefield targets",
-      "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
-      "publishedAt": "2026-09-17T22:12:58.000Z"
+      "headline": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "publishedAt": "2026-09-18T18:49:30.000Z"
     },
     {
-      "id": "n_beb9711aca",
+      "id": "n_13515f2f45",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Google announces new experimental \"CC\" AI agent for families",
-      "summary": "Multiple family members can share data to help the agent make plans and complete tasks.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-      "publishedAt": "2026-09-17T20:24:34.000Z"
-    },
-    {
-      "id": "n_01982aadb2",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
-      "summary": "Microsoft, OpenAI emails reveal fear of AI “doom loop” killing news orgs.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
-      "publishedAt": "2026-09-17T20:10:41.000Z"
-    },
-    {
-      "id": "n_efa840d232",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Republican bill would order ISPs, DNS providers, and VPNs to block piracy sites",
-      "summary": "Bill would help rightsholders obtain court orders to block foreign piracy sites.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/",
-      "publishedAt": "2026-09-17T19:07:28.000Z"
+      "headline": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "publishedAt": "2026-09-18T17:59:53.000Z"
     },
     {
       "id": "n_96293117e2",
@@ -596,26 +618,15 @@
       "publishedAt": "2026-09-18T15:22:48.000Z"
     },
     {
-      "id": "n_71be334bb3",
+      "id": "n_802486953d",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-      "summary": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-18T15:00:00.000Z"
-    },
-    {
-      "id": "n_4434b99a74",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Researchers used Anthropic’s Claude to hack into OpenAI",
-      "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-      "publishedAt": "2026-09-18T14:00:14.000Z"
+      "headline": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 ban",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+      "publishedAt": "2026-09-18T18:29:17.000Z"
     },
     {
       "id": "n_2de2edcf5a",
@@ -692,17 +703,6 @@
       "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come as no surprise that Mustafa has strong opinions on how AI should be built and re",
       "source": "The Verge",
       "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-      "publishedAt": "2026-09-17T14:00:00.000Z"
-    },
-    {
-      "id": "n_bb3e4f16a8",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI is feared globally as the destroyer of jobs",
-      "summary": "In 34 of the 37 surveyed countries, people are more likely to believe AI will lead to job losses over the next 20 years. | Image: Pew Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income i",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
       "publishedAt": "2026-09-17T14:00:00.000Z"
     },
     {
@@ -794,6 +794,17 @@
       "publishedAt": "2026-09-09T03:10:08.000Z"
     },
     {
+      "id": "n_0f3cb72b85",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Here’s How an AI Slowdown Could Actually Be Enforced",
+      "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
+      "publishedAt": "2026-09-18T19:21:09.000Z"
+    },
+    {
       "id": "n_599c093b8d",
       "type": "news",
       "topic": "ai",
@@ -869,17 +880,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
       "publishedAt": "2026-09-17T22:20:21.000Z"
-    },
-    {
-      "id": "n_3cec5bf6ab",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The AI ‘Slowdown’ Is an Antitrust Mess",
-      "summary": "By framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
-      "publishedAt": "2026-09-17T19:58:28.000Z"
     },
     {
       "id": "n_16a7b27ed0",
