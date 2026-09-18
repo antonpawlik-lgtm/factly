@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-18T13:13:02.791Z",
+  "generatedAt": "2026-09-18T17:56:02.967Z",
   "items": [
+    {
+      "id": "n_59b33aa816",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Klingbeil dringt wegen Spritpreisen auf europäische Übergewinnsteuer",
+      "summary": "Wegen der hohen Spritpreise übt Finanzminister Klingbeil scharfe Kritik an der EU-Kommission. Er fordert eine Übergewinnsteuer für Ölkonzerne auf EU-Ebene. Doch Brüssel zeigt wenig Interesse. Von Sarah López.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/klingbeil-finanzministertreffen-dublin-100.html",
+      "publishedAt": "2026-09-18T17:42:39.000Z"
+    },
     {
       "id": "n_4c0e2692ba",
       "type": "news",
@@ -10,51 +21,62 @@
       "summary": "Der Nordwesten Pakistans gilt als Unruheregion. Nun gab es dort - im Grenzgebiet zu Afghanistan - erneut einen verheerenden Anschlag mit vielen Toten und Verletzten. Noch ist unklar, wer dahinter steckt.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/asien/pakistan-anschlag-134.html",
-      "publishedAt": "2026-09-18T12:46:17.000Z"
+      "publishedAt": "2026-09-18T17:22:37.000Z"
     },
     {
-      "id": "n_aa3dd42f30",
+      "id": "n_4940e64855",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Volkswagen verliert Platz in Europas wichtigster Börsenliga",
-      "summary": "Nach Börsenschluss am Freitag gehört die Volkswagen-Aktie nicht mehr zum europäischen Leitindex. Für das operative Geschäft ändert sich dadurch nichts - für die Aktie kann der Schritt kurzfristig dennoch Folgen haben.",
+      "headline": "Projekt in Dänemark gestartet: Greensand soll CO2-Speicher Europas werden",
+      "summary": "Mit dem Projekt Greensand ist das erste CO2-Einlagerungsprojekt in der EU gestartet. Unter der Nordsee soll in Zukunft klimaschädliches CO2 dauerhaft im Meeresboden gespeichert werden. Doch es gibt auch Kritik. Von A. Bartram.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/vw-aktie-europa-100.html",
-      "publishedAt": "2026-09-18T11:40:02.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/daenemark-greensand-100.html",
+      "publishedAt": "2026-09-18T17:03:15.000Z"
     },
     {
-      "id": "n_cc04ba4844",
+      "id": "n_f90434d287",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Mecklenburg-Vorpommern: Wer könnte nach der Wahl regieren?",
-      "summary": "Die Zuspitzung im Wahlkampf in Mecklenburg-Vorpommern zwischen SPD und AfD droht die kleineren Parteien zu zerreiben. Doch von diesen hängt ab, wie einfach oder kompliziert die Regierungsbildung wird. Von Michael Seidel.",
+      "headline": "Bolivien: Forscher entdecken neue Katzenart \"Leopardus tilcayo\"",
+      "summary": "Erstmals seit mehr als hundert Jahren haben Forscher in Südamerika eine bislang unbekannte Katzenart entdeckt. Das Tier ist hellbraun gefleckt und kleiner als eine Hauskatze. Es trägt nun den Namen \"Leopardus tilcayo\".",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/wahl-mecklenburg-vorpommern-wahlkampf-102.html",
-      "publishedAt": "2026-09-18T11:23:36.000Z"
+      "url": "https://www.tagesschau.de/wissen/bolivien-neue-katzenart-100.html",
+      "publishedAt": "2026-09-18T17:02:36.000Z"
     },
     {
-      "id": "n_f686e445ff",
+      "id": "n_54b517842e",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Renommierter Körber-Preis für Zellforscherin Wickström",
-      "summary": "Die Zellbiologin Wickström erforscht, was in unseren Zellen bei mechanischem Druck passiert. Das ist auch für die Krebsforschung relevant. Heute hat die Finnin den diesjährigen Körber-Preis für Europäische Wissenschaft erhalten. Von Veronika Simon.",
+      "headline": "Marktbericht: DAX gibt am großen Verfallstag nach",
+      "summary": "Der deutsche Aktienmarkt hat die Woche mit Verlusten beendet. Die Anleger blickten mit Sorge auf die unsichere Lage im Nahen Osten. Auch der große Verfallstag sorgte für Bewegung.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/forschung/koerberpreis-zellforscherin-100.html",
-      "publishedAt": "2026-09-18T11:22:10.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-156.html",
+      "publishedAt": "2026-09-18T16:25:06.000Z"
     },
     {
-      "id": "n_dbcae283c0",
+      "id": "n_1b9e8c9e4e",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Italien erwägt Marinemission im Roten Meer zum Schutz von Frachtern",
-      "summary": "Die Huthi-Miliz kontrolliert die Meerenge Bab al-Mandab im Roten Meer weitgehend. Ohne auf die EU zu warten, will Italien dort Schiffe mit der eigenen Marine schützen. Die Ankündigung dürfte vor allem ein Signal in Richtung Brüssel sein.",
+      "headline": "Berlin-Wahl - Kristin Brinker von der AfD: Spitzenkandidatin ohne Regierungschancen",
+      "summary": "Kristin Brinker tritt zum dritten Mal als Spitzenkandidatin der AfD in Berlin an. Ihre Partei kann mit Zuwächsen rechnen. Doch eine Regierungsoption hat sie wohl nicht; niemand will mit ihr koalieren. Von Jonas Wintermantel und Markus Reher.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/italien-erwaegt-marineeinsatz-rotes-meer-100.html",
-      "publishedAt": "2026-09-18T11:02:32.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhaus-wahl-berlin-afd-brinker-100.html",
+      "publishedAt": "2026-09-18T16:20:49.000Z"
+    },
+    {
+      "id": "n_35518bd76d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Investor Warren Buffett übergibt an seinen Sohn",
+      "summary": "Mit 96 Jahren übergibt Warren Buffett einen weiteren Teil seines Imperiums. Den Vorsitz des Verwaltungsrats übernimmt sein Sohn Howard. Ganz zurückziehen wird sich der legendäre Investor aber weiterhin nicht.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/buffett-warren-howard-100.html",
+      "publishedAt": "2026-09-18T15:27:15.000Z"
     },
     {
       "id": "n_0af2522c3a",
@@ -62,32 +84,43 @@
       "topic": "general",
       "lang": "de",
       "headline": "Anschlag auf Synagoge in NRW: Ermittler vermuten antisemitisches Motiv",
-      "summary": "Auf die Synagoge der Jüdischen Kultusgemeinde in Wuppertal ist ein Brandanschlag verübt worden. Ein aus Afghanistan stammender Mann wurde festgenommen. Die Ermittler gehen von einem antisemitischen Motiv aus.",
+      "summary": "Auf die Synagoge der Jüdischen Kultusgemeinde in Wuppertal ist ein Brandanschlag verübt worden. Ein aus Afghanistan stammender Verdächtiger ist in Untersuchungshaft. Die Ermittler gehen von einem antisemitischen Motiv aus.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/brandanschlag-synagoge-wuppertal-100.html",
-      "publishedAt": "2026-09-18T10:49:00.000Z"
+      "publishedAt": "2026-09-18T15:19:00.000Z"
     },
     {
-      "id": "n_0501f1f24f",
+      "id": "n_5018418904",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Putin stellt Nestlé in Russland unter Zwangsverwaltung",
-      "summary": "Auch nach Ausbruch des Ukraine-Krieges produzierte Nestlé weiter in Russland. Nun stellt Präsident Putin das Russland-Geschäft des Schweizer Lebensmittelkonzerns per Dekret unter Zwangsverwaltung. Es ist nicht der erste Konzern, dem das passiert.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nestle-russland-100.html",
-      "publishedAt": "2026-09-18T09:49:03.000Z"
+      "headline": "Samsung Galerie-App: Cloud-Synchronisierung wechselt von OneDrive zu Google",
+      "summary": "Samsung beendet die OneDrive-Synchronisierung in der Galerie-App. Ein Update bereitet den Wechsel zu Google Fotos vor, der ab Oktober ansteht.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Samsung-Galerie-App-Cloud-Synchronisierung-wechselt-von-OneDrive-zu-Google-11458663.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-18T14:22:00.000Z"
     },
     {
-      "id": "n_5e372c3783",
+      "id": "n_0febe28899",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "FAQ: Wie gefährlich sind die aktuellen Malaria-Fälle?",
-      "summary": "In Frankfurt am Main ist erneut ein Mensch an der Tropenkrankheit Malaria gestorben, er soll von einer eingeschleppten Mücke infiziert worden sein. Drohen weitere Fälle? Und sinken mit dem Herbst die Risiken?",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/faq-malaria-100.html",
-      "publishedAt": "2026-09-18T09:28:36.000Z"
+      "headline": "Klinik-Planung: DaphOS siegt bei KH-IT-Start-up-Pitch",
+      "summary": "DaphOS überzeugte beim Start-up-Pitch auf der Krankenhaus-IT-Tagung mit einer Plattform für Personal- und Bettenplanung in Krankenhäusern.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Klinik-Planung-DaphOS-siegt-bei-KH-IT-Start-up-Pitch-11343644.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-18T13:56:00.000Z"
+    },
+    {
+      "id": "n_7e0a2138ca",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Lucid und Bolt wollen 25.000 autonome E-Autos in Europa einsetzen",
+      "summary": "Lucid und die Mobilitätsplattform Bolt wollen mindestens 25.000 autonome Fahrzeuge mit SAE-Level-4-Technik in europäischen Städten einsetzen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Lucid-und-Bolt-planen-25-000-Robotaxis-fuer-Europa-11458433.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-18T13:35:00.000Z"
     },
     {
       "id": "n_6f6645bccb",
@@ -145,125 +178,114 @@
       "publishedAt": "2026-09-18T04:17:00.000Z"
     },
     {
-      "id": "n_564716d360",
+      "id": "n_3b09adbc1a",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Meta Platforms haftet für Werbung und Profile unter fremdem Namen",
-      "summary": "Werbung und Profile locken mit dem Namen eines bekannten Unternehmers in die Betrugsfalle. Meta verdient daran, unternimmt aber zu wenig dagegen. Das kostet.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Meta-Platforms-haftet-fuer-Werbung-und-Profile-unter-fremdem-Namen-11457629.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-17T20:54:00.000Z"
-    },
-    {
-      "id": "n_c0d586ce48",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Jahrhundertfund: Größter neuer Krater des Sonnensystems auf dem Mond entdeckt",
-      "summary": "2024 ist ein Asteroid auf dem Mond eingeschlagen und hat einen Krater erzeugt, wie er in dieser Größe dort weniger als einmal pro Jahrhundert entsteht.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Jahrhundertfund-Groesster-neuer-Krater-des-Sonnensystems-auf-dem-Mond-entdeckt-11457349.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-17T16:19:00.000Z"
-    },
-    {
-      "id": "n_0f61deabc4",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Mistral wird KI-Anbieter für Firefox Smart Window",
-      "summary": "Mozillas KI-Assistent Smart Window nutzt nun Mistral-Modelle. Deutschland soll noch 2026 folgen. Beide Partner versprechen Null-Datenaufbewahrung.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Mistral-wird-KI-Anbieter-fuer-Firefox-Smart-Window-11457247.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-17T15:55:00.000Z"
-    },
-    {
-      "id": "n_1d404e8052",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Batteriespeicher: Speicherschwarm senkt Preise und entlastet Stromnetz",
-      "summary": "Ein Verbund aus Millionen Heimspeichern könnte nicht nur das Stromnetz flexibilisieren. Privathaushalte hätten damit auch Zugriff auf Notstrom. (Akku, Energiewende)",
+      "headline": "Globaler Rekord bei Internetsperren: Vodafone fordert strenge Regeln gegen Internet-Blackouts",
+      "summary": "Immer mehr Regierungen setzen auf das gezielte Kappen von Internetverbindungen - mit drastischen Folgen. Die Vodafone Group fordert verbindliche Schutzmechanismen und internationale Standards. (Internetsperren, Zensur)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/batteriespeicher-speicherschwarm-senkt-preise-und-entlastet-stromnetz-2609-213214.html",
-      "publishedAt": "2026-09-18T13:06:02.000Z"
+      "url": "https://www.golem.de/news/globaler-rekord-bei-internetsperren-vodafone-fordert-strenge-regeln-gegen-digitale-blackouts-2609-213229.html",
+      "publishedAt": "2026-09-18T17:00:02.000Z"
     },
     {
-      "id": "n_eab654731f",
+      "id": "n_42e41bc472",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Control Resonant im Test: Tolle Kämpfe in einer traurigen Spielwelt",
-      "summary": "Control Resonant begeistert mit Kämpfen und Effekten. Doch die leblose Welt und eine schwache Missionsführung bremsen den Spielspaß. Ein Test von Peter Steinlechner (Control, Test)",
+      "headline": "Anzeige: Vibe Coding: Software-Prototypen mit KI entwickeln",
+      "summary": "Vibe Coding verändert die Softwareentwicklung: KI setzt natürlichsprachliche Anforderungen in Software um. Entscheidend sind dabei Steuerung, Tests und Qualitätskontrolle. (Golem Karrierewelt, Programmiersprachen)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/control-resonant-im-test-tolle-kaempfe-in-einer-traurigen-spielwelt-2609-213101.html",
-      "publishedAt": "2026-09-18T13:00:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-vibe-coding-software-prototypen-mit-ki-entwickeln-2609-213107.html",
+      "publishedAt": "2026-09-18T16:45:02.000Z"
     },
     {
-      "id": "n_efe581ccc1",
+      "id": "n_65751b5d19",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Kompakte Kapselmaschine von Krups zum Amazon-Bestpreis",
-      "summary": "Die platzsparende Kapselmaschine Nescafé Dolce Gusto Mini von Krups ist bei Amazon aktuell stark im Preis gesenkt. Gegenüber der unverbindlichen Preisempfehlung ergibt sich für das Modell eine attraktive Ersparnis von rund 29 Euro. (Technik/Hardware)",
+      "headline": "Steer-by-Wire in der Praxis: Mit dem Jochlenker übers Penser Joch",
+      "summary": "Das elektronische Lenkrad geht bei Mercedes demnächst in Serie. Wie sich das System in der Praxis fährt, haben wir mit dem EQS in den Alpen ausprobiert. Ein Bericht von Friedhelm Greis (Elektroauto, Tesla)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-kompakte-kapselmaschine-von-krups-zum-amazon-bestpreis-2609-213210.html",
-      "publishedAt": "2026-09-18T12:27:01.000Z"
+      "url": "https://www.golem.de/news/steer-by-wire-in-der-praxis-mit-dem-jochlenker-uebers-penser-joch-2609-213186.html",
+      "publishedAt": "2026-09-18T16:00:01.000Z"
     },
     {
-      "id": "n_2bba200b34",
+      "id": "n_1d4f9597c6",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "iPhone Duo im Hands-on: Unser erster Eindruck von Apples iPhone Duo",
-      "summary": "Apple hat bei seinem ersten faltbaren iPhone Duo den Fokus auf den Falz und die Software gelegt - wir konnten uns einen ersten Eindruck verschaffen. Ein Hands-on von Tobias Költzsch (iPhone Duo, Smartphone)",
+      "headline": "ALPSiX: Berliner Inter.link errichtet neuen Peeringknoten des DE-CIX in Südöstereich",
+      "summary": "Der neue Internetknoten ALPSiX in Klagenfurt-Villach setzt auf Edge-Container, um die Unabhängigkeit von Wien zu stärken und Daten direkt nach Norditalien, Bayern und auf den Balkan zu leiten. (DE-CIX, Rechenzentrum)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/iphone-duo-im-hands-on-unser-erster-eindruck-von-apples-iphone-duo-2609-213208.html",
-      "publishedAt": "2026-09-18T12:22:02.000Z"
+      "url": "https://www.golem.de/news/alpsix-berliner-inter-link-errichtet-neuen-peeringknoten-des-de-cix-in-suedoestereich-2609-213224.html",
+      "publishedAt": "2026-09-18T15:57:02.000Z"
     },
     {
-      "id": "n_0ef6954357",
+      "id": "n_a65d261cca",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: iPhone 18 Pro Max mit unbegrenztem Datenvolumen bei o2",
-      "summary": "Das neue iPhone 18 Pro Max gibt es mit unbegrenztem Datenvolumen für 72,99 Euro pro Monat im Tarif o2 Mobil Unlimited M. (O2, iPhone)",
+      "headline": "Maßnahme gegen Webcrawler: Cloudflare ermöglicht Trennung von KI- und Suchbots",
+      "summary": "Cloudflare bietet Webseitenbetreibern die Möglichkeit, keine Suchbots sperren zu müssen, wenn sie das Sammeln ihrer Daten verhindern möchten. (Cloudflare, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-iphone-18-pro-max-mit-unbegrenztem-datenvolumen-bei-o2-2609-213196.html",
-      "publishedAt": "2026-09-18T11:40:02.000Z"
+      "url": "https://www.golem.de/news/massnahme-gegen-webcrawler-cloudflare-ermoeglicht-trennung-von-ki-und-suchbots-2609-213221.html",
+      "publishedAt": "2026-09-18T15:04:01.000Z"
     },
     {
-      "id": "n_6091c7a0bc",
+      "id": "n_33a48263f7",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) Praxis-Workshop: TPM 2.0 unter Linux",
-      "summary": "Das einst verteufelte TPM ist längst im Linux-Alltag angekommen: Es entsperrt LUKS-Volumes, hütet SSH-Schlüssel und versiegelt Geheimnisse. Eine Anleitung von Martin Loschwitz (Linux, Malware)",
+      "headline": "Anzeige: Faltbares Laufband mit Steigung für zu Hause günstig wie nie",
+      "summary": "Amazon verkauft ein faltbares Laufband von Cardirun mit 10 Prozent Steigung und bis zu 10 km/h Geschwindigkeit zum neuen Tiefstpreis. (Technik/Hardware, Amazon)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/praxis-workshop-tpm-2-0-unter-linux-2609-213171.html",
-      "publishedAt": "2026-09-18T11:30:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-faltbares-laufband-mit-steigung-fuer-zu-hause-guenstig-wie-nie-2609-213222.html",
+      "publishedAt": "2026-09-18T15:00:01.000Z"
     },
     {
-      "id": "n_30edc551cf",
+      "id": "n_dde88f4151",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Urteil: Meta haftet für Fake-Anzeigen auf Facebook und Instagram",
-      "summary": "Fake-Werbung ist auf Facebook und Instagram immer wieder ein Problem. Ein Urteil aus Frankfurt erhöht den Druck auf Plattformbetreiber. (Meta, Soziales Netz)",
+      "headline": "Anzeige: Anker 100-W-GaN-Ladegerät mit drei Ports und Display noch kurz zum Amazon-Tiefpreis ...",
+      "summary": "Anker unterbietet mit dem 100-W-GaN-Ladegerät mit Smart Display, drei Ports und einklappbarem Stecker den früheren Prime-Day-Preis. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/urteil-meta-haftet-fuer-fake-anzeigen-auf-facebook-und-instagram-2609-213205.html",
-      "publishedAt": "2026-09-18T11:16:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-anker-100-w-gan-ladegeraet-mit-drei-ports-und-display-noch-kurz-zum-amazon-tiefpreis-unter-50-euro-2609-213209.html",
+      "publishedAt": "2026-09-18T14:40:02.000Z"
     },
     {
-      "id": "n_ed244b1cca",
+      "id": "n_246b1c0e8d",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Zivil trifft Militär: Trump schlägt eine US-Weltraumakademie vor",
-      "summary": "Die Gründung einer neuen Raumfahrtakademie könnte die Grenzen zwischen ziviler und militärischer Raumfahrt in den USA verwischen. (Raumfahrt, Nasa)",
+      "headline": "Bundesverfassungsgericht: Kleinere Kabelnetzbetreiber hoffen auf Wiedereinführung des Sammelinkassos",
+      "summary": "Der Verband FRK hält nach der Karlsruher Verhandlung eine Rückkehr des Sammelinkassos für Kabelfernsehen für möglich. Das könnte die TKG-Reform erneut infrage stellen. (Fernsehen, Politik)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/zivil-trifft-militaer-trump-schlaegt-eine-us-weltraumakademie-vor-2609-213195.html",
-      "publishedAt": "2026-09-18T11:02:01.000Z"
+      "url": "https://www.golem.de/news/bundesverfassungsgericht-kleinere-kabelnetzbetreiber-hoffen-auf-wiedereinfuehrung-des-sammelinkassos-2609-213220.html",
+      "publishedAt": "2026-09-18T14:29:01.000Z"
+    },
+    {
+      "id": "n_4a7b35fbcf",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T17:31:30.000Z"
+    },
+    {
+      "id": "n_43332dda97",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Dozens of suspected illegal miners die in Nigerian custody",
+      "summary": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T15:47:28.000Z"
     },
     {
       "id": "n_5847bd6003",
@@ -274,7 +296,18 @@
       "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T13:00:58.000Z"
+      "publishedAt": "2026-09-18T15:14:35.000Z"
+    },
+    {
+      "id": "n_bd5d0f2f77",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
+      "summary": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T12:45:25.000Z"
     },
     {
       "id": "n_ead578216f",
@@ -288,17 +321,6 @@
       "publishedAt": "2026-09-18T11:59:42.000Z"
     },
     {
-      "id": "n_43332dda97",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Dozens of suspected illegal miners die in Nigerian custody",
-      "summary": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T11:56:16.000Z"
-    },
-    {
       "id": "n_ef57ed7345",
       "type": "news",
       "topic": "general",
@@ -308,17 +330,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-18T11:49:46.000Z"
-    },
-    {
-      "id": "n_4a7b35fbcf",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
-      "summary": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T11:39:11.000Z"
     },
     {
       "id": "n_09d56a0899",
@@ -341,17 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-18T07:14:57.000Z"
-    },
-    {
-      "id": "n_63827be446",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
-      "summary": "Saudi Arabia has lobbied the US for years to buy F35s, the world's most advanced fighter jet.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T01:31:43.000Z"
     },
     {
       "id": "n_e52342f13a",
@@ -442,12 +442,45 @@
       "publishedAt": "2026-09-15T23:27:17.000Z"
     },
     {
+      "id": "n_161acfd6fd",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Meet the winner of Nikon's Small World in Motion video contest",
+      "summary": "Ning Xu of Tsinghua University captured tiny cilia beating in airways of a child with rare respiratory disorder.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
+      "publishedAt": "2026-09-18T13:56:57.000Z"
+    },
+    {
+      "id": "n_a8365cfa26",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Researchers used Claude to hack OpenAI",
+      "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+      "publishedAt": "2026-09-18T13:30:12.000Z"
+    },
+    {
+      "id": "n_2ac41d6a46",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Rocket Report: China wants a Raptor 3 engine; SpaceX set for big Starship test",
+      "summary": "“I can tell you SpaceX has already gone captive.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/",
+      "publishedAt": "2026-09-18T11:00:11.000Z"
+    },
+    {
       "id": "n_f5dbcedb0e",
       "type": "news",
       "topic": "tech",
       "lang": "en",
       "headline": "RFK Jr. names 8 new members to influential preventive medicine task force",
-      "summary": "The USPSTF sets insurance coverage from preventive services, like colonoscopies.",
+      "summary": "The USPSTF sets insurance coverage for preventive services, like colonoscopies.",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
       "publishedAt": "2026-09-17T22:31:28.000Z"
@@ -497,125 +530,125 @@
       "publishedAt": "2026-09-17T19:07:28.000Z"
     },
     {
-      "id": "n_168e3a7edc",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "LLMs respond differently to harmful prompts when AI watermarking is used",
-      "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-      "publishedAt": "2026-09-17T18:33:13.000Z"
-    },
-    {
-      "id": "n_c1040cb3b2",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "IV drips used for \"detoxification\" actually filled with toxins; dozens poisoned",
-      "summary": "The IV drips included glutathione, which was not made to be injected.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/09/sketchy-iv-drips-at-wellness-clinics-have-poisoned-dozens-cdc-and-fda-warn/",
-      "publishedAt": "2026-09-17T17:43:50.000Z"
-    },
-    {
-      "id": "n_65b788dedb",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "2026 Hyundai Ioniq 5: Here's what we still like, here's what annoys us",
-      "summary": "It’s spacious, efficient, and charges very quickly. But what about reliability concerns?",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/09/2026-hyundai-ioniq-5-heres-what-we-still-like-heres-what-annoys-us/",
-      "publishedAt": "2026-09-17T17:30:30.000Z"
-    },
-    {
-      "id": "n_ddc3e4450e",
+      "id": "n_96293117e2",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-      "summary": "The round values the data center giant at $30.9 billion.",
+      "headline": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "publishedAt": "2026-09-17T23:25:52.000Z"
+      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "publishedAt": "2026-09-18T17:33:50.000Z"
     },
     {
-      "id": "n_2b6047d138",
+      "id": "n_9666e41735",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Google DeepMind launches institute to widen the AGI debate",
-      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+      "headline": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countrie",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "publishedAt": "2026-09-17T23:21:17.000Z"
+      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "publishedAt": "2026-09-18T17:09:56.000Z"
     },
     {
-      "id": "n_7029397f73",
+      "id": "n_c2813fff57",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "PrismML hopes its tiny LLM will change how we all use AI",
-      "summary": "If AI lab PrismML isn't on your radar yet, it should be.",
+      "headline": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countrie",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-      "publishedAt": "2026-09-17T22:34:09.000Z"
+      "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+      "publishedAt": "2026-09-18T17:06:32.000Z"
     },
     {
-      "id": "n_2d65468e8d",
+      "id": "n_21ded5da2f",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "The FAA’s plan to fix air traffic? $875M worth of AI",
-      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+      "headline": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+      "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-      "publishedAt": "2026-09-17T22:14:59.000Z"
+      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+      "publishedAt": "2026-09-18T16:35:49.000Z"
     },
     {
-      "id": "n_be4ebf28f8",
+      "id": "n_9fceb02210",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "The fix for rogue AI agents could be more AI",
-      "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+      "headline": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+      "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-      "publishedAt": "2026-09-17T20:34:47.000Z"
+      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-18T15:30:00.000Z"
     },
     {
-      "id": "n_1a8b6000ee",
+      "id": "n_a1c29a3b99",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+      "headline": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+      "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "publishedAt": "2026-09-17T20:34:24.000Z"
+      "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+      "publishedAt": "2026-09-18T15:22:48.000Z"
     },
     {
-      "id": "n_e35d655bb9",
+      "id": "n_71be334bb3",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Is the AI safety debate about safety or control?",
-      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      "headline": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+      "summary": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-      "publishedAt": "2026-09-17T20:19:37.000Z"
+      "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-18T15:00:00.000Z"
     },
     {
-      "id": "n_c70b5555d0",
+      "id": "n_4434b99a74",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "UN turns to Google to make its global data ready for AI agents",
-      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "headline": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-      "publishedAt": "2026-09-17T20:00:00.000Z"
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "publishedAt": "2026-09-18T14:00:14.000Z"
+    },
+    {
+      "id": "n_2de2edcf5a",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Gavin Newsom is pushing for an AI kill switch",
+      "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will d",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+      "publishedAt": "2026-09-18T17:04:51.000Z"
+    },
+    {
+      "id": "n_e5380fced9",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "What Hollywood thinks about existential AI warnings",
+      "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as we",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+      "publishedAt": "2026-09-18T16:35:19.000Z"
+    },
+    {
+      "id": "n_907e9d5308",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Security researchers used Claude to help them hack into OpenAI",
+      "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monor",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+      "publishedAt": "2026-09-18T15:30:16.000Z"
     },
     {
       "id": "n_82da9e642a",
@@ -671,39 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
       "publishedAt": "2026-09-17T14:00:00.000Z"
-    },
-    {
-      "id": "n_41b021268b",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Inside the suddenly explosive world of AI safety",
-      "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurity incident that had rocked the AI industry hours earlier. An",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
-      "publishedAt": "2026-09-17T11:30:00.000Z"
-    },
-    {
-      "id": "n_d2f3ab14e5",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Spe",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
-      "publishedAt": "2026-09-16T23:40:00.000Z"
-    },
-    {
-      "id": "n_cf356bfbc5",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
-      "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers. But a new retelling of the story made entirely with AI is so bad that it might just make viewers hate the original tale altogether",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
-      "publishedAt": "2026-09-16T20:59:13.000Z"
     },
     {
       "id": "n_193c8bfab5",
@@ -794,6 +794,39 @@
       "publishedAt": "2026-09-09T03:10:08.000Z"
     },
     {
+      "id": "n_599c093b8d",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
+      "summary": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
+      "publishedAt": "2026-09-18T15:00:08.000Z"
+    },
+    {
+      "id": "n_68b12fa714",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
+      "summary": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
+      "publishedAt": "2026-09-18T15:00:00.000Z"
+    },
+    {
+      "id": "n_4e0596c90e",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
+      "summary": "The satirical collaboration between a creative studio and the music producer behind Big Data, “Bezzy” is a cute little doll that spews the sounds of real data centers.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/",
+      "publishedAt": "2026-09-18T13:30:00.000Z"
+    },
+    {
       "id": "n_3a33fe1527",
       "type": "news",
       "topic": "ai",
@@ -847,39 +880,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
       "publishedAt": "2026-09-17T19:58:28.000Z"
-    },
-    {
-      "id": "n_72296e29af",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The AI Slowdown Debate Crashed Salesforce’s Party",
-      "summary": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
-      "publishedAt": "2026-09-17T18:42:25.000Z"
-    },
-    {
-      "id": "n_b9a016c3af",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "An OpenAI Agent Tried to Jailbreak Itself",
-      "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
-      "publishedAt": "2026-09-16T22:07:24.000Z"
-    },
-    {
-      "id": "n_ab80eed070",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Washington Won’t Be Regulating AI Anytime Soon",
-      "summary": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
-      "publishedAt": "2026-09-16T21:00:00.000Z"
     },
     {
       "id": "n_16a7b27ed0",
