@@ -1,82 +1,38 @@
 {
-  "generatedAt": "2026-09-18T07:40:20.190Z",
+  "generatedAt": "2026-09-18T13:13:02.791Z",
   "items": [
     {
-      "id": "n_fca82675e0",
+      "id": "n_4c0e2692ba",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Hohe Preise: Welche Energiekosten auf die Verbraucher zukommen",
-      "summary": "Der Iran-Krieg hat Energie stark verteuert. Wo sind die Preise bereits besonders stark angestiegen? Und worauf müssen sich Haushalte mit Blick auf die kommenden Monaten noch einstellen? Von Till Bücker.",
+      "headline": "Autobombe detoniert: Tote und Verletzte nach Anschlag in Pakistan",
+      "summary": "Der Nordwesten Pakistans gilt als Unruheregion. Nun gab es dort - im Grenzgebiet zu Afghanistan - erneut einen verheerenden Anschlag mit vielen Toten und Verletzten. Noch ist unklar, wer dahinter steckt.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/energiekosten-strom-oel-gas-100.html",
-      "publishedAt": "2026-09-18T07:20:19.000Z"
+      "url": "https://www.tagesschau.de/ausland/asien/pakistan-anschlag-134.html",
+      "publishedAt": "2026-09-18T12:46:17.000Z"
     },
     {
-      "id": "n_dc8071412b",
+      "id": "n_aa3dd42f30",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Spritpreise: Hoppermann schlägt bis zu 25 Cent Entlastung pro Liter vor",
-      "summary": "Wie können Autofahrer und Spediteure angesichts der hohen Spritpreise entlastet werden? Viele Vorschläge liegen auf dem Tisch, nun hat CDU-Generalsekretärin Hoppermann erstmals konkrete Eckdaten ins Spiel gebracht.",
+      "headline": "Volkswagen verliert Platz in Europas wichtigster Börsenliga",
+      "summary": "Nach Börsenschluss am Freitag gehört die Volkswagen-Aktie nicht mehr zum europäischen Leitindex. Für das operative Geschäft ändert sich dadurch nichts - für die Aktie kann der Schritt kurzfristig dennoch Folgen haben.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/diskussion-spritpreise-100.html",
-      "publishedAt": "2026-09-18T06:31:11.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/vw-aktie-europa-100.html",
+      "publishedAt": "2026-09-18T11:40:02.000Z"
     },
     {
-      "id": "n_acdf7bda40",
+      "id": "n_cc04ba4844",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Malaria-Fälle im Umfeld des Frankfurter Flughafens festgestellt",
-      "summary": "Im Umfeld des Frankfurter Flughafens sind zwei Menschen an Malaria erkrankt. Sie wurden offenbar von eingeschleppten Mücken gestochen. Laut Experten ist das Risiko für weitere Infektionen jedoch gering.",
+      "headline": "Mecklenburg-Vorpommern: Wer könnte nach der Wahl regieren?",
+      "summary": "Die Zuspitzung im Wahlkampf in Mecklenburg-Vorpommern zwischen SPD und AfD droht die kleineren Parteien zu zerreiben. Doch von diesen hängt ab, wie einfach oder kompliziert die Regierungsbildung wird. Von Michael Seidel.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/hessen/faq-flughafen-malaria-100.html",
-      "publishedAt": "2026-09-18T06:28:30.000Z"
-    },
-    {
-      "id": "n_7647a84361",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Studie: In der EU sinkt die Impfquote bei Kindern",
-      "summary": "In vielen EU-Ländern gehen die Impfquoten bei Kindern zurück. Auch Deutschland ist betroffen, wie aus einer Studie hervorgeht. Auslöser war demnach vor allem die Corona-Pandemie.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/gesundheit/impfungen-impfgegner-100.html",
-      "publishedAt": "2026-09-18T06:27:57.000Z"
-    },
-    {
-      "id": "n_54b517842e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: DAX dürfte zum Wochenschluss zurückfallen",
-      "summary": "Zumindest der Start dürfte für den DAX heute holprig verlaufen. Dabei sollten sinkende Ölpreise eigentlich stützen. Auch die Vorgaben aus den USA und Asien fallen stark aus - aber die Verunsicherung bleibt hoch.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-156.html",
-      "publishedAt": "2026-09-18T05:46:21.000Z"
-    },
-    {
-      "id": "n_f639c6a468",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Mehr Pflanzen, weniger Fleisch: Schweiz stimmt über Ernährungsinitiative ab",
-      "summary": "\"Tu ma lieber die Möhrchen\", könnte es bald in der Schweiz heißen. Eine Initiative fordert mehr pflanzliche Lebensmittel und weniger Tierhaltung. Dahinter steckt die Frage: Inwieweit will sich das Land künftig selbst versorgen? Von S. Biegger.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/schweiz-ernaehrungsinitiative-selbstversorgung-100.html",
-      "publishedAt": "2026-09-18T05:06:59.000Z"
-    },
-    {
-      "id": "n_a72fc41da3",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Duma-Wahl in Russland: Alles unter Kontrolle - und doch ein Stresstest?",
-      "summary": "In Russland hat die Parlamentswahl begonnen. Parteien, die den Ukraine-Krieg kritisieren, sind bei der dreitägigen Abstimmung nicht zugelassen. Doch vom Abschneiden einzelner Kandidaten könnte ein Signal ausgehen. Von S. Laack.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/russland-duma-wahl-auftakt-100.html",
-      "publishedAt": "2026-09-18T05:04:24.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/wahl-mecklenburg-vorpommern-wahlkampf-102.html",
+      "publishedAt": "2026-09-18T11:23:36.000Z"
     },
     {
       "id": "n_f686e445ff",
@@ -84,10 +40,76 @@
       "topic": "general",
       "lang": "de",
       "headline": "Renommierter Körber-Preis für Zellforscherin Wickström",
-      "summary": "Die Zellbiologin Wickström erforscht, was in unseren Zellen bei mechanischem Druck passiert. Das ist auch für die Krebsforschung relevant. Heute erhält die Finnin den diesjährigen Körber-Preis für Europäische Wissenschaft. Von Veronika Simon.",
+      "summary": "Die Zellbiologin Wickström erforscht, was in unseren Zellen bei mechanischem Druck passiert. Das ist auch für die Krebsforschung relevant. Heute hat die Finnin den diesjährigen Körber-Preis für Europäische Wissenschaft erhalten. Von Veronika Simon.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wissen/forschung/koerberpreis-zellforscherin-100.html",
-      "publishedAt": "2026-09-18T03:22:27.000Z"
+      "publishedAt": "2026-09-18T11:22:10.000Z"
+    },
+    {
+      "id": "n_dbcae283c0",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Italien erwägt Marinemission im Roten Meer zum Schutz von Frachtern",
+      "summary": "Die Huthi-Miliz kontrolliert die Meerenge Bab al-Mandab im Roten Meer weitgehend. Ohne auf die EU zu warten, will Italien dort Schiffe mit der eigenen Marine schützen. Die Ankündigung dürfte vor allem ein Signal in Richtung Brüssel sein.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/italien-erwaegt-marineeinsatz-rotes-meer-100.html",
+      "publishedAt": "2026-09-18T11:02:32.000Z"
+    },
+    {
+      "id": "n_0af2522c3a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Anschlag auf Synagoge in NRW: Ermittler vermuten antisemitisches Motiv",
+      "summary": "Auf die Synagoge der Jüdischen Kultusgemeinde in Wuppertal ist ein Brandanschlag verübt worden. Ein aus Afghanistan stammender Mann wurde festgenommen. Die Ermittler gehen von einem antisemitischen Motiv aus.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/brandanschlag-synagoge-wuppertal-100.html",
+      "publishedAt": "2026-09-18T10:49:00.000Z"
+    },
+    {
+      "id": "n_0501f1f24f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Putin stellt Nestlé in Russland unter Zwangsverwaltung",
+      "summary": "Auch nach Ausbruch des Ukraine-Krieges produzierte Nestlé weiter in Russland. Nun stellt Präsident Putin das Russland-Geschäft des Schweizer Lebensmittelkonzerns per Dekret unter Zwangsverwaltung. Es ist nicht der erste Konzern, dem das passiert.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nestle-russland-100.html",
+      "publishedAt": "2026-09-18T09:49:03.000Z"
+    },
+    {
+      "id": "n_5e372c3783",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "FAQ: Wie gefährlich sind die aktuellen Malaria-Fälle?",
+      "summary": "In Frankfurt am Main ist erneut ein Mensch an der Tropenkrankheit Malaria gestorben, er soll von einer eingeschleppten Mücke infiziert worden sein. Drohen weitere Fälle? Und sinken mit dem Herbst die Risiken?",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wissen/faq-malaria-100.html",
+      "publishedAt": "2026-09-18T09:28:36.000Z"
+    },
+    {
+      "id": "n_6f6645bccb",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Aerosol-Jet-3D-Drucker druckt elektronische Schaltkreise auf 3D-Objekte",
+      "summary": "Wissenschaftler drucken elektronische Schaltungen direkt auf 3D-Objekte. Möglich machen soll das ein Aerosol-Jet-3D-Drucker und spezielle Tinte.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Aerosol-Jet-3D-Drucker-druckt-elektronische-Schaltkreise-auf-3D-Objekte-11458027.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-18T08:49:00.000Z"
+    },
+    {
+      "id": "n_9fa943843b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anthropic: Claude übernimmt immer mehr Arbeit an eigener Weiterentwicklung",
+      "summary": "Claude erledigt bei Anthropic immer mehr Aufgaben an künftigen KI-Modellen weitgehend selbstständig. Dieser Anteil ist zuletzt stark gestiegen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Anthropic-Claude-uebernimmt-immer-mehr-Arbeit-an-eigener-Weiterentwicklung-11458053.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-18T08:42:00.000Z"
     },
     {
       "id": "n_4c17fec46f",
@@ -156,202 +178,180 @@
       "publishedAt": "2026-09-17T15:55:00.000Z"
     },
     {
-      "id": "n_4fa1186c5d",
+      "id": "n_1d404e8052",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Werbung in ChatGPT: OpenAI plant „gesponserten Agenten“ und Anzeigen per Prompt",
-      "summary": "OpenAI will das Werbegeschäft in ChatGPT ausbauen und testet in den USA „gesponserte Agenten“. Bei der Erstellung von Anzeigen soll die KI-Technik mehr helfen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Werbung-in-ChatGPT-OpenAI-plant-gesponserten-Agenten-und-Anzeigen-per-Prompt-11457166.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-17T15:14:00.000Z"
-    },
-    {
-      "id": "n_b386653fd6",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Europas Milliarden-Offensive: 19 Staaten starten Großprojekt für Industrie-KI",
-      "summary": "Mit dem Vorhaben IPCEI-AI wollen 19 EU-Länder ein eigenes KI-Ökosystem aufbauen. Über zehn Milliarden Euro sollen in europäische Industrietechnologien fließen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Europas-Milliarden-Offensive-19-Staaten-starten-Grossprojekt-fuer-Industrie-KI-11457092.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-17T14:23:00.000Z"
-    },
-    {
-      "id": "n_07ec5ac2cd",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Arbeitswelt: KI löst weltweit Ängste vor Jobverlust aus",
-      "summary": "Eine Befragung in 37 Ländern zeigt breite Befürchtungen vor Jobverlusten durch KI und einer wachsenden Spaltung zwischen Arm und Reich. (Studien, KI)",
+      "headline": "Batteriespeicher: Speicherschwarm senkt Preise und entlastet Stromnetz",
+      "summary": "Ein Verbund aus Millionen Heimspeichern könnte nicht nur das Stromnetz flexibilisieren. Privathaushalte hätten damit auch Zugriff auf Notstrom. (Akku, Energiewende)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/arbeitswelt-ki-loest-weltweit-aengste-vor-jobverlust-aus-2609-213185.html",
-      "publishedAt": "2026-09-18T07:30:01.000Z"
+      "url": "https://www.golem.de/news/batteriespeicher-speicherschwarm-senkt-preise-und-entlastet-stromnetz-2609-213214.html",
+      "publishedAt": "2026-09-18T13:06:02.000Z"
     },
     {
-      "id": "n_68bc5ad2c5",
+      "id": "n_eab654731f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Cybercrime: Nordkoreanische Cyberkriminelle bestehlen IT-Fachleute auf Jobsuche",
-      "summary": "Sicherheitsbehörden warnen vor einer Cybergruppe aus Nordkorea, die gezielt IT-Spezialisten angreift. Was hinter der Kampagne \"Contagious Interview\" steckt. (Nordkorea, Datenschutz)",
+      "headline": "Control Resonant im Test: Tolle Kämpfe in einer traurigen Spielwelt",
+      "summary": "Control Resonant begeistert mit Kämpfen und Effekten. Doch die leblose Welt und eine schwache Missionsführung bremsen den Spielspaß. Ein Test von Peter Steinlechner (Control, Test)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/cybercrime-nordkoreanische-cyberkriminelle-bestehlen-it-fachleute-auf-jobsuche-2609-213184.html",
-      "publishedAt": "2026-09-18T07:16:02.000Z"
+      "url": "https://www.golem.de/news/control-resonant-im-test-tolle-kaempfe-in-einer-traurigen-spielwelt-2609-213101.html",
+      "publishedAt": "2026-09-18T13:00:02.000Z"
     },
     {
-      "id": "n_8c4ff6237b",
+      "id": "n_efe581ccc1",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Nightmare Stresser: DDoS-Portal mit über 500.000 Nutzern vom Netz genommen",
-      "summary": "Das FBI hat eine Plattform zerschlagen, die für Hunderttausende DDoS-Angriffe auf weltweit verteilte Ziele genutzt worden sein soll. (DoS, Server)",
+      "headline": "Anzeige: Kompakte Kapselmaschine von Krups zum Amazon-Bestpreis",
+      "summary": "Die platzsparende Kapselmaschine Nescafé Dolce Gusto Mini von Krups ist bei Amazon aktuell stark im Preis gesenkt. Gegenüber der unverbindlichen Preisempfehlung ergibt sich für das Modell eine attraktive Ersparnis von rund 29 Euro. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/nightmare-stresser-ddos-portal-mit-ueber-500-000-nutzern-vom-netz-genommen-2609-213180.html",
-      "publishedAt": "2026-09-18T07:08:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-kompakte-kapselmaschine-von-krups-zum-amazon-bestpreis-2609-213210.html",
+      "publishedAt": "2026-09-18T12:27:01.000Z"
     },
     {
-      "id": "n_3954394c3c",
+      "id": "n_2bba200b34",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: MSI PRO MAX - Konzepte für produktiveres Arbeiten",
-      "summary": "Monitor, All-in-One oder leistungsstarker KI-PC: Die PRO MAX-Serie von MSI bietet verschiedene Konzepte für anspruchsvolle Anwender und produktiveres Arbeiten. (Technik/Hardware, MSI)",
+      "headline": "iPhone Duo im Hands-on: Unser erster Eindruck von Apples iPhone Duo",
+      "summary": "Apple hat bei seinem ersten faltbaren iPhone Duo den Fokus auf den Falz und die Software gelegt - wir konnten uns einen ersten Eindruck verschaffen. Ein Hands-on von Tobias Költzsch (iPhone Duo, Smartphone)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-msi-pro-max-konzepte-fuer-produktiveres-arbeiten-2609-213143.html",
-      "publishedAt": "2026-09-18T07:00:02.000Z"
+      "url": "https://www.golem.de/news/iphone-duo-im-hands-on-unser-erster-eindruck-von-apples-iphone-duo-2609-213208.html",
+      "publishedAt": "2026-09-18T12:22:02.000Z"
     },
     {
-      "id": "n_ee29f00b8a",
+      "id": "n_0ef6954357",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Disney bestätigt offiziell: Alle Abostufen von Disney+ ohne Airplay-Funktion, Abopreis bleibt",
-      "summary": "Aufgrund von Rechtsstreitigkeiten ist die Airplay-Funktion aus Disney+ gestrichen worden. Abonnenten müssen trotzdem den vollen Preis zahlen. (Disney+, Disney)",
+      "headline": "Anzeige: iPhone 18 Pro Max mit unbegrenztem Datenvolumen bei o2",
+      "summary": "Das neue iPhone 18 Pro Max gibt es mit unbegrenztem Datenvolumen für 72,99 Euro pro Monat im Tarif o2 Mobil Unlimited M. (O2, iPhone)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/disney-bestaetigt-offiziell-alle-abostufen-von-disney-ohne-airplay-funktion-abopreis-bleibt-2609-213182.html",
-      "publishedAt": "2026-09-18T06:58:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-iphone-18-pro-max-mit-unbegrenztem-datenvolumen-bei-o2-2609-213196.html",
+      "publishedAt": "2026-09-18T11:40:02.000Z"
     },
     {
-      "id": "n_d038468877",
+      "id": "n_6091c7a0bc",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Urheberrechtsstreit um KI-Training: Dokumente belasten Microsoft und OpenAI im NYT-Prozess",
-      "summary": "Interne Dokumente aus dem NYT-Prozess zeigen: Microsoft und OpenAI räumen Traffic-Einbrüche, gestohlene Inhalte und Paywall-Umgehung ein. (Urheberrecht, Microsoft)",
+      "headline": "(g+) Praxis-Workshop: TPM 2.0 unter Linux",
+      "summary": "Das einst verteufelte TPM ist längst im Linux-Alltag angekommen: Es entsperrt LUKS-Volumes, hütet SSH-Schlüssel und versiegelt Geheimnisse. Eine Anleitung von Martin Loschwitz (Linux, Malware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/urheberrechtsstreit-um-ki-training-dokumente-belasten-microsoft-und-openai-im-nyt-prozess-2609-213181.html",
-      "publishedAt": "2026-09-18T06:49:02.000Z"
+      "url": "https://www.golem.de/news/praxis-workshop-tpm-2-0-unter-linux-2609-213171.html",
+      "publishedAt": "2026-09-18T11:30:02.000Z"
     },
     {
-      "id": "n_9bf7b87000",
+      "id": "n_30edc551cf",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Kryptozahlungen: Orlen verliert Hunderte Millionen bei Ölkauf",
-      "summary": "Orlen will venezolanisches Öl kaufen und zahlt Millionen im Voraus. Doch große Teile verschwinden in einem Geflecht aus Kryptohändlern. (Unternehmen, Wirtschaft)",
+      "headline": "Urteil: Meta haftet für Fake-Anzeigen auf Facebook und Instagram",
+      "summary": "Fake-Werbung ist auf Facebook und Instagram immer wieder ein Problem. Ein Urteil aus Frankfurt erhöht den Druck auf Plattformbetreiber. (Meta, Soziales Netz)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/kryptozahlungen-orlen-verliert-hunderte-millionen-bei-oelkauf-2609-213179.html",
-      "publishedAt": "2026-09-18T06:43:02.000Z"
+      "url": "https://www.golem.de/news/urteil-meta-haftet-fuer-fake-anzeigen-auf-facebook-und-instagram-2609-213205.html",
+      "publishedAt": "2026-09-18T11:16:02.000Z"
     },
     {
-      "id": "n_7522f665b8",
+      "id": "n_ed244b1cca",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Hohe Benzinpreise: Wie der Treibstoffmarkt in fünf Jahren aussehen könnte",
-      "summary": "Benzin und Diesel werden immer teurer, weil die Nachfrage das Angebot übersteigt, soweit ganz logisch. Kann der E-Auto-Boom daran etwas ändern? Eine Analyse von Mario Petzold (Elektromobilität, Elektroauto)",
+      "headline": "Zivil trifft Militär: Trump schlägt eine US-Weltraumakademie vor",
+      "summary": "Die Gründung einer neuen Raumfahrtakademie könnte die Grenzen zwischen ziviler und militärischer Raumfahrt in den USA verwischen. (Raumfahrt, Nasa)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/hohe-benzinpreise-wie-der-treibstoffmarkt-in-fuenf-jahren-aussehen-koennte-2609-213142.html",
-      "publishedAt": "2026-09-18T06:30:01.000Z"
+      "url": "https://www.golem.de/news/zivil-trifft-militaer-trump-schlaegt-eine-us-weltraumakademie-vor-2609-213195.html",
+      "publishedAt": "2026-09-18T11:02:01.000Z"
     },
     {
-      "id": "n_55cb767320",
+      "id": "n_5847bd6003",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Canadians dream of Europe as Carney floats longshot plan for living and working in EU",
-      "summary": "Torontonians are excited by the possibility of moving to the EU, even if it is unlikely anytime soon.",
+      "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx980qj57r89o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T01:23:10.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T13:00:58.000Z"
     },
     {
-      "id": "n_d326dbd7fa",
+      "id": "n_ead578216f",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
-      "summary": "Queensland's Fitzroy River has been selected for the 2032 Games, despite concerns over the course - and its inhabitants.",
+      "headline": "Police begin operation to move migrants from Ceuta beaches",
+      "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T23:29:17.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T11:59:42.000Z"
     },
     {
-      "id": "n_95d346ca73",
+      "id": "n_43332dda97",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
-      "summary": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote.",
+      "headline": "Dozens of suspected illegal miners die in Nigerian custody",
+      "summary": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T23:24:07.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T11:56:16.000Z"
     },
     {
-      "id": "n_f2796f02c7",
+      "id": "n_ef57ed7345",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-      "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
+      "headline": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
+      "summary": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T21:41:19.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T11:49:46.000Z"
     },
     {
-      "id": "n_e0d2ddbae9",
+      "id": "n_4a7b35fbcf",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-      "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+      "headline": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
+      "summary": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T20:34:30.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T11:39:11.000Z"
     },
     {
-      "id": "n_0bd2b78f98",
+      "id": "n_09d56a0899",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-      "summary": "Sylvia Zin is among the family members of people imprisoned in China who are seeking Trump's help when he hosts the country's leader next week.",
+      "headline": "Three dead and eight injured in Philippines school shooting",
+      "summary": "The gunman is among the dead in what is the third school shooting in the country since June.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T17:08:00.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T11:01:46.000Z"
     },
     {
-      "id": "n_8839867010",
+      "id": "n_d38002f0af",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Warm words on Canada's EU 'associate membership' but no guarantees",
-      "summary": "There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes the BBC's Katya Adler.",
+      "headline": "Japan raises interest rate to new 31-year high to curb rising prices",
+      "summary": "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crlyqg1ekj4po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T16:59:43.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T07:14:57.000Z"
     },
     {
-      "id": "n_d61e2b5182",
+      "id": "n_63827be446",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Is Canada about to join the EU?",
-      "summary": "Ties between Canada and the European Union have been getting closer as trade dispute with the US continue.",
+      "headline": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
+      "summary": "Saudi Arabia has lobbied the US for years to buy F35s, the world's most advanced fighter jet.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c6wyz8kk2nepo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T16:18:35.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T01:31:43.000Z"
     },
     {
       "id": "n_e52342f13a",
@@ -618,6 +618,17 @@
       "publishedAt": "2026-09-17T20:00:00.000Z"
     },
     {
+      "id": "n_82da9e642a",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Flash floods can strike without warning — this new technology could change that",
+      "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is ove",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+      "publishedAt": "2026-09-18T11:00:00.000Z"
+    },
+    {
       "id": "n_539c5a96bb",
       "type": "news",
       "topic": "ai",
@@ -695,15 +706,15 @@
       "publishedAt": "2026-09-16T20:59:13.000Z"
     },
     {
-      "id": "n_be79f3048c",
+      "id": "n_193c8bfab5",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "The AI data center e-waste problem is huge — and getting bigger",
-      "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It's a significantly higher estimate o",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
-      "publishedAt": "2026-09-16T20:40:46.000Z"
+      "headline": "Could AI really kill us all? Your questions, answered.",
+      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our seni",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "publishedAt": "2026-09-18T11:29:22.000Z"
     },
     {
       "id": "n_0a27d938a0",
@@ -783,15 +794,37 @@
       "publishedAt": "2026-09-09T03:10:08.000Z"
     },
     {
-      "id": "n_52c4de3e96",
+      "id": "n_3a33fe1527",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visited, earlier this year, there’s only one other person there, and little in the way of furniture.",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
-      "publishedAt": "2026-09-08T10:34:00.000Z"
+      "headline": "The Leftist Split Over AI Doom",
+      "summary": "The left wants AI regulation. They just can't agree on what it should look like or how concerned they should be.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
+      "publishedAt": "2026-09-18T10:15:00.000Z"
+    },
+    {
+      "id": "n_630aecb9df",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Napster Is Back, and It Wants to Digitally Clone Teachers",
+      "summary": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
+      "publishedAt": "2026-09-18T09:15:00.000Z"
+    },
+    {
+      "id": "n_846a0e2796",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
+      "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
+      "publishedAt": "2026-09-18T09:00:00.000Z"
     },
     {
       "id": "n_35342dda74",
@@ -847,39 +880,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
       "publishedAt": "2026-09-16T21:00:00.000Z"
-    },
-    {
-      "id": "n_e57e37aa86",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
-      "summary": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
-      "publishedAt": "2026-09-16T19:00:00.000Z"
-    },
-    {
-      "id": "n_784ab7c1a0",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
-      "summary": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
-      "publishedAt": "2026-09-16T09:30:00.000Z"
-    },
-    {
-      "id": "n_aa3b8d5b9a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
-      "summary": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
-      "publishedAt": "2026-09-15T18:00:09.000Z"
     },
     {
       "id": "n_16a7b27ed0",
@@ -974,7 +974,7 @@
       "type": "video",
       "topic": "video",
       "lang": "en",
-      "headline": "DeepSeek Just Made AI Memory 4x Smaller!",
+      "headline": "DeepSeek’s Insane New Architecture",
       "summary": "",
       "source": "Two Minute Papers",
       "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
