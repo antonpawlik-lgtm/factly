@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-09-19T07:35:55.261Z",
+  "generatedAt": "2026-09-19T12:44:20.344Z",
   "items": [
+    {
+      "id": "n_f74c83875e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Viel Kritik und ein wenig Lob für Spritpreis-Entlastungspaket",
+      "summary": "Mit Tankrabatt und Spritpreisdeckel will die Bundesregierung gegen hohe Kraftstoffpreise vorgehen. Die Maßnahmen stoßen größtenteils auf Kritik - sie seien zu wenig zielgenau. Doch es gibt auch Zustimmung.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-reaktionen-100.html",
+      "publishedAt": "2026-09-19T12:39:46.000Z"
+    },
+    {
+      "id": "n_10e5f80723",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "++ Liveblog zu den Wahlen in MV und Berlin: Parteien beenden Wahlkampf ++",
+      "summary": "Vor dem Wahlen in Mecklenburg-Vorpommern und Berlin beenden die Parteien heute ihren Wahlkampf. Bundeskanzler Merz erhält vor dem Wahlsonntag weitere Rückendeckung aus seiner eigenen Partei.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html",
+      "publishedAt": "2026-09-19T12:38:26.000Z"
+    },
+    {
+      "id": "n_03267a5a38",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wie sich Lokaljournalismus weiterentwickelt",
+      "summary": "Klicks, neue Kanäle, Künstliche Intelligenz: Der Lokaljournalismus befindet sich im Wandel. Wie Zeitungen mit den Herausforderungen umgehen, zeigt eine Redaktion des Böblinger Boten. Wie kann sie sich behaupten? Von Laura Bisch.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/lokaljournalismus-zeitung-herausforderungen-100.html",
+      "publishedAt": "2026-09-19T12:20:39.000Z"
+    },
+    {
+      "id": "n_91375824cd",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Was ist über das mögliche Grönland-Abkommen bekannt?",
+      "summary": "Im Streit um US-Ansprüche auf Grönland scheint sich eine Einigung zwischen den USA, Dänemark und Grönland abzuzeichnen - in Form eines gemeinsamen Abkommens. Was darüber bekannt ist - und worin die Brisanz im Streit um die Insel liegt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/groenland-abkommen-usa-daenemark-100.html",
+      "publishedAt": "2026-09-19T11:02:09.000Z"
+    },
+    {
+      "id": "n_420b843d4a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Abgeordnetenhauswahl: So lief der Wahlkampf in Berlin",
+      "summary": "Last-Minute-Spitzenkandidatenwechsel, Terroranschlag, Korruptions-Ermittlungen: Berlin hat einen außergewöhnlichen Wahlkampf erlebt. Nicht zuletzt deshalb ist das Rennen um Platz eins so eng wie nie.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/wahlkampf-berlin-abgeordnetenhaus-100.html",
+      "publishedAt": "2026-09-19T09:17:23.000Z"
+    },
+    {
+      "id": "n_b2c47b85f9",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Vier Kinofilme und eine neue Serie über die Beatles",
+      "summary": "Vier Kinofilme, eine BBC/ZDF-Serie über ihre Hamburger Jahre, neue Bücher, Shows und ein Podcast im NDR: Die Geschichte der Beatles lässt die Menschen nicht los. Von O. Bandixen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/kultur/beatles-kino-serie-100.html",
+      "publishedAt": "2026-09-19T08:40:31.000Z"
+    },
     {
       "id": "n_8501c7db3c",
       "type": "news",
@@ -24,70 +90,15 @@
       "publishedAt": "2026-09-19T03:14:59.000Z"
     },
     {
-      "id": "n_56b65ba037",
+      "id": "n_7a546af16e",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Radikalisierung von Jugendlichen: Die Macht der Islamisten im Netz",
-      "summary": "Islamistische Propaganda erreicht Jugendliche längst mitten in ihrem digitalen Alltag. Recherchen von BR und SWR zeigen, wie Radikalisierung über Social Media und Gaming funktioniert - und wie schwer es für Familien ist, darauf zu reagieren.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/islamismus-radikalisierung-social-media-gaming-100.html",
-      "publishedAt": "2026-09-19T03:10:46.000Z"
-    },
-    {
-      "id": "n_2836871dee",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Weißstorch oder Beethoven: Europäer reden bei neuen Banknoten mit",
-      "summary": "Das Design der Euroscheine ist in die Jahre gekommen. Bei der anstehenden Überarbeitung lässt die EZB die Bürgerinnen und Bürger jetzt mitreden. Noch bis Montag kann abgestimmt werden. Von Ursula Mayer.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-neue-banknoten-100.html",
-      "publishedAt": "2026-09-19T03:09:49.000Z"
-    },
-    {
-      "id": "n_96023cb3d6",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Oktoberfest beginnt - München für zwei Wochen in Feierlaune",
-      "summary": "In München beginnt das Oktoberfest. Zum ersten Mal bekommt Bayerns Ministerpräsident Söder das erste Wiesn-Bier von einem Grünen gereicht - dem neuen Oberbürgermeister Krause.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/eroeffnung-oktoberfest-102.html",
-      "publishedAt": "2026-09-19T03:04:33.000Z"
-    },
-    {
-      "id": "n_8140862ff7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Fragen und Antworten: Was plant Koalition jetzt gegen die Spritpreise?",
-      "summary": "Die Bundesregierung hat auf die hohen Spritpreise reagiert. Welche Maßnahmen sind ab wann geplant? Wer hat sich in der Koalition durchgesetzt? Und: Welche Kritik gibt es? Die wichtigsten Fragen und Antworten.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-preisdeckel-faq-100.html",
-      "publishedAt": "2026-09-19T02:05:33.000Z"
-    },
-    {
-      "id": "n_7d1f901c37",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "US-Präsident Trump verbietet CNN Zugang zum Weißen Haus",
-      "summary": "Der Sender CNN und weitere Medien sollen keinen Zugang mehr zum Weißen Haus erhalten. US-Präsident Trump wirft ihnen vor, \"Erfindungen und Lügen\" zu verbreiten. Es ist nicht das erste Mal, dass Trump gegen Journalisten vorgeht.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-100.html",
-      "publishedAt": "2026-09-19T01:44:22.000Z"
-    },
-    {
-      "id": "n_c9dc88b425",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Entlastungen: Spritpreisdeckel dürfte für Diskussionen sorgen",
-      "summary": "Die Bundesregierung will die Spritpreise in zwei Schritten senken: erst mit einem Tankrabatt, ab Januar mit einem Preisdeckel. Doch der dürfte noch für Streit in der Koalition sorgen. Von Maximilian Ulrich.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/entlastungen-spritpreise-102.html",
-      "publishedAt": "2026-09-19T00:52:21.000Z"
+      "headline": "Stromnetze vertragen mehr PV-Strom – mit Batteriespeichern an Umspannwerken",
+      "summary": "Einer Studie zufolge verkraften die Stromnetze durch Batteriespeicher an Umspannwerken deutlich mehr Solarstrom.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Stromnetze-vertragen-mehr-PV-Strom-mit-Batteriespeichern-an-Umspannwerken-11459047.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-19T08:18:00.000Z"
     },
     {
       "id": "n_5018418904",
@@ -167,103 +178,125 @@
       "publishedAt": "2026-09-18T05:13:00.000Z"
     },
     {
-      "id": "n_7b1f8f3b51",
+      "id": "n_57334ff25f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Experte zu Cyberangriffen: „Ich habe so eine Dynamik bisher noch nicht erlebt“",
-      "summary": "Cyberangriffe können Krankenhäuser lahmlegen. Fraunhofer SIT simuliert den Ernstfall, um Resilienz zu testen und Schwachstellen in Notfallplänen aufzudecken.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Cyberangriff-im-Krankenhaus-Krisensimulation-zeigt-Potenzial-auf-11457429.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-18T04:17:00.000Z"
+      "headline": "Anzeige: Ninja Woodfire Deal: Elektrischer BBQ Smoker zum Amazon-Jahrestiefstpreis",
+      "summary": "Der Ninja Woodfire Pro Connect XL vereint Grillen, Smoken und Heißluftfrittieren. Nur noch bis morgen bietet Amazon den vielseitigen Outdoor-Grill zum aktuellen Jahrestiefstpreis an. (Technik/Hardware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-ninja-woodfire-deal-elektrischer-bbq-smoker-zum-amazon-jahrestiefstpreis-2609-213215.html",
+      "publishedAt": "2026-09-19T11:40:02.000Z"
     },
     {
-      "id": "n_a40aa4da68",
+      "id": "n_9510833838",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Bezahlbarer Strom: Kosten der Energiewende gerechter verteilen",
-      "summary": "Die feste Einspeisevergütung hat den Ausbau von Windkraft und Photovoltaik enorm beschleunigt. Neue Ideen können das System fairer machen. (Energiewende, Solarenergie)",
+      "headline": "US-Flugaufsichtsbehörde: FAA setzt KI-System für Flugsicherung ein",
+      "summary": "Vertreter von Fluggesellschaften sehen starke Verbesserungsmöglichkeiten für den Flugverkehr, wenn das KI-System funktioniert wie vorgesehen. (KI, Flugzeug)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/bezahlbarer-strom-kosten-der-energiewende-gerechter-verteilen-2609-213183.html",
-      "publishedAt": "2026-09-19T06:15:01.000Z"
+      "url": "https://www.golem.de/news/us-flugaufsichtsbehoerde-faa-setzt-ki-system-fuer-flugsicherung-ein-2609-213244.html",
+      "publishedAt": "2026-09-19T10:50:01.000Z"
     },
     {
-      "id": "n_de86426b33",
+      "id": "n_caa9b21449",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Amflow E-Bike mit 1.300 Watt: Bergauf eine Rakete, bergab etwas zäh",
-      "summary": "Das Premium-Mountainbike von Amflow will mit seiner Motorleistung überzeugen. Auch sonst fehlt es an nichts, manchmal ist es aber zu viel. Ein Test von Mario Petzold (E-Bike, OLED)",
+      "headline": "Hohe Spritpreise: Tankrabatt kehrt zurück, Preisdeckel ab 2027 geplant",
+      "summary": "Bund und Länder haben sich auf ein Paket gegen hohe Spritpreise geeinigt. Ab Oktober kommt der Tankrabatt zurück, 2027 soll eine Preisobergrenze folgen. (Auto, Elektromobilität)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/amflow-e-bike-mit-1-300-watt-bergauf-eine-rakete-bergab-etwas-zaeh-2609-212824.html",
-      "publishedAt": "2026-09-19T05:30:02.000Z"
+      "url": "https://www.golem.de/news/hohe-spritpreise-tankrabatt-kehrt-zurueck-preisdeckel-ab-2027-geplant-2609-213243.html",
+      "publishedAt": "2026-09-19T10:31:02.000Z"
     },
     {
-      "id": "n_3b09adbc1a",
+      "id": "n_f0ebcf0590",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Globaler Rekord bei Internetsperren: Vodafone fordert strenge Regeln gegen Internet-Blackouts",
-      "summary": "Immer mehr Regierungen setzen auf das gezielte Kappen von Internetverbindungen - mit drastischen Folgen. Die Vodafone Group fordert verbindliche Schutzmechanismen und internationale Standards. (Internetsperren, Zensur)",
+      "headline": "Luftfahrt: Joby fliegt erstmals vollautonom quer durch die USA",
+      "summary": "Joby Aviation meldet den ersten komplett autonomen Flug über den gesamten amerikanischen Kontinent, inklusive Schlechtwetterumfliegung. (Flugzeug, Luftfahrt)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/globaler-rekord-bei-internetsperren-vodafone-fordert-strenge-regeln-gegen-digitale-blackouts-2609-213229.html",
-      "publishedAt": "2026-09-18T17:00:02.000Z"
+      "url": "https://www.golem.de/news/luftfahrt-joby-fliegt-erstmals-vollautonom-quer-durch-die-usa-2609-213242.html",
+      "publishedAt": "2026-09-19T10:10:02.000Z"
     },
     {
-      "id": "n_42e41bc472",
+      "id": "n_6c84c73eab",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Vibe Coding: Software-Prototypen mit KI entwickeln",
-      "summary": "Vibe Coding verändert die Softwareentwicklung: KI setzt natürlichsprachliche Anforderungen in Software um. Entscheidend sind dabei Steuerung, Tests und Qualitätskontrolle. (Golem Karrierewelt, Programmiersprachen)",
+      "headline": "Google bestätigt: KI-Modell Gemini knackt drei echte Firmen",
+      "summary": "Bei einem Sicherheitstest sollte Googles KI eigentlich nur fiktive Firmen angreifen. Stattdessen ist sie bei drei echten Unternehmen eingebrochen. (Gemini, Google)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-vibe-coding-software-prototypen-mit-ki-entwickeln-2609-213107.html",
-      "publishedAt": "2026-09-18T16:45:02.000Z"
+      "url": "https://www.golem.de/news/google-bestaetigt-ki-modell-gemini-knackt-drei-echte-firmen-2609-213241.html",
+      "publishedAt": "2026-09-19T09:48:02.000Z"
     },
     {
-      "id": "n_65751b5d19",
+      "id": "n_026de9d521",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Steer-by-Wire in der Praxis: Mit dem Jochlenker übers Penser Joch",
-      "summary": "Das elektronische Lenkrad geht bei Mercedes demnächst in Serie. Wie sich das System in der Praxis fährt, haben wir mit dem EQS in den Alpen ausprobiert. Ein Bericht von Friedhelm Greis (Elektroauto, Tesla)",
+      "headline": "US-Militär: Fehlerhafter KI-Bericht löst beinahe Militärschlag aus",
+      "summary": "Das US-Militär bereitete bereits eine Abfangaktion gegen ein chinesisches Schiff vor, als der KI-Fehler auffiel. (KI, Politik)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/steer-by-wire-in-der-praxis-mit-dem-jochlenker-uebers-penser-joch-2609-213186.html",
-      "publishedAt": "2026-09-18T16:00:01.000Z"
+      "url": "https://www.golem.de/news/us-militaer-fehlerhafter-ki-bericht-loest-beinahe-militaerschlag-aus-2609-213240.html",
+      "publishedAt": "2026-09-19T09:26:01.000Z"
     },
     {
-      "id": "n_1d4f9597c6",
+      "id": "n_e7a4867241",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "ALPSiX: Berliner Inter.link errichtet neuen Peeringknoten des DE-CIX in Südöstereich",
-      "summary": "Der neue Internetknoten ALPSiX in Klagenfurt-Villach setzt auf Edge-Container, um die Unabhängigkeit von Wien zu stärken und Daten direkt nach Norditalien, Bayern und auf den Balkan zu leiten. (DE-CIX, Rechenzentrum)",
+      "headline": "Globale Lösung angestrebt: EU weist Forderungen nach gemeinsamer Digitalssteuer zurück",
+      "summary": "Statt einer gemeinsamen europäischen Digitalsteuer strebt die EU eine globale Lösung für Abgaben von Tech-Konzernen an. (Politik, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/alpsix-berliner-inter-link-errichtet-neuen-peeringknoten-des-de-cix-in-suedoestereich-2609-213224.html",
-      "publishedAt": "2026-09-18T15:57:02.000Z"
+      "url": "https://www.golem.de/news/globale-loesung-angestrebt-eu-weist-forderungen-nach-gemeinsamer-digitalssteuer-zurueck-2609-213239.html",
+      "publishedAt": "2026-09-19T09:05:02.000Z"
     },
     {
-      "id": "n_a65d261cca",
+      "id": "n_75a5969fe8",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Maßnahme gegen Webcrawler: Cloudflare ermöglicht Trennung von KI- und Suchbots",
-      "summary": "Cloudflare bietet Webseitenbetreibern die Möglichkeit, keine Suchbots sperren zu müssen, wenn sie das Sammeln ihrer Daten verhindern möchten. (Cloudflare, KI)",
+      "headline": "Anzeige: Fanttik Starthilfe-Powerbank mit vielen Extras zum neuen Amazon-Bestpreis unter 100 Euro",
+      "summary": "Die Fanttik Potent T10 Starthilfe-Powerbank mit 12.000 mAh und Echtzeit-Display erreicht einen neuen Bestpreis bei Amazon. (Technik/Hardware, Auto)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/massnahme-gegen-webcrawler-cloudflare-ermoeglicht-trennung-von-ki-und-suchbots-2609-213221.html",
-      "publishedAt": "2026-09-18T15:04:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-fanttik-starthilfe-powerbank-mit-vielen-extras-zum-neuen-amazon-bestpreis-unter-100-euro-2609-213219.html",
+      "publishedAt": "2026-09-19T08:40:01.000Z"
     },
     {
-      "id": "n_33a48263f7",
+      "id": "n_dda46dc247",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Faltbares Laufband mit Steigung für zu Hause günstig wie nie",
-      "summary": "Amazon verkauft ein faltbares Laufband von Cardirun mit 10 Prozent Steigung und bis zu 10 km/h Geschwindigkeit zum neuen Tiefstpreis. (Technik/Hardware, Amazon)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-faltbares-laufband-mit-steigung-fuer-zu-hause-guenstig-wie-nie-2609-213222.html",
-      "publishedAt": "2026-09-18T15:00:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "summary": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T11:50:22.000Z"
+    },
+    {
+      "id": "n_7ffe8b5c74",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "summary": "Denmark and Greenland have welcomed the deal, which Trump claims will give the US \"permanent control over security and all other needs\" in the Danish territory.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T11:36:55.000Z"
+    },
+    {
+      "id": "n_07a60ae54a",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Millions without power as Cuba hit by latest major blackout",
+      "summary": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T10:27:37.000Z"
     },
     {
       "id": "n_d966c1faf1",
@@ -319,39 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-18T23:18:02.000Z"
-    },
-    {
-      "id": "n_a02d3cf253",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
-      "summary": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T23:07:16.000Z"
-    },
-    {
-      "id": "n_1b20cef012",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Grim discoveries of murdered women spark fear in South Africa",
-      "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T23:04:41.000Z"
-    },
-    {
-      "id": "n_3fad262e8b",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
-      "summary": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T23:03:38.000Z"
     },
     {
       "id": "n_6715238f50",
@@ -431,6 +431,28 @@
       "publishedAt": "2026-09-16T23:41:57.000Z"
     },
     {
+      "id": "n_a24483b59f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Learning another language may be one of the best ways to keep your brain healthy",
+      "summary": "Research suggests that bilingualism can offer cognitive benefits.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+      "publishedAt": "2026-09-19T11:10:43.000Z"
+    },
+    {
+      "id": "n_274168859b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Rings around a tiny body have changed over the past decade",
+      "summary": "Chariklo is only about 250 km across, but it has two rings, and they're changing.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
+      "publishedAt": "2026-09-19T10:00:06.000Z"
+    },
+    {
       "id": "n_6b844761c1",
       "type": "news",
       "topic": "tech",
@@ -495,28 +517,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
       "publishedAt": "2026-09-18T13:56:57.000Z"
-    },
-    {
-      "id": "n_a8365cfa26",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Researchers used Claude to hack OpenAI",
-      "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-      "publishedAt": "2026-09-18T13:30:12.000Z"
-    },
-    {
-      "id": "n_2ac41d6a46",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Rocket Report: China wants a Raptor 3 engine; SpaceX set for big Starship test",
-      "summary": "“I can tell you SpaceX has already gone captive.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/",
-      "publishedAt": "2026-09-18T11:00:11.000Z"
     },
     {
       "id": "n_a193c15e98",
@@ -783,6 +783,39 @@
       "publishedAt": "2026-09-09T03:10:08.000Z"
     },
     {
+      "id": "n_0e6162939d",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+      "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+      "publishedAt": "2026-09-19T11:00:00.000Z"
+    },
+    {
+      "id": "n_111832ce11",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Mathematicians Hate AI. They Can’t Quit It",
+      "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+      "publishedAt": "2026-09-19T10:00:00.000Z"
+    },
+    {
+      "id": "n_b0725c2c81",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Join the WIRED World Fair in Miami on November 4",
+      "summary": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
+      "publishedAt": "2026-09-19T09:00:00.000Z"
+    },
+    {
       "id": "n_0f3cb72b85",
       "type": "news",
       "topic": "ai",
@@ -836,39 +869,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
       "publishedAt": "2026-09-18T10:15:00.000Z"
-    },
-    {
-      "id": "n_630aecb9df",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Napster Is Back, and It Wants to Digitally Clone Teachers",
-      "summary": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
-      "publishedAt": "2026-09-18T09:15:00.000Z"
-    },
-    {
-      "id": "n_846a0e2796",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
-      "summary": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
-      "publishedAt": "2026-09-18T09:00:00.000Z"
-    },
-    {
-      "id": "n_35342dda74",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Here’s What the AI Apocalypse Could Look Like",
-      "summary": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
-      "publishedAt": "2026-09-17T22:20:21.000Z"
     },
     {
       "id": "n_16a7b27ed0",
