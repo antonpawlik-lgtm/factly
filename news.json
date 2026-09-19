@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-09-18T20:08:37.652Z",
+  "generatedAt": "2026-09-19T01:56:51.541Z",
   "items": [
+    {
+      "id": "n_7d1f901c37",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "US-Präsident Trump verbietet CNN Zugang zum Weißen Haus",
+      "summary": "Der Sender CNN und weitere Medien sollen keinen Zugang mehr zum Weißen Haus erhalten. US-Präsident Trump wirft ihnen vor, \"Erfindungen und Lügen\" zu verbreiten. Es ist nicht das erste Mal, dass Trump gegen Journalisten vorgeht.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-presse-weisses-haus-100.html",
+      "publishedAt": "2026-09-19T01:44:22.000Z"
+    },
+    {
+      "id": "n_c9dc88b425",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Entlastungen: Spritpreisdeckel dürfte für Diskussionen sorgen",
+      "summary": "Die Bundesregierung will die Spritpreise in zwei Schritten senken: erst mit einem Tankrabatt, ab Januar mit einem Preisdeckel. Doch der dürfte noch für Streit in der Koalition sorgen. Von Maximilian Ulrich.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/entlastungen-spritpreise-102.html",
+      "publishedAt": "2026-09-19T00:52:21.000Z"
+    },
+    {
+      "id": "n_f56d2543d7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Dänemark und USA verkünden Durchbruch im Grönland-Streit",
+      "summary": "US-Präsident Trump sorgte mit seinen Ansprüchen auf Grönland für Spannungen innerhalb der NATO. Nun wollen die USA, Dänemark und Grönland ein Abkommen schließen. Laut Grönlands Regierungschef nützt es allen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/abkommen-usa-daenemark-groenland-100.html",
+      "publishedAt": "2026-09-18T23:54:48.000Z"
+    },
+    {
+      "id": "n_c3668810da",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "USA-Reise von Pistorius: Es ist etwas in Bewegung gekommen",
+      "summary": "Vier Tage war Verteidigungsminister Pistorius in den USA. In Washington, New York und Fort Worth in Texas wird schnell klar, dass sich etwas verändert hat: Das Interesse der USA am Bündnispartner scheint neu erwacht. Von C. Nagel.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/pistorius-usa-110.html",
+      "publishedAt": "2026-09-18T22:40:52.000Z"
+    },
+    {
+      "id": "n_8140862ff7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Fragen und Antworten: Was plant Koalition jetzt gegen die Spritpreise?",
+      "summary": "Die Bundesregierung hat auf die hohen Spritpreise reagiert. Welche Maßnahmen sind ab wann geplant? Wer hat sich in der Koalition durchgesetzt? Und: Welche Kritik gibt es? Die wichtigsten Fragen und Antworten.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/tankrabatt-preisdeckel-faq-100.html",
+      "publishedAt": "2026-09-18T22:00:25.000Z"
+    },
     {
       "id": "n_e7eabe4122",
       "type": "news",
@@ -33,61 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/asien/pakistan-anschlag-134.html",
       "publishedAt": "2026-09-18T17:22:37.000Z"
-    },
-    {
-      "id": "n_4940e64855",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Projekt in Dänemark gestartet: Greensand soll CO2-Speicher Europas werden",
-      "summary": "Mit dem Projekt Greensand ist das erste CO2-Einlagerungsprojekt in der EU gestartet. Unter der Nordsee soll in Zukunft klimaschädliches CO2 dauerhaft im Meeresboden gespeichert werden. Doch es gibt auch Kritik. Von A. Bartram.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/daenemark-greensand-100.html",
-      "publishedAt": "2026-09-18T17:03:15.000Z"
-    },
-    {
-      "id": "n_f90434d287",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Bolivien: Forscher entdecken neue Katzenart \"Leopardus tilcayo\"",
-      "summary": "Erstmals seit mehr als hundert Jahren haben Forscher in Südamerika eine bislang unbekannte Katzenart entdeckt. Das Tier ist hellbraun gefleckt und kleiner als eine Hauskatze. Es trägt nun den Namen \"Leopardus tilcayo\".",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/bolivien-neue-katzenart-100.html",
-      "publishedAt": "2026-09-18T17:02:36.000Z"
-    },
-    {
-      "id": "n_54b517842e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: DAX gibt am großen Verfallstag nach",
-      "summary": "Der deutsche Aktienmarkt hat die Woche mit Verlusten beendet. Die Anleger blickten mit Sorge auf die unsichere Lage im Nahen Osten. Auch der große Verfallstag sorgte für Bewegung.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-156.html",
-      "publishedAt": "2026-09-18T16:25:06.000Z"
-    },
-    {
-      "id": "n_1b9e8c9e4e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Berlin-Wahl - Kristin Brinker von der AfD: Spitzenkandidatin ohne Regierungschancen",
-      "summary": "Kristin Brinker tritt zum dritten Mal als Spitzenkandidatin der AfD in Berlin an. Ihre Partei kann mit Zuwächsen rechnen. Doch eine Regierungsoption hat sie wohl nicht; niemand will mit ihr koalieren. Von Jonas Wintermantel und Markus Reher.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/abgeordnetenhaus-wahl-berlin-afd-brinker-100.html",
-      "publishedAt": "2026-09-18T16:20:49.000Z"
-    },
-    {
-      "id": "n_35518bd76d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Investor Warren Buffett übergibt an seinen Sohn",
-      "summary": "Mit 96 Jahren übergibt Warren Buffett einen weiteren Teil seines Imperiums. Den Vorsitz des Verwaltungsrats übernimmt sein Sohn Howard. Ganz zurückziehen wird sich der legendäre Investor aber weiterhin nicht.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/buffett-warren-howard-100.html",
-      "publishedAt": "2026-09-18T15:27:15.000Z"
     },
     {
       "id": "n_5018418904",
@@ -266,92 +266,114 @@
       "publishedAt": "2026-09-18T14:29:01.000Z"
     },
     {
+      "id": "n_345f5dd76a",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Kerry Kennedy: 'It would be a tragedy' if Kennedy Center is demolished",
+      "summary": "The BBC’s Caitríona Perry spoke to the late president's niece, as protesters gathered at the venue to condemn demolition threats.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cv8e3jw1kr4lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T00:03:53.000Z"
+    },
+    {
       "id": "n_d966c1faf1",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Donald Trump says he is banning CNN and Politico from White House",
-      "summary": "The US president has had a tense and fiery relationship with the US media since returning to office.",
+      "headline": "Trump says he is banning CNN and Politico from White House",
+      "summary": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T20:04:29.000Z"
+      "publishedAt": "2026-09-18T23:26:48.000Z"
     },
     {
-      "id": "n_bab6b86906",
+      "id": "n_3eccc33fab",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
-      "summary": "Records in 2024 show the venue had a surplus of millions of dollars once contributions and grants had been factored in.",
+      "headline": "I found love at an Irish matchmaking festival - and I want others to do the same",
+      "summary": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T18:56:17.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T23:18:02.000Z"
     },
     {
-      "id": "n_5847bd6003",
+      "id": "n_a02d3cf253",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+      "headline": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
+      "summary": "The Tata boardroom battle has intensified over a re-appointment of its chairman and a diktat to go public.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T18:04:38.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T23:07:16.000Z"
     },
     {
-      "id": "n_4a7b35fbcf",
+      "id": "n_1b20cef012",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-      "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
+      "headline": "Grim discoveries of murdered women spark fear in South Africa",
+      "summary": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T17:31:30.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T23:04:41.000Z"
     },
     {
-      "id": "n_d104b6df2c",
+      "id": "n_3fad262e8b",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-      "summary": "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
+      "headline": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+      "summary": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T17:15:02.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T23:03:38.000Z"
     },
     {
-      "id": "n_43332dda97",
+      "id": "n_7ffe8b5c74",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Dozens of suspected illegal miners die in Nigerian custody",
-      "summary": "Authorities linked the deaths to disease, but this has been disputed by intelligence reports and relatives of the accused.",
+      "headline": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "summary": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T15:47:28.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T22:58:55.000Z"
     },
     {
-      "id": "n_bd5d0f2f77",
+      "id": "n_73b51cc893",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
-      "summary": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus for their upcoming Nations League games.",
+      "headline": "Watch: Trump says ban on some news outlets is 'because they're fake news'",
+      "summary": "The US president on Friday announced he is \"immediately\" banning CNN, MS NOW and Politico from the White House.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T12:45:25.000Z"
+      "url": "https://www.bbc.co.uk/news/videos/cm93e7p1wkndo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T20:35:03.000Z"
     },
     {
-      "id": "n_ead578216f",
+      "id": "n_6715238f50",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Shots heard as police start moving migrants from Ceuta beaches",
-      "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
+      "headline": "Tech Now",
+      "summary": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T11:59:42.000Z"
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T01:00:00.000Z"
+    },
+    {
+      "id": "n_499404ec24",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Would Australians support a smart glasses ban?",
+      "summary": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T23:15:10.000Z"
     },
     {
       "id": "n_e52342f13a",
@@ -420,26 +442,15 @@
       "publishedAt": "2026-09-16T23:18:47.000Z"
     },
     {
-      "id": "n_b17f30d549",
+      "id": "n_6b844761c1",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-      "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T10:02:05.000Z"
-    },
-    {
-      "id": "n_ca95332186",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "AI app ads promoting 'objectification of women' banned by watchdog",
-      "summary": "The ad regulator said it had \"zero-tolerance\" for ads promoting AI tools that could sexualise or objectify women.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T23:27:17.000Z"
+      "headline": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "summary": "But the military's overall use of AI seems to be accelerating.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "publishedAt": "2026-09-18T20:26:33.000Z"
     },
     {
       "id": "n_8a86701f25",
@@ -519,15 +530,81 @@
       "publishedAt": "2026-09-18T11:00:11.000Z"
     },
     {
-      "id": "n_f5dbcedb0e",
+      "id": "n_a193c15e98",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "RFK Jr. names 8 new members to influential preventive medicine task force",
-      "summary": "The USPSTF sets insurance coverage for preventive services, like colonoscopies.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
-      "publishedAt": "2026-09-17T22:31:28.000Z"
+      "headline": "India forces caller-ID apps to feed spam reports to telcos",
+      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "publishedAt": "2026-09-19T01:00:00.000Z"
+    },
+    {
+      "id": "n_f0cf279d8d",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "publishedAt": "2026-09-19T00:12:07.000Z"
+    },
+    {
+      "id": "n_23d6e2a4a2",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "publishedAt": "2026-09-18T23:25:01.000Z"
+    },
+    {
+      "id": "n_7eae20442a",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Anthropic is operating a lab that conducts biology experiments",
+      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "publishedAt": "2026-09-18T23:13:31.000Z"
+    },
+    {
+      "id": "n_450940319d",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "AI hallucination nearly triggers US military operation",
+      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "publishedAt": "2026-09-18T23:12:32.000Z"
+    },
+    {
+      "id": "n_8503b185b6",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Anthropic’s first embedded evaluator is … Accenture?",
+      "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "publishedAt": "2026-09-18T21:44:33.000Z"
+    },
+    {
+      "id": "n_6ce3a720aa",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "World model companies are keeping a lot of secrets",
+      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "publishedAt": "2026-09-18T20:18:14.000Z"
     },
     {
       "id": "n_b311cc8207",
@@ -541,81 +618,15 @@
       "publishedAt": "2026-09-18T18:49:30.000Z"
     },
     {
-      "id": "n_13515f2f45",
+      "id": "n_7456d8000e",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-      "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-      "publishedAt": "2026-09-18T17:59:53.000Z"
-    },
-    {
-      "id": "n_96293117e2",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "publishedAt": "2026-09-18T17:33:50.000Z"
-    },
-    {
-      "id": "n_9666e41735",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countrie",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-      "publishedAt": "2026-09-18T17:09:56.000Z"
-    },
-    {
-      "id": "n_c2813fff57",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
-      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countrie",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
-      "publishedAt": "2026-09-18T17:06:32.000Z"
-    },
-    {
-      "id": "n_21ded5da2f",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-      "publishedAt": "2026-09-18T16:35:49.000Z"
-    },
-    {
-      "id": "n_9fceb02210",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-      "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-18T15:30:00.000Z"
-    },
-    {
-      "id": "n_a1c29a3b99",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-      "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-      "publishedAt": "2026-09-18T15:22:48.000Z"
+      "headline": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"larg",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "publishedAt": "2026-09-18T21:07:24.000Z"
     },
     {
       "id": "n_802486953d",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
       "publishedAt": "2026-09-17T18:58:05.000Z"
-    },
-    {
-      "id": "n_4c6f8453bd",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-      "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come as no surprise that Mustafa has strong opinions on how AI should be built and re",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-      "publishedAt": "2026-09-17T14:00:00.000Z"
     },
     {
       "id": "n_193c8bfab5",
@@ -843,7 +843,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "The Leftist Split Over AI Doom",
-      "summary": "The left wants AI regulation. They just can't agree on what it should look like or how concerned they should be.",
+      "summary": "The left wants AI regulation. They just can’t agree on what it should look like or how concerned they should be.",
       "source": "Wired",
       "url": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
       "publishedAt": "2026-09-18T10:15:00.000Z"
@@ -968,150 +968,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/train-to-paint-with-code",
       "publishedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "n_0c3e7fe15b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek’s Insane New Architecture",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
-      "thumbnail": "https://i.ytimg.com/vi/vIHw_2VjSUw/hqdefault.jpg",
-      "publishedAt": "2026-09-18T07:03:46.000Z"
-    },
-    {
-      "id": "n_281ff94730",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
-      "thumbnail": "https://i.ytimg.com/vi/YoEWjZSwoys/hqdefault.jpg",
-      "publishedAt": "2026-09-15T10:12:34.000Z"
-    },
-    {
-      "id": "n_9818ebd3c2",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "I Never Thought I’d See This Happen",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=mOvtumfyjCs",
-      "thumbnail": "https://i.ytimg.com/vi/mOvtumfyjCs/hqdefault.jpg",
-      "publishedAt": "2026-09-10T08:47:23.000Z"
-    },
-    {
-      "id": "n_ff7563162b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "GPT-6 Astra Changes Everything",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
-      "thumbnail": "https://i.ytimg.com/vi/eVBJIUxv8N8/hqdefault.jpg",
-      "publishedAt": "2026-09-08T08:24:27.000Z"
-    },
-    {
-      "id": "n_c21d60498a",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
-      "publishedAt": "2026-09-17T00:34:47.000Z"
-    },
-    {
-      "id": "n_ffdb3dfd14",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
-      "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_6a18d8c315",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
-      "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
-      "publishedAt": "2026-08-12T12:57:24.000Z"
-    },
-    {
-      "id": "n_49a7d5405f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
-      "publishedAt": "2026-07-28T20:02:11.000Z"
-    },
-    {
-      "id": "n_cadb3dcc5b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did Google just kickstart the intelligence explosion?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=LoLYw--s-5w",
-      "thumbnail": "https://i.ytimg.com/vi/LoLYw--s-5w/hqdefault.jpg",
-      "publishedAt": "2026-09-17T20:33:55.000Z"
-    },
-    {
-      "id": "n_cc834c01a4",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Anthropic researchers are quitting... and now we know why",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=7r4ikZHm9AI",
-      "thumbnail": "https://i.ytimg.com/vi/7r4ikZHm9AI/hqdefault.jpg",
-      "publishedAt": "2026-09-15T17:45:39.000Z"
-    },
-    {
-      "id": "n_b60358e991",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI's biggest math breakthrough is getting ugly...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=aspmNhKAFMc",
-      "thumbnail": "https://i.ytimg.com/vi/aspmNhKAFMc/hqdefault.jpg",
-      "publishedAt": "2026-09-11T17:24:40.000Z"
-    },
-    {
-      "id": "n_d0ecbe4c7e",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "I built the same game with Astra and Fable 5.1... only one was fun",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=2Xiljy4xzbc",
-      "thumbnail": "https://i.ytimg.com/vi/2Xiljy4xzbc/hqdefault.jpg",
-      "publishedAt": "2026-09-09T16:34:27.000Z"
     },
     {
       "id": "n_1780436ac8",
