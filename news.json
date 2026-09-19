@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-19T19:41:38.258Z",
+  "generatedAt": "2026-09-19T22:32:50.768Z",
   "items": [
+    {
+      "id": "n_10e5f80723",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "++ Liveblog zu den Wahlen in MV und Berlin: Parteien haben Wahlkampf beendet ++",
+      "summary": "Vor dem Wahlen in Mecklenburg-Vorpommern und Berlin haben die Parteien heute ihren Wahlkampf beendet. Bundeskanzler Merz erhält vor dem Wahlsonntag weitere Rückendeckung aus seiner eigenen Partei.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html",
+      "publishedAt": "2026-09-19T20:24:16.000Z"
+    },
     {
       "id": "n_71b8b126f1",
       "type": "news",
@@ -55,17 +66,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/linnemann-krankenkassen-informationspflicht-beitraege-100.html",
       "publishedAt": "2026-09-19T15:46:45.000Z"
-    },
-    {
-      "id": "n_10e5f80723",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "++ Liveblog zu den Wahlen in MV und Berlin: Parteien haben Wahlkampf beendet ++",
-      "summary": "Vor dem Wahlen in Mecklenburg-Vorpommern und Berlin haben die Parteien heute ihren Wahlkampf beendet. Bundeskanzler Merz erhält vor dem Wahlsonntag weitere Rückendeckung aus seiner eigenen Partei.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/newsticker/liveblog-berlin-mecklenburg-vorpommern-wahlen-2026-100.html",
-      "publishedAt": "2026-09-19T15:39:08.000Z"
     },
     {
       "id": "n_dafca369ce",
@@ -266,6 +266,28 @@
       "publishedAt": "2026-09-19T08:40:01.000Z"
     },
     {
+      "id": "n_f2c909c537",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T21:01:56.000Z"
+    },
+    {
+      "id": "n_dbf103d247",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T20:16:07.000Z"
+    },
+    {
       "id": "n_d6f8469153",
       "type": "news",
       "topic": "general",
@@ -275,17 +297,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-19T19:13:49.000Z"
-    },
-    {
-      "id": "n_dbf103d247",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-      "summary": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T19:09:49.000Z"
     },
     {
       "id": "n_5d93fc190c",
@@ -341,17 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-19T11:36:55.000Z"
-    },
-    {
-      "id": "n_07a60ae54a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Millions without power as Cuba hit by latest major blackout",
-      "summary": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T10:27:37.000Z"
     },
     {
       "id": "n_6715238f50",
@@ -519,6 +519,28 @@
       "publishedAt": "2026-09-18T13:56:57.000Z"
     },
     {
+      "id": "n_2c088408c2",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "publishedAt": "2026-09-19T20:39:13.000Z"
+    },
+    {
+      "id": "n_589c5060cf",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "publishedAt": "2026-09-19T19:57:47.000Z"
+    },
+    {
       "id": "n_b6a7c3b080",
       "type": "news",
       "topic": "ai",
@@ -585,26 +607,15 @@
       "publishedAt": "2026-09-19T01:00:00.000Z"
     },
     {
-      "id": "n_f0cf279d8d",
+      "id": "n_607ffaad2d",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "publishedAt": "2026-09-19T00:12:07.000Z"
-    },
-    {
-      "id": "n_23d6e2a4a2",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "publishedAt": "2026-09-18T23:25:01.000Z"
+      "headline": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing e",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "publishedAt": "2026-09-19T20:44:40.000Z"
     },
     {
       "id": "n_66fb6faf12",
@@ -682,17 +693,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
       "publishedAt": "2026-09-18T16:35:19.000Z"
-    },
-    {
-      "id": "n_907e9d5308",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Security researchers used Claude to help them hack into OpenAI",
-      "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monor",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-      "publishedAt": "2026-09-18T15:30:16.000Z"
     },
     {
       "id": "n_193c8bfab5",
