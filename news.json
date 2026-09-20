@@ -1,93 +1,126 @@
 {
-  "generatedAt": "2026-09-20T07:58:18.920Z",
+  "generatedAt": "2026-09-20T17:45:51.381Z",
   "items": [
     {
       "id": "n_86ee248709",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "++ Liveticker zur Berlin-Wahl: Wahllokale sind geöffnet ++",
-      "summary": "Berlin hat schon wieder die Wahl - nach der Wiederholungswahl 2023 sind 2,5 Millionen Menschen in der Hauptstadt erneut zur Stimmabgabe aufgerufen. Das ist noch bis 18 Uhr möglich.",
+      "headline": "++ Liveticker zur Berlin-Wahl: Berliner Grüne für Koalition mit Linken und SPD ++",
+      "summary": "Die Grünen streben nach der Wahl zum Berliner Abgeordnetenhaus eine rot-grün-rote Koalition an. Bundeskanzler Merz erklärt, weiter an Reformen arbeiten zu wollen - und macht klar, dass er Kanzler bleiben will.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
-      "publishedAt": "2026-09-20T07:52:32.000Z"
-    },
-    {
-      "id": "n_0cd8ed4b80",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Ukrainische Drohnenangriffe auf Moskau - mehrere Tote",
-      "summary": "Bei Angriffen der Ukraine mit Hunderten Drohnen hat es in Russland mindestens zwei Tote gegeben. In der Region um Moskau wurde eine Raffinerie getroffen. Auch bei russischen Angriffen starben mehrere Menschen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-drohnenangriffe-moskau-oelraffinerie-100.html",
-      "publishedAt": "2026-09-20T07:40:10.000Z"
+      "publishedAt": "2026-09-20T17:42:20.000Z"
     },
     {
       "id": "n_1282ebb23e",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Wahllokale sind geöffnet ++",
-      "summary": "Etwa 1,3 Millionen Menschen dürfen im dünn besiedelten Mecklenburg-Vorpommern darüber abstimmen, welche Personen und Parteien in den 9. Schweriner Landtag einziehen. Die Wahllokale sind seit 8 Uhr geöffnet.",
+      "headline": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: FDP-Landeschef zieht Konsequenzen ++",
+      "summary": "Die FDP liegt laut Hochrechnung bei einem Prozent der Stimmen und fliegt damit aus dem Landtag. Landeschef Domke will persönliche Konsequenzen ziehen. CDU-Spitzenkandidat Peters begründet das desaströse Ergebnis seiner Partei in dem \"hochpolarisierten Wahlkampf\".",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
-      "publishedAt": "2026-09-20T07:09:12.000Z"
+      "publishedAt": "2026-09-20T17:40:10.000Z"
     },
     {
-      "id": "n_d67769be44",
+      "id": "n_47ea663dbd",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Wirtschaftsweise Veronika Grimm nennt neuen Tankrabatt \"zynisch\"",
-      "summary": "Die Bundesregierung will erneut die Energiesteuer auf Kraftstoffe senken und einen Spritpreisdeckel einführen, um Verbraucher zu entlasten. Die Ökonomin Grimm kritisiert das als opportunistisch - und warnt vor weitreichenden Konsequenzen.",
+      "headline": "Nach Landtagswahlen: Merz will an Reformkurs festhalten",
+      "summary": "Bundeskanzler Merz hat sich zum Wahlausgang in Berlin und Mecklenburg-Vorpommern geäußert. Er bekräftigte, die aus seiner Sicht notwendigen Reformen durchsetzen zu wollen. Vizekanzler Klingbeil von der SPD äußerte sich jedoch kritischer.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/tankrabatt-wirtschaftsweise-grimm-reaktion-100.html",
-      "publishedAt": "2026-09-20T05:57:07.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-wahlen-mecklenburg-vorpommern-berlin-100.html",
+      "publishedAt": "2026-09-20T17:38:59.000Z"
     },
     {
-      "id": "n_df711081e2",
+      "id": "n_d297d74473",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Warum wir noch immer so viel Essen wegwerfen",
-      "summary": "Jedes Jahr landen in Deutschland fast elf Millionen Tonnen genießbare Lebensmittel im Müll. Warum ändert sich seit Jahren kaum was? Und was können wir von unseren Nachbarn lernen? Von Edgar Verheyen.",
+      "headline": "Abgeordnetenhaus Berlin: Wichtigste Umfragen im Überblick",
+      "summary": "In Berlin ist ein weiteres knappes Rennen um das Rote Rathaus zu Ende gegangen. Was sind die Hauptgründe für das Ergebnis? Eine Erklärung in Umfragegrafiken von infratest dimap.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/essen-lebensmittel-verschwendung-100.html",
-      "publishedAt": "2026-09-20T03:38:41.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/umfragen-wichtigstes-abgeordnetenhaus-berlin-2026-100.html",
+      "publishedAt": "2026-09-20T16:16:19.000Z"
     },
     {
-      "id": "n_52ae6978dc",
+      "id": "n_6887580987",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "FAQ: Was Sie zur Wahl in Berlin wissen müssen",
-      "summary": "Vier Parteien liegen in den Umfragen dicht beieinander, CDU und Linke konkurrieren um die Spitze: Die Berlin-Wahl verspricht spannend zu werden. Wie die Wahl abläuft und warum ihr Ausgang vieles ändern könnte.",
+      "headline": "Mecklenburg-Vorpommern: Wichtigste Umfragen im Überblick",
+      "summary": "Die Landtagswahl hat die politische Landschaft im Nordosten massiv verändert. Was sind die Hauptgründe für dieses Ergebnis? Eine Erklärung in Umfrage-Grafiken von infratest dimap.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/faq-abgeordnetenhauswahl-2026-berlin-100.html",
-      "publishedAt": "2026-09-20T03:38:24.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/umfragen-wichtigstes-ltw-mecklenburg-vorpommern-2026-100.html",
+      "publishedAt": "2026-09-20T16:12:56.000Z"
     },
     {
-      "id": "n_dc5ddabbb1",
+      "id": "n_6f91943bc7",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Was zur Wahl in Mecklenburg-Vorpommern wichtig ist",
-      "summary": "Es ist ein Zweikampf zwischen der in Umfragen führenden AfD und der regierenden SPD: In Mecklenburg-Vorpommern kämpft Manuela Schwesig um den Wahlsieg. Warum es für ein Zweierbündnis nicht reichen dürfte - und was noch wichtig ist.",
+      "headline": "Wählerwanderung in Berlin - wer holte Stimmen von wem?",
+      "summary": "Wer bekam besonders viele Stimmen von früheren Nichtwählern? Woher kamen die Zugewinne etwa der AfD und Linkspartei? Und an wen gab andere Parteien Stimmen ab? Die Wählerwanderung auf Basis der Zahlen von infratest dimap.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/faq-wahl-mecklenburg-vorpommern-100.html",
-      "publishedAt": "2026-09-20T03:38:16.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/waehlerwanderung-abgeordnetenhaus-berlin-2026-100.html",
+      "publishedAt": "2026-09-20T16:10:02.000Z"
     },
     {
-      "id": "n_30971f8f92",
+      "id": "n_6047a99f29",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Duma-Wahl in Russland endet: Der Wahlsieger steht wohl jetzt schon fest",
-      "summary": "Drei Tage lang haben die Russen ein neues Parlament gewählt, ab 20 Uhr werden die Stimmen ausgezählt. Ein Sieg der Regierungspartei gilt als sicher. Wahlbeobachter berichten von Manipulationsversuchen und anderen Regelverstößen.",
+      "headline": "Wählerwanderung: Wer in Mecklenburg-Vorpommern wo Stimmen holte",
+      "summary": "Woher kommen die Zugewinne der AfD? Von welchen Parteien wandten sich frühere Wählerinnen und Wähler ab? Und wem gaben sie diesmal ihre Stimme? Die Wählerwanderung auf Basis der Zahlen von infratest dimap.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/duma-wahl-russland-100.html",
-      "publishedAt": "2026-09-20T03:29:28.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/waehlerwanderung-ltw-mecklenburg-vorpommern-2026-100.html",
+      "publishedAt": "2026-09-20T16:08:05.000Z"
+    },
+    {
+      "id": "n_6b928b7ee6",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "So wählten die Bevölkerungsgruppen in Berlin",
+      "summary": "Wie stark unterscheidet sich das Wahlverhalten zwischen Jüngeren und Älteren, zwischen Männern und Frauen in Berlin? So schnitten die Parteien in den verschiedenen Bevölkerungsgruppen ab.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/wahlverhalten-abgeordnetenhauswahl-berlin-2026-102.html",
+      "publishedAt": "2026-09-20T16:05:44.000Z"
+    },
+    {
+      "id": "n_a1d795cef4",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "„TI stürzt unangenehm oft ab“: Hoffnung auf Umbau der Gesundheitsdatenautobahn",
+      "summary": "Die Gematik räumt ein, dass die Telematikinfrastruktur oft ausfällt. Mit einem Umbau zur TI 2.0 mit weniger Komplexität und neuen Diensten soll sich das ändern.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/TI-stuerzt-unangenehm-oft-ab-Hoffnung-auf-Umbau-der-Gesundheitsdatenautobahn-11459305.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-20T15:15:00.000Z"
+    },
+    {
+      "id": "n_8da821da3a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Zum 10-jährigen: Wie TikTok das Netz umgekrempelt hat",
+      "summary": "Vor zehn Jahren startete Douyin in Peking. Daraus wurde TikTok, das heute als mächtige Kultur- und Shopping-Maschinerie dominiert und andere herausfordert.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Zum-10-jaehrigen-Wie-TikTok-das-Netz-umgekrempelt-hat-11459349.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-20T14:10:00.000Z"
+    },
+    {
+      "id": "n_b17f4b0f2a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Cyberangriff auf LMU München: Daten von Studierenden abgeflossen",
+      "summary": "Name, Adresse, Bankverbindung, Bildungsabschlüsse – all diese Daten von Studierenden kamen der LMU München abhanden. Vieles ist allerdings noch unklar.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Cyberangriff-auf-LMU-Muenchen-Daten-von-Studierenden-abgeflossen-11459343.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-20T13:05:00.000Z"
     },
     {
       "id": "n_7a546af16e",
@@ -145,136 +178,125 @@
       "publishedAt": "2026-09-18T08:49:00.000Z"
     },
     {
-      "id": "n_9fa943843b",
+      "id": "n_6dc4a4d01d",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anthropic: Claude übernimmt immer mehr Arbeit an eigener Weiterentwicklung",
-      "summary": "Claude erledigt bei Anthropic immer mehr Aufgaben an künftigen KI-Modellen weitgehend selbstständig. Dieser Anteil ist zuletzt stark gestiegen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Anthropic-Claude-uebernimmt-immer-mehr-Arbeit-an-eigener-Weiterentwicklung-11458053.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-18T08:42:00.000Z"
-    },
-    {
-      "id": "n_4c17fec46f",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "10 Jahre „Botti“: Vom Messenger-Bot zum heise-Maskottchen 🤖",
-      "summary": "Botti feiert seinen zehnten Geburtstag: Ein Blick auf die Geschichte des heise-online-Bots vom Messenger-Bot bis zum heise-Maskottchen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/10-Jahre-Botti-Vom-Messenger-Bot-zum-heise-Maskottchen-11451463.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-18T06:02:00.000Z"
-    },
-    {
-      "id": "n_67847baf39",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "„Größter Diebstahl von Arbeitskraft“: Intern Kritik bei Microsoft an KI-Training",
-      "summary": "Die New York Times hat gegen OpenAI und Microsoft wegen unerlaubter Verwendung von Texten fürs KI-Training geklagt. Intern werden die Argumente dort geteilt.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Groesster-Diebstahl-von-Arbeitskraft-Intern-Kritik-bei-Microsoft-an-KI-Training-11457705.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-18T05:13:00.000Z"
-    },
-    {
-      "id": "n_2795b4df2a",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Gopro Mission 1 Pro ILS im Test: Auf diese Actioncam warte ich seit der Hero 6",
-      "summary": "Mit Wechselobjektiven bietet die Gopro Mission 1 Pro ILS deutlich mehr gestalterische Freiheit - macht das Filmen aber auch anspruchsvoller. Ein Test von Peter Steinlechner (Gopro, Kameras)",
+      "headline": "107 Jahre ungelöst: KI knackt deutschen Funkspruch aus dem Ersten Weltkrieg",
+      "summary": "Ein Autor namens prinz will mit einem KI-Modell eine deutsche Militärchiffre von 1918 entschlüsselt haben, die bislang als unlösbar galt. (Verschlüsselung, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/gopro-mission-1-pro-ils-im-test-auf-diese-actioncam-warte-ich-seit-der-hero-6-2609-213174.html",
-      "publishedAt": "2026-09-20T05:30:02.000Z"
+      "url": "https://www.golem.de/news/107-jahre-ungeloest-ki-knackt-deutschen-funkspruch-aus-dem-ersten-weltkrieg-2609-213252.html",
+      "publishedAt": "2026-09-20T12:48:02.000Z"
     },
     {
-      "id": "n_b1abf54490",
+      "id": "n_0e226e3477",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: IT-Jobs in Verwaltung, Forschung und Gesundheitswesen",
-      "summary": "Von Anwendungsadministration bis Business Intelligence: Aktuell sind sechs vielseitige IT-Positionen im Angebot. (Golem Karrierewelt, Unternehmenssoftware)",
+      "headline": "Anzeige: Beliebter LAN-Splitter mit zwei GBit-Ports für unter 10 Euro bei Amazon",
+      "summary": "Nirgendwo günstiger: meistverkaufter 1-auf-2-LAN-Splitter bei Amazon mit Gigabit-Ports für unter 10 Euro. (TP-Link, Amazon)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-it-jobs-in-verwaltung-forschung-und-gesundheitswesen-2609-213189.html",
-      "publishedAt": "2026-09-20T05:00:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-beliebter-lan-splitter-mit-zwei-gbit-ports-fuer-unter-10-euro-bei-amazon-2609-213223.html",
+      "publishedAt": "2026-09-20T11:40:01.000Z"
     },
     {
-      "id": "n_57334ff25f",
+      "id": "n_7bcf0f8d5e",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Ninja Woodfire Deal: Elektrischer BBQ Smoker zum Amazon-Jahrestiefstpreis",
-      "summary": "Der Ninja Woodfire Pro Connect XL vereint Grillen, Smoken und Heißluftfrittieren. Nur noch bis morgen bietet Amazon den vielseitigen Outdoor-Grill zum aktuellen Jahrestiefstpreis an. (Technik/Hardware)",
+      "headline": "13 Prozent weniger Lohn: KI macht Absolventen den Jobstart schwer",
+      "summary": "Eine US-Studie zeigt: Wer ein Fach studiert hat, in dem KI stark zum Einsatz kommt, verdient im ersten Job deutlich weniger. (Gehalt, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-ninja-woodfire-deal-elektrischer-bbq-smoker-zum-amazon-jahrestiefstpreis-2609-213215.html",
-      "publishedAt": "2026-09-19T11:40:02.000Z"
+      "url": "https://www.golem.de/news/13-prozent-weniger-lohn-ki-macht-absolventen-den-jobstart-schwer-2609-213251.html",
+      "publishedAt": "2026-09-20T11:27:02.000Z"
     },
     {
-      "id": "n_9510833838",
+      "id": "n_47f2a4a446",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "US-Flugaufsichtsbehörde: FAA setzt KI-System für Flugsicherung ein",
-      "summary": "Vertreter von Fluggesellschaften sehen starke Verbesserungsmöglichkeiten für den Flugverkehr, wenn das KI-System funktioniert wie vorgesehen. (KI, Flugzeug)",
+      "headline": "Gegen hohe Spritpreise: Neuer Tankrabatt wird als Gießkannenlösung kritisiert",
+      "summary": "Die Reaktionen auf den geplanten Tankrabatt fallen höchst unterschiedlich aus. Befürworter sind begeistert, Kritiker entsetzt. (Auto, Verbraucherschutz)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/us-flugaufsichtsbehoerde-faa-setzt-ki-system-fuer-flugsicherung-ein-2609-213244.html",
-      "publishedAt": "2026-09-19T10:50:01.000Z"
+      "url": "https://www.golem.de/news/gegen-hohe-spritpreise-neuer-tankrabatt-wird-als-giesskannenloesung-kritisiert-2609-213250.html",
+      "publishedAt": "2026-09-20T10:32:01.000Z"
     },
     {
-      "id": "n_caa9b21449",
+      "id": "n_9e8c9cc055",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Hohe Spritpreise: Tankrabatt kehrt zurück, Preisdeckel ab 2027 geplant",
-      "summary": "Bund und Länder haben sich auf ein Paket gegen hohe Spritpreise geeinigt. Ab Oktober kommt der Tankrabatt zurück, 2027 soll eine Preisobergrenze folgen. (Auto, Elektromobilität)",
+      "headline": "Optimismus gefordert: Baustellen und KI-Entwicklung begeistern Telekom-Chef Höttges",
+      "summary": "Telekom-Chef Tim Höttges ärgert sich über zu viel Pessimismus. Jede Baustelle sei ein positives Zeichen und KI sei ein großes \"Geschenk\". (Timotheus Höttges, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/hohe-spritpreise-tankrabatt-kehrt-zurueck-preisdeckel-ab-2027-geplant-2609-213243.html",
-      "publishedAt": "2026-09-19T10:31:02.000Z"
+      "url": "https://www.golem.de/news/optimismus-gefordert-baustellen-und-ki-entwicklung-begeistern-telekom-chef-hoettges-2609-213249.html",
+      "publishedAt": "2026-09-20T10:03:02.000Z"
     },
     {
-      "id": "n_f0ebcf0590",
+      "id": "n_d78a9dcb6d",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Luftfahrt: Joby fliegt erstmals vollautonom quer durch die USA",
-      "summary": "Joby Aviation meldet den ersten komplett autonomen Flug über den gesamten amerikanischen Kontinent, inklusive Schlechtwetterumfliegung. (Flugzeug, Luftfahrt)",
+      "headline": "Kettenhemd statt Katze: KI hat gravierende Schwächen beim Erkennen von Formen",
+      "summary": "Moderne KI kann selbst einfachste Umrisse von Objekten nicht erkennen. Eine Katze wird als Kreuzworträtsel oder Kettenhemd erkannt. (KI, Wissenschaft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/luftfahrt-joby-fliegt-erstmals-vollautonom-quer-durch-die-usa-2609-213242.html",
-      "publishedAt": "2026-09-19T10:10:02.000Z"
+      "url": "https://www.golem.de/news/kettenhemd-statt-katze-ki-hat-gravierende-schwaechen-beim-erkennen-von-formen-2609-213248.html",
+      "publishedAt": "2026-09-20T09:38:01.000Z"
     },
     {
-      "id": "n_6c84c73eab",
+      "id": "n_f25e8096e6",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Google bestätigt: KI-Modell Gemini knackt drei echte Firmen",
-      "summary": "Bei einem Sicherheitstest sollte Googles KI eigentlich nur fiktive Firmen angreifen. Stattdessen ist sie bei drei echten Unternehmen eingebrochen. (Gemini, Google)",
+      "headline": "KI-Kontroverse: Trump setzt trotz Warnungen vor Gefahren noch stärker auf KI",
+      "summary": "Führende Köpfe der KI-Branche verlangen eine Verlangsamung bei der KI-Entwicklung und warnen vor Kontrollverlust. Donald Trump ist das egal. (Donald Trump, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/google-bestaetigt-ki-modell-gemini-knackt-drei-echte-firmen-2609-213241.html",
-      "publishedAt": "2026-09-19T09:48:02.000Z"
+      "url": "https://www.golem.de/news/ki-kontroverse-trump-setzt-trotz-warnungen-vor-gefahren-noch-staerker-auf-ki-2609-213247.html",
+      "publishedAt": "2026-09-20T09:16:02.000Z"
     },
     {
-      "id": "n_026de9d521",
+      "id": "n_04dc93f322",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "US-Militär: Fehlerhafter KI-Bericht löst beinahe Militärschlag aus",
-      "summary": "Das US-Militär bereitete bereits eine Abfangaktion gegen ein chinesisches Schiff vor, als der KI-Fehler auffiel. (KI, Politik)",
+      "headline": "Solarstrom: Verband fordert Batteriespeicher an 1.300 Umspannwerken",
+      "summary": "Mit mehr Batteriespeichern sollen 150 Gigawatt zusätzliche Photovoltaikleistung erzeugt werden. Davon sollen alle Stromkunden profitieren. (Solarenergie, Umweltschutz)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/us-militaer-fehlerhafter-ki-bericht-loest-beinahe-militaerschlag-aus-2609-213240.html",
-      "publishedAt": "2026-09-19T09:26:01.000Z"
+      "url": "https://www.golem.de/news/solarstrom-verband-fordert-batteriespeicher-an-1-300-umspannwerken-2609-213246.html",
+      "publishedAt": "2026-09-20T08:52:02.000Z"
+    },
+    {
+      "id": "n_c346ef593f",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "German Chancellor Merz vows to stay on despite 'disaster' in state election",
+      "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T17:45:25.000Z"
+    },
+    {
+      "id": "n_9b7cadaecb",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump says triumphal arch will be military complex with drones and snipers",
+      "summary": "Trump said the updated plans were at the request of the US military and for national security purposes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T16:36:43.000Z"
     },
     {
       "id": "n_69290ccbb1",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
-      "summary": "An oil refinery was also reportedly hit in Moscow, and flights were suspended at two capital airports.",
+      "headline": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+      "summary": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-20T07:22:04.000Z"
+      "publishedAt": "2026-09-20T10:45:39.000Z"
     },
     {
       "id": "n_175f5edb3d",
@@ -325,27 +347,16 @@
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Cultural treasures are being destroyed by war, and people want justice",
+      "headline": "Cultural treasures are being destroyed worldwide - so why is no-one being punished?",
       "summary": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-19T23:18:18.000Z"
     },
     {
-      "id": "n_ee59d8e851",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Mum's viral barefoot race sparks debate over India's education crisis",
-      "summary": "Unprepared and in flip-flops, the 47-year-old widow ran 3km to try to secure her daughter's future.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T23:18:06.000Z"
-    },
-    {
       "id": "n_5f141d9471",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
       "headline": "Not all AI workers think the tech could kill everyone",
       "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
@@ -431,6 +442,39 @@
       "publishedAt": "2026-09-17T08:22:12.000Z"
     },
     {
+      "id": "n_2fab1312f6",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+      "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+      "publishedAt": "2026-09-20T11:07:00.000Z"
+    },
+    {
+      "id": "n_6449f8efc3",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Don't call it an SUV: The Ferrari Purosangue review",
+      "summary": "Unlike previous Ferrari four-seaters, this one is better for humans than cargo.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/",
+      "publishedAt": "2026-09-20T10:00:02.000Z"
+    },
+    {
+      "id": "n_130f9eb678",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "T. rex teeth indicate it ran as warm as an elephant",
+      "summary": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
+      "publishedAt": "2026-09-20T09:00:11.000Z"
+    },
+    {
       "id": "n_a24483b59f",
       "type": "news",
       "topic": "tech",
@@ -486,37 +530,15 @@
       "publishedAt": "2026-09-18T17:57:41.000Z"
     },
     {
-      "id": "n_d781200a2b",
+      "id": "n_c7ec387f95",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Finding the cells that put our brain to sleep",
-      "summary": "Rare cells with widespread connectivity seem to be able to trigger sleep.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
-      "publishedAt": "2026-09-18T17:49:50.000Z"
-    },
-    {
-      "id": "n_26bd35d9b3",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "US government website used Chinese model the FBI called \"malicious\"",
-      "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
-      "publishedAt": "2026-09-18T17:28:50.000Z"
-    },
-    {
-      "id": "n_161acfd6fd",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Meet the winner of Nikon's Small World in Motion video contest",
-      "summary": "Ning Xu of Tsinghua University captured tiny cilia beating in airways of a child with rare respiratory disorder.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
-      "publishedAt": "2026-09-18T13:56:57.000Z"
+      "headline": "6 days left to get ahead at TechCrunch Disrupt 2026",
+      "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-09-20T14:00:00.000Z"
     },
     {
       "id": "n_2c088408c2",
@@ -579,7 +601,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "Prices go up in 7 days. Get your Disrupt ticket now.",
-      "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+      "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
       "publishedAt": "2026-09-19T14:00:00.000Z"
@@ -596,15 +618,26 @@
       "publishedAt": "2026-09-19T13:00:00.000Z"
     },
     {
-      "id": "n_a193c15e98",
+      "id": "n_ba91ca5849",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "India forces caller-ID apps to feed spam reports to telcos",
-      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "publishedAt": "2026-09-19T01:00:00.000Z"
+      "headline": "Trump now says he wants to form an ‘AI Force’",
+      "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administratio",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "publishedAt": "2026-09-20T15:39:22.000Z"
+    },
+    {
+      "id": "n_d11b689309",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshu",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "publishedAt": "2026-09-20T12:00:00.000Z"
     },
     {
       "id": "n_607ffaad2d",
@@ -671,28 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
       "publishedAt": "2026-09-18T18:29:17.000Z"
-    },
-    {
-      "id": "n_2de2edcf5a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Gavin Newsom is pushing for an AI kill switch",
-      "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will d",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-      "publishedAt": "2026-09-18T17:04:51.000Z"
-    },
-    {
-      "id": "n_e5380fced9",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "What Hollywood thinks about existential AI warnings",
-      "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as we",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-      "publishedAt": "2026-09-18T16:35:19.000Z"
     },
     {
       "id": "n_193c8bfab5",
@@ -783,6 +794,28 @@
       "publishedAt": "2026-09-09T03:10:08.000Z"
     },
     {
+      "id": "n_8225d45909",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Meta's Muse Is Better at Surveilling Than Helping Me",
+      "summary": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+      "publishedAt": "2026-09-20T10:30:00.000Z"
+    },
+    {
+      "id": "n_a8e1d08f5e",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "It’s Donald Trump Versus MAGA on Data Centers",
+      "summary": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+      "publishedAt": "2026-09-20T10:30:00.000Z"
+    },
+    {
       "id": "n_0e6162939d",
       "type": "news",
       "topic": "ai",
@@ -847,28 +880,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
       "publishedAt": "2026-09-18T15:00:00.000Z"
-    },
-    {
-      "id": "n_4e0596c90e",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
-      "summary": "The satirical collaboration between a creative studio and the music producer behind Big Data, “Bezzy” is a cute little doll that spews the sounds of real data centers.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/",
-      "publishedAt": "2026-09-18T13:30:00.000Z"
-    },
-    {
-      "id": "n_3a33fe1527",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The Leftist Split Over AI Doom",
-      "summary": "The left wants AI regulation. They just can’t agree on what it should look like or how concerned they should be.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
-      "publishedAt": "2026-09-18T10:15:00.000Z"
     },
     {
       "id": "n_16a7b27ed0",
