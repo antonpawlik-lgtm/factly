@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-09-19T22:32:50.768Z",
+  "generatedAt": "2026-09-20T01:59:31.885Z",
   "items": [
+    {
+      "id": "n_1dd6993230",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "US-Medien kritisierten Trumps Hausverbot als rechtswidrigen Angriff auf die Pressefreiheit",
+      "summary": "Der Hausausweis abgenommen, der Zutritt zum Weißen Haus verwehrt: Die Entscheidung des US-Präsidenten, Journalisten von CNN, MS NOW und Politico den Zutritt zu verwehren, stößt auf breite Kritik. Viele sehen die Pressefreiheit in Gefahr.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-104.html",
+      "publishedAt": "2026-09-20T01:55:19.000Z"
+    },
+    {
+      "id": "n_eac5496610",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Unzufriedenheit mit Senat erreicht neuen Höchststand",
+      "summary": "Vor der Wahl zum Berliner Abgeordnetenhaus ist laut Infratest Dimap nur noch jeder Fünfte mit der Arbeit des Senats zufrieden. Damit ist die Landesregierung in Berlin so unbeliebt wie zuletzt keine andere in Deutschland vor einer Wahl.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-landtageswahlen-vorwahlumfrage-100.html",
+      "publishedAt": "2026-09-19T23:11:09.000Z"
+    },
+    {
+      "id": "n_0716727a94",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Huthi-Miliz reklamiert Angriffe in Saudi-Arabien für sich",
+      "summary": "Die Huthi-Miliz im Jemen hat die jüngsten Angriffe auf Ziele in Saudi-Arabien für sich reklamiert. Zuvor hatten Anwohner in Riad von Explosionen und einer Rauchsäule nahe dem internationalen Flughafen berichtet.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/riad-angriffe-huthis-100.html",
+      "publishedAt": "2026-09-19T23:10:56.000Z"
+    },
     {
       "id": "n_10e5f80723",
       "type": "news",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/trump-presse-weisses-haus-102.html",
       "publishedAt": "2026-09-19T15:53:33.000Z"
-    },
-    {
-      "id": "n_7a528df024",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Krankenkassen sollen doch über Beitragsanhebung informieren müssen",
-      "summary": "Gesundheitsminister Linnemann will das Aus der Informationspflicht für gesetzliche Krankenkassen über Beitragserhöhungen wieder rückgängig machen. Vor allem Verbraucherschützer hatten die Abschaffung der Pflicht scharf kritisiert.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/linnemann-krankenkassen-informationspflicht-beitraege-100.html",
-      "publishedAt": "2026-09-19T15:46:45.000Z"
-    },
-    {
-      "id": "n_dafca369ce",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "USA: Trump setzt neues Sanktionspaket gegen Russland in Kraft",
-      "summary": "Einreiseverbote, Strafzölle und eingefrorene Vermögen: US-Präsident Trump hat verschärfte Sanktionen gegen Russland mit seiner Unterschrift in Kraft gesetzt. Eine scharfe Reaktion aus Russland folgte prompt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-trump-russland-sanktionen-100.html",
-      "publishedAt": "2026-09-19T14:52:46.000Z"
-    },
-    {
-      "id": "n_31da633177",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Auch Googles KI hackte Unternehmen",
-      "summary": "Wiederholt haben KI-Systeme bei Tests unerwartet auf fremde Systeme zugegriffen. Nun wurden solche Vorfälle auch bei Googles Gemini bekannt. In der Debatte um KI-Sicherheit lässt Kalifornien mögliche strengere Sicherheitsvorgaben prüfen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/ki-google-cyberattacke-100.html",
-      "publishedAt": "2026-09-19T13:09:00.000Z"
     },
     {
       "id": "n_7a546af16e",
@@ -266,15 +266,15 @@
       "publishedAt": "2026-09-19T08:40:01.000Z"
     },
     {
-      "id": "n_f2c909c537",
+      "id": "n_b3c7a8b567",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-      "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+      "headline": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+      "summary": "The mega-star spoke about the issue and about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour and other artists dropped out.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T21:01:56.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T01:38:30.000Z"
     },
     {
       "id": "n_dbf103d247",
@@ -285,62 +285,62 @@
       "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T20:16:07.000Z"
+      "publishedAt": "2026-09-19T23:49:26.000Z"
     },
     {
-      "id": "n_d6f8469153",
+      "id": "n_d20716fa94",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Journalists denied White House access after Trump banned some media outlets",
-      "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
+      "headline": "Cultural treasures are being destroyed by war, and people want justice",
+      "summary": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T19:13:49.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T23:18:18.000Z"
     },
     {
-      "id": "n_5d93fc190c",
+      "id": "n_ee59d8e851",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Converse pulls 'deeply upsetting' advert after backlash",
-      "summary": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
+      "headline": "Mum's viral barefoot race sparks debate over India's education crisis",
+      "summary": "Unprepared and in flip-flops, the 47-year-old widow ran 3km to try secure her daughter's future.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T14:05:01.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T23:18:06.000Z"
     },
     {
-      "id": "n_9eee1724b3",
+      "id": "n_5f141d9471",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Google's Gemini AI hacked three companies in security test",
-      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "headline": "Not all AI workers think the tech could kill everyone",
+      "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T13:39:32.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T23:01:57.000Z"
     },
     {
-      "id": "n_c44ae18d6a",
+      "id": "n_9199984627",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "'Enough is enough': Women protest after string of murders near Johannesburg",
-      "summary": "The police have since set up a task team to investigate the murders and have urged women in the Kempton Park area to avoid walking or running alone \"particularly in isolated areas\".",
+      "headline": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+      "summary": "The children of key politicians jailed 25 years ago without a trace in Eritrea want answers.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T11:50:50.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T23:01:45.000Z"
     },
     {
-      "id": "n_dda46dc247",
+      "id": "n_bde67e703b",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Shark attack prompts rare kill order in Western Australia as victim named",
-      "summary": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
+      "headline": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+      "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T11:50:22.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T23:01:38.000Z"
     },
     {
       "id": "n_7ffe8b5c74",
@@ -351,7 +351,18 @@
       "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T11:36:55.000Z"
+      "publishedAt": "2026-09-19T23:00:27.000Z"
+    },
+    {
+      "id": "n_9eee1724b3",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Google's Gemini AI hacked three companies in security test",
+      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-19T13:39:32.000Z"
     },
     {
       "id": "n_6715238f50",
@@ -418,17 +429,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-17T08:22:12.000Z"
-    },
-    {
-      "id": "n_2c1c4f48ae",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Snapchat open to putting time limits on teens, boss tells BBC",
-      "summary": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T23:41:57.000Z"
     },
     {
       "id": "n_a24483b59f",
@@ -957,186 +957,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/train-to-paint-with-code",
       "publishedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "n_0c3e7fe15b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek’s Insane New Architecture",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
-      "thumbnail": "https://i.ytimg.com/vi/vIHw_2VjSUw/hqdefault.jpg",
-      "publishedAt": "2026-09-18T07:03:46.000Z"
-    },
-    {
-      "id": "n_281ff94730",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
-      "thumbnail": "https://i.ytimg.com/vi/YoEWjZSwoys/hqdefault.jpg",
-      "publishedAt": "2026-09-15T10:12:34.000Z"
-    },
-    {
-      "id": "n_9818ebd3c2",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "I Never Thought I’d See This Happen",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=mOvtumfyjCs",
-      "thumbnail": "https://i.ytimg.com/vi/mOvtumfyjCs/hqdefault.jpg",
-      "publishedAt": "2026-09-10T08:47:23.000Z"
-    },
-    {
-      "id": "n_ff7563162b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "GPT-6 Astra Changes Everything",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
-      "thumbnail": "https://i.ytimg.com/vi/eVBJIUxv8N8/hqdefault.jpg",
-      "publishedAt": "2026-09-08T08:24:27.000Z"
-    },
-    {
-      "id": "n_c21d60498a",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
-      "publishedAt": "2026-09-17T00:34:47.000Z"
-    },
-    {
-      "id": "n_ffdb3dfd14",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
-      "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_6a18d8c315",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
-      "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
-      "publishedAt": "2026-08-12T12:57:24.000Z"
-    },
-    {
-      "id": "n_49a7d5405f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
-      "publishedAt": "2026-07-28T20:02:11.000Z"
-    },
-    {
-      "id": "n_cadb3dcc5b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did Google just kickstart the intelligence explosion?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=LoLYw--s-5w",
-      "thumbnail": "https://i.ytimg.com/vi/LoLYw--s-5w/hqdefault.jpg",
-      "publishedAt": "2026-09-17T20:33:55.000Z"
-    },
-    {
-      "id": "n_cc834c01a4",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Anthropic researchers are quitting... and now we know why",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=7r4ikZHm9AI",
-      "thumbnail": "https://i.ytimg.com/vi/7r4ikZHm9AI/hqdefault.jpg",
-      "publishedAt": "2026-09-15T17:45:39.000Z"
-    },
-    {
-      "id": "n_b60358e991",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI's biggest math breakthrough is getting ugly...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=aspmNhKAFMc",
-      "thumbnail": "https://i.ytimg.com/vi/aspmNhKAFMc/hqdefault.jpg",
-      "publishedAt": "2026-09-11T17:24:40.000Z"
-    },
-    {
-      "id": "n_d0ecbe4c7e",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "I built the same game with Astra and Fable 5.1... only one was fun",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=2Xiljy4xzbc",
-      "thumbnail": "https://i.ytimg.com/vi/2Xiljy4xzbc/hqdefault.jpg",
-      "publishedAt": "2026-09-09T16:34:27.000Z"
-    },
-    {
-      "id": "n_1780436ac8",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "iPhone 18 Pro Review: All About that Chip",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=ohqxP8EEumo",
-      "thumbnail": "https://i.ytimg.com/vi/ohqxP8EEumo/hqdefault.jpg",
-      "publishedAt": "2026-09-16T12:01:27.000Z"
-    },
-    {
-      "id": "n_81872e96d1",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "iPhone Duo: What We Missed!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=6D__H_DO2Xk",
-      "thumbnail": "https://i.ytimg.com/vi/6D__H_DO2Xk/hqdefault.jpg",
-      "publishedAt": "2026-09-12T21:36:57.000Z"
-    },
-    {
-      "id": "n_49c5442701",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "iPhone 18 Pro/Duo Impressions: Mogged",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=Od6M0AXpcxQ",
-      "thumbnail": "https://i.ytimg.com/vi/Od6M0AXpcxQ/hqdefault.jpg",
-      "publishedAt": "2026-09-10T07:29:55.000Z"
     }
   ]
 }
