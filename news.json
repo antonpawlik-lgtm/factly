@@ -1,93 +1,104 @@
 {
-  "generatedAt": "2026-09-20T17:45:51.381Z",
+  "generatedAt": "2026-09-21T02:00:47.532Z",
   "items": [
     {
       "id": "n_86ee248709",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "++ Liveticker zur Berlin-Wahl: Berliner Grüne für Koalition mit Linken und SPD ++",
-      "summary": "Die Grünen streben nach der Wahl zum Berliner Abgeordnetenhaus eine rot-grün-rote Koalition an. Bundeskanzler Merz erklärt, weiter an Reformen arbeiten zu wollen - und macht klar, dass er Kanzler bleiben will.",
+      "headline": "++ Liveblog zur Berlin-Wahl: Giffey nicht mehr im Abgeordnetenhaus ++",
+      "summary": "Die frühere Regierende Bürgermeisterin Giffey wird dem neuen Abgeordnetenhaus nicht mehr angehören. In der aktuellen Hochrechnung fällt das BSW unter die Fünf-Prozent-Hürde - Schwarz-Grün-Rot wäre wieder möglich.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/newsticker/liveblog-berlin-wahl-2026-100.html",
-      "publishedAt": "2026-09-20T17:42:20.000Z"
+      "publishedAt": "2026-09-21T00:31:52.000Z"
     },
     {
       "id": "n_1282ebb23e",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: FDP-Landeschef zieht Konsequenzen ++",
-      "summary": "Die FDP liegt laut Hochrechnung bei einem Prozent der Stimmen und fliegt damit aus dem Landtag. Landeschef Domke will persönliche Konsequenzen ziehen. CDU-Spitzenkandidat Peters begründet das desaströse Ergebnis seiner Partei in dem \"hochpolarisierten Wahlkampf\".",
+      "headline": "++ Liveticker zur Mecklenburg-Vorpommern-Wahl: Schwesig verteidigt Direktmandat ++",
+      "summary": "Ministerpräsidentin Schwesig hat erneut das Direktmandat in ihrem Wahlkreis gewonnen und sich damit gegen den AfD-Kandidaten Holm durchgesetzt. Das BSW zeigt sich enttäuscht über den knapp verpassten Einzug in den Landtag.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-mecklenburg-vorpommern-100.html",
-      "publishedAt": "2026-09-20T17:40:10.000Z"
+      "publishedAt": "2026-09-21T00:28:23.000Z"
+    },
+    {
+      "id": "n_b501e6284c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Analyse zur Wahl: Warum die Linke in Berlin so erfolgreich war",
+      "summary": "Die Linke hat dank einer Altersgruppe in Berlin gewonnen und aufs richtige Thema gesetzt, das zeigen Umfragen. Für die AfD ist dort manches anders als in anderen Bundesländern. Und alle Parteien hatten ziemlich unbekannte Kandidaten. Von H. Schwesinger.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/analyse-abgeordnetenhauswahl-berlin-100.html",
+      "publishedAt": "2026-09-20T22:29:07.000Z"
+    },
+    {
+      "id": "n_2fa2e2dbe9",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Berlin: Karte mit den Ergebnissen der Abgeordnetenhauswahl 2026",
+      "summary": "Wer liegt in welchen Wahlkreisen, Bezirken und Wahlbezirken vorne? Welche Partei hat wo ihre Hochburgen? Die interaktive Karte zeigt detaillierte Ergebnisse der Abgeordnetenhauswahl 2026 in Berlin.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/wahlkreiskarte-abgeordnetenhaus-berlin-2026-100.html",
+      "publishedAt": "2026-09-20T21:25:25.000Z"
+    },
+    {
+      "id": "n_877b221d45",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Analyse: Warum die SPD in Mecklenburg-Vorpommern hinter der AfD liegt",
+      "summary": "Warum gelang Ministerpräsidentin Schwesig mit dem Slogan \"Frau gegen Blau\" eine Aufholjagd? Warum lag die AfD trotzdem vorne? Umfragen von infratest dimap liefern dazu ebenso Erklärungen wie ein Detail, das die CDU alarmieren muss. Von H. Schwesinger.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/analyse-landtagswahl-mecklenburg-vorpommern-100.html",
+      "publishedAt": "2026-09-20T21:21:39.000Z"
     },
     {
       "id": "n_47ea663dbd",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Nach Landtagswahlen: Merz will an Reformkurs festhalten",
-      "summary": "Bundeskanzler Merz hat sich zum Wahlausgang in Berlin und Mecklenburg-Vorpommern geäußert. Er bekräftigte, die aus seiner Sicht notwendigen Reformen durchsetzen zu wollen. Vizekanzler Klingbeil von der SPD äußerte sich jedoch kritischer.",
+      "headline": "Nach Landtagswahlen: Zwischen Desaster und Jubel",
+      "summary": "Kanzler Merz hat nach den Wahlen bekräftigt, die aus seiner Sicht nötigen Reformen durchsetzen zu wollen. Vizekanzler Klingbeil von der SPD räumte ein, das Thema Rente habe zu \"großer Verunsicherung\" geführt. Die AfD sieht sich erneut gestärkt.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-wahlen-mecklenburg-vorpommern-berlin-100.html",
-      "publishedAt": "2026-09-20T17:38:59.000Z"
+      "publishedAt": "2026-09-20T21:03:42.000Z"
     },
     {
-      "id": "n_d297d74473",
+      "id": "n_1d250bc9a4",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Abgeordnetenhaus Berlin: Wichtigste Umfragen im Überblick",
-      "summary": "In Berlin ist ein weiteres knappes Rennen um das Rote Rathaus zu Ende gegangen. Was sind die Hauptgründe für das Ergebnis? Eine Erklärung in Umfragegrafiken von infratest dimap.",
+      "headline": "Mecklenburg-Vorpommern: Wahlkarte zur Landtagswahl 2026",
+      "summary": "Wer liegt in welchen Wahlkreisen und Gemeinden vorne? Welche Partei hat wo ihre Hochburgen? Die interaktive Karte zeigt detaillierte Ergebnisse der Landtagswahl 2026 in Mecklenburg-Vorpommern.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/umfragen-wichtigstes-abgeordnetenhaus-berlin-2026-100.html",
-      "publishedAt": "2026-09-20T16:16:19.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/wahlkreiskarte-ltw-mecklenburg-vorpommern-2026-100.html",
+      "publishedAt": "2026-09-20T20:23:11.000Z"
     },
     {
-      "id": "n_6887580987",
+      "id": "n_bfc69e576f",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Mecklenburg-Vorpommern: Wichtigste Umfragen im Überblick",
-      "summary": "Die Landtagswahl hat die politische Landschaft im Nordosten massiv verändert. Was sind die Hauptgründe für dieses Ergebnis? Eine Erklärung in Umfrage-Grafiken von infratest dimap.",
+      "headline": "Russland: Kremlpartei liegt bei Duma-Wahl vorne - wie erwartet",
+      "summary": "Russland hat erstmals seit Beginn des Kriegs gegen die Ukraine ein neues Parlament gewählt. Laut Hochrechnungen gewann erwartungsgemäß die Kremlpartei Geeintes Russland. Unregelmäßigkeiten überschatteten die Wahl.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/umfragen-wichtigstes-ltw-mecklenburg-vorpommern-2026-100.html",
-      "publishedAt": "2026-09-20T16:12:56.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/wahlen-russland-148.html",
+      "publishedAt": "2026-09-20T20:03:02.000Z"
     },
     {
-      "id": "n_6f91943bc7",
+      "id": "n_3928cd6f2e",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Wählerwanderung in Berlin - wer holte Stimmen von wem?",
-      "summary": "Wer bekam besonders viele Stimmen von früheren Nichtwählern? Woher kamen die Zugewinne etwa der AfD und Linkspartei? Und an wen gab andere Parteien Stimmen ab? Die Wählerwanderung auf Basis der Zahlen von infratest dimap.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/waehlerwanderung-abgeordnetenhaus-berlin-2026-100.html",
-      "publishedAt": "2026-09-20T16:10:02.000Z"
-    },
-    {
-      "id": "n_6047a99f29",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wählerwanderung: Wer in Mecklenburg-Vorpommern wo Stimmen holte",
-      "summary": "Woher kommen die Zugewinne der AfD? Von welchen Parteien wandten sich frühere Wählerinnen und Wähler ab? Und wem gaben sie diesmal ihre Stimme? Die Wählerwanderung auf Basis der Zahlen von infratest dimap.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/waehlerwanderung-ltw-mecklenburg-vorpommern-2026-100.html",
-      "publishedAt": "2026-09-20T16:08:05.000Z"
-    },
-    {
-      "id": "n_6b928b7ee6",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "So wählten die Bevölkerungsgruppen in Berlin",
-      "summary": "Wie stark unterscheidet sich das Wahlverhalten zwischen Jüngeren und Älteren, zwischen Männern und Frauen in Berlin? So schnitten die Parteien in den verschiedenen Bevölkerungsgruppen ab.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/wahlverhalten-abgeordnetenhauswahl-berlin-2026-102.html",
-      "publishedAt": "2026-09-20T16:05:44.000Z"
+      "headline": "UN-Bericht: Veraltete Zieldaten führten zu US-Angriff auf iranische Schule",
+      "summary": "Die UN sieht im US-Angriff auf eine Schule im Iran ein Kriegsverbrechen. Veraltete Zieldaten belasten dabei das US-Militär. Palantir rückt erneut in den Fokus.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/UN-Veraltete-Zieldaten-fuer-US-Angriff-auf-iranische-Schule-verantwortlich-11459443.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-20T19:12:00.000Z"
     },
     {
       "id": "n_a1d795cef4",
@@ -165,17 +176,6 @@
       "source": "heise online",
       "url": "https://www.heise.de/news/Lucid-und-Bolt-planen-25-000-Robotaxis-fuer-Europa-11458433.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
       "publishedAt": "2026-09-18T13:35:00.000Z"
-    },
-    {
-      "id": "n_6f6645bccb",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Aerosol-Jet-3D-Drucker druckt elektronische Schaltkreise auf 3D-Objekte",
-      "summary": "Wissenschaftler drucken elektronische Schaltungen direkt auf 3D-Objekte. Möglich machen soll das ein Aerosol-Jet-3D-Drucker und spezielle Tinte.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Aerosol-Jet-3D-Drucker-druckt-elektronische-Schaltkreise-auf-3D-Objekte-11458027.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-18T08:49:00.000Z"
     },
     {
       "id": "n_6dc4a4d01d",
@@ -266,15 +266,37 @@
       "publishedAt": "2026-09-20T08:52:02.000Z"
     },
     {
+      "id": "n_2ba89fba34",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+      "summary": "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T21:17:22.000Z"
+    },
+    {
       "id": "n_c346ef593f",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "German Chancellor Merz vows to stay on despite 'disaster' in state election",
-      "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+      "headline": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-20T17:45:25.000Z"
+      "publishedAt": "2026-09-20T20:21:40.000Z"
+    },
+    {
+      "id": "n_00f9db2057",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Sister of Pakistan's ex-PM Imran Khan arrested",
+      "summary": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-20T19:04:11.000Z"
     },
     {
       "id": "n_9b7cadaecb",
@@ -330,28 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/ckd68l9g0gy5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-20T02:45:43.000Z"
-    },
-    {
-      "id": "n_dbf103d247",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T23:49:26.000Z"
-    },
-    {
-      "id": "n_d20716fa94",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Cultural treasures are being destroyed worldwide - so why is no-one being punished?",
-      "summary": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T23:18:18.000Z"
     },
     {
       "id": "n_5f141d9471",
@@ -534,11 +534,55 @@
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "6 days left to get ahead at TechCrunch Disrupt 2026",
+      "headline": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
       "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-20T14:00:00.000Z"
+      "publishedAt": "2026-09-20T21:41:08.000Z"
+    },
+    {
+      "id": "n_7bd628cf38",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "World model companies are keeping a lot of secrets",
+      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "publishedAt": "2026-09-20T20:29:07.000Z"
+    },
+    {
+      "id": "n_9515eed3cd",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Is the AI industry really ready to slow down?",
+      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "publishedAt": "2026-09-20T18:56:04.000Z"
+    },
+    {
+      "id": "n_71efe47bc5",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "publishedAt": "2026-09-20T18:32:52.000Z"
+    },
+    {
+      "id": "n_c1355961d6",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "ScrollEd wants to turn textbooks into TikTok",
+      "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "publishedAt": "2026-09-20T18:00:00.000Z"
     },
     {
       "id": "n_2c088408c2",
@@ -574,48 +618,15 @@
       "publishedAt": "2026-09-19T17:30:00.000Z"
     },
     {
-      "id": "n_9973ec65aa",
+      "id": "n_cb03d7f13b",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-      "publishedAt": "2026-09-19T15:00:00.000Z"
-    },
-    {
-      "id": "n_fe6a92ce81",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI safety conversations have gotten unbelievable",
-      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "publishedAt": "2026-09-19T15:00:00.000Z"
-    },
-    {
-      "id": "n_e9d1d908f3",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Prices go up in 7 days. Get your Disrupt ticket now.",
-      "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-      "publishedAt": "2026-09-19T14:00:00.000Z"
-    },
-    {
-      "id": "n_17c3769d36",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "publishedAt": "2026-09-19T13:00:00.000Z"
+      "headline": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of t",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "publishedAt": "2026-09-20T18:50:18.000Z"
     },
     {
       "id": "n_ba91ca5849",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
       "publishedAt": "2026-09-18T21:07:24.000Z"
-    },
-    {
-      "id": "n_802486953d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Virginia governor creates an AI task force and moves to restrain data centers",
-      "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 ban",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-      "publishedAt": "2026-09-18T18:29:17.000Z"
     },
     {
       "id": "n_193c8bfab5",
@@ -968,186 +968,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/train-to-paint-with-code",
       "publishedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "n_0c3e7fe15b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek’s Insane New Architecture",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
-      "thumbnail": "https://i.ytimg.com/vi/vIHw_2VjSUw/hqdefault.jpg",
-      "publishedAt": "2026-09-18T07:03:46.000Z"
-    },
-    {
-      "id": "n_281ff94730",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
-      "thumbnail": "https://i.ytimg.com/vi/YoEWjZSwoys/hqdefault.jpg",
-      "publishedAt": "2026-09-15T10:12:34.000Z"
-    },
-    {
-      "id": "n_9818ebd3c2",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "I Never Thought I’d See This Happen",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=mOvtumfyjCs",
-      "thumbnail": "https://i.ytimg.com/vi/mOvtumfyjCs/hqdefault.jpg",
-      "publishedAt": "2026-09-10T08:47:23.000Z"
-    },
-    {
-      "id": "n_ff7563162b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "GPT-6 Astra Changes Everything",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
-      "thumbnail": "https://i.ytimg.com/vi/eVBJIUxv8N8/hqdefault.jpg",
-      "publishedAt": "2026-09-08T08:24:27.000Z"
-    },
-    {
-      "id": "n_c21d60498a",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
-      "publishedAt": "2026-09-17T00:34:47.000Z"
-    },
-    {
-      "id": "n_ffdb3dfd14",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
-      "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_6a18d8c315",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
-      "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
-      "publishedAt": "2026-08-12T12:57:24.000Z"
-    },
-    {
-      "id": "n_49a7d5405f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
-      "publishedAt": "2026-07-28T20:02:11.000Z"
-    },
-    {
-      "id": "n_cadb3dcc5b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did Google just kickstart the intelligence explosion?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=LoLYw--s-5w",
-      "thumbnail": "https://i.ytimg.com/vi/LoLYw--s-5w/hqdefault.jpg",
-      "publishedAt": "2026-09-17T20:33:55.000Z"
-    },
-    {
-      "id": "n_cc834c01a4",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Anthropic researchers are quitting... and now we know why",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=7r4ikZHm9AI",
-      "thumbnail": "https://i.ytimg.com/vi/7r4ikZHm9AI/hqdefault.jpg",
-      "publishedAt": "2026-09-15T17:45:39.000Z"
-    },
-    {
-      "id": "n_b60358e991",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI's biggest math breakthrough is getting ugly...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=aspmNhKAFMc",
-      "thumbnail": "https://i.ytimg.com/vi/aspmNhKAFMc/hqdefault.jpg",
-      "publishedAt": "2026-09-11T17:24:40.000Z"
-    },
-    {
-      "id": "n_d0ecbe4c7e",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "I built the same game with Astra and Fable 5.1... only one was fun",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=2Xiljy4xzbc",
-      "thumbnail": "https://i.ytimg.com/vi/2Xiljy4xzbc/hqdefault.jpg",
-      "publishedAt": "2026-09-09T16:34:27.000Z"
-    },
-    {
-      "id": "n_1780436ac8",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "iPhone 18 Pro Review: All About that Chip",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=ohqxP8EEumo",
-      "thumbnail": "https://i.ytimg.com/vi/ohqxP8EEumo/hqdefault.jpg",
-      "publishedAt": "2026-09-16T12:01:27.000Z"
-    },
-    {
-      "id": "n_81872e96d1",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "iPhone Duo: What We Missed!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=6D__H_DO2Xk",
-      "thumbnail": "https://i.ytimg.com/vi/6D__H_DO2Xk/hqdefault.jpg",
-      "publishedAt": "2026-09-12T21:36:57.000Z"
-    },
-    {
-      "id": "n_49c5442701",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "iPhone 18 Pro/Duo Impressions: Mogged",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=Od6M0AXpcxQ",
-      "thumbnail": "https://i.ytimg.com/vi/Od6M0AXpcxQ/hqdefault.jpg",
-      "publishedAt": "2026-09-10T07:29:55.000Z"
     }
   ]
 }
