@@ -1,13 +1,35 @@
 {
-  "generatedAt": "2026-09-23T18:42:31.407Z",
+  "generatedAt": "2026-09-23T23:15:53.282Z",
   "items": [
+    {
+      "id": "n_bd92a8d2ed",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "USA laden Russlands Präsidenten Putin zu G20-Gipfel ein",
+      "summary": "Vor sieben Jahren war Russlands Präsident Putin das letzte Mal persönlich bei einem G20-Gipfel. Nun haben die USA ihn nach Angaben von Außenminister Rubio nach Miami eingeladen. Die Aussicht auf eine Waffenruhe in der Ukraine bleibt aber vage.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/rubio-putin-russland-100.html",
+      "publishedAt": "2026-09-23T19:59:52.000Z"
+    },
+    {
+      "id": "n_d543ab775e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bundeskabinett beschließt Aktionsplan gegen Sozialmissbrauch",
+      "summary": "Die Bundesregierung hat einen Aktionsplan gegen Sozialmissbrauch beschlossen. Er zielt zum Beispiel auf Kriminelle, die Menschen in \"Schrottimmobilien\" unterbringen, für die das Jobcenter überhöhte Mieten zahlen soll. Von D. Pepping.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/aktionsplan-gegen-sozialmissbrauch-100.html",
+      "publishedAt": "2026-09-23T19:11:42.000Z"
+    },
     {
       "id": "n_76e530d1d3",
       "type": "news",
       "topic": "general",
       "lang": "de",
       "headline": "Iran wehrt sich vor UN gegen Trump-Drohungen",
-      "summary": "In einer eindrücklichen Rede vor den Vereinten Nationen hat Irans Präsident Peseschkian eine internationale Ordnung der \"Gewalttätigen\" beklagt - und sich gegen US-Präsident Trumps Drohungen gewehrt. Doch es wurde auch verhandelt.",
+      "summary": "In einer Rede vor den Vereinten Nationen hat Irans Präsident Peseschkian eine internationale Ordnung der \"Gewalttätigen\" beklagt - und sich gegen US-Präsident Trumps Drohungen gewehrt. Doch es wurde auch verhandelt.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/peseschkian-rede-un-100.html",
       "publishedAt": "2026-09-23T18:34:47.000Z"
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-iran-china-100.html",
       "publishedAt": "2026-09-23T16:00:34.000Z"
-    },
-    {
-      "id": "n_10ce336700",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Neuer Sender übernimmt: Niederlande nehmen wieder am ESC teil",
-      "summary": "Nach einem Jahr Abwesenheit wollen die Niederlande 2027 wieder beim Eurovision Song Contest mit dabei sein. Der öffentlich-rechtliche Rundfunk übernimmt vom bisherigen Sender. Ein erneuter Boykott wegen der Teilnahme Israels ist damit vom Tisch.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/esc-niederlande-boykott-102.html",
-      "publishedAt": "2026-09-23T15:44:34.000Z"
-    },
-    {
-      "id": "n_5de181830a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Große Staubwolke durch massiven Felssturz an der Zugspitze",
-      "summary": "Im Grenzgebiet zwischen Deutschland und Österreich hat es einen größeren Felssturz gegeben. Eine riesige Staubwolke hängt seitdem über Deutschlands höchstem Berg. Verletzt wurde nach Angaben der Bergwacht niemand.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/bayern/br-felssturz-zugspitze-100.html",
-      "publishedAt": "2026-09-23T14:27:45.000Z"
     },
     {
       "id": "n_aadce31b0e",
@@ -178,6 +178,17 @@
       "publishedAt": "2026-09-21T10:00:00.000Z"
     },
     {
+      "id": "n_465472ec43",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Für KI-Wearables: Neuer Snapdragon-Soundchip kommt mit besserer NPU",
+      "summary": "Der neue Snapdragon Sound Elite Gen 2 soll eine bis zu doppelt so starke KI-Leistung als der Vorgänger bringen. Gedacht ist er für Wearables, auch Smart Glasses. (Snapdragon Summit 2026, KI)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/fuer-ki-wearables-neuer-snapdragon-soundchip-kommt-mit-besserer-npu-2609-213342.html",
+      "publishedAt": "2026-09-23T19:30:02.000Z"
+    },
+    {
       "id": "n_18410a1e66",
       "type": "news",
       "topic": "tech",
@@ -255,15 +266,70 @@
       "publishedAt": "2026-09-23T15:43:02.000Z"
     },
     {
-      "id": "n_fae6e0fd45",
+      "id": "n_a23f76d1ff",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Surface Laptop 8 wird immer günstiger - X2-Elite-Modell fällt erneut um 100 Euro",
-      "summary": "Microsofts Surface Laptop 8 mit Snapdragon X2 Elite ist erst seit Juni erhältlich. Nach zwei Preissenkungen im September fällt das 13,8-Zoll-Modell bei Amazon nun auf den bisherigen Tiefstpreis von 1.449 Euro. (WOA, Snapdragon)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-surface-laptop-8-wird-immer-guenstiger-x2-elite-modell-faellt-erneut-um-100-euro-2609-213366.html",
-      "publishedAt": "2026-09-23T15:30:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T22:23:28.000Z"
+    },
+    {
+      "id": "n_29e7818235",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "AI superpower ambitions take centre stage as Trump and Xi meet",
+      "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T22:01:17.000Z"
+    },
+    {
+      "id": "n_f66d406473",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: The arms race in space and how the UK is defending itself",
+      "summary": "The UK has jammed satellites to defend itself from hostile threats, the BBC has been told.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T21:29:04.000Z"
+    },
+    {
+      "id": "n_1c5e2ce6d6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+      "summary": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T21:26:14.000Z"
+    },
+    {
+      "id": "n_ce53bdee1e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "UK survivor of Canadian poison seller says he exploited her despair",
+      "summary": "Elisabeth Belien tells Kenneth Law's sentencing hearing she took the poison when she was just 23 years old.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgy4237gq9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T21:16:00.000Z"
+    },
+    {
+      "id": "n_e25346c57b",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
+      "summary": "Assault survivor Miriam Haley said the \"devastating effect on my life and sense of security that may never go away\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T18:51:12.000Z"
     },
     {
       "id": "n_23f46cfeab",
@@ -277,39 +343,6 @@
       "publishedAt": "2026-09-23T18:15:31.000Z"
     },
     {
-      "id": "n_e25346c57b",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
-      "summary": "In court, Miriam Haley said the assault had a \"devastating effect on my life and sense of security that may never go away\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T18:13:52.000Z"
-    },
-    {
-      "id": "n_966d88a00a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
-      "summary": "The large storm in the Pacific Ocean is being driven by warm waters caused by the El Niño weather phenomenon.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T17:58:19.000Z"
-    },
-    {
-      "id": "n_906bb703f0",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
-      "summary": "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T17:40:59.000Z"
-    },
-    {
       "id": "n_afdbac5739",
       "type": "news",
       "topic": "general",
@@ -321,37 +354,26 @@
       "publishedAt": "2026-09-23T16:53:37.000Z"
     },
     {
-      "id": "n_7a2fc215c1",
+      "id": "n_555d89733d",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Watch: How toxic smog from wildfires is making Indonesians sick",
-      "summary": "Around 175,000 people in Indonesia have suffered from respiratory illness since August.",
+      "headline": "Indians are discovering the thrill of shopping without paying",
+      "summary": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c962j1jgx884o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T15:46:28.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T23:14:10.000Z"
     },
     {
-      "id": "n_66a415dfdf",
+      "id": "n_00f03c8363",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Poland accuses Russian military helicopter of violating its airspace",
-      "summary": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
+      "headline": "OpenAI and Anthropic bosses push UN for global terms on AI",
+      "summary": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T15:37:20.000Z"
-    },
-    {
-      "id": "n_2d75ae0dab",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
-      "summary": "Martin Ryan is pardoned months after he was jailed on charges of spying, but a second Frenchman remains in prison.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T14:32:42.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T22:35:14.000Z"
     },
     {
       "id": "n_382fca5f0f",
@@ -398,48 +420,81 @@
       "publishedAt": "2026-09-22T23:03:48.000Z"
     },
     {
-      "id": "n_c0b7bb3b3e",
+      "id": "n_f553567bf2",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Huge data centres rise at 'China speed' to power its AI ambitions",
-      "summary": "The BBC visits Inner Mongolia, an unlikely frontier in Beijing's AI race with Washington.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T22:04:31.000Z"
+      "headline": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
+      "summary": "$11M competition showed wildfire detection is still easier than stopping fires.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
+      "publishedAt": "2026-09-23T20:28:42.000Z"
     },
     {
-      "id": "n_3b31123b2a",
+      "id": "n_5b3915b552",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Rare look at the remote engine rooms fuelling China's AI boom",
-      "summary": "The BBC is in Inner Mongolia where dozen of Chinese data centres are being constructed, as the country aims to lead the world in artificial intelligence.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T22:03:48.000Z"
+      "headline": "Discord age verification rolls out today with changes spurred by user backlash",
+      "summary": "Discord will try to automatically estimate ages, require verification when it can't.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/",
+      "publishedAt": "2026-09-23T20:05:13.000Z"
     },
     {
-      "id": "n_b336b2d8b2",
+      "id": "n_25698732c6",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Tech Life",
-      "summary": "China is competing with the United States and other nations to develop AI.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyg?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T20:00:00.000Z"
+      "headline": "YouTube promises custom feeds and a lot more AI later this year",
+      "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
+      "publishedAt": "2026-09-23T19:35:53.000Z"
     },
     {
-      "id": "n_3542fc562d",
+      "id": "n_2d3f94ec82",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
-      "summary": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T14:51:39.000Z"
+      "headline": "Contrary to some reports, you don't have two brains",
+      "summary": "A bad press release makes a good excuse to look at how developmental biology works.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/",
+      "publishedAt": "2026-09-23T18:47:36.000Z"
+    },
+    {
+      "id": "n_a4350be6c3",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Netflix releases trailer for Brad Bird's Ray Gunn",
+      "summary": "\"It’s film noir and a hard-boiled detective story, but it’s got a lot more comedy and a lot more action.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/09/netflix-drops-trailer-for-brad-birds-ray-gunn/",
+      "publishedAt": "2026-09-23T18:26:50.000Z"
+    },
+    {
+      "id": "n_106d9b92dc",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+      "summary": "\"So absurd and embarrassing ...\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
+      "publishedAt": "2026-09-23T17:39:39.000Z"
+    },
+    {
+      "id": "n_28ee25dc0f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Former NASA chief sounds alarm on China's lunar \"exploration\" plans",
+      "summary": "\"Beijing's intended strategy is to dominate the high ground of the twenty-first century.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/",
+      "publishedAt": "2026-09-23T17:10:58.000Z"
     },
     {
       "id": "n_ca5fc52a4d",
@@ -453,81 +508,26 @@
       "publishedAt": "2026-09-23T14:20:23.000Z"
     },
     {
-      "id": "n_0d1a4adda2",
+      "id": "n_72bffe5e66",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "America gave up its rare earth edge. China took full advantage.",
-      "summary": "Decades of cheaper imports left US dependent on China for crucial rare earth processing.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/",
-      "publishedAt": "2026-09-23T13:37:05.000Z"
+      "headline": "Anthropic says its biology lab has already found something big",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "publishedAt": "2026-09-23T22:17:39.000Z"
     },
     {
-      "id": "n_6e31b18a02",
+      "id": "n_d6b54cabcf",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Small undersea volcanoes may unleash outsized tsunamis",
-      "summary": "Post-eruption imaging of the Hunga caldera gives new details of its collapse.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
-      "publishedAt": "2026-09-23T11:15:30.000Z"
-    },
-    {
-      "id": "n_df9deade15",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "A new report from Europe raises serious alarms about orbital collisions",
-      "summary": "\"I think we are going to lose the ability to use certain orbits.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/",
-      "publishedAt": "2026-09-23T11:00:17.000Z"
-    },
-    {
-      "id": "n_664a00c8e1",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
-      "summary": "There is no single definitive test for these worms, but the tail is fairly convincing.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
-      "publishedAt": "2026-09-22T21:42:14.000Z"
-    },
-    {
-      "id": "n_5618ffbe19",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-      "summary": "The frontier AI model race has entered its comparison shopping phase.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-      "publishedAt": "2026-09-22T21:25:18.000Z"
-    },
-    {
-      "id": "n_ac5d72a77c",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
-      "summary": "Cities defend permit requirements, say ISPs aren't building networks fast enough.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
-      "publishedAt": "2026-09-22T20:38:30.000Z"
-    },
-    {
-      "id": "n_69bd5b2276",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-      "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-      "publishedAt": "2026-09-22T19:45:47.000Z"
+      "headline": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "publishedAt": "2026-09-23T19:31:28.000Z"
     },
     {
       "id": "n_d9a1b51f35",
@@ -574,17 +574,6 @@
       "publishedAt": "2026-09-23T14:30:00.000Z"
     },
     {
-      "id": "n_3fbc62c6d1",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-      "publishedAt": "2026-09-23T14:30:00.000Z"
-    },
-    {
       "id": "n_33d4153d93",
       "type": "news",
       "topic": "ai",
@@ -596,26 +585,48 @@
       "publishedAt": "2026-09-23T14:30:00.000Z"
     },
     {
-      "id": "n_bed8eeca80",
+      "id": "n_3fbc62c6d1",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
-      "summary": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25 at 11:59 p.m. PT. Register today.",
+      "headline": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-23T14:00:00.000Z"
+      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "publishedAt": "2026-09-23T14:30:00.000Z"
     },
     {
-      "id": "n_9fb22034ac",
+      "id": "n_be0bf24384",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
-      "summary": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
-      "publishedAt": "2026-09-23T13:00:00.000Z"
+      "headline": "Meta Connect 2026: The biggest news and announcements",
+      "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been f",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+      "publishedAt": "2026-09-23T22:45:00.000Z"
+    },
+    {
+      "id": "n_cb0c28937a",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+      "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+      "publishedAt": "2026-09-23T22:30:00.000Z"
+    },
+    {
+      "id": "n_54336ea97e",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+      "summary": "An adorable little bear that wants to help you buy things. Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me a",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+      "publishedAt": "2026-09-23T19:00:00.000Z"
     },
     {
       "id": "n_211a6281fe",
@@ -673,37 +684,15 @@
       "publishedAt": "2026-09-23T11:02:39.000Z"
     },
     {
-      "id": "n_0ab4ac60a8",
+      "id": "n_d736c96f97",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising i",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-      "publishedAt": "2026-09-23T00:17:17.000Z"
-    },
-    {
-      "id": "n_cc0d123c3b",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Rabbit’s new AI agent doesn’t need an R1 to run",
-      "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "publishedAt": "2026-09-22T20:52:40.000Z"
-    },
-    {
-      "id": "n_97f4d9447d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-      "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, Nvid",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-      "publishedAt": "2026-09-22T16:34:08.000Z"
+      "headline": "The AI Hype Index: AI loves cheating",
+      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have a",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "publishedAt": "2026-09-23T09:00:00.000Z"
     },
     {
       "id": "n_5f3b2680ef",
@@ -783,15 +772,15 @@
       "publishedAt": "2026-09-18T11:29:22.000Z"
     },
     {
-      "id": "n_0a27d938a0",
+      "id": "n_cdf5468b79",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Building the materials foundation for AI",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, the",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "publishedAt": "2026-09-16T12:47:34.000Z"
+      "headline": "A US-China AI Hotline Won't Be Ready For a While",
+      "summary": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
+      "publishedAt": "2026-09-23T21:00:00.000Z"
     },
     {
       "id": "n_f9fb3ca5e3",
@@ -868,17 +857,6 @@
       "summary": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
       "source": "Wired",
       "url": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
-      "publishedAt": "2026-09-22T13:00:00.000Z"
-    },
-    {
-      "id": "n_6a391c588b",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI Models Built From Rat Brains Just Got Closer to Reality",
-      "summary": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
       "publishedAt": "2026-09-22T13:00:00.000Z"
     },
     {
