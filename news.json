@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-09-22T18:22:58.000Z",
+  "generatedAt": "2026-09-23T02:06:14.856Z",
   "items": [
+    {
+      "id": "n_b8d6f31cfd",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Mehr Staatsmann und weniger Konfrontation",
+      "summary": "US-Präsident Trump hat sich bei der UN-Vollversammlung ungewohnt diszipliniert präsentiert. Doch hinter dem Kurswechsel stecken vor allem innenpolitischer Druck und die Suche nach einem Ausweg, meint Martin Ganslmeier.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-rede-un-kommentar-100.html",
+      "publishedAt": "2026-09-22T22:44:43.000Z"
+    },
+    {
+      "id": "n_f847c75ce7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Frei sichert Merz Rückhalt der Unionsfraktion zu",
+      "summary": "Der Unionsfraktionsvorsitzende Frei sieht nach dem CDU-Wahldebakel einen \"enormen Aussprachebedarf\". Im tagesthemen-Interview stellt er sich hinter Kanzler Merz - obwohl es beim Fraktionstreffen deutliche Kritik gab.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/frei-union-fraktion-merz-100.html",
+      "publishedAt": "2026-09-22T19:58:52.000Z"
+    },
+    {
+      "id": "n_91c347ffec",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Merz und die Krankenkassen - was meinte der Kanzler?",
+      "summary": "Bundeskanzler Merz hat mit seinen Äußerungen zu gesetzlichen und privaten Krankenkassen eine Debatte angestoßen. Aber was wollte er damit eigentlich sagen - und was heißt das für die Umsetzung der Reformen? Von Birthe Sönnichsen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/merz-duales-system-krankenkassen-100.html",
+      "publishedAt": "2026-09-22T18:27:10.000Z"
+    },
     {
       "id": "n_fb319e6091",
       "type": "news",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/regional/berlin/linken-politiker-kocak-remmo-100.html",
       "publishedAt": "2026-09-22T16:11:18.000Z"
-    },
-    {
-      "id": "n_9dd84af600",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Grönland, USA und Dänemark unterzeichnen Sicherheitsabkommen",
-      "summary": "Im Streit um Grönland haben die USA, Dänemark und die Arktisinsel ein Abkommen geschlossen. Die Regierungschefs der drei Parteien unterzeichneten am Rande der UN-Vollversammlung in New York eine Sicherheitsvereinbarung.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/abkommen-zu-groenland-unterzeichnet-100.html",
-      "publishedAt": "2026-09-22T16:02:38.000Z"
-    },
-    {
-      "id": "n_6addc53324",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Frauengesundheit: Wenn der Herzinfarkt übersehen wird",
-      "summary": "Bestimmte Krankheiten äußern sich bei Frauen anders als bei Männern. Trotzdem werden geschlechtsspezifische Unterschiede häufig zu wenig berücksichtigt. Eine neue Allianz fordert Aufmerksamkeit. Von Philipp Wundersee.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/frauengesundheit-forschung-allianz-100.html",
-      "publishedAt": "2026-09-22T15:50:46.000Z"
-    },
-    {
-      "id": "n_26f9477edc",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Union und SPD wollen noch mal über Reformen verhandeln",
-      "summary": "Die geplanten Reformen der Bundesregierung kommen noch einmal auf den Prüfstand. Am Abend will Kanzleramtschefin Warken mit Spitzenpolitikern von CDU, CSU und SPD etwa über das Thema Rente sprechen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/union-spd-beratungen-reformen-100.html",
-      "publishedAt": "2026-09-22T15:49:08.000Z"
     },
     {
       "id": "n_9e2d198091",
@@ -178,6 +178,28 @@
       "publishedAt": "2026-09-21T06:16:00.000Z"
     },
     {
+      "id": "n_30eecd4ab1",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Snapdragon 8 Elite Gen 6: Qualcomm stellt erstes Mobile-SoC mit 5 GHz vor",
+      "summary": "Im neuen Snapdragon-SoC setzt Qualcomm Oryon-Kerne mit bis zu 5 GHz ein. Außerdem soll der neue Sensing Hub immer zuhören. (Snapdragon Summit 2026, Smartphone)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/snapdragon-8-elite-gen-6-qualcomm-stellt-erstes-mobile-soc-mit-5-ghz-vor-2609-213301.html",
+      "publishedAt": "2026-09-22T20:00:01.000Z"
+    },
+    {
+      "id": "n_6caa163b65",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Donald Trump: KI heißt in den USA jetzt \"Super Intelligence\"",
+      "summary": "Donald Trump hat einen Hang dazu, Dinge umzubenennen. Sein jüngstes Opfer: KI, die in den USA jetzt SI genannt werden soll. (Donald Trump, KI)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/donald-trump-ki-heisst-in-den-usa-jetzt-super-intelligence-2609-213329.html",
+      "publishedAt": "2026-09-22T19:51:01.000Z"
+    },
+    {
       "id": "n_d42cf9df10",
       "type": "news",
       "topic": "tech",
@@ -244,114 +266,158 @@
       "publishedAt": "2026-09-22T15:21:02.000Z"
     },
     {
-      "id": "n_a646a86dde",
+      "id": "n_67154007da",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
+      "summary": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T02:00:26.000Z"
+    },
+    {
+      "id": "n_a6ee71584d",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US judge blocks deportation of DoorDash driver shot by ICE",
+      "summary": "The delivery driver was transferred from a hospital to a detention centre after the shooting on Sunday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr6241825757o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T23:36:12.000Z"
+    },
+    {
+      "id": "n_905344d37b",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: Threats, deals and passionate speeches at UNGA event",
+      "summary": "Delegations from across the world attended the United Nations General Assembly in New York.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cqkgx8ynj8zko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T22:33:44.000Z"
+    },
+    {
+      "id": "n_f1e92339a9",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US to build two military bases in Greenland under new deal with Denmark",
+      "summary": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T21:36:55.000Z"
+    },
+    {
+      "id": "n_e6381dd067",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "How Ceuta, football and Israel are shaping Morocco's election",
+      "summary": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T20:59:00.000Z"
+    },
+    {
+      "id": "n_aef0925d54",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+      "summary": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T19:47:44.000Z"
+    },
+    {
+      "id": "n_d09ddef848",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "What is the White House pool and why is it in a row with Trump?",
+      "summary": "The White House press pool is at the centre of a major row between President Donald Trump and TV networks. What is it?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T19:25:16.000Z"
+    },
+    {
+      "id": "n_c4c4c0723b",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Burnham 'gets it' says Trump, as the two leaders meet for first time",
+      "summary": "Donald Trump says he can do business with Andy Burnham at their first face-to-face meeting in New York, but criticises the \"terrible\" Chagos deal.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T19:15:57.000Z"
+    },
+    {
+      "id": "n_e2cd06d320",
       "type": "news",
       "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Samsung Galaxy Tab A11+ mit Google Gemini und 128 GB jetzt reduziert bei Amazon",
-      "summary": "Das Samsung Galaxy Tab A11+ mit 11-Zoll-Display und Google-Gemini-Integration ist aktuell bei Amazon zum Aktionspreis erhältlich. (Technik/Hardware, Tablet)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-samsung-galaxy-tab-a11-mit-google-gemini-und-128-gb-jetzt-reduziert-bei-amazon-2609-213324.html",
-      "publishedAt": "2026-09-22T14:16:02.000Z"
+      "lang": "en",
+      "headline": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+      "summary": "Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-23T01:35:56.000Z"
     },
     {
-      "id": "n_423229ece7",
+      "id": "n_ed2c3e9bf6",
       "type": "news",
       "topic": "tech",
-      "lang": "de",
-      "headline": "Marathon und Destiny 2: Bungie will Destiny doch wiederbeleben",
-      "summary": "Eigentlich feierte Destiny vor einigen Monaten das große Finale. Nun gesteht Bungie überraschend Fehler ein. (Destiny 2, Steam)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/marathon-und-destiny-2-bungie-will-destiny-doch-wiederbeleben-2609-213323.html",
-      "publishedAt": "2026-09-22T14:02:02.000Z"
+      "lang": "en",
+      "headline": "Will a switch to light speed cut power use at data centres?",
+      "summary": "To save power and add capacity, data centres are switching from copper wires to tech using light.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T23:03:48.000Z"
     },
     {
-      "id": "n_c0413bd39f",
+      "id": "n_c0b7bb3b3e",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
-      "summary": "The delivery driver was transferred from a hospital to a detention centre, his lawyer tells US media.",
+      "headline": "A new skyline of data centres is rising from the rolling plains of rural China",
+      "summary": "Potato farmers rub shoulders with rows of gleaming new data centres as Trump and Xi meet to discuss AI safety.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T17:17:01.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T22:04:31.000Z"
     },
     {
-      "id": "n_1781556370",
+      "id": "n_3b31123b2a",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Cyclist who dressed as man to avoid Taliban wins silver medal",
-      "summary": "Afghan cyclist Fariba Hashimi wins silver in the women's road race at the Asian Games, having fled oppression in her home country to pursue a sporting dream.",
+      "headline": "Rare look at the remote engine rooms powering China's AI ambitions",
+      "summary": "The BBC is in Inner Mongolia where dozen of Chinese data centres are being constructed, as the country aims to lead the world in artificial intelligence.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T16:57:55.000Z"
+      "url": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T22:03:48.000Z"
     },
     {
-      "id": "n_24d7afce15",
+      "id": "n_b336b2d8b2",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Top South African policeman charged with sexual offences",
-      "summary": "Shadrack Sibiya, who has made no comment, is alleged to have groomed a 16-year-old and raped an 18-year-old.",
+      "headline": "Tech Life",
+      "summary": "China is competing with the United States and other nations to develop AI.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T16:54:41.000Z"
-    },
-    {
-      "id": "n_2cef926717",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'I have never felt heat like that' - a survivor on watching 33 cellmates die in Nigeria",
-      "summary": "The BBC goes inside the prison where prisoners were trapped in stifling, cramped conditions.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqm27jen9r23o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T16:42:23.000Z"
-    },
-    {
-      "id": "n_73d369c43a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Autopsy shows Hayden Panettiere died from a drug overdose",
-      "summary": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system - was ruled an accident.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T15:17:37.000Z"
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyg?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-22T20:00:00.000Z"
     },
     {
       "id": "n_3542fc562d",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
       "headline": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
       "summary": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-22T14:51:39.000Z"
-    },
-    {
-      "id": "n_5351140b97",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
-      "summary": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T14:23:39.000Z"
-    },
-    {
-      "id": "n_badd9d94f4",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
-      "summary": "Doyle was best known for reporting on African conflicts in the 1990s and 2000s, notably in Rwanda and Sierra Leone.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-22T14:16:42.000Z"
     },
     {
       "id": "n_5f141d9471",
@@ -376,66 +442,77 @@
       "publishedAt": "2026-09-19T13:39:32.000Z"
     },
     {
-      "id": "n_6715238f50",
+      "id": "n_664a00c8e1",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Tech Now",
-      "summary": "Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032301?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-19T01:00:00.000Z"
+      "headline": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
+      "summary": "There is no single definitive test for these worms, but the tail is fairly convincing.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
+      "publishedAt": "2026-09-22T21:42:14.000Z"
     },
     {
-      "id": "n_499404ec24",
+      "id": "n_5618ffbe19",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Would Australians support a smart glasses ban?",
-      "summary": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-18T23:15:10.000Z"
+      "headline": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "summary": "The frontier AI model race has entered its comparison shopping phase.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "publishedAt": "2026-09-22T21:25:18.000Z"
     },
     {
-      "id": "n_e52342f13a",
+      "id": "n_ac5d72a77c",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "The virtual worlds where robots are trained",
-      "summary": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T23:00:47.000Z"
+      "headline": "Cities across US oppose Trump FCC plan to preempt local broadband rules",
+      "summary": "Cities defend permit requirements, say ISPs aren't building networks fast enough.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
+      "publishedAt": "2026-09-22T20:38:30.000Z"
     },
     {
-      "id": "n_11e2f04c3c",
+      "id": "n_69bd5b2276",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-      "summary": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T14:33:12.000Z"
+      "headline": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "publishedAt": "2026-09-22T19:45:47.000Z"
     },
     {
-      "id": "n_2882773e5d",
+      "id": "n_f5795de5b2",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Why are there concerns AI could threaten humanity, and how real are they?",
-      "summary": "Existential fears about AI have once again reared their head - here's what you need to know.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T09:18:57.000Z"
+      "headline": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+      "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+      "publishedAt": "2026-09-22T19:28:23.000Z"
+    },
+    {
+      "id": "n_ebd8c3d9c4",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
+      "summary": "You don't even need a Creative Cloud login to edit clips, but AI features cost extra.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
+      "publishedAt": "2026-09-22T19:08:58.000Z"
     },
     {
       "id": "n_69c7a870c1",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Review: Resident Evil is the fresh take this flagging franchise really needed",
+      "headline": "Review: Resident Evil might just be the best gaming adaptation yet",
       "summary": "Director Zach Cregger's clever reboot strikes perfect balance between horror, humor, and over-the-top gore.",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
@@ -453,70 +530,48 @@
       "publishedAt": "2026-09-22T17:06:16.000Z"
     },
     {
-      "id": "n_3b8dedb613",
+      "id": "n_d93240d4c3",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
-      "summary": "The English hospitals recovered patient care data only.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
-      "publishedAt": "2026-09-22T16:55:40.000Z"
+      "headline": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "publishedAt": "2026-09-22T23:21:49.000Z"
     },
     {
-      "id": "n_fee8c5eb36",
+      "id": "n_7e5d39ad04",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Effort begins to fill the void left by terminated US climate report",
-      "summary": "First paper added to community collection is a roadmap for research.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/09/effort-begins-to-fill-the-void-left-by-terminated-us-climate-report/",
-      "publishedAt": "2026-09-22T16:26:30.000Z"
+      "headline": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "publishedAt": "2026-09-22T21:56:43.000Z"
     },
     {
-      "id": "n_30ca8ad7ff",
+      "id": "n_948ab460c8",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Shuffling the deck chairs: Xbox continues its \"reset\" with dramatic restructuring",
-      "summary": "Activision gets Halo, Obsidian becomes part of Bethesda, and more internal shake-ups.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/",
-      "publishedAt": "2026-09-22T15:30:53.000Z"
+      "headline": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "publishedAt": "2026-09-22T20:00:00.000Z"
     },
     {
-      "id": "n_e71b03c98e",
+      "id": "n_047d6bbad9",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Protests for Germany’s car industry as job losses loom",
-      "summary": "A combination of Chinese competition and US tariffs is causing problems in Germany.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/09/protests-for-germanys-car-industry-as-job-losses-loom/",
-      "publishedAt": "2026-09-22T14:40:47.000Z"
-    },
-    {
-      "id": "n_bae7e01b75",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Trump’s sneaky plan to gut Endangered Species Act draws from 1995 Scalia dissent",
-      "summary": "Trump adopts Scalia’s ire for feds protecting populations of endangered animals.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trumps-sneaky-plan-to-gut-endangered-species-act-draws-from-1995-scalia-dissent/",
-      "publishedAt": "2026-09-22T14:29:15.000Z"
-    },
-    {
-      "id": "n_2de9b1ece6",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Dyson’s most overengineered gadget may have a waterproofing problem",
-      "summary": "Dyson admits a component issue but won't say what's failing in its $500 toothbrush.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/",
-      "publishedAt": "2026-09-22T13:33:16.000Z"
+      "headline": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "publishedAt": "2026-09-22T19:09:11.000Z"
     },
     {
       "id": "n_11b524309f",
@@ -563,48 +618,26 @@
       "publishedAt": "2026-09-22T15:00:00.000Z"
     },
     {
-      "id": "n_0248dc56da",
+      "id": "n_0ab4ac60a8",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-      "publishedAt": "2026-09-22T14:30:00.000Z"
+      "headline": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising i",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "publishedAt": "2026-09-23T00:17:17.000Z"
     },
     {
-      "id": "n_dbe6097602",
+      "id": "n_cc0d123c3b",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-      "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
-      "publishedAt": "2026-09-22T14:15:00.000Z"
-    },
-    {
-      "id": "n_172ea0168d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-      "summary": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-22T14:00:00.000Z"
-    },
-    {
-      "id": "n_6ee2a82c9b",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Everyone can find a reason to dislike data center construction",
-      "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-      "publishedAt": "2026-09-22T13:00:00.000Z"
+      "headline": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "publishedAt": "2026-09-22T20:52:40.000Z"
     },
     {
       "id": "n_97f4d9447d",
@@ -612,7 +645,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-      "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVID",
+      "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, Nvid",
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
       "publishedAt": "2026-09-22T16:34:08.000Z"
@@ -671,28 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
       "publishedAt": "2026-09-21T14:00:00.000Z"
-    },
-    {
-      "id": "n_335387d845",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
-      "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
-      "publishedAt": "2026-09-21T13:36:52.000Z"
-    },
-    {
-      "id": "n_94d0db2af4",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "UN says AI safeguards can’t wait for certainty",
-      "summary": "The United Nations logo at the UN headquarters in New York. | Getty Images Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-      "publishedAt": "2026-09-21T10:18:06.000Z"
     },
     {
       "id": "n_5f3b2680ef",
@@ -783,6 +794,17 @@
       "publishedAt": "2026-09-16T12:47:34.000Z"
     },
     {
+      "id": "n_441a069612",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
+      "summary": "Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri’s release. You have until December 21 to submit a claim.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
+      "publishedAt": "2026-09-22T18:19:13.000Z"
+    },
+    {
       "id": "n_884f576aaa",
       "type": "news",
       "topic": "ai",
@@ -858,17 +880,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
       "publishedAt": "2026-09-22T09:30:00.000Z"
-    },
-    {
-      "id": "n_cbc14f8b0b",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "How to Use AI With Your Privacy Intact",
-      "summary": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
-      "publishedAt": "2026-09-22T09:00:00.000Z"
     },
     {
       "id": "n_2960c64a01",
@@ -957,54 +968,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/gradio-workflow-1111",
       "publishedAt": "2026-09-10T00:00:00.000Z"
-    },
-    {
-      "id": "n_762e86c2a7",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Yes, Jev Is Insane, But There's A Catch",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
-      "thumbnail": "https://i.ytimg.com/vi/qBBRRsH0rQc/hqdefault.jpg",
-      "publishedAt": "2026-09-22T09:32:13.000Z"
-    },
-    {
-      "id": "n_0c3e7fe15b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek’s Insane New Architecture",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
-      "thumbnail": "https://i.ytimg.com/vi/vIHw_2VjSUw/hqdefault.jpg",
-      "publishedAt": "2026-09-18T07:03:46.000Z"
-    },
-    {
-      "id": "n_281ff94730",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
-      "thumbnail": "https://i.ytimg.com/vi/YoEWjZSwoys/hqdefault.jpg",
-      "publishedAt": "2026-09-15T10:12:34.000Z"
-    },
-    {
-      "id": "n_9818ebd3c2",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "I Never Thought I’d See This Happen",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=mOvtumfyjCs",
-      "thumbnail": "https://i.ytimg.com/vi/mOvtumfyjCs/hqdefault.jpg",
-      "publishedAt": "2026-09-10T08:47:23.000Z"
     },
     {
       "id": "n_c21d60498a",
