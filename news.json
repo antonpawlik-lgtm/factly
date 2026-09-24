@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-09-24T18:43:32.331Z",
+  "generatedAt": "2026-09-24T23:36:42.499Z",
   "items": [
+    {
+      "id": "n_19352151c1",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Berliner CDU-Fraktion wählt Evers an ihre Spitze",
+      "summary": "Berlins Finanzsenator Evers wird künftig die CDU-Fraktion im Abgeordnetenhaus führen. Er sei offen für eine Koalition mit der SPD und den Grünen - zunächst wolle er aber die Sondierungsgespräche der Linkspartei abwarten",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/evers-cdu-fraktion-berlin-100.html",
+      "publishedAt": "2026-09-24T22:56:25.000Z"
+    },
+    {
+      "id": "n_f4159c537b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Netanjahu-Rede bei UN - Dutzende Diplomaten verlassen Saal",
+      "summary": "Eklat bei den Vereinten Nationen: Als Israels Premier ans Rednerpult trat, verließen Dutzende Diplomaten den Saal. Netanjahu reagierte scharf - und verteidigte die Kriege in Nahost.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/netanjahu-kritik-un-generaldebatte-100.html",
+      "publishedAt": "2026-09-24T21:51:23.000Z"
+    },
+    {
+      "id": "n_99f74f7789",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Prunk und Pandas: Trump empfängt Xi in Washington",
+      "summary": "KI, Handel, Ukraine und Taiwan - die Liste der Gipfelthemen ist lang. Doch das Treffen der Präsidenten Trump und Xi beginnt freundschaftlich - was auch mit Pandas zu tun haben könnte. Und dann ist da noch Thukydides.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-china-trump-xi-pandas-100.html",
+      "publishedAt": "2026-09-24T19:43:38.000Z"
+    },
     {
       "id": "n_6723735a96",
       "type": "news",
@@ -35,17 +68,6 @@
       "publishedAt": "2026-09-24T17:20:41.000Z"
     },
     {
-      "id": "n_99f74f7789",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Prunk und Pandas: Trump empfängt Xi in Washington",
-      "summary": "Künstliche Intelligenz, Handel, Ukraine und Taiwan - die Liste der brisanten Themen zwischen den USA und China ist lang. Doch das Treffen von Trump und Xi begann betont freundschaftlich - was auch mit zwei Pandas zu tun haben könnte.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-china-trump-xi-pandas-100.html",
-      "publishedAt": "2026-09-24T16:53:28.000Z"
-    },
-    {
       "id": "n_cbce5149e3",
       "type": "news",
       "topic": "general",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-jones-oel-zinsen-100.html",
       "publishedAt": "2026-09-24T16:18:29.000Z"
-    },
-    {
-      "id": "n_eb5e43966a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Kommentar: Geheimdienst-Reform braucht ernsthafte Debatte",
-      "summary": "Die Bundesregierung will, dass die deutschen Nachrichtendienste künftig mehr dürfen - und zwar auch operativ. Die Debatte darüber ist zu zugespitzt, meint Markus Sambale. Einige der Bedenken sollten aber Gehör finden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kommentar/nachrichtendienste-mit-mehr-befugnissen-100.html",
-      "publishedAt": "2026-09-24T15:52:07.000Z"
-    },
-    {
-      "id": "n_f3f72c6a61",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Kämpfe in Tigray-Region im Norden Äthiopiens eskalieren",
-      "summary": "Im Norden Äthiopiens ist ein alter Konflikt wieder voll entbrannt: Die \"Volksbefreiungsfront\" von Tigray will zurück an die Macht. Beobachter warnen vor einem Flächenbrand am Horn von Afrika. Von Karin Bensch.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/tigray-konflikt-eskalation-100.html",
-      "publishedAt": "2026-09-24T15:18:06.000Z"
     },
     {
       "id": "n_4f8b26b23d",
@@ -266,6 +266,72 @@
       "publishedAt": "2026-09-24T15:11:02.000Z"
     },
     {
+      "id": "n_99e5b53ebc",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+      "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T23:32:51.000Z"
+    },
+    {
+      "id": "n_8f316ab13d",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Hundreds of thousands expected in Paris for Pope's visit",
+      "summary": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T23:17:00.000Z"
+    },
+    {
+      "id": "n_53834aa412",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
+      "summary": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T19:32:59.000Z"
+    },
+    {
+      "id": "n_241f7b81bd",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Priest killed and four injured in knife attack at Polish abbey",
+      "summary": "A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c607lrvm41l3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T19:18:12.000Z"
+    },
+    {
+      "id": "n_77450ecec8",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+      "summary": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T19:02:36.000Z"
+    },
+    {
+      "id": "n_eeb4f1993e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: UN delegates walk out of Netanyahu speech",
+      "summary": "The Israeli delegation could be be seen cheering in support during Netanyahu's speech.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T18:29:29.000Z"
+    },
+    {
       "id": "n_9f9515000c",
       "type": "news",
       "topic": "general",
@@ -288,70 +354,26 @@
       "publishedAt": "2026-09-24T17:55:44.000Z"
     },
     {
-      "id": "n_3f96308a98",
+      "id": "n_922e940651",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "White House restores access to media outlets banned by Trump after judge's order",
-      "summary": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
+      "headline": "X-planes: Are they needed in the new era of drones?",
+      "summary": "Where do America's X-plane projects fit in an era of cheap drones?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T17:49:20.000Z"
-    },
-    {
-      "id": "n_7479ad38e5",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Greek PM urges UK PM to return Elgin Marbles permanently",
-      "summary": "Andy Burnham said in 2023 the sculptures should be returned to Greece with \"no strings attached\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T16:36:33.000Z"
-    },
-    {
-      "id": "n_225c216237",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T16:00:29.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T23:03:53.000Z"
     },
     {
       "id": "n_a23f76d1ff",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
       "headline": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
       "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-24T15:42:07.000Z"
-    },
-    {
-      "id": "n_c7f63c921a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-      "summary": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T15:37:45.000Z"
-    },
-    {
-      "id": "n_de7f4df274",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
-      "summary": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T14:37:34.000Z"
     },
     {
       "id": "n_4ea6410dce",
@@ -409,103 +431,114 @@
       "publishedAt": "2026-09-23T23:14:10.000Z"
     },
     {
-      "id": "n_00f03c8363",
+      "id": "n_ad80816fda",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "US rejects pleas from OpenAI, Anthropic for global AI standards",
-      "summary": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T22:35:14.000Z"
+      "headline": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+      "summary": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
+      "publishedAt": "2026-09-24T22:29:48.000Z"
     },
     {
-      "id": "n_18c0be4866",
+      "id": "n_34a130701c",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "NASA chief concerned China may deny access to parts of South Pole",
-      "summary": "\"If you come up short with who comes down the ladder first, the impact is felt around the world.\"",
+      "headline": "Donald Duck's uncle was partly based on Wernher von Braun",
+      "summary": "Introducing the \"world-famous authority on outer space...\"",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/",
-      "publishedAt": "2026-09-24T14:57:50.000Z"
+      "url": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
+      "publishedAt": "2026-09-24T21:40:07.000Z"
     },
     {
-      "id": "n_3eafea9b7d",
+      "id": "n_9644cdd3b5",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Meta puts its AI assistant on a keychain",
-      "summary": "Meta says the keychain-sized Muse Charm will ship in December.",
+      "headline": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
+      "summary": "F-Droid's Android app store has been rebuilt from the ground up.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
-      "publishedAt": "2026-09-24T14:03:38.000Z"
+      "url": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
+      "publishedAt": "2026-09-24T19:30:42.000Z"
     },
     {
-      "id": "n_597e963ae5",
+      "id": "n_dea1a6c72d",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "There's a new way to break RSA that's faster than anything we've seen before",
-      "summary": "Until now, cryptographers thought factoring was the only way to break RSA. Not anymore.",
+      "headline": "New York defies Trump admin, asks court to shut down Polymarket gambling",
+      "summary": "New York sues Polymarket as Trump admin tries to override state gambling laws.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
-      "publishedAt": "2026-09-24T11:15:44.000Z"
+      "url": "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/",
+      "publishedAt": "2026-09-24T19:07:19.000Z"
     },
     {
-      "id": "n_ebd82bf718",
+      "id": "n_4400cc72c0",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder",
-      "summary": "Usable local AI is a lot of fun, but how much would you pay for it?",
+      "headline": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
+      "summary": "Oscar-winning documentarian Alex Gibney focuses on the world's wealthiest man.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
-      "publishedAt": "2026-09-24T11:00:04.000Z"
+      "url": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
+      "publishedAt": "2026-09-24T18:52:23.000Z"
     },
     {
-      "id": "n_a287d2f241",
+      "id": "n_f864c96bc6",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
-      "summary": "US health deptartment said it wants to ensure the vaccine orders are \"appropriate.\"",
+      "headline": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
+      "summary": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
-      "publishedAt": "2026-09-23T22:17:25.000Z"
+      "url": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
+      "publishedAt": "2026-09-24T18:39:47.000Z"
     },
     {
-      "id": "n_a2eaff1a41",
+      "id": "n_e64c35c9e5",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
-      "summary": "It's unclear what will happen if FBI misses ShinyHunters' deadline.",
+      "headline": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+      "summary": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
-      "publishedAt": "2026-09-23T21:46:36.000Z"
+      "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
+      "publishedAt": "2026-09-24T18:20:58.000Z"
     },
     {
-      "id": "n_8e11d07f60",
+      "id": "n_cd729cf3bb",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
-      "summary": "The Disney+ ad-free plan is now more expensive than Netflix's.",
+      "headline": "Google's first Suncatcher orbital data center test launches October 1",
+      "summary": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
-      "publishedAt": "2026-09-23T21:18:53.000Z"
+      "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+      "publishedAt": "2026-09-24T16:16:34.000Z"
     },
     {
-      "id": "n_b3415c70d7",
+      "id": "n_b5f88521e8",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Here's the Torcal, the first fully electric Bentley",
-      "summary": "It sounds like a V8, rides like a Flying Spur, but handles like a Continental GT.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/",
-      "publishedAt": "2026-09-23T21:06:07.000Z"
+      "headline": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "publishedAt": "2026-09-24T19:15:00.000Z"
+    },
+    {
+      "id": "n_9ef4a7c3c6",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "publishedAt": "2026-09-24T19:00:42.000Z"
     },
     {
       "id": "n_57d9461ca6",
@@ -556,7 +589,7 @@
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+      "headline": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
       "summary": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
@@ -574,26 +607,15 @@
       "publishedAt": "2026-09-24T16:03:36.000Z"
     },
     {
-      "id": "n_b79191560d",
+      "id": "n_ee9698a7fd",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Google tests letting Gemini call businesses for you",
-      "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-      "publishedAt": "2026-09-24T16:00:00.000Z"
-    },
-    {
-      "id": "n_5b513703eb",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
-      "summary": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50% off.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-24T15:00:00.000Z"
+      "headline": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Ent",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "publishedAt": "2026-09-24T19:59:26.000Z"
     },
     {
       "id": "n_3ab9cbba8c",
@@ -671,17 +693,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
       "publishedAt": "2026-09-24T14:30:00.000Z"
-    },
-    {
-      "id": "n_bd3f02787f",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Google is sending an AI satellite into space next week",
-      "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher, the company's experimental initiative that could eventually put AI data centers",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
-      "publishedAt": "2026-09-24T14:15:17.000Z"
     },
     {
       "id": "n_d736c96f97",
@@ -772,6 +783,17 @@
       "publishedAt": "2026-09-18T11:29:22.000Z"
     },
     {
+      "id": "n_01b3022d0b",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "I Think I Found an AI Agent Worth the Risk",
+      "summary": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
+      "publishedAt": "2026-09-24T19:36:35.000Z"
+    },
+    {
       "id": "n_d78e096af7",
       "type": "news",
       "topic": "ai",
@@ -847,17 +869,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
       "publishedAt": "2026-09-23T12:54:58.000Z"
-    },
-    {
-      "id": "n_3323137ee1",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
-      "summary": "The telecom giant is eager to show Wall Street that it can do more with less. That means fewer employees, less electricity, and increased automation.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/",
-      "publishedAt": "2026-09-23T10:15:00.000Z"
     },
     {
       "id": "n_c2a53f2332",
@@ -1092,6 +1103,18 @@
       "publishedAt": "2026-09-15T17:45:39.000Z"
     },
     {
+      "id": "n_0e03fa3a80",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Xiaomi 18 Pro Max: They've Done It Again!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=DkUuOr21v4s",
+      "thumbnail": "https://i.ytimg.com/vi/DkUuOr21v4s/hqdefault.jpg",
+      "publishedAt": "2026-09-24T22:26:18.000Z"
+    },
+    {
       "id": "n_b67020bcfa",
       "type": "video",
       "topic": "video",
@@ -1126,18 +1149,6 @@
       "url": "https://www.youtube.com/watch?v=6D__H_DO2Xk",
       "thumbnail": "https://i.ytimg.com/vi/6D__H_DO2Xk/hqdefault.jpg",
       "publishedAt": "2026-09-12T21:36:57.000Z"
-    },
-    {
-      "id": "n_49c5442701",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "iPhone 18 Pro/Duo Impressions: Mogged",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=Od6M0AXpcxQ",
-      "thumbnail": "https://i.ytimg.com/vi/Od6M0AXpcxQ/hqdefault.jpg",
-      "publishedAt": "2026-09-10T07:29:55.000Z"
     }
   ]
 }
