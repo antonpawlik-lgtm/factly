@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T23:36:42.499Z",
+  "generatedAt": "2026-09-25T02:10:43.050Z",
   "items": [
     {
       "id": "n_19352151c1",
@@ -266,6 +266,28 @@
       "publishedAt": "2026-09-24T15:11:02.000Z"
     },
     {
+      "id": "n_e7cba19dae",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "The world’s two most powerful men just met. How did it go?",
+      "summary": "The BBC’s China correspondent Laura Bicker unpacks how the trip panned out for Beijing and Washington.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cm790gjyw1qxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T01:27:10.000Z"
+    },
+    {
+      "id": "n_3f96308a98",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+      "summary": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T01:10:35.000Z"
+    },
+    {
       "id": "n_99e5b53ebc",
       "type": "news",
       "topic": "general",
@@ -274,7 +296,18 @@
       "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T23:32:51.000Z"
+      "publishedAt": "2026-09-25T00:44:04.000Z"
+    },
+    {
+      "id": "n_99f26fe694",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
+      "summary": "After a major win at Toronto, Angh, a film from northeastern India, is now on a path towards the Oscars.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T23:41:10.000Z"
     },
     {
       "id": "n_8f316ab13d",
@@ -321,39 +354,6 @@
       "publishedAt": "2026-09-24T19:02:36.000Z"
     },
     {
-      "id": "n_eeb4f1993e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Watch: UN delegates walk out of Netanyahu speech",
-      "summary": "The Israeli delegation could be be seen cheering in support during Netanyahu's speech.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cqwyzmpm3pgdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T18:29:29.000Z"
-    },
-    {
-      "id": "n_9f9515000c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-      "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T18:06:40.000Z"
-    },
-    {
-      "id": "n_488b8024a1",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout",
-      "summary": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjzlve8jg7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-24T17:55:44.000Z"
-    },
-    {
       "id": "n_922e940651",
       "type": "news",
       "topic": "tech",
@@ -363,6 +363,17 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-24T23:03:53.000Z"
+    },
+    {
+      "id": "n_9f9515000c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+      "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-24T18:06:40.000Z"
     },
     {
       "id": "n_a23f76d1ff",
