@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-09-26T13:26:02.940Z",
+  "generatedAt": "2026-09-26T18:08:34.430Z",
   "items": [
+    {
+      "id": "n_f9ee438899",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wadephul trifft überraschend Lawrow in New York",
+      "summary": "Zum ersten Mal seit Beginn des russischen Überfalls auf die Ukraine hat ein deutscher Chefdiplomat den russischen Außenminister getroffen. Das kurze Treffen zwischen Wadephul und Lawrow fand am Rande der UN-Generaldebatte statt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/wadephul-treffen-lawrow-100.html",
+      "publishedAt": "2026-09-26T17:54:50.000Z"
+    },
+    {
+      "id": "n_ca5b8f41d5",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Papst Leo XIV. feiert Messe mit 800.000 Menschen in Paris",
+      "summary": "Papst Leo XIV. hat seinen Aufenthalt in Paris mit einer großen Messe beendet. Das Verhältnis zwischen Frankreich und dem Vatikan ist nicht frei von Spannungen - trotzdem wurde der Papst von einer riesigen Menschenmenge gefeiert.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/papst-paris-messe-100.html",
+      "publishedAt": "2026-09-26T16:25:33.000Z"
+    },
+    {
+      "id": "n_2666aaa253",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Trump lehnt Irans Vorschlag zur Öffnung der Straße von Hormus ab",
+      "summary": "Die Straße von Hormus ist seit Beginn des Iran-Kriegs für die Schifffahrt praktisch blockiert. Iran unterbreitete den USA am Rande der UN-Generalversammlung einen Vorschlag zur Öffnung. Den lehnte US-Präsident Trump nun ab.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/iran-krieg-hormus-trump-lehnt-vorschlag-ab-100.html",
+      "publishedAt": "2026-09-26T15:50:22.000Z"
+    },
+    {
+      "id": "n_b1ec3354ee",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Pflege in Schweden: So lange wie möglich zu Hause",
+      "summary": "Schweden setzt bei der Altenpflege konsequent auf die Betreuung zu Hause. Ein gut ausgebauter Pflegedienst macht das möglich. Die Höhe des Eigenbeitrags ist begrenzt - doch Fachkräfte werden knapp. Von J. Sinram.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/schweden-pflege-100.html",
+      "publishedAt": "2026-09-26T15:29:01.000Z"
+    },
+    {
+      "id": "n_0a3ea2a20f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Dobrindt will schnelle Eingreiftruppe der EU-Grenzschutzagentur Frontex",
+      "summary": "Die europäischen Grenzschutzagentur soll laut Innenminister Dobrindt künftig schnell auf Massenankünfte von Migranten wie etwa im Sommer in Ceuta reagieren. Auch sonst sollen die Befugnisse von Frontex gestärkt werden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/dobrindt-munich-migration-meeting-frontex-100.html",
+      "publishedAt": "2026-09-26T15:27:14.000Z"
+    },
+    {
+      "id": "n_7480bbf419",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Zehntausende protestieren in mehreren Städten gegen Sozialreformen",
+      "summary": "Zehntausende Menschen haben gegen die Sozialpolitik der Bundesregierung protestiert. Dazu aufgerufen hatte der Deutsche Gewerkschaftsbund. Die Regierungspläne gingen zu Lasten der Arbeitnehmer, so DGB-Chefin Fahimi.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/sozialreformen-proteste-dgb-100.html",
+      "publishedAt": "2026-09-26T13:54:08.000Z"
+    },
     {
       "id": "n_1368e0776e",
       "type": "news",
@@ -24,70 +90,15 @@
       "publishedAt": "2026-09-26T12:30:06.000Z"
     },
     {
-      "id": "n_7480bbf419",
+      "id": "n_8950993a78",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "DGB protestiert in mehreren Städten gegen Sozialreformen",
-      "summary": "Der Deutsche Gewerkschaftsbund (DGB) protestiert gegen die Sozialpolitik der Bundesregierung. In mehreren Städten gibt es Kundgebungen. Die geplanten Maßnahmen gingen zu Lasten der Arbeitnehmer, sagte DGB-Chefin Fahimi.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/sozialreformen-proteste-dgb-100.html",
-      "publishedAt": "2026-09-26T12:05:22.000Z"
-    },
-    {
-      "id": "n_3b2e800638",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Bildungsministerin Prien: \"Verbot von Stolpersteinen ist Skandal\"",
-      "summary": "Stolpersteine erinnern an die Opfer des Nationalsozialismus. Im sächsischen Heidenau sollen laut einem Beschluss des Stadtrats keine neuen mehr verlegt werden. Bundesbildungsministerin Prien spricht von einem Skandal.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/heidenau-stolpersteine-prien-100.html",
-      "publishedAt": "2026-09-26T11:27:04.000Z"
-    },
-    {
-      "id": "n_73d35c9a17",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Jubiläum des Comics \"Tim und Struppi\": Beliebt wie eh und je",
-      "summary": "Die Comics über den Reporter Tim und seinen Hund Struppi gab es schon vor dem Krieg. Doch vor 80 Jahren feierten sie den Durchbruch. Der Erfolg hält bis heute an. Neue Bücher durften nach dem Tod von Erfinder Hergé aber nicht erscheinen. Von A. Meyer-Feist.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kultur/tim-struppi-comics-jubilaeum-100.html",
-      "publishedAt": "2026-09-26T11:11:51.000Z"
-    },
-    {
-      "id": "n_2a86220ddb",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Durchtrennte Kabel in Gelsenkirchen: Zugausfälle und Umleitungen im Ruhrgebiet",
-      "summary": "Durchtrennte Kabel bei Gelsenkirchen haben für massive Störungen im Nah- und Fernverkehr im Ruhrgebiet gesorgt. Laut Polizei sind die unbekannten Täter sehr grob vorgegangen: Dadurch sind Signale und Steuerungsanlagen ausgefallen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/kabelklau-gelsenkirchen-zugausfaelle--umleitungen-ruhrgebiet-100.html",
-      "publishedAt": "2026-09-26T11:09:00.000Z"
-    },
-    {
-      "id": "n_f3869ad05b",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wie lange gibt es diesen Gletscher noch? Weltkarte zeigt Schmelze",
-      "summary": "Durch den Klimawandel schmelzen Gletscher - das ist bekannt. Doch wie lange wird es jeden einzelnen noch geben? Eine interaktive Karte zeigt, wie sie sich in Zukunft entwickeln - je nach Klimaszenario. Von v. Sperber und v. Liebe.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/klima/karte-gletscher-104.html",
-      "publishedAt": "2026-09-26T09:16:37.000Z"
-    },
-    {
-      "id": "n_69c483ec63",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Kann die Linke in der Hauptstadt regieren?",
-      "summary": "Die Abgeordnetenhauswahl in Berlin hat die Linke gewonnen. Aber was ist der Sieg wert? Antisemitismusvorwürfe lassen die möglichen Koalitionspartner SPD und Grüne zögern. Einige Linke sehen eine Diffamierungskampagne. Von C. Buckenmaier.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-104.html",
-      "publishedAt": "2026-09-26T09:16:05.000Z"
+      "headline": "AusweisApp: Zertifikate von der Bundesdruckerei überraschend zurückgezogen",
+      "summary": "Seit kurzer Zeit werden die Zertifikate der AusweisApp-Website von mehreren Browsern nicht mehr akzeptiert. Die Vergabestelle D-Trust hat sie zurückgezogen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/AusweisApp-der-Bundesdruckerei-Zertifikat-ueberraschend-zurueckgezogen-11467046.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-26T14:20:00.000Z"
     },
     {
       "id": "n_7112f19990",
@@ -165,17 +176,6 @@
       "source": "heise online",
       "url": "https://www.heise.de/news/Video-Tool-VLC-Version-3-0-24-stopft-ueber-130-Sicherheitslecks-11465305.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
       "publishedAt": "2026-09-25T07:02:00.000Z"
-    },
-    {
-      "id": "n_4f8b26b23d",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Rechenzentren im All: Google-Satellit mit vier KI-Beschleunigern vor dem Start",
-      "summary": "Der nächste Wettlauf ins All könnte dem Aufbau riesiger KI-Rechenzentren dienen. Google will nächste Woche einen ersten Testsatelliten mit vier TPUs starten.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Rechenzentren-im-All-Google-will-Satellit-mit-vier-KI-Beschleunigern-starten-11464879.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-24T15:39:00.000Z"
     },
     {
       "id": "n_09c597b383",
@@ -266,15 +266,70 @@
       "publishedAt": "2026-09-26T08:40:02.000Z"
     },
     {
+      "id": "n_3808196cf2",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "summary": "The US president says Tehran had only put forward the proposal because it is losing the war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T16:58:39.000Z"
+    },
+    {
       "id": "n_9e39130e88",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Huge crowds greet Pope in Paris for open-air Mass",
-      "summary": "More than half a million people are expected to attend the event in the heart of the French capital.",
+      "headline": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "summary": "Around 700,000 people gathered in central Paris to hear the Catholic leader speak and offer prayer.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-26T13:23:59.000Z"
+      "publishedAt": "2026-09-26T16:53:32.000Z"
+    },
+    {
+      "id": "n_264bf969ca",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "German town bans 'stumbling stone' memorials to Nazi victims",
+      "summary": "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T15:48:51.000Z"
+    },
+    {
+      "id": "n_e75fb2bc97",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Brazil's Lula bans online gambling ahead of presidential election",
+      "summary": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T15:46:40.000Z"
+    },
+    {
+      "id": "n_b5cc08a0c3",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: Bangkok declared flood disaster zone",
+      "summary": "Heavy rain over the last two days has overwhelmed Bangkok's water systems, with more rain forecast on Sunday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cwp933mr9v1xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T15:34:18.000Z"
+    },
+    {
+      "id": "n_57b53a396b",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
+      "summary": "The indpendent report also says Kirk's aides insisted he speak outdoors, overriding concerns from campus officials.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T15:12:25.000Z"
     },
     {
       "id": "n_bd43d03632",
@@ -297,61 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-26T10:44:37.000Z"
-    },
-    {
-      "id": "n_87c1ee7546",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Bangkok roads submerged as flood disaster declared",
-      "summary": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-26T07:21:30.000Z"
-    },
-    {
-      "id": "n_718df12827",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Bangkok declares disaster as heavy rains spark flooding",
-      "summary": "Days of near continuous downpours have caused widespread flooding in the Thai capital.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-26T06:28:58.000Z"
-    },
-    {
-      "id": "n_87ad03b9a8",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "White House bars CNN from travelling with Trump on Air Force One",
-      "summary": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-26T05:09:09.000Z"
-    },
-    {
-      "id": "n_3808196cf2",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "summary": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-26T05:03:09.000Z"
-    },
-    {
-      "id": "n_e75fb2bc97",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Brazil's Lula bans online gambling ahead of presidential election",
-      "summary": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-26T03:22:17.000Z"
     },
     {
       "id": "n_d22a199399",
@@ -442,6 +442,17 @@
       "publishedAt": "2026-09-24T15:42:07.000Z"
     },
     {
+      "id": "n_e899f09f9f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
+      "summary": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
+      "publishedAt": "2026-09-26T10:45:09.000Z"
+    },
+    {
       "id": "n_13df8a7ee8",
       "type": "news",
       "topic": "tech",
@@ -519,15 +530,15 @@
       "publishedAt": "2026-09-25T18:42:57.000Z"
     },
     {
-      "id": "n_bc9575a458",
+      "id": "n_c6fb97f618",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Is solar's growth finally slowing in the US?",
-      "summary": "Renewables easily cover changes in US demand, which is rising by 2% in 2026.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/",
-      "publishedAt": "2026-09-25T18:27:18.000Z"
+      "headline": "I created an interactive digital avatar of myself — and you can talk to it",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "publishedAt": "2026-09-26T14:00:00.000Z"
     },
     {
       "id": "n_1fe1b6ab72",
@@ -607,15 +618,26 @@
       "publishedAt": "2026-09-25T18:33:59.000Z"
     },
     {
-      "id": "n_ddb6a0a573",
+      "id": "n_819e92326d",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes late",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-      "publishedAt": "2026-09-25T18:22:47.000Z"
+      "headline": "OpenAI pauses training of its ‘most capable models’",
+      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "publishedAt": "2026-09-26T16:34:59.000Z"
+    },
+    {
+      "id": "n_344d41dcb1",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it t",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "publishedAt": "2026-09-26T14:00:00.000Z"
     },
     {
       "id": "n_e84d98e81a",
@@ -682,28 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
       "publishedAt": "2026-09-24T19:59:26.000Z"
-    },
-    {
-      "id": "n_3ab9cbba8c",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Jensen Huang talks about AI and climate change like a supervillain",
-      "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil do",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-      "publishedAt": "2026-09-24T18:04:44.000Z"
-    },
-    {
-      "id": "n_18e7444965",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Meta is going to let you build games with AI right on your phone",
-      "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular control",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-      "publishedAt": "2026-09-24T17:52:29.000Z"
     },
     {
       "id": "n_93b91a44c5",
