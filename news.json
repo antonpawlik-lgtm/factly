@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-09-27T18:43:42.518Z",
+  "generatedAt": "2026-09-27T23:27:09.233Z",
   "items": [
+    {
+      "id": "n_d83689e165",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Serbiens Präsident Vucic tritt zurück",
+      "summary": "Ein halbes Jahr vor Ende seines Mandats tritt Vucic als serbischer Präsident zurück. Mit dem Schritt will er vom Präsidialamt in das Amt des Premiers wechseln. Zuletzt gab es Massenproteste und politischen Druck. Von Silke Hahne.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/vucic-serbien-ruecktritt-100.html",
+      "publishedAt": "2026-09-27T23:13:56.000Z"
+    },
+    {
+      "id": "n_e06b2f7f8a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bis zu 150 Leistungen: So viel Geld können Familien vom Staat bekommen",
+      "summary": "Eine sechsstellige Summe kosten Kinder ihre Eltern bis zum 18. Geburtstag. Allerdings müssen Eltern das nicht ganz alleine finanzieren. Denn der Staat unterstützt Familien in Deutschland mit zahlreichen Leistungen. Von L.-M. Hiltscher.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/staatliche-leistungen-familien-elterngeld-kindergeld-100.html",
+      "publishedAt": "2026-09-27T20:02:02.000Z"
+    },
     {
       "id": "n_0fc70bb894",
       "type": "news",
@@ -68,26 +90,15 @@
       "publishedAt": "2026-09-27T13:15:09.000Z"
     },
     {
-      "id": "n_9653605fb2",
+      "id": "n_4a597756de",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Milchprodukte könnten spürbar teurer werden",
-      "summary": "Milch, Joghurt und Quark könnten bald deutlich teurer werden. Die Molkereien wollen höhere Preise durchsetzen. Eine Rolle spielt dabei auch das Klima im tropischen Pazifik - und der Proteinhype.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher-milch-preise-100.html",
-      "publishedAt": "2026-09-27T12:44:33.000Z"
-    },
-    {
-      "id": "n_dce05ad536",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Sizilien: Ätna legt erneut Flugbetrieb in Catania lahm",
-      "summary": "Der Ätna stößt wieder Asche aus - zum Leidwesen vieler Sizilien-Urlauber. Am Flughafen Catania geht vorübergehend nichts mehr, Starts und Landungen sind ausgesetzt worden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/sizilien-catania-aetna-100.html",
-      "publishedAt": "2026-09-27T12:40:57.000Z"
+      "headline": "Citrix Netscaler: Kritische Sicherheitslücken erlauben Codeeinschleusung",
+      "summary": "Sicherheitsforscher warnen: Neue Exploits würden aktiv ausgenutzt. Citrix bestätigt die Lücken; Updates werden ausgeliefert.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Sicherheitsforscher-warnen-Neue-Zero-Day-Exploits-in-Citrix-Netscaler-11467200.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-09-27T15:51:00.000Z"
     },
     {
       "id": "n_8950993a78",
@@ -165,17 +176,6 @@
       "source": "heise online",
       "url": "https://www.heise.de/news/Astronomie-Schwere-Elemente-wohl-schon-zu-Beginn-der-Reionisierung-entstanden-11465373.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
       "publishedAt": "2026-09-25T08:11:00.000Z"
-    },
-    {
-      "id": "n_2113cb8aaf",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Video-Tool VLC: Version 3.0.24 stopft über 130 Sicherheitslecks",
-      "summary": "Der Videoplayer VLC ist in Version 3.0.24 erschienen. Mehr als 130 Sicherheitslücken soll das Release schließen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Video-Tool-VLC-Version-3-0-24-stopft-ueber-130-Sicherheitslecks-11465305.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-25T07:02:00.000Z"
     },
     {
       "id": "n_9e18bb39d5",
@@ -266,6 +266,50 @@
       "publishedAt": "2026-09-27T08:55:02.000Z"
     },
     {
+      "id": "n_f097de0127",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+      "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T21:00:06.000Z"
+    },
+    {
+      "id": "n_e6dc28c766",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: The ups and downs of SpaceX's 13 Starship test flights",
+      "summary": "The BBC's Ricky Boleto looks how previous SpaceX test flights went.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cm0e30lpngxpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T20:05:07.000Z"
+    },
+    {
+      "id": "n_dd7f918690",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Embattled Serbian president resigns, paving way for early elections",
+      "summary": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T20:04:21.000Z"
+    },
+    {
+      "id": "n_007fe3baf6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
+      "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T19:47:21.000Z"
+    },
+    {
       "id": "n_4380743d7c",
       "type": "news",
       "topic": "general",
@@ -308,50 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-27T15:56:25.000Z"
-    },
-    {
-      "id": "n_fa9c2e8e57",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Two mass shootings in South Africa leave 27 dead",
-      "summary": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T14:09:22.000Z"
-    },
-    {
-      "id": "n_8e8dd43e13",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "One dead as nor'easter storm pummels New York and New Jersey",
-      "summary": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T12:34:26.000Z"
-    },
-    {
-      "id": "n_007fe3baf6",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'Scourge' of abuse must be rooted out, says Pope during Lourdes visit",
-      "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T11:38:03.000Z"
-    },
-    {
-      "id": "n_325adde017",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Before BTS and Blackpink, there was Big Bang: Now the Kings of K-pop are back",
-      "summary": "Big Bang played London's Tottenham Hotspur Stadium, marking a long-awaited return for the group that helped build the blueprint for modern K-pop.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq39me84zrkdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T08:51:23.000Z"
     },
     {
       "id": "n_d22a199399",
@@ -530,6 +530,39 @@
       "publishedAt": "2026-09-25T19:11:05.000Z"
     },
     {
+      "id": "n_79b213b759",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Anthropic’s CEO is about to have dinner with President Trump",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "publishedAt": "2026-09-27T20:34:28.000Z"
+    },
+    {
+      "id": "n_eaa520eb58",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Can Muse overcome Meta’s trust issues?",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "publishedAt": "2026-09-27T19:57:30.000Z"
+    },
+    {
+      "id": "n_8884274c1b",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "publishedAt": "2026-09-27T16:30:00.000Z"
+    },
+    {
       "id": "n_b09c672e44",
       "type": "news",
       "topic": "ai",
@@ -585,37 +618,15 @@
       "publishedAt": "2026-09-25T23:11:10.000Z"
     },
     {
-      "id": "n_df19e6663c",
+      "id": "n_9c14e3f084",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "publishedAt": "2026-09-25T22:20:47.000Z"
-    },
-    {
-      "id": "n_28eff29135",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Meta opens early access program for new Muse features",
-      "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-      "publishedAt": "2026-09-25T20:34:53.000Z"
-    },
-    {
-      "id": "n_e64ca27616",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "publishedAt": "2026-09-25T19:13:38.000Z"
+      "headline": "Engram is a sampler that turns broken AI hallucinations into music",
+      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button,",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "publishedAt": "2026-09-27T20:46:36.000Z"
     },
     {
       "id": "n_ed2cbcca51",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
       "publishedAt": "2026-09-25T13:00:00.000Z"
-    },
-    {
-      "id": "n_c9b6dd7b22",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-      "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI person",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-      "publishedAt": "2026-09-25T12:00:00.000Z"
     },
     {
       "id": "n_93b91a44c5",
