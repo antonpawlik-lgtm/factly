@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-27T23:27:09.233Z",
+  "generatedAt": "2026-09-28T02:15:11.822Z",
   "items": [
+    {
+      "id": "n_861ae9d2c9",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Zeltproteste gegen Wohnungsnot und hohe Mieten in Madrid",
+      "summary": "Der Fall einer 87‑Jährigen, die nach Jahrzehnten ihre Wohnung verlassen muss, bewegt Spanien. 25.000 Menschen demonstrierten in Madrid an diesem Wochenende gegen die Wohnungskrise. Ein Protestcamp erinnert an die Bewegung der Empörten vor 15 Jahren. Von H.-G. Kellner.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/madrid-proteste-wohnungsnot-100.html",
+      "publishedAt": "2026-09-28T01:22:23.000Z"
+    },
     {
       "id": "n_d83689e165",
       "type": "news",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/schweiz-volksabstimmung-neutralitaet-106.html",
       "publishedAt": "2026-09-27T14:30:59.000Z"
-    },
-    {
-      "id": "n_95c42c64d4",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Zehntausende demonstrieren nach Zwangsräumung bei 87-Jähriger in Madrid",
-      "summary": "Unmut über Wohnungsnot und hohe Mieten gibt es auch in Spanien schon lange. Doch die Zwangsräumung der Wohnung einer 87-Jährigen bringt für viele nun offenbar das Fass zum Überlaufen. Zehntausende gingen in Madrid auf die Straße.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/demonstration-mieten-madrid-100.html",
-      "publishedAt": "2026-09-27T13:15:09.000Z"
     },
     {
       "id": "n_4a597756de",
@@ -266,6 +266,72 @@
       "publishedAt": "2026-09-27T08:55:02.000Z"
     },
     {
+      "id": "n_8ca46fa531",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
+      "summary": "Celebrities posed for the cameras ahead of the 2026 MTV Video Music Awards in Los Angeles.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-28T01:16:18.000Z"
+    },
+    {
+      "id": "n_b5efa11f62",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: Shipwreck uncovered on Nantucket island during nor'easter storm",
+      "summary": "The so-called nor'easter storm has washed up what may be a shipwreck from the 19th century in Massachusetts, local media says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cmg497x0p4x3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-28T00:52:49.000Z"
+    },
+    {
+      "id": "n_8e8dd43e13",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "One dead as nor'easter storm pummels New York and New Jersey",
+      "summary": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T23:37:26.000Z"
+    },
+    {
+      "id": "n_b419a9e425",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "News media must stay relevant or 'society will struggle', says World News Day boss",
+      "summary": "World News Day aims to highlight the role of news providers in investigating and explaining important events.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T23:27:22.000Z"
+    },
+    {
+      "id": "n_930b4cf9e6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Why some Indian civil servants become heroes for doing their jobs",
+      "summary": "In a system often marked by red tape and exhausting delays, officers seen to be following the rules get adulation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw980vje6l3eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T23:01:37.000Z"
+    },
+    {
+      "id": "n_70b346dbdb",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Inside Yemen's front-line city as Houthis battle for control",
+      "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-27T21:16:31.000Z"
+    },
+    {
       "id": "n_f097de0127",
       "type": "news",
       "topic": "general",
@@ -286,72 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cm0e30lpngxpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-27T20:05:07.000Z"
-    },
-    {
-      "id": "n_dd7f918690",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Embattled Serbian president resigns, paving way for early elections",
-      "summary": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T20:04:21.000Z"
-    },
-    {
-      "id": "n_007fe3baf6",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
-      "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T19:47:21.000Z"
-    },
-    {
-      "id": "n_4380743d7c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Two bodies found after avalanche hits Himalayan climbing group",
-      "summary": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T17:05:26.000Z"
-    },
-    {
-      "id": "n_2e4ff4b9f4",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Woman charged with stealing from patients and staff at hospitals across Ontario",
-      "summary": "The 34-year-old is under investigation for incidents that began in February 2024 up until as recently as last month.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3ew9e5lg01vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T16:35:41.000Z"
-    },
-    {
-      "id": "n_7824db06bf",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Switzerland rejects stricter interpretation of its neutrality",
-      "summary": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T16:02:17.000Z"
-    },
-    {
-      "id": "n_0643170288",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Venezuela releases dozens of political prisoners as election calls grow",
-      "summary": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-27T15:56:25.000Z"
     },
     {
       "id": "n_d22a199399",
@@ -968,198 +968,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
       "publishedAt": "2026-09-15T16:00:44.000Z"
-    },
-    {
-      "id": "n_b7d9300382",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-      "thumbnail": "https://i.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg",
-      "publishedAt": "2026-09-24T08:40:55.000Z"
-    },
-    {
-      "id": "n_762e86c2a7",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Yes, Jev Is Insane, But There's A Catch",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
-      "thumbnail": "https://i.ytimg.com/vi/qBBRRsH0rQc/hqdefault.jpg",
-      "publishedAt": "2026-09-22T09:32:13.000Z"
-    },
-    {
-      "id": "n_0c3e7fe15b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek’s Insane New Architecture",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
-      "thumbnail": "https://i.ytimg.com/vi/vIHw_2VjSUw/hqdefault.jpg",
-      "publishedAt": "2026-09-18T07:03:46.000Z"
-    },
-    {
-      "id": "n_281ff94730",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
-      "thumbnail": "https://i.ytimg.com/vi/YoEWjZSwoys/hqdefault.jpg",
-      "publishedAt": "2026-09-15T10:12:34.000Z"
-    },
-    {
-      "id": "n_c21d60498a",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
-      "publishedAt": "2026-09-17T00:34:47.000Z"
-    },
-    {
-      "id": "n_ffdb3dfd14",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
-      "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_6a18d8c315",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
-      "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
-      "publishedAt": "2026-08-12T12:57:24.000Z"
-    },
-    {
-      "id": "n_49a7d5405f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
-      "publishedAt": "2026-07-28T20:02:11.000Z"
-    },
-    {
-      "id": "n_e69560d580",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Meta is pivoting again... everything you missed from Connect 2026",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=c1rPlzxSZ8E",
-      "thumbnail": "https://i.ytimg.com/vi/c1rPlzxSZ8E/hqdefault.jpg",
-      "publishedAt": "2026-09-25T19:22:32.000Z"
-    },
-    {
-      "id": "n_21e492bf7a",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The most expensive 33 hours in WordPress history...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=ylO0DQeVEBQ",
-      "thumbnail": "https://i.ytimg.com/vi/ylO0DQeVEBQ/hqdefault.jpg",
-      "publishedAt": "2026-09-23T17:17:22.000Z"
-    },
-    {
-      "id": "n_a93dbe450e",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "An ex-OpenAI researcher just deleted language from the LLM...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=TbkUKCm3CHQ",
-      "thumbnail": "https://i.ytimg.com/vi/TbkUKCm3CHQ/hqdefault.jpg",
-      "publishedAt": "2026-09-21T17:52:29.000Z"
-    },
-    {
-      "id": "n_cadb3dcc5b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did Google just kickstart the intelligence explosion?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=LoLYw--s-5w",
-      "thumbnail": "https://i.ytimg.com/vi/LoLYw--s-5w/hqdefault.jpg",
-      "publishedAt": "2026-09-17T20:33:55.000Z"
-    },
-    {
-      "id": "n_0e03fa3a80",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Xiaomi 18 Pro Max: They've Done It Again!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=DkUuOr21v4s",
-      "thumbnail": "https://i.ytimg.com/vi/DkUuOr21v4s/hqdefault.jpg",
-      "publishedAt": "2026-09-24T22:26:18.000Z"
-    },
-    {
-      "id": "n_b67020bcfa",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Apple Watch Has a Problem",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=pOX1l1edBME",
-      "thumbnail": "https://i.ytimg.com/vi/pOX1l1edBME/hqdefault.jpg",
-      "publishedAt": "2026-09-22T17:49:42.000Z"
-    },
-    {
-      "id": "n_1780436ac8",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "iPhone 18 Pro Review: All About that Chip",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=ohqxP8EEumo",
-      "thumbnail": "https://i.ytimg.com/vi/ohqxP8EEumo/hqdefault.jpg",
-      "publishedAt": "2026-09-16T12:01:27.000Z"
-    },
-    {
-      "id": "n_81872e96d1",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "iPhone Duo: What We Missed!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=6D__H_DO2Xk",
-      "thumbnail": "https://i.ytimg.com/vi/6D__H_DO2Xk/hqdefault.jpg",
-      "publishedAt": "2026-09-12T21:36:57.000Z"
     }
   ]
 }
