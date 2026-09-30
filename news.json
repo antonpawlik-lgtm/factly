@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-09-30T17:06:32.777Z",
+  "generatedAt": "2026-09-30T21:35:50.164Z",
   "items": [
+    {
+      "id": "n_490de3e004",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Flydubai-Flug nach Tel Aviv: Was über den Vorfall bekannt ist",
+      "summary": "Nach dem gewaltsamen Vorfall im Cockpit eines Flydubai-Flugzeugs auf dem Weg nach Tel Aviv geht die israelische Regierung von einem versuchten Terroranschlag aus. Was über den Zwischenfall bekannt ist - und was nicht.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/faq-flydubai-gewalt-100.html",
+      "publishedAt": "2026-09-30T20:31:18.000Z"
+    },
+    {
+      "id": "n_87c2a5f88c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Linke-Politiker Kocak gibt Sitz im Innenausschuss des Bundestages auf",
+      "summary": "Der Berliner Linken-Politiker Kocak zieht sich endgültig aus dem Innenausschuss des Bundestages zurück. Kocak werden Kontakte ins Clan-Milieu vorgeworfen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-kocak-innenausschuss-100.html",
+      "publishedAt": "2026-09-30T18:59:10.000Z"
+    },
+    {
+      "id": "n_847e203f0a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt",
+      "summary": "Großbritannien hat nach Angaben von Premier Burnham Hinweise, dass Iran in den Vorfall nahe dem Luftwaffenstützpunkt Fairford verwickelt ist. Teheran bestreitet jegliche Beteiligung. Viele Details sind weiter unklar.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/burnham-iran-stuetzpunkt-100.html",
+      "publishedAt": "2026-09-30T18:07:15.000Z"
+    },
+    {
+      "id": "n_43cb4ca2f1",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Erdölraffinerie in Kenia soll Afrikas Wirtschaft einen Schub geben",
+      "summary": "Mit Erdöl kennt sich Aliko Dangote aus: Der reichste Afrikaner betreibt in Nigeria die größte Raffinerie des Kontinents. Nun soll eine weitere in Kenia dazukommen. Dangote verfolgt damit große Pläne. Von K. Bensch.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/afrika/kenia-erdoel-raffinerie-100.html",
+      "publishedAt": "2026-09-30T17:23:51.000Z"
+    },
     {
       "id": "n_bfc0696cb6",
       "type": "news",
@@ -44,50 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-ki-100.html",
       "publishedAt": "2026-09-30T16:22:36.000Z"
-    },
-    {
-      "id": "n_fa3fff1d8e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Übung der Heimatschutzdivision: Spannungsfall an der Autobahnbrücke",
-      "summary": "Vergangenes Jahr wurde die Heimatschutzdivision der Bundeswehr gegründet. Zu ihren Aufgaben gehört der Schutz kritischer Infrastruktur und Drohnenabwehr. Jetzt lief die erste große Übung im öffentlichen Raum. Von Philipp Jahn.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/heimatschutzdivision-bundeswehr-100.html",
-      "publishedAt": "2026-09-30T15:57:43.000Z"
-    },
-    {
-      "id": "n_57b6de27de",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Versuchter Terror? Gewaltvorfall in Cockpit von Flydubai-Maschine",
-      "summary": "An Bord einer Maschine von Dubai nach Tel Aviv hat ein Pilot auf seinen Kollegen mit einem Messer eingestochen. 180 Israelis waren an Bord. Israels Regierung spricht bereits von einem Anschlagsversuch.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/flydubai-notlandung-terrorverdacht-100.html",
-      "publishedAt": "2026-09-30T15:55:45.000Z"
-    },
-    {
-      "id": "n_a4c739d483",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Ukrainische Behörden melden mehrere Tote durch Angriffe auf Kiew",
-      "summary": "Durch russische Drohnen- und Raketenangriffe auf die Stadt und Region Kiew sind laut ukrainischen Behörden mehrere Menschen getötet und weitere verletzt worden. In Polen wurde der Betrieb zweier Flughäfen zeitweise eingestellt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-kiew-134.html",
-      "publishedAt": "2026-09-30T15:46:53.000Z"
-    },
-    {
-      "id": "n_45b28f8ffa",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Kommentar zur Pflegereform: Regierung setzt wieder mal aufs Vertagen",
-      "summary": "Das Bundeskabinett hat nach langem Hin und Her den Gesetzentwurf zur Pflege beschlossen. Doch diese Pflegereform ist vor allem eine Vertagungsreform, meint Dietrich Karl Mäurer. Strukturelle Veränderungen fehlen weiter.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kommentar/pflegereform-kabinett-104.html",
-      "publishedAt": "2026-09-30T15:32:10.000Z"
     },
     {
       "id": "n_487f12cf99",
@@ -266,6 +266,50 @@
       "publishedAt": "2026-09-30T14:17:02.000Z"
     },
     {
+      "id": "n_ac96a05483",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
+      "summary": "Other passengers on the Israel-bound flight described the \"terrifying\" moment the plane dropped.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T21:11:24.000Z"
+    },
+    {
+      "id": "n_e16fa8268a",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "What we know about stabbing on Flydubai flight to Israel",
+      "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T20:44:12.000Z"
+    },
+    {
+      "id": "n_9ec5b5f5c6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
+      "summary": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T17:14:03.000Z"
+    },
+    {
+      "id": "n_506a1cf2ec",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "UK-France 'one in, one out' migrant scheme scrapped",
+      "summary": "Some 1,500 people have been removed to France since the scheme began just over a year ago.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T17:11:08.000Z"
+    },
+    {
       "id": "n_99393131b9",
       "type": "news",
       "topic": "general",
@@ -275,6 +319,17 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-30T15:29:11.000Z"
+    },
+    {
+      "id": "n_0276970218",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Passengers describe stabbing on Israel-bound plane",
+      "summary": "Passengers on the Flydubai flight bound for Israel filmed the moments following the stabbing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T15:07:00.000Z"
     },
     {
       "id": "n_fd0a6f60f3",
@@ -297,61 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-30T14:53:02.000Z"
-    },
-    {
-      "id": "n_83686a5657",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Dozens hurt and hundreds arrested in wave of French school protests",
-      "summary": "Students have been protesting against conditions and resources in secondary schools since last week.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T13:18:01.000Z"
-    },
-    {
-      "id": "n_b8d00ba86f",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Botswana condemned for slaughtering 23 elephants for independence celebrations",
-      "summary": "The government authorises the hunting of elephants and dozens of other wild animals for independence day feasts.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T12:06:28.000Z"
-    },
-    {
-      "id": "n_1a0961ba46",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
-      "summary": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T11:36:23.000Z"
-    },
-    {
-      "id": "n_84ab4c1f0a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Africa's richest man launches Kenya oil refinery despite land protests",
-      "summary": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T11:25:12.000Z"
-    },
-    {
-      "id": "n_e77f228cfe",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Couple describes relief at rescue after whale destroys their yacht",
-      "summary": "Jeremy and Gemma Cooper were 500 miles off the coast of New Zealand when their yacht, the Tai Tam, collided with a sperm whale.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c6n4ken4n7n7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T11:01:58.000Z"
     },
     {
       "id": "n_905968209b",
@@ -442,92 +442,147 @@
       "publishedAt": "2026-09-29T17:17:07.000Z"
     },
     {
-      "id": "n_3a6addc124",
+      "id": "n_556e1e4b03",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Cloudflare plans to issue quantum-safe TLS certificates",
-      "summary": "The move will be part of a major overhaul of the ecosystem for website authentication.",
+      "headline": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+      "summary": "So much for Gemini 3.5 Pro.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
-      "publishedAt": "2026-09-30T11:15:14.000Z"
+      "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+      "publishedAt": "2026-09-30T20:11:08.000Z"
     },
     {
-      "id": "n_0205a3f494",
+      "id": "n_bd00d22f16",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
-      "summary": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.",
+      "headline": "Reddit is putting more limits on Old.Reddit.com",
+      "summary": "Reddit says it's fighting \"automated abuse.\"",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
-      "publishedAt": "2026-09-29T22:30:37.000Z"
+      "url": "https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/",
+      "publishedAt": "2026-09-30T19:53:33.000Z"
     },
     {
-      "id": "n_f8e7c3348c",
+      "id": "n_cb18e27612",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Protests against OpenAI get increasingly creative",
-      "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
+      "headline": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+      "summary": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
-      "publishedAt": "2026-09-29T21:52:58.000Z"
+      "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+      "publishedAt": "2026-09-30T19:31:25.000Z"
     },
     {
-      "id": "n_088b2b332c",
+      "id": "n_95053f824a",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-      "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
+      "headline": "The Disney protests were a wake-up call about the risks of streaming mergers",
+      "summary": "Boycotting Disney is hard.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
-      "publishedAt": "2026-09-29T21:14:49.000Z"
+      "url": "https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/",
+      "publishedAt": "2026-09-30T19:22:19.000Z"
     },
     {
-      "id": "n_16ec48cdc1",
+      "id": "n_846404c900",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Trump ads paid for by US government allegedly violate anti-propaganda laws",
-      "summary": "FCC unlikely to stop Trump ads described as illegal taxpayer-funded propaganda.",
+      "headline": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+      "summary": "Trump gets dozens of AI firms to agree to voluntary safety tests.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
-      "publishedAt": "2026-09-29T20:23:40.000Z"
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+      "publishedAt": "2026-09-30T18:47:01.000Z"
     },
     {
-      "id": "n_dbb931099e",
+      "id": "n_7cdb83130a",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "NASA has a Dragon dilemma, and there appear to be no good answers",
-      "summary": "So is SpaceX just being selfish or what?",
+      "headline": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+      "summary": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
-      "publishedAt": "2026-09-29T18:34:00.000Z"
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+      "publishedAt": "2026-09-30T18:25:04.000Z"
     },
     {
-      "id": "n_a5b4ce65c1",
+      "id": "n_604d4213bc",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Here's what actually happened in OpenAI's Australian gov't server hack",
-      "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
+      "headline": "So what's happening with Russia's new, long-delayed crewed spacecraft?",
+      "summary": "Russia says it has a \"promising, reusable manned transport spacecraft.\"",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
-      "publishedAt": "2026-09-29T18:11:09.000Z"
+      "url": "https://arstechnica.com/space/2026/09/so-whats-happening-with-russias-new-long-delayed-crewed-spacecraft/",
+      "publishedAt": "2026-09-30T16:48:56.000Z"
     },
     {
-      "id": "n_ec2768a904",
+      "id": "n_c1c0d3f819",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Apple pressured to explain Trump role in ICE-tracking app removals",
-      "summary": "Lawmaker rejects Apple excuse for banning ICE-tracking apps as unconstitutional.",
+      "headline": "Google's early attempt to pay websites for AI answers is struggling",
+      "summary": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/",
-      "publishedAt": "2026-09-29T17:29:14.000Z"
+      "url": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
+      "publishedAt": "2026-09-30T16:03:48.000Z"
+    },
+    {
+      "id": "n_f9953f3a0f",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "publishedAt": "2026-09-30T21:07:40.000Z"
+    },
+    {
+      "id": "n_c2747f3375",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "publishedAt": "2026-09-30T19:00:57.000Z"
+    },
+    {
+      "id": "n_6e1523d277",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "publishedAt": "2026-09-30T18:23:57.000Z"
+    },
+    {
+      "id": "n_8b112c5c21",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "publishedAt": "2026-09-30T17:45:00.000Z"
+    },
+    {
+      "id": "n_04acd56abe",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The ugly economics of consumer AI",
+      "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "publishedAt": "2026-09-30T17:24:45.000Z"
     },
     {
       "id": "n_f59f9ed0e2",
@@ -563,59 +618,37 @@
       "publishedAt": "2026-09-30T16:00:00.000Z"
     },
     {
-      "id": "n_ab1a11a539",
+      "id": "n_97fa5252aa",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Instinct’s new product recommendations are giving some users the ick",
-      "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
-      "publishedAt": "2026-09-30T15:56:28.000Z"
+      "headline": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+      "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according t",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "publishedAt": "2026-09-30T20:41:41.000Z"
     },
     {
-      "id": "n_9fcaf5c1a6",
+      "id": "n_940c49f7ad",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-      "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-09-30T14:30:00.000Z"
+      "headline": "The AI Tamagotchis are coming",
+      "summary": "Sam Altman onstage at OpenAI’s DevDay 2026. | Photo: Hayden Field / The Verge While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change th",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "publishedAt": "2026-09-30T18:07:38.000Z"
     },
     {
-      "id": "n_4a00c2f7a1",
+      "id": "n_b370702999",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-      "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-      "publishedAt": "2026-09-30T14:27:11.000Z"
-    },
-    {
-      "id": "n_7b6770ba25",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
-      "summary": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
-      "publishedAt": "2026-09-30T14:15:00.000Z"
-    },
-    {
-      "id": "n_ff26d4a382",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Airbnb adds AI search, more social features",
-      "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-      "publishedAt": "2026-09-30T12:00:00.000Z"
+      "headline": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
+      "summary": "If you think this shot is amusing, check out the panicked look on Zuckerberg’s face when Trump calls on him to speak. | Photo: Kevin Dietsch/Getty Images After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his arti",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+      "publishedAt": "2026-09-30T17:15:49.000Z"
     },
     {
       "id": "n_1c9685f8d8",
@@ -671,39 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
       "publishedAt": "2026-09-30T00:19:13.000Z"
-    },
-    {
-      "id": "n_719d3195b2",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Trump orders US government to call AI ‘Super Intelligence’",
-      "summary": "Image: Carolyn Van Houten / The Washington Post via Getty Images The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" t",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-      "publishedAt": "2026-09-29T22:25:45.000Z"
-    },
-    {
-      "id": "n_c01a20c9c3",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
-      "summary": "Elon Musk | Image: Laura Normand / The Verge Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the plat",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-      "publishedAt": "2026-09-29T21:49:09.000Z"
-    },
-    {
-      "id": "n_5726e15c5c",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-      "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-      "publishedAt": "2026-09-29T17:35:03.000Z"
     },
     {
       "id": "n_8ce994a17c",
@@ -794,6 +794,39 @@
       "publishedAt": "2026-09-22T11:04:51.000Z"
     },
     {
+      "id": "n_da90560c54",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+      "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+      "publishedAt": "2026-09-30T20:30:09.000Z"
+    },
+    {
+      "id": "n_0340c6a100",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The Battle to Be Your Personal AI Agent Is Here",
+      "summary": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+      "publishedAt": "2026-09-30T19:30:00.000Z"
+    },
+    {
+      "id": "n_dc2e6e7fe2",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
+      "summary": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
+      "publishedAt": "2026-09-30T19:00:00.000Z"
+    },
+    {
       "id": "n_d3bd5d4123",
       "type": "news",
       "topic": "ai",
@@ -847,39 +880,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
       "publishedAt": "2026-09-29T10:30:00.000Z"
-    },
-    {
-      "id": "n_ba01a62d5f",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-      "summary": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-      "publishedAt": "2026-09-28T11:32:19.000Z"
-    },
-    {
-      "id": "n_d96ba4928f",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
-      "summary": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-      "publishedAt": "2026-09-28T10:00:00.000Z"
-    },
-    {
-      "id": "n_b357dec369",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
-      "summary": "Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute force of AI.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
-      "publishedAt": "2026-09-28T09:30:00.000Z"
     },
     {
       "id": "n_581ab3112c",
@@ -1066,6 +1066,18 @@
       "publishedAt": "2026-07-28T20:02:11.000Z"
     },
     {
+      "id": "n_a9f950b2ca",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Did a 50 year old military secret just solve agent prompt injection?",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=I_KVMFrUtPk",
+      "thumbnail": "https://i.ytimg.com/vi/I_KVMFrUtPk/hqdefault.jpg",
+      "publishedAt": "2026-09-30T17:16:43.000Z"
+    },
+    {
       "id": "n_acb2066b88",
       "type": "video",
       "topic": "video",
@@ -1100,18 +1112,6 @@
       "url": "https://www.youtube.com/watch?v=ylO0DQeVEBQ",
       "thumbnail": "https://i.ytimg.com/vi/ylO0DQeVEBQ/hqdefault.jpg",
       "publishedAt": "2026-09-23T17:17:22.000Z"
-    },
-    {
-      "id": "n_a93dbe450e",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "An ex-OpenAI researcher just deleted language from the LLM...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=TbkUKCm3CHQ",
-      "thumbnail": "https://i.ytimg.com/vi/TbkUKCm3CHQ/hqdefault.jpg",
-      "publishedAt": "2026-09-21T17:52:29.000Z"
     },
     {
       "id": "n_e3a30325d8",
