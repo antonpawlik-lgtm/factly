@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-10-02T16:55:42.601Z",
+  "generatedAt": "2026-10-02T21:30:41.399Z",
   "items": [
+    {
+      "id": "n_1714ac5976",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Feierlichkeiten zu Tag der Deutschen Einheit in Bremen begonnen",
+      "summary": "Mit einem symbolischen Raketenstart ist das Bürgerfest zum Tag der Deutschen Einheit in Bremen eröffnet worden. Bürgermeister Bovenschulte erwartet einen Tag der \"gelebten deutschen Einheit\". Die ersten prominenten Gäste sind bereits eingetroffen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/bremen-tag-deutsche-einheit-100.html",
+      "publishedAt": "2026-10-02T19:28:18.000Z"
+    },
+    {
+      "id": "n_dcf141cf94",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "G7-Staaten geben Diesel- und Rohöl-Reserven frei",
+      "summary": "Die G7-Staaten wollen angesichts der hohen Kraftstoffpreise Öl-Reserven freigeben. Die USA hatten zuvor Druck vor allem auf die europäischen G7-Mitglieder gemacht. Für US-Präsident Trump sind die hohen Preise innenpolitisch ein großes Problem.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/g7-dieselreserven-100.html",
+      "publishedAt": "2026-10-02T19:17:42.000Z"
+    },
+    {
+      "id": "n_7260b19a0a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Frankreichs Schulprotest hält an - Regierung verspricht Verbesserungen",
+      "summary": "Seit Tagen gehen Schülerinnen und Schüler in Frankreich auf die Straße, um mehr Geld für Bildung einzufordern. Bildungsminister Geffray versprach Verbesserungen. Schülervertreter wollen weiter protestieren - distanzieren sich aber von Gewalt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-100.html",
+      "publishedAt": "2026-10-02T19:00:30.000Z"
+    },
+    {
+      "id": "n_fddf8b029c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wahl-Panne in Berlin: Abgeordnetenhaus wird kleiner",
+      "summary": "Eine Neuauszählung in einem Berliner Wahlkreis hat ergeben, dass ein Direktmandat an die AfD und nicht - wie bislang angenommen - an die CDU geht. Das Berliner Abgeordnetenhaus wird daher fünf Sitze weniger haben als bisher gedacht.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-wahl-panne-in-spandau-abgeordnetenhaus-wird-doch-kleiner-100.html",
+      "publishedAt": "2026-10-02T18:37:50.000Z"
+    },
+    {
+      "id": "n_0b5ba41e1f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Warum es in der schwarz-roten Koalition knirscht",
+      "summary": "Pflege, Rente, Zuckersteuer und überall Spardruck: Es ruckelt heftig in der schwarz-roten Koalition. Gleichzeitig steigt die Unzufriedenheit, viele Menschen fordern spürbare Entlastungen. Wie kommt die Koalition da raus?",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/pflege-zucker-koalition-100.html",
+      "publishedAt": "2026-10-02T17:53:12.000Z"
+    },
     {
       "id": "n_bf8e310705",
       "type": "news",
@@ -24,17 +79,6 @@
       "publishedAt": "2026-10-02T16:18:24.000Z"
     },
     {
-      "id": "n_dcf141cf94",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "G7-Staaten geben Diesel- und Rohöl-Reserven frei",
-      "summary": "Die G7-Staaten wollen angesichts der hohen Kraftstoffpreise Öl-Reserven freigeben. Die USA hatten zuvor Druck vor allem auf die europäischen G7-Mitglieder gemacht. Für US-Präsident Trump sind die hohen Preise innenpolitisch ein großes Problem.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/g7-dieselreserven-100.html",
-      "publishedAt": "2026-10-02T16:07:28.000Z"
-    },
-    {
       "id": "n_9f5a4709e4",
       "type": "news",
       "topic": "general",
@@ -46,48 +90,15 @@
       "publishedAt": "2026-10-02T15:54:40.000Z"
     },
     {
-      "id": "n_fddf8b029c",
+      "id": "n_5c49d59874",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Wahl-Panne in Berlin: Abgeordnetenhaus wird kleiner",
-      "summary": "Eine Neuauszählung in einem Berliner Wahlkreis hat ergeben, dass ein Direktmandat an die AfD und nicht - wie bislang angenommen - an die CDU geht. Das Berliner Abgeordnetenhaus wird daher fünf Sitze weniger haben als bisher gedacht.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-wahl-panne-in-spandau-abgeordnetenhaus-wird-doch-kleiner-100.html",
-      "publishedAt": "2026-10-02T15:30:17.000Z"
-    },
-    {
-      "id": "n_aff427425c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Fünf neue Exzellenzuniversitäten in Deutschland gekürt",
-      "summary": "Drei neue Unis und zwei Hochschulverbünde dürfen sich jetzt Exzellenzuniversität nennen. Sie bekommen künftig deutlich mehr Geld für die Spitzenforschung. Für Studierende hat das allerdings eher einen indirekten Nutzen. Von Anja Braun.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/forschung/exzellenzunis-bekanntgegeben-100.html",
-      "publishedAt": "2026-10-02T15:04:08.000Z"
-    },
-    {
-      "id": "n_4bbfbab677",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Verletzter Flydubai-Pilot schildert erstmals Angriff im Cockpit",
-      "summary": "Zwei Tage ist es her, dass ein Pilot auf einem Flug von Dubai nach Tel Aviv von seinem Co-Piloten angegriffen wurde - jetzt hat er sich erstmals selber zu dem Vorfall geäußert. Die Ermittlungen über die Hintergründe laufen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/flydubai-angriff-pilot-100.html",
-      "publishedAt": "2026-10-02T14:59:41.000Z"
-    },
-    {
-      "id": "n_bac3633bfc",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Spanisches Parlament lehnt Regierungs-Dekrete für Mieterschutz ab",
-      "summary": "Die Koalition von Spaniens Regierungschef Sánchez ist im Parlament mit ihren Dekreten für mehr Mieterschutz gescheitert. Nach landesweiten Protesten wollte die Regierung unter anderem Zwangsräumungen in sozialen Notlagen verbieten.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-wohungsgesetze-gescheitert-100.html",
-      "publishedAt": "2026-10-02T14:42:28.000Z"
+      "headline": "Der Bürger muss begründen, der Staat darf schweigen: IFG-Reform droht",
+      "summary": "Weniger Rechte für Bürger, hohe Gebühren, Schwärzungen und mehr: Datenschützer zerlegen Pläne der Bundesregierung zur „Abschaffung der Informationsfreiheit“.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Glaeserner-Buerger-geheimer-Staat-Informationsfreiheitgesetz-in-Gefahr-11474799.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-02T18:39:00.000Z"
     },
     {
       "id": "n_ed1ec0c87c",
@@ -167,15 +178,15 @@
       "publishedAt": "2026-09-29T16:05:00.000Z"
     },
     {
-      "id": "n_c8c94632c9",
+      "id": "n_0d6ca9023b",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Eigener Akkutausch: Umwelthilfe stoppt irreführende Werbeaussage von Huawei",
-      "summary": "Die Deutsche Umwelthilfe hat Huawei erfolgreich abgemahnt. Der Konzern warb fälschlicherweise mit einer einfachen Akku-Reparierbarkeit für das Mate X7.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Eigener-Akkutausch-Umwelthilfe-stoppt-irrefuehrende-Werbeaussage-von-Huawei-11470088.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-29T15:44:00.000Z"
+      "headline": "Ruhrfibre und Metrofibre: Telekom kauft FTTH-Netz und kündigt mehr Übernahmen an",
+      "summary": "Die Deutsche Telekom übernimmt das Glasfasernetz von Ruhrfibre und Metrofibre. Weitere Zukäufe stehen auf dem Zettel. (Glasfaser, Telekom)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/ruhrfibre-und-metrofibre-telekom-kauft-ftth-betreibernetz-und-kuendigt-mehr-uebernahmen-an-2610-213669.html",
+      "publishedAt": "2026-10-02T17:03:01.000Z"
     },
     {
       "id": "n_a7feb5def6",
@@ -255,15 +266,37 @@
       "publishedAt": "2026-10-02T14:33:02.000Z"
     },
     {
-      "id": "n_03b75d9e92",
+      "id": "n_dc6e5aedc5",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Wegen KI-Paper-Flut: Arxiv beschränkt Autoren auf zwei Papers pro Monat",
-      "summary": "Die Anzahl an Einreichungen bei Arxiv ist durch KI rapide gestiegen, die Qualität teilweise ebenso deutlich gefallen. Das Portal zieht die Notbremse. (Open Access, KI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/wegen-ki-paper-flut-arxiv-beschraenkt-autoren-auf-zwei-papers-pro-monat-2610-213661.html",
-      "publishedAt": "2026-10-02T14:19:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Riot police clash with students as education protests rage in France",
+      "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T21:13:27.000Z"
+    },
+    {
+      "id": "n_db0078ec76",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
+      "summary": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T21:00:41.000Z"
+    },
+    {
+      "id": "n_69e326080f",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "summary": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T20:32:07.000Z"
     },
     {
       "id": "n_90d6532498",
@@ -274,18 +307,7 @@
       "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T16:38:22.000Z"
-    },
-    {
-      "id": "n_dc6e5aedc5",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Riot police clash with students as education protests rage in France",
-      "summary": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T16:26:09.000Z"
+      "publishedAt": "2026-10-02T17:44:08.000Z"
     },
     {
       "id": "n_9755b95192",
@@ -321,17 +343,6 @@
       "publishedAt": "2026-10-02T15:26:37.000Z"
     },
     {
-      "id": "n_d8a9ee2213",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "What happened in the failed execution of Christa Pike - and what next?",
-      "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T15:01:15.000Z"
-    },
-    {
       "id": "n_5977de5016",
       "type": "news",
       "topic": "general",
@@ -341,17 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-02T14:01:09.000Z"
-    },
-    {
-      "id": "n_4d704831eb",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "School protests send shivers down French government's spine",
-      "summary": "A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T12:43:02.000Z"
     },
     {
       "id": "n_47338c90f3",
@@ -442,92 +442,169 @@
       "publishedAt": "2026-09-30T13:01:30.000Z"
     },
     {
-      "id": "n_d3446779ff",
+      "id": "n_f10ac2fa6e",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",
-      "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
+      "headline": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+      "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
-      "publishedAt": "2026-10-02T14:52:16.000Z"
+      "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+      "publishedAt": "2026-10-02T20:30:27.000Z"
     },
     {
-      "id": "n_f5426fc3fd",
+      "id": "n_68dc190714",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
-      "summary": "Blue Origin seeks FAA approval for up to 50 New Glenn launches and 50 booster landings per year.",
+      "headline": "Patient-zero drill put health facilities to the test—40% of them failed",
+      "summary": "Actors with makeup and fake symptoms staggered into 73 healthcare facilities.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
-      "publishedAt": "2026-10-02T13:54:34.000Z"
+      "url": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
+      "publishedAt": "2026-10-02T20:07:59.000Z"
     },
     {
-      "id": "n_79727cd75e",
+      "id": "n_37af281425",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "TCL is right to question Samsung’s use of the term “Mini LED”",
-      "summary": "Can it be Mini LED without a FALD backlight?",
+      "headline": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
+      "summary": "Critics say workers are still owed far more.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/",
-      "publishedAt": "2026-10-02T10:30:11.000Z"
+      "url": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
+      "publishedAt": "2026-10-02T19:09:49.000Z"
     },
     {
-      "id": "n_cdd52eb3f6",
+      "id": "n_b7597f7e38",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Venus' mysterious haze is actually cosmic dust",
-      "summary": "A physical model show that iron dust and sulfuric acid create the right properties.",
+      "headline": "The 2008 economic crisis changed the US's relationship with energy",
+      "summary": "It wasn't obvious at the time, but the US uncoupled carbon emissions and GDP growth.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
-      "publishedAt": "2026-10-01T22:27:04.000Z"
+      "url": "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
+      "publishedAt": "2026-10-02T18:56:21.000Z"
     },
     {
-      "id": "n_b14278871d",
+      "id": "n_d3db30efe5",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "SpaceX describes surgical intervention before launch of latest crew mission",
-      "summary": "With Crew-13, Jessica Watkins became the first Black woman to lead a mission into space.",
+      "headline": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+      "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
-      "publishedAt": "2026-10-01T22:07:33.000Z"
+      "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+      "publishedAt": "2026-10-02T18:39:36.000Z"
     },
     {
-      "id": "n_898d664fff",
+      "id": "n_355fa56a83",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
-      "summary": "It has been a bad month for federal government cybersecurity.",
+      "headline": "Research roundup: 6 cool science stories we almost missed",
+      "summary": "Also: Spooky action at the LHC, Ice Age psychoactive use, yeast for building homes on Mars, and more.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
-      "publishedAt": "2026-10-01T20:28:45.000Z"
+      "url": "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/",
+      "publishedAt": "2026-10-02T18:17:27.000Z"
     },
     {
-      "id": "n_de8e231194",
+      "id": "n_85448cc0d7",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-      "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
+      "headline": "US military ends long-running program to spot nuclear missile launches",
+      "summary": "A newer program has been operational since 2011, and the next generation could launch within 12 months.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
-      "publishedAt": "2026-10-01T20:11:55.000Z"
+      "url": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/",
+      "publishedAt": "2026-10-02T17:32:14.000Z"
     },
     {
-      "id": "n_296e46630b",
+      "id": "n_002b559fd9",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Can good design stop content creators from having sex in robotaxis?",
-      "summary": "Autonomous vehicle designers have to worry about riders getting frisky in public.",
+      "headline": "How I kept cool with NYC's free battery program for window AC units",
+      "summary": "Bonus: Every Electric’s batteries are beloved by household cats.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/",
-      "publishedAt": "2026-10-01T19:19:42.000Z"
+      "url": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units/",
+      "publishedAt": "2026-10-02T17:20:21.000Z"
+    },
+    {
+      "id": "n_3cc6542c47",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Sean Parker is rebuilding Stability AI around music",
+      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "publishedAt": "2026-10-02T21:09:14.000Z"
+    },
+    {
+      "id": "n_c73e858372",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "publishedAt": "2026-10-02T19:15:51.000Z"
+    },
+    {
+      "id": "n_8931b830d8",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "publishedAt": "2026-10-02T18:11:27.000Z"
+    },
+    {
+      "id": "n_5c5d251d2d",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "publishedAt": "2026-10-02T17:56:00.000Z"
+    },
+    {
+      "id": "n_fcd1b322a9",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "publishedAt": "2026-10-02T17:48:16.000Z"
+    },
+    {
+      "id": "n_0e0757d37a",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "publishedAt": "2026-10-02T17:32:05.000Z"
+    },
+    {
+      "id": "n_2e0c293fde",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "publishedAt": "2026-10-02T17:00:00.000Z"
     },
     {
       "id": "n_0a4d2fa92a",
@@ -541,81 +618,26 @@
       "publishedAt": "2026-10-02T15:39:41.000Z"
     },
     {
-      "id": "n_0e0757d37a",
+      "id": "n_5028b5fce3",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "publishedAt": "2026-10-02T15:00:00.000Z"
+      "headline": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+      "summary": "New helpful little guy just dropped. | Photo: Allison Johnson / The Verge It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using wo",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "publishedAt": "2026-10-02T18:00:00.000Z"
     },
     {
-      "id": "n_57b183de48",
+      "id": "n_69164ce789",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-      "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-      "publishedAt": "2026-10-02T14:30:00.000Z"
-    },
-    {
-      "id": "n_e527bfa907",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-      "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is:",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-      "publishedAt": "2026-10-02T14:00:00.000Z"
-    },
-    {
-      "id": "n_17bfcacf3c",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "publishedAt": "2026-10-01T21:08:11.000Z"
-    },
-    {
-      "id": "n_280d0a9a74",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "ChatGPT can now virtually try on clothes for you",
-      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "publishedAt": "2026-10-01T19:21:53.000Z"
-    },
-    {
-      "id": "n_0f3d660d21",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-      "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "publishedAt": "2026-10-01T19:18:03.000Z"
-    },
-    {
-      "id": "n_2badf9642d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "publishedAt": "2026-10-01T18:14:42.000Z"
+      "headline": "Breaking up (with Elon Musk) is hard to do",
+      "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
+      "publishedAt": "2026-10-02T17:37:36.000Z"
     },
     {
       "id": "n_b3a9a516e9",
@@ -682,28 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
       "publishedAt": "2026-10-01T17:12:21.000Z"
-    },
-    {
-      "id": "n_9c6f1560c6",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-      "summary": "A pop-up shop for \"dots,\" a personal assistant agent at OpenAI DevDay 2026. (Photo by Heather Diehl/Getty Images) | Getty Images At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform ha",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "publishedAt": "2026-10-01T14:36:50.000Z"
-    },
-    {
-      "id": "n_adb45e048c",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-      "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-      "publishedAt": "2026-10-01T14:00:00.000Z"
     },
     {
       "id": "n_0638210728",
@@ -827,14 +827,14 @@
       "publishedAt": "2026-10-02T09:45:00.000Z"
     },
     {
-      "id": "n_085187c7d8",
+      "id": "n_932dc2df34",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
+      "headline": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
       "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
       "source": "Wired",
-      "url": "https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/",
+      "url": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/",
       "publishedAt": "2026-10-02T09:30:00.000Z"
     },
     {
@@ -1114,6 +1114,18 @@
       "publishedAt": "2026-09-25T19:22:32.000Z"
     },
     {
+      "id": "n_7275c2b067",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Xiaomi 18 Fold: How Does This Happen?",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=3iRUwVzRDZQ",
+      "thumbnail": "https://i.ytimg.com/vi/3iRUwVzRDZQ/hqdefault.jpg",
+      "publishedAt": "2026-10-02T20:50:25.000Z"
+    },
+    {
       "id": "n_e3a30325d8",
       "type": "video",
       "topic": "video",
@@ -1148,18 +1160,6 @@
       "url": "https://www.youtube.com/watch?v=DkUuOr21v4s",
       "thumbnail": "https://i.ytimg.com/vi/DkUuOr21v4s/hqdefault.jpg",
       "publishedAt": "2026-09-24T22:26:18.000Z"
-    },
-    {
-      "id": "n_b67020bcfa",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Apple Watch Has a Problem",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=pOX1l1edBME",
-      "thumbnail": "https://i.ytimg.com/vi/pOX1l1edBME/hqdefault.jpg",
-      "publishedAt": "2026-09-22T17:49:42.000Z"
     }
   ]
 }
