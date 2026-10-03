@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-10-03T14:02:23.532Z",
+  "generatedAt": "2026-10-03T18:23:18.913Z",
   "items": [
+    {
+      "id": "n_f72606b690",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Holocaust-Überlebende Irene Butter in den USA verstorben",
+      "summary": "Die Holocaust-Überlebende und Friedensaktivistin Irene Butter ist in den USA verstorben. Die gebürtige Berlinerin wurde 95 Jahre alt. Vor zwei Jahren hatte sie das Bundesverdienstkreuz für ihre Aufklärungsarbeit als Zeitzeugin erhalten.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/irene-butter-gestorben-100.html",
+      "publishedAt": "2026-10-03T17:41:01.000Z"
+    },
+    {
+      "id": "n_5816996bba",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Todesstrafe in Tennessee: Neue Details zu gescheiterter Hinrichtung",
+      "summary": "Nach der missglückten Hinrichtung liegt die zum Tode verurteilte Christa Pike bewusstlos in einem Krankenhaus und wird künstlich beatmet. Nun gerät das Personal in den Fokus - der Behördenchef ist zurückgetreten.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/christa-pike-hinrichtung-100.html",
+      "publishedAt": "2026-10-03T17:04:05.000Z"
+    },
+    {
+      "id": "n_83adc54500",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Fachkräfte fehlen - doch es gibt auch Chancen in Ostdeutschland",
+      "summary": "Ostdeutschland bietet viel Platz für neue Fabriken. Doch ausgerechnet dort, wo neue Industriearbeitsplätze entstehen könnten, fehlen zunehmend Fachkräfte. Ökonomen sehen dennoch Chancen. Von Claudia Wehrle.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ostdeutschland-wirtschaftsstandort-beschaeftigung-100.html",
+      "publishedAt": "2026-10-03T16:40:33.000Z"
+    },
+    {
+      "id": "n_44b34a080f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Russland beschießt erneut Brücke in Kiew - Tote in Charkiw",
+      "summary": "Erneut hat Russland eine Brücke in der ukrainischen Hauptstadt beschossen. Bereits am Vortag waren drei von sechs Straßenbrücken Kiews getroffen worden. Angriffe gab es auch in anderen Landesteilen. Mehrere Menschen wurden getötet.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/ukraine-angriff-bruecke-100.html",
+      "publishedAt": "2026-10-03T15:03:41.000Z"
+    },
+    {
+      "id": "n_ea64d44c8e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach Wahl in Berlin: Linke, Grüne und SPD sehen \"gemeinsamen Weg\"",
+      "summary": "Linke, Grüne und SPD in Berlin sind sich in Vorgesprächen zur Regierungsbildung nähergekommen. Kommende Woche werde man zu einem ersten Ergebnis kommen, erklärten sie. Als nächstes sollen dann Sondierungsgespräche beginnen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/regierungsbildung-berlin-linke-gruene-spd-100.html",
+      "publishedAt": "2026-10-03T14:59:21.000Z"
+    },
+    {
+      "id": "n_22cb936480",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Landesweit große Demos gegen Wohnungsnot in Spanien",
+      "summary": "Nach dem Scheitern wichtiger Mietdekrete sind in Spanien viele Menschen auf die Straße gegangen. Veranstalter sprechen von 500.000 Teilnehmern allein in Madrid - die Regierung von 70.000. Derweil gibt es Spekulationen über Neuwahlen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/proteste-wegen-wohnungsnot-in-spanien-gehen-weiter-100.html",
+      "publishedAt": "2026-10-03T14:22:55.000Z"
+    },
+    {
+      "id": "n_5baad5a740",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bundesweite Aktion: Menschenketten für Gerechtigkeit und Klima",
+      "summary": "In mehr als 100 Städten haben Tausende in Menschenketten für mehr Klimaschutz und Gerechtigkeit demonstriert. Die Aktion soll auf die Ursachen von Hitzetoten, Fluten und Waldbrände aufmerksam machen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/menschenkette-klima-100.html",
+      "publishedAt": "2026-10-03T14:03:39.000Z"
+    },
     {
       "id": "n_bb8acf7e26",
       "type": "news",
@@ -11,83 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/gesellschaft/einheitsfeier-bremen-100.html",
       "publishedAt": "2026-10-03T13:03:27.000Z"
-    },
-    {
-      "id": "n_a82156c534",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Freigabe von G7-Energiereserven stößt auf gemischte Reaktionen",
-      "summary": "Angesichts der hohen Energiepreise haben sich die G7-Staaten auf die Freigabe von Ölreserven verständigt. US-Präsident Trump begrüßt die Entscheidung, die Grünen üben Kritik. Eine Ökonomin erwartet nur eine kurzfristige Entlastung.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/freigabe-oelreserven-reaktionen-100.html",
-      "publishedAt": "2026-10-03T12:54:53.000Z"
-    },
-    {
-      "id": "n_c3455f96c7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Steinmeier: \"Es geht um die Selbstbehauptung der Demokratie\"",
-      "summary": "Bundespräsident Steinmeier hat den Tag der Deutschen Einheit für eine Warnung vor Extremismus genutzt. Beim Festakt forderte er dazu auf, die demokratischen Grundrechte zu verteidigen. Steinmeier scheidet im März aus dem Amt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/einheitsfeier-steinmeier-100.html",
-      "publishedAt": "2026-10-03T12:29:08.000Z"
-    },
-    {
-      "id": "n_44b34a080f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Russland beschießt erneut Brücke in Kiew",
-      "summary": "Erneut hat Russland eine Brücke in der ukrainischen Hauptstadt beschossen - diesmal traf es die Nordbrücke. Bereits am Vortag waren drei von sechs Straßenbrücken Kiews angegriffen und beschädigt worden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/ukraine-angriff-bruecke-100.html",
-      "publishedAt": "2026-10-03T12:14:23.000Z"
-    },
-    {
-      "id": "n_2b2d3e7430",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Walfang-Konferenz in Australien: Schutzgebiet scheitert erneut",
-      "summary": "Die Internationale Walfangkommission hat in Australien über die weltweiten Bestände beraten. Auf ein großes Schutzgebiet konnten sich die Mitglieder nicht verständigen - dafür aber auf andere Maßnahmen. Von Jennifer Johnston.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/ozeanien/australien-walschutz-konferenz-100.html",
-      "publishedAt": "2026-10-03T10:56:13.000Z"
-    },
-    {
-      "id": "n_639bf7daa9",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Frankreich: Seit Montag mehr als 5.000 Festnahmen bei Schülerprotesten",
-      "summary": "Bei den Schülerprotesten in Frankreich sind in dieser Woche mehr als 5.000 Menschen festgenommen worden - die meisten von ihnen waren minderjährig. Laut Regierung gab es Angriffe auf Ordnungskräfte, Lehrer und Passanten.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/frankreich-schuelerproteste-festnahmen-100.html",
-      "publishedAt": "2026-10-03T10:47:51.000Z"
-    },
-    {
-      "id": "n_52bf1d1efb",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wohnungsnot: Kommunen fordern Konzept für ländlichen Raum",
-      "summary": "Bezahlbarer Wohnraum ist vor allem in Ballungsgebieten rar. Als eine Lösung schlagen Städte und Gemeinden vor, ländliche Regionen attraktiver zu machen. Bisher mangele es aber vor allem an Versorgungs- und Nahverkehrsangeboten.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/wohnungsnot-168.html",
-      "publishedAt": "2026-10-03T10:42:24.000Z"
-    },
-    {
-      "id": "n_cdf9d79630",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Großbritanniens Zusammenarbeit mit der EU: Bye, bye, Brexit?",
-      "summary": "Großbritanniens Premier Burnham nährt mit einer Aussage Diskussionen um einen Wiedereintritt seines Landes in die EU. Gründe zur Zusammenarbeit gäbe es genug. Aber wäre eine Rückkehr wirklich denkbar? Von Sabrina Fritz.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/grossbritannien-zusammenarbeit-eu-100.html",
-      "publishedAt": "2026-10-03T09:54:11.000Z"
     },
     {
       "id": "n_5b8a0780b4",
@@ -266,15 +266,26 @@
       "publishedAt": "2026-10-03T08:30:01.000Z"
     },
     {
-      "id": "n_82e7de9b9f",
+      "id": "n_677c47da7b",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Protesters across Spain demand action over housing crisis",
-      "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
+      "headline": "Medical plane with 6 on board missing off Massachusetts coast",
+      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T13:34:11.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T18:06:47.000Z"
+    },
+    {
+      "id": "n_47b6a95352",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Tennessee prison chief to resign after Christa Pike's failed execution",
+      "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T17:48:42.000Z"
     },
     {
       "id": "n_5f92289cd5",
@@ -285,7 +296,40 @@
       "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T12:59:10.000Z"
+      "publishedAt": "2026-10-03T16:16:49.000Z"
+    },
+    {
+      "id": "n_e70657906e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T14:27:33.000Z"
+    },
+    {
+      "id": "n_dc95c60c6d",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Why has Brazil accused the US of election interference?",
+      "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T13:52:13.000Z"
+    },
+    {
+      "id": "n_82e7de9b9f",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+      "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T13:34:11.000Z"
     },
     {
       "id": "n_521d48f483",
@@ -299,17 +343,6 @@
       "publishedAt": "2026-10-03T12:26:30.000Z"
     },
     {
-      "id": "n_e70657906e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T11:20:21.000Z"
-    },
-    {
       "id": "n_cbcc4fb7ce",
       "type": "news",
       "topic": "general",
@@ -319,39 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-03T10:58:51.000Z"
-    },
-    {
-      "id": "n_e60e1db5db",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Kim wins Asian Games gold to secure military exemption",
-      "summary": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T08:51:14.000Z"
-    },
-    {
-      "id": "n_93461f1b73",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Joker persona helps Cong 'feel the fear' in opponents",
-      "summary": "Wang Cong dismisses critics who say she she is not deserving of facing Natalia Silva for the flyweight world title at UFC 332 on Saturday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckq5x5de46ppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T07:07:09.000Z"
-    },
-    {
-      "id": "n_55bcc68635",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "G7 to release millions of barrels of oil and diesel after Trump threat",
-      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T04:38:31.000Z"
     },
     {
       "id": "n_391288e2fc",
@@ -530,6 +530,17 @@
       "publishedAt": "2026-10-02T18:39:36.000Z"
     },
     {
+      "id": "n_a17db24aed",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "publishedAt": "2026-10-03T16:30:01.000Z"
+    },
+    {
       "id": "n_41a7e44054",
       "type": "news",
       "topic": "ai",
@@ -607,15 +618,37 @@
       "publishedAt": "2026-10-02T17:48:16.000Z"
     },
     {
-      "id": "n_0e0757d37a",
+      "id": "n_f1c80105d2",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "publishedAt": "2026-10-02T17:32:05.000Z"
+      "headline": "Capcom is preparing for a ‘future where we create games together with AI’",
+      "summary": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook and Future of the REX Project, ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "publishedAt": "2026-10-03T16:49:10.000Z"
+    },
+    {
+      "id": "n_2b2053e0bc",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+      "summary": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (The original samples are here a",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "publishedAt": "2026-10-03T15:00:00.000Z"
+    },
+    {
+      "id": "n_91c2390ce6",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "An OpenAI safety employee has quit and is sounding the alarm",
+      "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly comi",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "publishedAt": "2026-10-03T14:31:56.000Z"
     },
     {
       "id": "n_c0a74765cc",
@@ -671,39 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
       "publishedAt": "2026-10-02T12:00:00.000Z"
-    },
-    {
-      "id": "n_f829ccaece",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "If a data center is camouflaged in the woods, will anyone hate it?",
-      "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive \"hyperscale\" facilities spanning millions",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
-      "publishedAt": "2026-10-02T12:00:00.000Z"
-    },
-    {
-      "id": "n_78ffcfd0a2",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Amazon writes scary blog warning communities not to block data centers",
-      "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers m",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-      "publishedAt": "2026-10-02T11:52:20.000Z"
-    },
-    {
-      "id": "n_b7dd825032",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI music maker Suno now generates spoken words",
-      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers an",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-      "publishedAt": "2026-10-02T09:42:19.000Z"
     },
     {
       "id": "n_0638210728",
@@ -794,6 +794,17 @@
       "publishedAt": "2026-09-25T09:16:25.000Z"
     },
     {
+      "id": "n_c8ca51977d",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+      "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+      "publishedAt": "2026-10-03T18:00:00.000Z"
+    },
+    {
       "id": "n_ff612af46a",
       "type": "news",
       "topic": "ai",
@@ -869,17 +880,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
       "publishedAt": "2026-10-01T19:58:31.000Z"
-    },
-    {
-      "id": "n_da90560c54",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
-      "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
-      "publishedAt": "2026-09-30T20:30:09.000Z"
     },
     {
       "id": "n_d599f0a282",
