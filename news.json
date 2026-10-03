@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-10-02T21:30:41.399Z",
+  "generatedAt": "2026-10-03T08:38:56.932Z",
   "items": [
+    {
+      "id": "n_d9fc67de70",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "US-Medienberichte: Flydubai-Co-Pilot galt zuvor als Sicherheitsrisiko",
+      "summary": "Nach dem Angriff auf einem Flydubai-Flug veröffentlichen Medien neue Details: Demnach durfte der Co-Pilot bei seinem vorherigen Arbeitgeber wegen Extremismusverdacht nicht mehr fliegen. Behörden in den Emiraten gehen nun von einem Terrorakt aus.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/flydubai-co-pilot-sicherheitsrisiko-100.html",
+      "publishedAt": "2026-10-03T08:09:34.000Z"
+    },
+    {
+      "id": "n_7b8280726a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Mysteriöse Einbruchserie bei Abgeordneten in Finnland",
+      "summary": "Eine mysteriöse Einbruchserie bei Abgeordneten beschäftigt Finnland. Die Hausbesuche, bei denen nie etwas entwendet wird, erinnern an Spitzelmethoden aus Sowjetzeiten. Die Polizei ermittelt, die Politik ist alarmiert. Von C. Stichler.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/finnland-einbrueche-abgeordnete-100.html",
+      "publishedAt": "2026-10-03T06:39:28.000Z"
+    },
+    {
+      "id": "n_325c36dd79",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Gefahren nach der Flutkatastrophe für Überlebende in Nepal",
+      "summary": "Mehr als einen Monat nach der Flutkatastrophe im Himalaya ist die Lage für viele Überlebende immer noch prekär. Gerade für Kinder und junge Frauen birgt das Leben in Notunterkünften viele Gefahren. Von Franziska Amler.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/nepal-nach-katastrophe-100.html",
+      "publishedAt": "2026-10-03T04:48:24.000Z"
+    },
+    {
+      "id": "n_2c2ce157bd",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Lettland: Zwischen Russland-Sorge und hohen Lebenshaltungskosten",
+      "summary": "Lettland wählt ein neues Parlament. Die hohen Lebenshaltungskosten und das Gesundheitssystem bestimmten den Wahlkampf. Aber auch die Sorge vor Russland. Ministerpräsident Kulbergs will seinen klaren Westkurs fortsetzen. Von Arne Bartram.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/lettland-parlamentswahlen-104.html",
+      "publishedAt": "2026-10-03T04:32:49.000Z"
+    },
+    {
+      "id": "n_155140c5a9",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ostdeutsche in Führungspositionen: \"Es gibt kaum positive Entwicklungen\"",
+      "summary": "Auch 36 Jahre nach der Wiedervereinigung sind Ostdeutsche selten in Führungspositionen vertreten. Der Soziologe Hartmann sieht nur wenige Fortschritte - und spricht sich für Quoten bei der Besetzung von Posten aus.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/hartmann-ostdeutsche-westdeutsche-fuehrungspositionen-100.html",
+      "publishedAt": "2026-10-03T03:32:08.000Z"
+    },
+    {
+      "id": "n_dc91096800",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "New Yorks Gouverneurin kündigt nach Gruppenvergewaltigung an Uni Aufklärung an",
+      "summary": "Nach der mutmaßlichen Gruppenvergewaltigung an einer US-Elite-Universität verspricht New Yorks Gouverneurin Hochul jetzt Aufklärung. Staatsanwaltschaft und die Uni selbst waren zuvor in die Kritik geraten. Von Martin Ganslmeier.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-gruppenvergewaltigung-elite-uni-100.html",
+      "publishedAt": "2026-10-03T01:55:59.000Z"
+    },
+    {
+      "id": "n_4bbfbab677",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Verletzter Flydubai-Pilot schildert erstmals Angriff im Cockpit",
+      "summary": "Zwei Tage ist es her, dass ein Pilot auf einem Flug von Dubai nach Tel Aviv von seinem Co-Piloten angegriffen wurde - jetzt hat er sich erstmals selber zu dem Vorfall geäußert. Die Ermittlungen über die Hintergründe laufen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/flydubai-angriff-pilot-100.html",
+      "publishedAt": "2026-10-03T00:18:32.000Z"
+    },
     {
       "id": "n_1714ac5976",
       "type": "news",
@@ -13,81 +90,15 @@
       "publishedAt": "2026-10-02T19:28:18.000Z"
     },
     {
-      "id": "n_dcf141cf94",
+      "id": "n_5b8a0780b4",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "G7-Staaten geben Diesel- und Rohöl-Reserven frei",
-      "summary": "Die G7-Staaten wollen angesichts der hohen Kraftstoffpreise Öl-Reserven freigeben. Die USA hatten zuvor Druck vor allem auf die europäischen G7-Mitglieder gemacht. Für US-Präsident Trump sind die hohen Preise innenpolitisch ein großes Problem.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/g7-dieselreserven-100.html",
-      "publishedAt": "2026-10-02T19:17:42.000Z"
-    },
-    {
-      "id": "n_7260b19a0a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Frankreichs Schulprotest hält an - Regierung verspricht Verbesserungen",
-      "summary": "Seit Tagen gehen Schülerinnen und Schüler in Frankreich auf die Straße, um mehr Geld für Bildung einzufordern. Bildungsminister Geffray versprach Verbesserungen. Schülervertreter wollen weiter protestieren - distanzieren sich aber von Gewalt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/schuelerproteste-frankreich-100.html",
-      "publishedAt": "2026-10-02T19:00:30.000Z"
-    },
-    {
-      "id": "n_fddf8b029c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wahl-Panne in Berlin: Abgeordnetenhaus wird kleiner",
-      "summary": "Eine Neuauszählung in einem Berliner Wahlkreis hat ergeben, dass ein Direktmandat an die AfD und nicht - wie bislang angenommen - an die CDU geht. Das Berliner Abgeordnetenhaus wird daher fünf Sitze weniger haben als bisher gedacht.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/berlin/rbb-wahl-panne-in-spandau-abgeordnetenhaus-wird-doch-kleiner-100.html",
-      "publishedAt": "2026-10-02T18:37:50.000Z"
-    },
-    {
-      "id": "n_0b5ba41e1f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Warum es in der schwarz-roten Koalition knirscht",
-      "summary": "Pflege, Rente, Zuckersteuer und überall Spardruck: Es ruckelt heftig in der schwarz-roten Koalition. Gleichzeitig steigt die Unzufriedenheit, viele Menschen fordern spürbare Entlastungen. Wie kommt die Koalition da raus?",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/pflege-zucker-koalition-100.html",
-      "publishedAt": "2026-10-02T17:53:12.000Z"
-    },
-    {
-      "id": "n_bf8e310705",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: DAX geht versöhnlich ins Wochenende",
-      "summary": "Der DAX hat angesichts schwacher US-Arbeitsmarktdaten zugelegt. Die nähren die Hoffnung, dass die US-Notenbank Fed von einer weiteren Erhöhung der Leitzinsen vorerst absehen kann.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-164.html",
-      "publishedAt": "2026-10-02T16:49:21.000Z"
-    },
-    {
-      "id": "n_9abc4c46d9",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Bilger erwartet von der Bahn bis 2029 \"spürbare Verbesserung\"",
-      "summary": "In drei Jahren sollen Bahnkunden aufatmen können. Bis dahin erwarte er eine \"spürbare Verbesserung\", so Verkehrsminister Bilger im ARD-Interview. Eine \"Leistungsvereinbarung\" soll den Druck auf die Bahn erhöhen. Von Jan Zimmermann.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/bilger-verspricht-besserung-bei-bahn-100.html",
-      "publishedAt": "2026-10-02T16:18:24.000Z"
-    },
-    {
-      "id": "n_9f5a4709e4",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "USA: Trumps Republikaner unter Druck vor den Midterms",
-      "summary": "Den Republikanern drohen bei den US-Zwischenwahlen herbe Verluste. Das liegt auch an Präsident Trump. Erste republikanische Kandidaten beginnen, sich von ihm zu distanzieren. Wie ist die Lage einen Monat vor der Wahl? Von Ralf Borchard.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/midterms-republikaner-trump-100.html",
-      "publishedAt": "2026-10-02T15:54:40.000Z"
+      "headline": "Netscaler-Admins aufgepasst: Zero-Day verursacht Crashes und Codeausführung",
+      "summary": "Sicherheitsforscher und Administratoren melden massenhafte Spontanreboots betroffener Geräte. Diese waren auf dem neuesten Patchstand.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-03T08:23:00.000Z"
     },
     {
       "id": "n_5c49d59874",
@@ -167,15 +178,48 @@
       "publishedAt": "2026-09-30T07:06:00.000Z"
     },
     {
-      "id": "n_27d0947bf7",
+      "id": "n_336a29b9be",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Pentagon will 30 Millionen Dollar für KI-Lügendetektor ausgeben",
-      "summary": "Das US-Verteidigungsministerium will in den kommenden Jahren rund 30 Millionen Dollar für einen KI-Lügendetektor ausgeben. Forscher zweifeln an dem Konzept.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Pentagon-will-30-Millionen-Dollar-fuer-KI-Luegendetektor-ausgeben-11470046.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-29T16:05:00.000Z"
+      "headline": "Defense Radar: Die Probleme des F-35-Programms",
+      "summary": "In unserem Videoformat Defense Radar geben wir Einblicke in Militärtechnik. Diesmal wirft unser Autor einen kritischen Blick auf das F-35-Programm. (Militär, Politik)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/defense-radar-die-probleme-des-f-35-programms-2610-213653.html",
+      "publishedAt": "2026-10-03T08:30:01.000Z"
+    },
+    {
+      "id": "n_9118ac97e6",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Digitale Souveränität: EU-Mitarbeiter kritisieren Teams-Backup Element Pro",
+      "summary": "Die EU-Kommission testet Element Pro als Backup für Teams. Einige Mitarbeiter halten die Software für schlecht. (Souveränität, Unternehmenssoftware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/digitale-souveraenitaet-eu-mitarbeiter-kritisieren-teams-backup-element-pro-2610-213671.html",
+      "publishedAt": "2026-10-03T08:15:01.000Z"
+    },
+    {
+      "id": "n_c7e8e9de64",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "(g+) Spec Kit für die Softwareentwicklung: Erst spezifizieren, dann programmieren",
+      "summary": "Spec Kit trennt das Was vom Wie und lässt KI-Agenten daraus Plan, Aufgaben und Code erzeugen. Wir haben ausprobiert, wie gut das funktioniert und eine Pizza-App programmiert. Eine Anleitung von Stefanie Schmidt (Softwareentwicklung, Open Source)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/spec-kit-fuer-die-softwareentwicklung-erst-spezifizieren-dann-programmieren-2610-213651.html",
+      "publishedAt": "2026-10-03T08:00:02.000Z"
+    },
+    {
+      "id": "n_26adb7b9c4",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Onlinebrettspiele: So wird jeder Abend zum Spieleabend!",
+      "summary": "Brettspiele boomen - ebenso die Möglichkeiten, sie online zu spielen. Auf sechs Plattformen warten Klassiker und moderne Brettspiele für lange Spielenächte. Ein Ratgebertext von Fabian Mauruschat (Brettspiele, Server)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/onlinebrettspiele-so-wird-jeder-abend-zum-spieleabend-2610-213646.html",
+      "publishedAt": "2026-10-03T05:30:02.000Z"
     },
     {
       "id": "n_0d6ca9023b",
@@ -222,136 +266,103 @@
       "publishedAt": "2026-10-02T15:45:02.000Z"
     },
     {
-      "id": "n_dd0b39bc0d",
+      "id": "n_e70657906e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "summary": "The flydubai plane plunged more than 17,000ft two and a half hours into its journey before passengers and crew overpowered the attacker.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T08:26:06.000Z"
+    },
+    {
+      "id": "n_5f92289cd5",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Russia strikes second major bridge in Kyiv, mayor says",
+      "summary": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T07:25:09.000Z"
+    },
+    {
+      "id": "n_55bcc68635",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T04:38:31.000Z"
+    },
+    {
+      "id": "n_dec0176999",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+      "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T02:23:07.000Z"
+    },
+    {
+      "id": "n_a8e2ed0e17",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "The South African men trying to end violence against women: 'Every man needs to play a part'",
+      "summary": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T23:56:21.000Z"
+    },
+    {
+      "id": "n_72681eff0e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Could El Niño mean there are no Atlantic hurricanes this year?",
+      "summary": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T23:37:13.000Z"
+    },
+    {
+      "id": "n_db8a48076e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Women given shorts at Oktoberfest to prevent upskirting",
+      "summary": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T23:16:03.000Z"
+    },
+    {
+      "id": "n_07aa13d2a0",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+      "summary": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-02T23:06:00.000Z"
+    },
+    {
+      "id": "n_391288e2fc",
       "type": "news",
       "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Logitech G502 X Plus zum Tiefstpreis | Kabellose Gaming-Maus für 79 Euro",
-      "summary": "Amazon verkauft die Logitech G502 X Plus Lightspeed für 79 Euro und damit laut Preisvergleich zum Tiefstpreis. Die kabellose Gaming-Maus bietet einen Hero-25K-Sensor, 13 programmierbare Bedienelemente und RGB-Beleuchtung. (Maus, Amazon)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-logitech-g502-x-plus-zum-tiefstpreis-kabellose-gaming-maus-fuer-79-euro-2610-213663.html",
-      "publishedAt": "2026-10-02T15:09:01.000Z"
-    },
-    {
-      "id": "n_903c2887a6",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Sicherheit: OpenAIs KI-Agenten sind bei über 100 Organisationen eingedrungen",
-      "summary": "Im Rahmen einer internen Untersuchung hat OpenAI festgestellt, dass mehr Organisationen von KI-Angriffen betroffen waren als gedacht. (OpenAI, KI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/sicherheit-openais-ki-agenten-sind-bei-ueber-100-organisationen-eingedrungen-2610-213664.html",
-      "publishedAt": "2026-10-02T15:07:02.000Z"
-    },
-    {
-      "id": "n_c6b9c2e4db",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Microsoft Surface Pro 12 Zoll mit Copilot-KI jetzt für Prime-Mitglieder stark reduziert",
-      "summary": "Das Microsoft Surface Pro 12 Zoll arbeitet ohne Lüfter, wiegt nur 686 Gramm und kostet für Prime-Mitglieder weniger. (Technik/Hardware, Microsoft)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-microsoft-surface-pro-12-zoll-mit-copilot-ki-jetzt-fuer-prime-mitglieder-stark-reduziert-2610-213659.html",
-      "publishedAt": "2026-10-02T15:05:02.000Z"
-    },
-    {
-      "id": "n_240d67eb12",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Xiaomi Poco X8 Pro Max günstig wie nie im frühen Prime-Angebot",
-      "summary": "Schon vor den Prime Deal Days verkauft Amazon das Xiaomi Poco X8 Pro Max in der 12+256-GByte-Variante zum neuen Tiefstpreis. (Handy, Smartphone)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-xiaomi-poco-x8-pro-max-guenstig-wie-nie-im-fruehen-prime-angebot-2610-213662.html",
-      "publishedAt": "2026-10-02T14:33:02.000Z"
-    },
-    {
-      "id": "n_dc6e5aedc5",
-      "type": "news",
-      "topic": "general",
       "lang": "en",
-      "headline": "Riot police clash with students as education protests rage in France",
-      "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
+      "headline": "Tech Now",
+      "summary": "Alasdair Keane heads to the Pokémon World Championships in San Francisco.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T21:13:27.000Z"
-    },
-    {
-      "id": "n_db0078ec76",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
-      "summary": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T21:00:41.000Z"
-    },
-    {
-      "id": "n_69e326080f",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-      "summary": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T20:32:07.000Z"
-    },
-    {
-      "id": "n_90d6532498",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
-      "summary": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T17:44:08.000Z"
-    },
-    {
-      "id": "n_9755b95192",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-      "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T16:08:25.000Z"
-    },
-    {
-      "id": "n_6c33452b73",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-      "summary": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T15:30:12.000Z"
-    },
-    {
-      "id": "n_a134fd91c5",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-      "summary": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T15:26:37.000Z"
-    },
-    {
-      "id": "n_5977de5016",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "I've seen nearly 500 executions - but never one like Christa Pike's",
-      "summary": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T14:01:09.000Z"
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T01:00:00.000Z"
     },
     {
       "id": "n_47338c90f3",
@@ -431,15 +442,26 @@
       "publishedAt": "2026-09-30T14:00:33.000Z"
     },
     {
-      "id": "n_9e6d61fdb9",
+      "id": "n_6ee8ae0821",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "WhatsApp introduces optional parental controls for teenagers",
-      "summary": "The social messaging app will let parents decide on privacy settings for their child's account.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm986x65we88o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T13:01:30.000Z"
+      "headline": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "publishedAt": "2026-10-02T23:03:16.000Z"
+    },
+    {
+      "id": "n_58571d5add",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Someone got Doom in an SQL database",
+      "summary": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+      "publishedAt": "2026-10-02T21:19:05.000Z"
     },
     {
       "id": "n_f10ac2fa6e",
@@ -508,26 +530,15 @@
       "publishedAt": "2026-10-02T18:17:27.000Z"
     },
     {
-      "id": "n_85448cc0d7",
+      "id": "n_83485a4ee2",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "US military ends long-running program to spot nuclear missile launches",
-      "summary": "A newer program has been operational since 2011, and the next generation could launch within 12 months.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/10/us-military-ends-long-running-program-to-spot-nuclear-missile-launches/",
-      "publishedAt": "2026-10-02T17:32:14.000Z"
-    },
-    {
-      "id": "n_002b559fd9",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "How I kept cool with NYC's free battery program for window AC units",
-      "summary": "Bonus: Every Electric’s batteries are beloved by household cats.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units/",
-      "publishedAt": "2026-10-02T17:20:21.000Z"
+      "headline": "Meta wants your next gadget to be Muse-infused",
+      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "publishedAt": "2026-10-03T00:45:39.000Z"
     },
     {
       "id": "n_3cc6542c47",
@@ -607,15 +618,26 @@
       "publishedAt": "2026-10-02T17:00:00.000Z"
     },
     {
-      "id": "n_0a4d2fa92a",
+      "id": "n_c0a74765cc",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Pope Leo XIV is not a fan of AI-generated art",
-      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "publishedAt": "2026-10-02T15:39:41.000Z"
+      "headline": "Meta open sources code to let you make Muse AI gadgets",
+      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big sc",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "publishedAt": "2026-10-02T21:08:37.000Z"
+    },
+    {
+      "id": "n_e148a12b42",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level o",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "publishedAt": "2026-10-02T20:08:40.000Z"
     },
     {
       "id": "n_5028b5fce3",
@@ -682,28 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
       "publishedAt": "2026-10-02T09:42:19.000Z"
-    },
-    {
-      "id": "n_c2e280cb22",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Google’s new Guided Vision feature can help you read the fine print",
-      "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, des",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "publishedAt": "2026-10-01T19:47:51.000Z"
-    },
-    {
-      "id": "n_e7f973146b",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-      "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-      "publishedAt": "2026-10-01T17:12:21.000Z"
     },
     {
       "id": "n_0638210728",
@@ -810,7 +810,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
-      "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump cancelled the term.",
+      "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
       "source": "Wired",
       "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
       "publishedAt": "2026-10-02T15:00:00.000Z"
