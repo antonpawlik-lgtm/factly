@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-10-03T18:23:18.913Z",
+  "generatedAt": "2026-10-04T03:08:01.298Z",
   "items": [
+    {
+      "id": "n_9e18eee3ae",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bosnien und Herzegowina: Mit neuer Technik mehr Vertrauen in die Wahlen",
+      "summary": "In Bosnien und Herzegowina werden das Parlament, das dreiköpfige Staatspräsidium und die Regionalregierungen gewählt. Neue Technik soll dabei helfen, Manipulationen zu erschweren. Von S. Hahne.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/bosnien-und-herzegowina-wahl-100.html",
+      "publishedAt": "2026-10-04T03:04:08.000Z"
+    },
+    {
+      "id": "n_eae0807686",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Hessischer Ministerpräsident Rhein will AfD-Ausschussvorsitze ermöglichen",
+      "summary": "Hessens Ministerpräsident Rhein schließt eine inhaltliche Zusammenarbeit mit der AfD aus. In den Augen des CDU-Landeschefs sollte die Partei aber auch auf Bundesebene Ausschussvorsitze übernehmen können.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/rhein-afd-ausschussvorsitz-100.html",
+      "publishedAt": "2026-10-04T02:05:39.000Z"
+    },
+    {
+      "id": "n_02e130199d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Deutsche Bahn will Familienticket dauerhaft anbieten",
+      "summary": "Das Angebot war zunächst nur auf den Sommer begrenzt - jetzt soll es dauerhaft eingeführt werden: das Familienticket der Deutschen Bahn. Denn laut Bahn-Chefin Palla war der Pauschalpreis ein Erfolg.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-familienticket-100.html",
+      "publishedAt": "2026-10-04T00:51:20.000Z"
+    },
+    {
+      "id": "n_f219558e78",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Luftangriff: Rettungskräfte melden Tote im Gazastreifen",
+      "summary": "Bei einem Luftangriff im Gazastreifen sind nach Angaben von palästinensischen Rettungskräften mehrere Menschen getötet worden. Die israelische Armee gab an, ein hochrangiges Hamas-Mitglied angegriffen zu haben.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/gaza-angriffe-israel-106.html",
+      "publishedAt": "2026-10-03T23:54:49.000Z"
+    },
+    {
+      "id": "n_2e0e871f30",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wahl in Lettland: Partei von Ministerpräsident laut Prognose in Führung",
+      "summary": "Die Letten haben ein neues Parlament gewählt. Laut Nachwahlbefragung liegt das Bündnis von Ministerpräsident Kulbergs vorn. Zentrale Themen im Wahlkampf waren Sicherheit und Verteidigung, aber auch die hohen Lebenshaltungskosten.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/lettland-wahlen-100.html",
+      "publishedAt": "2026-10-03T18:28:32.000Z"
+    },
     {
       "id": "n_f72606b690",
       "type": "news",
@@ -33,61 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ostdeutschland-wirtschaftsstandort-beschaeftigung-100.html",
       "publishedAt": "2026-10-03T16:40:33.000Z"
-    },
-    {
-      "id": "n_44b34a080f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Russland beschießt erneut Brücke in Kiew - Tote in Charkiw",
-      "summary": "Erneut hat Russland eine Brücke in der ukrainischen Hauptstadt beschossen. Bereits am Vortag waren drei von sechs Straßenbrücken Kiews getroffen worden. Angriffe gab es auch in anderen Landesteilen. Mehrere Menschen wurden getötet.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/ukraine-angriff-bruecke-100.html",
-      "publishedAt": "2026-10-03T15:03:41.000Z"
-    },
-    {
-      "id": "n_ea64d44c8e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Nach Wahl in Berlin: Linke, Grüne und SPD sehen \"gemeinsamen Weg\"",
-      "summary": "Linke, Grüne und SPD in Berlin sind sich in Vorgesprächen zur Regierungsbildung nähergekommen. Kommende Woche werde man zu einem ersten Ergebnis kommen, erklärten sie. Als nächstes sollen dann Sondierungsgespräche beginnen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/berlin/regierungsbildung-berlin-linke-gruene-spd-100.html",
-      "publishedAt": "2026-10-03T14:59:21.000Z"
-    },
-    {
-      "id": "n_22cb936480",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Landesweit große Demos gegen Wohnungsnot in Spanien",
-      "summary": "Nach dem Scheitern wichtiger Mietdekrete sind in Spanien viele Menschen auf die Straße gegangen. Veranstalter sprechen von 500.000 Teilnehmern allein in Madrid - die Regierung von 70.000. Derweil gibt es Spekulationen über Neuwahlen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/proteste-wegen-wohnungsnot-in-spanien-gehen-weiter-100.html",
-      "publishedAt": "2026-10-03T14:22:55.000Z"
-    },
-    {
-      "id": "n_5baad5a740",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Bundesweite Aktion: Menschenketten für Gerechtigkeit und Klima",
-      "summary": "In mehr als 100 Städten haben Tausende in Menschenketten für mehr Klimaschutz und Gerechtigkeit demonstriert. Die Aktion soll auf die Ursachen von Hitzetoten, Fluten und Waldbrände aufmerksam machen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/menschenkette-klima-100.html",
-      "publishedAt": "2026-10-03T14:03:39.000Z"
-    },
-    {
-      "id": "n_bb8acf7e26",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Tag der Deutschen Einheit: Kirchen fordern Zusammenhalt - Warnung vor Polarisierung",
-      "summary": "In Bremen wird der Tag der Deutschen Einheit gefeiert. Kirchenvertreter warnten dabei vor einer Polarisierung der Gesellschaft, Bundespräsident Steinmeier vor Extremismus. Die Ostbeauftragte Kaiser plädierte unterdessen für eine ostdeutsche Bundespräsidentin.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/einheitsfeier-bremen-100.html",
-      "publishedAt": "2026-10-03T13:03:27.000Z"
     },
     {
       "id": "n_5b8a0780b4",
@@ -266,6 +266,50 @@
       "publishedAt": "2026-10-03T08:30:01.000Z"
     },
     {
+      "id": "n_82e7de9b9f",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+      "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-04T02:04:11.000Z"
+    },
+    {
+      "id": "n_19da801905",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Cornell president says university 'must do better' after frat house rape allegations",
+      "summary": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-04T00:11:25.000Z"
+    },
+    {
+      "id": "n_c17766df64",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Why pastors may not be seen - or heard - preaching on Ghana's buses for much longer",
+      "summary": "Ghana is a predominantly Christian country where preaching on public transport is widespread.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwnvln99v2ygo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T23:37:46.000Z"
+    },
+    {
+      "id": "n_b233ab73f0",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Why Canada is preparing for a (long shot) US invasion",
+      "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-03T23:30:06.000Z"
+    },
+    {
       "id": "n_677c47da7b",
       "type": "news",
       "topic": "general",
@@ -274,7 +318,7 @@
       "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T18:06:47.000Z"
+      "publishedAt": "2026-10-03T21:16:21.000Z"
     },
     {
       "id": "n_47b6a95352",
@@ -308,50 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-03T14:27:33.000Z"
-    },
-    {
-      "id": "n_dc95c60c6d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Why has Brazil accused the US of election interference?",
-      "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T13:52:13.000Z"
-    },
-    {
-      "id": "n_82e7de9b9f",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-      "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T13:34:11.000Z"
-    },
-    {
-      "id": "n_521d48f483",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Will Spain's housing crisis lead to a snap election?",
-      "summary": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T12:26:30.000Z"
-    },
-    {
-      "id": "n_cbcc4fb7ce",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
-      "summary": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T10:58:51.000Z"
     },
     {
       "id": "n_391288e2fc",
@@ -442,6 +442,17 @@
       "publishedAt": "2026-09-30T14:00:33.000Z"
     },
     {
+      "id": "n_8e9e87a9e3",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+      "summary": "\"...we were making history.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
+      "publishedAt": "2026-10-03T19:45:17.000Z"
+    },
+    {
       "id": "n_f42f541075",
       "type": "news",
       "topic": "tech",
@@ -519,15 +530,15 @@
       "publishedAt": "2026-10-02T18:56:21.000Z"
     },
     {
-      "id": "n_d3db30efe5",
+      "id": "n_f8ba7ef564",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-      "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
-      "publishedAt": "2026-10-02T18:39:36.000Z"
+      "headline": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "publishedAt": "2026-10-03T18:43:57.000Z"
     },
     {
       "id": "n_a17db24aed",
@@ -605,17 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
       "publishedAt": "2026-10-02T17:56:00.000Z"
-    },
-    {
-      "id": "n_fcd1b322a9",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-      "publishedAt": "2026-10-02T17:48:16.000Z"
     },
     {
       "id": "n_f1c80105d2",
@@ -882,6 +882,17 @@
       "publishedAt": "2026-10-01T19:58:31.000Z"
     },
     {
+      "id": "n_89764eae00",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The Agent Said It Was Done. The Database Disagreed.",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "publishedAt": "2026-10-03T22:56:48.000Z"
+    },
+    {
       "id": "n_d599f0a282",
       "type": "news",
       "topic": "ai",
@@ -957,209 +968,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
       "publishedAt": "2026-09-24T14:08:57.000Z"
-    },
-    {
-      "id": "n_2960c64a01",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "publishedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "n_b7d9300382",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-      "thumbnail": "https://i.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg",
-      "publishedAt": "2026-09-24T08:40:55.000Z"
-    },
-    {
-      "id": "n_762e86c2a7",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Yes, Jev Is Insane, But There's A Catch",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
-      "thumbnail": "https://i.ytimg.com/vi/qBBRRsH0rQc/hqdefault.jpg",
-      "publishedAt": "2026-09-22T09:32:13.000Z"
-    },
-    {
-      "id": "n_0c3e7fe15b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek’s Insane New Architecture",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
-      "thumbnail": "https://i.ytimg.com/vi/vIHw_2VjSUw/hqdefault.jpg",
-      "publishedAt": "2026-09-18T07:03:46.000Z"
-    },
-    {
-      "id": "n_281ff94730",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
-      "thumbnail": "https://i.ytimg.com/vi/YoEWjZSwoys/hqdefault.jpg",
-      "publishedAt": "2026-09-15T10:12:34.000Z"
-    },
-    {
-      "id": "n_c21d60498a",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
-      "publishedAt": "2026-09-17T00:34:47.000Z"
-    },
-    {
-      "id": "n_ffdb3dfd14",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
-      "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_6a18d8c315",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
-      "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
-      "publishedAt": "2026-08-12T12:57:24.000Z"
-    },
-    {
-      "id": "n_49a7d5405f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
-      "publishedAt": "2026-07-28T20:02:11.000Z"
-    },
-    {
-      "id": "n_c41b12c55b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The one OpenAI announcement that can actually make you money...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=No-JPdFvYWU",
-      "thumbnail": "https://i.ytimg.com/vi/No-JPdFvYWU/hqdefault.jpg",
-      "publishedAt": "2026-10-01T19:34:14.000Z"
-    },
-    {
-      "id": "n_a9f950b2ca",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did a 50 year old military secret just solve agent prompt injection?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=I_KVMFrUtPk",
-      "thumbnail": "https://i.ytimg.com/vi/I_KVMFrUtPk/hqdefault.jpg",
-      "publishedAt": "2026-09-30T17:16:43.000Z"
-    },
-    {
-      "id": "n_acb2066b88",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH has gone completely off the rails...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=OuNKBjuV7A4",
-      "thumbnail": "https://i.ytimg.com/vi/OuNKBjuV7A4/hqdefault.jpg",
-      "publishedAt": "2026-09-28T19:27:59.000Z"
-    },
-    {
-      "id": "n_e69560d580",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Meta is pivoting again... everything you missed from Connect 2026",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=c1rPlzxSZ8E",
-      "thumbnail": "https://i.ytimg.com/vi/c1rPlzxSZ8E/hqdefault.jpg",
-      "publishedAt": "2026-09-25T19:22:32.000Z"
-    },
-    {
-      "id": "n_7275c2b067",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Xiaomi 18 Fold: How Does This Happen?",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=3iRUwVzRDZQ",
-      "thumbnail": "https://i.ytimg.com/vi/3iRUwVzRDZQ/hqdefault.jpg",
-      "publishedAt": "2026-10-02T20:50:25.000Z"
-    },
-    {
-      "id": "n_e3a30325d8",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Dear YouTube!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=e1q-TuHdc4Y",
-      "thumbnail": "https://i.ytimg.com/vi/e1q-TuHdc4Y/hqdefault.jpg",
-      "publishedAt": "2026-09-30T14:42:19.000Z"
-    },
-    {
-      "id": "n_c2970a76ed",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Nothing Headphone 1 Pro: They Copied the Wrong Thing!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=rayrrXot17M",
-      "thumbnail": "https://i.ytimg.com/vi/rayrrXot17M/hqdefault.jpg",
-      "publishedAt": "2026-09-29T01:01:35.000Z"
-    },
-    {
-      "id": "n_0e03fa3a80",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Xiaomi 18 Pro Max: They've Done It Again!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=DkUuOr21v4s",
-      "thumbnail": "https://i.ytimg.com/vi/DkUuOr21v4s/hqdefault.jpg",
-      "publishedAt": "2026-09-24T22:26:18.000Z"
     }
   ]
 }
