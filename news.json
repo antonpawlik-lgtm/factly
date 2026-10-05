@@ -1,16 +1,38 @@
 {
-  "generatedAt": "2026-10-04T23:39:56.723Z",
+  "generatedAt": "2026-10-05T02:41:24.367Z",
   "items": [
+    {
+      "id": "n_55d62eef37",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ermittlungen wegen Terrorverdacht: USA ziehen Bomber von britischem Stützpunkt ab",
+      "summary": "Washington hat seine Langstreckenbomber vom britischen Militärstützpunkt Fairford zurückbeordert - aus Sicherheitsgründen, wie das Pentagon erklärte. Vor einer Woche waren dort Männer wegen möglicher Anschlagspläne festgenommen worden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/usa-bomber-grossbritannien-abzug-100.html",
+      "publishedAt": "2026-10-05T01:56:23.000Z"
+    },
     {
       "id": "n_75070f342f",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Präsidentschaftswahl in Brasilien: Bolsonaro und Lula steuern auf Stichwahl zu",
-      "summary": "Die Abstimmung um die Präsidentschaft in Brasilien gilt als Richtungswahl. Derzeit werden die Stimmen ausgezählt. Herausforderer Bolsonaro liegt zwar vorn - aber die bisherigen Ergebnisse deuten auf eine Stichwahl mit Amtsinhaber Lula hin.",
+      "headline": "Präsidentschaftswahl in Brasilien: Bolsonaro und Lula ziehen in Stichwahl ein",
+      "summary": "Die Präsidentenwahl in Brasilien wird in einer Stichwahl entschieden: Herausforderer Bolsonaro liegt nach Auszählung fast aller Stimmen zwar etwas vor Amtsinhaber Lula - aber die absolute Mehrheit erreichten beide nicht.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/wahl-brasilien-bolsonaro-lula-100.html",
-      "publishedAt": "2026-10-04T23:24:40.000Z"
+      "publishedAt": "2026-10-05T01:35:56.000Z"
+    },
+    {
+      "id": "n_51f024194e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Starke nationalistische Kräfte bei Wahlen in Bosnien und Herzegowina",
+      "summary": "Bei den Wahlen in Bosnien und Herzegowina haben vor allem nationalistische Kräfte die Oberhand. Beobachter halten mit dem nun gewählten Staatspräsidium eine Begnadigung von Ex-Machthaber Dodik für möglich. Von S. Hahne.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/bosnien-herzegowina-wahl-112.html",
+      "publishedAt": "2026-10-05T00:33:07.000Z"
     },
     {
       "id": "n_87c3748947",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/regional/berlin/regierungsbildung-berlin-linke-gruene-spd-100.html",
       "publishedAt": "2026-10-04T16:18:17.000Z"
-    },
-    {
-      "id": "n_6834eb4c75",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "125 Jahre Nobelpreis: Was macht die Auszeichnung so bedeutend?",
-      "summary": "Von morgen an wird wieder verkündet, wer die diesjährigen Nobelpreise erhält - und das seit mittlerweile 125 Jahren. Warum hat die Auszeichnung eine so hohe Bedeutung? Und wie werden die Preisträger ermittelt? Von Nina Kunze.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/forschung/nobelpreise-125-jahre-100.html",
-      "publishedAt": "2026-10-04T16:06:59.000Z"
-    },
-    {
-      "id": "n_775a01925d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Hamburg behält Vorsitz der Justizministerkonferenz",
-      "summary": "Die Regierungsbildung in Sachsen-Anhalt wirbelt auch auf Länderebene einiges durcheinander. Hamburg hätte den Vorsitz der Justizministerkonferenz eigentlich abgeben müssen - macht nun aber weiter.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/justizministerkonferenz-vorsitz-100.html",
-      "publishedAt": "2026-10-04T14:51:32.000Z"
     },
     {
       "id": "n_5b8a0780b4",
@@ -266,6 +266,17 @@
       "publishedAt": "2026-10-04T08:16:02.000Z"
     },
     {
+      "id": "n_85ac007f42",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+      "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T02:40:51.000Z"
+    },
+    {
       "id": "n_677c47da7b",
       "type": "news",
       "topic": "general",
@@ -275,17 +286,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-04T23:29:18.000Z"
-    },
-    {
-      "id": "n_85ac007f42",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
-      "summary": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-04T23:20:03.000Z"
     },
     {
       "id": "n_df84823904",
@@ -352,6 +352,17 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-04T14:25:32.000Z"
+    },
+    {
+      "id": "n_e06269fd8c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+      "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T02:32:21.000Z"
     },
     {
       "id": "n_391288e2fc",
@@ -429,17 +440,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-30T23:02:21.000Z"
-    },
-    {
-      "id": "n_905968209b",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Regulating AI 'not the right place to start' says Bailey",
-      "summary": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-30T14:00:33.000Z"
     },
     {
       "id": "n_3116e977cb",
@@ -968,150 +968,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
       "publishedAt": "2026-09-24T14:08:57.000Z"
-    },
-    {
-      "id": "n_b7d9300382",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-      "thumbnail": "https://i.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg",
-      "publishedAt": "2026-09-24T08:40:55.000Z"
-    },
-    {
-      "id": "n_762e86c2a7",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Yes, Jev Is Insane, But There's A Catch",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
-      "thumbnail": "https://i.ytimg.com/vi/qBBRRsH0rQc/hqdefault.jpg",
-      "publishedAt": "2026-09-22T09:32:13.000Z"
-    },
-    {
-      "id": "n_0c3e7fe15b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek’s Insane New Architecture",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
-      "thumbnail": "https://i.ytimg.com/vi/vIHw_2VjSUw/hqdefault.jpg",
-      "publishedAt": "2026-09-18T07:03:46.000Z"
-    },
-    {
-      "id": "n_281ff94730",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
-      "thumbnail": "https://i.ytimg.com/vi/YoEWjZSwoys/hqdefault.jpg",
-      "publishedAt": "2026-09-15T10:12:34.000Z"
-    },
-    {
-      "id": "n_c21d60498a",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
-      "publishedAt": "2026-09-17T00:34:47.000Z"
-    },
-    {
-      "id": "n_ffdb3dfd14",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
-      "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_6a18d8c315",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
-      "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
-      "publishedAt": "2026-08-12T12:57:24.000Z"
-    },
-    {
-      "id": "n_49a7d5405f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
-      "publishedAt": "2026-07-28T20:02:11.000Z"
-    },
-    {
-      "id": "n_c41b12c55b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The one OpenAI announcement that can actually make you money...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=No-JPdFvYWU",
-      "thumbnail": "https://i.ytimg.com/vi/No-JPdFvYWU/hqdefault.jpg",
-      "publishedAt": "2026-10-01T19:34:14.000Z"
-    },
-    {
-      "id": "n_a9f950b2ca",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did a 50 year old military secret just solve agent prompt injection?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=I_KVMFrUtPk",
-      "thumbnail": "https://i.ytimg.com/vi/I_KVMFrUtPk/hqdefault.jpg",
-      "publishedAt": "2026-09-30T17:16:43.000Z"
-    },
-    {
-      "id": "n_acb2066b88",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH has gone completely off the rails...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=OuNKBjuV7A4",
-      "thumbnail": "https://i.ytimg.com/vi/OuNKBjuV7A4/hqdefault.jpg",
-      "publishedAt": "2026-09-28T19:27:59.000Z"
-    },
-    {
-      "id": "n_e69560d580",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Meta is pivoting again... everything you missed from Connect 2026",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=c1rPlzxSZ8E",
-      "thumbnail": "https://i.ytimg.com/vi/c1rPlzxSZ8E/hqdefault.jpg",
-      "publishedAt": "2026-09-25T19:22:32.000Z"
     },
     {
       "id": "n_7275c2b067",
