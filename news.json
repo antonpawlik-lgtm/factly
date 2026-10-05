@@ -1,93 +1,126 @@
 {
-  "generatedAt": "2026-10-05T02:41:24.367Z",
+  "generatedAt": "2026-10-05T09:42:35.362Z",
   "items": [
     {
-      "id": "n_55d62eef37",
+      "id": "n_5157ab0e34",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Ermittlungen wegen Terrorverdacht: USA ziehen Bomber von britischem Stützpunkt ab",
-      "summary": "Washington hat seine Langstreckenbomber vom britischen Militärstützpunkt Fairford zurückbeordert - aus Sicherheitsgründen, wie das Pentagon erklärte. Vor einer Woche waren dort Männer wegen möglicher Anschlagspläne festgenommen worden.",
+      "headline": "Alltag in Iran zwischen Wirtschaftskrise und Angst vor Krieg",
+      "summary": "Im Krieg der USA gegen Iran ist keine Lösung in Sicht. Gekämpft wird zwar nicht, Gespräche haben aber keine Fortschritte gebracht. Die wirtschaftliche Lage in Iran bleibt katastrophal. Wie beeinflusst das den Alltag? Von B. Weber.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/usa-bomber-grossbritannien-abzug-100.html",
-      "publishedAt": "2026-10-05T01:56:23.000Z"
+      "url": "https://www.tagesschau.de/ausland/asien/iran-alltag-wirtschaftskrise-100.html",
+      "publishedAt": "2026-10-05T09:26:49.000Z"
     },
     {
-      "id": "n_75070f342f",
+      "id": "n_22aad59be0",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Präsidentschaftswahl in Brasilien: Bolsonaro und Lula ziehen in Stichwahl ein",
-      "summary": "Die Präsidentenwahl in Brasilien wird in einer Stichwahl entschieden: Herausforderer Bolsonaro liegt nach Auszählung fast aller Stimmen zwar etwas vor Amtsinhaber Lula - aber die absolute Mehrheit erreichten beide nicht.",
+      "headline": "Jetzt live: Wer bekommt den Medizin-Nobelpreis?",
+      "summary": "Der Nobelpreis ist wohl die renommierteste Auszeichnung der Welt. Nun gibt das Karolinska-Institut in Stockholm bekannt, wer in diesem Jahr den Preis in der Kategorie Physiologie oder Medizin erhält.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/wahl-brasilien-bolsonaro-lula-100.html",
-      "publishedAt": "2026-10-05T01:35:56.000Z"
+      "url": "https://www.tagesschau.de/wissen/forschung/nobelpreise-livestream-100.html",
+      "publishedAt": "2026-10-05T09:21:33.000Z"
     },
     {
-      "id": "n_51f024194e",
+      "id": "n_c2b38540c7",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Starke nationalistische Kräfte bei Wahlen in Bosnien und Herzegowina",
-      "summary": "Bei den Wahlen in Bosnien und Herzegowina haben vor allem nationalistische Kräfte die Oberhand. Beobachter halten mit dem nun gewählten Staatspräsidium eine Begnadigung von Ex-Machthaber Dodik für möglich. Von S. Hahne.",
+      "headline": "Streckensanierung Berlin-Hannover wird aufwendiger - und teurer",
+      "summary": "Fast 1,5 Stunden länger brauchen nun Züge zwischen Hannover und Berlin. Und die Generalsanierung soll mehr als ein Jahr dauern - wesentlich länger als noch vor kurzem angekündigt. Das führt zu Protesten. Von Andre Kartschall.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/bosnien-herzegowina-wahl-112.html",
-      "publishedAt": "2026-10-05T00:33:07.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-hannover-berlin-102.html",
+      "publishedAt": "2026-10-05T09:15:37.000Z"
     },
     {
-      "id": "n_87c3748947",
+      "id": "n_b2228a0c2a",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Pfefferspray-Angriff auf Linken-Geschäftsstelle in Oranienburg",
-      "summary": "Mitglieder der Linksjugend sind in der Geschäftsstelle der Linken in Oranienburg mit Pfefferspray attackiert worden. Die Polizei sucht nach drei Personen. Eine von ihnen soll kurz vor dem Angriff gefragt haben, ob man hier AfD wählen könne.",
+      "headline": "Dänisches Melderegister mit Daten von 8,8 Millionen Menschen gehackt",
+      "summary": "Unbekannte haben sich Zugriff zum dänischen Melderegister verschafft. Die zuständige Ministerin spricht von einem äußerst schwerwiegenden Vorfall. Daten von 8,8 Millionen Menschen sind betroffen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-oranienburg-angriff-auf-linken-veranstaltung-in-parteibuero-reizgas-versprueht-100.html",
-      "publishedAt": "2026-10-04T18:58:00.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/daenemark-hackerangriff-100.html",
+      "publishedAt": "2026-10-05T09:14:13.000Z"
     },
     {
-      "id": "n_029ca20fe7",
+      "id": "n_6c0262bf64",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Schulze zu Sachsen-Anhalt: \"Es wird keiner von der CDU zur AfD wechseln\"",
-      "summary": "Die AfD will nach der Wahl in Sachsen-Anhalt regieren, doch ihr fehlt bisher eine Mehrheit. CDU-Fraktionschef Schulze bekräftigte im Bericht aus Berlin, dass die AfD bei der Ministerpräsidentenwahl nicht auf CDU-Stimmen setzen könne.",
+      "headline": "Solidarität mit Studentin \"Jane Doe\" nach Vergewaltigungsklage",
+      "summary": "Unter dem Motto \"Ich bin Jane Doe\" solidarisieren sich weltweit Menschen in den sozialen Medien mit einer Studentin. Unter diesem Pseudonym hatte die junge Frau eine Klage wegen Gruppenvergewaltigung eingereicht.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/sachsen-anhalt-schulze-bab-100.html",
-      "publishedAt": "2026-10-04T18:40:10.000Z"
+      "url": "https://www.tagesschau.de/ausland/amerika/jane-doe-cornell-100.html",
+      "publishedAt": "2026-10-05T08:34:36.000Z"
     },
     {
-      "id": "n_7746a4d036",
+      "id": "n_08ee5fd273",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Regierung im Jemen verkündet Großoffensive gegen Huthi-Miliz",
-      "summary": "Nach militärischen Erfolgen der Huthi will Jemens international anerkannte Regierung nun in die Offensive gehen. Ziel sei es, das Land aus dem Griff der Miliz zu befreien. Doch das dürfte nicht so einfach sein. Von Anna Osius.",
+      "headline": "Spanien: Regierungschef Sánchez kündigt Neuwahlen an",
+      "summary": "Der Streit über die Wohnungsmarktpolitik führt zu Neuwahlen in Spanien. Regierungschef Sánchez kündigte eine vorgezogene Parlamentswahl im November an. Seine Sozialisten liegen in Umfragen hinter den Konservativen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/jemen-huthi-kaempfe-100.html",
-      "publishedAt": "2026-10-04T17:43:26.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-104.html",
+      "publishedAt": "2026-10-05T08:11:20.000Z"
     },
     {
-      "id": "n_8e51e84580",
+      "id": "n_0bff1cfa22",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Merz: Ukraine-Hilfen \"notwendig für die Stabilität Europas\"",
-      "summary": "Kanzler Merz hat bei seinem Besuch in Kiew erneut Russland zu einem Ende des Krieges aufgefordert. Im Bericht aus Berlin sagte er, für die Stabilität Europas seien weitere Hilfen für die Ukraine wichtig - genau wie eine zuverlässige Bundesregierung.",
+      "headline": "Marktbericht: DAX mit angezogener Handbremse",
+      "summary": "Der DAX ist kaum verändert in die neue Woche gestartet. Für gedämpfte Stimmung sorgt am Morgen ein erneuter Rückgang beim Euro. Auch weiterhin hohe Ölpreise bleiben eine Belastung.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/merz-kiew-ukraine-russland-100.html",
-      "publishedAt": "2026-10-04T16:43:05.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-boerse-166.html",
+      "publishedAt": "2026-10-05T07:51:50.000Z"
     },
     {
-      "id": "n_ea64d44c8e",
+      "id": "n_23510f65a6",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Nach Wahl in Berlin: Linke, Grüne und SPD sehen \"gemeinsamen Weg\"",
-      "summary": "Linke, Grüne und SPD in Berlin sind sich in Vorgesprächen zur Regierungsbildung nähergekommen. Kommende Woche werde man zu einem ersten Ergebnis kommen, erklärten sie. Als Nächstes sollen dann Sondierungsgespräche beginnen.",
+      "headline": "Vorgezogene Wahl: Das Kalkül von Spaniens \"Überlebenskünstler\" Sánchez",
+      "summary": "Schon die vergangenen Regierungsjahre von Spaniens Ministerpräsident Sánchez glichen einer Achterbahnfahrt. Dass er nun vorgezogene Wahlen ausgerufen hat, dürfte mit einer Umfrage zum Thema \"Mieterschutz\" zusammenhängen. Von S. Kisters.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/berlin/regierungsbildung-berlin-linke-gruene-spd-100.html",
-      "publishedAt": "2026-10-04T16:18:17.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-neuwahlen-sanchez-100.html",
+      "publishedAt": "2026-10-05T07:22:10.000Z"
+    },
+    {
+      "id": "n_057a89138f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Könnte herunterfallen „wie Schmuck von Weihnachtsbaum“: Russland droht Starlink",
+      "summary": "Russland hat dutzende Satelliten für die Starlink-Alternative Rasswet gestartet. Eine US-Blockade könnte zum Krieg im Weltraum führen, warnt Dmitri Medwedew.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Ruf-nach-Sanktionen-Russland-droht-mit-Krieg-im-All-und-Angriff-auf-Starlink-11475637.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-05T08:47:00.000Z"
+    },
+    {
+      "id": "n_f51cf23d81",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Microsoft schiebt Exchange-Update nach",
+      "summary": "Zum Wochenende hat Microsoft weitere Exchange-Updates nachgelegt. Sie stopfen eine Rechteausweitungslücke.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Microsoft-schiebt-Exchange-Update-nach-11475517.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-05T06:26:00.000Z"
+    },
+    {
+      "id": "n_c29d358f4d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Bericht: Bei Cyberangriff Zugriff auf Antrieb von Öl-Supertanker erlangt",
+      "summary": "Ende August haben FBI und US-Küstenwache einen Öltanker geentert, der stundenlang nicht kommunizieren konnte. Nun gibt es Erkenntnisse über den Cyberangriff.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Cyberangriff-Unbefugte-hatten-angeblich-Zugriff-auf-Antrieb-von-Oel-Supertanker-11475495.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-05T05:44:00.000Z"
     },
     {
       "id": "n_5b8a0780b4",
@@ -145,224 +178,180 @@
       "publishedAt": "2026-10-01T11:26:00.000Z"
     },
     {
-      "id": "n_b477472b86",
+      "id": "n_28a8780ee0",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Googles Gemini 4 Argon legt Fokus auf Cybersicherheit",
-      "summary": "Google stellt Gemini 4 Argon für IT-Sicherheit und Enterprise-Workflows vor, doch die Benchmarks zeigen Lücken gegenüber GPT-6 Astra und Claude Sonnet 5.5.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Googles-Gemini-4-Argon-legt-Fokus-auf-Cybersicherheit-11471944.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-30T22:25:00.000Z"
-    },
-    {
-      "id": "n_487f12cf99",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Microsoft-Office-Update: Hilfe bei Lizenzfehlern alter Versionen",
-      "summary": "Microsoft hat die Verteilung eines Office-Updates über Windows Update gestoppt. Von Lizenzfehlern Betroffene erhalten Hilfe.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Microsoft-Office-Update-Hilfe-bei-Lizenzfehlern-alter-Versionen-11470851.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-30T09:56:00.000Z"
-    },
-    {
-      "id": "n_b81c6ad546",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Windows 11 26H2 ist da",
-      "summary": "Seit der Nacht zum Mittwoch verteilt Microsoft das Update auf Windows 11 26H2. Die Installation geht flott vonstatten.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Windows-11-26H2-ist-da-11470483.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-09-30T07:06:00.000Z"
-    },
-    {
-      "id": "n_a84dbf60c2",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Elon Musk räumt ein: Teslas Robotaxis sehen nachts zu wenig",
-      "summary": "Elon Musk hat Angst, dass Teslas Robotaxis Katzen überfahren. Grund dafür ist seine Haltung zur Sensorik. Lösen soll das Problem KI. (Tesla, Elektroauto)",
+      "headline": "Bildmanipulationen: Content-Signatur C2PA ausgehebelt",
+      "summary": "Ein Sicherheitsforscher nutzt eine Regel des Standards, die Bereiche eines Bilds von der Signaturberechnung ausschließt. Diese Regel ist jedoch technisch notwendig. (Datensicherheit, Photoshop)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/elon-musk-raeumt-ein-teslas-robotaxis-sehen-nachts-zu-wenig-2610-213685.html",
-      "publishedAt": "2026-10-04T13:05:02.000Z"
+      "url": "https://www.golem.de/news/bildmanipulationen-content-signatur-c2pa-ausgehebelt-2610-213700.html",
+      "publishedAt": "2026-10-05T09:39:02.000Z"
     },
     {
-      "id": "n_a1dd71780c",
+      "id": "n_eb09c95659",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "78 Milliarden Parameter: Aleph Alpha veröffentlicht KI-Modell mit Deutsch-Schwerpunkt",
-      "summary": "Mit Kolibri-1 liefert Aleph Alpha ein deutsch-englisches KI-Modell, das lange Dokumente effizient verarbeiten soll. (KI, Rechenzentrum)",
+      "headline": "Chipkrise: Google erhöht Preis des Pixel 10a um 100 Euro",
+      "summary": "Nicht nur die neue Pixel-11-Serie ist teurer geworden: Google hebt auch den Preis des Pixel 10a auf 650 Euro an. Online ist das Gerät günstiger. (Smartphone, Google)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/78-milliarden-parameter-aleph-alpha-veroeffentlicht-ki-modell-mit-deutsch-schwerpunkt-2610-213682.html",
-      "publishedAt": "2026-10-04T12:17:02.000Z"
+      "url": "https://www.golem.de/news/chipkrise-google-erhoeht-preis-des-pixel-10a-um-100-euro-2610-213701.html",
+      "publishedAt": "2026-10-05T09:28:02.000Z"
     },
     {
-      "id": "n_cc83185c2a",
+      "id": "n_4a7f588aab",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "David Robinson: Warum OpenAIs Sicherheitschef nun geht",
-      "summary": "Ein Ex-Mitarbeiter warnt: Bei OpenAI komme Sicherheit im Tempo neuer KI-Produkte oft zu kurz. (OpenAI, KI)",
+      "headline": "Anzeige: Laptop-Powerbank mit 25.000 mAh und 165 W im frühen Prime-Angebot",
+      "summary": "Eine Laptop-Powerbank mit 25.000 mAh, 165 W, zwei Kabeln und zwei Ports gibt es im frühen Prime-Angebot zum Sparpreis bei Amazon. (Technik/Hardware, Anker)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/david-robinson-warum-openais-sicherheitschef-nun-geht-2610-213684.html",
-      "publishedAt": "2026-10-04T11:11:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-laptop-powerbank-mit-25-000-mah-und-165-w-im-fruehen-prime-angebot-2610-213703.html",
+      "publishedAt": "2026-10-05T09:26:02.000Z"
     },
     {
-      "id": "n_f7120f7efa",
+      "id": "n_7bccb1634d",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Frustriert?: GPT Astra betrügt bei Starcraft-Bot-Benchmark",
-      "summary": "OpenAIs GPT 6 alias Astra hat zu unlauteren Mitteln gegriffen, nachdem eigene Versuche, einen Starcraft-Bot zu programmieren, fehlgeschlagen waren. (OpenAI, KI)",
+      "headline": "Rechenzentren in Nebraska: Schlechte Schwärzung verrät Steuergeschenke an Google",
+      "summary": "Geschwärzte Stellen sind per Copy-Paste leserlich gemacht worden. Dahinter finden sich Infos zu Steuerrückzahlungen und Strombedarf für Rechenzentren. (Google, Rechenzentrum)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/frustriert-gpt-astra-betruegt-bei-starcraft-bot-benchmark-2610-213683.html",
-      "publishedAt": "2026-10-04T10:17:02.000Z"
+      "url": "https://www.golem.de/news/rechenzentren-in-nebraska-schlechte-schwaerzung-verraet-steuergeschenke-an-google-2610-213699.html",
+      "publishedAt": "2026-10-05T09:15:02.000Z"
     },
     {
-      "id": "n_52527b5bef",
+      "id": "n_5d951188ea",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Datenbank: Doom läuft auch in SQL",
-      "summary": "Doom ist das wohl meistportierte Spiel. Ein Entwickler zeigt eine Variante für SQL-Datenbanken - Sqldoom läuft flüssig auf einem Laptop. (Doom, Datenbank)",
+      "headline": "Gears of War: Microsoft verkürzt Shader-Wartezeit um 95 Prozent",
+      "summary": "Advanced Shader Delivery kommt für weitere Grafikkarten. Bei Gears of War soll die Technik minutenlange Wartezeiten massiv verkürzen. (DirectX, AMD)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/datenbank-doom-laeuft-auch-in-sql-2610-213681.html",
-      "publishedAt": "2026-10-04T09:16:02.000Z"
+      "url": "https://www.golem.de/news/gears-of-war-microsoft-verkuerzt-shader-wartezeit-um-95-prozent-2610-213698.html",
+      "publishedAt": "2026-10-05T09:02:02.000Z"
     },
     {
-      "id": "n_89b4d3005d",
+      "id": "n_fae5e50d0a",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Balkonkraftwerk mit BC-Modulen und Anker Solix 4 Pro 950 Euro günstiger für Golem-Leser",
-      "summary": "Kleines Kraftwerk bietet wieder ein Balkonkraftwerk mit BC-Modulen und der Anker Solix 4 Pro als Speicher an. Golem-Leser sparen 950 Euro. (Balkonkraftwerk, Solarenergie)",
+      "headline": "Dritter Firmenname seit Februar: Musk will SpaceXAI in SpaceXSI umbenennen",
+      "summary": "Obwohl die Trump-Anordnung zur Umbenennung von KI in Superintelligenz nur US-Behörden betrifft, zieht Elon Musk fleißig mit. (KI, TSMC)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-balkonkraftwerk-mit-bc-modulen-und-anker-solix-4-pro-950-euro-guenstiger-fuer-golem-leser-2610-213666.html",
-      "publishedAt": "2026-10-04T08:40:02.000Z"
+      "url": "https://www.golem.de/news/dritter-firmenname-seit-februar-musk-will-spacexai-in-spacexsi-umbenennen-2610-213697.html",
+      "publishedAt": "2026-10-05T08:48:01.000Z"
     },
     {
-      "id": "n_ace64dcaf2",
+      "id": "n_30ea1ff94f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Fritz Repeater 1700 und 2700 mit Wi-Fi 7 vor Prime Day reduziert",
-      "summary": "Bei Amazon sind die beiden Fritz Repeater 1700 und 2700 mit Wi-Fi 7 bereits exklusiv für Prime-Kunden reduziert. (Wi-Fi 6, Technik/Hardware)",
+      "headline": "KI-Agent: Meta bringt Anbindung an Agent Muse für DIY-Projekte",
+      "summary": "Über ein eigenes SDK kann Metas KI-Agent Muse an DIY-Projekte angebunden werden. (DIY - Do it yourself, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-fritz-repeater-1700-und-2700-mit-wi-fi-7-vor-prime-day-reduziert-2610-213678.html",
-      "publishedAt": "2026-10-04T08:21:02.000Z"
+      "url": "https://www.golem.de/news/ki-agent-meta-bringt-anbindung-an-agent-muse-fuer-diy-projekte-2610-213695.html",
+      "publishedAt": "2026-10-05T08:38:01.000Z"
     },
     {
-      "id": "n_596f012328",
+      "id": "n_60816fc55f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Speicherkrise: Kleine Raspberry Pis werden teurer, DGX Spark mit weniger RAM",
-      "summary": "Die Speicherkrise sorgt weiter für steigende Preise. Bislang verschonte Raspberry Pis werden teurer, Nvidias KI-Desktop kommt als kleinere Version. (RAM, Nvidia)",
+      "headline": "Anzeige: Redtiger 4K-Dashcam mit Speicherkarte als früher Prime-Deal erstmals unter 114 Euro",
+      "summary": "Blechschaden und kein Zettel? Die Redtiger F7NP filmt in 4K nach vorn und hinten und ist mit 128-GByte-Karte jetzt so günstig wie nie. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/speicherkrise-kleine-raspberry-pis-werden-teurer-dgx-spark-mit-weniger-ram-2610-213680.html",
-      "publishedAt": "2026-10-04T08:16:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-redtiger-4k-dashcam-mit-speicherkarte-als-frueher-prime-deal-erstmals-unter-114-euro-2610-213696.html",
+      "publishedAt": "2026-10-05T08:33:01.000Z"
     },
     {
-      "id": "n_85ac007f42",
+      "id": "n_271561d9ed",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
-      "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "headline": "US air force removes all bombers from British military base RAF Fairford",
+      "summary": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-05T02:40:51.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T09:20:45.000Z"
     },
     {
-      "id": "n_677c47da7b",
+      "id": "n_28841518e9",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Rescuers suspend search for survivors after plane went missing off US coast",
-      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+      "headline": "How Spain's housing crisis has resulted in an early general election",
+      "summary": "his series of measures to tackle the housing crisis was defeated in parliament on Friday",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-04T23:29:18.000Z"
+      "url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T09:03:30.000Z"
     },
     {
-      "id": "n_df84823904",
+      "id": "n_626857c8e9",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
-      "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
+      "headline": "Ethiopian rebel forces withdraw from Tigray regional capital",
+      "summary": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-04T20:14:49.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T08:29:12.000Z"
     },
     {
-      "id": "n_deaccbed3c",
+      "id": "n_4b534e16e5",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Indian police accused of sexually harassing journalists at protest",
-      "summary": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
+      "headline": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
+      "summary": "For many locals on this island, the arrest has brought decades of frustration back to the fore.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-04T17:01:19.000Z"
-    },
-    {
-      "id": "n_c663564d4e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Yemen's government announces all-out war to reclaim land from Houthis",
-      "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-04T16:51:30.000Z"
-    },
-    {
-      "id": "n_77fecbaebc",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
-      "summary": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-04T16:24:48.000Z"
-    },
-    {
-      "id": "n_6bf4e8b3c5",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US Marine arrested over murder of woman in Okinawa, Japan",
-      "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-04T14:36:57.000Z"
-    },
-    {
-      "id": "n_c464349ff4",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Watch: What we know about Russian strikes on Kyiv bridges",
-      "summary": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-04T14:25:32.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T08:22:41.000Z"
     },
     {
       "id": "n_e06269fd8c",
       "type": "news",
-      "topic": "tech",
+      "topic": "general",
       "lang": "en",
       "headline": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
       "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-05T02:32:21.000Z"
+      "publishedAt": "2026-10-05T06:15:29.000Z"
+    },
+    {
+      "id": "n_1646cfc266",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
+      "summary": "Thousands have taken to the streets after talks between authorities and Khan's party ended in deadlock.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T05:28:46.000Z"
+    },
+    {
+      "id": "n_67da709ad4",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: How Brazil's dramatic election unfolded",
+      "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T04:51:24.000Z"
+    },
+    {
+      "id": "n_95ef279bec",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "France closes up to 500 schools Monday over student protests",
+      "summary": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-05T04:49:14.000Z"
     },
     {
       "id": "n_391288e2fc",
@@ -442,6 +431,17 @@
       "publishedAt": "2026-09-30T23:02:21.000Z"
     },
     {
+      "id": "n_3fa4d4d373",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+      "summary": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+      "publishedAt": "2026-10-05T04:00:52.000Z"
+    },
+    {
       "id": "n_3116e977cb",
       "type": "news",
       "topic": "tech",
@@ -517,17 +517,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
       "publishedAt": "2026-10-02T20:30:27.000Z"
-    },
-    {
-      "id": "n_68dc190714",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Patient-zero drill put health facilities to the test—40% of them failed",
-      "summary": "Actors with makeup and fake symptoms staggered into 73 healthcare facilities.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
-      "publishedAt": "2026-10-02T20:07:59.000Z"
     },
     {
       "id": "n_00aaae6618",
@@ -706,6 +695,17 @@
       "publishedAt": "2026-10-02T18:00:00.000Z"
     },
     {
+      "id": "n_7a474ffcdd",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "People really hate AI, so why can’t they get enough?",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a se",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "publishedAt": "2026-10-05T08:00:00.000Z"
+    },
+    {
       "id": "n_0638210728",
       "type": "news",
       "topic": "ai",
@@ -781,17 +781,6 @@
       "source": "MIT Technology Review",
       "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
       "publishedAt": "2026-09-28T08:06:22.000Z"
-    },
-    {
-      "id": "n_93b91a44c5",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence an",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "publishedAt": "2026-09-25T09:16:25.000Z"
     },
     {
       "id": "n_5021eb4ecd",
@@ -968,6 +957,150 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
       "publishedAt": "2026-09-24T14:08:57.000Z"
+    },
+    {
+      "id": "n_b7d9300382",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Claude Opus 5.5 AI: An Incredible Leap Forward",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+      "thumbnail": "https://i.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg",
+      "publishedAt": "2026-09-24T08:40:55.000Z"
+    },
+    {
+      "id": "n_762e86c2a7",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Yes, Jev Is Insane, But There's A Catch",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
+      "thumbnail": "https://i.ytimg.com/vi/qBBRRsH0rQc/hqdefault.jpg",
+      "publishedAt": "2026-09-22T09:32:13.000Z"
+    },
+    {
+      "id": "n_0c3e7fe15b",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DeepSeek’s Insane New Architecture",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
+      "thumbnail": "https://i.ytimg.com/vi/vIHw_2VjSUw/hqdefault.jpg",
+      "publishedAt": "2026-09-18T07:03:46.000Z"
+    },
+    {
+      "id": "n_281ff94730",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
+      "thumbnail": "https://i.ytimg.com/vi/YoEWjZSwoys/hqdefault.jpg",
+      "publishedAt": "2026-09-15T10:12:34.000Z"
+    },
+    {
+      "id": "n_c21d60498a",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
+      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
+      "publishedAt": "2026-09-17T00:34:47.000Z"
+    },
+    {
+      "id": "n_ffdb3dfd14",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
+      "publishedAt": "2026-08-26T21:44:41.000Z"
+    },
+    {
+      "id": "n_6a18d8c315",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
+      "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
+      "publishedAt": "2026-08-12T12:57:24.000Z"
+    },
+    {
+      "id": "n_49a7d5405f",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
+      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
+      "publishedAt": "2026-07-28T20:02:11.000Z"
+    },
+    {
+      "id": "n_c41b12c55b",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The one OpenAI announcement that can actually make you money...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=No-JPdFvYWU",
+      "thumbnail": "https://i.ytimg.com/vi/No-JPdFvYWU/hqdefault.jpg",
+      "publishedAt": "2026-10-01T19:34:14.000Z"
+    },
+    {
+      "id": "n_a9f950b2ca",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Did a 50 year old military secret just solve agent prompt injection?",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=I_KVMFrUtPk",
+      "thumbnail": "https://i.ytimg.com/vi/I_KVMFrUtPk/hqdefault.jpg",
+      "publishedAt": "2026-09-30T17:16:43.000Z"
+    },
+    {
+      "id": "n_acb2066b88",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DHH has gone completely off the rails...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=OuNKBjuV7A4",
+      "thumbnail": "https://i.ytimg.com/vi/OuNKBjuV7A4/hqdefault.jpg",
+      "publishedAt": "2026-09-28T19:27:59.000Z"
+    },
+    {
+      "id": "n_e69560d580",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Meta is pivoting again... everything you missed from Connect 2026",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=c1rPlzxSZ8E",
+      "thumbnail": "https://i.ytimg.com/vi/c1rPlzxSZ8E/hqdefault.jpg",
+      "publishedAt": "2026-09-25T19:22:32.000Z"
     },
     {
       "id": "n_7275c2b067",
