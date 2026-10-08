@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-10-07T18:02:26.743Z",
+  "generatedAt": "2026-10-08T00:30:56.379Z",
   "items": [
+    {
+      "id": "n_05eda5e203",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Suche geht weiter: Wer wird Nachfolger von UN-Generalsekretär Guterres?",
+      "summary": "Bei der UN ist weiterhin offen, wer neuer Generalsekretär wird. Die fünfzehn Mitgliedsstaaten im Sicherheitsrat konnten auch bei ihrer fünften Probeabstimmung keine Vorentscheidung erreichen. Von M. Ganslmeier.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-nachfolge-100.html",
+      "publishedAt": "2026-10-07T23:25:54.000Z"
+    },
+    {
+      "id": "n_9bf4f52dcc",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach gescheiterter Hinrichtung: Anwälte sprechen über Pikes Gesundheitszustand",
+      "summary": "Die verurteilte Mörderin Christa Pike sollte vergangene Woche hingerichtet werden - überlebte allerdings zwei Giftspritzen. Nun wurden Details über ihren Gesundheitszustand bekannt - unter anderem leide sie an einer Lungenentzündung, so ihre Anwälte.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/pike-hinrichtung-100.html",
+      "publishedAt": "2026-10-07T22:05:42.000Z"
+    },
+    {
+      "id": "n_fdf01cc148",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Sozialdemokraten: Mit dem \"Projekt 2045\" für den Klimaschutz",
+      "summary": "Hitze, ausgetrocknete Flüsse und zunehmende Risiken für Menschen, Natur und Wirtschaft: Die Folgen der Erderwärmung sind unübersehbar. Beim Streitthema Klima will ein neuer SPD-naher Verein nun vorangehen. Von D. Hebestreit.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/spd-klimapolitik-100.html",
+      "publishedAt": "2026-10-07T22:01:18.000Z"
+    },
+    {
+      "id": "n_0a8f2eca82",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Vier Stunden - dann ist der Koalitionsausschuss zu Ende",
+      "summary": "Diesmal ging es verhältnismäßig schnell: Die Spitzen von CDU, CSU und SPD haben noch am späten Mittwochabend den Koalitionsausschuss beendet. Details soll es am Donnerstag geben.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-reformen-108.html",
+      "publishedAt": "2026-10-07T21:32:31.000Z"
+    },
+    {
+      "id": "n_d1213b70ee",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Frankreichs Premier verspricht Schülern Verbesserungen, aber nicht mehr Geld",
+      "summary": "Die Schulproteste in Frankreich halten weiter an. Premier Lecornu sicherte den Schülern nun bessere Lernbedingungen zu, ohne aber zusätzlichen Finanzhilfen in Aussicht zu stellen. Doch neue Proteste sind bereits angekündigt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-lecornu-100.html",
+      "publishedAt": "2026-10-07T20:00:05.000Z"
+    },
+    {
+      "id": "n_43dcbd0334",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach Zwangsräumung in Spanien - Rentnerin Maricarmen gestorben",
+      "summary": "Ihr Name stand symbolisch für die spanische Wohnungskrise. Nach der Zwangsräumung der Wohnung der 87-jährigen Maricarmen Abascal war es zu landesweiten Protesten gekommen. Nun ist die Rentnerin gestorben.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/maricarmen-spanien-zwangsraeumung-100.html",
+      "publishedAt": "2026-10-07T19:38:22.000Z"
+    },
     {
       "id": "n_49a6c1184d",
       "type": "news",
@@ -10,84 +76,29 @@
       "summary": "In Berlin finden zum dritten Jahrestag des bewaffneten Terrorangriffs der Hamas auf Israel mehrere Gedenkveranstaltungen statt. Innenminister Dobrindt sagte, die Bekämpfung des Antisemitismus gehöre zur \"Pflicht eines jeden Deutschen\".",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/gesellschaft/hamas-anschlag-auf-israel-gedenken-in-berlin-100.html",
-      "publishedAt": "2026-10-07T17:44:41.000Z"
+      "publishedAt": "2026-10-07T19:24:39.000Z"
     },
     {
-      "id": "n_89079de9ee",
+      "id": "n_a7515e56de",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "20 Jahre Mord an Politkowskaja: \"In Russland gibt es keine Presse\"",
-      "summary": "Auch 20 Jahre nach dem Mord an ihrer Journalistin Anna Politkowskaja versucht die Nowaja Gaseta, weiter in Russland zu berichten. Trotz Zensur, Lizenzentzug - und der ständigen Gefahr für das eigene Leben. Von Norbert Hahn.",
+      "headline": "Neue Staatspräsidentin des Kosovos: Ein politischer Deal in letzter Minute",
+      "summary": "Der Kosovo hat eine Präsidentin gewählt und damit Neuwahlen abgewendet. Der Preis der Einigung war eine Gesetzesänderung: Straftaten im Kosovokrieg sollen weniger streng bestraft werden. Das dürfte noch für Diskussionen sorgen. Von S. Hahne.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/russland-nowaja-gaseta-politkowskaja-100.html",
-      "publishedAt": "2026-10-07T17:42:13.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/kosovo-staatspraesidentin-wahl-100.html",
+      "publishedAt": "2026-10-07T18:45:48.000Z"
     },
     {
-      "id": "n_77ebc87395",
+      "id": "n_3ae7b3515b",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Hamas-Überfall auf Israel: Der Strand, an dem der 7. Oktober begann",
-      "summary": "In Zikim griff die Hamas am 7. Oktober 2023 Israel vom Meer aus an. 18 Menschen starben dort, doch der Versuch der Terroristen, in den Kibbuz vorzudringen, scheiterte. Wie schaut man heute auf die dramatischen Stunden? Von B. Meier.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-gedenktag-ueberfall-hamas-zikim-100.html",
-      "publishedAt": "2026-10-07T17:31:36.000Z"
-    },
-    {
-      "id": "n_06501d5cde",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "3. Jahrestag des Hamas-Überfalls auf Israel: \"Der Schmerz sitzt tief\"",
-      "summary": "Für Israel wird der 7. Oktober noch lange ein Trauma bleiben. Drei Jahre nach dem Hamas-Überfall fühlen viele in Israel nicht nur Trauer, sondern sind enttäuscht von den eigenen Behörden und der Weltgemeinschaft. Von Julio Segador.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/dritter-jahrestag-hamas-israel-gedenken-100.html",
-      "publishedAt": "2026-10-07T17:01:48.000Z"
-    },
-    {
-      "id": "n_ffa7ed26f1",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Steinmeiers Abschiedsbesuch in Paris in stürmischen Zeiten",
-      "summary": "Die Amtszeit von Bundespräsident Steinmeier endet bald, die von Frankreichs Staatspräsident Macron auch. Beide verstehen sich. Auf Regierungsebene gibt es aber schon seit einiger Zeit Probleme. Nun fliegt Steinmeier nach Paris. Von T. Handel.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/steinmeier-staatsbesuch-frankreich-100.html",
-      "publishedAt": "2026-10-07T16:45:18.000Z"
-    },
-    {
-      "id": "n_831fbbebb2",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Themen im Koalitionsausschuss: Was Schwarz-Rot jetzt vor sich hat",
-      "summary": "Die schwarz-rote Koalition will ihre Reformvorhaben voranbringen, doch bei wichtigen Projekten liegen die Partner überkreuz. Und die jüngsten Wahlergebnisse setzen der Regierung zu. Welche Themen werden heute diskutiert?",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-reformen-106.html",
-      "publishedAt": "2026-10-07T16:38:29.000Z"
-    },
-    {
-      "id": "n_d992c8a8c8",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "EU plant Beitritt in Stufen - und Ende der Einstimmigkeit",
-      "summary": "Um einen EU-Beitritt einfacher zu machen, plant die Kommission eine Mitgliedschaft in Stufen. Und damit eine erweiterte Union handlungsfähig bleibt, soll es zentrale Reformen geben: etwa beim Prinzip der Einstimmigkeit. Von Sabrina Fritz.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-regeln-mitgliedschaft-100.html",
-      "publishedAt": "2026-10-07T16:33:03.000Z"
-    },
-    {
-      "id": "n_fe227122ff",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "DAX fällt wieder zurück",
-      "summary": "Die Anleger haben sich nach den jüngsten Gewinntagen heute wieder zurückgezogen. Steigende Ölpreise und Anleiherenditen drücken die Stimmung. Im besonderen Fokus standen Autoaktien.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-118.html",
-      "publishedAt": "2026-10-07T16:30:44.000Z"
+      "headline": "Microsoft stellt Agentic Windows Desktop und neue Hardware vor",
+      "summary": "Am Mittwochabend deutscher Zeit hat Microsoft die agentische Erweiterung von Windows vorgestellt. Außerdem wurde passende Hardware gezeigt.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Microsoft-stellt-Agentic-Windows-Desktop-und-neue-Hardware-vor-11479936.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-07T19:37:00.000Z"
     },
     {
       "id": "n_62fc48cdd9",
@@ -167,15 +178,26 @@
       "publishedAt": "2026-10-06T08:40:00.000Z"
     },
     {
-      "id": "n_ce4f0e6c03",
+      "id": "n_379162e78d",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Aus totem Stern entstanden: Erstmals Spur von Exoplanet der zweiten Generation",
-      "summary": "Mit dem Weltraumteleskop Hubble wurde womöglich der erste Exoplanet entdeckt, der aus Überresten eines toten Sterns entstanden ist. Verraten hat ihn Niob.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Aus-totem-Stern-entstanden-Erstmals-Spur-von-Exoplanet-der-zweiten-Generation-11477083.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-06T08:36:00.000Z"
+      "headline": "BMW iX4 und iX3 M60 xDrive: Coupé- und leistungsstarke M-Version des iX3 vorgestellt",
+      "summary": "BMW erweitert sein Angebot des vollelektrischen iX3. Die Schrägheckversion kommt noch etwas weiter als das SUV, ist aber teurer ausgestattet. (Elektroauto, Auto)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/bmw-ix4-und-ix3-m60-xdrive-coupe-und-leistungsstarke-m-version-des-ix3-vorgestellt-2610-213847.html",
+      "publishedAt": "2026-10-07T22:30:02.000Z"
+    },
+    {
+      "id": "n_e16179cdb0",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Microsoft 365: Identitäten, Geräte und Daten absichern",
+      "summary": "Microsoft 365 Security umfasst Identitäten, Geräte und Daten. Ein Online-Workshop vermittelt, wie Administratoren die Sicherheitsdienste konfigurieren. (Golem Karrierewelt, Identitätsmanagement)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-microsoft-365-identitaeten-geraete-und-daten-absichern-2610-213837.html",
+      "publishedAt": "2026-10-07T18:30:02.000Z"
     },
     {
       "id": "n_42d625d5cf",
@@ -244,26 +266,70 @@
       "publishedAt": "2026-10-07T15:52:02.000Z"
     },
     {
-      "id": "n_ad2223072b",
+      "id": "n_852aba6fb8",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Goldenes Trump Phone: Hacker veröffentlichen Kundendaten von Trump Mobile",
-      "summary": "Die Hackinggruppe hat wohl noch immer Zugriff auf die Systeme von Trump Mobile. Die nutzten nicht einmal eine Zweifaktor-Authentifizierung. (Donald Trump, Smartphone)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/goldenes-trump-phone-hacker-veroeffentlichen-kundendaten-von-trump-mobile-2610-213834.html",
-      "publishedAt": "2026-10-07T15:03:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+      "summary": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T00:09:17.000Z"
     },
     {
-      "id": "n_947a6ab5cd",
+      "id": "n_211d07ee70",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Prime Day 2026 - Jetzt noch bis Mitternacht diese 25 Deals sichern",
-      "summary": "Der Prime Day ist fast vorbei. Nur noch wenige Stunden, dann ist die Schnäppchenjagd beendet. Wer noch nicht zugeschlagen hat, sollte sich beeilen. (Prime Day, Amazon)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-prime-day-2026-jetzt-noch-bis-mitternacht-diese-25-deals-sichern-2610-213835.html",
-      "publishedAt": "2026-10-07T15:01:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Chinese runner dropped by sponsor after riding bike during marathon",
+      "summary": "Sun Yuanyuan was seemingly pictured on the back of another person's bike during part of the Berlin Marathon.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T20:29:31.000Z"
+    },
+    {
+      "id": "n_515b2afcaf",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+      "summary": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T20:27:03.000Z"
+    },
+    {
+      "id": "n_b7557525e2",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Canada suspends plans to expand assisted dying to people with mental illness",
+      "summary": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T19:30:51.000Z"
+    },
+    {
+      "id": "n_3f34a122d1",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump to speak to Putin about plague lab worker's death in Russia",
+      "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T18:27:40.000Z"
+    },
+    {
+      "id": "n_5d0d9e1cb9",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Children killed while they slept as Russian missile kills 19 in block of flats",
+      "summary": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T18:12:58.000Z"
     },
     {
       "id": "n_5681324bf6",
@@ -277,17 +343,6 @@
       "publishedAt": "2026-10-07T17:47:31.000Z"
     },
     {
-      "id": "n_b7557525e2",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Canada suspends plans to expand assisted dying to people with mental illness",
-      "summary": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T17:29:46.000Z"
-    },
-    {
       "id": "n_ab1cc787d8",
       "type": "news",
       "topic": "general",
@@ -299,59 +354,26 @@
       "publishedAt": "2026-10-07T16:00:18.000Z"
     },
     {
-      "id": "n_5d0d9e1cb9",
+      "id": "n_4f9780f83c",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Zelensky condemns 'vile' large-scale Russian attacks that killed 24",
-      "summary": "Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.",
+      "headline": "Fuel prices added to Google Maps as petrol and diesel costs soar",
+      "summary": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T14:53:43.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T23:50:29.000Z"
     },
     {
-      "id": "n_3f34a122d1",
+      "id": "n_ee1064a689",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Trump to speak to Putin about plague lab worker's death in Russia",
-      "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
+      "headline": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
+      "summary": "The research found that important guardrails for teens using ChatGPT often failed.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T14:50:28.000Z"
-    },
-    {
-      "id": "n_fdc5d65540",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
-      "summary": "The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T12:46:39.000Z"
-    },
-    {
-      "id": "n_fee2951f7c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Japan beer giants raided over alleged price-fixing cartel",
-      "summary": "Asahi, Kirin and Suntory confirmed their premises were searched by Japanese competition authorities.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T12:09:59.000Z"
-    },
-    {
-      "id": "n_2b4add7b07",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
-      "summary": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-07T11:51:52.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T20:34:17.000Z"
     },
     {
       "id": "n_c253441b11",
@@ -420,26 +442,70 @@
       "publishedAt": "2026-10-06T11:24:10.000Z"
     },
     {
-      "id": "n_c1ba5a5db0",
+      "id": "n_0598a3e5bb",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Ofcom investigates Meta over Instagram Instants feature",
-      "summary": "The regulator said Instagram had not fully assessed risks posed by its Instants feature prior to launching it.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-06T09:04:02.000Z"
+      "headline": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+      "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+      "publishedAt": "2026-10-07T21:56:42.000Z"
     },
     {
-      "id": "n_0125a73125",
+      "id": "n_dcf8c6406b",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Lego fraudster among last year's most high-profile insurance scammers",
-      "summary": "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-06T07:03:35.000Z"
+      "headline": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
+      "summary": "Pennsylvania reported 1,066 outbreak-linked cases on Wednesday.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/",
+      "publishedAt": "2026-10-07T20:01:14.000Z"
+    },
+    {
+      "id": "n_d560ae1b3e",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "TP-Link problems in US grow amid FCC router ban and four state lawsuits",
+      "summary": "TP-Link can't sell latest routers in US, still needs exemption from FCC ban.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/",
+      "publishedAt": "2026-10-07T19:53:42.000Z"
+    },
+    {
+      "id": "n_f3d4ea284a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Chemistry Nobel goes to reactions like those that gave life a hand",
+      "summary": "Altering molecular handedness has implications for the origins of life.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/10/chemistry-nobel-goes-to-reactions-like-those-that-gave-life-a-hand/",
+      "publishedAt": "2026-10-07T18:48:18.000Z"
+    },
+    {
+      "id": "n_197d2e5bb5",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Pediatricians renew call to ban raw milk as anti-science rhetoric reigns",
+      "summary": "In renewed policy, pediatricians review the benefits of heating milk to kill germs.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/10/pediatricians-renew-call-to-ban-raw-milk-as-anti-science-rhetoric-reigns/",
+      "publishedAt": "2026-10-07T18:24:39.000Z"
+    },
+    {
+      "id": "n_2943f19100",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+      "summary": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
+      "publishedAt": "2026-10-07T17:57:39.000Z"
     },
     {
       "id": "n_1e84fb701f",
@@ -464,70 +530,48 @@
       "publishedAt": "2026-10-07T15:19:05.000Z"
     },
     {
-      "id": "n_e1ff572449",
+      "id": "n_9b80120014",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Mistral says \"Le Chonk\" can challenge the best AI models",
-      "summary": "Mistral says Le Chonk can rival top closed models while remaining open-weight.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
-      "publishedAt": "2026-10-07T14:12:37.000Z"
+      "headline": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "publishedAt": "2026-10-07T20:48:45.000Z"
     },
     {
-      "id": "n_eba1d42227",
+      "id": "n_09299f670c",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Google rolls out improved SynthID AI content detector, now available globally",
-      "summary": "The new SynthID website can now identify AI content from Google, OpenAI, and more.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
-      "publishedAt": "2026-10-07T14:00:08.000Z"
+      "headline": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "publishedAt": "2026-10-07T20:22:37.000Z"
     },
     {
-      "id": "n_782015d1e0",
+      "id": "n_769d4c9aeb",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "AI/ML is becoming a performance factor in motorsport",
-      "summary": "More than just a sponsor: OpenAI has been helping Ganassi with setups.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/10/ai-ml-setups-became-a-tool-in-indycar-champion-alex-palous-toolbox/",
-      "publishedAt": "2026-10-07T13:56:38.000Z"
+      "headline": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "publishedAt": "2026-10-07T18:30:57.000Z"
     },
     {
-      "id": "n_c448375068",
+      "id": "n_69c1beaf03",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Review: Fine, let's talk about Digger",
-      "summary": "Its excesses may try one’s patience at times, but the film sticks the landing with a savagely moving finale.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/10/review-digger-is-both-frustrating-and-brilliant-by-design/",
-      "publishedAt": "2026-10-07T13:01:28.000Z"
-    },
-    {
-      "id": "n_2a24086b15",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "If you're looking, here's a \"good deal\" for NASA and the European Space Agency",
-      "summary": "\"We are in the era of people interested in having good deals, and LISA is a very good deal for the US.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/10/nasa-is-keen-on-pursuing-at-least-one-joint-science-mission-with-europe/",
-      "publishedAt": "2026-10-07T11:00:40.000Z"
-    },
-    {
-      "id": "n_c7efea1afa",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
-      "summary": "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
-      "publishedAt": "2026-10-06T21:31:10.000Z"
+      "headline": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "publishedAt": "2026-10-07T18:15:28.000Z"
     },
     {
       "id": "n_a5478fc42d",
@@ -574,48 +618,26 @@
       "publishedAt": "2026-10-07T14:41:38.000Z"
     },
     {
-      "id": "n_3dcafb3a31",
+      "id": "n_876648c335",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Google experiments with an AI-powered gaming platform",
-      "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-      "publishedAt": "2026-10-07T14:36:23.000Z"
+      "headline": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
+      "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms,",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "publishedAt": "2026-10-07T19:10:42.000Z"
     },
     {
-      "id": "n_814772bc92",
+      "id": "n_a5b44d5e4c",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-      "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-      "publishedAt": "2026-10-07T14:30:00.000Z"
-    },
-    {
-      "id": "n_d5ce11bd19",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-      "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-10-07T14:15:00.000Z"
-    },
-    {
-      "id": "n_e4ccf311f6",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Google’s new SynthID website can identify AI-generated media",
-      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-      "publishedAt": "2026-10-07T14:00:00.000Z"
+      "headline": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
+      "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599 for",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+      "publishedAt": "2026-10-07T18:42:22.000Z"
     },
     {
       "id": "n_9c7dd462aa",
@@ -634,7 +656,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "Surface RTX Spark Dev Box is available for preorder for $5,999",
-      "summary": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now directly, and slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other",
+      "summary": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other compon",
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
       "publishedAt": "2026-10-07T17:46:44.000Z"
@@ -682,28 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
       "publishedAt": "2026-10-07T12:00:00.000Z"
-    },
-    {
-      "id": "n_f81ac359aa",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-      "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help s",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
-      "publishedAt": "2026-10-07T09:00:00.000Z"
-    },
-    {
-      "id": "n_e4feb1bf5e",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI drops another batch of mathematical breakthroughs",
-      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-      "publishedAt": "2026-10-06T23:26:38.000Z"
     },
     {
       "id": "n_1ba99535ff",
@@ -794,6 +794,17 @@
       "publishedAt": "2026-09-29T10:43:45.000Z"
     },
     {
+      "id": "n_ed38d420f2",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+      "summary": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+      "publishedAt": "2026-10-07T18:45:00.000Z"
+    },
+    {
       "id": "n_fa46422694",
       "type": "news",
       "topic": "ai",
@@ -869,17 +880,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
       "publishedAt": "2026-10-06T13:15:23.000Z"
-    },
-    {
-      "id": "n_ce4fb1db15",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Kevin Roose Didn’t Use AI to Write His Book About AI",
-      "summary": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
-      "publishedAt": "2026-10-06T10:30:00.000Z"
     },
     {
       "id": "n_0825a4897d",
@@ -1066,6 +1066,18 @@
       "publishedAt": "2026-07-28T20:02:11.000Z"
     },
     {
+      "id": "n_e2b44e6c52",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "A $6.3 billion open-weight model just got embarrassed by the French...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=WrCjAAl9okA",
+      "thumbnail": "https://i.ytimg.com/vi/WrCjAAl9okA/hqdefault.jpg",
+      "publishedAt": "2026-10-07T20:24:27.000Z"
+    },
+    {
       "id": "n_f16ac80d2c",
       "type": "video",
       "topic": "video",
@@ -1100,18 +1112,6 @@
       "url": "https://www.youtube.com/watch?v=I_KVMFrUtPk",
       "thumbnail": "https://i.ytimg.com/vi/I_KVMFrUtPk/hqdefault.jpg",
       "publishedAt": "2026-09-30T17:16:43.000Z"
-    },
-    {
-      "id": "n_acb2066b88",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH has gone completely off the rails...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=OuNKBjuV7A4",
-      "thumbnail": "https://i.ytimg.com/vi/OuNKBjuV7A4/hqdefault.jpg",
-      "publishedAt": "2026-09-28T19:27:59.000Z"
     },
     {
       "id": "n_7275c2b067",
