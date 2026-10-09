@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-10-09T17:37:52.320Z",
+  "generatedAt": "2026-10-09T21:56:25.412Z",
   "items": [
+    {
+      "id": "n_0615043697",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nobelpreisträgerin Pillay in den tagesthemen: \"Die Nürnberger Prozesse haben mich inspiriert\"",
+      "summary": "Der Preis sei eine \"große, schöne Überraschung\", sagt die frisch gekürte Friedensnobelpreisträgerin Pillay in den tagesthemen. Durch die Auszeichnung bekäme die Öffentlichkeit mit, \"wie wichtig die Strafjustiz wirklich ist\".",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/afrika/tagesthemen-interview-friedensnobelpreis-pillay-100.html",
+      "publishedAt": "2026-10-09T20:35:39.000Z"
+    },
+    {
+      "id": "n_5785a4a95d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Flydubai-Co-Pilot plante laut Ermittlern Selbstmordanschlag",
+      "summary": "Zum vereitelten Absturz des Flydubai-Flugzeugs Ende September sind weitere Details bekannt geworden. Der Co-Pilot hatte nach Angaben der Ermittler geplant, die Maschine in ein israelisches Flughafenterminal zu steuern.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/flydubai-flugzeug-selbstmordanschlag-100.html",
+      "publishedAt": "2026-10-09T19:12:19.000Z"
+    },
+    {
+      "id": "n_66b703e8a2",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nobelpreisträgerin Pillay: Unerschrockene Kämpferin für das Recht",
+      "summary": "Navanethem Pillay ist während der Apartheid in Südafrika aufgewachsen. Ihr Leben widmete die Juristin später dem Kampf gegen Gewalt und Unrecht. Nun ist sie für ihr Engagement mit dem Friedensnobelpreis ausgezeichnet worden. Von S. Ueberbach.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/afrika/nobelpreis-pillay-portrait-100.html",
+      "publishedAt": "2026-10-09T18:06:06.000Z"
+    },
+    {
+      "id": "n_9e90604b8d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ministerin zu Kita-Gesetz: \"Bildungschancen sollten von Talenten bestimmt sein\"",
+      "summary": "Familienministerin Prien hat im Bundestag ihr geplantes Gesetz für mehr Qualität in Kitas verteidigt. Gezielte frühkindliche Bildung führe zu mehr Chancengerechtigkeit. Aus der Opposition kam Kritik an der Finanzierung.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/kita-chancen-gesetz-bundestag-100.html",
+      "publishedAt": "2026-10-09T17:50:26.000Z"
+    },
+    {
+      "id": "n_c193dae38b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Neue US-Sanktionen gegen Internationalen Strafgerichtshof",
+      "summary": "Die USA verschärfen ihr Vorgehen gegen den Internationalen Strafgerichtshof in Den Haag mit neuen Sanktionen - kurz nach dem Friedensnobelpreis für eine ehemalige IStGH-Richterin. Aus Europa kommt vehemente Kritik.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html",
+      "publishedAt": "2026-10-09T17:47:36.000Z"
+    },
     {
       "id": "n_3ad43a1ae2",
       "type": "news",
@@ -24,17 +79,6 @@
       "publishedAt": "2026-10-09T16:59:58.000Z"
     },
     {
-      "id": "n_c193dae38b",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Neue US-Sanktionen gegen Internationalen Strafgerichtshof",
-      "summary": "Die USA verschärfen ihr Vorgehen gegen den Internationalen Strafgerichtshof in Den Haag mit neuen Sanktionen - kurz nach dem Friedensnobelpreis für eine ehemalige IStGH-Richterin. Aus Europa kommt vehemente Kritik.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-sanktionen-istgh-100.html",
-      "publishedAt": "2026-10-09T16:24:00.000Z"
-    },
-    {
       "id": "n_815710f2c0",
       "type": "news",
       "topic": "general",
@@ -44,61 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-166.html",
       "publishedAt": "2026-10-09T16:10:17.000Z"
-    },
-    {
-      "id": "n_66b703e8a2",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Nobelpreisträgerin Pillay: Unerschrockene Kämpferin für das Recht",
-      "summary": "Navanethem Pillay ist während der Apartheid in Südafrika aufgewachsen. Ihr Leben widmete die Juristin später dem Kampf gegen Gewalt und Unrecht. Nun ist sie für ihr Engagement mit dem Friedensnobelpreis ausgezeichnet worden. Von S. Ueberbach.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/nobelpreis-pillay-portrait-100.html",
-      "publishedAt": "2026-10-09T15:14:28.000Z"
-    },
-    {
-      "id": "n_898372fd41",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Altkanzler Schröder bei Putins Geburtstag: Kopfschütteln, Wut, Empörung",
-      "summary": "Kopfschütteln, Wut, Empörung: Der Besuch von Altkanzler Schröder bei Putins Geburtstag in Moskau stößt in Berlin auf Unverständnis. Zum wiederholten Mal irritiert der 82-Jährige mit seiner Nähe zum Kremlchef. Von Georg Schwarte.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/russland-altkanzler-schroeder-putin-geburtstag-kritik-100.html",
-      "publishedAt": "2026-10-09T15:12:24.000Z"
-    },
-    {
-      "id": "n_9e90604b8d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Ministerin zu Kita-Gesetz: \"Bildungschancen sollten von Talenten bestimmt sein\"",
-      "summary": "Familienministerin Prien hat im Bundestag ihr geplantes Gesetz für mehr Qualität in Kitas verteidigt. Gezielte frühkindliche Bildung führe zu mehr Chancengerechtigkeit. Aus der Opposition kam Kritik an der Finanzierung.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/kita-chancen-gesetz-bundestag-100.html",
-      "publishedAt": "2026-10-09T14:22:58.000Z"
-    },
-    {
-      "id": "n_55f11c69d7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Ist die Deutsche Bahn unter Konzernchefin Palla auf dem richtigen Weg?",
-      "summary": "Seit gut einem Jahr ist Evelyn Palla Chefin der Deutschen Bahn. Die Managerin hat eine Bahn versprochen, die \"stolz macht\". Wie weit ist sie dabei schon gekommen? Von M. Schuster und J. Thürmer.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-palla-bilanz-100.html",
-      "publishedAt": "2026-10-09T14:17:27.000Z"
-    },
-    {
-      "id": "n_2c4a89f29e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Nach Entlassung bei OpenAI: Ex-Mitarbeiter veröffentlichen kritischen Brief",
-      "summary": "Die drei von OpenAI kürzlich entlassenen Ex-Mitarbeiter setzen sich mit einem kritischen Brief zur Wehr und warnen vor den Entwicklungen in dem Unternehmen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Nach-Entlassung-bei-OpenAI-Ex-Mitarbeiter-veroeffentlichen-kritischen-Brief-11482574.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-09T12:41:00.000Z"
     },
     {
       "id": "n_c9069ce333",
@@ -176,6 +165,17 @@
       "source": "heise online",
       "url": "https://www.heise.de/news/Gefahr-fuer-autonome-Autos-Wie-eine-Folie-Kameras-und-Lidar-taeuscht-11481395.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
       "publishedAt": "2026-10-08T16:19:00.000Z"
+    },
+    {
+      "id": "n_4d82eb6085",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Ecosia: Warum die Suchmaschine Mistral AI durch chinesische KI ersetzt",
+      "summary": "Die Suchmaschine Ecosia trennt sich von Mistral AI. Künftig setzt das Unternehmen verstärkt auf Open-Weight-Modelle, darunter auch Systeme aus China.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Adieu-Mistral-Ecosia-wechselt-zu-chinesischen-Open-Source-KI-Modellen-11481323.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-08T15:39:00.000Z"
     },
     {
       "id": "n_baf5e06cd1",
@@ -266,6 +266,83 @@
       "publishedAt": "2026-10-09T14:47:01.000Z"
     },
     {
+      "id": "n_c3ee094902",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+      "summary": "The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found at the bottom of a well.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T21:55:51.000Z"
+    },
+    {
+      "id": "n_2b3762f956",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T21:54:28.000Z"
+    },
+    {
+      "id": "n_a382270f15",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+      "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T21:50:47.000Z"
+    },
+    {
+      "id": "n_43c553fc6e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+      "summary": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T21:26:30.000Z"
+    },
+    {
+      "id": "n_e436fd9be3",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Commentator Katie Zacharia picked as new White House press secretary",
+      "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T21:08:04.000Z"
+    },
+    {
+      "id": "n_6b1925297f",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Thai Queen makes first solo flight in fighter jet",
+      "summary": "Thailand’s Queen Suthida made her first solo flight in a fighter jet, according to the Thai Royal Household.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cqm263x40y37o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T19:48:26.000Z"
+    },
+    {
+      "id": "n_4a93d4d6cc",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+      "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T18:40:10.000Z"
+    },
+    {
       "id": "n_36dc6bd9a1",
       "type": "news",
       "topic": "general",
@@ -275,83 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-09T17:37:10.000Z"
-    },
-    {
-      "id": "n_909eaf61d6",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US immigration officials defend ICE agents who shot man in same car as child",
-      "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T17:36:09.000Z"
-    },
-    {
-      "id": "n_d7528ef91e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-      "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T17:14:44.000Z"
-    },
-    {
-      "id": "n_4a93d4d6cc",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US unveils sanctions on ICC in move court condems as 'assault on rule of law'",
-      "summary": "The European Union described the move against the International Criminal Court as \"deeply regrettable\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T17:12:03.000Z"
-    },
-    {
-      "id": "n_5719ad0fbd",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Man named Hitler Mussolini elected mayor in Peru",
-      "summary": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T16:32:22.000Z"
-    },
-    {
-      "id": "n_7343e10e8d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Firing squad execution to be livestreamed, Pentagon says",
-      "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T16:29:47.000Z"
-    },
-    {
-      "id": "n_4931641461",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
-      "summary": "Protests against sexual violence took place across more than 40 US states on 8 October.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cmy83pp3904vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T16:19:36.000Z"
-    },
-    {
-      "id": "n_9d41208b84",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-      "summary": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T15:24:43.000Z"
     },
     {
       "id": "n_21442acb93",
@@ -442,6 +442,72 @@
       "publishedAt": "2026-10-08T16:29:33.000Z"
     },
     {
+      "id": "n_9f4f46039e",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "AI coding agents generate more code, but not more software",
+      "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "publishedAt": "2026-10-09T19:43:50.000Z"
+    },
+    {
+      "id": "n_ca3b473c63",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
+      "summary": "CDC allocated $1.6M for study on alleged harms of hepatitis B vaccine.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
+      "publishedAt": "2026-10-09T19:27:27.000Z"
+    },
+    {
+      "id": "n_417ef50af1",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
+      "summary": "\"The current decline may be just the beginning of a new downward cycle.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+      "publishedAt": "2026-10-09T18:54:52.000Z"
+    },
+    {
+      "id": "n_9304db4f19",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "AI disqualification yields new Nikon Small World in Motion winner",
+      "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+      "publishedAt": "2026-10-09T18:44:06.000Z"
+    },
+    {
+      "id": "n_1b2c3437a4",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Your artwork could be featured in the next Debian release",
+      "summary": "Debian Linux has put a call out for artist submissions for its next release: Forky.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/",
+      "publishedAt": "2026-10-09T18:33:26.000Z"
+    },
+    {
+      "id": "n_7ef3841303",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon",
+      "summary": "Nationwide 800 MHz spectrum to help Starlink provide mobile coverage indoors.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/",
+      "publishedAt": "2026-10-09T18:24:39.000Z"
+    },
+    {
       "id": "n_c76b8fe471",
       "type": "news",
       "topic": "tech",
@@ -464,70 +530,26 @@
       "publishedAt": "2026-10-09T11:00:57.000Z"
     },
     {
-      "id": "n_338575390b",
+      "id": "n_ac2c548222",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Volkswagen's replacement for the ID.4 crossover is here",
-      "summary": "The new EV’s digital cockpit can mimic instrument displays from VWs of old.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
-      "publishedAt": "2026-10-09T10:00:59.000Z"
+      "headline": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "summary": "TypeSafe AI raised $870 million in a round led by a16Z.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "publishedAt": "2026-10-09T21:41:29.000Z"
     },
     {
-      "id": "n_f1ae7b0e75",
+      "id": "n_6794814fc0",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
-      "summary": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
-      "publishedAt": "2026-10-08T21:37:32.000Z"
-    },
-    {
-      "id": "n_d18c9e11ef",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
-      "summary": "Judge questioned if Trump delaying access to Truth Social posts by a second harms the press.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
-      "publishedAt": "2026-10-08T20:53:01.000Z"
-    },
-    {
-      "id": "n_785366c282",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
-      "summary": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
-      "publishedAt": "2026-10-08T20:39:31.000Z"
-    },
-    {
-      "id": "n_22e5fe6fb5",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Feds get ready to rewrite car headlight rules",
-      "summary": "Reducing glare and allowing modern light technologies will be two goals.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/",
-      "publishedAt": "2026-10-08T20:26:13.000Z"
-    },
-    {
-      "id": "n_8702393573",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
-      "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
-      "publishedAt": "2026-10-08T20:15:53.000Z"
+      "headline": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "publishedAt": "2026-10-09T19:36:56.000Z"
     },
     {
       "id": "n_fd6b62e24c",
@@ -596,26 +618,37 @@
       "publishedAt": "2026-10-09T14:00:00.000Z"
     },
     {
-      "id": "n_4f0829ed30",
+      "id": "n_0ad44f3ce5",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "publishedAt": "2026-10-08T21:00:00.000Z"
+      "headline": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "publishedAt": "2026-10-09T21:15:38.000Z"
     },
     {
-      "id": "n_c9efa01bf0",
+      "id": "n_d07dddd55d",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "publishedAt": "2026-10-08T20:04:26.000Z"
+      "headline": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+      "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped o",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "publishedAt": "2026-10-09T19:09:44.000Z"
+    },
+    {
+      "id": "n_f11f2c288c",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "summary": "The original first place video used AI in post-processing. | Image: Dr. Ning Xu Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "publishedAt": "2026-10-09T18:06:57.000Z"
     },
     {
       "id": "n_e0e3889317",
@@ -671,39 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
       "publishedAt": "2026-10-08T20:06:56.000Z"
-    },
-    {
-      "id": "n_a08ca06c85",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "USA Today becomes the latest publisher to sue OpenAI",
-      "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $25",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-      "publishedAt": "2026-10-08T17:58:33.000Z"
-    },
-    {
-      "id": "n_0de6ad9688",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
-      "summary": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy, as a Founding Corporate Patron and donating $1.5 million worth of Grok tokens ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
-      "publishedAt": "2026-10-08T17:57:01.000Z"
-    },
-    {
-      "id": "n_ba390530e9",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-      "summary": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits \"s",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "publishedAt": "2026-10-08T17:00:00.000Z"
     },
     {
       "id": "n_12c2c27c0a",
@@ -794,6 +794,17 @@
       "publishedAt": "2026-10-05T04:00:00.000Z"
     },
     {
+      "id": "n_c7e66095ed",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+      "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+      "publishedAt": "2026-10-09T19:28:49.000Z"
+    },
+    {
       "id": "n_e6422b9d6c",
       "type": "news",
       "topic": "ai",
@@ -869,17 +880,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
       "publishedAt": "2026-10-07T15:34:33.000Z"
-    },
-    {
-      "id": "n_a79d29d3d8",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
-      "summary": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
-      "publishedAt": "2026-10-07T11:00:00.000Z"
     },
     {
       "id": "n_43ef54e74d",
