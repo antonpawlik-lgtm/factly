@@ -1,71 +1,82 @@
 {
-  "generatedAt": "2026-10-10T11:28:58.008Z",
+  "generatedAt": "2026-10-10T16:28:41.912Z",
   "items": [
-    {
-      "id": "n_572b0add4e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Gründer der indischen \"Kakerlaken\"-Bewegung festgenommen",
-      "summary": "In Indien sind Tausende, meist jugendliche Anhänger der \"Kakerlaken\"-Bewegung festgenommen worden. Im ganzen Land gab es Proteste gegen die Wahlkommission. Bereits im Vorfeld war der Gründer der Bewegung festgesetzt worden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html",
-      "publishedAt": "2026-10-10T11:08:42.000Z"
-    },
     {
       "id": "n_e4600eb98a",
       "type": "news",
       "topic": "general",
       "lang": "de",
       "headline": "Mehrere Tote durch russische Angriffe auf Saporischschja",
-      "summary": "Während in Miami über Hilfe für die Ukraine und Wege hin zu einem Ende des russischen Angriffskrieges beraten wird, setzt Moskau seine Attacken fort. In der Region Saporischschja gab es mehrere Todesopfer und Verletzte.",
+      "summary": "Während in Miami über Hilfe für die Ukraine und Wege hin zu einem Ende des russischen Angriffskrieges beraten wird, setzt Moskau seine Attacken fort. In der Region Saporischschja gab es mehrere Todesopfer. Auch Kiew wurde erneut attackiert.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html",
-      "publishedAt": "2026-10-10T10:54:13.000Z"
+      "publishedAt": "2026-10-10T16:05:24.000Z"
     },
     {
-      "id": "n_c258d7240a",
+      "id": "n_0a7d0e0fa6",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Weniger Hybridfahrzeug-Exporte: EU und China wenden Eskalation vorerst ab",
-      "summary": "China akzeptiert EU-Handelsbeschränkungen für Hybridfahrzeuge. Doch wie nachhaltig wirkt dieses Zugeständnis? Und wie geht es in anderen Wirtschaftsbereichen weiter? Von Christoph Kober.",
+      "headline": "CDU diskutiert über Umgang mit der AfD",
+      "summary": "Zwei Tage lang will das CDU-Präsidium in Klausur gehen, um über Konsequenzen aus den jüngsten Wahlschlappen zu beraten. Dabei rückt eine Frage immer mehr in den Mittelpunkt: Soll der Umgang mit der AfD neu definiert werden?",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-eu-hybridautos-100.html",
-      "publishedAt": "2026-10-10T10:15:19.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-afd-brandmauer-klausur-100.html",
+      "publishedAt": "2026-10-10T15:34:39.000Z"
     },
     {
-      "id": "n_d4608855b6",
+      "id": "n_bdf300d978",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Schweres Erdbeben erschüttert Panama",
-      "summary": "In Panama hat es ein schweres Erdbeben der Stärke 7,7 gegeben. In Panama-Stadt schwankten Gebäude, Menschen verließen die Häuser. Dutzende Nachbeben folgten. Nach Angaben der Behörden gab es mehrere Verletzte.",
+      "headline": "Weg frei für Koalitionsverhandlungen in Schwerin",
+      "summary": "Nach SPD und Linken haben in Mecklenburg-Vorpommern auch die Grünen für Koalitionsverhandlungen zur Bildung einer rot-rot-grünen Landesregierung gestimmt. Die Koalitionsgespräche sollen am Montag beginnen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/erdbeben-panama-100.html",
-      "publishedAt": "2026-10-10T09:34:50.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/mv-koalitionsverhandlungen-100.html",
+      "publishedAt": "2026-10-10T14:36:51.000Z"
     },
     {
-      "id": "n_904c1bc4da",
+      "id": "n_1e7d82bbf4",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Vor Klausur des Präsidiums: CDU sucht den Weg aus der Krise",
-      "summary": "Dass es gerade schwierig ist, da ist sich die CDU einig. Vor allem die Wahlniederlagen im September schmerzen noch immer. Die Partei will raus aus dem Tief und dafür - so ein Vorschlag - wieder näher an den Alltag der Menschen heranrücken.",
+      "headline": "Merz sieht bei irischem Vorschlag für EU-Haushalt \"keine Grundlage für Einigung\"",
+      "summary": "Die irische EU-Ratspräsidentschaft hat einen neuen Vorschlag für den nächsten EU-Haushalt vorgelegt. Die Reaktion aus Deutschland darauf ist verhalten. Kanzler Merz sieht keine Grundlage für eine Einigung. Von Kathrin Schmid.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-klausur-krise-100.html",
-      "publishedAt": "2026-10-10T09:04:58.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-irischer-vorschlag-100.html",
+      "publishedAt": "2026-10-10T14:33:27.000Z"
     },
     {
-      "id": "n_ebae89d61c",
+      "id": "n_fb74df34bf",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Ein Jahr brüchige Waffenruhe Gaza: \"Der Krieg lässt uns nicht in Ruhe\"",
-      "summary": "Ein Jahr nach der Waffenruhe im Gazastreifen leben viele Menschen weiter in Not, Hilfsorganisationen sichern ihr Überleben. Von der internationalen Politik fühlen sich die Menschen vergessen. Von Felicitas Boeselager.",
+      "headline": "Nationalfeiertag in Taiwan: \"Wir werden unsere Freiheit nicht aufgeben\"",
+      "summary": "Zum Nationalfeiertag appelliert Taiwan an die Länder im Indopazifik, sich für Frieden und Stabilität in der Region einzusetzen. Doch China gebärdet sich zunehmend aggressiv. Von Christoph Kober.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-gaza-waffenruhe-112.html",
-      "publishedAt": "2026-10-10T07:37:37.000Z"
+      "url": "https://www.tagesschau.de/ausland/asien/taiwan-nationalfeiertag-104.html",
+      "publishedAt": "2026-10-10T14:22:48.000Z"
+    },
+    {
+      "id": "n_b6d048bfcd",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Grippe- und Erkältungssaison 2026/27: Was Deutschland erwartet",
+      "summary": "Die Grippewelle könnte dieses Jahr früher kommen als vermutet. Im Abwasser steigt die Menge an SARS-CoV-2. Und viele Risikogruppen haben keinen ausreichenden Schutz. Fachleute erklären, wie man sich jetzt schützen kann. Von Frank Bäumer.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/grippewelle-herbst-100.html",
+      "publishedAt": "2026-10-10T14:08:35.000Z"
+    },
+    {
+      "id": "n_02d0c49f7e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wie Start-ups in Deutschland trotz Hürden Erfolg haben können",
+      "summary": "Ein Berliner KI-Start-up zeigt, wie deutsche Gründer es auf die Weltbühne schaffen. Doch viele aufstrebende Unternehmen werden in ihrem Potenzial immer noch ausgebremst. Dabei gebe es viel Talent, sagt ein Gründer. Von A. Kartschall.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/startup-einhorn-deutschland-100.html",
+      "publishedAt": "2026-10-10T13:07:24.000Z"
     },
     {
       "id": "n_0c08bb7c86",
@@ -73,21 +84,10 @@
       "topic": "general",
       "lang": "de",
       "headline": "Hurrikan \"Isaias\" trifft auf US-Golfküste",
-      "summary": "Mit \"Isaias\" ist der erste Hurrikan der Saison auf die US-Küste getroffen. Er brachte heftige Regenfälle mit sich, in Hunderttausenden Haushalten fiel der Strom aus. Mehrere Bundesstaaten haben den Notstand ausgerufen.",
+      "summary": "Mit \"Isaias\" ist der erste Hurrikan der Saison auf die US-Küste getroffen. Er brachte heftige Regenfälle mit sich, in Hunderttausenden Haushalten fiel der Strom aus. Inzwischen hat sich der Sturm aber deutlich abgeschwächt.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-102.html",
-      "publishedAt": "2026-10-10T07:15:42.000Z"
-    },
-    {
-      "id": "n_c158b3060d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Immobilienmarkt: Steigende Preise trotz sinkender Nachfrage",
-      "summary": "Die Preise für Wohnimmobilien legen weiter zu - obwohl Baukredite sehr teuer geworden sind und sich weniger Menschen eine Eigentumswohnung oder ein Haus leisten können. Wie passt das zusammen? Von Heidi Radvilas",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/hauskauf-wohnungskauf-kaufkraft-100.html",
-      "publishedAt": "2026-10-10T06:32:43.000Z"
+      "publishedAt": "2026-10-10T12:44:57.000Z"
     },
     {
       "id": "n_2c4a89f29e",
@@ -178,6 +178,50 @@
       "publishedAt": "2026-10-08T16:19:00.000Z"
     },
     {
+      "id": "n_be39c9dbe9",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Speicherkrise: Intel plant offenbar neue CPUs für den Sockel LGA 1700",
+      "summary": "Gigabyte bereitet Mainboards auf neue LGA-1700-CPUs vor. Sie sollen Anfang 2027 erscheinen und auch auf DDR4-Boards laufen. (DDR4, Prozessor)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/speicherkrise-intel-plant-offenbar-neue-cpus-fuer-den-sockel-lga-1700-2610-213956.html",
+      "publishedAt": "2026-10-10T13:26:01.000Z"
+    },
+    {
+      "id": "n_346bf53d0e",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Mobilität: BMW cancelt Dienstwagen für AfD-Landtagspräsidenten",
+      "summary": "BMW zieht das Leasingangebot für den Landtagspräsidenten von Sachsen-Anhalt zurück. Die AfD fragte Elon Musk umgehend um einen Tesla an. (BMW, Auto)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/mobilitaet-bmw-cancelt-dienstwagen-fuer-afd-landtagspraesidenten-2610-213957.html",
+      "publishedAt": "2026-10-10T12:53:02.000Z"
+    },
+    {
+      "id": "n_769a7f1f44",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Small World in Motion: Nikon disqualifiziert Sieger wegen generativer KI",
+      "summary": "Nikon disqualifiziert den Gewinner des Wettbewerbs Small World in Motion. Das Video verstößt laut Veranstalter gegen die KI-Regeln. (Nikon, KI)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/small-world-in-motion-nikon-disqualifiziert-sieger-wegen-generativer-ki-2610-213955.html",
+      "publishedAt": "2026-10-10T12:46:02.000Z"
+    },
+    {
+      "id": "n_fa17862365",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "KI-Agenten: Claude gibt Polizei falsche Hinweise",
+      "summary": "Claude Haiku 4.5 hat in einem Test ein Formular der Polizei Philadelphia ausgefüllt. Der Hinweis zu einem Mordfall war aber unzutreffend. (KI, Software)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/ki-agenten-claude-gibt-polizei-falsche-hinweise-2610-213954.html",
+      "publishedAt": "2026-10-10T11:48:02.000Z"
+    },
+    {
       "id": "n_e1197c57f7",
       "type": "news",
       "topic": "tech",
@@ -222,103 +266,59 @@
       "publishedAt": "2026-10-10T08:40:02.000Z"
     },
     {
-      "id": "n_3b8cc688d3",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "(g+) Private Unfallversicherung: Wann eine Unfallversicherung für ITler sinnvoll sein kann",
-      "summary": "Ein Unfall in der Freizeit kann teuer werden - auch für Menschen mit einem Bürojob. Doch nicht jede Versicherung ist sinnvoll, und die entscheidenden Unterschiede stecken im Kleingedruckten. Ein Ratgebertext von Mathias Hofen (Arbeit, Wirtschaft)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/private-unfallversicherung-wann-eine-unfallversicherung-fuer-itler-sinnvoll-sein-kann-2610-213937.html",
-      "publishedAt": "2026-10-10T08:00:02.000Z"
-    },
-    {
-      "id": "n_69073335f9",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Mini-PCs im KI-Test: Apple vs. AMD und Intel mit lokalen LLMs",
-      "summary": "Ein Schreibtisch voller Mini-PCs und ein automatisierter Benchmark für lokale LLMs sind ein Fest für jeden Golem-Redakteur. Ein Test von Mike Faust (PC & Notebooks, Mac)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/mini-pcs-im-ki-test-apple-vs-amd-und-intel-mit-lokalen-llms-2610-213894.html",
-      "publishedAt": "2026-10-10T05:30:02.000Z"
-    },
-    {
-      "id": "n_baf5e06cd1",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Chinesische Onlinehändler: Zölle gegen Temu, Aliexpress treffen den gesamten deutschen Markt",
-      "summary": "Die Abschaffung der Zollfreigrenze für Kleinsendungen zeigt drastische Wirkung. Die Umsätze von Temu, Shein und Aliexpress stürzen um über ein Drittel ab. (Onlinehandel, Politik)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/chinesische-onlinehaendler-zoelle-gegen-temu-aliexpress-treffen-den-gesamten-deutschen-markt-2610-213948.html",
-      "publishedAt": "2026-10-09T16:57:01.000Z"
-    },
-    {
-      "id": "n_b79a83679e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: STACKIT Cloud: Souveränität und Governance verstehen",
-      "summary": "STACKIT Cloud erfordert klare Konzepte für Souveränität und Governance. Ein Online-Workshop behandelt Technik, Richtlinien und die Einführung im Unternehmen. (Golem Karrierewelt, Server-Applikationen)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-stackit-cloud-souveraenitaet-und-governance-verstehen-2610-213844.html",
-      "publishedAt": "2026-10-09T16:45:02.000Z"
-    },
-    {
-      "id": "n_a703ac68fc",
+      "id": "n_e4256e6327",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "summary": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+      "headline": "Several injured as Saudi capital airport reportedly hit again",
+      "summary": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T10:06:23.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T16:05:18.000Z"
     },
     {
-      "id": "n_d04c156747",
+      "id": "n_9010f2c293",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
-      "summary": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong.",
+      "headline": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
+      "summary": "The convicted murderer was left in a critical condition after she survived two lethal injections.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T09:17:36.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T15:58:06.000Z"
     },
     {
-      "id": "n_50c38b06fc",
+      "id": "n_068525c293",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Hurricane Isaias downgraded after making landfall in Florida",
-      "summary": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US.",
+      "headline": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+      "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T08:29:59.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T15:23:47.000Z"
     },
     {
-      "id": "n_07079819a9",
+      "id": "n_66bd6aef87",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "How the trial of murdered Australian brothers and US friend unfolded",
-      "summary": "The mother of two Australian surfers murdered in Mexico two years ago with their American friend said \"accountability matters\".",
+      "headline": "Woman injures three people in third Poland school knife attack in a week",
+      "summary": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T06:04:35.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T14:58:55.000Z"
     },
     {
-      "id": "n_8351785576",
+      "id": "n_57fdd6ba4c",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Nord Stream trial: How German police followed the evidence - to Ukraine",
-      "summary": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
+      "headline": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+      "summary": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T04:51:57.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T14:49:32.000Z"
     },
     {
       "id": "n_2b3762f956",
@@ -329,29 +329,51 @@
       "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T04:38:20.000Z"
+      "publishedAt": "2026-10-10T14:24:14.000Z"
     },
     {
-      "id": "n_f94a21ce96",
+      "id": "n_146f2c9cb8",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
-      "summary": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+      "headline": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T04:34:55.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T14:16:50.000Z"
     },
     {
-      "id": "n_86a510043c",
+      "id": "n_7321607983",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
-      "summary": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay.",
+      "headline": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+      "summary": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T04:07:11.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T12:29:31.000Z"
+    },
+    {
+      "id": "n_94e53ad190",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "King warns malicious online actors are evolving tactics",
+      "summary": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T15:56:32.000Z"
+    },
+    {
+      "id": "n_a703ac68fc",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "summary": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T10:06:23.000Z"
     },
     {
       "id": "n_270dbf5ff7",
@@ -420,15 +442,15 @@
       "publishedAt": "2026-10-09T07:14:30.000Z"
     },
     {
-      "id": "n_3606b0f5cb",
+      "id": "n_8701263ea0",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "'Careless use of AI is the real threat - not the ghost stories'",
-      "summary": "Meredith Whittaker says the tech has been misunderstood, in an exclusive interview with BBC Global Women.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T07:05:01.000Z"
+      "headline": "One with the world? A new look at brains transformed by psychedelics.",
+      "summary": "Participants meditated inside an MRI tube, with and without psilocybin.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+      "publishedAt": "2026-10-10T11:15:35.000Z"
     },
     {
       "id": "n_c16ef37659",
@@ -458,7 +480,7 @@
       "topic": "tech",
       "lang": "en",
       "headline": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
-      "summary": "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación.",
+      "summary": "Stylish upcycling, with a retro flair, at Spain's Museo de Historia de la Computación.",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
       "publishedAt": "2026-10-09T21:51:12.000Z"
@@ -508,15 +530,26 @@
       "publishedAt": "2026-10-09T19:27:27.000Z"
     },
     {
-      "id": "n_417ef50af1",
+      "id": "n_6801da099e",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
-      "summary": "\"The current decline may be just the beginning of a new downward cycle.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
-      "publishedAt": "2026-10-09T18:54:52.000Z"
+      "headline": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at ",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "publishedAt": "2026-10-10T15:00:00.000Z"
+    },
+    {
+      "id": "n_a893947d30",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "publishedAt": "2026-10-10T14:00:00.000Z"
     },
     {
       "id": "n_cf5de6151a",
@@ -585,26 +618,26 @@
       "publishedAt": "2026-10-09T16:45:00.000Z"
     },
     {
-      "id": "n_304a6e3180",
+      "id": "n_0decde66c5",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "We can’t help treating AI like it’s human. But should we?",
-      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-      "publishedAt": "2026-10-09T16:40:14.000Z"
+      "headline": "Anthropic is cutting off its internal evaluations from the internet",
+      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolve",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "publishedAt": "2026-10-10T14:41:16.000Z"
     },
     {
-      "id": "n_b7942fed5b",
+      "id": "n_0ea9d786e4",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "a16z’s Olivia Moore on the state of consumer AI",
-      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-      "publishedAt": "2026-10-09T15:43:33.000Z"
+      "headline": "AI agent makers are promising privacy — will they deliver?",
+      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "publishedAt": "2026-10-10T13:00:00.000Z"
     },
     {
       "id": "n_0ad44f3ce5",
@@ -671,28 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
       "publishedAt": "2026-10-09T09:48:26.000Z"
-    },
-    {
-      "id": "n_df7e543380",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Anthropic launches free AI security scans for open-source projects",
-      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source proje",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "publishedAt": "2026-10-08T21:53:51.000Z"
-    },
-    {
-      "id": "n_4079389ad6",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "California is trying to shut down robot vs. human cage matches",
-      "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid r",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-      "publishedAt": "2026-10-08T20:06:56.000Z"
     },
     {
       "id": "n_12c2c27c0a",
@@ -783,6 +794,17 @@
       "publishedAt": "2026-10-05T04:00:00.000Z"
     },
     {
+      "id": "n_39d2079610",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "AI Is Getting Really Good at Messing With Cybercriminals",
+      "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals/",
+      "publishedAt": "2026-10-10T12:00:00.000Z"
+    },
+    {
       "id": "n_c7e66095ed",
       "type": "news",
       "topic": "ai",
@@ -858,17 +880,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
       "publishedAt": "2026-10-07T18:00:00.000Z"
-    },
-    {
-      "id": "n_809a6d27d1",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
-      "summary": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, Anthropic, and Google.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
-      "publishedAt": "2026-10-07T15:34:33.000Z"
     },
     {
       "id": "n_43ef54e74d",
