@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-10-10T16:28:41.912Z",
+  "generatedAt": "2026-10-10T20:47:47.562Z",
   "items": [
+    {
+      "id": "n_19f1883715",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Mehrere Tote und etliche ohne Strom durch Sturm \"Isaias\"",
+      "summary": "Mit \"Isaias\" ist der erste Hurrikan der Saison auf die US-Küste getroffen. Er brachte heftige Regenfälle mit sich, in Hunderttausenden Haushalten fiel der Strom aus. Inzwischen hat sich der Sturm aber deutlich abgeschwächt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-tote-100.html",
+      "publishedAt": "2026-10-10T20:44:04.000Z"
+    },
+    {
+      "id": "n_e96aa85c5e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Huthi-Miliz greift offenbar Flughafen in Riad an",
+      "summary": "Der Flughafen nahe der saudischen Hauptstadt Riad ist erneut Ziel eines schweren Angriffs. Vermutet wird, dass die jemenitische Huthi-Miliz für die Attacke verantwortlich ist.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriffe-reisewarnung-100.html",
+      "publishedAt": "2026-10-10T20:08:55.000Z"
+    },
+    {
+      "id": "n_3a0dbb19e3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Trump fordert nach Dieseldeal mit Putin Selenskyjs Ablösung",
+      "summary": "Gestern hatte US-Präsident Trump einen Dieseldeal mit Russland angekündigt. Die Ukraine reagierte empört, nun fordert Trump eine Ablösung des ukrainischen Staatschefs Selenskyj. Er habe die Schuld an den hohen Energiepreisen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-diesel-russland-100.html",
+      "publishedAt": "2026-10-10T18:26:35.000Z"
+    },
+    {
+      "id": "n_84bd344462",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Serie von Messerattacken an Schulen in Polen",
+      "summary": "In Polen sorgt eine Serie von Messerattacken an Schulen für Entsetzen. Am Donnerstag starben zwei Menschen nach einem Angriff auf eine Grundschule. Nun wurden bei einem weiteren Angriff drei Frauen verletzt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/polen-messer-attacken-schulen-100.html",
+      "publishedAt": "2026-10-10T16:33:42.000Z"
+    },
     {
       "id": "n_e4600eb98a",
       "type": "news",
@@ -44,50 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-irischer-vorschlag-100.html",
       "publishedAt": "2026-10-10T14:33:27.000Z"
-    },
-    {
-      "id": "n_fb74df34bf",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Nationalfeiertag in Taiwan: \"Wir werden unsere Freiheit nicht aufgeben\"",
-      "summary": "Zum Nationalfeiertag appelliert Taiwan an die Länder im Indopazifik, sich für Frieden und Stabilität in der Region einzusetzen. Doch China gebärdet sich zunehmend aggressiv. Von Christoph Kober.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/taiwan-nationalfeiertag-104.html",
-      "publishedAt": "2026-10-10T14:22:48.000Z"
-    },
-    {
-      "id": "n_b6d048bfcd",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Grippe- und Erkältungssaison 2026/27: Was Deutschland erwartet",
-      "summary": "Die Grippewelle könnte dieses Jahr früher kommen als vermutet. Im Abwasser steigt die Menge an SARS-CoV-2. Und viele Risikogruppen haben keinen ausreichenden Schutz. Fachleute erklären, wie man sich jetzt schützen kann. Von Frank Bäumer.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/gesundheit/grippewelle-herbst-100.html",
-      "publishedAt": "2026-10-10T14:08:35.000Z"
-    },
-    {
-      "id": "n_02d0c49f7e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wie Start-ups in Deutschland trotz Hürden Erfolg haben können",
-      "summary": "Ein Berliner KI-Start-up zeigt, wie deutsche Gründer es auf die Weltbühne schaffen. Doch viele aufstrebende Unternehmen werden in ihrem Potenzial immer noch ausgebremst. Dabei gebe es viel Talent, sagt ein Gründer. Von A. Kartschall.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/startup-einhorn-deutschland-100.html",
-      "publishedAt": "2026-10-10T13:07:24.000Z"
-    },
-    {
-      "id": "n_0c08bb7c86",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Hurrikan \"Isaias\" trifft auf US-Golfküste",
-      "summary": "Mit \"Isaias\" ist der erste Hurrikan der Saison auf die US-Küste getroffen. Er brachte heftige Regenfälle mit sich, in Hunderttausenden Haushalten fiel der Strom aus. Inzwischen hat sich der Sturm aber deutlich abgeschwächt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-102.html",
-      "publishedAt": "2026-10-10T12:44:57.000Z"
     },
     {
       "id": "n_2c4a89f29e",
@@ -266,26 +266,70 @@
       "publishedAt": "2026-10-10T08:40:02.000Z"
     },
     {
+      "id": "n_8fd635139c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T19:28:28.000Z"
+    },
+    {
+      "id": "n_bfb42042cd",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: 'Time for Ukraine to get a new president', says Trump",
+      "summary": "The US president's said President Volodymyr Zelensky \"wants to make problems for the world\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T19:25:03.000Z"
+    },
+    {
+      "id": "n_b2308317d6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T19:08:17.000Z"
+    },
+    {
       "id": "n_e4256e6327",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Several injured as Saudi capital airport reportedly hit again",
-      "summary": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
+      "headline": "Several injured in attack on airport in Saudi capital Riyadh",
+      "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T16:05:18.000Z"
+      "publishedAt": "2026-10-10T18:37:10.000Z"
+    },
+    {
+      "id": "n_12ab42f20c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+      "summary": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T18:22:29.000Z"
     },
     {
       "id": "n_9010f2c293",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
-      "summary": "The convicted murderer was left in a critical condition after she survived two lethal injections.",
+      "headline": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+      "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T15:58:06.000Z"
+      "publishedAt": "2026-10-10T17:44:26.000Z"
     },
     {
       "id": "n_068525c293",
@@ -308,50 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-10T14:58:55.000Z"
-    },
-    {
-      "id": "n_57fdd6ba4c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-      "summary": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T14:49:32.000Z"
-    },
-    {
-      "id": "n_2b3762f956",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T14:24:14.000Z"
-    },
-    {
-      "id": "n_146f2c9cb8",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T14:16:50.000Z"
-    },
-    {
-      "id": "n_7321607983",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "summary": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T12:29:31.000Z"
     },
     {
       "id": "n_94e53ad190",
@@ -530,6 +530,17 @@
       "publishedAt": "2026-10-09T19:27:27.000Z"
     },
     {
+      "id": "n_9fe15a12a7",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "publishedAt": "2026-10-10T19:50:00.000Z"
+    },
+    {
       "id": "n_6801da099e",
       "type": "news",
       "topic": "ai",
@@ -607,15 +618,15 @@
       "publishedAt": "2026-10-09T16:53:02.000Z"
     },
     {
-      "id": "n_edf79715fb",
+      "id": "n_e77e9ae834",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Danu Robotics’ fight to build a better recycling robot",
-      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-      "publishedAt": "2026-10-09T16:45:00.000Z"
+      "headline": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that Distr",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "publishedAt": "2026-10-10T18:52:07.000Z"
     },
     {
       "id": "n_0decde66c5",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
       "publishedAt": "2026-10-09T14:00:00.000Z"
-    },
-    {
-      "id": "n_15717a6b7c",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear poli",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "publishedAt": "2026-10-09T09:48:26.000Z"
     },
     {
       "id": "n_12c2c27c0a",
