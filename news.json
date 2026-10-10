@@ -1,13 +1,46 @@
 {
-  "generatedAt": "2026-10-09T21:56:25.412Z",
+  "generatedAt": "2026-10-10T03:01:52.958Z",
   "items": [
+    {
+      "id": "n_af8af66bc7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Trump kündigt russische Diesel-Lieferungen an",
+      "summary": "Wegen der hohen Spritpreise steht Trump innenpolitisch unter wachsendem Druck. Nun verkündet der US-Präsident einen Deal mit Russland, der die Lieferung von zunächst 300.000 Tonnen Diesel für die USA und den Weltmarkt umfasst. Kiew ist empört.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html",
+      "publishedAt": "2026-10-10T02:43:04.000Z"
+    },
+    {
+      "id": "n_d4608855b6",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Schweres Erdbeben erschüttert Panama",
+      "summary": "In Panama hat es ein schweres Erdbeben der Stärke 7,7 gegeben. In Panama-Stadt schwankten Gebäude, Menschen verließen die Häuser. Eine Tsunamiwarnung wurde aufgehoben. Über mögliche Verletzte gibt es bislang keine Angaben.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/erdbeben-panama-100.html",
+      "publishedAt": "2026-10-09T23:58:47.000Z"
+    },
+    {
+      "id": "n_e2de19c2e4",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "China sagt EU weniger Exporte von Hybridautos zu",
+      "summary": "Der Konkurrenzdruck aus China macht insbesondere deutschen Autobauern zu schaffen. Die EU will daher erreichen, dass Peking in Europa weniger Hybridautos verkauft - nun verkünden beide Seiten einen Kompromiss.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/hybrid-autos-china-100.html",
+      "publishedAt": "2026-10-09T22:54:50.000Z"
+    },
     {
       "id": "n_0615043697",
       "type": "news",
       "topic": "general",
       "lang": "de",
       "headline": "Nobelpreisträgerin Pillay in den tagesthemen: \"Die Nürnberger Prozesse haben mich inspiriert\"",
-      "summary": "Der Preis sei eine \"große, schöne Überraschung\", sagt die frisch gekürte Friedensnobelpreisträgerin Pillay in den tagesthemen. Durch die Auszeichnung bekäme die Öffentlichkeit mit, \"wie wichtig die Strafjustiz wirklich ist\".",
+      "summary": "Der Preis sei eine \"große, schöne Überraschung\", sagt die frisch gekürte Friedensnobelpreisträgerin Pillay in den tagesthemen. Durch die Auszeichnung bekomme die Öffentlichkeit mit, \"wie wichtig die Strafjustiz wirklich ist\".",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/afrika/tagesthemen-interview-friedensnobelpreis-pillay-100.html",
       "publishedAt": "2026-10-09T20:35:39.000Z"
@@ -57,37 +90,15 @@
       "publishedAt": "2026-10-09T17:47:36.000Z"
     },
     {
-      "id": "n_3ad43a1ae2",
+      "id": "n_2c4a89f29e",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Nobelpreisträgerin Pillay steht für die multilaterale Ordnung",
-      "summary": "Mit dem Friedensnobelpreis wird nicht nur die Person Navi Pillay geehrt. Sie steht stellvertretend für die multilaterale Weltordnung - und dafür, dass Völkerrecht Vorrang vor dem Recht des Stärkeren hat. Von Jean-Marie Magro.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/friedensnobelpreis-pillay-voelkerrecht-100.html",
-      "publishedAt": "2026-10-09T17:12:18.000Z"
-    },
-    {
-      "id": "n_802ca8d72d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Aktuelle Stunde: Streit im Bundestag nach Wahl von AfD-Landtagspräsident",
-      "summary": "Die Linksfraktion hatte im Bundestag eine Aktuelle Stunde beantragt. Um den Umgang mit der AfD in Sachsen-Anhalt sollte es gehen. Es wurde eine von starken Emotionen und Zwischenrufen geprägte Debatte. Von D. Pepping.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/aktuelle-stunde-rechtsextremisten-100.html",
-      "publishedAt": "2026-10-09T16:59:58.000Z"
-    },
-    {
-      "id": "n_815710f2c0",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: Ölpreis sinkt - DAX steigt über 25.000 Punkte",
-      "summary": "Ende einer turbulenten Woche: Der DAX profitierte von einer Beruhigung am Ölmarkt und stieg wieder über die Marke von 25.000 Punkten. Lange Gesichter gab es aber bei den Telekom-Aktionären.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-166.html",
-      "publishedAt": "2026-10-09T16:10:17.000Z"
+      "headline": "Nach Entlassung bei OpenAI: Ex-Mitarbeiter veröffentlichen kritischen Brief",
+      "summary": "Die drei von OpenAI kürzlich entlassenen Ex-Mitarbeiter setzen sich mit einem kritischen Brief zur Wehr und warnen vor den Entwicklungen in dem Unternehmen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Nach-Entlassung-bei-OpenAI-Ex-Mitarbeiter-veroeffentlichen-kritischen-Brief-11482574.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-09T12:41:00.000Z"
     },
     {
       "id": "n_c9069ce333",
@@ -165,17 +176,6 @@
       "source": "heise online",
       "url": "https://www.heise.de/news/Gefahr-fuer-autonome-Autos-Wie-eine-Folie-Kameras-und-Lidar-taeuscht-11481395.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
       "publishedAt": "2026-10-08T16:19:00.000Z"
-    },
-    {
-      "id": "n_4d82eb6085",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Ecosia: Warum die Suchmaschine Mistral AI durch chinesische KI ersetzt",
-      "summary": "Die Suchmaschine Ecosia trennt sich von Mistral AI. Künftig setzt das Unternehmen verstärkt auf Open-Weight-Modelle, darunter auch Systeme aus China.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Adieu-Mistral-Ecosia-wechselt-zu-chinesischen-Open-Source-KI-Modellen-11481323.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-08T15:39:00.000Z"
     },
     {
       "id": "n_baf5e06cd1",
@@ -266,48 +266,70 @@
       "publishedAt": "2026-10-09T14:47:01.000Z"
     },
     {
-      "id": "n_c3ee094902",
+      "id": "n_50c38b06fc",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Three men found guilty of murdering two Australian surfer brothers and US friend",
-      "summary": "The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found at the bottom of a well.",
+      "headline": "Life-threatening Hurricane Isaias makes landfall in Florida",
+      "summary": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T21:55:51.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T01:58:56.000Z"
     },
     {
       "id": "n_2b3762f956",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-      "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+      "headline": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T21:54:28.000Z"
+      "publishedAt": "2026-10-10T00:45:51.000Z"
     },
     {
-      "id": "n_a382270f15",
+      "id": "n_909eaf61d6",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-      "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+      "headline": "US immigration officials defend ICE agents who shot man in same car as child",
+      "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T21:50:47.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T00:13:12.000Z"
     },
     {
-      "id": "n_43c553fc6e",
+      "id": "n_5d6fa4b6f6",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-      "summary": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
+      "headline": "Questions remain over Ebola patient who travelled across three nations undetected",
+      "summary": "Fresh details reveal how the 40-year-old businessman flew and crossed regional borders while seriously ill.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T21:26:30.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cqp8gknl1njjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T00:00:08.000Z"
+    },
+    {
+      "id": "n_822a4b5086",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
+      "summary": "Students taking to the streets in France have become a focal point in the country's increasingly polarised politics.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T23:24:33.000Z"
+    },
+    {
+      "id": "n_9165d624ff",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+      "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T23:02:07.000Z"
     },
     {
       "id": "n_e436fd9be3",
@@ -318,40 +340,29 @@
       "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T21:08:04.000Z"
+      "publishedAt": "2026-10-09T22:41:21.000Z"
     },
     {
-      "id": "n_6b1925297f",
+      "id": "n_f9d9678cd8",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Thai Queen makes first solo flight in fighter jet",
-      "summary": "Thailand’s Queen Suthida made her first solo flight in a fighter jet, according to the Thai Royal Household.",
+      "headline": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cqm263x40y37o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T19:48:26.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T22:30:22.000Z"
     },
     {
-      "id": "n_4a93d4d6cc",
+      "id": "n_7b6a76689a",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-      "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+      "headline": "Tech Now",
+      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T18:40:10.000Z"
-    },
-    {
-      "id": "n_36dc6bd9a1",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-      "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T17:37:10.000Z"
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T01:00:00.000Z"
     },
     {
       "id": "n_21442acb93",
@@ -431,15 +442,59 @@
       "publishedAt": "2026-10-08T21:37:35.000Z"
     },
     {
-      "id": "n_1097aba673",
+      "id": "n_c16ef37659",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Asos hackers took more personal details than first revealed, BBC finds",
-      "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T16:29:33.000Z"
+      "headline": "Neanderthal wooden tools from Spain found preserved in stone",
+      "summary": "Dissolved rock precipitated around the tools, which then decayed.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+      "publishedAt": "2026-10-09T22:34:03.000Z"
+    },
+    {
+      "id": "n_5df45c5813",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "publishedAt": "2026-10-09T22:04:07.000Z"
+    },
+    {
+      "id": "n_8bf4a74a0b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+      "summary": "Stylish upcycling, with a retro flare, at Spain's Museo de Historia de la Computación.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+      "publishedAt": "2026-10-09T21:51:12.000Z"
+    },
+    {
+      "id": "n_45f81eceed",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "NASA issues long-awaited call to industry for private space stations",
+      "summary": "\"We’ve made it clear that NASA will never give up its presence in low Earth orbit.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+      "publishedAt": "2026-10-09T21:34:09.000Z"
+    },
+    {
+      "id": "n_0c26cd5d6f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "What's been driving Hawaii's lava fountains?",
+      "summary": "Before the lava fountains started, the ground was expanding by half a meter a day.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
+      "publishedAt": "2026-10-09T21:05:01.000Z"
     },
     {
       "id": "n_9f4f46039e",
@@ -475,59 +530,15 @@
       "publishedAt": "2026-10-09T18:54:52.000Z"
     },
     {
-      "id": "n_9304db4f19",
+      "id": "n_cf5de6151a",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "AI disqualification yields new Nikon Small World in Motion winner",
-      "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
-      "publishedAt": "2026-10-09T18:44:06.000Z"
-    },
-    {
-      "id": "n_1b2c3437a4",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Your artwork could be featured in the next Debian release",
-      "summary": "Debian Linux has put a call out for artist submissions for its next release: Forky.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/",
-      "publishedAt": "2026-10-09T18:33:26.000Z"
-    },
-    {
-      "id": "n_7ef3841303",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon",
-      "summary": "Nationwide 800 MHz spectrum to help Starlink provide mobile coverage indoors.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/",
-      "publishedAt": "2026-10-09T18:24:39.000Z"
-    },
-    {
-      "id": "n_c76b8fe471",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Microsoft barred from sponsoring foreign workers for US residency",
-      "summary": "The US says Microsoft abused immigration rules; the company disputes the claim.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
-      "publishedAt": "2026-10-09T13:14:33.000Z"
-    },
-    {
-      "id": "n_2872b650cb",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
-      "summary": "\"I can say we’re weeks away from launching on Vulcan.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
-      "publishedAt": "2026-10-09T11:00:57.000Z"
+      "headline": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "publishedAt": "2026-10-10T00:18:32.000Z"
     },
     {
       "id": "n_ac2c548222",
@@ -535,7 +546,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "summary": "TypeSafe AI raised $870 million in a round led by a16Z.",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
       "publishedAt": "2026-10-09T21:41:29.000Z"
@@ -605,17 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
       "publishedAt": "2026-10-09T15:43:33.000Z"
-    },
-    {
-      "id": "n_e6bbf4ee81",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-      "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-      "publishedAt": "2026-10-09T14:00:00.000Z"
     },
     {
       "id": "n_0ad44f3ce5",
@@ -970,54 +970,6 @@
       "publishedAt": "2026-09-30T00:00:00.000Z"
     },
     {
-      "id": "n_b84db88632",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepMind's New AI Just Cracked The Code Of Life",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-      "thumbnail": "https://i.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg",
-      "publishedAt": "2026-10-07T13:29:33.000Z"
-    },
-    {
-      "id": "n_bd6c6dc0e0",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Billion Dollar AI Advantage Is Disappearing",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
-      "thumbnail": "https://i.ytimg.com/vi/ZHVNTTKu9fU/hqdefault.jpg",
-      "publishedAt": "2026-10-05T09:53:12.000Z"
-    },
-    {
-      "id": "n_b7d9300382",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-      "thumbnail": "https://i.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg",
-      "publishedAt": "2026-09-24T08:40:55.000Z"
-    },
-    {
-      "id": "n_762e86c2a7",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Yes, Jev Is Insane, But There's A Catch",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
-      "thumbnail": "https://i.ytimg.com/vi/qBBRRsH0rQc/hqdefault.jpg",
-      "publishedAt": "2026-09-22T09:32:13.000Z"
-    },
-    {
       "id": "n_c21d60498a",
       "type": "video",
       "topic": "video",
@@ -1064,54 +1016,6 @@
       "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
       "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
       "publishedAt": "2026-07-28T20:02:11.000Z"
-    },
-    {
-      "id": "n_e2b44e6c52",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "A $6.3 billion open-weight model just got embarrassed by the French...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=WrCjAAl9okA",
-      "thumbnail": "https://i.ytimg.com/vi/WrCjAAl9okA/hqdefault.jpg",
-      "publishedAt": "2026-10-07T20:24:27.000Z"
-    },
-    {
-      "id": "n_f16ac80d2c",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "PewDiePie is setting AI free... and OpenAI is furious",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=_5p1_TNSWqQ",
-      "thumbnail": "https://i.ytimg.com/vi/_5p1_TNSWqQ/hqdefault.jpg",
-      "publishedAt": "2026-10-05T20:34:44.000Z"
-    },
-    {
-      "id": "n_c41b12c55b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The one OpenAI announcement that can actually make you money...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=No-JPdFvYWU",
-      "thumbnail": "https://i.ytimg.com/vi/No-JPdFvYWU/hqdefault.jpg",
-      "publishedAt": "2026-10-01T19:34:14.000Z"
-    },
-    {
-      "id": "n_a9f950b2ca",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did a 50 year old military secret just solve agent prompt injection?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=I_KVMFrUtPk",
-      "thumbnail": "https://i.ytimg.com/vi/I_KVMFrUtPk/hqdefault.jpg",
-      "publishedAt": "2026-09-30T17:16:43.000Z"
     },
     {
       "id": "n_aebf4e4806",
