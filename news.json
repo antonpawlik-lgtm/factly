@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-10T23:56:12.845Z",
+  "generatedAt": "2026-10-11T02:57:27.436Z",
   "items": [
+    {
+      "id": "n_b513c7a304",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Klausur des CDU-Präsidiums: Kanzler Merz vor schwieriger Aufgabe",
+      "summary": "In der CDU ist die Stimmung nach den miserablen Ergebnissen bei den jüngsten Landtagswahlen und sinkenden Umfragewerten schlecht. Heute und morgen kommt das Parteipräsidium zusammen. Von Sabine Henkel.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-praesidiumssitzung-klausur-100.html",
+      "publishedAt": "2026-10-11T01:27:57.000Z"
+    },
+    {
+      "id": "n_7729435cda",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Berliner Sondierungen sorgen für Ärger in der Koalition",
+      "summary": "Rot-Grün-Rot in Berlin wird konkreter - das hat auch Auswirkungen auf die Bundespolitik. Kulturstaatsminister Weimer warnt vor einer Zusammenarbeit mit der Linken. Die SPD sieht Handlungsbedarf an anderer Stelle.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/weimer-kluessendorf-berlin-100.html",
+      "publishedAt": "2026-10-11T01:12:51.000Z"
+    },
     {
       "id": "n_c52a7e91e4",
       "type": "news",
@@ -10,7 +32,7 @@
       "summary": "Etwa 40 Millionen Passagiere nutzen den Flughafen in der saudischen Hauptstadt Riad jedes Jahr. Zuletzt wurde er mehrfach angegriffen. Nun gab es wieder eine Attacke - mindestens zwölf Menschen starben. Diplomaten vermuten die Huthi-Miliz hinter dem Angriff.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html",
-      "publishedAt": "2026-10-10T23:12:39.000Z"
+      "publishedAt": "2026-10-10T23:56:54.000Z"
     },
     {
       "id": "n_19f1883715",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html",
       "publishedAt": "2026-10-10T16:05:24.000Z"
-    },
-    {
-      "id": "n_0a7d0e0fa6",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "CDU diskutiert über Umgang mit der AfD",
-      "summary": "Zwei Tage lang will das CDU-Präsidium in Klausur gehen, um über Konsequenzen aus den jüngsten Wahlschlappen zu beraten. Dabei rückt eine Frage immer mehr in den Mittelpunkt: Soll der Umgang mit der AfD neu definiert werden?",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-afd-brandmauer-klausur-100.html",
-      "publishedAt": "2026-10-10T15:34:39.000Z"
-    },
-    {
-      "id": "n_bdf300d978",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Weg frei für Koalitionsverhandlungen in Schwerin",
-      "summary": "Nach SPD und Linken haben in Mecklenburg-Vorpommern auch die Grünen für Koalitionsverhandlungen zur Bildung einer rot-rot-grünen Landesregierung gestimmt. Die Koalitionsgespräche sollen am Montag beginnen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/mv-koalitionsverhandlungen-100.html",
-      "publishedAt": "2026-10-10T14:36:51.000Z"
     },
     {
       "id": "n_2c4a89f29e",
@@ -266,6 +266,28 @@
       "publishedAt": "2026-10-10T08:40:02.000Z"
     },
     {
+      "id": "n_8fd635139c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T01:41:29.000Z"
+    },
+    {
+      "id": "n_e4256e6327",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "summary": "Another 309 people are injured in an attack a Saudi-led military coalition calls a \"war crime\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T00:21:52.000Z"
+    },
+    {
       "id": "n_54db47b12e",
       "type": "news",
       "topic": "general",
@@ -288,17 +310,6 @@
       "publishedAt": "2026-10-10T23:19:55.000Z"
     },
     {
-      "id": "n_e4256e6327",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Twelve killed in attack on airport in Saudi capital Riyadh",
-      "summary": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T22:40:56.000Z"
-    },
-    {
       "id": "n_a81bcb82f0",
       "type": "news",
       "topic": "general",
@@ -319,17 +330,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-10T20:51:12.000Z"
-    },
-    {
-      "id": "n_8fd635139c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T19:28:28.000Z"
     },
     {
       "id": "n_bfb42042cd",
@@ -970,54 +970,6 @@
       "publishedAt": "2026-09-30T00:00:00.000Z"
     },
     {
-      "id": "n_b84db88632",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepMind's New AI Just Cracked The Code Of Life",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-      "thumbnail": "https://i.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg",
-      "publishedAt": "2026-10-07T13:29:33.000Z"
-    },
-    {
-      "id": "n_bd6c6dc0e0",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Billion Dollar AI Advantage Is Disappearing",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
-      "thumbnail": "https://i.ytimg.com/vi/ZHVNTTKu9fU/hqdefault.jpg",
-      "publishedAt": "2026-10-05T09:53:12.000Z"
-    },
-    {
-      "id": "n_b7d9300382",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-      "thumbnail": "https://i.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg",
-      "publishedAt": "2026-09-24T08:40:55.000Z"
-    },
-    {
-      "id": "n_762e86c2a7",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Yes, Jev Is Insane, But There's A Catch",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
-      "thumbnail": "https://i.ytimg.com/vi/qBBRRsH0rQc/hqdefault.jpg",
-      "publishedAt": "2026-09-22T09:32:13.000Z"
-    },
-    {
       "id": "n_e2b44e6c52",
       "type": "video",
       "topic": "video",
@@ -1064,54 +1016,6 @@
       "url": "https://www.youtube.com/watch?v=I_KVMFrUtPk",
       "thumbnail": "https://i.ytimg.com/vi/I_KVMFrUtPk/hqdefault.jpg",
       "publishedAt": "2026-09-30T17:16:43.000Z"
-    },
-    {
-      "id": "n_aebf4e4806",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "WTF is a Googlebook?",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=_0G4OG39XjI",
-      "thumbnail": "https://i.ytimg.com/vi/_0G4OG39XjI/hqdefault.jpg",
-      "publishedAt": "2026-10-08T21:00:40.000Z"
-    },
-    {
-      "id": "n_7275c2b067",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Xiaomi 18 Fold: How Does This Happen?",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=3iRUwVzRDZQ",
-      "thumbnail": "https://i.ytimg.com/vi/3iRUwVzRDZQ/hqdefault.jpg",
-      "publishedAt": "2026-10-02T20:50:25.000Z"
-    },
-    {
-      "id": "n_e3a30325d8",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Dear YouTube!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=e1q-TuHdc4Y",
-      "thumbnail": "https://i.ytimg.com/vi/e1q-TuHdc4Y/hqdefault.jpg",
-      "publishedAt": "2026-09-30T14:42:19.000Z"
-    },
-    {
-      "id": "n_c2970a76ed",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Nothing Headphone 1 Pro: They Copied the Wrong Thing!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=rayrrXot17M",
-      "thumbnail": "https://i.ytimg.com/vi/rayrrXot17M/hqdefault.jpg",
-      "publishedAt": "2026-09-29T01:01:35.000Z"
     }
   ]
 }
