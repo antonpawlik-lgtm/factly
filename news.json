@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-10T20:47:47.562Z",
+  "generatedAt": "2026-10-10T23:56:12.845Z",
   "items": [
+    {
+      "id": "n_c52a7e91e4",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Saudi-Arabien: Viele Tote bei Angriff auf Flughafen in Riad",
+      "summary": "Etwa 40 Millionen Passagiere nutzen den Flughafen in der saudischen Hauptstadt Riad jedes Jahr. Zuletzt wurde er mehrfach angegriffen. Nun gab es wieder eine Attacke - mindestens zwölf Menschen starben. Diplomaten vermuten die Huthi-Miliz hinter dem Angriff.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/angriff-riad-flughafen-100.html",
+      "publishedAt": "2026-10-10T23:12:39.000Z"
+    },
     {
       "id": "n_19f1883715",
       "type": "news",
@@ -29,7 +40,7 @@
       "topic": "general",
       "lang": "de",
       "headline": "Trump fordert nach Dieseldeal mit Putin Selenskyjs Ablösung",
-      "summary": "Gestern hatte US-Präsident Trump einen Dieseldeal mit Russland angekündigt. Die Ukraine reagierte empört, nun fordert Trump eine Ablösung des ukrainischen Staatschefs Selenskyj. Er habe die Schuld an den hohen Energiepreisen.",
+      "summary": "Am Freitag hatte US-Präsident Trump einen Dieseldeal mit Russland angekündigt. Die Ukraine reagierte empört, nun fordert Trump eine Ablösung des ukrainischen Staatschefs Selenskyj. Er habe die Schuld an den hohen Energiepreisen.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-diesel-russland-100.html",
       "publishedAt": "2026-10-10T18:26:35.000Z"
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/mv-koalitionsverhandlungen-100.html",
       "publishedAt": "2026-10-10T14:36:51.000Z"
-    },
-    {
-      "id": "n_1e7d82bbf4",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Merz sieht bei irischem Vorschlag für EU-Haushalt \"keine Grundlage für Einigung\"",
-      "summary": "Die irische EU-Ratspräsidentschaft hat einen neuen Vorschlag für den nächsten EU-Haushalt vorgelegt. Die Reaktion aus Deutschland darauf ist verhalten. Kanzler Merz sieht keine Grundlage für eine Einigung. Von Kathrin Schmid.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-irischer-vorschlag-100.html",
-      "publishedAt": "2026-10-10T14:33:27.000Z"
     },
     {
       "id": "n_2c4a89f29e",
@@ -266,6 +266,61 @@
       "publishedAt": "2026-10-10T08:40:02.000Z"
     },
     {
+      "id": "n_54db47b12e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+      "summary": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T23:31:35.000Z"
+    },
+    {
+      "id": "n_b2308317d6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T23:19:55.000Z"
+    },
+    {
+      "id": "n_e4256e6327",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "summary": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T22:40:56.000Z"
+    },
+    {
+      "id": "n_a81bcb82f0",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T22:13:08.000Z"
+    },
+    {
+      "id": "n_146f2c9cb8",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T20:51:12.000Z"
+    },
+    {
       "id": "n_8fd635139c",
       "type": "news",
       "topic": "general",
@@ -288,28 +343,6 @@
       "publishedAt": "2026-10-10T19:25:03.000Z"
     },
     {
-      "id": "n_b2308317d6",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T19:08:17.000Z"
-    },
-    {
-      "id": "n_e4256e6327",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Several injured in attack on airport in Saudi capital Riyadh",
-      "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T18:37:10.000Z"
-    },
-    {
       "id": "n_12ab42f20c",
       "type": "news",
       "topic": "general",
@@ -319,39 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-10T18:22:29.000Z"
-    },
-    {
-      "id": "n_9010f2c293",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-      "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T17:44:26.000Z"
-    },
-    {
-      "id": "n_068525c293",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-      "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T15:23:47.000Z"
-    },
-    {
-      "id": "n_66bd6aef87",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Woman injures three people in third Poland school knife attack in a week",
-      "summary": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T14:58:55.000Z"
     },
     {
       "id": "n_94e53ad190",
@@ -530,6 +530,17 @@
       "publishedAt": "2026-10-09T19:27:27.000Z"
     },
     {
+      "id": "n_d05facb80f",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "publishedAt": "2026-10-10T21:47:51.000Z"
+    },
+    {
       "id": "n_9fe15a12a7",
       "type": "news",
       "topic": "ai",
@@ -607,15 +618,15 @@
       "publishedAt": "2026-10-09T16:56:42.000Z"
     },
     {
-      "id": "n_3e5144fcac",
+      "id": "n_35dc91695d",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted m",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-      "publishedAt": "2026-10-09T16:53:02.000Z"
+      "headline": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accep",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "publishedAt": "2026-10-10T22:10:17.000Z"
     },
     {
       "id": "n_e77e9ae834",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
       "publishedAt": "2026-10-09T14:25:43.000Z"
-    },
-    {
-      "id": "n_3e04105bec",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Instinct was the buzziest AI agent around — can it survive Muse?",
-      "summary": "Instinct’s agent is always just a text away. Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzzie",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-      "publishedAt": "2026-10-09T14:00:00.000Z"
     },
     {
       "id": "n_12c2c27c0a",
@@ -1016,54 +1016,6 @@
       "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
       "thumbnail": "https://i.ytimg.com/vi/qBBRRsH0rQc/hqdefault.jpg",
       "publishedAt": "2026-09-22T09:32:13.000Z"
-    },
-    {
-      "id": "n_c21d60498a",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
-      "publishedAt": "2026-09-17T00:34:47.000Z"
-    },
-    {
-      "id": "n_ffdb3dfd14",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
-      "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_6a18d8c315",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
-      "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
-      "publishedAt": "2026-08-12T12:57:24.000Z"
-    },
-    {
-      "id": "n_49a7d5405f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
-      "publishedAt": "2026-07-28T20:02:11.000Z"
     },
     {
       "id": "n_e2b44e6c52",
