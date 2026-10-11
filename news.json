@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-10-11T16:53:27.907Z",
+  "generatedAt": "2026-10-11T21:09:01.515Z",
   "items": [
+    {
+      "id": "n_5298d0fcdd",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Russland greift trotz angeblicher \"Energie-Waffenruhe\" weiter Anlagen an",
+      "summary": "Russland hat erneut Energieanlagen angegriffen. Die Attacken erfolgten nach der Verkündung einer \"Energie-Waffenruhe\" zwischen Kiew und Moskau durch US-Präsident Trump - die bislang von beiden Seiten nicht bestätigt wurde.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-102.html",
+      "publishedAt": "2026-10-11T20:11:44.000Z"
+    },
+    {
+      "id": "n_dc2964d9b3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
+      "summary": "Noch ist vieles im Unklaren, aber die Sorge scheint groß. Offenbar hat die polnische Polizei konkrete Hinweise auf Anschlagspläne auf Regierungschef Tusk und Verteidigungsminister Kosiniak-Kamysz. Ein Mann wurde festgenommen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
+      "publishedAt": "2026-10-11T20:11:03.000Z"
+    },
+    {
+      "id": "n_0dd8ccfd41",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "\"Die Stromsteuer muss für alle gesenkt werden\"",
+      "summary": "Die CDU will raus aus der Krise und wieder näher an die Lebenswirklichkeit der Menschen. Als konkrete Maßnahme schlägt der rheinland-pfälzische Regierungschef Schnieder im ARD-Bericht aus Berlin vor, die Stromsteuer für alle zu senken.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-schnieder-miersch-cdu-klausur-100.html",
+      "publishedAt": "2026-10-11T18:05:00.000Z"
+    },
+    {
+      "id": "n_853688929b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Angriffe auf Saudi-Arabien: Huthis drohen mit weiterer Eskalation",
+      "summary": "Nach dem schweren Angriff auf den Flughafen von Riad droht die Huthi-Miliz mit einer weiteren Eskalation. Saudi-Arabien fühlt sich vom Partner USA im Stich gelassen und sucht neue Verbündete. Von Anna Osius.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-102.html",
+      "publishedAt": "2026-10-11T17:50:11.000Z"
+    },
+    {
+      "id": "n_70e17c594b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Schwarz-Rot unter Druck: Wie die Koalition Vertrauen zurückgewinnen will",
+      "summary": "Reformstau, schwindende Zustimmung in der Bevölkerung, desaströse Wahlergebnisse - die schwarz-rote Koalition steht unter Druck. Jetzt muss sie unter Beweis stellen, dass sie noch handlungsfähig ist. Von Ilanit Spinner.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/vertrauen-regierung-100.html",
+      "publishedAt": "2026-10-11T17:36:32.000Z"
+    },
     {
       "id": "n_232e481fad",
       "type": "news",
@@ -10,7 +65,7 @@
       "summary": "Laut US-Präsident Trump gibt es eine \"Energie-Waffenruhe\" zwischen Russland und der Ukraine. Sie trete mit sofortiger Wirkung in Kraft, erklärte er auf seiner Plattform Truth Social. Eine Bestätigung aus Kiew oder Moskau liegt bislang nicht vor.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-100.html",
-      "publishedAt": "2026-10-11T16:15:53.000Z"
+      "publishedAt": "2026-10-11T17:31:38.000Z"
     },
     {
       "id": "n_cf1c55ecd0",
@@ -24,17 +79,6 @@
       "publishedAt": "2026-10-11T15:38:17.000Z"
     },
     {
-      "id": "n_dc2964d9b3",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
-      "summary": "Noch ist vieles im Unklaren, aber die Sorge scheint groß. Offenbar hat die polnische Polizei konkrete Hinweise auf Anschlagspläne auf Regierungschef Tusk und Verteidigungsminister Kosiniak-Kamysz. Ein Mann wurde festgenommen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
-      "publishedAt": "2026-10-11T15:37:39.000Z"
-    },
-    {
       "id": "n_c545b5129d",
       "type": "news",
       "topic": "general",
@@ -44,50 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/afrika/schiffsungueck-dschibuti-100.html",
       "publishedAt": "2026-10-11T14:32:56.000Z"
-    },
-    {
-      "id": "n_57b1d84f3b",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Selenskyj will Angriffe auf russische Raffinerien fortsetzen",
-      "summary": "Nach Trumps Drohungen gegen den ukrainischen Präsidenten hat Selenskyj nun reagiert - und angekündigt, die Angriffe auf russische Ölraffinerien fortzusetzen. Ein Ende sei nur möglich, wenn auch Russland seine Attacken einstelle.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/trump-selenskyj-russland-reaktion-raffinerien-angriffe-100.html",
-      "publishedAt": "2026-10-11T14:22:07.000Z"
-    },
-    {
-      "id": "n_bc6af096dd",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Nach Senderboykott: US-Justiz prüft Verstoß gegen Kartellrecht",
-      "summary": "Mehrere US-Sender hatten vorübergehend die Berichterstattung über US-Präsident Trump eingestellt, weil er einzelne Medien aus dem Weißen Haus ausgeschlossen hatte. Jetzt prüft das Justizministerium rechtliche Schritte gegen sie.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-medien-us-sender-cnn-100.html",
-      "publishedAt": "2026-10-11T11:23:58.000Z"
-    },
-    {
-      "id": "n_009fa6a84d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Papst Leo XIV. kündigt Operation an der Lunge an",
-      "summary": "Eigentlich steht dem Oberhaupt der Katholischen Kirche eine große Südamerikareise bevor - aber Leo XIV. muss sich einem Eingriff an der Lunge unterziehen. Ärzte hätten einen Knoten entdeckt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/vatikan-papst-lunge-operation-100.html",
-      "publishedAt": "2026-10-11T11:22:28.000Z"
-    },
-    {
-      "id": "n_c2a846ad8f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Angriff auf Yandex: Ukraine legt \"russisches Google\" lahm",
-      "summary": "Zum dritten Mal innerhalb von vier Tagen ist der russische Technologie- und KI-Konzern Yandex Ziel eines ukrainischen Drohnenangriffs geworden. Das Rechenzentrum in der Region Wladimir musste vollständig abgeschaltet werden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-yandex-100.html",
-      "publishedAt": "2026-10-11T10:53:06.000Z"
     },
     {
       "id": "n_2c4a89f29e",
@@ -266,12 +266,34 @@
       "publishedAt": "2026-10-11T09:32:02.000Z"
     },
     {
+      "id": "n_7a7e4dd6e3",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Orangutans released back into Borneo forest after devastating fires",
+      "summary": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T19:08:04.000Z"
+    },
+    {
+      "id": "n_3566ee1dec",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Poland detains man suspected of planning assassination of PM Tusk",
+      "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T17:27:24.000Z"
+    },
+    {
       "id": "n_a4f40d7918",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Saudi capital airport hit by second strike in two days",
-      "summary": "Yemen's Houthi rebels claimed responsibility for attacks on the airport over the weekend, which have killed at least 13.",
+      "headline": "Saudi capital airport hit by second Houthi strike in two days",
+      "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-11T16:41:37.000Z"
@@ -281,8 +303,8 @@
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Riyadh airport attack another dangerous moment in already tense conflict",
-      "summary": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
+      "headline": "Riyadh airport attacks another dangerous moment in already tense conflict",
+      "summary": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-11T15:32:32.000Z"
@@ -330,28 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-11T13:38:55.000Z"
-    },
-    {
-      "id": "n_a76b56ec58",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Homes and bridges swept away as fresh floods hit Nepal",
-      "summary": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T12:03:52.000Z"
-    },
-    {
-      "id": "n_fe7b9d6e47",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
-      "summary": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T11:11:42.000Z"
     },
     {
       "id": "n_94e53ad190",
@@ -442,6 +442,17 @@
       "publishedAt": "2026-10-09T07:14:30.000Z"
     },
     {
+      "id": "n_8f7a2e10eb",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
+      "summary": "Also: new trailer for Godzilla Minus Zero, the sequel to Takashi Yamazaki’s kaiju epic, Godzilla Minus One",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
+      "publishedAt": "2026-10-11T14:50:24.000Z"
+    },
+    {
       "id": "n_8701263ea0",
       "type": "news",
       "topic": "tech",
@@ -519,15 +530,15 @@
       "publishedAt": "2026-10-09T19:43:50.000Z"
     },
     {
-      "id": "n_ca3b473c63",
+      "id": "n_e380f02bc2",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial",
-      "summary": "CDC allocated $1.6M for study on alleged harms of hepatitis B vaccine.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
-      "publishedAt": "2026-10-09T19:27:27.000Z"
+      "headline": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "publishedAt": "2026-10-11T19:00:00.000Z"
     },
     {
       "id": "n_70688ea0e7",
@@ -607,15 +618,15 @@
       "publishedAt": "2026-10-10T00:18:32.000Z"
     },
     {
-      "id": "n_ac2c548222",
+      "id": "n_7ec8afeed3",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "publishedAt": "2026-10-09T21:41:29.000Z"
+      "headline": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling i",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "publishedAt": "2026-10-11T18:33:56.000Z"
     },
     {
       "id": "n_ea95eacbd8",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
       "publishedAt": "2026-10-09T19:09:44.000Z"
-    },
-    {
-      "id": "n_f11f2c288c",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Nikon microscopic video competition winner disqualified for using generative AI",
-      "summary": "The original first place video used AI in post-processing. | Image: Dr. Ning Xu Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-      "publishedAt": "2026-10-09T18:06:57.000Z"
     },
     {
       "id": "n_12c2c27c0a",
@@ -970,6 +970,18 @@
       "publishedAt": "2026-09-30T00:00:00.000Z"
     },
     {
+      "id": "n_b35e5f2d2e",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DeepSeek Solved AI’s Memory Problem",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
+      "thumbnail": "https://i.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg",
+      "publishedAt": "2026-10-11T16:53:17.000Z"
+    },
+    {
       "id": "n_b84db88632",
       "type": "video",
       "topic": "video",
@@ -1004,18 +1016,6 @@
       "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
       "thumbnail": "https://i.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg",
       "publishedAt": "2026-09-24T08:40:55.000Z"
-    },
-    {
-      "id": "n_762e86c2a7",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Yes, Jev Is Insane, But There's A Catch",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
-      "thumbnail": "https://i.ytimg.com/vi/qBBRRsH0rQc/hqdefault.jpg",
-      "publishedAt": "2026-09-22T09:32:13.000Z"
     },
     {
       "id": "n_c21d60498a",
