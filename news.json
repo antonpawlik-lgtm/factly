@@ -1,27 +1,82 @@
 {
-  "generatedAt": "2026-10-12T02:56:45.222Z",
+  "generatedAt": "2026-10-12T10:02:16.546Z",
   "items": [
     {
-      "id": "n_dfeea5fd4d",
+      "id": "n_9048674130",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Söder fordert CDU-Abweichler zum Austritt auf",
-      "summary": "Als CDU-Abgeordneter für die AfD stimmen? Wer das in Sachsen-Anhalt tut, hat für Markus Söder keine Zukunft in der Union. \"Wollt ihr woanders hin? Dann sagt's auch\", so der CSU-Chef bei Caren Miosga.",
+      "headline": "Briefporto 2027: Standardbrief könnte 1,14 Euro kosten",
+      "summary": "Ein Brief für mehr als einen Euro? Das könnte bald Realität werden. Die Post soll laut der Bundesnetzagentur ihre Preise kräftig erhöhen dürfen, auch für Pakete. Was dahintersteckt und wie teuer es werden könnte.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/soeder-cdu-abweichler-100.html",
-      "publishedAt": "2026-10-12T02:20:11.000Z"
+      "url": "https://www.tagesschau.de/inland/deutsche-post-preisanpassung-entwurf-bundesnetzagentur-100.html",
+      "publishedAt": "2026-10-12T09:54:11.000Z"
+    },
+    {
+      "id": "n_a92bb3714c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach Rücktritt von Bas: Schweitzer soll neuer Arbeitsminister werden",
+      "summary": "Kurz nach dem Rücktritt von Bärbel Bas präsentiert die SPD einen Nachfolger: Der frühere Ministerpräsident von Rheinland-Pfalz, Alexander Schweitzer, soll neuer Arbeits- und Sozialminister werden. Er übernimmt das Amt in schwierigen Zeiten.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/alexander-schweitzer-arbeitsminister-100.html",
+      "publishedAt": "2026-10-12T09:16:50.000Z"
+    },
+    {
+      "id": "n_f0861d1b3e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bärbel Bas tritt als Arbeitsministerin und SPD-Vorsitzende zurück",
+      "summary": "Dieser Schritt dürfte für die meisten überraschend kommen: Arbeitsministerin und SPD-Co-Chefin Bas legt ihre Ämter mit sofortiger Wirkung nieder. Sie begründete ihre Entscheidung mit persönlichen Gründen - und öffentlichen Angriffen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/ruecktritt-bas-100.html",
+      "publishedAt": "2026-10-12T08:59:04.000Z"
+    },
+    {
+      "id": "n_cee316f00d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: DAX-Erholung setzt sich fort",
+      "summary": "Der DAX legt zum Wochenstart weiter zu und knüpft an die Erholung vom Freitag an. Der Aufschwung ist aber wacklig, denn hohe Ölpreise und Anleiherenditen bleiben weiterhin ein Risiko.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-114.html",
+      "publishedAt": "2026-10-12T08:55:44.000Z"
+    },
+    {
+      "id": "n_786edccbfe",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "EU-Außenminister beschließen größte Sanktionsrunde gegen Russland",
+      "summary": "Es geht um mehr als 1.600 Personen und Organisationen: Die EU-Außenminister haben neue Sanktionen wegen des russischen Angriffskrieges gegen die Ukraine beschlossen. Deutliche Kritik gibt es am Vorgehen der USA. Von Tina Hassel.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-aussenministertreffen-120.html",
+      "publishedAt": "2026-10-12T08:33:32.000Z"
+    },
+    {
+      "id": "n_11043e9b62",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Was hinter der aktuellen Euro-Schwäche steckt",
+      "summary": "Politische Unsicherheiten in Frankreich und Spanien bringen den Euro unter Druck. Dazu kommen Sorgen wegen der hohen Staatsschulden in Europa. Was bedeutet das für Europas Gemeinschaftswährung? Von Claudia Wehrle.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/devisen-euroschwaeche-100.html",
+      "publishedAt": "2026-10-12T08:17:50.000Z"
     },
     {
       "id": "n_06d88dac63",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Huthis greifen erneut Flughäfen in Saudi-Arabien an",
-      "summary": "Die Huthi-Miliz hat ihre Attacken auf saudische Flughäfen fortgesetzt. Die Luftfahrtbehörde meldete mehrere Verletzte nach einem neuen Angriff auf den Flughafen King Khalid - mindestens ein Mensch wurde getötet.",
+      "headline": "Huthi-Miliz greift erneut Flughäfen in Saudi-Arabien an",
+      "summary": "Es ist eine gefährliche Eskalation im Nahen Osten: Die Huthi-Miliz aus dem Jemen greift weiter Saudi-Arabien an. Neben dem Flughafen in Riad wurden auch wieder Energieanlagen getroffen. Nun bietet Iran Vermittlungsgespräche an.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthis-flughafen-100.html",
-      "publishedAt": "2026-10-12T00:20:21.000Z"
+      "publishedAt": "2026-10-12T08:00:56.000Z"
     },
     {
       "id": "n_5298d0fcdd",
@@ -32,62 +87,29 @@
       "summary": "Russland hat erneut Energieanlagen angegriffen. Die Attacken erfolgten nach der Verkündung einer \"Energie-Waffenruhe\" zwischen Kiew und Moskau durch US-Präsident Trump - die bislang von beiden Seiten nicht bestätigt wurde.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-102.html",
-      "publishedAt": "2026-10-11T20:11:44.000Z"
+      "publishedAt": "2026-10-12T06:38:55.000Z"
     },
     {
-      "id": "n_dc2964d9b3",
+      "id": "n_d8ab73c3f0",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Polizei warnt vor Anschlag auf polnischen Regierungschef Tusk",
-      "summary": "Noch ist vieles im Unklaren, aber die Sorge scheint groß. Offenbar hat die polnische Polizei konkrete Hinweise auf Anschlagspläne auf Regierungschef Tusk und Verteidigungsminister Kosiniak-Kamysz. Ein Mann wurde festgenommen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/polen-tusk-anschlag-100.html",
-      "publishedAt": "2026-10-11T20:11:03.000Z"
+      "headline": "Microsoft vor nächstem Zertifikatswechsel – Windows Update betroffen",
+      "summary": "Ab kommendem Mai laufen die alten Windows-Update-Zertifikate ab, neue liefert Microsoft per Update. Admins sollten prüfen, ob Maßnahmen nötig sind.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Microsoft-vor-naechstem-Zertifikatswechsel-Windows-Update-betroffen-11483863.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-12T07:41:00.000Z"
     },
     {
-      "id": "n_0dd8ccfd41",
+      "id": "n_2266cfba6d",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "\"Die Stromsteuer muss für alle gesenkt werden\"",
-      "summary": "Die CDU will raus aus der Krise und wieder näher an die Lebenswirklichkeit der Menschen. Als konkrete Maßnahme schlägt der rheinland-pfälzische Regierungschef Schnieder im ARD-Bericht aus Berlin vor, die Stromsteuer für alle zu senken.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-schnieder-miersch-cdu-klausur-100.html",
-      "publishedAt": "2026-10-11T18:05:00.000Z"
-    },
-    {
-      "id": "n_853688929b",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Angriffe auf Saudi-Arabien: Huthis drohen mit weiterer Eskalation",
-      "summary": "Nach dem schweren Angriff auf den Flughafen von Riad droht die Huthi-Miliz mit einer weiteren Eskalation. Saudi-Arabien fühlt sich vom Partner USA im Stich gelassen und sucht neue Verbündete. Von Anna Osius.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/huthi-angriffe-saudi-arabien-102.html",
-      "publishedAt": "2026-10-11T17:50:11.000Z"
-    },
-    {
-      "id": "n_70e17c594b",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Schwarz-Rot unter Druck: Wie die Koalition Vertrauen zurückgewinnen will",
-      "summary": "Reformstau, schwindende Zustimmung in der Bevölkerung, desaströse Wahlergebnisse - die schwarz-rote Koalition steht unter Druck. Jetzt muss sie unter Beweis stellen, dass sie noch handlungsfähig ist. Von Ilanit Spinner.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/vertrauen-regierung-100.html",
-      "publishedAt": "2026-10-11T17:36:32.000Z"
-    },
-    {
-      "id": "n_232e481fad",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Trump meldet \"Energie-Waffenruhe\" zwischen Russland und Ukraine",
-      "summary": "Laut US-Präsident Trump gibt es eine \"Energie-Waffenruhe\" zwischen Russland und der Ukraine. Sie trete mit sofortiger Wirkung in Kraft, erklärte er auf seiner Plattform Truth Social. Eine Bestätigung aus Kiew oder Moskau liegt bislang nicht vor.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-100.html",
-      "publishedAt": "2026-10-11T17:31:38.000Z"
+      "headline": "800 Gigabyte: NASA gibt teils unveröffentlichten Daten zu Artemis-2 frei",
+      "summary": "Im Frühjahr sind zum ersten Mal nach mehr als 50 Jahren wieder Menschen zum Mond geflogen. Jetzt hat die NASA zahlreiche Fotos, Videos und mehr freigegeben.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/NASA-800-Gigabyte-an-teils-unveroeffentlichten-Daten-zur-Mondmission-Artemis-2-11483751.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-12T05:57:00.000Z"
     },
     {
       "id": "n_2c4a89f29e",
@@ -156,114 +178,169 @@
       "publishedAt": "2026-10-09T09:11:00.000Z"
     },
     {
-      "id": "n_5e2a69a42e",
+      "id": "n_e287688edc",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Citrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach",
-      "summary": "Vergangenes Wochenende hat Citrix eine Zero-Day-Lücke in Netscaler geschlossen. Jetzt legt der Hersteller ein weiteres Update nach.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Citrix-legt-weiteres-Sicherheitsupdate-gegen-kritische-Netscaler-Luecke-nach-11481808.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-09T07:12:00.000Z"
-    },
-    {
-      "id": "n_1f888d6741",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Gefahr für autonome Autos: Wie eine Folie Kameras und Lidar täuscht",
-      "summary": "Forscher aus München fühlen Kamera- und Lidar-Systemen auf den Zahn, um autonome Fahrzeuge besser vor gezielten Manipulationen zu schützen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Gefahr-fuer-autonome-Autos-Wie-eine-Folie-Kameras-und-Lidar-taeuscht-11481395.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-08T16:19:00.000Z"
-    },
-    {
-      "id": "n_65c8729f6c",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Shield AI: Drohne Navy-X-BAT startet senkrecht von Schiffen aus",
-      "summary": "Shield AI hat den Prototypen der X-BAT vorgestellt. Die jetgetriebenen Drohne mit Senkrechtstart soll von jedem Schiff aus starten können. (Militär, General Electric)",
+      "headline": "Subaru E-Outback im Offroad-Test: Wühlen unter Strom",
+      "summary": "Tiefer Sand, steile Hänge und in der Luft hängende Räder: Subaru schickt seinen elektrischen Outback ins Gelände. Im Test zeigt sich, was der Allrad-SUV kann. Ein Test von Tobias Költzsch (Subaru, Elektroauto)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/shield-ai-drohne-navy-x-bat-startet-senkrecht-von-flugzeugen-aus-2610-213966.html",
-      "publishedAt": "2026-10-11T12:36:02.000Z"
+      "url": "https://www.golem.de/news/subaru-e-outback-im-offroad-test-wuehlen-unter-strom-2610-213947.html",
+      "publishedAt": "2026-10-12T10:00:06.000Z"
     },
     {
-      "id": "n_7c6b3b40fc",
+      "id": "n_a01b8ba73c",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "ÖPNV: Hamburg kommt mit Wasserstoffbussen nicht voran",
-      "summary": "Brennstoffzellenantriebe werden als Alternative zu Elektrobussen gehandelt. In der Praxis gibt es technische Probleme und teuren grünen Wasserstoff. (Elektrobus, Elektroauto)",
+      "headline": "Angriffe auf russische Raffinerien: USA drohen Ukraine mit Stopp von Geheimdienstinfos",
+      "summary": "US-Präsident Trump will vor den US-Zwischenwahlen den hohen Dieselpreis drücken. Dabei kooperiert er mit Russland und droht der Ukraine. (Ukrainekrieg, Politik)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/oepnv-hamburg-kommt-mit-wasserstoffbussen-nicht-voran-2610-213965.html",
-      "publishedAt": "2026-10-11T12:11:06.000Z"
+      "url": "https://www.golem.de/news/angriffe-auf-russische-raffinerien-usa-drohen-ukraine-mit-stopp-von-geheimdienstinfos-2610-213993.html",
+      "publishedAt": "2026-10-12T09:49:01.000Z"
     },
     {
-      "id": "n_eb9f0945f4",
+      "id": "n_13238a8d7d",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Strukturierter Parteivortrag: Wie Hubig die KI-Flut an Gerichten eindämmen will",
-      "summary": "Vor allem an Sozialgerichten kämpfen Richter mit KI-generierten Schriftsätzen von mehreren Hundert Seiten. Dagegen will die Justizministerin vorgehen. Ein Bericht von Friedhelm Greis (KI, Politik)",
+      "headline": "Total Annihilation: KI hat neue Engine für Strategieklassiker programmiert",
+      "summary": "Eine weitgehend mithilfe von KI entwickelte Open-Source-Engine bringt Total Annihilation auf moderne Rechner und in den Browser. (KI, Spiele)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/strukturierter-parteivortrag-wie-hubig-ki-flut-an-gerichten-eindaemmen-will-2610-213967.html",
-      "publishedAt": "2026-10-11T12:11:02.000Z"
+      "url": "https://www.golem.de/news/total-annihilation-ki-hat-neue-engine-fuer-strategieklassiker-programmiert-2610-213989.html",
+      "publishedAt": "2026-10-12T09:37:01.000Z"
     },
     {
-      "id": "n_89c1330e55",
+      "id": "n_066ca717cd",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "KI: Bundesregierung lässt Mistral fallen",
-      "summary": "Der geplante KI-Rahmenvertrag zwischen Deuschland, Mistral und SAP ist vorerst vom Tisch. (Bundesregierung, KI)",
+      "headline": "Anzeige: Gaming-Monitor mit 27'', FHD, 200 Hz für unter 100 Euro bei Amazon",
+      "summary": "Einen Gaming-Monitor von MSI mit 27''-IPS-Display, FHD-Auflösung, 200 Hz und 0,5 Millisekunden GtG gibt es bei Amazon zum Aktionspreis. (TV & Monitore, Display)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/ki-bundesregierung-laesst-mistral-fallen-2610-213963.html",
-      "publishedAt": "2026-10-11T11:41:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-gaming-monitor-mit-27-fhd-200-hz-fuer-unter-100-euro-bei-amazon-2610-213990.html",
+      "publishedAt": "2026-10-12T09:31:02.000Z"
     },
     {
-      "id": "n_f164aa02c2",
+      "id": "n_89e79d7b1b",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Microsoft-Chef Nadella: KI darf sich nicht selbst kontrollieren",
-      "summary": "Microsoft-Chef Nadella hält die bisherige Eindämmung von KI-Modellen für gescheitert. In seiner Analyse beugt er sich aber dem Willen von US-Präsident Trump. (Microsoft, KI)",
+      "headline": "Decart: Amazon verhandelt KI-Übernahme für sieben Milliarden US-Dollar",
+      "summary": "Für Amazon/AWS löst Decart das Problem, dass Unternehmen ihre Modelle nur schwer von Nvidia-Hardware zu AWS-Chips verlagern können. (AWS, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/microsoft-chef-nadella-ki-darf-sich-nicht-selbst-kontrollieren-2610-213964.html",
-      "publishedAt": "2026-10-11T11:07:02.000Z"
+      "url": "https://www.golem.de/news/decart-amazon-verhandelt-ki-uebernahme-fuer-sieben-milliarden-us-dollar-2610-213988.html",
+      "publishedAt": "2026-10-12T09:16:02.000Z"
     },
     {
-      "id": "n_14f8c54607",
+      "id": "n_21bcfb2f75",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Drohnenangriffe: Ukrainische Drohnen treffen weitere Yandex-Rechenzentren",
-      "summary": "Nach ukrainischen Drohnenangriffen auf Yandex-Rechenzentren brechen Clouddienste in Russland ein. (Rechenzentrum, Supercomputer)",
+      "headline": "Post: Porto kann so stark steigen wie nie zuvor",
+      "summary": "Das Porto steigt: Die Höhe ist noch unklar - der Spielraum für die Post ist aber so hoch wie nie zuvor. Ein Standardbrief dürfte erstmals mehr als 1 Euro kosten. (Post, Verbraucherschutz)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/drohnenangriffe-ukrainische-drohnen-treffen-weitere-yandex-rechenzentren-2610-213962.html",
-      "publishedAt": "2026-10-11T10:35:02.000Z"
+      "url": "https://www.golem.de/news/post-porto-kann-so-stark-steigen-wie-nie-zuvor-2610-213987.html",
+      "publishedAt": "2026-10-12T08:57:01.000Z"
     },
     {
-      "id": "n_59b901a5d6",
+      "id": "n_9ba2c57e8f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Softwareentwicklung: KI-Flut bringt mehr Code und weniger Fortschritt",
-      "summary": "Eine Harvard-Studie zeigt: KI-Coding-Tools vermehren den Code, doch die Review-Zeit steigt massiv. Die Software entsteht nicht schneller. (Software, KI)",
+      "headline": "Rockstar Games: Cyberleek droht mit Veröffentlichung des kompletten GTA 6",
+      "summary": "Angeblich hat ein Leaker die gesamte Kampagne von GTA 6. Mit einer ungewöhnlichen Forderung setzt er Rockstar Games unter Druck. (GTA 6, Rockstar)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/softwareentwicklung-ki-flut-bringt-mehr-code-und-weniger-fortschritt-2610-213961.html",
-      "publishedAt": "2026-10-11T10:04:02.000Z"
+      "url": "https://www.golem.de/news/rockstar-games-cyberleek-droht-mit-veroeffentlichung-des-kompletten-gta-6-2610-213986.html",
+      "publishedAt": "2026-10-12T08:42:01.000Z"
     },
     {
-      "id": "n_0053b44b38",
+      "id": "n_e07478c785",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Assistenzsystem: Tesla benennt Full Self Driving um",
-      "summary": "Nach Kritik aus Deutschland hat Tesla sein Assistenzsystem umbenannt. Der neue Name klingt bescheidener, die Technik bleibt die gleiche. (Autonomes Fahren, Elektroauto)",
+      "headline": "Apple Mac Studio mit M5 Ultra im Test: Konkurrenzlos",
+      "summary": "Wenn es etwas gibt, das an Hexerei oder Alien-Technologie grenzt, dann ist es der M5 Ultra im neuen Mac Studio. Kostenpunkt: Kleinwagen. Ein Test von Oliver Nickel (Mac, Apple)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/assistenzsystem-tesla-benennt-full-self-driving-um-2610-213959.html",
-      "publishedAt": "2026-10-11T09:32:02.000Z"
+      "url": "https://www.golem.de/news/apple-mac-studio-mit-m5-ultra-im-test-konkurrenzlos-2610-213928.html",
+      "publishedAt": "2026-10-12T08:30:02.000Z"
+    },
+    {
+      "id": "n_50d067a585",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: How did Roman Abramovich's advisors help hide his wealth?",
+      "summary": "Working with the Bureau of Investigative Journalism, BBC Panorama reveals how the Russian billionaire hid his wealth with the help of Deloitte.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c9rkynp1m01mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T06:35:02.000Z"
+    },
+    {
+      "id": "n_f55d23bf00",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
+      "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, investigation finds.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T05:00:52.000Z"
+    },
+    {
+      "id": "n_118483e2da",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: Endangered orangutans released back into the wild after Borneo fires",
+      "summary": "The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T23:48:25.000Z"
+    },
+    {
+      "id": "n_e4882cb6c1",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Iconic Australian band Powderfinger announce first tour in 17 years",
+      "summary": "The band, who announced their reunion last week, say they are \"absolutely ecstatic\" to be playing together again.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c680zyx8gkkjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T23:33:24.000Z"
+    },
+    {
+      "id": "n_fc4dcfb770",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump faces growing backlash over plans to import diesel from Russia",
+      "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T23:18:45.000Z"
+    },
+    {
+      "id": "n_09d644374a",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+      "summary": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T23:13:51.000Z"
+    },
+    {
+      "id": "n_09c43dafb2",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
+      "summary": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T23:13:20.000Z"
     },
     {
       "id": "n_a4f40d7918",
@@ -277,83 +354,6 @@
       "publishedAt": "2026-10-11T22:45:58.000Z"
     },
     {
-      "id": "n_551382d9bf",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
-      "summary": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T21:36:40.000Z"
-    },
-    {
-      "id": "n_8fc8100116",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
-      "summary": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T21:12:44.000Z"
-    },
-    {
-      "id": "n_64af34442e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Watch: What's behind Trump's energy ceasefire claim?",
-      "summary": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T20:55:02.000Z"
-    },
-    {
-      "id": "n_7a7e4dd6e3",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Orangutans released back into Borneo forest after devastating fires",
-      "summary": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T19:08:04.000Z"
-    },
-    {
-      "id": "n_3566ee1dec",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Poland detains man suspected of planning assassination of PM Tusk",
-      "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T17:27:24.000Z"
-    },
-    {
-      "id": "n_e66dbca8e8",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Riyadh airport attacks another dangerous moment in already tense conflict",
-      "summary": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T15:32:32.000Z"
-    },
-    {
-      "id": "n_75b455dbe9",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-      "summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T15:32:23.000Z"
-    },
-    {
       "id": "n_cc70a9dda9",
       "type": "news",
       "topic": "tech",
@@ -362,7 +362,7 @@
       "summary": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T23:07:35.000Z"
+      "publishedAt": "2026-10-12T07:47:37.000Z"
     },
     {
       "id": "n_94e53ad190",
@@ -968,6 +968,198 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/open-tts-leaderboard",
       "publishedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "n_b35e5f2d2e",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DeepSeek Solved AI’s Memory Problem",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
+      "thumbnail": "https://i.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg",
+      "publishedAt": "2026-10-11T16:53:17.000Z"
+    },
+    {
+      "id": "n_b84db88632",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DeepMind's New AI Just Cracked The Code Of Life",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
+      "thumbnail": "https://i.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg",
+      "publishedAt": "2026-10-07T13:29:33.000Z"
+    },
+    {
+      "id": "n_bd6c6dc0e0",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The Billion Dollar AI Advantage Is Disappearing",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
+      "thumbnail": "https://i.ytimg.com/vi/ZHVNTTKu9fU/hqdefault.jpg",
+      "publishedAt": "2026-10-05T09:53:12.000Z"
+    },
+    {
+      "id": "n_b7d9300382",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Claude Opus 5.5 AI: An Incredible Leap Forward",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+      "thumbnail": "https://i.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg",
+      "publishedAt": "2026-09-24T08:40:55.000Z"
+    },
+    {
+      "id": "n_c21d60498a",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
+      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
+      "publishedAt": "2026-09-17T00:34:47.000Z"
+    },
+    {
+      "id": "n_ffdb3dfd14",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
+      "publishedAt": "2026-08-26T21:44:41.000Z"
+    },
+    {
+      "id": "n_6a18d8c315",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
+      "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
+      "publishedAt": "2026-08-12T12:57:24.000Z"
+    },
+    {
+      "id": "n_49a7d5405f",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
+      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
+      "publishedAt": "2026-07-28T20:02:11.000Z"
+    },
+    {
+      "id": "n_e2b44e6c52",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "A $6.3 billion open-weight model just got embarrassed by the French...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=WrCjAAl9okA",
+      "thumbnail": "https://i.ytimg.com/vi/WrCjAAl9okA/hqdefault.jpg",
+      "publishedAt": "2026-10-07T20:24:27.000Z"
+    },
+    {
+      "id": "n_f16ac80d2c",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "PewDiePie is setting AI free... and OpenAI is furious",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=_5p1_TNSWqQ",
+      "thumbnail": "https://i.ytimg.com/vi/_5p1_TNSWqQ/hqdefault.jpg",
+      "publishedAt": "2026-10-05T20:34:44.000Z"
+    },
+    {
+      "id": "n_c41b12c55b",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The one OpenAI announcement that can actually make you money...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=No-JPdFvYWU",
+      "thumbnail": "https://i.ytimg.com/vi/No-JPdFvYWU/hqdefault.jpg",
+      "publishedAt": "2026-10-01T19:34:14.000Z"
+    },
+    {
+      "id": "n_a9f950b2ca",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Did a 50 year old military secret just solve agent prompt injection?",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=I_KVMFrUtPk",
+      "thumbnail": "https://i.ytimg.com/vi/I_KVMFrUtPk/hqdefault.jpg",
+      "publishedAt": "2026-09-30T17:16:43.000Z"
+    },
+    {
+      "id": "n_aebf4e4806",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "WTF is a Googlebook?",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=_0G4OG39XjI",
+      "thumbnail": "https://i.ytimg.com/vi/_0G4OG39XjI/hqdefault.jpg",
+      "publishedAt": "2026-10-08T21:00:40.000Z"
+    },
+    {
+      "id": "n_7275c2b067",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Xiaomi 18 Fold: How Does This Happen?",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=3iRUwVzRDZQ",
+      "thumbnail": "https://i.ytimg.com/vi/3iRUwVzRDZQ/hqdefault.jpg",
+      "publishedAt": "2026-10-02T20:50:25.000Z"
+    },
+    {
+      "id": "n_e3a30325d8",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Dear YouTube!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=e1q-TuHdc4Y",
+      "thumbnail": "https://i.ytimg.com/vi/e1q-TuHdc4Y/hqdefault.jpg",
+      "publishedAt": "2026-09-30T14:42:19.000Z"
+    },
+    {
+      "id": "n_c2970a76ed",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Nothing Headphone 1 Pro: They Copied the Wrong Thing!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=rayrrXot17M",
+      "thumbnail": "https://i.ytimg.com/vi/rayrrXot17M/hqdefault.jpg",
+      "publishedAt": "2026-09-29T01:01:35.000Z"
     }
   ]
 }
