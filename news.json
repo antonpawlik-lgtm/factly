@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-11T21:09:01.515Z",
+  "generatedAt": "2026-10-12T02:56:45.222Z",
   "items": [
+    {
+      "id": "n_dfeea5fd4d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Söder fordert CDU-Abweichler zum Austritt auf",
+      "summary": "Als CDU-Abgeordneter für die AfD stimmen? Wer das in Sachsen-Anhalt tut, hat für Markus Söder keine Zukunft in der Union. \"Wollt ihr woanders hin? Dann sagt's auch\", so der CSU-Chef bei Caren Miosga.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/soeder-cdu-abweichler-100.html",
+      "publishedAt": "2026-10-12T02:20:11.000Z"
+    },
+    {
+      "id": "n_06d88dac63",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Huthis greifen erneut Flughäfen in Saudi-Arabien an",
+      "summary": "Die Huthi-Miliz hat ihre Attacken auf saudische Flughäfen fortgesetzt. Die Luftfahrtbehörde meldete mehrere Verletzte nach einem neuen Angriff auf den Flughafen King Khalid - mindestens ein Mensch wurde getötet.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthis-flughafen-100.html",
+      "publishedAt": "2026-10-12T00:20:21.000Z"
+    },
     {
       "id": "n_5298d0fcdd",
       "type": "news",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-100.html",
       "publishedAt": "2026-10-11T17:31:38.000Z"
-    },
-    {
-      "id": "n_cf1c55ecd0",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Friedenspreisträger Sands kritisiert deutsches Schweigen zu Vorgehen Israels",
-      "summary": "Der Jurist und Schriftsteller Philippe Sands hat den Friedenspreis des Deutschen Buchhandels erhalten. Er bedankte sich mit dem Appell, zu Verletzungen des Völkerrechts nicht zu schweigen. Israels Vorgehen in Gaza müsse kritisiert werden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/hessen/philippe-sands-friedenspreis-buchhandel-frankfurt-100.html",
-      "publishedAt": "2026-10-11T15:38:17.000Z"
-    },
-    {
-      "id": "n_c545b5129d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Auf der Flucht: Viele Tote bei Schiffsunglück vor Dschibuti",
-      "summary": "Vor der Küste Dschibutis hat sich ein schweres Unglück ereignet. Mehr als hundert Menschen kamen ums Leben. Ebenso viele werden noch vermisst. Sie hatten sich ein besseres Leben auf der arabischen Halbinsel erhofft.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/schiffsungueck-dschibuti-100.html",
-      "publishedAt": "2026-10-11T14:32:56.000Z"
     },
     {
       "id": "n_2c4a89f29e",
@@ -266,6 +266,50 @@
       "publishedAt": "2026-10-11T09:32:02.000Z"
     },
     {
+      "id": "n_a4f40d7918",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T22:45:58.000Z"
+    },
+    {
+      "id": "n_551382d9bf",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "summary": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T21:36:40.000Z"
+    },
+    {
+      "id": "n_8fc8100116",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "summary": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T21:12:44.000Z"
+    },
+    {
+      "id": "n_64af34442e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: What's behind Trump's energy ceasefire claim?",
+      "summary": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T20:55:02.000Z"
+    },
+    {
       "id": "n_7a7e4dd6e3",
       "type": "news",
       "topic": "general",
@@ -286,17 +330,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-11T17:27:24.000Z"
-    },
-    {
-      "id": "n_a4f40d7918",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Saudi capital airport hit by second Houthi strike in two days",
-      "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T16:41:37.000Z"
     },
     {
       "id": "n_e66dbca8e8",
@@ -321,37 +354,15 @@
       "publishedAt": "2026-10-11T15:32:23.000Z"
     },
     {
-      "id": "n_14570dd046",
+      "id": "n_cc70a9dda9",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Poland stabbings driven by online glorification of violence, Tusk says",
-      "summary": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
+      "headline": "AI is less regulated than milk, says Microsoft president",
+      "summary": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T15:18:52.000Z"
-    },
-    {
-      "id": "n_56c1dab03b",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-      "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T14:38:10.000Z"
-    },
-    {
-      "id": "n_0db1cf89e8",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Pope Leo to have surgery after lump found on lung",
-      "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T13:38:55.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T23:07:35.000Z"
     },
     {
       "id": "n_94e53ad190",
@@ -431,15 +442,15 @@
       "publishedAt": "2026-10-09T09:30:49.000Z"
     },
     {
-      "id": "n_fe6a8c17ea",
+      "id": "n_eb8e79306f",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
-      "summary": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T07:14:30.000Z"
+      "headline": "Review: 4-hour Musk documentary feels like two different films",
+      "summary": "Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
+      "publishedAt": "2026-10-11T18:10:54.000Z"
     },
     {
       "id": "n_8f7a2e10eb",
@@ -447,7 +458,7 @@
       "topic": "tech",
       "lang": "en",
       "headline": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
-      "summary": "Also: new trailer for Godzilla Minus Zero, the sequel to Takashi Yamazaki’s kaiju epic, Godzilla Minus One",
+      "summary": "Also: new trailer for Godzilla Minus Zero, the sequel to Takashi Yamazaki’s kaiju epic Godzilla Minus One",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
       "publishedAt": "2026-10-11T14:50:24.000Z"
@@ -519,15 +530,15 @@
       "publishedAt": "2026-10-09T21:05:01.000Z"
     },
     {
-      "id": "n_9f4f46039e",
+      "id": "n_2a599db62b",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "AI coding agents generate more code, but not more software",
-      "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "publishedAt": "2026-10-09T19:43:50.000Z"
+      "headline": "Will the HomeView be Apple’s first smart home success?",
+      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "publishedAt": "2026-10-11T21:14:40.000Z"
     },
     {
       "id": "n_e380f02bc2",
@@ -605,17 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "publishedAt": "2026-10-10T14:00:00.000Z"
-    },
-    {
-      "id": "n_cf5de6151a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "publishedAt": "2026-10-10T00:18:32.000Z"
     },
     {
       "id": "n_7ec8afeed3",
@@ -968,198 +968,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/open-tts-leaderboard",
       "publishedAt": "2026-09-30T00:00:00.000Z"
-    },
-    {
-      "id": "n_b35e5f2d2e",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek Solved AI’s Memory Problem",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
-      "thumbnail": "https://i.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg",
-      "publishedAt": "2026-10-11T16:53:17.000Z"
-    },
-    {
-      "id": "n_b84db88632",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepMind's New AI Just Cracked The Code Of Life",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-      "thumbnail": "https://i.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg",
-      "publishedAt": "2026-10-07T13:29:33.000Z"
-    },
-    {
-      "id": "n_bd6c6dc0e0",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Billion Dollar AI Advantage Is Disappearing",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
-      "thumbnail": "https://i.ytimg.com/vi/ZHVNTTKu9fU/hqdefault.jpg",
-      "publishedAt": "2026-10-05T09:53:12.000Z"
-    },
-    {
-      "id": "n_b7d9300382",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-      "thumbnail": "https://i.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg",
-      "publishedAt": "2026-09-24T08:40:55.000Z"
-    },
-    {
-      "id": "n_c21d60498a",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
-      "publishedAt": "2026-09-17T00:34:47.000Z"
-    },
-    {
-      "id": "n_ffdb3dfd14",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
-      "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_6a18d8c315",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
-      "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
-      "publishedAt": "2026-08-12T12:57:24.000Z"
-    },
-    {
-      "id": "n_49a7d5405f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
-      "publishedAt": "2026-07-28T20:02:11.000Z"
-    },
-    {
-      "id": "n_e2b44e6c52",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "A $6.3 billion open-weight model just got embarrassed by the French...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=WrCjAAl9okA",
-      "thumbnail": "https://i.ytimg.com/vi/WrCjAAl9okA/hqdefault.jpg",
-      "publishedAt": "2026-10-07T20:24:27.000Z"
-    },
-    {
-      "id": "n_f16ac80d2c",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "PewDiePie is setting AI free... and OpenAI is furious",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=_5p1_TNSWqQ",
-      "thumbnail": "https://i.ytimg.com/vi/_5p1_TNSWqQ/hqdefault.jpg",
-      "publishedAt": "2026-10-05T20:34:44.000Z"
-    },
-    {
-      "id": "n_c41b12c55b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The one OpenAI announcement that can actually make you money...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=No-JPdFvYWU",
-      "thumbnail": "https://i.ytimg.com/vi/No-JPdFvYWU/hqdefault.jpg",
-      "publishedAt": "2026-10-01T19:34:14.000Z"
-    },
-    {
-      "id": "n_a9f950b2ca",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did a 50 year old military secret just solve agent prompt injection?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=I_KVMFrUtPk",
-      "thumbnail": "https://i.ytimg.com/vi/I_KVMFrUtPk/hqdefault.jpg",
-      "publishedAt": "2026-09-30T17:16:43.000Z"
-    },
-    {
-      "id": "n_aebf4e4806",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "WTF is a Googlebook?",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=_0G4OG39XjI",
-      "thumbnail": "https://i.ytimg.com/vi/_0G4OG39XjI/hqdefault.jpg",
-      "publishedAt": "2026-10-08T21:00:40.000Z"
-    },
-    {
-      "id": "n_7275c2b067",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Xiaomi 18 Fold: How Does This Happen?",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=3iRUwVzRDZQ",
-      "thumbnail": "https://i.ytimg.com/vi/3iRUwVzRDZQ/hqdefault.jpg",
-      "publishedAt": "2026-10-02T20:50:25.000Z"
-    },
-    {
-      "id": "n_e3a30325d8",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Dear YouTube!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=e1q-TuHdc4Y",
-      "thumbnail": "https://i.ytimg.com/vi/e1q-TuHdc4Y/hqdefault.jpg",
-      "publishedAt": "2026-09-30T14:42:19.000Z"
-    },
-    {
-      "id": "n_c2970a76ed",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Nothing Headphone 1 Pro: They Copied the Wrong Thing!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=rayrrXot17M",
-      "thumbnail": "https://i.ytimg.com/vi/rayrrXot17M/hqdefault.jpg",
-      "publishedAt": "2026-09-29T01:01:35.000Z"
     }
   ]
 }
