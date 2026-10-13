@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-10-12T20:30:21.581Z",
+  "generatedAt": "2026-10-13T02:17:19.265Z",
   "items": [
+    {
+      "id": "n_8dec14bed4",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Rücktritt von Bärbel Bas: Neue Hoffnung für Koalition?",
+      "summary": "Ist der Rücktritt von Bärbel Bas eine Chance für einen Neuanfang in der Koalition? Kanzler Merz verspricht sich einiges von Schweitzer - doch sicher ist nichts im politischen Berlin. Von Dagmar Pepping.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-koalition-100.html",
+      "publishedAt": "2026-10-13T01:38:12.000Z"
+    },
+    {
+      "id": "n_83b9b34a29",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Autoindustrie: VW in der Slowakei - hoffnungsvolle Krise?",
+      "summary": "In Bratislava steht das zweitgrößte Werk von Volkswagen - eines der modernsten. Dennoch könnte es schrumpfen. Doch es gibt Hoffnung in der Slowakei, deren Einwohner weltweit am meisten Autos pro Kopf produzieren. Von M. Allweiss.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-slowakei-hoffnung-100.html",
+      "publishedAt": "2026-10-13T00:10:57.000Z"
+    },
+    {
+      "id": "n_85ca578caa",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Riad erneut von Explosionen erschüttert - Abschuss von Rakete gemeldet",
+      "summary": "In der saudischen Hauptstadt Riad ist es erneut zu Explosionen gekommen. Offenbar wurde eine von der Huthi-Miliz abgefeuerte Rakete zerstört. Die Bewohner waren zuvor vor einer \"feindlichen Bedrohung\" gewarnt worden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/saudi-arabien-angriff-100.html",
+      "publishedAt": "2026-10-12T21:03:44.000Z"
+    },
     {
       "id": "n_ad8374bd57",
       "type": "news",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/asien/israel-pressefreiheit-korrespondentin-taz-einreise-verweigert-100.html",
       "publishedAt": "2026-10-12T16:08:10.000Z"
-    },
-    {
-      "id": "n_eb9891cb83",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Interview mit Politologin Römmele: \"Bas hat einiges aushalten müssen\"",
-      "summary": "Der Unmut der Union habe sich oft gegen Arbeitsministerin Bas gerichtet, sagt Politikwissenschaftlerin Römmele im Interview. Politikern werde allgemein viel zugemutet. Auf das Reformtempo habe Bas' Rücktritt keine Auswirkung.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-interview-roemmele-100.html",
-      "publishedAt": "2026-10-12T16:04:04.000Z"
-    },
-    {
-      "id": "n_96f3d8f212",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "CDU nach Klausur: Näher an die Menschen",
-      "summary": "Die CDU will nach Wahlniederlagen mit alltagsnahen Maßnahmen wie günstigerem Strom, weniger Bürokratie und Fokus auf Wachstum Vertrauen zurückgewinnen. Außerdem setzt sie auf mehr Austausch mit der Basis. Von Jakob Mayr.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-strategie-merz-100.html",
-      "publishedAt": "2026-10-12T15:40:21.000Z"
-    },
-    {
-      "id": "n_387b51740e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Rücktritt von Bärbel Bas: Wollen wir so unerbittlich und gnadenlos sein?",
-      "summary": "Der Rücktritt von Arbeitsministerin Bas wirft Fragen auf. Sie begründet ihn mit der Trauer um ihre Stieftochter und mit \"öffentlichen Angriffen\" aus den Reihen des Koalitionspartners von der Union. Muss man das alles schlucken, fragt sich Georg Schwarte.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kommentar/ruecktritt-bas-102.html",
-      "publishedAt": "2026-10-12T15:20:35.000Z"
     },
     {
       "id": "n_f0bd1b7de2",
@@ -266,6 +266,83 @@
       "publishedAt": "2026-10-12T14:30:02.000Z"
     },
     {
+      "id": "n_c146a77e72",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T01:26:02.000Z"
+    },
+    {
+      "id": "n_7f359cce24",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Breaking Bad actor RJ Mitte dies aged 34",
+      "summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T00:12:25.000Z"
+    },
+    {
+      "id": "n_d7320b9b78",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Immigration agents search congresswoman Ilhan Omar's home",
+      "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T22:05:31.000Z"
+    },
+    {
+      "id": "n_410eece1f6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T21:20:51.000Z"
+    },
+    {
+      "id": "n_c9f82ed9d4",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Analysis: Trump's global headaches worsen weeks before crucial elections",
+      "summary": "As election day looms, the president turns his eyes overseas for help with a pressing domestic problem.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T21:07:25.000Z"
+    },
+    {
+      "id": "n_f0c7bbd986",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Qantas flight grounded after bedbug outbreak",
+      "summary": "The flight from Italy to Australia was cancelled after passengers on the plane's previous journey complained of bug bites.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T21:01:45.000Z"
+    },
+    {
+      "id": "n_59f8f65c00",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Pupil arrested after two teachers shot at French school",
+      "summary": "A 14-year-old was detained after the middle-school principal and teacher were injured.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-12T21:01:28.000Z"
+    },
+    {
       "id": "n_b7a10f8690",
       "type": "news",
       "topic": "general",
@@ -277,81 +354,15 @@
       "publishedAt": "2026-10-12T20:17:37.000Z"
     },
     {
-      "id": "n_1fae22144c",
+      "id": "n_f89ae431d3",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Fridges in French supermarkets hit by cyber attack",
-      "summary": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
+      "headline": "Bumble shares soar after report dating firm in $1bn takeover talks",
+      "summary": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T18:31:32.000Z"
-    },
-    {
-      "id": "n_410eece1f6",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-      "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T17:32:13.000Z"
-    },
-    {
-      "id": "n_59f8f65c00",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Pupil arrested after two teachers shot at French school",
-      "summary": "A 14-year-old was detained after the middle-school principal and teacher were injured.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T17:13:31.000Z"
-    },
-    {
-      "id": "n_d7320b9b78",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Immigration agents search Congresswoman Ilhan Omar's home",
-      "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T17:09:55.000Z"
-    },
-    {
-      "id": "n_993702dfd5",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "South Africa's deputy police chief resigns after being charged with sexual offences",
-      "summary": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T16:46:49.000Z"
-    },
-    {
-      "id": "n_18a7416e90",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Watch: What could Trump's energy ceasefire mean for Ukraine?",
-      "summary": "The BBC's Dan Johnson reports from Kyiv, where Ukrainians face another winter with electricity outages.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T15:51:30.000Z"
-    },
-    {
-      "id": "n_37f7a7a40e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Thousands march to Indian Supreme Court to demand election chief resign",
-      "summary": "The march follows a chaotic weekend in Delhi which saw thousands of protesters detained by police.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T15:19:17.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-13T01:50:47.000Z"
     },
     {
       "id": "n_f7a56ebdc9",
@@ -431,15 +442,59 @@
       "publishedAt": "2026-10-09T15:32:30.000Z"
     },
     {
-      "id": "n_753fc11ffd",
+      "id": "n_e71e24bf39",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Anthropic bans users from being 'cruel' to its AI systems",
-      "summary": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T12:34:27.000Z"
+      "headline": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
+      "summary": "As of Friday, state health officials reported 1,136 cases across 41 counties.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
+      "publishedAt": "2026-10-12T21:54:35.000Z"
+    },
+    {
+      "id": "n_37b5a1e81d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "publishedAt": "2026-10-12T20:59:50.000Z"
+    },
+    {
+      "id": "n_3389ac4661",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
+      "summary": "You can get a universe in your pocket if you have an iPhone 11 or later.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
+      "publishedAt": "2026-10-12T20:26:14.000Z"
+    },
+    {
+      "id": "n_9f52844271",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "WHO report on Russian lab worker death highlights \"key uncertainty\"",
+      "summary": "Without a cause of death, it's unclear if Russia's precautions were the right ones.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/",
+      "publishedAt": "2026-10-12T18:46:43.000Z"
+    },
+    {
+      "id": "n_b470d06273",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "publishedAt": "2026-10-12T18:21:36.000Z"
     },
     {
       "id": "n_b4c6a3e5aa",
@@ -473,61 +528,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
       "publishedAt": "2026-10-12T14:43:14.000Z"
-    },
-    {
-      "id": "n_57c9de67bc",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
-      "summary": "The Fitbit Edge offers more than the Air, but it's not a real smartwatch.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
-      "publishedAt": "2026-10-12T13:00:52.000Z"
-    },
-    {
-      "id": "n_5dfaa1d43f",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Amazon has over 1 million robot workers. What’s next for human employees?",
-      "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-      "publishedAt": "2026-10-12T12:43:10.000Z"
-    },
-    {
-      "id": "n_eb8e79306f",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Review: 4-hour Musk documentary feels like two different films",
-      "summary": "Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
-      "publishedAt": "2026-10-11T18:10:54.000Z"
-    },
-    {
-      "id": "n_8f7a2e10eb",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
-      "summary": "Also: New trailer for Godzilla Minus Zero, the sequel to Takashi Yamazaki’s kaiju epic Godzilla Minus One.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
-      "publishedAt": "2026-10-11T14:50:24.000Z"
-    },
-    {
-      "id": "n_8701263ea0",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "One with the world? A new look at brains transformed by psychedelics.",
-      "summary": "Participants meditated inside an MRI tube, with and without psilocybin.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
-      "publishedAt": "2026-10-10T11:15:35.000Z"
     },
     {
       "id": "n_80d24e1189",
@@ -968,150 +968,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/open-tts-leaderboard",
       "publishedAt": "2026-09-30T00:00:00.000Z"
-    },
-    {
-      "id": "n_b35e5f2d2e",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek Solved AI’s Memory Problem",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
-      "thumbnail": "https://i.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg",
-      "publishedAt": "2026-10-11T16:53:17.000Z"
-    },
-    {
-      "id": "n_b84db88632",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepMind's New AI Just Cracked The Code Of Life",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-      "thumbnail": "https://i.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg",
-      "publishedAt": "2026-10-07T13:29:33.000Z"
-    },
-    {
-      "id": "n_bd6c6dc0e0",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Billion Dollar AI Advantage Is Disappearing",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
-      "thumbnail": "https://i.ytimg.com/vi/ZHVNTTKu9fU/hqdefault.jpg",
-      "publishedAt": "2026-10-05T09:53:12.000Z"
-    },
-    {
-      "id": "n_b7d9300382",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-      "thumbnail": "https://i.ytimg.com/vi/SA9kdAX2Zj0/hqdefault.jpg",
-      "publishedAt": "2026-09-24T08:40:55.000Z"
-    },
-    {
-      "id": "n_c21d60498a",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
-      "publishedAt": "2026-09-17T00:34:47.000Z"
-    },
-    {
-      "id": "n_ffdb3dfd14",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
-      "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_6a18d8c315",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
-      "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
-      "publishedAt": "2026-08-12T12:57:24.000Z"
-    },
-    {
-      "id": "n_49a7d5405f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=XyXBwO5jYpw",
-      "thumbnail": "https://i.ytimg.com/vi/XyXBwO5jYpw/hqdefault.jpg",
-      "publishedAt": "2026-07-28T20:02:11.000Z"
-    },
-    {
-      "id": "n_4dbee190eb",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Every app on Earth is now open source... whether it likes it or not",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=wajoP_5Cpw8",
-      "thumbnail": "https://i.ytimg.com/vi/wajoP_5Cpw8/hqdefault.jpg",
-      "publishedAt": "2026-10-12T19:15:23.000Z"
-    },
-    {
-      "id": "n_e2b44e6c52",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "A $6.3 billion open-weight model just got embarrassed by the French...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=WrCjAAl9okA",
-      "thumbnail": "https://i.ytimg.com/vi/WrCjAAl9okA/hqdefault.jpg",
-      "publishedAt": "2026-10-07T20:24:27.000Z"
-    },
-    {
-      "id": "n_f16ac80d2c",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "PewDiePie is setting AI free... and OpenAI is furious",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=_5p1_TNSWqQ",
-      "thumbnail": "https://i.ytimg.com/vi/_5p1_TNSWqQ/hqdefault.jpg",
-      "publishedAt": "2026-10-05T20:34:44.000Z"
-    },
-    {
-      "id": "n_c41b12c55b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The one OpenAI announcement that can actually make you money...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=No-JPdFvYWU",
-      "thumbnail": "https://i.ytimg.com/vi/No-JPdFvYWU/hqdefault.jpg",
-      "publishedAt": "2026-10-01T19:34:14.000Z"
     },
     {
       "id": "n_aebf4e4806",
