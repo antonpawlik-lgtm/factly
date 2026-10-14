@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-10-14T00:00:04.866Z",
+  "generatedAt": "2026-10-14T03:51:33.104Z",
   "items": [
+    {
+      "id": "n_8e1d62cdd9",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Rüstungsindustrie: Engere deutsch-türkische Zusammenarbeit?",
+      "summary": "Die Zusammenarbeit bei Waffen- und Rüstungsgütern zwischen Deutschland und der Türkei ist eher gering. In Ankara versuchen Unternehmer nun auf der 4. Deutsch-Türkischen Wirtschaftskonferenz, diese zu vertiefen. Von C. Buttkereit.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/deutsch-tuerkische-wirtschaftskonferenz-100.html",
+      "publishedAt": "2026-10-14T03:24:11.000Z"
+    },
+    {
+      "id": "n_5f5d7ee9d6",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Selenskyj beklagt fehlende Warnung vor russischen Angriffen",
+      "summary": "Eine russische Rakete hat nach Angaben des ukrainischen Präsidenten Selenskyj ein Heizkraftwerk in Kiew getroffen. Wie er mitteilte, hatten die westlichen Verbündeten die Ukraine zuvor nicht vor dem Angriff gewarnt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/selenskyj-ukraine-angriffe-100.html",
+      "publishedAt": "2026-10-14T03:07:08.000Z"
+    },
+    {
+      "id": "n_757411394d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Finnland: KI-Boom auf Kosten der Natur?",
+      "summary": "Google will Milliarden in Finnlands digitale Infrastruktur investieren. Doch für ein geplantes Rechenzentrum wurden mehr als 300 Hektar Wald gerodet: offenbar ohne die vorgeschriebenen Genehmigungen. Von A. Bartram.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/finnland-google-rechenzentren-100.html",
+      "publishedAt": "2026-10-14T00:31:01.000Z"
+    },
     {
       "id": "n_d0d03e43c0",
       "type": "news",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/autobranche-hybride-eu-china-100.html",
       "publishedAt": "2026-10-13T18:03:27.000Z"
-    },
-    {
-      "id": "n_d34f62793e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "US-Botschafterin in Athen tritt auf Druck der US-Regierung zurück",
-      "summary": "Die US-Botschafterin in Athen, Guilfoyle, ist zurückgetreten. Zuvor hatte die US-Regierung sie wegen angeblichen Fehlverhaltens dazu aufgefordert. Es geht unter anderem um Kreditkartenschulden von 100.000 US-Dollar.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/us-botschaft-athen-100.html",
-      "publishedAt": "2026-10-13T18:02:23.000Z"
-    },
-    {
-      "id": "n_10cba3508d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wirtschaft im Jemen: Waffen statt Honig und Fisch",
-      "summary": "Der Krieg im Jemen bedroht nicht nur eine der wichtigsten Handelsrouten der Welt, sondern auch die lokale Wirtschaft. Viele Existenzen sind bedroht, die mögliche Teilung des Landes in Nord und Süd wird diskutiert. Von Ramin Sina.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/jemen-krieg-alltag-100.html",
-      "publishedAt": "2026-10-13T18:00:34.000Z"
-    },
-    {
-      "id": "n_d07ce71448",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Grüne und SPD in Berlin unterbrechen Sondierungen mit Linkspartei",
-      "summary": "In Berlin hat die Linkspartei die wegen ihrer Israel-Kritik umstrittene Abgeordnete Emde in die Fraktion aufgenommen. SPD und Grüne unterbrechen deshalb die Sondierungsgespräche für eine mögliche rot-rot-grüne Koalition.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-sondierungen-unterbrochen-102.html",
-      "publishedAt": "2026-10-13T17:49:07.000Z"
     },
     {
       "id": "n_542a4ab369",
@@ -266,6 +266,39 @@
       "publishedAt": "2026-10-13T15:43:02.000Z"
     },
     {
+      "id": "n_515fc0abcf",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T01:56:57.000Z"
+    },
+    {
+      "id": "n_14def571c6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "What we know about the man who died falling from a Six Flags rollercoaster",
+      "summary": "Hassan Jihad Ibn Kariem died on Monday after police say he was ejected from a ride at a Six Flags amusement park in Georgia.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T00:59:16.000Z"
+    },
+    {
+      "id": "n_3ba9283bc7",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T00:17:00.000Z"
+    },
+    {
       "id": "n_881c1b6b77",
       "type": "news",
       "topic": "general",
@@ -281,8 +314,8 @@
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Watch: 'Traumatic' - Witnesses recount moment man fell out of Six Flags roller coaster",
-      "summary": "One person has died and others were injured after an incident on a rollercoaster at an amusement park in the US state of Georgia.",
+      "headline": "Watch: Witnesses describe 'traumatic' moment man fell out of Six Flags rollercoaster",
+      "summary": "One person has died and others were injured after an incident at a US amusement park.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cqy8le2mrd0po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-13T23:42:15.000Z"
@@ -310,17 +343,6 @@
       "publishedAt": "2026-10-13T22:29:55.000Z"
     },
     {
-      "id": "n_515fc0abcf",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T22:14:33.000Z"
-    },
-    {
       "id": "n_df0dfb8f3f",
       "type": "news",
       "topic": "general",
@@ -330,28 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-13T22:07:40.000Z"
-    },
-    {
-      "id": "n_d214a34700",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
-      "summary": "As loneliness grows in China, a new industry is emerging to provide companionship and support.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T22:02:09.000Z"
-    },
-    {
-      "id": "n_b211db9580",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Who's to blame for the toxic smog choking South East Asia?",
-      "summary": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T22:01:43.000Z"
     },
     {
       "id": "n_773e9089fc",
