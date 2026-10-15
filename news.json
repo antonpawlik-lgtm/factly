@@ -1,16 +1,27 @@
 {
-  "generatedAt": "2026-10-15T02:05:52.773Z",
+  "generatedAt": "2026-10-15T07:47:00.742Z",
   "items": [
     {
-      "id": "n_cb9f915eac",
+      "id": "n_96c188a2a9",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Deutschlandweit: Alkoholverbot an Bahnhöfen in Kraft",
-      "summary": "Bundesweit gilt an allen rund 5.700 Stationen der Deutschen Bahn inklusive der Bahnsteige ab heute ein Alkoholverbot. Die Bahn erhofft sich davon mehr Sicherheit.",
+      "headline": "Sorge vor Spionage: Slowakei erneuert Militärkontakte mit Russland",
+      "summary": "Unter Premierminister Fico gilt die Slowakei schon länger als Putins Einfallstor in die EU. Umso bedenklicher ist, dass sein Land nun auch im Stillen die Militärkontakte mit Russland wieder aufgenommen hat. Von Marianne Allweiss.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/bahn-alkoholverbot-102.html",
-      "publishedAt": "2026-10-15T01:48:20.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/slowakei-fico-russland-102.html",
+      "publishedAt": "2026-10-15T07:24:38.000Z"
+    },
+    {
+      "id": "n_6642d4e19e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Alkoholverbot an Bahnhöfen: Mehr Sicherheit, weniger Konflikte?",
+      "summary": "Ab heute gilt das bundesweite Alkoholverbot an den Bahnhöfen der Deutschen Bahn. Der Konzern hofft, dass es damit zu weniger Konflikten kommt. In fast 40 Bahnhöfen wurde der Schritt bereits getestet. Von Jens Eberl.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/alkoholverbot-bahnhoefe-102.html",
+      "publishedAt": "2026-10-15T07:11:08.000Z"
     },
     {
       "id": "n_4ab906f5d7",
@@ -21,18 +32,29 @@
       "summary": "Nachdem SPD und Grüne die Sondierungen mit der Linkspartei unterbrochen hatten, geht es nun weiter. Alle Parteien verständigten sich, ihre Antisemitismus-Vereinbarung in einen möglichen Koalitionsvertrag aufzunehmen.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/regional/berlin/fortsetzung-sondierungen-berlin-100.html",
-      "publishedAt": "2026-10-14T20:33:16.000Z"
+      "publishedAt": "2026-10-15T06:59:22.000Z"
     },
     {
-      "id": "n_067492d5c8",
+      "id": "n_6fa2315d17",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Gesetzliche Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben",
-      "summary": "Gute Nachrichten für gesetzlich Versicherte: Der GKV-Schätzerkreis hat über den Zusatzbeitrag für das kommende Jahr beraten - mit dem Ergebnis, dass dieser stabil bleiben kann. Der Gesundheitsminister wertet die Entwicklung positiv.",
+      "headline": "Krieg gegen die Ukraine: Sorge vor dem Winter, Hoffen auf EU-Hilfe",
+      "summary": "Russlands Angriffe auf Energieanlagen bringen die Menschen in der Ukraine in Not. Ohne Strom und Wasser wächst die Sorge vor dem Winter. Präsident Selenskyj ringt um mehr Unterstützung aus Europa. Von Rebecca Barth.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html",
-      "publishedAt": "2026-10-14T20:01:02.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-288.html",
+      "publishedAt": "2026-10-15T06:01:26.000Z"
+    },
+    {
+      "id": "n_84f83f9b44",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: Börsen zwischen KI-Euphorie und Inflationssorgen",
+      "summary": "Die Berichtssaison und neue Konjunkturdaten geben den Takt vor. Im Mittelpunkt steht die Chipbranche: Nach optimistischen Geschäftsaussichten von ASML richtet sich der Blick auf den taiwanischen Chipkonzern TSMC.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
+      "publishedAt": "2026-10-15T05:45:57.000Z"
     },
     {
       "id": "n_038815d819",
@@ -43,51 +65,29 @@
       "summary": "In Essen sollen zwei Männer JVA-Beamte überwältigt und einen Häftling während eines Arztbesuches zur Flucht verholfen haben. Die Polizei ist im Großeinsatz und warnt, die Männer könnten bewaffnet sein.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flucht-haeftling-essen-100.html",
-      "publishedAt": "2026-10-14T19:03:00.000Z"
+      "publishedAt": "2026-10-15T04:41:00.000Z"
     },
     {
-      "id": "n_7c8d5b70c8",
+      "id": "n_aa627ce5ca",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Schutz vor Spionage - Bundeswehr darf Netzwerferdrohnen kaufen",
-      "summary": "Zum Schutz vor Spionage und Sabotage darf die Bundeswehr Netzwerferdrohnen kaufen. Das entschied der Haushaltsausschuss im Bundestag. Auch neue Feuereinheiten für das \"Patriot\"-Luftverteidigungssystem billigte er.",
+      "headline": "11KM-Podcast: EU-Comeback für Großbritannien?",
+      "summary": "Andy Burnham überrascht mit kritischen Äußerungen zum Brexit. Kommt Großbritannien zurück in die EU? 11KM über den \"Soft Socialist\" Burnham und wie der neue Premier die britische Politik prägt.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/ruestungsvorhaben-genehmigt-bundestag-100.html",
-      "publishedAt": "2026-10-14T18:29:12.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/podcast-11km-burnham-eu-comeback-100.html",
+      "publishedAt": "2026-10-15T04:29:37.000Z"
     },
     {
-      "id": "n_815b9ad32f",
+      "id": "n_0f907b4e38",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Marktbericht: DAX bleibt im Seitwärtstrend",
-      "summary": "DAX-Anleger haben sich heute zurückgehalten, der Index pendelt weiter um die Marke von 25.000 Punkten. Auch neue US-Inflationsdaten ändern daran nichts. Bestimmend bleibt der Stillstand in Nahost.",
+      "headline": "EU-Spitzen verhandeln über Haushalt - Deutschland will kürzen",
+      "summary": "Auf dem heutigen EU-Gipfel geht es um bis zu zwei Billionen Euro. Deutschland ist größter Nettozahler - nun will Kanzler Merz beim Haushalt bis 2034 kürzen. Bei anderen Verhandlern stößt das auf Unverständnis. Von J.-M. Magro.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html",
-      "publishedAt": "2026-10-14T16:24:05.000Z"
-    },
-    {
-      "id": "n_da84bf5daa",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Istanbuler Ex-Bürgermeister İmamoğlu sagt erstmals in Mammutprozess aus",
-      "summary": "Es ist ein Mammutprozess gegen die Istanbuler Stadtverwaltung und den abgesetzten Bürgermeister: İmamoğlu hat nach mehr als anderthalb Jahren U-Haft erstmals vor Gericht ausgesagt. Parallel stürmte die Polizei den TV-Sender Halk TV. Von B. Weber.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/tuerkei-imamoglu-prozess-110.html",
-      "publishedAt": "2026-10-14T16:20:57.000Z"
-    },
-    {
-      "id": "n_6b27b4f3ad",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Ukraine kritisiert fehlende US-Unterstützung - NATO und EU widersprechen",
-      "summary": "Die Ukraine ist beim Abwehrkampf gegen Russland auf Geheimdienstinformationen der USA angewiesen - doch die sollen vor neuen russischen Angriffen ausgeblieben sein. Präsident Selenskyj übt Kritik. EU und NATO beschwichtigen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-selenskyj-fehlende-warnung-100.html",
-      "publishedAt": "2026-10-14T15:33:55.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-haushalt-102.html",
+      "publishedAt": "2026-10-15T03:15:14.000Z"
     },
     {
       "id": "n_257d5e4eff",
@@ -178,92 +178,147 @@
       "publishedAt": "2026-10-13T05:52:00.000Z"
     },
     {
-      "id": "n_5820cb0439",
+      "id": "n_7f79e9e87a",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Victorinox Huntsman mit 15 Funktionen bei Amazon nun unter 26 Euro",
-      "summary": "Wer genau hinschaut, findet bei Amazon das beliebte Schweizer Taschenmesser Victorinox Huntsman für unter 26 Euro. (Victorinox, Technik/Hardware)",
+      "headline": "Mobile Klimaanlage: AEG Roomovi fordert die Portasplit heraus",
+      "summary": "Die AEG Roomovi soll 2027 kommen. Ihr Innengerät wiegt 9,5 kg weniger als das der Midea Portasplit. (Wärmepumpe, Energie & Klima)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-victorinox-huntsman-mit-15-funktionen-bei-amazon-nun-unter-26-euro-2610-214118.html",
-      "publishedAt": "2026-10-14T16:46:02.000Z"
+      "url": "https://www.golem.de/news/mobile-klimaanlage-aeg-roomovi-fordert-die-portasplit-heraus-2610-214129.html",
+      "publishedAt": "2026-10-15T07:29:02.000Z"
     },
     {
-      "id": "n_1e0c21978b",
+      "id": "n_4b30a0e031",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Zero Trust: Von den Grundlagen zur Implementierung",
-      "summary": "Zero Trust Security erfordert einen Plan für die Umsetzung. Ein Online-Workshop vermittelt Grundlagen und Handlungsempfehlungen für die Implementierung. (Golem Karrierewelt, Server-Applikationen)",
+      "headline": "Reparaturpreise: Displayreparatur des iPhone Duo kostet ein neues Smartphone",
+      "summary": "Besitzer des iPhone Duo sollten mit dem Gerät vorsichtig umgehen, anderenfalls kostet das schnell weit mehr als 1.000 Euro. (iPhone Duo, Smartphone)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-zero-trust-von-den-grundlagen-zur-implementierung-2610-214031.html",
-      "publishedAt": "2026-10-14T16:45:02.000Z"
+      "url": "https://www.golem.de/news/reparaturpreise-displayreparatur-des-iphone-duo-kostet-ein-neues-smartphone-2610-214127.html",
+      "publishedAt": "2026-10-15T07:12:02.000Z"
     },
     {
-      "id": "n_8d1e8870c9",
+      "id": "n_4d9f083b10",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) Künstliche Intelligenz: Treffen sich 14 KI-Agenten",
-      "summary": "Was besprechen KI-Agenten miteinander? Die New York Times hat bei einer virtuellen Dinnerparty mitgelesen. Unsere heutige Redaktionsempfehlung. Von Erin Griffith (KI, Software)",
+      "headline": "Anzeige: Von der Buchung bis zum Boarding: Geschäftsreisen effektiv planen",
+      "summary": "Von der Buchung über Versicherung und Lounge bis zu Mobilität und Reisekosten: So holst du aus einer Geschäftsreise das Beste für dein Business raus. (Reisen, Wirtschaft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/kuenstliche-intelligenz-treffen-sich-14-ki-agenten-2610-214113.html",
-      "publishedAt": "2026-10-14T16:00:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-von-der-buchung-bis-zum-boarding-geschaeftsreisen-effektiv-planen-2610-213907.html",
+      "publishedAt": "2026-10-15T07:00:02.000Z"
     },
     {
-      "id": "n_23cc9558fa",
+      "id": "n_7e9769de22",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Gegen Anthropic und OpenAI: EU leitet offizielles Verfahren wegen Hugging-Face-Hack ein",
-      "summary": "Weil die freiwillig eingereichten Auskünfte von Anthropic und OpenAI unzureichend waren, ermittelt die EU-Kommission nun offiziell. (AI Act, KI)",
+      "headline": "Cloudsouveränität: Tech-Lobby warnt vor 115-Milliarden-Rechnung für Europa",
+      "summary": "Die Lobby von Amazon, Google und Meta beziffert die Kosten des EU-Cloudgesetzes CADA. Die Zahl beruht auf vagen Annahmen. (Wirtschaft, EU-Kommission)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/gegen-anthropic-und-openai-eu-leitet-offizielles-verfahren-wegen-hugging-face-hack-ein-2610-214116.html",
-      "publishedAt": "2026-10-14T15:33:01.000Z"
+      "url": "https://www.golem.de/news/cloudsouveraenitaet-tech-lobby-warnt-vor-115-milliarden-rechnung-fuer-europa-2610-214128.html",
+      "publishedAt": "2026-10-15T06:56:02.000Z"
     },
     {
-      "id": "n_0f66f19019",
+      "id": "n_37dead090c",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Löschung inaktiver Konten: Paypal-Warnhinweis verwirrt Nutzer",
-      "summary": "Paypal-Nutzer erhalten derzeit Hinweise über die Löschung eines inaktiven Kontos. Das ist zwar kein Phishing, aber gerade deshalb verwirrend. (Paypal, Phishing)",
+      "headline": "Xpeng Next Generation Pilot: Fahrerlos durch Paris",
+      "summary": "Xpeng zeigt seinen Next Generation Pilot im Praxistest. Während der Automesse in Paris findet der L03 mit seinem Level-2++-System den Weg durch Kreisverkehre. Ein Bericht von Dirk Kunde (Elektroauto, Auto)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/loeschung-inaktiver-konten-paypal-benachrichtigung-verwirrt-nutzer-2610-214115.html",
-      "publishedAt": "2026-10-14T15:17:01.000Z"
+      "url": "https://www.golem.de/news/xpeng-next-generation-pilot-fahrerlos-durch-paris-2610-214120.html",
+      "publishedAt": "2026-10-15T06:39:02.000Z"
     },
     {
-      "id": "n_b2a40b5ed2",
+      "id": "n_3b38ff9e5d",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: WLAN-Repeater mit bis zu 1,2 GBbit/s für 24,55 Euro bei Amazon",
-      "summary": "Ein WLAN-Repeater von TP-Link mit bis zu 1,2 GBit/s Dualband-Gesamtleistung, Gigabit-LAN und EasyMesh-Funktion ist bei Amazon reduziert. (TP-Link, Technik/Hardware)",
+      "headline": "Jugendschutz: Acht US-Bundesstaaten verklagen OpenAI",
+      "summary": "ChatGPT soll Minderjährige gefährden und Wahnvorstellungen verstärken. Daher ziehen US-Bundesstaaten nun gegen OpenAI vor Gericht. (OpenAI, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-wlan-repeater-mit-bis-zu-1-2-gbbit-s-fuer-24-55-euro-bei-amazon-2610-214114.html",
-      "publishedAt": "2026-10-14T15:10:02.000Z"
+      "url": "https://www.golem.de/news/jugendschutz-acht-us-bundesstaaten-verklagen-openai-2610-214126.html",
+      "publishedAt": "2026-10-15T06:36:01.000Z"
     },
     {
-      "id": "n_d2af2fe358",
+      "id": "n_eef02b5aa6",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Exaring-Übernahme: Freenet verhindert IPO und schluckt Waipu.tv samt Glasfasernetz",
-      "summary": "Freenet übernimmt die verbleibenden 25 Prozent an Exaring für einen stolzen Preis. Damit sichert sich der MVNO-Konzern die volle Kontrolle über Waipu.tv und dessen Glasfasernetz mit 12.000 Kilometern Länge. (Freenet, Glasfaser)",
+      "headline": "Firewall und Sicherheit: Microsoft Defender kommt für Linux-Desktops",
+      "summary": "Microsoft weitet das Security-Tool auf Linux-Systeme aus. Dabei werden die Features für Linux-Server direkt übernommen. (Microsoft 365, Server)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/exaring-uebernahme-freenet-verhindert-ipo-und-schluckt-waipu-tv-samt-glasfasernetz-2610-214112.html",
-      "publishedAt": "2026-10-14T14:48:02.000Z"
+      "url": "https://www.golem.de/news/firewall-und-sicherheit-microsoft-defender-kommt-fuer-linux-desktops-2610-214125.html",
+      "publishedAt": "2026-10-15T06:25:02.000Z"
     },
     {
-      "id": "n_fda5d24b3f",
+      "id": "n_d75708f261",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Meta-Analyse: Energiewende kostet 3,6 Billionen Euro und spart Milliarden",
-      "summary": "Die Auswertung zahlreicher Szenarien für die Energiewende zeigt, dass diese einen ganzen Wirtschaftszweig stärken könnte. Eine Verzögerung würde hingegen Milliarden kosten. (Energiewende, Solarenergie)",
+      "headline": "Photovoltaik auf dem Dach: Elf Verbände wollen Solaraufschlag von 165 Euro verhindern",
+      "summary": "Die Solarbranche stemmt sich gegen den Plan der Bundesnetzagentur, der Besitzer größerer Photovoltaikanlagen finanziell zusätzlich belasten soll. (Solarenergie, Bundesnetzagentur)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/meta-analyse-energiewende-kostet-3-6-billionen-euro-und-spart-milliarden-2610-214110.html",
-      "publishedAt": "2026-10-14T14:27:01.000Z"
+      "url": "https://www.golem.de/news/photovoltaik-auf-dem-dach-elf-verbaende-wollen-solaraufschlag-von-165-euro-verhindern-2610-214124.html",
+      "publishedAt": "2026-10-15T06:07:02.000Z"
+    },
+    {
+      "id": "n_ebce4d43dc",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Anthropic flags revenue surge to investors ahead of stock market debut",
+      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T07:20:45.000Z"
+    },
+    {
+      "id": "n_714d1f0b72",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+      "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T04:30:08.000Z"
+    },
+    {
+      "id": "n_759806f2bc",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
+      "summary": "Thick orange smog descended on the Indonesian city of Palangka Raya as wildfires continue raging nearby.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T03:26:36.000Z"
+    },
+    {
+      "id": "n_6c1b2e285c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "White House defends new press secretary amid questions about her legal credentials",
+      "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T03:03:16.000Z"
+    },
+    {
+      "id": "n_10ec149850",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
+      "summary": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers said in a letter.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T02:26:07.000Z"
     },
     {
       "id": "n_32af9a22a7",
@@ -277,92 +332,15 @@
       "publishedAt": "2026-10-14T22:31:10.000Z"
     },
     {
-      "id": "n_714d1f0b72",
+      "id": "n_68e8932496",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-      "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+      "headline": "Inside Brooklyn novelty shop at centre of 'surreal' row with Kelly Clarkson over mechanical bird",
+      "summary": "Art of Play says its staff have been threatened after the singer complained online about how she was treated.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T20:55:24.000Z"
-    },
-    {
-      "id": "n_ff4c841e83",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Why Zelensky's meeting with Burnham matters",
-      "summary": "Prime Minister Andy Burnham welcomed President Zelensky to Downing Street on Wednesday, as Ukraine's leader looks to shore up his European allies five years into Russia's war on Ukraine.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T20:41:03.000Z"
-    },
-    {
-      "id": "n_2eb83a2c23",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Student protesters attack government buildings in Albania",
-      "summary": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T20:29:05.000Z"
-    },
-    {
-      "id": "n_1938d0f50d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Why is Starlink internet so important on the battlefield in Ukraine?",
-      "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T19:52:04.000Z"
-    },
-    {
-      "id": "n_19370bf04b",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "What if you could turn off your algorithm? Australia is about to try",
-      "summary": "New legislation is being tabled in Australia's parliament on Thursday to force big tech to allow users to switch off algorithms which send them recommended content.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T18:00:54.000Z"
-    },
-    {
-      "id": "n_ba8c90cbca",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Kenya confirms second Ebola case - a relative of the first victim",
-      "summary": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T17:23:01.000Z"
-    },
-    {
-      "id": "n_fad7741422",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-      "summary": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T16:47:32.000Z"
-    },
-    {
-      "id": "n_ebce4d43dc",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "AI giant Anthropic sees revenue surge ahead of stock market listing",
-      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T01:56:32.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T22:19:13.000Z"
     },
     {
       "id": "n_32f880d6d5",
@@ -530,6 +508,17 @@
       "publishedAt": "2026-10-14T19:10:58.000Z"
     },
     {
+      "id": "n_134069d447",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Figma announces new features to define how agents work on its platform",
+      "summary": "Figma is also releasing its code layers feature in open beta.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "publishedAt": "2026-10-15T04:30:00.000Z"
+    },
+    {
       "id": "n_f86858c1d8",
       "type": "news",
       "topic": "ai",
@@ -605,17 +594,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
       "publishedAt": "2026-10-14T15:13:24.000Z"
-    },
-    {
-      "id": "n_ecdf723c05",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-      "publishedAt": "2026-10-14T15:08:00.000Z"
     },
     {
       "id": "n_d1f8876dac",
@@ -968,6 +946,198 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/open-tts-leaderboard",
       "publishedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "n_3c1e366833",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "OpenAI’s New AI Is Doing Things We Barely Understand",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
+      "thumbnail": "https://i.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
+      "publishedAt": "2026-10-13T08:56:12.000Z"
+    },
+    {
+      "id": "n_b35e5f2d2e",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DeepSeek Solved AI’s Memory Problem",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
+      "thumbnail": "https://i.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg",
+      "publishedAt": "2026-10-11T16:53:17.000Z"
+    },
+    {
+      "id": "n_b84db88632",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DeepMind's New AI Just Cracked The Code Of Life",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
+      "thumbnail": "https://i.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg",
+      "publishedAt": "2026-10-07T13:29:33.000Z"
+    },
+    {
+      "id": "n_bd6c6dc0e0",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The Billion Dollar AI Advantage Is Disappearing",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
+      "thumbnail": "https://i.ytimg.com/vi/ZHVNTTKu9fU/hqdefault.jpg",
+      "publishedAt": "2026-10-05T09:53:12.000Z"
+    },
+    {
+      "id": "n_fb6a439eff",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
+      "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
+      "publishedAt": "2026-10-13T21:26:16.000Z"
+    },
+    {
+      "id": "n_c21d60498a",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
+      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
+      "publishedAt": "2026-09-17T00:34:47.000Z"
+    },
+    {
+      "id": "n_ffdb3dfd14",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
+      "publishedAt": "2026-08-26T21:44:41.000Z"
+    },
+    {
+      "id": "n_6a18d8c315",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
+      "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
+      "publishedAt": "2026-08-12T12:57:24.000Z"
+    },
+    {
+      "id": "n_6d057b2544",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "OpenAI’s lead engineer was secretly a spy...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=QZVzuq28eFw",
+      "thumbnail": "https://i.ytimg.com/vi/QZVzuq28eFw/hqdefault.jpg",
+      "publishedAt": "2026-10-14T17:48:10.000Z"
+    },
+    {
+      "id": "n_4dbee190eb",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Every app on Earth is now open source... whether it likes it or not",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=wajoP_5Cpw8",
+      "thumbnail": "https://i.ytimg.com/vi/wajoP_5Cpw8/hqdefault.jpg",
+      "publishedAt": "2026-10-12T19:15:23.000Z"
+    },
+    {
+      "id": "n_e2b44e6c52",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "A $6.3 billion open-weight model just got embarrassed by the French...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=WrCjAAl9okA",
+      "thumbnail": "https://i.ytimg.com/vi/WrCjAAl9okA/hqdefault.jpg",
+      "publishedAt": "2026-10-07T20:24:27.000Z"
+    },
+    {
+      "id": "n_f16ac80d2c",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "PewDiePie is setting AI free... and OpenAI is furious",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=_5p1_TNSWqQ",
+      "thumbnail": "https://i.ytimg.com/vi/_5p1_TNSWqQ/hqdefault.jpg",
+      "publishedAt": "2026-10-05T20:34:44.000Z"
+    },
+    {
+      "id": "n_55ef81df9d",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Apple Homeview Impressions: Not Convinced!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=QVv3mQzlrN0",
+      "thumbnail": "https://i.ytimg.com/vi/QVv3mQzlrN0/hqdefault.jpg",
+      "publishedAt": "2026-10-13T22:42:38.000Z"
+    },
+    {
+      "id": "n_aebf4e4806",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "WTF is a Googlebook?",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=_0G4OG39XjI",
+      "thumbnail": "https://i.ytimg.com/vi/_0G4OG39XjI/hqdefault.jpg",
+      "publishedAt": "2026-10-08T21:00:40.000Z"
+    },
+    {
+      "id": "n_7275c2b067",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Xiaomi 18 Fold: How Does This Happen?",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=3iRUwVzRDZQ",
+      "thumbnail": "https://i.ytimg.com/vi/3iRUwVzRDZQ/hqdefault.jpg",
+      "publishedAt": "2026-10-02T20:50:25.000Z"
+    },
+    {
+      "id": "n_e3a30325d8",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Dear YouTube!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=e1q-TuHdc4Y",
+      "thumbnail": "https://i.ytimg.com/vi/e1q-TuHdc4Y/hqdefault.jpg",
+      "publishedAt": "2026-09-30T14:42:19.000Z"
     }
   ]
 }
