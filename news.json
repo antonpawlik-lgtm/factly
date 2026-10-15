@@ -1,93 +1,148 @@
 {
-  "generatedAt": "2026-10-15T07:47:00.742Z",
+  "generatedAt": "2026-10-15T18:44:18.734Z",
   "items": [
     {
-      "id": "n_96c188a2a9",
+      "id": "n_672da1eb96",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Sorge vor Spionage: Slowakei erneuert Militärkontakte mit Russland",
-      "summary": "Unter Premierminister Fico gilt die Slowakei schon länger als Putins Einfallstor in die EU. Umso bedenklicher ist, dass sein Land nun auch im Stillen die Militärkontakte mit Russland wieder aufgenommen hat. Von Marianne Allweiss.",
+      "headline": "Bundeswehr: Vorwürfe sexuellen Fehlverhaltens in Weißenfels",
+      "summary": "Nach Berichten über sexuelles Fehlverhalten bei der Bundeswehr in Sachsen-Anhalt kündigt das Verteidigungsministerium Konsequenzen an. Doch wie tief sitzt das Problem in der Truppe wirklich? Von Christina Nagel.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/slowakei-fico-russland-102.html",
-      "publishedAt": "2026-10-15T07:24:38.000Z"
+      "url": "https://www.tagesschau.de/inland/bundeswehr-sexuelles-fehlverhalten-100.html",
+      "publishedAt": "2026-10-15T18:22:56.000Z"
     },
     {
-      "id": "n_6642d4e19e",
+      "id": "n_2a11f116ba",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Alkoholverbot an Bahnhöfen: Mehr Sicherheit, weniger Konflikte?",
-      "summary": "Ab heute gilt das bundesweite Alkoholverbot an den Bahnhöfen der Deutschen Bahn. Der Konzern hofft, dass es damit zu weniger Konflikten kommt. In fast 40 Bahnhöfen wurde der Schritt bereits getestet. Von Jens Eberl.",
+      "headline": "Ringen um neuen EU-Haushalt: Showdown in Zeitlupe",
+      "summary": "Die EU solle nicht so viel Geld ausgeben, findet Bundeskanzler Merz. Einige Länder sehen das genauso. Andere können den Sparvorschlägen nichts abgewinnen. Trotz klarer Fronten bleibt der große Knall im Ringen um den Haushalt aus. Von S. Stuchlik.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/alkoholverbot-bahnhoefe-102.html",
-      "publishedAt": "2026-10-15T07:11:08.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-beratungen-haushalt-100.html",
+      "publishedAt": "2026-10-15T18:05:32.000Z"
     },
     {
-      "id": "n_4ab906f5d7",
+      "id": "n_051bcbe13e",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Erklärung zu Antisemitismus - Sondierungen in Berlin gehen weiter",
-      "summary": "Nachdem SPD und Grüne die Sondierungen mit der Linkspartei unterbrochen hatten, geht es nun weiter. Alle Parteien verständigten sich, ihre Antisemitismus-Vereinbarung in einen möglichen Koalitionsvertrag aufzunehmen.",
+      "headline": "Warum sich die Ukraine ohne die Aufklärungsdaten der USA kaum verteidigen kann",
+      "summary": "Um sich verteidigen zu können, ist die Ukraine dringend auf Informationen aus den USA angewiesen. Doch genau dabei hakt es offenbar. Zudem gibt es Probleme mit dem Satellitendienst Starlink. Welche Folgen hat das? Und was steckt dahinter?",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/berlin/fortsetzung-sondierungen-berlin-100.html",
-      "publishedAt": "2026-10-15T06:59:22.000Z"
+      "url": "https://www.tagesschau.de/ukraine-usa-starlink-geheimdienste-100.html",
+      "publishedAt": "2026-10-15T17:17:37.000Z"
     },
     {
-      "id": "n_6fa2315d17",
+      "id": "n_7f0a6d560e",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Krieg gegen die Ukraine: Sorge vor dem Winter, Hoffen auf EU-Hilfe",
-      "summary": "Russlands Angriffe auf Energieanlagen bringen die Menschen in der Ukraine in Not. Ohne Strom und Wasser wächst die Sorge vor dem Winter. Präsident Selenskyj ringt um mehr Unterstützung aus Europa. Von Rebecca Barth.",
+      "headline": "Psychotherapie-Reform: Bundestag beschließt Korrekturen",
+      "summary": "Mit einer neuen Vergütungsregel will die Regierung bei der Psychotherapie sparen. Kinder und Schwerkranke sind ausgenommen. Fachverbände befürchten jedoch: Alle anderen könnten künftig länger auf einen Therapieplatz warten. Von S. Emminghaus.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-288.html",
-      "publishedAt": "2026-10-15T06:01:26.000Z"
+      "url": "https://www.tagesschau.de/wissen/gesundheit/psychotherapie-reform-korrekturen-100.html",
+      "publishedAt": "2026-10-15T17:16:11.000Z"
+    },
+    {
+      "id": "n_9d8a6730d7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Reiche muss Instagram-Video mit Vorwurf gegen Linke löschen",
+      "summary": "Bundeswirtschaftsministerin Reiche muss ein Instagram-Video über die Linke vorerst entfernen, in dem sie der Partei Antisemitismus vorwirft. Das entschied das Bundesverfassungsgericht in einem Eilverfahren. Von I. Sayram und J. Pentz.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/reiche-linke-instagram-100.html",
+      "publishedAt": "2026-10-15T16:35:05.000Z"
     },
     {
       "id": "n_84f83f9b44",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Marktbericht: Börsen zwischen KI-Euphorie und Inflationssorgen",
-      "summary": "Die Berichtssaison und neue Konjunkturdaten geben den Takt vor. Im Mittelpunkt steht die Chipbranche: Nach optimistischen Geschäftsaussichten von ASML richtet sich der Blick auf den taiwanischen Chipkonzern TSMC.",
+      "headline": "Marktbericht: DAX vom Tech-Ausverkauf kaum betroffen",
+      "summary": "Der DAX pendelt weiter um die Marke von 25.000 Punkten. Der weltweite Ausverkauf von Tech-Aktien hat den deutschen Leitindex nicht so stark getroffen - denn große Technologiewerte sind kaum vertreten.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html",
-      "publishedAt": "2026-10-15T05:45:57.000Z"
+      "publishedAt": "2026-10-15T16:32:51.000Z"
     },
     {
-      "id": "n_038815d819",
+      "id": "n_dbc605b7a6",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Unbekannte verhelfen Häftling in Essen während Arztbesuch zur Flucht",
-      "summary": "In Essen sollen zwei Männer JVA-Beamte überwältigt und einen Häftling während eines Arztbesuches zur Flucht verholfen haben. Die Polizei ist im Großeinsatz und warnt, die Männer könnten bewaffnet sein.",
+      "headline": "Trump sagt Livestream zu geplanter Hinrichtung von Attentäter ab",
+      "summary": "Die ganze Welt sollte zusehen, wie ein verurteilter Attentäter hingerichtet wird - nun hat US-Präsident Trump den geplanten Livestream abgesagt. Die Ankündigung von Verteidigungsminister Hegseth war auf Empörung gestoßen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/flucht-haeftling-essen-100.html",
-      "publishedAt": "2026-10-15T04:41:00.000Z"
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-livestream-hinrichtung-100.html",
+      "publishedAt": "2026-10-15T15:57:03.000Z"
     },
     {
-      "id": "n_aa627ce5ca",
+      "id": "n_dea137788d",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "11KM-Podcast: EU-Comeback für Großbritannien?",
-      "summary": "Andy Burnham überrascht mit kritischen Äußerungen zum Brexit. Kommt Großbritannien zurück in die EU? 11KM über den \"Soft Socialist\" Burnham und wie der neue Premier die britische Politik prägt.",
+      "headline": "Das sind die Pläne für den Ausweis auf dem Smartphone",
+      "summary": "Die Brieftasche soll digital werden: Der Bundestag hat neue Regelungen für Pässe und Ausweise auf den Weg gebracht. So kann künftig der Personalausweis auf dem Smartphone hinterlegt werden. Älteren Menschen sollen Behördengänge erspart bleiben.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/podcast-11km-burnham-eu-comeback-100.html",
-      "publishedAt": "2026-10-15T04:29:37.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/digitaler-personalausweis-100.html",
+      "publishedAt": "2026-10-15T15:53:10.000Z"
     },
     {
-      "id": "n_0f907b4e38",
+      "id": "n_48ffe6f043",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "EU-Spitzen verhandeln über Haushalt - Deutschland will kürzen",
-      "summary": "Auf dem heutigen EU-Gipfel geht es um bis zu zwei Billionen Euro. Deutschland ist größter Nettozahler - nun will Kanzler Merz beim Haushalt bis 2034 kürzen. Bei anderen Verhandlern stößt das auf Unverständnis. Von J.-M. Magro.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-haushalt-102.html",
-      "publishedAt": "2026-10-15T03:15:14.000Z"
+      "headline": "AEG will der Midea PortaSplit Konkurrenz machen",
+      "summary": "Ab 2027 haben Hitzegeplagte mehr Auswahl bei mobilen Split-Klimaanlagen. Von AEG kommt die Roomovi, die der PortaSplit ähnelt.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/AEG-will-der-Midea-PortaSplit-Konkurrenz-machen-11489814.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-15T16:19:00.000Z"
+    },
+    {
+      "id": "n_d9d2a54c52",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "„Drova 2“: Der Magdeburger Indie-Hit bekommt einen Nachfolger",
+      "summary": "Das Magdeburger Indie-Team Just2D kündigt „Drova 2“ an. Der Nachfolger des ruppigen Rollenspiel-Hits soll vor allem besser werden, nicht unbedingt größer.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Drova-2-Der-Magdeburger-Indie-Hit-bekommt-einen-Nachfolger-11489822.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-15T16:07:00.000Z"
+    },
+    {
+      "id": "n_666ce25b5d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "AdFection: Wie Online-Werbung zum Einfallstor für Staatstrojaner wird",
+      "summary": "Eine Studie des Citizen Lab enthüllt, dass globale Werbenetzwerke für gezielte Zero-Click-Spionageangriffe missbraucht werden. Auch Medienhäuser sind im Visier.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/AdFection-Wie-Online-Werbung-zum-Einfallstor-fuer-Staatstrojaner-wird-11489744.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-15T15:06:00.000Z"
+    },
+    {
+      "id": "n_55843a6fbc",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Astronomie: Weiße Zwergsterne können unerwartet farbig sein",
+      "summary": "Bei keinem Weißen Zwerg können Teleskope ermitteln, welche Farbe er für uns hätte. Das ist nun anders gelungen. Und die Ergebnisse sind unerwartet vielfältig.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Erster-gruener-und-bislang-roetester-Stern-Weisse-Zwerge-teils-ueberraschend-farbig-11489432.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-15T14:09:00.000Z"
+    },
+    {
+      "id": "n_600afda4d4",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Xbox Nano Controller: Microsoft schrumpft Gamepad auf 13 Zentimeter",
+      "summary": "Mit dem Xbox Nano bringt Microsoft einen besonders kleinen Controller auf den Markt. Das Gamepad wiegt knapp 100 Gramm und besitzt einen eingebauten Akku.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Xbox-Nano-Controller-Microsoft-schrumpft-Gamepad-auf-13-Zentimeter-11489263.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-15T10:48:00.000Z"
     },
     {
       "id": "n_257d5e4eff",
@@ -123,224 +178,202 @@
       "publishedAt": "2026-10-14T04:58:00.000Z"
     },
     {
-      "id": "n_542a4ab369",
+      "id": "n_fe60e206af",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "HomeView: Apples neue Heimzentrale in zweifacher Ausführung",
-      "summary": "Nach langer Wartezeit hat Apple sein neues Heimgerät fertig. Damit kommt nach der Apple Watch eine neue Produktreihe hinzu. EU-Bürger benötigen jedoch Geduld.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/HomeView-Apples-neue-Heimzentrale-in-zweifacher-Ausfuehrung-11484991.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-13T13:42:00.000Z"
-    },
-    {
-      "id": "n_9c0ad78a3c",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Nachfolger von lernen:digital: Initiative will es nun in die Schulen schaffen",
-      "summary": "Nach dem „Kompetenzverbund lernen:digital“ kommt die Initiative „Digitales Lehren und Lernen“ und will erneut Forschung in die Praxis bringen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Transferstelle-nimmt-Arbeit-auf-Forschung-soll-es-nun-in-die-Schulen-schaffen-11485517.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-13T09:19:00.000Z"
-    },
-    {
-      "id": "n_066230a8ef",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Mozilla startet Firefox Enterprise",
-      "summary": "Mozilla führt Firefox Enterprise ein. Der Business-Browser kann etwa unterbinden, dass Beschäftigte sensible Daten in nicht freigegebene KI-Dienste kopieren.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Firefox-Enterprise-Mozilla-startet-Business-Browser-11485341.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-13T07:52:00.000Z"
-    },
-    {
-      "id": "n_8f8f7f2fe4",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Skoda Epiq Sportline: Optisch nachgeschärft",
-      "summary": "Das kleine E-SUV Epiq bekommt eine optisch etwas flotter anmutende Ausstattungsvariante an die Seite gestellt. Die könnte für viele interessant sein.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Skoda-Epiq-Sportline-Optisch-nachgeschaerft-11485301.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-13T07:29:00.000Z"
-    },
-    {
-      "id": "n_78443c1908",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Distanzrekord auf einem anderen Himmelskörper: Perseverance überholt Opportunity",
-      "summary": "Seit Sonntag ist der NASA-Rover Perseverance auf dem Mars weiter gefahren als je ein Rover auf einem anderen Himmelskörper. Übertroffen hat er Opportunity.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/NASA-Rover-Perseverance-erreicht-neuen-Distanzrekord-auf-anderem-Himmelskoerper-11485227.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-13T05:52:00.000Z"
-    },
-    {
-      "id": "n_7f79e9e87a",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Mobile Klimaanlage: AEG Roomovi fordert die Portasplit heraus",
-      "summary": "Die AEG Roomovi soll 2027 kommen. Ihr Innengerät wiegt 9,5 kg weniger als das der Midea Portasplit. (Wärmepumpe, Energie & Klima)",
+      "headline": "Anzeige: Microsoft Copilot im Unternehmen gezielt einsetzen",
+      "summary": "Microsoft 365 Copilot wirft technische und organisatorische Fragen auf. Ein Workshop vermittelt Ansätze für den Einsatz im Unternehmen. (Golem Karrierewelt, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/mobile-klimaanlage-aeg-roomovi-fordert-die-portasplit-heraus-2610-214129.html",
-      "publishedAt": "2026-10-15T07:29:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-microsoft-copilot-im-unternehmen-gezielt-einsetzen-2610-213973.html",
+      "publishedAt": "2026-10-15T16:45:01.000Z"
     },
     {
-      "id": "n_4b30a0e031",
+      "id": "n_99d3240a50",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Reparaturpreise: Displayreparatur des iPhone Duo kostet ein neues Smartphone",
-      "summary": "Besitzer des iPhone Duo sollten mit dem Gerät vorsichtig umgehen, anderenfalls kostet das schnell weit mehr als 1.000 Euro. (iPhone Duo, Smartphone)",
+      "headline": "Anzeige: Etikettendrucker mit Tastatur und Bluetooth für unter 29 Euro bei Amazon",
+      "summary": "Der Supvan E11 druckt Etiketten ohne Tinte und lässt sich auch ohne Smartphone bedienen. Vier Etikettenrollen sind bereits enthalten. (Technik/Hardware, Amazon)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/reparaturpreise-displayreparatur-des-iphone-duo-kostet-ein-neues-smartphone-2610-214127.html",
-      "publishedAt": "2026-10-15T07:12:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-etikettendrucker-mit-tastatur-und-bluetooth-fuer-unter-29-euro-bei-amazon-2610-214162.html",
+      "publishedAt": "2026-10-15T16:27:02.000Z"
     },
     {
-      "id": "n_4d9f083b10",
+      "id": "n_3416590999",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Von der Buchung bis zum Boarding: Geschäftsreisen effektiv planen",
-      "summary": "Von der Buchung über Versicherung und Lounge bis zu Mobilität und Reisekosten: So holst du aus einer Geschäftsreise das Beste für dein Business raus. (Reisen, Wirtschaft)",
+      "headline": "Jobinterview: KI-Bot drückt Gehalt und vereinbart Termin ohne Bewerber",
+      "summary": "Einen KI-Bot als Begleiter in ein ebenfalls von KI geführtes Jobinterview mitzunehmen, bringt reichlich Chaos ins Bewerbungsgespräch. (KI, Interview)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-von-der-buchung-bis-zum-boarding-geschaeftsreisen-effektiv-planen-2610-213907.html",
-      "publishedAt": "2026-10-15T07:00:02.000Z"
+      "url": "https://www.golem.de/news/jobinterview-ki-bot-drueckt-gehalt-und-vereinbart-termin-ohne-bewerber-2610-214161.html",
+      "publishedAt": "2026-10-15T16:16:02.000Z"
     },
     {
-      "id": "n_7e9769de22",
+      "id": "n_65299b434a",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Cloudsouveränität: Tech-Lobby warnt vor 115-Milliarden-Rechnung für Europa",
-      "summary": "Die Lobby von Amazon, Google und Meta beziffert die Kosten des EU-Cloudgesetzes CADA. Die Zahl beruht auf vagen Annahmen. (Wirtschaft, EU-Kommission)",
+      "headline": "(g+) Japans Weltraumstrategie: Deutlich größere Weltraumbahnhöfe für deutlich mehr Raketenstarts",
+      "summary": "Japan will künftig 30 Raketen pro Jahr starten. Warum der Ausbau der Weltraumbahnhöfe auch eine Frage der Sicherheit ist, erklärt Nikkei Asia. Von Kenta Shimai (Weltall, Wirtschaft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/cloudsouveraenitaet-tech-lobby-warnt-vor-115-milliarden-rechnung-fuer-europa-2610-214128.html",
-      "publishedAt": "2026-10-15T06:56:02.000Z"
+      "url": "https://www.golem.de/news/japans-weltraumstrategie-deutlich-groessere-weltraumbahnhoefe-fuer-deutlich-mehr-raketenstarts-2610-214146.html",
+      "publishedAt": "2026-10-15T16:00:01.000Z"
     },
     {
-      "id": "n_37dead090c",
+      "id": "n_47766e92ba",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Xpeng Next Generation Pilot: Fahrerlos durch Paris",
-      "summary": "Xpeng zeigt seinen Next Generation Pilot im Praxistest. Während der Automesse in Paris findet der L03 mit seinem Level-2++-System den Weg durch Kreisverkehre. Ein Bericht von Dirk Kunde (Elektroauto, Auto)",
+      "headline": "Race 3S: Suunto stellt leichte Outdoor-Sportuhr mit KI-Trainer vor",
+      "summary": "Die Suunto Race 3S wiegt trotz 46-mm-Gehäuse mit Titanlünette nur 56 Gramm. Der Akku hält im Alltag bis zu zwölf Tage. (Suunto, Spiele)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/xpeng-next-generation-pilot-fahrerlos-durch-paris-2610-214120.html",
-      "publishedAt": "2026-10-15T06:39:02.000Z"
+      "url": "https://www.golem.de/news/race-3s-suunto-stellt-leichte-outdoor-sportuhr-mit-ki-trainer-vor-2610-214157.html",
+      "publishedAt": "2026-10-15T15:46:01.000Z"
     },
     {
-      "id": "n_3b38ff9e5d",
+      "id": "n_f248390b1b",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Jugendschutz: Acht US-Bundesstaaten verklagen OpenAI",
-      "summary": "ChatGPT soll Minderjährige gefährden und Wahnvorstellungen verstärken. Daher ziehen US-Bundesstaaten nun gegen OpenAI vor Gericht. (OpenAI, KI)",
+      "headline": "Erneuerbare Energie: Viele Gewinner, einige Verlierer durch Klimaschutz",
+      "summary": "Global wirken sich Energiewende und Klimaschutz unterschiedlich aus. Vermögen wird an einer Stelle entwertet, während es anderswo nachhaltiger entsteht. (Klimakrise, Wissenschaft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/jugendschutz-acht-us-bundesstaaten-verklagen-openai-2610-214126.html",
-      "publishedAt": "2026-10-15T06:36:01.000Z"
+      "url": "https://www.golem.de/news/erneuerbare-energie-viele-gewinner-einige-verlierer-durch-klimaschutz-2610-214160.html",
+      "publishedAt": "2026-10-15T15:30:01.000Z"
     },
     {
-      "id": "n_eef02b5aa6",
+      "id": "n_84cc1f5383",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Firewall und Sicherheit: Microsoft Defender kommt für Linux-Desktops",
-      "summary": "Microsoft weitet das Security-Tool auf Linux-Systeme aus. Dabei werden die Features für Linux-Server direkt übernommen. (Microsoft 365, Server)",
+      "headline": "Netzausbau: Noch kein Kostenvorteil durch Open RAN bei 1&1",
+      "summary": "Der 1&1- Mobilfunkchef will noch nicht damit werben, dass Open RAN günstiger sei, weil das erst in Zukunft so sei. Auch die Austauschbarkeit der Zulieferer ist komplizierter als gedacht. Ein Bericht von Achim Sawall (1&1, Nokia)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/firewall-und-sicherheit-microsoft-defender-kommt-fuer-linux-desktops-2610-214125.html",
-      "publishedAt": "2026-10-15T06:25:02.000Z"
+      "url": "https://www.golem.de/news/netzausbau-noch-kein-kostenvorteil-durch-open-ran-bei-1-1-2610-214155.html",
+      "publishedAt": "2026-10-15T15:14:01.000Z"
     },
     {
-      "id": "n_d75708f261",
+      "id": "n_724a9274f0",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Photovoltaik auf dem Dach: Elf Verbände wollen Solaraufschlag von 165 Euro verhindern",
-      "summary": "Die Solarbranche stemmt sich gegen den Plan der Bundesnetzagentur, der Besitzer größerer Photovoltaikanlagen finanziell zusätzlich belasten soll. (Solarenergie, Bundesnetzagentur)",
+      "headline": "Anzeige: Haribo-Ladegerät mit 65 W und Apple-Watch-Ladefläche für unter 14 Euro bei Amazon",
+      "summary": "Das 65-Watt-USB-Ladegerät im Haribo-Design lädt Smartphones, Notebooks und die Apple Watch. Bei Amazon ist es für unter 14 Euro erhältlich. (Technik/Hardware, Amazon)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/photovoltaik-auf-dem-dach-elf-verbaende-wollen-solaraufschlag-von-165-euro-verhindern-2610-214124.html",
-      "publishedAt": "2026-10-15T06:07:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-haribo-ladegeraet-mit-65-w-und-apple-watch-ladeflaeche-fuer-unter-14-euro-bei-amazon-2610-214158.html",
+      "publishedAt": "2026-10-15T15:05:01.000Z"
+    },
+    {
+      "id": "n_c1ef60b57a",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "An Australian band’s ‘unreal’ journey to break a gig world record",
+      "summary": "The dream rock band called Fathom travelled roughly 700km across Australia by car, helicopter and plane to play nine shows in 12 hours.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T18:09:58.000Z"
+    },
+    {
+      "id": "n_4732b5d0bc",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T17:47:22.000Z"
+    },
+    {
+      "id": "n_c6fa11337f",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
+      "summary": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T17:31:37.000Z"
+    },
+    {
+      "id": "n_76de81fb62",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
+      "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T17:18:49.000Z"
+    },
+    {
+      "id": "n_98fb856ff2",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T16:50:18.000Z"
+    },
+    {
+      "id": "n_ee02cd2b6e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
+      "summary": "Protests have taken place over the rules which have seen pupils wearing hijabs turned away from schools.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T16:15:06.000Z"
+    },
+    {
+      "id": "n_4dfeead038",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+      "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T15:26:16.000Z"
+    },
+    {
+      "id": "n_d12483a342",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: Pupils heard 'cracking' sound heard moments before Pakistan school roof collapse",
+      "summary": "Our Urdu correspondent reports from the scene in Peshawar, north-west Pakistan, where emergency services have been responding to the incident.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cmq8n5gv1pnpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T15:05:29.000Z"
+    },
+    {
+      "id": "n_364cd97854",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+      "summary": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T14:25:48.000Z"
     },
     {
       "id": "n_ebce4d43dc",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Anthropic flags revenue surge to investors ahead of stock market debut",
+      "headline": "AI giant Anthropic woos potential investors ahead of stock market debut",
       "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T07:20:45.000Z"
-    },
-    {
-      "id": "n_714d1f0b72",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-      "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T04:30:08.000Z"
-    },
-    {
-      "id": "n_759806f2bc",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
-      "summary": "Thick orange smog descended on the Indonesian city of Palangka Raya as wildfires continue raging nearby.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T03:26:36.000Z"
-    },
-    {
-      "id": "n_6c1b2e285c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "White House defends new press secretary amid questions about her legal credentials",
-      "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T03:03:16.000Z"
-    },
-    {
-      "id": "n_10ec149850",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
-      "summary": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers said in a letter.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-15T02:26:07.000Z"
-    },
-    {
-      "id": "n_32af9a22a7",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-      "summary": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T22:31:10.000Z"
-    },
-    {
-      "id": "n_68e8932496",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Inside Brooklyn novelty shop at centre of 'surreal' row with Kelly Clarkson over mechanical bird",
-      "summary": "Art of Play says its staff have been threatened after the singer complained online about how she was treated.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T22:19:13.000Z"
+      "publishedAt": "2026-10-15T11:34:55.000Z"
     },
     {
       "id": "n_32f880d6d5",
@@ -409,15 +442,48 @@
       "publishedAt": "2026-10-13T09:34:43.000Z"
     },
     {
-      "id": "n_f7a56ebdc9",
+      "id": "n_0b391494f3",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "AI minister warns 'likely' UK's cyber defences will be breached",
-      "summary": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T15:03:42.000Z"
+      "headline": "Rocket Lab announces another delay for its medium-lift Neutron rocket",
+      "summary": "Rocket Lab announced the Neutron rocket in 2021, aiming for a first flight in 2024.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
+      "publishedAt": "2026-10-15T16:57:24.000Z"
+    },
+    {
+      "id": "n_1cc24ddce8",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+      "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+      "publishedAt": "2026-10-15T15:43:24.000Z"
+    },
+    {
+      "id": "n_a112a9fc32",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
+      "summary": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
+      "publishedAt": "2026-10-15T15:12:58.000Z"
+    },
+    {
+      "id": "n_78ecdcfafc",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Rewilding could help vulnerable islands keep pace with rising seas",
+      "summary": "Seabirds, native plants, and healthy reefs can help atolls build as seas rise.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/10/seabirds-forests-and-coral-could-help-save-sinking-islands/",
+      "publishedAt": "2026-10-15T15:05:40.000Z"
     },
     {
       "id": "n_e0c7d4aa37",
@@ -464,48 +530,59 @@
       "publishedAt": "2026-10-14T20:48:07.000Z"
     },
     {
-      "id": "n_27c1883ddd",
+      "id": "n_788e1a7899",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Schools across US protest FCC plan that could disconnect kids from Internet",
-      "summary": "FCC chair threatens E-Rate fund, blames schools for kids' excessive screen time.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
-      "publishedAt": "2026-10-14T20:15:56.000Z"
+      "headline": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+      "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your bus",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+      "publishedAt": "2026-10-15T18:00:00.000Z"
     },
     {
-      "id": "n_b37970432b",
+      "id": "n_a040032c19",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation",
-      "summary": "Plaintiff claims cameras enabled warrantless tracking and monitoring after he previously sued over excessive force.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
-      "publishedAt": "2026-10-14T19:53:01.000Z"
+      "headline": "AI agents are coming to Rivian’s cars",
+      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "publishedAt": "2026-10-15T15:02:36.000Z"
     },
     {
-      "id": "n_6fef56417b",
+      "id": "n_b4faeb1cc1",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Software development and rules stability: Prototype racing in 2030",
-      "summary": "With the end of IMSA’s 2026 season, we have thoughts about the future of the sport.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/",
-      "publishedAt": "2026-10-14T19:44:26.000Z"
+      "headline": "Google’s Universal Cart shopping tool launches in the US",
+      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "publishedAt": "2026-10-15T14:29:33.000Z"
     },
     {
-      "id": "n_b946321ef1",
+      "id": "n_35dbf45b5a",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
-      "summary": "\"Have you ever seen a world born?\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
-      "publishedAt": "2026-10-14T19:10:58.000Z"
+      "headline": "TechCrunch Disrupt 2026: Last day",
+      "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+      "publishedAt": "2026-10-15T14:00:00.000Z"
+    },
+    {
+      "id": "n_a3fa54bbd5",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, wi",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "publishedAt": "2026-10-15T12:00:00.000Z"
     },
     {
       "id": "n_134069d447",
@@ -535,153 +612,98 @@
       "topic": "ai",
       "lang": "en",
       "headline": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tr",
+      "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
       "publishedAt": "2026-10-15T00:00:00.000Z"
     },
     {
-      "id": "n_bd61b92171",
+      "id": "n_c7cea461bd",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-      "publishedAt": "2026-10-14T21:30:33.000Z"
-    },
-    {
-      "id": "n_55222f2994",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-      "publishedAt": "2026-10-14T18:23:46.000Z"
-    },
-    {
-      "id": "n_619d87b09b",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "publishedAt": "2026-10-14T18:00:00.000Z"
-    },
-    {
-      "id": "n_9c18b5e1b4",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Deezer will soon let you filter out AI-generated music",
-      "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-      "publishedAt": "2026-10-14T15:16:04.000Z"
-    },
-    {
-      "id": "n_c16911033b",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-      "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-      "publishedAt": "2026-10-14T15:13:24.000Z"
-    },
-    {
-      "id": "n_d1f8876dac",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "McKinsey is making job applicants spar with a fake AI client",
-      "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKins",
+      "headline": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "summary": "The new Muse Spark Open AI model can work on M5 Ultra Mac Studios. | Photo: Amelia Holowaty Krales / The Verge Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first",
       "source": "The Verge",
-      "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-      "publishedAt": "2026-10-14T22:53:31.000Z"
+      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "publishedAt": "2026-10-15T18:15:36.000Z"
     },
     {
-      "id": "n_88ac6d1c3f",
+      "id": "n_1b6257d357",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
-      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizon",
+      "headline": "Friends don&#8217;t let friends feed their data to AI agents",
+      "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked n",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-      "publishedAt": "2026-10-14T21:11:28.000Z"
+      "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+      "publishedAt": "2026-10-15T16:21:45.000Z"
     },
     {
-      "id": "n_2fac9b6004",
+      "id": "n_97f8573c58",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "The AI race is back on",
-      "summary": "Mark Zuckerberg at the Meta Connect developer conference. | Photo: Andrej Sokolow/dpa/picture alliance via Getty Images Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the du",
+      "headline": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+      "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear a",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "publishedAt": "2026-10-14T19:06:03.000Z"
+      "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+      "publishedAt": "2026-10-15T14:30:00.000Z"
     },
     {
-      "id": "n_738aed8dcc",
+      "id": "n_f616628c13",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-      "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Charact",
+      "headline": "Nobody is safe from celebrity AI deepfakes",
+      "summary": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message: MY EX IS MY BIGGEST FAN. To really drive home",
       "source": "The Verge",
-      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-      "publishedAt": "2026-10-14T18:47:54.000Z"
+      "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+      "publishedAt": "2026-10-15T14:03:42.000Z"
     },
     {
-      "id": "n_939ecdfa50",
+      "id": "n_e86ff66c49",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "YouTube sticks new labels on AI-generated songs",
-      "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools in making music, but accordin",
+      "headline": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
+      "summary": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental music dating back decades. But in the last couple of years, he’s become a high-prof",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-      "publishedAt": "2026-10-14T18:22:56.000Z"
+      "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+      "publishedAt": "2026-10-15T14:00:00.000Z"
     },
     {
-      "id": "n_bba11107a8",
+      "id": "n_adaf79e50c",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "My AI doppelganger tells me what to eat",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past 100 days or so, my mornings have had a new rhythm. ",
+      "headline": "Google launches its &#8216;universal&#8217; online shopping cart ahead of the holidays",
+      "summary": "Save all of the products you’re browsing in one place. | Image: Google Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May is now r",
       "source": "The Verge",
-      "url": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
-      "publishedAt": "2026-10-14T17:00:00.000Z"
+      "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+      "publishedAt": "2026-10-15T13:00:00.000Z"
     },
     {
-      "id": "n_524e699eba",
+      "id": "n_b6af0c3578",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-      "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, includin",
+      "headline": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+      "summary": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them. First is the $74.99 Bee Frontier,",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
-      "publishedAt": "2026-10-14T16:43:24.000Z"
+      "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+      "publishedAt": "2026-10-15T12:00:00.000Z"
     },
     {
-      "id": "n_0784a13f07",
+      "id": "n_faf4d5dfcd",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Microsoft has a new machine learning tool to improve weather forecasts",
-      "summary": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with the company say they've found a new, cost-effective way to make more accurate we",
+      "headline": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+      "summary": "Eiliko. | Photo by Sean Hollister / The Verge There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI companion can",
       "source": "The Verge",
-      "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
-      "publishedAt": "2026-10-14T16:05:21.000Z"
+      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "publishedAt": "2026-10-15T11:00:00.000Z"
     },
     {
       "id": "n_089e26be9c",
@@ -860,6 +882,39 @@
       "publishedAt": "2026-10-13T10:00:00.000Z"
     },
     {
+      "id": "n_e3c36d4422",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Apertus 1.5 Release Notes",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "publishedAt": "2026-10-15T09:08:45.000Z"
+    },
+    {
+      "id": "n_9d251ac683",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "publishedAt": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "id": "n_3733c75a28",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Welcome FLUX.3 Image Klein in Diffusers",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/flux-3",
+      "publishedAt": "2026-10-15T00:00:00.000Z"
+    },
+    {
       "id": "n_672ebf75c4",
       "type": "news",
       "topic": "ai",
@@ -913,39 +968,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
       "publishedAt": "2026-10-07T12:45:31.000Z"
-    },
-    {
-      "id": "n_89764eae00",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The Agent Said It Was Done. The Database Disagreed.",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "publishedAt": "2026-10-03T22:56:48.000Z"
-    },
-    {
-      "id": "n_a885ed61f5",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "publishedAt": "2026-10-02T04:01:31.000Z"
-    },
-    {
-      "id": "n_581ab3112c",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "publishedAt": "2026-09-30T00:00:00.000Z"
     },
     {
       "id": "n_3c1e366833",
@@ -1044,6 +1066,18 @@
       "publishedAt": "2026-08-12T12:57:24.000Z"
     },
     {
+      "id": "n_0a3b2a8559",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The runtime wars are over... and Node won",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=l3L_lETiSzc",
+      "thumbnail": "https://i.ytimg.com/vi/l3L_lETiSzc/hqdefault.jpg",
+      "publishedAt": "2026-10-15T17:35:15.000Z"
+    },
+    {
       "id": "n_6d057b2544",
       "type": "video",
       "topic": "video",
@@ -1078,18 +1112,6 @@
       "url": "https://www.youtube.com/watch?v=WrCjAAl9okA",
       "thumbnail": "https://i.ytimg.com/vi/WrCjAAl9okA/hqdefault.jpg",
       "publishedAt": "2026-10-07T20:24:27.000Z"
-    },
-    {
-      "id": "n_f16ac80d2c",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "PewDiePie is setting AI free... and OpenAI is furious",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=_5p1_TNSWqQ",
-      "thumbnail": "https://i.ytimg.com/vi/_5p1_TNSWqQ/hqdefault.jpg",
-      "publishedAt": "2026-10-05T20:34:44.000Z"
     },
     {
       "id": "n_55ef81df9d",
