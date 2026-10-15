@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-14T21:02:42.851Z",
+  "generatedAt": "2026-10-15T02:05:52.773Z",
   "items": [
+    {
+      "id": "n_cb9f915eac",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Deutschlandweit: Alkoholverbot an Bahnhöfen in Kraft",
+      "summary": "Bundesweit gilt an allen rund 5.700 Stationen der Deutschen Bahn inklusive der Bahnsteige ab heute ein Alkoholverbot. Die Bahn erhofft sich davon mehr Sicherheit.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/bahn-alkoholverbot-102.html",
+      "publishedAt": "2026-10-15T01:48:20.000Z"
+    },
     {
       "id": "n_4ab906f5d7",
       "type": "news",
@@ -79,17 +90,6 @@
       "publishedAt": "2026-10-14T15:33:55.000Z"
     },
     {
-      "id": "n_c575aadf9a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Kanzler setzt auf gute Regierungsarbeit gegen Extremismus",
-      "summary": "In seiner Regierungserklärung betont der Kanzler, dass Deutschland unter Druck stehe wie \"vielleicht noch nie\". Unzufriedenheit führe zu Extremismus. Dem müsse man \"schöpferische Anstrengung\" entgegensetzen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/merz-regierungserklaerung-122.html",
-      "publishedAt": "2026-10-14T15:33:29.000Z"
-    },
-    {
       "id": "n_257d5e4eff",
       "type": "news",
       "topic": "tech",
@@ -128,7 +128,7 @@
       "topic": "tech",
       "lang": "de",
       "headline": "HomeView: Apples neue Heimzentrale in zweifacher Ausführung",
-      "summary": "Nach langer Wartezeit hat Apple sein neues Heimgerät fertig. Damit kommt nach der Apple Watch eine neue Modellreihe hinzu. EU-Bürger brauchen allerdings Geduld.",
+      "summary": "Nach langer Wartezeit hat Apple sein neues Heimgerät fertig. Damit kommt nach der Apple Watch eine neue Produktreihe hinzu. EU-Bürger benötigen jedoch Geduld.",
       "source": "heise online",
       "url": "https://www.heise.de/news/HomeView-Apples-neue-Heimzentrale-in-zweifacher-Ausfuehrung-11484991.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
       "publishedAt": "2026-10-13T13:42:00.000Z"
@@ -266,23 +266,45 @@
       "publishedAt": "2026-10-14T14:27:01.000Z"
     },
     {
+      "id": "n_32af9a22a7",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+      "summary": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T22:31:10.000Z"
+    },
+    {
       "id": "n_714d1f0b72",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+      "headline": "Musk says US government may be behind slowdown of Ukraine drone speeds",
       "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-14T20:55:24.000Z"
     },
     {
+      "id": "n_ff4c841e83",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Why Zelensky's meeting with Burnham matters",
+      "summary": "Prime Minister Andy Burnham welcomed President Zelensky to Downing Street on Wednesday, as Ukraine's leader looks to shore up his European allies five years into Russia's war on Ukraine.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T20:41:03.000Z"
+    },
+    {
       "id": "n_2eb83a2c23",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Student protesters attack government buildings in Tirana",
-      "summary": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.",
+      "headline": "Student protesters attack government buildings in Albania",
+      "summary": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-14T20:29:05.000Z"
@@ -332,20 +354,20 @@
       "publishedAt": "2026-10-14T16:47:32.000Z"
     },
     {
-      "id": "n_779a1c17bf",
+      "id": "n_ebce4d43dc",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Burnham says he wants to 'repair bridges' between Ukraine and US",
-      "summary": "It comes as the prime minister meets President Zelensky at Downing Street.",
+      "headline": "AI giant Anthropic sees revenue surge ahead of stock market listing",
+      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-14T15:56:57.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T01:56:32.000Z"
     },
     {
       "id": "n_32f880d6d5",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
       "headline": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
       "summary": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
@@ -420,15 +442,37 @@
       "publishedAt": "2026-10-12T15:03:42.000Z"
     },
     {
-      "id": "n_cc70a9dda9",
+      "id": "n_e0c7d4aa37",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "AI is less regulated than milk, says Microsoft president",
-      "summary": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T07:47:37.000Z"
+      "headline": "Fridge hack costing millions and sparking fires stemmed from poor security",
+      "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+      "publishedAt": "2026-10-14T21:35:09.000Z"
+    },
+    {
+      "id": "n_2af446043d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+      "summary": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+      "publishedAt": "2026-10-14T21:15:56.000Z"
+    },
+    {
+      "id": "n_6a3bee3a29",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+      "summary": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+      "publishedAt": "2026-10-14T21:03:11.000Z"
     },
     {
       "id": "n_36145f102d",
@@ -486,37 +530,37 @@
       "publishedAt": "2026-10-14T19:10:58.000Z"
     },
     {
-      "id": "n_224ee08187",
+      "id": "n_f86858c1d8",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Researchers use AI to design proteins that cut up other proteins",
-      "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
-      "publishedAt": "2026-10-14T17:10:15.000Z"
+      "headline": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "publishedAt": "2026-10-15T01:01:32.000Z"
     },
     {
-      "id": "n_c3523710f9",
+      "id": "n_5abc04e051",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-      "publishedAt": "2026-10-14T16:41:49.000Z"
+      "headline": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tr",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "publishedAt": "2026-10-15T00:00:00.000Z"
     },
     {
-      "id": "n_2e641857ea",
+      "id": "n_bd61b92171",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Legendary FPS level designer Richard \"Levelord\" Gray dies at 68",
-      "summary": "Tributes pour in for the man behind iconic Duke Nukem 3D levels and much more.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/10/legendary-fps-level-designer-richard-levelord-gray-passes-away-at-68/",
-      "publishedAt": "2026-10-14T16:02:08.000Z"
+      "headline": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "publishedAt": "2026-10-14T21:30:33.000Z"
     },
     {
       "id": "n_55222f2994",
@@ -524,7 +568,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as involved in composition and vocals.",
+      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
       "publishedAt": "2026-10-14T18:23:46.000Z"
@@ -574,37 +618,26 @@
       "publishedAt": "2026-10-14T15:08:00.000Z"
     },
     {
-      "id": "n_40dbf46b63",
+      "id": "n_d1f8876dac",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "publishedAt": "2026-10-14T15:00:00.000Z"
+      "headline": "McKinsey is making job applicants spar with a fake AI client",
+      "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKins",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "publishedAt": "2026-10-14T22:53:31.000Z"
     },
     {
-      "id": "n_62cbe095b5",
+      "id": "n_88ac6d1c3f",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "TechCrunch Disrupt 2026: Day 2",
-      "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-      "publishedAt": "2026-10-14T14:30:00.000Z"
-    },
-    {
-      "id": "n_ca567069ec",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-      "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-      "publishedAt": "2026-10-14T11:00:00.000Z"
+      "headline": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizon",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "publishedAt": "2026-10-14T21:11:28.000Z"
     },
     {
       "id": "n_2fac9b6004",
@@ -612,7 +645,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "The AI race is back on",
-      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, h",
+      "summary": "Mark Zuckerberg at the Meta Connect developer conference. | Photo: Andrej Sokolow/dpa/picture alliance via Getty Images Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the du",
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
       "publishedAt": "2026-10-14T19:06:03.000Z"
@@ -671,28 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
       "publishedAt": "2026-10-14T16:05:21.000Z"
-    },
-    {
-      "id": "n_d4118e3002",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Square’s new kiosk lets you talk to AI for help with your order",
-      "summary": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an \"agentic, conversational voice layer\" that \"fully understands a seller's ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1009086/square-kiosk",
-      "publishedAt": "2026-10-14T16:00:00.000Z"
-    },
-    {
-      "id": "n_c034144452",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Android is using AI to suss out scammers in Google Messages",
-      "summary": "Begone, Bot. | Image: Google / Android Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Building on the Scam Detection feature in Googl",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
-      "publishedAt": "2026-10-14T16:00:00.000Z"
     },
     {
       "id": "n_089e26be9c",
@@ -957,198 +968,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/open-tts-leaderboard",
       "publishedAt": "2026-09-30T00:00:00.000Z"
-    },
-    {
-      "id": "n_3c1e366833",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI’s New AI Is Doing Things We Barely Understand",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
-      "thumbnail": "https://i.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
-      "publishedAt": "2026-10-13T08:56:12.000Z"
-    },
-    {
-      "id": "n_b35e5f2d2e",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek Solved AI’s Memory Problem",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
-      "thumbnail": "https://i.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg",
-      "publishedAt": "2026-10-11T16:53:17.000Z"
-    },
-    {
-      "id": "n_b84db88632",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepMind's New AI Just Cracked The Code Of Life",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-      "thumbnail": "https://i.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg",
-      "publishedAt": "2026-10-07T13:29:33.000Z"
-    },
-    {
-      "id": "n_bd6c6dc0e0",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Billion Dollar AI Advantage Is Disappearing",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
-      "thumbnail": "https://i.ytimg.com/vi/ZHVNTTKu9fU/hqdefault.jpg",
-      "publishedAt": "2026-10-05T09:53:12.000Z"
-    },
-    {
-      "id": "n_fb6a439eff",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
-      "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
-      "publishedAt": "2026-10-13T21:26:16.000Z"
-    },
-    {
-      "id": "n_c21d60498a",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
-      "publishedAt": "2026-09-17T00:34:47.000Z"
-    },
-    {
-      "id": "n_ffdb3dfd14",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
-      "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_6a18d8c315",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
-      "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
-      "publishedAt": "2026-08-12T12:57:24.000Z"
-    },
-    {
-      "id": "n_6d057b2544",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI’s lead engineer was secretly a spy...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=QZVzuq28eFw",
-      "thumbnail": "https://i.ytimg.com/vi/QZVzuq28eFw/hqdefault.jpg",
-      "publishedAt": "2026-10-14T17:48:10.000Z"
-    },
-    {
-      "id": "n_4dbee190eb",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Every app on Earth is now open source... whether it likes it or not",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=wajoP_5Cpw8",
-      "thumbnail": "https://i.ytimg.com/vi/wajoP_5Cpw8/hqdefault.jpg",
-      "publishedAt": "2026-10-12T19:15:23.000Z"
-    },
-    {
-      "id": "n_e2b44e6c52",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "A $6.3 billion open-weight model just got embarrassed by the French...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=WrCjAAl9okA",
-      "thumbnail": "https://i.ytimg.com/vi/WrCjAAl9okA/hqdefault.jpg",
-      "publishedAt": "2026-10-07T20:24:27.000Z"
-    },
-    {
-      "id": "n_f16ac80d2c",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "PewDiePie is setting AI free... and OpenAI is furious",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=_5p1_TNSWqQ",
-      "thumbnail": "https://i.ytimg.com/vi/_5p1_TNSWqQ/hqdefault.jpg",
-      "publishedAt": "2026-10-05T20:34:44.000Z"
-    },
-    {
-      "id": "n_55ef81df9d",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Apple Homeview Impressions: Not Convinced!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=QVv3mQzlrN0",
-      "thumbnail": "https://i.ytimg.com/vi/QVv3mQzlrN0/hqdefault.jpg",
-      "publishedAt": "2026-10-13T22:42:38.000Z"
-    },
-    {
-      "id": "n_aebf4e4806",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "WTF is a Googlebook?",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=_0G4OG39XjI",
-      "thumbnail": "https://i.ytimg.com/vi/_0G4OG39XjI/hqdefault.jpg",
-      "publishedAt": "2026-10-08T21:00:40.000Z"
-    },
-    {
-      "id": "n_7275c2b067",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Xiaomi 18 Fold: How Does This Happen?",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=3iRUwVzRDZQ",
-      "thumbnail": "https://i.ytimg.com/vi/3iRUwVzRDZQ/hqdefault.jpg",
-      "publishedAt": "2026-10-02T20:50:25.000Z"
-    },
-    {
-      "id": "n_e3a30325d8",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Dear YouTube!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=e1q-TuHdc4Y",
-      "thumbnail": "https://i.ytimg.com/vi/e1q-TuHdc4Y/hqdefault.jpg",
-      "publishedAt": "2026-09-30T14:42:19.000Z"
     }
   ]
 }
