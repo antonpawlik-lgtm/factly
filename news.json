@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-10-18T17:37:39.250Z",
+  "generatedAt": "2026-10-18T19:46:42.824Z",
   "items": [
+    {
+      "id": "n_0179b56267",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "US-Midterms: Können die Republikaner wieder bei Latinos punkten?",
+      "summary": "Fast die Hälfte der Latinos in den USA wählte 2024 Donald Trump - und trug damit maßgeblich zu seinem Erfolg bei. Viele setzten große Hoffnungen in ihn. Wie ist die Stimmung unter Latinos kurz vor den Zwischenwahlen? Von N. Barth.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-latinos-midterms-100.html",
+      "publishedAt": "2026-10-18T19:00:53.000Z"
+    },
+    {
+      "id": "n_19aff63e1e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach Gewalt bei Protesten in Frankreich: Macron beruft Krisensitzung ein",
+      "summary": "Am Tag nach der massiven Gewalt bei Protesten in Frankreich wird das Ausmaß der Zerstörung sichtbar. Die Regierung macht Linksradikale für die Krawalle verantwortlich. Präsident Macron spricht von \"ungezügelter Gewalt\".",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
+      "publishedAt": "2026-10-18T18:45:27.000Z"
+    },
+    {
+      "id": "n_649e327ad3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bericht aus Berlin: Heil äußert Zweifel an Rot-Grün-Rot in Berlin",
+      "summary": "Kann Rot-Grün-Rot in Berlin funktionieren? Der SPD-Politiker Heil und weitere SPD-Bundestagsabgeordnete sind skeptisch. Grünen-Chefin Brantner nennt im Bericht aus Berlin Kriterien, die für eine stabile Regierung erfüllt sein müssten.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bab-heil-brantner-koalition-berlin-100.html",
+      "publishedAt": "2026-10-18T18:32:34.000Z"
+    },
     {
       "id": "n_7d922da4e0",
       "type": "news",
@@ -57,37 +90,15 @@
       "publishedAt": "2026-10-18T14:27:58.000Z"
     },
     {
-      "id": "n_19aff63e1e",
+      "id": "n_12f2b2efe1",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Nach Gewalt bei Protesten in Frankreich: Macron beruft Krisensitzung ein",
-      "summary": "Am Tag nach der massiven Gewalt bei Protesten in Frankreich wird das Ausmaß der Zerstörung sichtbar. Die Regierung macht Linksradikale für die Krawalle verantwortlich. Präsident Macron will sich am Abend an die Nation wenden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-100.html",
-      "publishedAt": "2026-10-18T13:56:51.000Z"
-    },
-    {
-      "id": "n_1751ff8fd7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Jubel bei erstem öffentlichen Papst-Auftritt nach OP",
-      "summary": "Papst Leo XIV. ist zurück im Vatikan. Wenige Tage nach seiner Lungen-Operation wandte er sich an die Gläubigen auf dem Petersplatz. Vom Fenster seines Arbeitszimmers im Apostolischen Palast sprach er das Angelus-Gebet.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/papst-angelus-gebet-106.html",
-      "publishedAt": "2026-10-18T12:07:31.000Z"
-    },
-    {
-      "id": "n_765777d3d9",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Russland meldet Drohnenangriffe in St. Petersburg",
-      "summary": "Die Ukraine hat in St. Petersburg nach russischen Angaben erneut Ölanlagen und ein Logistikzentrum angegriffen. Behörden zufolge kam dabei ein Mensch ums Leben. Auch die Ukraine meldet massiven Beschuss ihrer Energieanlagen und Tote.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-angriffe-st-petersburg-100.html",
-      "publishedAt": "2026-10-18T11:55:25.000Z"
+      "headline": "Merz und Macron einigen sich offenbar bei Verbrenner-Ende",
+      "summary": "Deutschland will neue Verbrenner weiter zulassen. Frankreichs Präsident Macron sperrte sich bisher – nun zeichnet sich eine Einigung ab.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Ende-des-Verbrenners-Deutschland-und-Frankreich-fuer-Lockerungen-11490190.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-16T06:35:00.000Z"
     },
     {
       "id": "n_6f9d0766ad",
@@ -165,17 +176,6 @@
       "source": "heise online",
       "url": "https://www.heise.de/news/Ohne-Vorwarnung-von-SpaceX-Ukraine-beklagt-ploetzliche-Starlink-Beschraenkungen-11487892.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
       "publishedAt": "2026-10-14T10:36:00.000Z"
-    },
-    {
-      "id": "n_b00ec00050",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Digitalministerium stellt klar: Kein Rückzug bei KI-Projekt mit SAP und Mistral",
-      "summary": "Das Digitalressort widerspricht Berichten über einen Projekt-Stopp mit Mistral: Die Zusammenarbeit laufe unverändert, der Bund setze weiter auf europäische KI.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Digitalministerium-stellt-klar-Kein-Rueckzug-bei-KI-Projekt-mit-SAP-und-Mistral-11487212.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-14T06:09:00.000Z"
     },
     {
       "id": "n_4db079dccb",
@@ -535,7 +535,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that D",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "publishedAt": "2026-10-18T16:30:00.000Z"
@@ -618,6 +618,17 @@
       "publishedAt": "2026-10-16T16:01:37.000Z"
     },
     {
+      "id": "n_de6b0c59a9",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "A woman was arrested in Philly for blocking a delivery robot",
+      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whe",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "publishedAt": "2026-10-18T18:28:10.000Z"
+    },
+    {
       "id": "n_ac0eba5f39",
       "type": "news",
       "topic": "ai",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
       "publishedAt": "2026-10-15T21:39:52.000Z"
-    },
-    {
-      "id": "n_54d7a618ec",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Trump posts AI-edited photo to brag about White House restoration work",
-      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Go",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "publishedAt": "2026-10-15T21:09:33.000Z"
     },
     {
       "id": "n_85ddbdc7a7",
