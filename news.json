@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-18T19:46:42.824Z",
+  "generatedAt": "2026-10-18T22:39:14.832Z",
   "items": [
+    {
+      "id": "n_043e6d7e1d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "USA liefern laut Selenskyj wieder Geheimdienstinformationen",
+      "summary": "Die Ukraine klagte zuletzt über fehlende US-Geheimdienstinformationen zu russischen Angriffen. Inzwischen liefern die USA diese laut dem ukrainischen Präsidenten wieder. Doch angesichts des jüngsten US-Kurses zeigt er sich tief besorgt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html",
+      "publishedAt": "2026-10-18T22:23:09.000Z"
+    },
+    {
+      "id": "n_7254fb00b9",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ausschreitungen in Frankreich: Macron spricht von \"Wut und Scham\"",
+      "summary": "Die heftigen Ausschreitungen haben Frankreich erschüttert. Und auch am Sonntag gab es wieder Zusammenstöße. In einer Ansprache kündigte Präsident Macron an, durchzugreifen - notfalls mit einem Verbot der Demonstrationen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-krawalle-proteste-102.html",
+      "publishedAt": "2026-10-18T19:46:21.000Z"
+    },
     {
       "id": "n_0179b56267",
       "type": "news",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/asien/iran-hormus-angebot-drohung-100.html",
       "publishedAt": "2026-10-18T15:18:33.000Z"
-    },
-    {
-      "id": "n_b27eda8c8c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Fake-Sneaker sind ein riesiges Geschäft - doch Käufer gehen in Risiko",
-      "summary": "Sneaker-Kultmodelle können vierstellige Summen kosten. Viele Menschen greifen daher zu deutlich günstigeren Kopien. Doch das kann gefährlich werden. Von G. Marković-Schomburg, I. Mäueler und L.-M. Hiltscher.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/sneaker-kultmodelle-investment-100.html",
-      "publishedAt": "2026-10-18T14:46:25.000Z"
-    },
-    {
-      "id": "n_f99d509e11",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Gewalt bei Protesten beschäftigt auch Italien",
-      "summary": "Proteste und Krawalle hat es am Samstag auch in Italien gegeben. Ministerpräsidentin Meloni verurteilte die Gewalt, von der vor allem Mailand betroffen war. Die Demonstranten forderten höhere Löhne und mehr Investitionen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/italien-proteste-belgien-portugal-100.html",
-      "publishedAt": "2026-10-18T14:27:58.000Z"
     },
     {
       "id": "n_12f2b2efe1",
@@ -266,6 +266,61 @@
       "publishedAt": "2026-10-18T09:29:01.000Z"
     },
     {
+      "id": "n_9aad51dd92",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T22:10:45.000Z"
+    },
+    {
+      "id": "n_3a3633bcbd",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "What we know so far about deadly fire at Canadian military base",
+      "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T21:37:56.000Z"
+    },
+    {
+      "id": "n_b106d7ca9c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "summary": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T21:00:22.000Z"
+    },
+    {
+      "id": "n_55d19e02d1",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Macron calls for 'calm and order' after riots across France",
+      "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T20:33:21.000Z"
+    },
+    {
+      "id": "n_d06bcaeaa9",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+      "summary": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-18T19:53:27.000Z"
+    },
+    {
       "id": "n_13481defb8",
       "type": "news",
       "topic": "general",
@@ -286,72 +341,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-18T13:47:07.000Z"
-    },
-    {
-      "id": "n_46647e0022",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "European diplomats attacked by Israeli settlers in West Bank",
-      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T12:16:14.000Z"
-    },
-    {
-      "id": "n_8512663250",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "summary": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T12:07:31.000Z"
-    },
-    {
-      "id": "n_dd08f8d073",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
-      "summary": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T11:09:32.000Z"
-    },
-    {
-      "id": "n_fe0b6e873f",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Parisians wake up to protest damage and looted shops",
-      "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T10:58:39.000Z"
-    },
-    {
-      "id": "n_a2cd27a977",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-      "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T05:04:31.000Z"
-    },
-    {
-      "id": "n_b6bb1637df",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T01:10:25.000Z"
     },
     {
       "id": "n_7d495fcddb",
@@ -530,6 +519,17 @@
       "publishedAt": "2026-10-16T17:05:59.000Z"
     },
     {
+      "id": "n_cef1d05c75",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "publishedAt": "2026-10-18T20:37:40.000Z"
+    },
+    {
       "id": "n_6a083a36de",
       "type": "news",
       "topic": "ai",
@@ -605,17 +605,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
       "publishedAt": "2026-10-16T16:30:00.000Z"
-    },
-    {
-      "id": "n_6f0ec75f9d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Elorian’s first AI model wants to reason with images, not just about them",
-      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "publishedAt": "2026-10-16T16:01:37.000Z"
     },
     {
       "id": "n_de6b0c59a9",
