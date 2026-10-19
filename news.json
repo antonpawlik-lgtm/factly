@@ -1,16 +1,71 @@
 {
-  "generatedAt": "2026-10-19T15:57:01.125Z",
+  "generatedAt": "2026-10-19T21:47:37.513Z",
   "items": [
     {
-      "id": "n_2a665b22b1",
+      "id": "n_3fb941a693",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Durchbruch im Fall Langley: Vermisste wurde Opfer einer Gewalttat",
-      "summary": "Im Fall der seit dem Sommer 2007 vermissten Kerstin Lee Langley aus Regensburg gibt es einen Durchbruch: Die damals 39-Jährige soll von einem Trio getötet worden sein. Eine der Verdächtigen legte nun ein Geständnis ab.",
+      "headline": "Berlin: Grüne und SPD stimmen für Koalitionsgespräche mit Linke",
+      "summary": "Die Grünen und die SPD wollen in Berlin mit der Linkspartei Koalitionsverhandlungen aufnehmen. Beide Parteien entschieden sich am Abend für die Gespräche - die Abstimmung bei der Linken steht noch aus.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/bayern/verbrechen-kerstin-langley-vermisste-opfer-gewalttat-100.html",
-      "publishedAt": "2026-10-19T15:43:35.000Z"
+      "url": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html",
+      "publishedAt": "2026-10-19T19:52:35.000Z"
+    },
+    {
+      "id": "n_c01691cd7c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
+      "summary": "Deutschland und der US-Chip-Gigant Nvidia haben eine Zusammenarbeit bei der Entwicklung Künstlicher Intelligenz beschlossen. Die Vereinbarung wurde beim ersten \"Invest-in-Germany\"-Gipfel verkündet - und soll die deutsche Wettbewerbsfähigkeit stärken.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bund-nvidia-zusammenarbeit-ki-100.html",
+      "publishedAt": "2026-10-19T19:23:41.000Z"
+    },
+    {
+      "id": "n_4f4ddca5b2",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Mindestens zwei Tote durch Überschwemmungen im Osten Spaniens",
+      "summary": "Ein heftiges Sturmtief hat Straßen und Ortschaften im Südosten Spaniens unter Wasser gesetzt. Menschen flüchten vor den Wassermassen auf Hausdächer, es gab mindestens vier Tote. Auf Mallorca fiel das Unwetter weniger heftig aus als befürchtet.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-unwetter-mallorca-102.html",
+      "publishedAt": "2026-10-19T19:09:32.000Z"
+    },
+    {
+      "id": "n_20ea5b9397",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Proteste in vielen Ländern Europas - aus ähnlichen Gründen",
+      "summary": "Die gewalttätigen Proteste in Frankreich dominieren seit Tagen die Schlagzeilen. Doch auch in anderen Ländern Europas gibt es derzeit Großdemos und Ausschreitungen, die Gründe ähneln einander vielfach. Wer protestiert gerade in welchen Ländern - und warum?",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/proteste-europa-100.html",
+      "publishedAt": "2026-10-19T19:08:04.000Z"
+    },
+    {
+      "id": "n_b5b546bdaf",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Jemen: Mehr als 50 Tote bei Huthi-Angriff auf Militärlager",
+      "summary": "Die Huthi-Miliz beschießt im Jemen ein Militärlager offenbar mit mehreren ballistischen Raketen. Mindestens 53 Soldaten kommen ums Leben. Die proiranische Miliz spricht von Vergeltung gegen Saudi-Arabien.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/jemen-huthi-angriff-militaerlager-viele-tote-100.html",
+      "publishedAt": "2026-10-19T18:35:46.000Z"
+    },
+    {
+      "id": "n_18d90364bd",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Berliner SPD für Koalitionsgespräche mit Linkspartei und Grünen",
+      "summary": "Die Berliner SPD stimmt mit großer Mehrheit für Koalitionsverhandlungen mit der Linkspartei und mit den Grünen. Die Grünen wollen noch am Abend über den Beginn der Gespräche entscheiden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/koalitionsverhandlungen-berlin-spd-linke-gruene-100.html",
+      "publishedAt": "2026-10-19T17:59:59.000Z"
     },
     {
       "id": "n_5c224bbcba",
@@ -21,73 +76,18 @@
       "summary": "Nach den Ausschreitungen in Frankreich kündigt die Regierung lokale Ausgangssperren an. Für Samstag kursieren Aufrufe zu weiteren Protesten. Bundesinnenminister Dobrindt machte zwei Gruppen für die Krawalle im Nachbarland verantwortlich.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-ausschreitungen-ausgangssperren-100.html",
-      "publishedAt": "2026-10-19T14:35:44.000Z"
+      "publishedAt": "2026-10-19T17:19:39.000Z"
     },
     {
-      "id": "n_77b865f297",
+      "id": "n_898d8931f0",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Frankreich-Proteste: \"Macron hat nicht die richtigen Antworten gefunden\"",
-      "summary": "Frankreich steht nach den Unruhen am Wochenende unter Schock. Hat Macron die Unzufriedenheit im Land unterschätzt? Politikwissenschaftler Ross über die Vorwürfe gegen den Präsidenten - und welche Optionen dieser nun hat.",
+      "headline": "Marktbericht: Neue Woche, neue Sorgen",
+      "summary": "Die Börse gleicht derzeit einem Wechselbad. Die Gewinne von Freitag sind wieder dahin. Belastend wirkte neben den anhaltenden KI-Sorgen die Lage in Frankreich.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/europa-proteste-interview-ross-100.html",
-      "publishedAt": "2026-10-19T14:09:22.000Z"
-    },
-    {
-      "id": "n_a1b455b01f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Merz lädt zu Investitionsgipfel in Berlin",
-      "summary": "Bundeskanzler Merz setzt auf mehr Investoren aus dem Ausland. Auf einem Gipfel in Berlin werben auch Wirtschaftsministerin Reiche und Finanzminister Klingbeil für den Standort Deutschland. Kritik kommt von den Linken. Von A-K. Mellmann.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/wirtschaft-investitionsgipfel-nvidia-ki-100.html",
-      "publishedAt": "2026-10-19T13:12:19.000Z"
-    },
-    {
-      "id": "n_f35a50d979",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Auschwitz-Überlebender Höllenreiner im Alter von 92 gestorben",
-      "summary": "Hermann Höllenreiner überlebte das Vernichtungslager Auschwitz - und floh im Alter von elf Jahren von einem der Todesmärsche. Mit 92 Jahren ist er nun gestorben.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/auschwitz-ueberlebender-hoellenreiner-gestorben-100.html",
-      "publishedAt": "2026-10-19T13:04:07.000Z"
-    },
-    {
-      "id": "n_e6e317388c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Reiche verspricht Milliarden für Wasserstoff-Ausbau",
-      "summary": "Der Markt für Wasserstoff kommt nur langsam in Gang. Wirtschaftsministerin Reiche will nun mit Milliardenhilfen für die Industrie und Anreizen für klimafreundlichen Stahl gegensteuern.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/reiche-wasserstoff-ausbau-millarden-100.html",
-      "publishedAt": "2026-10-19T12:34:29.000Z"
-    },
-    {
-      "id": "n_581e14cc00",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Anteil weiblicher Führungskräfte in Deutschland weiterhin niedrig",
-      "summary": "Der Anteil von Frauen in Spitzenpositionen verharrt in Deutschland weiter unter dem EU-Durchschnitt: Weniger als ein Drittel der Chefposten war 2025 weiblich besetzt. Spitzenreiter im EU-Vergleich bleibt Schweden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/frauen-anteil-fuehrungspositionen-100.html",
-      "publishedAt": "2026-10-19T12:19:43.000Z"
-    },
-    {
-      "id": "n_8d134b2a7a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Zwölf Migranten bei zwei Bootsunglücken in der Ägäis gestorben",
-      "summary": "Vor den griechischen Inseln Samos und Lesbos sind binnen weniger Stunden zwei Boote mit Migranten verunglückt. Laut Behörden starben mindestens zwölf Menschen. Ein mutmaßlicher Schleuser wurde festgenommen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/aegaeis-bootsunglueck-100.html",
-      "publishedAt": "2026-10-19T12:07:14.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html",
+      "publishedAt": "2026-10-19T16:29:58.000Z"
     },
     {
       "id": "n_12f2b2efe1",
@@ -178,6 +178,61 @@
       "publishedAt": "2026-10-14T10:36:00.000Z"
     },
     {
+      "id": "n_b031f549ec",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Bulk Infrastructure: Neues Seekabel soll Europa ohne USA direkt mit Kanada verbinden",
+      "summary": "Die norwegische Firma Bulk Infrastructure hat ihr geplantes Seekabel Project Leif Erikson genannt: Es folgt der historischen Route der Wikinger über den Atlantik nach Kanada, ohne das Gebiet der USA zu berühren. (Seekabel, Rechenzentrum)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/bulk-infrastructure-neues-seekabel-soll-europa-ohne-usa-direkt-mit-kanada-verbinden-2610-214272.html",
+      "publishedAt": "2026-10-19T17:23:01.000Z"
+    },
+    {
+      "id": "n_4d75ac6fc1",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Hazet Multitool mit Zange bei Amazon so günstig wie nie",
+      "summary": "Ein Multitool von Hazet mit 13 Funktionen ist bei Amazon aktuell so günstig wie nie. (Technik/Hardware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-hazet-multitool-mit-zange-bei-amazon-so-guenstig-wie-nie-2610-214271.html",
+      "publishedAt": "2026-10-19T17:10:02.000Z"
+    },
+    {
+      "id": "n_6b856f3478",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Elektrische Mini-Fahrradpumpe von Fanttik bei Amazon für unter 43 Euro",
+      "summary": "Die Fanttik X10 Ace Tiny passt in die Trikottasche, pumpt Reifen automatisch auf und erreicht bis zu 8,3 Bar. Bei Amazon ist sie doppelt reduziert. (Technik/Hardware, Amazon)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-elektrische-mini-fahrradpumpe-von-fanttik-bei-amazon-fuer-unter-43-euro-2610-214270.html",
+      "publishedAt": "2026-10-19T16:41:02.000Z"
+    },
+    {
+      "id": "n_942d322d79",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Hackerangriff: Schweizer Onlinemagazin Republik verliert Nutzerdaten",
+      "summary": "Ein ungepatchtes Analyse-Tool reißt ein Loch in eine interne Datenbank. Dort stehen auch Klarnamen zu anonym veröffentlichten Kommentaren. (Datensicherheit, Datenschutz)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/hackerangriff-schweizer-onlinemagazin-republik-verliert-nutzerdaten-2610-214269.html",
+      "publishedAt": "2026-10-19T16:24:02.000Z"
+    },
+    {
+      "id": "n_bc0d893d7e",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "(g+) Social Media: Wie Youtuber ihre Videos finanzieren",
+      "summary": "Wie wird aus einem Youtube-Channel ein Unternehmen? Die Financial Times bietet in unserer Leseempfehlung Einblick in die Welt der Creator-Industrie. Von Alan Livsey (Youtube, Urheberrecht)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/social-media-wie-youtuber-ihre-videos-finanzieren-2610-214259.html",
+      "publishedAt": "2026-10-19T16:00:02.000Z"
+    },
+    {
       "id": "n_3bd629c5b0",
       "type": "news",
       "topic": "tech",
@@ -211,59 +266,37 @@
       "publishedAt": "2026-10-19T15:14:02.000Z"
     },
     {
-      "id": "n_a0491c119d",
+      "id": "n_f9cad54fff",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Faltbares Smartphone: Apple-Experte bezeichnet Duo-Vorbestellungen als \"Riesenfehler\"",
-      "summary": "Apples faltbares iPhone Duo kann bestellt werden - und hat bereits Lieferzeiten bis Ende Januar 2027. (iPhone Duo, Smartphone)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/faltbares-smartphone-apple-experte-bezeichnet-duo-vorbestellungen-als-riesenfehler-2610-214264.html",
-      "publishedAt": "2026-10-19T15:02:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+      "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T21:12:30.000Z"
     },
     {
-      "id": "n_fe5a71923c",
+      "id": "n_a47baae252",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "KI-Blase in den USA: Zweifel am zehn Billionen US-Dollar teuren KI-Ausbau wachsen",
-      "summary": "Viel Geld könnten die USA in KI-Rechenzentren investieren. Es zeigen sich jedoch immer mehr Probleme. (KI, Rechenzentrum)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/usa-zweifel-an-ki-ausbauplaenen-wachsen-2610-214262.html",
-      "publishedAt": "2026-10-19T14:47:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T20:49:00.000Z"
     },
     {
-      "id": "n_4ccc02c4b8",
+      "id": "n_5c7456644e",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Paris: Plünderer stehlen Computer und Pokale von E-Sport-Team",
-      "summary": "In Paris wurde die Zentrale des E-Sport-Teams Vitality geplündert. Randalierer erbeuteten Pokale und Computer, Gaming-Stühle landeten im Feuer. (E-Sport, Spiele)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/paris-pluenderer-stehlen-computer-und-pokale-von-e-sport-team-2610-214263.html",
-      "publishedAt": "2026-10-19T14:32:02.000Z"
-    },
-    {
-      "id": "n_ab91929d98",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Einhell Laubsauger mit PCX-Akku und Ladegerät zum Amazon-Tiefstpreis",
-      "summary": "Der Einhell Venturro 18/210 saugt, häckselt und bläst Herbstlaub weg. Das Set mit Akku und Ladegerät ist wieder besonders günstig. (Technik/Hardware)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-einhell-laubsauger-mit-pcx-akku-und-ladegeraet-zum-amazon-tiefstpreis-2610-214261.html",
-      "publishedAt": "2026-10-19T14:13:02.000Z"
-    },
-    {
-      "id": "n_a1510e5d4d",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Gaming: US-Politiker will Spielern echtes Eigentum an Games garantieren",
-      "summary": "Wer ein Videospiel kauft, soll es dauerhaft besitzen und sogar weiterverkaufen dürfen: Das fordert ein Politiker in den USA. (Spiele, Server)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/gaming-us-politiker-will-spielern-echtes-eigentum-an-games-garantieren-2610-214260.html",
-      "publishedAt": "2026-10-19T13:48:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T18:22:48.000Z"
     },
     {
       "id": "n_6eafe85955",
@@ -274,84 +307,62 @@
       "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T15:51:20.000Z"
+      "publishedAt": "2026-10-19T17:18:04.000Z"
     },
     {
-      "id": "n_cda66130d5",
+      "id": "n_035ff7b3f1",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "US airman dies as daredevil descent goes wrong before Texas college football game",
-      "summary": "The game continued after the incident. The American Conference said the decision was made before his death was known.",
+      "headline": "Warning signs over threats to Australian politicians were rising before MP hit by car",
+      "summary": "In the apparent attack on MP Helen Haines, the worst fears of politicians and public figures appear to have been realised.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T14:13:18.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T16:32:47.000Z"
     },
     {
-      "id": "n_73d1aff3c1",
+      "id": "n_713f2e047f",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Australian MP critically injured after being hit by car in apparent attack",
-      "summary": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
+      "headline": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "summary": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T14:09:54.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T16:20:51.000Z"
     },
     {
-      "id": "n_86b8170b2b",
+      "id": "n_4fd2c676f5",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Catalonia's former rebel president can return to Spain, court rules",
-      "summary": "The court upholds a decision to lift an arrest warrant for Carles Puigdemont linked to the independence bid he led in 2017.",
+      "headline": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+      "summary": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T14:06:53.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T16:16:51.000Z"
     },
     {
-      "id": "n_41fb58d058",
+      "id": "n_782a0334f9",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-      "summary": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
+      "headline": "In pictures: French landmarks damaged and destroyed by violent protesters",
+      "summary": "France is used to protests but the violence and damage seen across the country is shocking many people.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T13:44:57.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cmq8n7l0le11o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T15:21:03.000Z"
     },
     {
-      "id": "n_c881f31c2a",
+      "id": "n_3de1548360",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Exiled critic of Rwandan president found beheaded",
-      "summary": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
+      "headline": "US bans DeepSeek AI from government use as tech tension with China continues",
+      "summary": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T13:42:41.000Z"
-    },
-    {
-      "id": "n_acc9c68594",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Personal attacks fire up debate before Brazil's run-off vote",
-      "summary": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T11:41:24.000Z"
-    },
-    {
-      "id": "n_3b62a89f06",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Meloni calls emergency meeting after weekend of violent clashes",
-      "summary": "More than 200 people were detained during two days of rioting in the city, Italian media reports.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T11:23:36.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-19T18:21:54.000Z"
     },
     {
       "id": "n_cc2cac8271",
@@ -420,114 +431,158 @@
       "publishedAt": "2026-10-16T18:11:29.000Z"
     },
     {
-      "id": "n_f0ba9c0c7b",
+      "id": "n_fe83ce01af",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Russian man linked to deadly London hospitals hack arrested",
-      "summary": "The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T15:31:33.000Z"
-    },
-    {
-      "id": "n_4b7179a922",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Snapchat and Instagram grooming becoming 'easier'",
-      "summary": "Online grooming is rising, with children as young as five targeted, prompting calls for reform.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T05:12:48.000Z"
-    },
-    {
-      "id": "n_d41776e0c2",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Disney found a way to buy Character.AI without buying its lawsuits",
-      "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
+      "headline": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+      "summary": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-      "publishedAt": "2026-10-19T14:45:43.000Z"
+      "url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+      "publishedAt": "2026-10-19T20:54:17.000Z"
     },
     {
-      "id": "n_26bd92e8b8",
+      "id": "n_71a28de11a",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "A Chinese rocket deorbited over Minnesota and left this in a farmer's cornfield",
-      "summary": "All the evidence points to the debris being part of a Chinese Zhuque-2E rocket.",
+      "headline": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/",
-      "publishedAt": "2026-10-19T14:35:01.000Z"
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "publishedAt": "2026-10-19T20:21:53.000Z"
     },
     {
-      "id": "n_ba055b45a2",
+      "id": "n_cc76f984ef",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Review: Lanterns is a truly unique twist on the superhero genre",
-      "summary": "Gritty HBO series is a beacon for what's possible when one is allowed to get creative with the tropes.",
+      "headline": "Batteries help reduce emissions, but how do we reduce their emissions?",
+      "summary": "One way to make batteries cleaner is to make fewer of them.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/",
-      "publishedAt": "2026-10-19T13:31:08.000Z"
+      "url": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/",
+      "publishedAt": "2026-10-19T20:03:55.000Z"
     },
     {
-      "id": "n_8030d4f16e",
+      "id": "n_de7b0df69e",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "DIY VR: How to build your own headset, and why you probably won't want to",
-      "summary": "A primer on the joys and pains of building your own head-mounted display.",
+      "headline": "PSA: Patch your Plex media server before someone hacks it",
+      "summary": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to/",
-      "publishedAt": "2026-10-19T12:33:34.000Z"
+      "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+      "publishedAt": "2026-10-19T19:39:19.000Z"
     },
     {
-      "id": "n_0ed247acc4",
+      "id": "n_013592636b",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Stratospheric airship flew from US to Japan to test sky cell tower concept",
-      "summary": "Tests showed Sceye’s high-flying platform can deliver connectivity in disasters.",
+      "headline": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "summary": "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/",
-      "publishedAt": "2026-10-19T11:05:49.000Z"
+      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+      "publishedAt": "2026-10-19T19:27:24.000Z"
     },
     {
-      "id": "n_c82b8eb2cf",
+      "id": "n_2a8784c05c",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Anthropic gives outside AI watchdog “employee-like” access",
-      "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
+      "headline": "ReactOS reaches major milestone with NTFS install support",
+      "summary": "ReactOS gains NTFS install support with new driver.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-      "publishedAt": "2026-10-18T16:25:19.000Z"
+      "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+      "publishedAt": "2026-10-19T18:30:56.000Z"
     },
     {
-      "id": "n_acbf29a736",
+      "id": "n_5d37bd28a1",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Science says your boss should talk less in meetings",
-      "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+      "headline": "AI game clones are making indie developers afraid to show their work",
+      "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
-      "publishedAt": "2026-10-17T11:15:11.000Z"
+      "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+      "publishedAt": "2026-10-19T16:59:22.000Z"
     },
     {
-      "id": "n_8bef9ae3cc",
+      "id": "n_e4263dbe4c",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Why BioWare's Neverwinter Nights still has thousands of active players",
-      "summary": "The single-player is just OK, but according to the players, that doesn't matter.",
+      "headline": "Florida DMV hacked after police dept insecurely stored login info",
+      "summary": "Florida issues alerts after statewide DMV data breach linked to ShinyHunters.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
-      "publishedAt": "2026-10-17T11:00:21.000Z"
+      "url": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
+      "publishedAt": "2026-10-19T16:38:13.000Z"
+    },
+    {
+      "id": "n_aaaf393dcb",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "publishedAt": "2026-10-19T20:09:24.000Z"
+    },
+    {
+      "id": "n_039a84854f",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "publishedAt": "2026-10-19T19:28:34.000Z"
+    },
+    {
+      "id": "n_e37065d0e7",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "publishedAt": "2026-10-19T19:00:12.000Z"
+    },
+    {
+      "id": "n_71c2d7263c",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "publishedAt": "2026-10-19T18:49:04.000Z"
+    },
+    {
+      "id": "n_36c2a79412",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "publishedAt": "2026-10-19T18:37:27.000Z"
+    },
+    {
+      "id": "n_f93d80856f",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "People are using AI to make their smart TVs dumb again",
+      "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "publishedAt": "2026-10-19T16:13:22.000Z"
     },
     {
       "id": "n_d88320583f",
@@ -541,81 +596,15 @@
       "publishedAt": "2026-10-19T15:37:09.000Z"
     },
     {
-      "id": "n_cef1d05c75",
+      "id": "n_c17a4963d4",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "headline": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "publishedAt": "2026-10-18T20:37:40.000Z"
-    },
-    {
-      "id": "n_6a083a36de",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "publishedAt": "2026-10-18T16:30:00.000Z"
-    },
-    {
-      "id": "n_568162b981",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Meta removes language that raised scraping and AI training concerns",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "publishedAt": "2026-10-17T21:31:32.000Z"
-    },
-    {
-      "id": "n_b769f5e984",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "publishedAt": "2026-10-17T20:21:19.000Z"
-    },
-    {
-      "id": "n_51c1c9a5e4",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "publishedAt": "2026-10-17T18:48:08.000Z"
-    },
-    {
-      "id": "n_bfa998e6f2",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "India becomes the latest country to report rogue AI agent activity",
-      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "publishedAt": "2026-10-16T17:52:24.000Z"
-    },
-    {
-      "id": "n_1f9b468e86",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs count",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "publishedAt": "2026-10-16T16:30:00.000Z"
+      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "publishedAt": "2026-10-19T12:30:00.000Z"
     },
     {
       "id": "n_fd89b9b5cd",
@@ -706,6 +695,28 @@
       "publishedAt": "2026-10-16T14:02:40.000Z"
     },
     {
+      "id": "n_fbbcdbe57a",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Making the internet better for AI agents might make it worse for everyone else",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automate",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "publishedAt": "2026-10-19T18:22:47.000Z"
+    },
+    {
+      "id": "n_7216fffbb8",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautiou",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "publishedAt": "2026-10-19T17:45:55.000Z"
+    },
+    {
       "id": "n_b327983725",
       "type": "news",
       "topic": "ai",
@@ -772,26 +783,26 @@
       "publishedAt": "2026-10-08T09:00:00.000Z"
     },
     {
-      "id": "n_48f3042078",
+      "id": "n_100017994d",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Building a safer path to autonomous industrial AI",
-      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that ope",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-      "publishedAt": "2026-10-08T08:17:32.000Z"
+      "headline": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+      "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+      "publishedAt": "2026-10-19T19:49:17.000Z"
     },
     {
-      "id": "n_1ba99535ff",
+      "id": "n_e2fcb85005",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Connecting AI agents to enterprise knowledge",
-      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-      "publishedAt": "2026-10-05T15:47:52.000Z"
+      "headline": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
+      "summary": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+      "publishedAt": "2026-10-19T16:00:00.000Z"
     },
     {
       "id": "n_2afd84a218",
@@ -860,26 +871,15 @@
       "publishedAt": "2026-10-16T15:00:00.000Z"
     },
     {
-      "id": "n_359d1a26c1",
+      "id": "n_9dbc0d55ff",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
-      "summary": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
-      "publishedAt": "2026-10-16T11:00:00.000Z"
-    },
-    {
-      "id": "n_97b696edc2",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
-      "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
-      "publishedAt": "2026-10-15T21:18:15.000Z"
+      "headline": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "publishedAt": "2026-10-19T00:00:00.000Z"
     },
     {
       "id": "n_ba4e7337ab",
@@ -957,17 +957,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/allenai/hiro-acev2",
       "publishedAt": "2026-10-14T16:12:42.000Z"
-    },
-    {
-      "id": "n_550c4c02e9",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "publishedAt": "2026-10-13T17:05:48.000Z"
     },
     {
       "id": "n_5565a81df6",
