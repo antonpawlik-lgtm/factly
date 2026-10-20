@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-20T18:47:37.572Z",
+  "generatedAt": "2026-10-20T23:30:52.278Z",
   "items": [
+    {
+      "id": "n_7e65e4392b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
+      "summary": "Trump hatte Interesse an einem Gespräch mit den Präsidenten Russlands und Chinas über die Ukraine gezeigt. Nach einem Treffen mit europäischen Partnern sowie dem US-Sondergesandten Witkoff in Oslo forderte Präsident Selenskyj nun eine Beteiligung Kiews.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html",
+      "publishedAt": "2026-10-20T20:01:00.000Z"
+    },
+    {
+      "id": "n_ecf19ebc81",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "So reagieren Frankreich und Italien auf die Ausschreitungen",
+      "summary": "Ausgangssperren, Antiterror-Soldaten, neue Dekrete: Frankreich und Italien haben auf die Ausschreitungen am Wochenende reagiert. So sollen in Zukunft Unruhen verhindert werden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html",
+      "publishedAt": "2026-10-20T19:56:31.000Z"
+    },
     {
       "id": "n_863a1c2284",
       "type": "news",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
       "publishedAt": "2026-10-20T16:37:23.000Z"
-    },
-    {
-      "id": "n_0920d8f664",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Angriffe auf Brücken in Kiew: \"Man muss ja irgendwie weiterleben\"",
-      "summary": "Seit Wochen greift Russland gezielt Brücken in der ukrainischen Hauptstadt Kiew an. Die Einwohner versuchen, sich mit dem Verkehrschaos so gut wie möglich zu arrangieren. Der Ausnahmezustand gehört bereits zum Alltag. Von Niels Bula.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/angriffe-bruecken-kiew-100.html",
-      "publishedAt": "2026-10-20T16:23:41.000Z"
-    },
-    {
-      "id": "n_236841fc9e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "EU legt neue Arktis-Strategie vor und verstärkt militärische Präsenz",
-      "summary": "Die neue Arktis-Strategie der Europäischen Kommission macht deutlich: Die EU will ihre Präsenz dort verstärken, wo die \"tektonischen Platten der Geopolitik aufeinanderprallen\", wie Kommissionschefin von der Leyen sagt. Von Thomas Spickhofen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/eu-arktis-strategie-102.html",
-      "publishedAt": "2026-10-20T15:38:35.000Z"
     },
     {
       "id": "n_488fb79aaf",
@@ -266,6 +266,50 @@
       "publishedAt": "2026-10-20T15:05:01.000Z"
     },
     {
+      "id": "n_0f70e76155",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T21:27:39.000Z"
+    },
+    {
+      "id": "n_4b8edebc97",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Suspect arrested after historic town hall set alight - French media",
+      "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T21:05:50.000Z"
+    },
+    {
+      "id": "n_6d5bacfecc",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+      "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T20:00:57.000Z"
+    },
+    {
+      "id": "n_ed215accf7",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump sued over Canadian tariffs in latest legal challenge",
+      "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T19:30:05.000Z"
+    },
+    {
       "id": "n_ff7e710f6a",
       "type": "news",
       "topic": "general",
@@ -286,17 +330,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-20T16:59:06.000Z"
-    },
-    {
-      "id": "n_4b8edebc97",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Suspect arrested after historic town hall set alight - French media",
-      "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T16:06:39.000Z"
     },
     {
       "id": "n_7fe058073e",
@@ -321,37 +354,48 @@
       "publishedAt": "2026-10-20T14:09:42.000Z"
     },
     {
-      "id": "n_f479e70c7f",
+      "id": "n_b17a25d8c4",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Huge setback for Alberta's separatist movement after decisive defeat",
-      "summary": "Leaders of the movement for independence vow to push on but the margin of defeat could make that difficult.",
+      "headline": "Elon Musk says Tesla-SpaceX merger being considered",
+      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjly016320q1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T13:39:11.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T23:24:47.000Z"
     },
     {
-      "id": "n_1b1a1cb36a",
+      "id": "n_688b51f07c",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Kenya cult leader's children still being starved weeks before trial, son says",
-      "summary": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
+      "headline": "The tech helping crack decades-old cold cases",
+      "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T13:23:32.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T23:13:24.000Z"
     },
     {
-      "id": "n_82c3ec0148",
+      "id": "n_5281351ee5",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
-      "summary": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
+      "headline": "Tech Life",
+      "summary": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T12:08:06.000Z"
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T19:45:00.000Z"
+    },
+    {
+      "id": "n_2209ec40a2",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+      "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T19:42:32.000Z"
     },
     {
       "id": "n_18342e179d",
@@ -398,136 +442,147 @@
       "publishedAt": "2026-10-19T18:21:54.000Z"
     },
     {
-      "id": "n_cc2cac8271",
+      "id": "n_ed05f4b971",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Uber wins bid to throw out £200m black cab claims",
-      "summary": "Claims that Uber misled TfL over its licence were thrown out because they were brought too late.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T12:58:39.000Z"
-    },
-    {
-      "id": "n_02bad27ee6",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Musk and Anthropic pledge public share giveaways",
-      "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T09:38:25.000Z"
-    },
-    {
-      "id": "n_8294376ada",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "China's growth accelerates as AI boom helps boost exports",
-      "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T06:08:02.000Z"
-    },
-    {
-      "id": "n_5d0e81b00d",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Don't fall for this - how to protect yourself from AI scams",
-      "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T23:24:59.000Z"
-    },
-    {
-      "id": "n_3f48fe49da",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Polestar tries to quantify what it’s like to drive a performance car",
-      "summary": "Drivers had electrodes strapped to their heads as they tested EVs on track.",
+      "headline": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+      "summary": "\"I do think there's a lot of merit to combining the companies.\"",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/",
-      "publishedAt": "2026-10-20T14:53:07.000Z"
+      "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+      "publishedAt": "2026-10-20T22:04:54.000Z"
     },
     {
-      "id": "n_fb9936745e",
+      "id": "n_4bbccc72fb",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Meta Muse exposes users' personal and business secrets when they share conversations",
-      "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
+      "headline": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
+      "summary": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-      "publishedAt": "2026-10-20T12:33:13.000Z"
+      "url": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
+      "publishedAt": "2026-10-20T21:44:34.000Z"
     },
     {
-      "id": "n_c690855c32",
+      "id": "n_a4ac5e9354",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
-      "summary": "Slate's first showroom sells the promise. Mass production will determine the rest.",
+      "headline": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+      "summary": "Xbox maker is also apparently planning its own gaming handheld for next year.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
-      "publishedAt": "2026-10-20T11:00:16.000Z"
+      "url": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+      "publishedAt": "2026-10-20T21:14:33.000Z"
     },
     {
-      "id": "n_582e7d53b6",
+      "id": "n_9242910c6e",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Japan launches mission to bring home a piece of the Martian moon Phobos",
-      "summary": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
+      "headline": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
+      "summary": "A lifetime ad-free subscription is available.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
-      "publishedAt": "2026-10-20T05:59:56.000Z"
+      "url": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
+      "publishedAt": "2026-10-20T20:20:12.000Z"
     },
     {
-      "id": "n_bc26a53f6a",
+      "id": "n_165cb15531",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
-      "summary": "Congenital measles can be fatal, and survivors require monitoring for years.",
+      "headline": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+      "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
-      "publishedAt": "2026-10-19T22:44:26.000Z"
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+      "publishedAt": "2026-10-20T20:07:58.000Z"
     },
     {
-      "id": "n_fe83ce01af",
+      "id": "n_f74f11fae0",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
-      "summary": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
+      "headline": "Gemini's Personal Intelligence is coming to cars",
+      "summary": "It's probably time to audit your Gemini settings.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
-      "publishedAt": "2026-10-19T20:54:17.000Z"
+      "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+      "publishedAt": "2026-10-20T20:00:33.000Z"
     },
     {
-      "id": "n_71a28de11a",
+      "id": "n_29d4156f78",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+      "headline": "OpenBSD 8.0 arrives with security record still intact",
+      "summary": "OpenBSD 8.0 lands with Intel Arc support, ARM64 hibernation, and 64-vCPU guests",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-      "publishedAt": "2026-10-19T20:21:53.000Z"
+      "url": "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
+      "publishedAt": "2026-10-20T19:57:18.000Z"
     },
     {
-      "id": "n_cc76f984ef",
+      "id": "n_cd17d62877",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Batteries help reduce emissions, but how do we reduce their emissions?",
-      "summary": "One way to make batteries cleaner is to make fewer of them.",
+      "headline": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+      "summary": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/",
-      "publishedAt": "2026-10-19T20:03:55.000Z"
+      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+      "publishedAt": "2026-10-20T19:47:35.000Z"
+    },
+    {
+      "id": "n_d4e57614c3",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "publishedAt": "2026-10-20T23:01:23.000Z"
+    },
+    {
+      "id": "n_fda7124672",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "publishedAt": "2026-10-20T22:24:02.000Z"
+    },
+    {
+      "id": "n_9ea810a533",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Anthropic’s cloud partnerships are getting messy",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "publishedAt": "2026-10-20T21:25:22.000Z"
+    },
+    {
+      "id": "n_38bd10c8e4",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "SpaceX’s AI business is beating expectations",
+      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "publishedAt": "2026-10-20T20:40:41.000Z"
+    },
+    {
+      "id": "n_a323e283c5",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "publishedAt": "2026-10-20T20:35:10.000Z"
     },
     {
       "id": "n_45cc8f5886",
@@ -563,59 +618,26 @@
       "publishedAt": "2026-10-20T17:55:12.000Z"
     },
     {
-      "id": "n_8891282d78",
+      "id": "n_6559d9cb2b",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
-      "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "publishedAt": "2026-10-20T17:12:48.000Z"
+      "headline": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the last year, Ann h",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "publishedAt": "2026-10-20T23:04:19.000Z"
     },
     {
-      "id": "n_5130abca41",
+      "id": "n_7f6bb9c0aa",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-      "publishedAt": "2026-10-20T16:00:00.000Z"
-    },
-    {
-      "id": "n_6fce357d7a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-      "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-      "publishedAt": "2026-10-20T14:13:32.000Z"
-    },
-    {
-      "id": "n_c723746d1e",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-      "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-      "publishedAt": "2026-10-20T13:07:24.000Z"
-    },
-    {
-      "id": "n_208dc20e81",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "publishedAt": "2026-10-20T13:00:00.000Z"
+      "headline": "Google’s more personalized Gemini AI is heading to your car",
+      "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "publishedAt": "2026-10-20T22:11:34.000Z"
     },
     {
       "id": "n_f52190a499",
@@ -682,28 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
       "publishedAt": "2026-10-19T14:30:00.000Z"
-    },
-    {
-      "id": "n_c08e28e17a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkN",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "publishedAt": "2026-10-19T13:58:41.000Z"
-    },
-    {
-      "id": "n_9279cf6bb0",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Democrats think cracking down on AI could give them an edge",
-      "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which wo",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
-      "publishedAt": "2026-10-19T12:00:00.000Z"
     },
     {
       "id": "n_913203c4de",
