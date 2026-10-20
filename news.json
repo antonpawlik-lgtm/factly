@@ -1,16 +1,82 @@
 {
-  "generatedAt": "2026-10-20T02:22:16.772Z",
+  "generatedAt": "2026-10-20T07:58:53.466Z",
   "items": [
+    {
+      "id": "n_e3a182c7cc",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Gegen Unabhängigkeitsreferendum: Alberta will kanadisch bleiben",
+      "summary": "In der kanadischen Provinz Alberta gibt es kein Referendum über eine Abspaltung vom Rest des Landes. Medienberichten zufolge votierte eine Mehrheit für die nationale Einheit. Die Separatismus-Bestrebungen hatten auch das Interesse Trumps geweckt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/alberta-kanada-100.html",
+      "publishedAt": "2026-10-20T07:52:06.000Z"
+    },
+    {
+      "id": "n_42d1eee44a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wahlen in den USA: Was zu den Midterms wichtig ist",
+      "summary": "Es ist ein wichtiger Stimmungstest für Präsident Trump: In zwei Wochen sind die US-Bürger zu den Zwischenwahlen aufgerufen. Wer wird gewählt, welche Themen bestimmen den Wahlkampf und welche Chancen haben die Demokraten? Von E. Aretz und J. Unsöld.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/faq-midterms-100.html",
+      "publishedAt": "2026-10-20T06:00:43.000Z"
+    },
+    {
+      "id": "n_8c8ce60b08",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: Anleger warten auf US-Bilanzen",
+      "summary": "Vor wichtigen Bilanzen einiger US-Technologieunternehmen wie SpaceX und Meta bleiben die Investoren zurückhaltend. Außerdem wirken die Turbulenzen in Frankreich, Italien und Spanien weiter nach.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html",
+      "publishedAt": "2026-10-20T05:35:01.000Z"
+    },
     {
       "id": "n_0432fef04d",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Verbaler Schlagabtausch: Spannungen zwischen Trump und Selenskyj",
-      "summary": "US-Präsident Trump verschärft den Ton gegenüber der Ukraine und Selenskyj immer weiter. Der kritisiert die verzögerte Lieferung von bereits bezahlten Abwehrraketen.",
+      "headline": "Verbaler Schlagabtausch: Neue Spannungen zwischen Trump und Selenskyj",
+      "summary": "\"Wir haben der Ukraine viel gegeben - sie hat uns nichts gegeben\": US-Präsident Trump verschärft den Ton gegen Selenskyj. Der ukrainische Präsident wiederum wirft den USA vor, Waffenlieferungen zurückzuhalten.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-spannungen-100.html",
-      "publishedAt": "2026-10-20T01:03:35.000Z"
+      "publishedAt": "2026-10-20T04:47:36.000Z"
+    },
+    {
+      "id": "n_4cc0f1b5e5",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Neue EU-Strategie: Warum die Arktis zum Sicherheitsrisiko wird",
+      "summary": "Lange galt die Arktis als Region mit wenigen Spannungen. Doch die geopolitische Lage hat sich grundlegend geändert, und auch der Klimawandel betrifft den hohen Norden. Eine neue EU-Strategie soll dem Rechnung tragen. Von A. Bartram.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/arktis-veraenderungen-eu-strategie-100.html",
+      "publishedAt": "2026-10-20T04:27:24.000Z"
+    },
+    {
+      "id": "n_302d2233a3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wahrscheinliches Steuer-Plus weckt Begehrlichkeiten",
+      "summary": "Von heute an berät der Arbeitskreis Steuerschätzung darüber, mit wie vielen Steuereinnahmen Bund und Länder rechnen können. Es könnte mehr sein als bislang erwartet. Das weckt Begehrlichkeiten. Von Philipp Eckstein.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/steuereinnahmen-bund-laender-steuerschaetzung-100.html",
+      "publishedAt": "2026-10-20T03:15:05.000Z"
+    },
+    {
+      "id": "n_2d1c5de68e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Uruguay: Ein Land, fast unabhängig von Öl und Gas",
+      "summary": "Das 3,5-Millionen-Einwohner-Land in Südamerika steckte 2008 in einer Energiekrise. Heute gilt Uruguay als Klima-Champion. Wie hat das Land die Energiewende geschafft - und würde das auch für andere Länder funktionieren? Von Anne Herrberg.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/uruguay-erneuerbare-energie-klima-100.html",
+      "publishedAt": "2026-10-20T02:30:18.000Z"
     },
     {
       "id": "n_3fb941a693",
@@ -22,83 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html",
       "publishedAt": "2026-10-19T19:52:35.000Z"
-    },
-    {
-      "id": "n_c01691cd7c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
-      "summary": "Deutschland und der US-Chip-Gigant Nvidia haben eine Zusammenarbeit bei der Entwicklung Künstlicher Intelligenz beschlossen. Die Vereinbarung wurde beim ersten \"Invest-in-Germany\"-Gipfel verkündet - und soll die deutsche Wettbewerbsfähigkeit stärken.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bund-nvidia-zusammenarbeit-ki-100.html",
-      "publishedAt": "2026-10-19T19:23:41.000Z"
-    },
-    {
-      "id": "n_4f4ddca5b2",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Mindestens zwei Tote durch Überschwemmungen im Osten Spaniens",
-      "summary": "Ein heftiges Sturmtief hat Straßen und Ortschaften im Südosten Spaniens unter Wasser gesetzt. Menschen flüchten vor den Wassermassen auf Hausdächer, es gab mindestens vier Tote. Auf Mallorca fiel das Unwetter weniger heftig aus als befürchtet.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/spanien-unwetter-mallorca-102.html",
-      "publishedAt": "2026-10-19T19:09:32.000Z"
-    },
-    {
-      "id": "n_20ea5b9397",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Proteste in vielen Ländern Europas - aus ähnlichen Gründen",
-      "summary": "Die gewalttätigen Proteste in Frankreich dominieren seit Tagen die Schlagzeilen. Doch auch in anderen Ländern Europas gibt es derzeit Großdemos und Ausschreitungen, die Gründe ähneln einander vielfach. Wer protestiert gerade in welchen Ländern - und warum?",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/proteste-europa-100.html",
-      "publishedAt": "2026-10-19T19:08:04.000Z"
-    },
-    {
-      "id": "n_b5b546bdaf",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Jemen: Mehr als 50 Tote bei Huthi-Angriff auf Militärlager",
-      "summary": "Die Huthi-Miliz beschießt im Jemen ein Militärlager offenbar mit mehreren ballistischen Raketen. Mindestens 53 Soldaten kommen ums Leben. Die proiranische Miliz spricht von Vergeltung gegen Saudi-Arabien.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/jemen-huthi-angriff-militaerlager-viele-tote-100.html",
-      "publishedAt": "2026-10-19T18:35:46.000Z"
-    },
-    {
-      "id": "n_18d90364bd",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Berliner SPD für Koalitionsgespräche mit Linkspartei und Grünen",
-      "summary": "Die Berliner SPD stimmt mit großer Mehrheit für Koalitionsverhandlungen mit der Linkspartei und mit den Grünen. Die Grünen wollen noch am Abend über den Beginn der Gespräche entscheiden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/koalitionsverhandlungen-berlin-spd-linke-gruene-100.html",
-      "publishedAt": "2026-10-19T17:59:59.000Z"
-    },
-    {
-      "id": "n_5c224bbcba",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Frankreichs Premierminister Lecornu kündigt Ausgangssperren an",
-      "summary": "Nach den Ausschreitungen in Frankreich kündigt die Regierung lokale Ausgangssperren an. Für Samstag kursieren Aufrufe zu weiteren Protesten. Bundesinnenminister Dobrindt machte zwei Gruppen für die Krawalle im Nachbarland verantwortlich.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-ausschreitungen-ausgangssperren-100.html",
-      "publishedAt": "2026-10-19T17:19:39.000Z"
-    },
-    {
-      "id": "n_12f2b2efe1",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Merz und Macron einigen sich offenbar bei Verbrenner-Ende",
-      "summary": "Deutschland will neue Verbrenner weiter zulassen. Frankreichs Präsident Macron sperrte sich bisher – nun zeichnet sich eine Einigung ab.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Ende-des-Verbrenners-Deutschland-und-Frankreich-fuer-Lockerungen-11490190.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-16T06:35:00.000Z"
     },
     {
       "id": "n_6f9d0766ad",
@@ -178,92 +167,158 @@
       "publishedAt": "2026-10-14T10:36:00.000Z"
     },
     {
-      "id": "n_b031f549ec",
+      "id": "n_b00ec00050",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Bulk Infrastructure: Neues Seekabel soll Europa ohne USA direkt mit Kanada verbinden",
-      "summary": "Die norwegische Firma Bulk Infrastructure hat ihr geplantes Seekabel Project Leif Erikson genannt: Es folgt der historischen Route der Wikinger über den Atlantik nach Kanada, ohne das Gebiet der USA zu berühren. (Seekabel, Rechenzentrum)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/bulk-infrastructure-neues-seekabel-soll-europa-ohne-usa-direkt-mit-kanada-verbinden-2610-214272.html",
-      "publishedAt": "2026-10-19T17:23:01.000Z"
+      "headline": "Digitalministerium stellt klar: Kein Rückzug bei KI-Projekt mit SAP und Mistral",
+      "summary": "Das Digitalressort widerspricht Berichten über einen Projekt-Stopp mit Mistral: Die Zusammenarbeit laufe unverändert, der Bund setze weiter auf europäische KI.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Digitalministerium-stellt-klar-Kein-Rueckzug-bei-KI-Projekt-mit-SAP-und-Mistral-11487212.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-14T06:09:00.000Z"
     },
     {
-      "id": "n_4d75ac6fc1",
+      "id": "n_365e6db703",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Hazet Multitool mit Zange bei Amazon so günstig wie nie",
-      "summary": "Ein Multitool von Hazet mit 13 Funktionen ist bei Amazon aktuell so günstig wie nie. (Technik/Hardware)",
+      "headline": "KI-Sicherheit: Neue ISO-Norm soll KI-Systeme vor Angriffen schützen",
+      "summary": "ISO/IEC 27090 erklärt, wie sich KI-Systeme absichern lassen. Der Leitfaden behandelt Data Poisoning und Modelldiebstahl. (Security, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-hazet-multitool-mit-zange-bei-amazon-so-guenstig-wie-nie-2610-214271.html",
-      "publishedAt": "2026-10-19T17:10:02.000Z"
+      "url": "https://www.golem.de/news/ki-sicherheit-neue-iso-norm-soll-ki-systeme-vor-angriffen-schuetzen-2610-214281.html",
+      "publishedAt": "2026-10-20T07:57:02.000Z"
     },
     {
-      "id": "n_6b856f3478",
+      "id": "n_b36ea25351",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Elektrische Mini-Fahrradpumpe von Fanttik bei Amazon für unter 43 Euro",
-      "summary": "Die Fanttik X10 Ace Tiny passt in die Trikottasche, pumpt Reifen automatisch auf und erreicht bis zu 8,3 Bar. Bei Amazon ist sie doppelt reduziert. (Technik/Hardware, Amazon)",
+      "headline": "Wegen Anthropic: Eric Schmidt könnte bald 20 Milliarden Dollar reicher werden",
+      "summary": "Der Google-Gründer hat wohl Anteile an Anthropic gekauft, als dieses noch nicht einmal eine Milliarde Dollar wert war. (Eric Schmidt, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-elektrische-mini-fahrradpumpe-von-fanttik-bei-amazon-fuer-unter-43-euro-2610-214270.html",
-      "publishedAt": "2026-10-19T16:41:02.000Z"
+      "url": "https://www.golem.de/news/wegen-anthropic-eric-schmidt-koennte-bald-20-milliarden-dollar-reicher-werden-2610-214280.html",
+      "publishedAt": "2026-10-20T07:38:02.000Z"
     },
     {
-      "id": "n_942d322d79",
+      "id": "n_43ff085010",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Hackerangriff: Schweizer Onlinemagazin Republik verliert Nutzerdaten",
-      "summary": "Ein ungepatchtes Analyse-Tool reißt ein Loch in eine interne Datenbank. Dort stehen auch Klarnamen zu anonym veröffentlichten Kommentaren. (Datensicherheit, Datenschutz)",
+      "headline": "Smart Home: Google-Home-Lautsprecher laden Unmengen an unbekannten Daten herunter",
+      "summary": "Smart Speaker sind mit dem Internet verbunden und laden daher Daten im Hintergrund herunter. Googles Home-Lautsprecher übertreiben es aber. (Google Home, Google)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/hackerangriff-schweizer-onlinemagazin-republik-verliert-nutzerdaten-2610-214269.html",
-      "publishedAt": "2026-10-19T16:24:02.000Z"
+      "url": "https://www.golem.de/news/smart-home-google-home-lautsprecher-laden-unmengen-an-unbekannten-daten-herunter-2610-214279.html",
+      "publishedAt": "2026-10-20T07:30:02.000Z"
     },
     {
-      "id": "n_bc0d893d7e",
+      "id": "n_cff0194666",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) Social Media: Wie Youtuber ihre Videos finanzieren",
-      "summary": "Wie wird aus einem Youtube-Channel ein Unternehmen? Die Financial Times bietet in unserer Leseempfehlung Einblick in die Welt der Creator-Industrie. Von Alan Livsey (Youtube, Urheberrecht)",
+      "headline": "Echotribble: US-Armee will KI als Hacker einsetzen",
+      "summary": "Das Army Cyber Command lässt autonome KI-Agenten für Hackerangriffe bauen. Der Anbieter für Echotribble steht schon fest. (Militär, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/social-media-wie-youtuber-ihre-videos-finanzieren-2610-214259.html",
-      "publishedAt": "2026-10-19T16:00:02.000Z"
+      "url": "https://www.golem.de/news/echotribble-us-armee-will-ki-agenten-als-hacker-losschicken-2610-214278.html",
+      "publishedAt": "2026-10-20T07:15:02.000Z"
     },
     {
-      "id": "n_3bd629c5b0",
+      "id": "n_acee78b6dc",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Saros: Die Bullet Hell wird etwas langsamer",
-      "summary": "Mit einem kostenlosen Update macht Housemarque den PS5-Shooter Saros zugänglicher. Für erfahrene Spieler gibt es neue Herausforderungen. (Housemarque, Sony)",
+      "headline": "Einbruchschutz: Das Smart Home im Urlaubsmodus",
+      "summary": "Mit den richtigen Routinen überwachen Smart-Home-Systeme Haus und Wohnung, warnen vor Einbrüchen und simulieren Anwesenheit. Ein Ratgebertext von Andre Reinhardt (Urlaub, Smart Home)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/saros-die-bullet-hell-wird-etwas-langsamer-2610-214268.html",
-      "publishedAt": "2026-10-19T15:46:02.000Z"
+      "url": "https://www.golem.de/news/einbruchschutz-das-smart-home-im-urlaubsmodus-2610-211324.html",
+      "publishedAt": "2026-10-20T07:00:02.000Z"
     },
     {
-      "id": "n_8100b78464",
+      "id": "n_685acf9940",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Bitkom-Studie: Deutsche Wirtschaft übersteht ohne Digitalimporte nur 16 Monate",
-      "summary": "Im Ernstfall liefe die deutsche Wirtschaft ohne digitale Importe nur rund 16 Monate weiter. Die Sorge vor politisch bedingten Ausfällen durch Druck der USA ist groß. Eine Analyse von Achim Sawall (Souveränität, Wirtschaft)",
+      "headline": "Schadcode-Attacken möglich: Kritische Nginx-Lücken gefährden Webserver",
+      "summary": "Drei Sicherheitslücken in Nginx lassen Angreifer zahlreiche Webserver lahmlegen oder Schadcode einschleusen. Admins sollten zügig patchen. (Sicherheitslücke, Server)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/bitkom-studie-deutsche-wirtschaft-uebersteht-ohne-digitalimporte-nur-16-monate-2610-214266.html",
-      "publishedAt": "2026-10-19T15:31:02.000Z"
+      "url": "https://www.golem.de/news/schadcode-attacken-moeglich-kritische-nginx-luecken-gefaehrden-webserver-2610-214277.html",
+      "publishedAt": "2026-10-20T06:55:02.000Z"
     },
     {
-      "id": "n_61c7e6735d",
+      "id": "n_13b51dd1ea",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Fahrradleuchten-Set mit StVZO-Zulassung für nur 17,99 Euro bei Amazon",
-      "summary": "Amazon hat ein akkubetriebenes Fahrradleuchten-Set im Angebot, das eine StVZO-Zulassung hat und stark nachgefragt ist. (Technik/Hardware)",
+      "headline": "Umfrage: KI ist schnell fertig, die Arbeit aber noch lange nicht",
+      "summary": "Fast jeder Zweite erhält KI-Ergebnisse, die stark überarbeitet werden müssen. Ein Drittel gibt KI-Inhalte weiter, ohne sie ganz zu lesen. (Studien, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-fahrradleuchten-set-mit-stvzo-zulassung-fuer-nur-17-99-euro-bei-amazon-2610-214265.html",
-      "publishedAt": "2026-10-19T15:14:02.000Z"
+      "url": "https://www.golem.de/news/umfrage-ki-ist-schnell-fertig-die-arbeit-aber-noch-lange-nicht-2610-214276.html",
+      "publishedAt": "2026-10-20T06:44:02.000Z"
+    },
+    {
+      "id": "n_6befd96f42",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Sandisk Extreme Pro mit 2.000 MB/s - Externe SSD fast zum Prime-Day-Preis",
+      "summary": "Amazon senkt den Preis der schnellen 1-TByte-SSD auf 185,99 Euro. Damit kostet die robuste Sandisk Extreme Pro nur 74 Cent mehr als während der Prime Deal Days. (Solid State Drive, Speichermedien)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-sandisk-extreme-pro-mit-2-000-mb-s-externe-ssd-fast-zum-prime-day-preis-2610-214267.html",
+      "publishedAt": "2026-10-20T06:03:02.000Z"
+    },
+    {
+      "id": "n_4b8edebc97",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "French cities calm overnight after curfews imposed to quell violence, PM says",
+      "summary": "Sébastien Lecornu said new curfews for Tuesday night would be decided where necessary.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T06:35:57.000Z"
+    },
+    {
+      "id": "n_d8aa26e402",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "How is the US economy really doing under President Trump?",
+      "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T05:00:45.000Z"
+    },
+    {
+      "id": "n_6ed17c0755",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+      "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T03:10:39.000Z"
+    },
+    {
+      "id": "n_035ff7b3f1",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
+      "summary": "In the wake of the apparent attack on Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T02:54:05.000Z"
+    },
+    {
+      "id": "n_26da7bffb3",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Seventh day of violent clashes between Albanian protesters and police",
+      "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T02:45:05.000Z"
     },
     {
       "id": "n_5c7456644e",
@@ -275,17 +330,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-20T01:52:43.000Z"
-    },
-    {
-      "id": "n_035ff7b3f1",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
-      "summary": "In the wake of the apparent attack on MP Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-20T01:24:59.000Z"
     },
     {
       "id": "n_d7144f84d6",
@@ -308,50 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-19T23:30:03.000Z"
-    },
-    {
-      "id": "n_1e7b8d336d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Five ways El Niño is affecting the weather around the world",
-      "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T23:08:25.000Z"
-    },
-    {
-      "id": "n_65511d9135",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "In pictures: Dussehra celebrated across India as triumph of good over evil",
-      "summary": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T23:04:08.000Z"
-    },
-    {
-      "id": "n_3a14b2dffd",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Clean up begins after French riots but police remain",
-      "summary": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T21:30:08.000Z"
-    },
-    {
-      "id": "n_7604d8c482",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "summary": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T21:14:53.000Z"
     },
     {
       "id": "n_f9cad54fff",
@@ -442,6 +442,17 @@
       "publishedAt": "2026-10-16T18:11:29.000Z"
     },
     {
+      "id": "n_582e7d53b6",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+      "summary": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+      "publishedAt": "2026-10-20T05:59:56.000Z"
+    },
+    {
       "id": "n_bc26a53f6a",
       "type": "news",
       "topic": "tech",
@@ -517,17 +528,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
       "publishedAt": "2026-10-19T18:30:56.000Z"
-    },
-    {
-      "id": "n_5d37bd28a1",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "AI game clones are making indie developers afraid to show their work",
-      "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
-      "publishedAt": "2026-10-19T16:59:22.000Z"
     },
     {
       "id": "n_ed298111b5",
