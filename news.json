@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-10-22T14:09:51.405Z",
+  "generatedAt": "2026-10-22T18:54:50.060Z",
   "items": [
+    {
+      "id": "n_66b7a0fea1",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Energiepreise: Ministerpräsidenten drängen auf Entlastungen",
+      "summary": "Die Stromsteuer runter, die Kraftstoffkosten deckeln: Die Ministerpräsidentinnen und -präsidenten fordern von der Regierung spürbare Entlastungen für die Menschen im Land. Man sei der Auffassung, dass der Bund diese Spielräume habe.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/ministerpraesidentenkonferenz-beschluesse-stromsteuer-spritpreise-100.html",
+      "publishedAt": "2026-10-22T18:12:49.000Z"
+    },
+    {
+      "id": "n_17dfd911dc",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Datenschutzerklärung von tagesschau.de",
+      "summary": "Hier erhalten Sie Informationen zum Datenschutz für die Webseiten bei tagesschau.de",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/datenschutz",
+      "publishedAt": "2026-10-22T16:54:35.000Z"
+    },
+    {
+      "id": "n_e183889333",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: DAX fällt wieder zurück",
+      "summary": "Der DAX hat bei volatilem Handel einen Teil seiner Gewinne vom Vortag wieder abgegeben. Er folgte einer schwachen Wall Street. Es waren mal wieder Nachrichten aus dem US-Tech-Sektor, die die Kurse bewegten.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html",
+      "publishedAt": "2026-10-22T16:36:57.000Z"
+    },
+    {
+      "id": "n_a3c4b0fafd",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bevölkerungsschutz: Wie Schweden für den Ernstfall vorsorgt",
+      "summary": "Kriege, Extremwetter, Terror: Schweden bereitet seine Bevölkerung auf den möglichen Ernstfall vor - etwa mit einer Broschüre und Übungen. Denn klar ist auch: Im Fall der Fälle müssen die Menschen erstmal alleine klarkommen. Von Jana Sinram.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/schweden-bevoelkerungsschutz-100.html",
+      "publishedAt": "2026-10-22T16:35:29.000Z"
+    },
+    {
+      "id": "n_369ec64526",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "PHP-Sicherheitslücke: Digitalminister sieht keine Hinweise auf Cyberangriffe",
+      "summary": "Millionen Cyberattacken binnen weniger Stunden: Die PHP-Sicherheitslücke hat weltweit Besorgnis ausgelöst. Viele Internetseiten sind noch immer nicht erreichbar - und Kriminelle versuchen weiter, die Lücke auszunutzen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/cybersicherheit-internet-php-100.html",
+      "publishedAt": "2026-10-22T16:27:55.000Z"
+    },
     {
       "id": "n_ef11fccca6",
       "type": "news",
@@ -10,7 +65,18 @@
       "summary": "Trotz aktueller Krisen kann der Bund im kommenden Jahr mit mehr Steuereinnahmen rechnen als zunächst erwartet. Dennoch rechnet Finanzminister Klingbeil nicht mit mehr Spielräumen für den Haushalt.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/steuerschaetzung-bund-klingbeil-100.html",
-      "publishedAt": "2026-10-22T13:58:42.000Z"
+      "publishedAt": "2026-10-22T15:54:20.000Z"
+    },
+    {
+      "id": "n_9b263bcf0b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Neues Plattenlabel von Igor Levit: \"Mein Leben ist No Silence\"",
+      "summary": "Igor Levit ist als Pianist international erfolgreich - und mischt sich immer wieder politisch ein. Mit seinem eigenen Label will er jetzt auch anderen Künstlern eine Plattform geben. Der Name hat eine persönliche Geschichte. Von Max Kell.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/kultur/musik-igor-levit-neues-plattenlabel-100.html",
+      "publishedAt": "2026-10-22T15:23:05.000Z"
     },
     {
       "id": "n_0f830006d6",
@@ -24,70 +90,15 @@
       "publishedAt": "2026-10-22T13:27:40.000Z"
     },
     {
-      "id": "n_33d87e5881",
+      "id": "n_f0da6c5654",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Marktbericht: SAP-Umbau trägt Früchte",
-      "summary": "Europas größter Softwarekonzern setzt beim Umbau ganz auf KI - mit Erfolg, wie die jüngsten Quartalszahlen zeigen. Vor allem im Cloudgeschäft punkten die Walldorfer. Die Börse honoriert das.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/sap-mittags-mb-100.html",
-      "publishedAt": "2026-10-22T12:10:58.000Z"
-    },
-    {
-      "id": "n_749c6cc77d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Internationaler Strafgerichtshof erhält Sacharow-Preis",
-      "summary": "Der Internationale Strafgerichtshof hat den diesjährigen Sacharow-Preis erhalten. Mit der Auszeichnung würdigt das EU-Parlament den Einsatz des Gerichts für das Völkerrecht - und setzt ein Zeichen gegen die Sanktionen von US-Präsident Trump.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/sacharow-preis-internationaler-strafgerichtshof-100.html",
-      "publishedAt": "2026-10-22T11:42:57.000Z"
-    },
-    {
-      "id": "n_87ca333624",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Mutmaßlicher russischer Spion in Brandenburg festgenommen",
-      "summary": "In Brandenburg hat die Polizei einen mutmaßlichen Spion festgenommen. Er soll im Dienste Russlands Rüstungsfirmen ausgespäht haben. Der Mann selbst soll ein Ukrainer aus russisch besetztem Gebiet sein. Von. M. Götschenberg und H. Schmidt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/spionage-ruestungindustrie-festnahme-100.html",
-      "publishedAt": "2026-10-22T11:32:31.000Z"
-    },
-    {
-      "id": "n_ad9d81b69e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Was beim neuen Altersvorsorgedepot zu beachten ist",
-      "summary": "Neben der Kapitalrente wird es auch eine neue staatlich geförderte Zusatzrente geben, das Altersvorsorgedepot. Es soll die \"Riester-Rente\" ablösen. Das Versprechen: mehr Aktien, ETFs und Renditechancen. Was es zu beachten gilt, erklärt Christian Sachsinger.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-100.html",
-      "publishedAt": "2026-10-22T11:09:07.000Z"
-    },
-    {
-      "id": "n_0a5532f9de",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "SPD will Pflegereform nachbessern",
-      "summary": "Bei der Ministerpräsidentenkonferenz dürfte heute wohl auch über die Pflegereform diskutiert werden. Die SPD will Nachbesserungen - und fordert eine Überarbeitung des Gesetzentwurfs.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/spd-pflegereform-104.html",
-      "publishedAt": "2026-10-22T10:31:09.000Z"
-    },
-    {
-      "id": "n_089d08d8ea",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Livekultur als Geschäftsmodell - Wem gehören unsere Festivals?",
-      "summary": "Wacken, Rock am Ring, Hurricane: Hinter vielen der größten Musikfestivals stehen inzwischen internationale Konzerne. Die Konzentration verändert das Geschäft mit Livemusik und setzt unabhängige Veranstalter unter Druck. Von Samira Straub.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kultur/wem-gehoeren-festivals-100.html",
-      "publishedAt": "2026-10-22T10:03:36.000Z"
+      "headline": "php2shell: Wer nun was machen muss",
+      "summary": "Sämtliche PHP-Versionen der letzten 20 Jahre sind durch zwei Sicherheitslücken gefährdet. Updates einzuspielen ist das einzig wirksame Mittel.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/php2shell-Luecke-Was-jetzt-zu-tun-ist-11497046.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-22T15:00:00.000Z"
     },
     {
       "id": "n_7fb3bb020f",
@@ -167,185 +178,185 @@
       "publishedAt": "2026-10-20T18:28:00.000Z"
     },
     {
-      "id": "n_5eff547b10",
+      "id": "n_83c0067ebb",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Werbeblocker Pi-hole: Update stopft Befehlsschmuggel-Lücke und mehr",
-      "summary": "Der Werbeblocker Pi-hole bessert mit einem Update zahlreiche Schwachstellen aus. Nutzerinnen und Nutzer sollten es rasch anwenden.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-Befehlsschmuggel-Luecke-und-mehr-11493503.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-20T10:46:00.000Z"
-    },
-    {
-      "id": "n_a472963a11",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Autonomes Fahren: Tesla macht neue Versprechungen zu echtem FSD",
-      "summary": "Mitte 2027 soll FSD ohne Aufsicht endlich kommen - mal wieder. Benutzen können es Tesla-Fahrer nur in Robotaxi-Zonen, auch mit einem eigenen Cybercab. (Cybercab, Elektroauto)",
+      "headline": "DSA-Verfahren eingeleitet: EU untersucht Booking.com wegen Phishing und Fake-Angeboten",
+      "summary": "Weil Betrüger über gestohlene Buchungsdaten hochgradig glaubwürdige Zahlungsaufforderungen an Reisende verschicken, fordert die EU wirksame Schutzmaßnahmen bei Booking.com. (Booking.com, Wirtschaft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/autonomes-fahren-tesla-macht-neue-versprechungen-zu-echtem-fsd-2610-214404.html",
-      "publishedAt": "2026-10-22T13:49:05.000Z"
+      "url": "https://www.golem.de/news/dsa-verfahren-eingeleitet-eu-untersucht-booking-com-wegen-phishing-und-fake-angeboten-2610-214414.html",
+      "publishedAt": "2026-10-22T17:40:02.000Z"
     },
     {
-      "id": "n_550126b7d1",
+      "id": "n_b6d8fecccb",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: 165-W-Powerbank von Cuktech mit drei Ports und Display für unter 57 Euro",
-      "summary": "Die Cuktech 15 Ultra lädt bis zu drei Geräte gleichzeitig und zeigt die Ladedaten auf einem Farbdisplay an. Bei Amazon ist sie für unter 57 Euro im Angebot. (Technik/Hardware, Amazon)",
+      "headline": "Anzeige: Nach Preisfall: 18V-Akku von Bosch erobert die Amazon-Charts",
+      "summary": "Der 5-Ah-Akku von Bosch Professional wird seit mehreren Tagen so günstig wie nie von Amazon angeboten. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-165-w-powerbank-von-cuktech-mit-drei-ports-und-display-fuer-unter-57-euro-2610-214401.html",
-      "publishedAt": "2026-10-22T12:50:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-nach-preisfall-18v-akku-von-bosch-erobert-die-amazon-charts-2610-214415.html",
+      "publishedAt": "2026-10-22T16:56:02.000Z"
     },
     {
-      "id": "n_703f662f62",
+      "id": "n_715e550907",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Elektrische Schallzahnbürste für nur 59,42 Euro bei Amazon",
-      "summary": "Der Bestseller unter den elektrischen Schallzahnbürsten mit vier Programmen und 40.000 Vibrationen pro Minute ist bei Amazon reduziert. (Technik/Hardware)",
+      "headline": "Anzeige: Microsoft 365 DSGVO-konform betreiben und absichern",
+      "summary": "Microsoft 365 stellt Unternehmen vor Datenschutzfragen. Ein Workshop zeigt, wie sich DSGVO-Anforderungen, Datenresidenz und Audit-Pflichten technisch umsetzen lassen. (Golem Karrierewelt, Datenschutz)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-elektrische-schallzahnbuerste-fuer-nur-59-42-euro-bei-amazon-2610-214400.html",
-      "publishedAt": "2026-10-22T12:20:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-und-absichern-2610-214324.html",
+      "publishedAt": "2026-10-22T16:45:01.000Z"
     },
     {
-      "id": "n_deeb3994a1",
+      "id": "n_1b5ee9ab71",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Britische Studie: Deutschland bei Stromverfügbarkeit weltweit angeblich auf Platz 180",
-      "summary": "Eine Studie stuft Deutschland und weitere Länder bei der Stromversorgung schlecht ein. Die Methodik ist mindestens fragwürdig. (Energiewende, Atomkraft)",
+      "headline": "Anzeige: Bluetooth-Etikettendrucker für unter 17 Euro bei Amazon",
+      "summary": "Ohne Tinte oder Toner: Der Nelko P21 druckt selbstklebende Etiketten vom Smartphone. Amazon bietet das wiederaufladbare Gerät in verschiedenen Farben für unter 17 Euro an. (Technik/Hardware, Amazon)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/britische-studie-deutschland-bei-stromverfuegbarkeit-weltweit-angeblich-auf-platz-180-2610-214398.html",
-      "publishedAt": "2026-10-22T12:14:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-bluetooth-etikettendrucker-fuer-unter-17-euro-bei-amazon-2610-214413.html",
+      "publishedAt": "2026-10-22T16:06:01.000Z"
     },
     {
-      "id": "n_2dba915d82",
+      "id": "n_ef78f7fdd6",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Bioware macht dicht: Was bleibt, ist meine Mass-Effect-Lederjacke",
-      "summary": "Biowares Schließung war absehbar. Trotzdem macht es mich, der sich in Mass Effect verliebte, traurig. Ein Abschied. Ein Nachruf von Oliver Nickel (Bioware, Dragon Age)",
+      "headline": "(g+) Streaming: Netflix' 300-Milliarden-Dollar-Problem",
+      "summary": "Netflix gibt Milliarden für Inhalte aus, doch die großen Hits bleiben aus. Die Financial Times zeigt in unserer Leseempfehlung, wie tief die Krise reicht. Von Anna Nicolaou (Netflix, Disney)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/bioware-macht-dicht-was-bleibt-ist-meine-mass-effect-lederjacke-2610-214394.html",
-      "publishedAt": "2026-10-22T12:00:02.000Z"
+      "url": "https://www.golem.de/news/streaming-netflix-300-milliarden-dollar-problem-2610-214364.html",
+      "publishedAt": "2026-10-22T16:00:02.000Z"
     },
     {
-      "id": "n_3b219408b4",
+      "id": "n_a17ed77f52",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Kundendaten abgeflossen: Cyberangriff legt Cloudplattform Railway lahm",
-      "summary": "Railway ist Ziel eines Cyberangriffs geworden. Laut dem Plattformbetreiber sind Angreifer unter anderem an API-Keys und Zugangsdaten seiner Kunden gelangt. (Datenleck, API)",
+      "headline": "IT-Sicherheit: BSI-Präsidentin droht KI-Anbietern in den USA und in China mit Haftung",
+      "summary": "BSI-Präsidentin Claudia Plattner wünscht sich ein schärferes Vorgehen gegen die Sicherheitsrisiken durch KI. Sie kritisiert einen unzureichenden, laxen Umgang mit IT-Sicherheit. (BSI, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/kundendaten-abgeflossen-cyberangriff-legt-cloudplattform-railway-lahm-2610-214393.html",
-      "publishedAt": "2026-10-22T11:42:02.000Z"
+      "url": "https://www.golem.de/news/it-sicherheit-bsi-praesidentin-droht-ki-anbietern-in-den-usa-und-in-china-mit-haftung-2610-214412.html",
+      "publishedAt": "2026-10-22T15:59:02.000Z"
     },
     {
-      "id": "n_6ea4230c38",
+      "id": "n_8fc570afd6",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) Vier Coding-Agenten im Testeinsatz: Warum grüne Tests noch keinen guten Code garantieren",
-      "summary": "Vier Coding-Agenten ändern Code in einer .NET-Bibliothek zur Datenprüfung. Obwohl ihre Lösungen die Tests bestehen, bleiben Fehler und Lücken. Wo müssen Entwickler nacharbeiten? Ein Praxistest von Fabian Deitelhoff (Softwareentwicklung, KI)",
+      "headline": "Anzeige: Dieser Saugroboter von Roborock war bei Amazon noch nie günstiger",
+      "summary": "Bei Amazon sind derzeit Saugroboter von Roborock deutlich reduziert. Teilweise waren sie, Ausnahme Prime Day, noch nie so günstig. (Saugroboter, Roborock)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/vier-coding-agenten-im-testeinsatz-warum-gruene-tests-noch-keinen-guten-code-garantieren-2610-214395.html",
-      "publishedAt": "2026-10-22T11:30:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-dieser-saugroboter-von-roborock-war-bei-amazon-noch-nie-guenstiger-2610-214411.html",
+      "publishedAt": "2026-10-22T15:51:01.000Z"
     },
     {
-      "id": "n_bd2fed8e40",
+      "id": "n_0f65c2edf4",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Gruseliger Bestpreis - Amazon senkt Lego-Halloweenkranz auf 25 Euro",
-      "summary": "Kurz vor Halloween kostet der Lego-Halloweenkranz mit 617 Teilen bei Amazon nur 24,69 Euro. Laut Geizhals ist dies der aktuelle Bestpreis. (Lego, Amazon)",
+      "headline": "Photovoltaik: Solarparks machen Wüste zur Kohlenstoffsenke",
+      "summary": "Bis zu viermal so viel CO2 speichert Wüstenboden, der mit Photovoltaik bedeckt ist. Die Verschattung ist nicht allein verantwortlich. (Klimawandel, GreenIT)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-gruseliger-bestpreis-amazon-senkt-lego-halloweenkranz-auf-25-euro-2610-214397.html",
-      "publishedAt": "2026-10-22T11:29:02.000Z"
+      "url": "https://www.golem.de/news/photovoltaik-solarparks-machen-wueste-zur-kohlenstoffsenke-2610-214402.html",
+      "publishedAt": "2026-10-22T15:42:02.000Z"
     },
     {
-      "id": "n_db746dbf03",
+      "id": "n_4e52348834",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "First human case of Shamonda virus detected in France, officials say",
-      "summary": "The disease, which usually affects cattle, has been identified in a patient who died in early October.",
+      "headline": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T13:53:32.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T18:26:56.000Z"
     },
     {
-      "id": "n_e74ce2d513",
+      "id": "n_ca69a5b65e",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
-      "summary": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom.",
+      "headline": "Ukraine hit by strikes after Russia agrees to new peace talks",
+      "summary": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T13:46:33.000Z"
+      "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T17:49:13.000Z"
     },
     {
-      "id": "n_5cf39e6465",
+      "id": "n_d7ed585b0b",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out",
-      "summary": "The congresswoman said federal agents seized over a dozen items, including cell phones and notebooks, as part of a federal investigation.",
+      "headline": "Total ban on protests in Marseille and Lyon after riots",
+      "summary": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T13:36:21.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T17:45:44.000Z"
     },
     {
-      "id": "n_4febfa9c0b",
+      "id": "n_4e22dc253b",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Two European women held captive for more than a year in Niger freed in Libya",
-      "summary": "The Swiss government told the BBC that the freed national was on her way back to Switzerland.",
+      "headline": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
+      "summary": "The influencer, whose real name is Braden Peters, is accused of sexually assaulting a 17-year-old girl in 2025.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T13:22:39.000Z"
-    },
-    {
-      "id": "n_3051f64fd4",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "AI discovered a massive cyber-security flaw - here's what happened",
-      "summary": "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T12:17:44.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T17:21:42.000Z"
     },
     {
       "id": "n_02468dd81f",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Grandparent hugging consent ad pulled after criticism",
+      "headline": "'Demeaning' and 'absurd': The backlash against a hugging grandparents consent ad",
       "summary": "Jim O'Callaghan described the video as \"inappropriate and demeaning to grandparents\".",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T11:58:34.000Z"
+      "publishedAt": "2026-10-22T17:18:17.000Z"
     },
     {
-      "id": "n_1c56cf9341",
+      "id": "n_be9481d260",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "At least four dead after storm brings flooding to southern France",
-      "summary": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
+      "headline": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T11:23:16.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T17:14:04.000Z"
+    },
+    {
+      "id": "n_b853ddd115",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Race to update services' computer systems after cyber-security flaw found",
+      "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T17:12:51.000Z"
+    },
+    {
+      "id": "n_0468457dcc",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+      "summary": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-22T17:07:03.000Z"
     },
     {
       "id": "n_c75360ac72",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
       "headline": "What is PHP and why did it spark a global cyber-security scramble?",
       "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
@@ -409,26 +420,59 @@
       "publishedAt": "2026-10-21T23:04:03.000Z"
     },
     {
-      "id": "n_e3dbce13ab",
+      "id": "n_1be1f8041c",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Websites taken down worldwide as critical cyber-security update issued",
-      "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T19:54:57.000Z"
+      "headline": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
+      "summary": "Meta will appeal a ruling imposing the largest fine Mark Zuckerberg has ever seen.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
+      "publishedAt": "2026-10-22T17:04:31.000Z"
     },
     {
-      "id": "n_e9a4a96c26",
+      "id": "n_10c60e172a",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Just Eat apologises for AI food mistakes after social media ridicule",
-      "summary": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-21T17:04:13.000Z"
+      "headline": "US-backed vaccine trial on babies canceled after international outcry",
+      "summary": "The decried trial was canceled last week before police seized vaccine doses.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/",
+      "publishedAt": "2026-10-22T16:37:00.000Z"
+    },
+    {
+      "id": "n_9d1bb006da",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "This emulator reimagines Nintendo’s Virtual Boy with a full color display",
+      "summary": "Tile-based color palettes go way beyond the four shades of red on original hardware.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/",
+      "publishedAt": "2026-10-22T15:59:40.000Z"
+    },
+    {
+      "id": "n_c625905b37",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+      "summary": "Hackers were already probing the bug before defenders were told it existed.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+      "publishedAt": "2026-10-22T15:25:02.000Z"
+    },
+    {
+      "id": "n_9f501da3ad",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Sauron recruits his future Ringwraiths in Rings of Power S3 trailer",
+      "summary": "\"I will take my place as the conqueror, a sorcerer, a king.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/10/sauron-recruits-his-future-ringwraiths-in-rings-of-power-s3-trailer/",
+      "publishedAt": "2026-10-22T14:22:31.000Z"
     },
     {
       "id": "n_2820f30241",
@@ -464,59 +508,48 @@
       "publishedAt": "2026-10-22T11:15:36.000Z"
     },
     {
-      "id": "n_7edb1a939a",
+      "id": "n_4baf690dfb",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
-      "summary": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
-      "publishedAt": "2026-10-21T22:17:50.000Z"
+      "headline": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "publishedAt": "2026-10-22T18:43:53.000Z"
     },
     {
-      "id": "n_56259d9e9e",
+      "id": "n_93c844a35d",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
-      "summary": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
-      "publishedAt": "2026-10-21T22:06:07.000Z"
+      "headline": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "publishedAt": "2026-10-22T16:47:17.000Z"
     },
     {
-      "id": "n_3b4c4293f2",
+      "id": "n_9d72639f5e",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Enterprises keep buying software upgrades that IT thinks will make things worse",
-      "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
-      "publishedAt": "2026-10-21T21:48:52.000Z"
+      "headline": "Uber puts all 30,000 employees on ChatGPT Work",
+      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "publishedAt": "2026-10-22T16:00:00.000Z"
     },
     {
-      "id": "n_91c9bfe279",
+      "id": "n_0bffbef035",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Tesla profits drop 43% in Q3",
-      "summary": "Tesla’s once-booming energy storage business also shrank in Q3 2026.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
-      "publishedAt": "2026-10-21T21:35:07.000Z"
-    },
-    {
-      "id": "n_140d853f0e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "The new human-crafted Apple Music brand matters in an AI world",
-      "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
-      "publishedAt": "2026-10-21T19:44:40.000Z"
+      "headline": "Spotify’s current AI bet is about being the music service that agents choose",
+      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "publishedAt": "2026-10-22T15:03:58.000Z"
     },
     {
       "id": "n_6aa970c38b",
@@ -524,7 +557,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "Claude Duet app is Anthropic’s bet on agents",
-      "summary": "Claude Duet is available through waitlist for Pro and Max plan users",
+      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
       "publishedAt": "2026-10-22T13:53:26.000Z"
@@ -546,7 +579,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "DeepSeek reportedly raises $15B days after US restrictions",
-      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
       "publishedAt": "2026-10-22T13:11:13.000Z"
@@ -563,48 +596,81 @@
       "publishedAt": "2026-10-21T22:51:22.000Z"
     },
     {
-      "id": "n_063c29a16f",
+      "id": "n_2c1b17b371",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "publishedAt": "2026-10-21T21:16:20.000Z"
+      "headline": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communi",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+      "publishedAt": "2026-10-22T18:15:00.000Z"
     },
     {
-      "id": "n_21039cf535",
+      "id": "n_98a7f3683d",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Meta says Muse has over 10M users, with shopping a top activity",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "publishedAt": "2026-10-21T21:14:19.000Z"
+      "headline": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+      "summary": "Microsoft AI chief Mustafa Suleyman. | Getty Images For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have d",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+      "publishedAt": "2026-10-22T18:00:00.000Z"
     },
     {
-      "id": "n_dc1c99f797",
+      "id": "n_7b213ad205",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "publishedAt": "2026-10-21T20:27:41.000Z"
+      "headline": "Someone hacked the Switch 2 by using an old game and AI",
+      "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. i jailbroke the nintendo ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+      "publishedAt": "2026-10-22T17:21:31.000Z"
     },
     {
-      "id": "n_a9cc4be8b0",
+      "id": "n_2a8e11324f",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "publishedAt": "2026-10-21T19:30:00.000Z"
+      "headline": "Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’",
+      "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alo",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+      "publishedAt": "2026-10-22T16:16:15.000Z"
+    },
+    {
+      "id": "n_540e896edf",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 m",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+      "publishedAt": "2026-10-22T15:50:30.000Z"
+    },
+    {
+      "id": "n_7faddebfff",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "PHP: The three little letters wreaking havoc across the web",
+      "summary": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, and a host of other popular sites and platforms, including Dev",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+      "publishedAt": "2026-10-22T15:12:27.000Z"
+    },
+    {
+      "id": "n_1268662601",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+      "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The tu",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+      "publishedAt": "2026-10-22T14:00:00.000Z"
     },
     {
       "id": "n_633b643659",
@@ -616,83 +682,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
       "publishedAt": "2026-10-22T13:00:00.000Z"
-    },
-    {
-      "id": "n_c24876b37e",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI agents are ready to shop. Some retailers are wary.",
-      "summary": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful. In practice, at least for buying things, it's more like sending an an",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
-      "publishedAt": "2026-10-22T12:30:00.000Z"
-    },
-    {
-      "id": "n_ff67e4725a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Claude did not invent scorpion antivenom",
-      "summary": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It couldn't. It came up with some promising starting points, but nothing close to an",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
-      "publishedAt": "2026-10-22T12:21:07.000Z"
-    },
-    {
-      "id": "n_e106504eae",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Eiliko maker says it&#8217;s hiring an ‘independent security firm’ after Verge report on its insecure robots",
-      "summary": "The Eiliko robot toy. | Photo by Sean Hollister / The Verge Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete trans",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
-      "publishedAt": "2026-10-22T11:00:00.000Z"
-    },
-    {
-      "id": "n_eaa3fbf800",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Data centers could erase decades of air quality gains",
-      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How de",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-      "publishedAt": "2026-10-21T22:33:44.000Z"
-    },
-    {
-      "id": "n_86bbef590f",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Meta to create a new class of shares to fund AI push",
-      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-      "publishedAt": "2026-10-21T21:30:02.000Z"
-    },
-    {
-      "id": "n_0d8d033795",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Andr",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "publishedAt": "2026-10-21T19:53:20.000Z"
-    },
-    {
-      "id": "n_89a2c6e875",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Walmart is inviting AI agents to shop for you",
-      "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Ama",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-      "publishedAt": "2026-10-21T19:30:00.000Z"
     },
     {
       "id": "n_6a85074051",
@@ -871,6 +860,17 @@
       "publishedAt": "2026-10-21T14:00:00.000Z"
     },
     {
+      "id": "n_eaa0ebff7d",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "publishedAt": "2026-10-22T16:11:31.000Z"
+    },
+    {
       "id": "n_5d118fadbe",
       "type": "news",
       "topic": "ai",
@@ -924,17 +924,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
       "publishedAt": "2026-10-21T14:58:18.000Z"
-    },
-    {
-      "id": "n_ca293d8533",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/allenai/fairstress",
-      "publishedAt": "2026-10-20T16:09:19.000Z"
     },
     {
       "id": "n_84cd8d44e9",
@@ -1055,6 +1044,18 @@
       "publishedAt": "2026-08-12T12:57:24.000Z"
     },
     {
+      "id": "n_dba4be3004",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The last real programmers are dying out...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=zv6B6PQOuHE",
+      "thumbnail": "https://i.ytimg.com/vi/zv6B6PQOuHE/hqdefault.jpg",
+      "publishedAt": "2026-10-22T15:09:31.000Z"
+    },
+    {
       "id": "n_5c15dc92fc",
       "type": "video",
       "topic": "video",
@@ -1089,18 +1090,6 @@
       "url": "https://www.youtube.com/watch?v=QZVzuq28eFw",
       "thumbnail": "https://i.ytimg.com/vi/QZVzuq28eFw/hqdefault.jpg",
       "publishedAt": "2026-10-14T17:48:10.000Z"
-    },
-    {
-      "id": "n_4dbee190eb",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Every app on Earth is now open source... whether it likes it or not",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=wajoP_5Cpw8",
-      "thumbnail": "https://i.ytimg.com/vi/wajoP_5Cpw8/hqdefault.jpg",
-      "publishedAt": "2026-10-12T19:15:23.000Z"
     },
     {
       "id": "n_251908ef4e",
