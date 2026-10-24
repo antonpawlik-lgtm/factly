@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-10-24T07:40:38.824Z",
+  "generatedAt": "2026-10-24T12:58:23.750Z",
   "items": [
+    {
+      "id": "n_b64c061e0a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nazi-Bau: Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
+      "summary": "Es diente den Nazis als Repräsentationsort hoch in den Bergen. In Nacht hat es nun im Kehlsteinhaus am Obersalzberg bei Berchtesgaden gebrannt. Die Polizei vermutet Brandstiftung und hat einen Verdächtigen festgenommen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
+      "publishedAt": "2026-10-24T12:35:12.000Z"
+    },
+    {
+      "id": "n_2c1cdb71e8",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Merz auf CSU-Parteitag bejubelt für Begrüßung Aigners",
+      "summary": "Der Kanzler ruft auf dem CSU-Parteitag zu Geschlossenheit auf und warnt vor Extremisten. Großen Applaus gibt es aber für einen besonderen Gruß, der im Zusammenhang mit der Diskussion über die Steinmeier-Nachfolge gesehen wurde.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/csu-cdu-merz-aigner-100.html",
+      "publishedAt": "2026-10-24T12:19:07.000Z"
+    },
+    {
+      "id": "n_8d3ffd0373",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
+      "summary": "Die Satellitenkommunikation von SpaceX in der Ukraine funktioniert nach Angaben aus Kiew wieder stabil. Die ukrainische Armee meldet derweil Angriffe auf russische Industrieanlagen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html",
+      "publishedAt": "2026-10-24T11:24:45.000Z"
+    },
+    {
+      "id": "n_c052a4dc60",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Debatte über SPD-Vorsitz: Mit oder ohne Klingbeil?",
+      "summary": "Noch ist offen, ob SPD-Chef Klingbeil noch einmal für den Posten kandidiert. Der Juso-Vorsitzende Türmer hat eine klare Meinung: Er fordert einen Neustart an der Parteispitze. Bremens Bürgermeister Bovenschulte hält an Klingbeil fest.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/spd-chef-klingbeil-debatte-100.html",
+      "publishedAt": "2026-10-24T10:52:30.000Z"
+    },
+    {
+      "id": "n_4321bac32b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Deutschlandticket für Gelegenheitsfahrer: Bilger findet Idee gut",
+      "summary": "Schnell mit dem Handy bei Bahn oder Öffis einchecken - und der günstigste Tarif wird berechnet. Am Monatsende kostet das Ganze höchstens so viel wie das Deutschlandticket. Der Verkehrsminister findet die Idee gut.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-nahverkehr-deutschlandticket-light-100.html",
+      "publishedAt": "2026-10-24T10:46:34.000Z"
+    },
+    {
+      "id": "n_9f18e0a3b8",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Massive Waldbrände in Indonesien - Kritik an Regierung",
+      "summary": "In Indonesien wüten die schlimmsten Feuer seit 2015. Hauptsächlich ausgelöst wurden die Feuer durch illegale Brandrodung. Die Nachbarn Singapur und Malaysia kritisieren die indonesische Regierung scharf. Von Jennifer Johnston.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/braende-indonesien-100.html",
+      "publishedAt": "2026-10-24T10:26:00.000Z"
+    },
     {
       "id": "n_9ff103cbd9",
       "type": "news",
@@ -10,84 +76,18 @@
       "summary": "Bäume und Äste auf Straßen und Gleisen, ein umgestürztes Gestell: Sturmtief \"Luise\" ist über Teile Deutschlands hinweggefegt. Zwei Menschen wurden schwer verletzt. Mit \"Manja\" zieht schon der nächste Sturm heran.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/herbststurm-104.html",
-      "publishedAt": "2026-10-24T07:31:39.000Z"
+      "publishedAt": "2026-10-24T08:59:50.000Z"
     },
     {
-      "id": "n_b64c061e0a",
+      "id": "n_d234a9dff2",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "\"Adlerhorst\" der Nazis: Großbrand im Kehlsteinhaus am Obersalzberg",
-      "summary": "Es diente den Nazis als Repräsentationsort hoch in den Bergen. Nun ist im Kehlsteinhaus am Obersalzberg bei Berchtesgaden ein Feuer ausgebrochen. Die Polizei vermutet Brandstiftung und nahm einen Verdächtigen fest.",
+      "headline": "Studie über Zeitumstellung - Welche Zeit ist besser für unsere Gesundheit?",
+      "summary": "Was einmal Energie sparen sollte, ist jetzt für viele ein Ärgernis. Die EU-Kommission schlug 2018 vor, die Zeitumstellung abzuschaffen. Nur: Welche Zeit soll gelten? Forschende haben eine Antwort. Von Wiebke Drescher.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
-      "publishedAt": "2026-10-24T06:25:14.000Z"
-    },
-    {
-      "id": "n_9092c3509f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Brasilien vor der Stichwahl: Die Macht der Influencer",
-      "summary": "Wer beherrscht die Sozialen Netzwerke? Diese Frage könnte in Brasilien wahlentscheidend sein. Im digitalen Wahlkampf kann Bolsonaro auf den erfolgreichsten Influencer des Landes zählen - doch auch die Linke hat dazugelernt. Von A. Herrberg.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-influencer-100.html",
-      "publishedAt": "2026-10-24T04:13:03.000Z"
-    },
-    {
-      "id": "n_e35d7d9902",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "US-Midterms: Die Sorge vor einer neuen Wahllüge Trumps",
-      "summary": "Seitdem Trump vor sechs Jahren gegen Biden verlor, leugnet er das Wahlergebnis. Die Lüge ist Doktrin in seiner Partei, viele US-Bürger haben sie verinnerlicht. Was, wenn die Republikaner nun die Zwischenwahlen verlieren sollten? Von C. Kühntopp.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-wahlbetrug-100.html",
-      "publishedAt": "2026-10-24T04:10:57.000Z"
-    },
-    {
-      "id": "n_4bcd35331e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wie sieht die Zukunft der Raffinerien aus?",
-      "summary": "Deutschlands Raffinerien stehen vor einem grundlegenden Wandel: Weg von fossilen Rohstoffen, hin zu klimafreundlicheren Alternativen. Wirtschaftsministerin Reiche will dafür eine Strategie vorlegen. Doch Experten sind skeptisch. Von Oda Lambrecht.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/raffineriestrategie-100.html",
-      "publishedAt": "2026-10-24T01:06:57.000Z"
-    },
-    {
-      "id": "n_916852829a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
-      "summary": "Nach den tödlichen Schüssen auf zwei Soldaten hat Israels Armee einen \"Anti-Terror-Einsatz\" im Westjordanland begonnen. Man suche dort nach Waffen und Terrorinfrastruktur. Israels Premier drohte zudem mit einem großangelegten Militäreinsatz.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html",
-      "publishedAt": "2026-10-24T01:01:43.000Z"
-    },
-    {
-      "id": "n_dbb536ef9a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Frankreich rüstet sich für nächsten Protesttag",
-      "summary": "Frankreich fürchtet eine weitere Eskalation der aufgeheizten Stimmung. Diesmal will der Staat besser vorbereitet sein. Inmitten dieser Lage erschüttert ein mutmaßlich rassistisch motivierter Anschlag das Land. Von Cai Rienäcker.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreittungen-paris-100.html",
-      "publishedAt": "2026-10-23T20:02:01.000Z"
-    },
-    {
-      "id": "n_a2af8de32e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "CSU-Chef Söder spricht von \"Herausforderung für die Demokratie\"",
-      "summary": "CSU-Chef Söder sieht die Demokratie vor großen Herausforderungen. Er verlangte zudem finanzielle Entlastungen für die Bevölkerung. Es müsse etwas passieren, betonte der bayrische Ministerpräsident im Interview mit den tagesthemen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/csu-soeder-138.html",
-      "publishedAt": "2026-10-23T19:45:20.000Z"
+      "url": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-winterzeit-sommerzeit-114.html",
+      "publishedAt": "2026-10-24T08:55:12.000Z"
     },
     {
       "id": "n_7339de8341",
@@ -178,92 +178,147 @@
       "publishedAt": "2026-10-21T07:22:00.000Z"
     },
     {
-      "id": "n_b41e1f8b44",
+      "id": "n_c1d2ebc755",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "30 Jahre Baphomets Fluch: Paris sehen und Tempelritter jagen",
-      "summary": "Ein Clown, ein Mord und die Geheimnisse der Tempelritter: Warum Baphomets Fluch auch 30 Jahre später noch beste Adventure-Unterhaltung bietet! Von Olaf Bleich und Benedikt Plass-Fleßenkämper (Baphomets Fluch, Adventure)",
+      "headline": "AfD-Datenleck: Geleakte Mails bringen Weidel in der Spendenaffäre in Erklärungsnot",
+      "summary": "Geleakte E-Mails zeigen, dass Alice Weidel 2017 konkrete Spenden für ihren Social-Media-Wahlkampf erwartete und selbst festlegte, wie das Geld fließen sollte. (Datenleck, E-Mail)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/30-jahre-baphomets-fluch-paris-sehen-und-tempelritter-jagen-2610-214384.html",
-      "publishedAt": "2026-10-24T05:30:02.000Z"
+      "url": "https://www.golem.de/news/afd-datenleck-geleakte-mails-bringen-weidel-in-der-spendenaffaere-in-erklaerungsnot-2610-214476.html",
+      "publishedAt": "2026-10-24T12:47:02.000Z"
     },
     {
-      "id": "n_33dc142e51",
+      "id": "n_840f92fc90",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "EU-Arktis-Strategie: Ein Glasfaserkabel über den Nordpol gegen hybride Bedrohungen",
-      "summary": "Mit der Veröffentlichung ihrer neuen Arktis-Strategie setzt die EU auf den Ausbau kritischer Unterwasser-Infrastruktur. Das geplante Pan-Arctic Cable soll Europa direkt über Grönland mit Kanada und Asien verbinden. (Seekabel, Telekommunikation)",
+      "headline": "Brandbrief: Bundesländer fordern Reform von Offshore-Windkraftgesetz",
+      "summary": "Acht Ministerpräsidenten fordern Änderungen am Offshore-Windkraftgesetz und warnen, dass der derzeitige Ansatz Investitionen verhindern könnte. (Windkraft, Bundesregierung)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/eu-arktis-strategie-ein-glasfaserkabel-ueber-den-nordpol-gegen-hybride-bedrohungen-2610-214466.html",
-      "publishedAt": "2026-10-23T16:53:00.000Z"
+      "url": "https://www.golem.de/news/brandbrief-bundeslaender-fordern-reform-von-offshore-windkraftgesetz-2610-214475.html",
+      "publishedAt": "2026-10-24T12:15:01.000Z"
     },
     {
-      "id": "n_dcd9b5cf9e",
+      "id": "n_4790428576",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: 2 Makita-kompatible Akkus kosten bei Amazon zusammen 43 Euro",
-      "summary": "Zwei Makita-kompatible Akkus kosten bei Amazon im Set keine 43 Euro. Das Angebot gilt befristet. (Technik/Hardware)",
+      "headline": "Ausbruchsgefahr: OpenAI sperrt seine KI-Modelle vom Internet aus",
+      "summary": "OpenAI trainiert Spitzenmodelle nur noch offline. Der Grund: KI-Agenten waren in Tests aus Sandboxes ausgebrochen. (OpenAI, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-2-makita-kompatible-akkus-kosten-bei-amazon-zusammen-43-euro-2610-214464.html",
-      "publishedAt": "2026-10-23T16:45:02.000Z"
+      "url": "https://www.golem.de/news/ausbruchsgefahr-openai-sperrt-seine-ki-modelle-vom-internet-aus-2610-214474.html",
+      "publishedAt": "2026-10-24T11:27:01.000Z"
     },
     {
-      "id": "n_19883f4c19",
+      "id": "n_40712849fb",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Microsoft 365 nach dem Zero-Trust-Prinzip absichern",
-      "summary": "Zero Trust verbindet Zugriffsschutz, Datenschutz und Monitoring in Microsoft 365. Ein Online-Workshop vermittelt die passenden Sicherheitsmaßnahmen. (Golem Karrierewelt, Sicherheitslücke)",
+      "headline": "Palantir: Nato-KI hat keinen Kill-Switch",
+      "summary": "Palantir beteuert, weder das Unternehmen noch die US-Regierung das Nato-System Maven abschalten zu können. Die Sorge vor einer Abhängigkeit von US-Technologie ist hoch. (Palantir, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-microsoft-365-nach-dem-zero-trust-prinzip-absichern-2610-214323.html",
-      "publishedAt": "2026-10-23T16:45:02.000Z"
+      "url": "https://www.golem.de/news/palantir-nato-ki-hat-keinen-kill-switch-2610-214473.html",
+      "publishedAt": "2026-10-24T10:58:02.000Z"
     },
     {
-      "id": "n_b4463305f0",
+      "id": "n_935d594b49",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Camping-Powerbank mit 90.000 mAh für unter 40 Euro",
-      "summary": "Eine Camping-Powerbank von Cuzar mit 90.000 mAh Kapazität und 30 W Spitzenleistung für bis zu 5 Geräte ist bei Amazon zum Tiefstpreis im Angebot. (Technik/Hardware, Amazon)",
+      "headline": "Satellitennavigation: Nato kauft Störsender, die GPS auf 11 km lahmlegen",
+      "summary": "Die Nato plant sechs mobile Störsender für GPS und Drohnenfunk. Der Störbereich lässt sich auf bis zu 11 km einstellen. (GPS, Navigationssystem)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-camping-powerbank-mit-90-000-mah-fuer-unter-40-euro-2610-214465.html",
-      "publishedAt": "2026-10-23T16:34:01.000Z"
+      "url": "https://www.golem.de/news/satellitennavigation-nato-kauft-stoersender-die-gps-auf-11-km-lahmlegen-2610-214472.html",
+      "publishedAt": "2026-10-24T10:12:02.000Z"
     },
     {
-      "id": "n_0d8f8e5198",
+      "id": "n_c752b12f81",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) Wirtschaft in Asien: Was Silicon-Valley-Start-ups anders machen",
-      "summary": "Warum entstehen im Silicon Valley mehr Tech-Giganten als in Asien? Nikkei-Asia-Chefredakteur Akito Tanaka erklärt, worauf es bei Start-ups ankommt. Von Akito Tanaka (Wirtschaft, Silicon Valley)",
+      "headline": "Spotify Memberships: Podcaster dürfen ihre Fans jetzt zur Kasse bitten",
+      "summary": "Spotify startet Podcast-Mitgliedschaften auch in Deutschland. Wer exklusive Inhalte will, zahlt extra, auch mit Premium. (Podcast, Streaming)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/wirtschaft-in-asien-was-silicon-valley-start-ups-anders-machen-2610-214458.html",
-      "publishedAt": "2026-10-23T16:00:03.000Z"
+      "url": "https://www.golem.de/news/spotify-memberships-podcaster-duerfen-ihre-fans-jetzt-zur-kasse-bitten-2610-214471.html",
+      "publishedAt": "2026-10-24T09:27:02.000Z"
     },
     {
-      "id": "n_e98d34b681",
+      "id": "n_0ee451e6b9",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Ryzen-Mini-PC von Acemagic mit 16 GByte RAM für unter 350 Euro",
-      "summary": "Die Ryzen-5-Variante des K1-Mini-PCs von Acemagic ist bei Amazon wieder reduziert. Günstiger als jetzt war sie dieses Jahr noch nicht. (PC, Computer)",
+      "headline": "USA-Einreise: US-Grenzbeamte schauen immer öfter ins Handy",
+      "summary": "Die US-Grenzbehörde CBP prüft deutlich mehr Smartphones und Laptops. Der Rekord von 2025 dürfte fallen. (Politik, Smartphone)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-ryzen-mini-pc-von-acemagic-mit-16-gbyte-ram-fuer-unter-350-euro-2610-214463.html",
-      "publishedAt": "2026-10-23T16:00:02.000Z"
+      "url": "https://www.golem.de/news/usa-einreise-us-grenzbeamte-schauen-immer-oefter-ins-handy-2610-214470.html",
+      "publishedAt": "2026-10-24T08:46:02.000Z"
     },
     {
-      "id": "n_79729a924e",
+      "id": "n_dc9eb99ddd",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Familientarif: Spotify geht gegen unerlaubtes Kontensharing vor",
-      "summary": "Das Familienabo von Spotify ist für Familienmitglieder gedacht - wird aber offenbar auch anderweitig genutzt. Das soll nun enden. (Spotify, Verbraucherschutz)",
+      "headline": "Anzeige: Mobile Wallbox mit 11 kW und Zubehör zum Amazon-Tiefstpreis rund 150 Euro",
+      "summary": "Die Voltbox Mobile Wallbox lädt E-Autos an der roten CEE-Steckdose mit bis zu 11 kW und ist gerade wieder zum Tiefpreis zu haben. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/familientarif-spotify-geht-gegen-unerlaubtes-kontensharing-vor-2610-214462.html",
-      "publishedAt": "2026-10-23T15:27:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-mobile-wallbox-mit-11-kw-und-zubehoer-zum-amazon-tiefstpreis-rund-150-euro-2610-214454.html",
+      "publishedAt": "2026-10-24T08:40:01.000Z"
+    },
+    {
+      "id": "n_8b4dc9f394",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Ukraine says Starlink connection 'now stable' after network limits",
+      "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T12:12:40.000Z"
+    },
+    {
+      "id": "n_3c59e84754",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T11:23:59.000Z"
+    },
+    {
+      "id": "n_70dec74f83",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T09:46:53.000Z"
+    },
+    {
+      "id": "n_d783cc6b4b",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "summary": "The children were subsequently rescued from the water, police say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T09:45:47.000Z"
+    },
+    {
+      "id": "n_d7177b581f",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Seven missing after multi-storey building collapses in Kenya's capital",
+      "summary": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T09:44:01.000Z"
     },
     {
       "id": "n_f8deac049e",
@@ -275,17 +330,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-24T07:17:44.000Z"
-    },
-    {
-      "id": "n_7ef5328c98",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "France prepares for day of protest a week after nationwide riots",
-      "summary": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T06:19:46.000Z"
     },
     {
       "id": "n_01300e7b35",
@@ -308,50 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-24T05:05:44.000Z"
-    },
-    {
-      "id": "n_6467e4644d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "The rise of AI election ads in US midterms campaign",
-      "summary": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T05:03:44.000Z"
-    },
-    {
-      "id": "n_3c59e84754",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Arrest made after fire at Hitler's famed Eagle's Nest retreat",
-      "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T03:51:25.000Z"
-    },
-    {
-      "id": "n_9992813560",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Australian MP's condition improves after alleged car attack",
-      "summary": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T01:55:15.000Z"
-    },
-    {
-      "id": "n_a344deb0b7",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T00:36:47.000Z"
     },
     {
       "id": "n_875bfd88d0",
@@ -442,6 +442,28 @@
       "publishedAt": "2026-10-22T10:08:44.000Z"
     },
     {
+      "id": "n_7e7984ce45",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+      "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+      "publishedAt": "2026-10-24T11:50:28.000Z"
+    },
+    {
+      "id": "n_6ca78a3868",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+      "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+      "publishedAt": "2026-10-24T11:00:09.000Z"
+    },
+    {
       "id": "n_5dac0b35ab",
       "type": "news",
       "topic": "tech",
@@ -506,28 +528,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
       "publishedAt": "2026-10-23T17:32:58.000Z"
-    },
-    {
-      "id": "n_e44aee2d44",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-      "publishedAt": "2026-10-23T17:18:31.000Z"
-    },
-    {
-      "id": "n_c8908ef224",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns",
-      "summary": "\"Trust is slow to build and quick to lose,\" board chair Jack Leslie said.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/",
-      "publishedAt": "2026-10-23T16:58:39.000Z"
     },
     {
       "id": "n_b15a6fb967",
@@ -607,14 +607,14 @@
       "publishedAt": "2026-10-22T19:07:09.000Z"
     },
     {
-      "id": "n_afbb328c26",
+      "id": "n_1d8d266cc0",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Canva releases its first image generation model",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "headline": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "publishedAt": "2026-10-22T19:00:00.000Z"
     },
     {
@@ -794,6 +794,17 @@
       "publishedAt": "2026-10-19T18:22:47.000Z"
     },
     {
+      "id": "n_9865b391ed",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+      "publishedAt": "2026-10-24T12:00:00.000Z"
+    },
+    {
       "id": "n_52e6d46473",
       "type": "news",
       "topic": "ai",
@@ -869,17 +880,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
       "publishedAt": "2026-10-21T15:02:15.000Z"
-    },
-    {
-      "id": "n_1dd354d601",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
-      "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
-      "publishedAt": "2026-10-21T14:26:19.000Z"
     },
     {
       "id": "n_d5dfb55b01",
