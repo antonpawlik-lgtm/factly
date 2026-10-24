@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T17:41:29.094Z",
+  "generatedAt": "2026-10-24T19:54:30.873Z",
   "items": [
     {
       "id": "n_98ebb00de7",
@@ -7,10 +7,10 @@
       "topic": "general",
       "lang": "de",
       "headline": "Hunderttausende protestieren in Frankreich - neue Unruhen",
-      "summary": "Eine Woche nach den schweren Ausschreitungen in Frankreich haben heute landesweit mehr als 400.000 Menschen demonstriert. Nach einem friedlichen Beginn kam es am Abend zu Zusammenstößen mit der Polizei.",
+      "summary": "Eine Woche nach den schweren Ausschreitungen in Frankreich haben heute landesweit mehr als 400.000 Menschen demonstriert. Nach einem friedlichen Beginn kam es am Abend zu Zusammenstößen mit der Polizei. Fast 1.000 Menschen wurden festgenommen.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
-      "publishedAt": "2026-10-24T17:32:42.000Z"
+      "publishedAt": "2026-10-24T19:00:39.000Z"
     },
     {
       "id": "n_b102feb4d7",
@@ -266,6 +266,17 @@
       "publishedAt": "2026-10-24T10:12:02.000Z"
     },
     {
+      "id": "n_db7a4a088b",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T19:12:51.000Z"
+    },
+    {
       "id": "n_d7177b581f",
       "type": "news",
       "topic": "general",
@@ -275,6 +286,17 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-24T17:25:46.000Z"
+    },
+    {
+      "id": "n_32151483ad",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T17:21:42.000Z"
     },
     {
       "id": "n_d783cc6b4b",
@@ -310,17 +332,6 @@
       "publishedAt": "2026-10-24T15:21:44.000Z"
     },
     {
-      "id": "n_db7a4a088b",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-      "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T14:45:30.000Z"
-    },
-    {
       "id": "n_8b4dc9f394",
       "type": "news",
       "topic": "general",
@@ -341,17 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-24T09:46:53.000Z"
-    },
-    {
-      "id": "n_7f64e377f6",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Three released without charge after fatal arson attack in Ireland",
-      "summary": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T09:38:28.000Z"
     },
     {
       "id": "n_875bfd88d0",
@@ -530,6 +530,17 @@
       "publishedAt": "2026-10-23T17:32:58.000Z"
     },
     {
+      "id": "n_b0af889ad0",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publishedAt": "2026-10-24T19:00:00.000Z"
+    },
+    {
       "id": "n_35d668020c",
       "type": "news",
       "topic": "ai",
@@ -607,15 +618,15 @@
       "publishedAt": "2026-10-23T04:00:00.000Z"
     },
     {
-      "id": "n_085ba153da",
+      "id": "n_09a5dda451",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Left alone with nothing to do, AI agents started playing",
-      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "publishedAt": "2026-10-23T00:45:37.000Z"
+      "headline": "Pennsylvania will require labels on AI-generated ads",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "publishedAt": "2026-10-24T18:32:21.000Z"
     },
     {
       "id": "n_f9113fa394",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
       "publishedAt": "2026-10-22T21:51:25.000Z"
-    },
-    {
-      "id": "n_29a87826b8",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your product",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-      "publishedAt": "2026-10-22T20:32:05.000Z"
     },
     {
       "id": "n_2aedd54f3e",
