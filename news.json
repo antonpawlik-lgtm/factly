@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-23T23:36:52.389Z",
+  "generatedAt": "2026-10-24T02:13:55.060Z",
   "items": [
+    {
+      "id": "n_4bcd35331e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wie sieht die Zukunft der Raffinerien aus?",
+      "summary": "Deutschlands Raffinerien stehen vor einem grundlegenden Wandel: Weg von fossilen Rohstoffen, hin zu klimafreundlicheren Alternativen. Wirtschaftsministerin Reiche will dafür eine Strategie vorlegen. Doch Experten sind skeptisch. Von Oda Lambrecht.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/raffineriestrategie-100.html",
+      "publishedAt": "2026-10-24T01:06:57.000Z"
+    },
+    {
+      "id": "n_916852829a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
+      "summary": "Nach den tödlichen Schüssen auf zwei Soldaten hat Israels Armee einen \"Anti-Terror-Einsatz\" im Westjordanland begonnen. Man suche dort nach Waffen und Terrorinfrastruktur. Israels Premier drohte zudem mit einem großagelegten Militäreinsatz.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html",
+      "publishedAt": "2026-10-24T01:01:43.000Z"
+    },
     {
       "id": "n_dbb536ef9a",
       "type": "news",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/melania-trump-waffenruhe-oleschky-100.html",
       "publishedAt": "2026-10-23T17:26:28.000Z"
-    },
-    {
-      "id": "n_9a89cfd4b2",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Anti-Terror-Staatsanwaltschaft ermittelt nach tödlichen Schüssen bei Paris",
-      "summary": "Ein Toter, vier Verletzte - darunter ein zwölfjähriges Kind: Nach den Schüssen eines Autofahrers auf Passanten bei Paris ermittelt die Anti-Terror-Staatsanwaltschaft. Sie prüft auch, ob es einen rassistischen Hintergrund gibt. Von C. Dylla.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-paris-schuesse-100.html",
-      "publishedAt": "2026-10-23T17:05:12.000Z"
-    },
-    {
-      "id": "n_2b6c21230d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: DAX-Anleger meiden das Risiko",
-      "summary": "Hohe Ölpreise, anhaltenden Sorgen um Frankreichs Staatsfinanzen und immer wieder neue Bedenken bei der Künstlichen Intelligenz. Zu viele Probleme gleichzeitig für die Anleger, der DAX gab nach.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html",
-      "publishedAt": "2026-10-23T16:38:57.000Z"
     },
     {
       "id": "n_7339de8341",
@@ -304,7 +304,7 @@
       "topic": "general",
       "lang": "en",
       "headline": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-      "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+      "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-23T19:42:08.000Z"
@@ -352,6 +352,17 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-23T15:37:07.000Z"
+    },
+    {
+      "id": "n_875bfd88d0",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T00:05:45.000Z"
     },
     {
       "id": "n_c75360ac72",
@@ -429,17 +440,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-22T10:08:44.000Z"
-    },
-    {
-      "id": "n_8a8fa553ff",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "UK working to identify exposure after global cyber-security warning",
-      "summary": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T08:23:42.000Z"
     },
     {
       "id": "n_5dac0b35ab",
