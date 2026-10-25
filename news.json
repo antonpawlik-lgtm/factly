@@ -1,16 +1,49 @@
 {
-  "generatedAt": "2026-10-25T07:52:08.958Z",
+  "generatedAt": "2026-10-25T17:55:53.436Z",
   "items": [
     {
-      "id": "n_ad22a68580",
+      "id": "n_6391ca48bc",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
-      "summary": "Tech-Milliardär Musk wirft der Ukraine vor, seinen Satelliten-Internetdienst Starlink für tödliche Drohnenangriffe missbraucht zu haben. Das System sei kein \"Mittel zum Töten\", sagte Musk. Die Sicherheitslücke sei inzwischen aber geschlossen.",
+      "headline": "Oppositionsführerin Machado meldet Rückkehr nach Venezuela",
+      "summary": "Rund zehn Monate nach ihrer heimlichen Ausreise aus Venezuela ist die Friedensnobelpreisträgerin Machado in ihr Heimatland zurückgekehrt. „Ich bin hier. Bei euch“, teilte Machado auf der Plattform X mit.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
-      "publishedAt": "2026-10-25T07:45:03.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/venzuela-112.html",
+      "publishedAt": "2026-10-25T17:10:19.000Z"
+    },
+    {
+      "id": "n_e764794da1",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien",
+      "summary": "Lange Schlangen vor den Wahllokalen in Serbien: Viele Menschen wünschen sich Veränderung. Bei der Parlamentswahl setzt die Studentenbewegung auf einen Erfolg. Doch auch Präsident Vucic hat überzeugte Anhänger.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html",
+      "publishedAt": "2026-10-25T16:24:20.000Z"
+    },
+    {
+      "id": "n_62b32632ac",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "\"Nur ein toter Bandit ist ein guter Bandit\" - Wahlkampf in Brasilien",
+      "summary": "Brasiliens Wähler sehen Gewalt und Kriminalität als das größte Problem im Land. Die Macht der Banden wird immer größer. Die Kandidaten bei der Stichwahl ums Präsidentenamt heute stehen dabei für unterschiedliche Lösungen. Von Xenia Böttcher.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-innere-sicherheit-100.html",
+      "publishedAt": "2026-10-25T15:16:47.000Z"
+    },
+    {
+      "id": "n_2f0a76edf8",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Großbritannien: Burnham offen für Rückkehr zu EU-Freizügigkeit",
+      "summary": "Der Brexit hat Großbritannien mehr Schaden als Nutzen gebracht - so sieht es zumindest der neue Premier Burnham. Jetzt zeigt er sich einmal mehr offen für eine Wiederannäherung an die EU - allerdings in Grenzen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/burnham-freizuegigkeit-100.html",
+      "publishedAt": "2026-10-25T15:12:04.000Z"
     },
     {
       "id": "n_b6a25d076f",
@@ -21,73 +54,40 @@
       "summary": "Immer wieder droht Trump ausländischen Unternehmen mit hohen Zöllen. Nun kündigte Audi den Bau seines ersten Werks in den USA an. Auf einer Wahlkampfveranstaltung durfte der US-Präsident damit auch für sich werben.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html",
-      "publishedAt": "2026-10-25T07:10:15.000Z"
+      "publishedAt": "2026-10-25T15:04:51.000Z"
     },
     {
-      "id": "n_86dac2f9dd",
+      "id": "n_aa9fcacd89",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Wie Erdwärme die Wärmeversorgung verändern soll",
-      "summary": "In Potsdam wird gerade mehr als einen Kilometer in den Boden gebohrt, um künftig Tausende Haushalte mit Erdwärme zu versorgen. Die Technik birgt Risiken, aber auch viele Chancen. Von M. Kell und H. Christ.",
+      "headline": "Sturmtief \"Manja\" fegt über Deutschland",
+      "summary": "Stromausfall in Freiburg, mögliche Sturmflut und orkanartige Böen an der Nordsee: Sturm und Regen bestimmen heute das Wetter in Deutschland, es gab bereits zahlreiche Einsätze. Für Teile des Landes galten Warnungen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/erdwaerme-waermeversorgung-heizen-100.html",
-      "publishedAt": "2026-10-25T04:10:34.000Z"
+      "url": "https://www.tagesschau.de/inland/wetter-sturm-112.html",
+      "publishedAt": "2026-10-25T14:48:27.000Z"
     },
     {
-      "id": "n_4251db3cfb",
+      "id": "n_59af02ad6e",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Serbien wählt - kann Vucic seine Macht wieder festigen?",
-      "summary": "Serbiens langjähriger Staatschef Vucic will heute die Wahl gewinnen und Premier werden. Doch die starke Protestbewegung der Studenten könnte ihn nach 14 Jahren entmachten. Wer ist Vucic? Von Oliver Soos.",
+      "headline": "Gaza droht eine neue Ernährungskrise",
+      "summary": "Die Lage im Gazastreifen droht sich wieder zu verschärfen - denn das Welternährungsprogramm muss seine Lebensmittellieferungen massiv kürzen. Der Grund: Die internationalen Geldgeber zahlen deutlich weniger ein. Von Bettina Meier.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/serbien-wahl-portraet-vucic-100.html",
-      "publishedAt": "2026-10-25T04:10:13.000Z"
+      "url": "https://www.tagesschau.de/ausland/gaza-ernaehrung-100.html",
+      "publishedAt": "2026-10-25T14:31:54.000Z"
     },
     {
-      "id": "n_b38b7721f5",
+      "id": "n_d7aa4db070",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
-      "summary": "Lula oder Bolsonaro - beide Präsidentschaftskandidaten liegen vor der Stichwahl in Brasilien gleichauf. Das Land ist tief gespalten. Dabei könnten gerade die Unentschlossenen zum entscheidenden Faktor werden. Von Anne Herrberg.",
+      "headline": "Steinmeier bei Umweltpreis-Verleihung: \"Die Fieberkurve unseres Planeten zeigt deutlich nach oben\"",
+      "summary": "In Aachen ist der Deutsche Umweltpreis an die Klimajuristin Verheyen und den Membranfilter-Ingenieur Vossenkaul verliehen worden. Bundespräsident Steinmeier mahnte, dem Klimaschutz trotz anderer Krisen und Sorgen Priorität einzuräumen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html",
-      "publishedAt": "2026-10-25T04:07:12.000Z"
-    },
-    {
-      "id": "n_d0e6f74334",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Sommerzeit beendet - Uhren um eine Stunde zurückgestellt",
-      "summary": "Die Sommerzeit ist zu Ende, die Uhren wurden um eine Stunde zurückgestellt. Auch wenn es in der ersten Nacht Vorteile bringt, sind die meisten Menschen nicht zufrieden mit der Zeitumstellung.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
-      "publishedAt": "2026-10-25T01:11:58.000Z"
-    },
-    {
-      "id": "n_98ebb00de7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Hunderttausende protestieren in Frankreich - neue Unruhen",
-      "summary": "Eine Woche nach den schweren Ausschreitungen in Frankreich haben am Samstag landesweit mehr als 400.000 Menschen demonstriert. Nach einem friedlichen Beginn kam es am Abend zu Zusammenstößen mit der Polizei. Fast 1.000 Menschen wurden festgenommen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
-      "publishedAt": "2026-10-24T19:00:39.000Z"
-    },
-    {
-      "id": "n_b102feb4d7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "CSU-Parteitag: Merz äußert sich nicht zur Präsidentinnen-Frage",
-      "summary": "Wird CSU-Politikerin Aigner Kandidatin für das Amt der Bundespräsidentin? Mit Spannung wurde erwartet, ob sich CDU-Chef Merz auf dem CSU-Parteitag dazu äußert. Er tat es nicht - und sendete doch ein Signal. Von Kerstin Palzer.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html",
-      "publishedAt": "2026-10-24T16:51:47.000Z"
+      "url": "https://www.tagesschau.de/inland/umweltpreis-142.html",
+      "publishedAt": "2026-10-25T13:13:45.000Z"
     },
     {
       "id": "n_7339de8341",
@@ -178,180 +178,180 @@
       "publishedAt": "2026-10-21T07:22:00.000Z"
     },
     {
-      "id": "n_d3e29f0bc1",
+      "id": "n_5a1513eaad",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Legendäre Bossgegner: Drachentöten leicht gemacht",
-      "summary": "Majestätisch, furchteinflößend und oft nahezu unbesiegbar: Drachen gehören zu den faszinierendsten Wesen der Videospielgeschichte. Was macht einen guten Drachenkampf aus? Von Fabian Mauruschat (Spiele, World of Warcraft)",
+      "headline": "Risikoprüfungen werden Pflicht: China will KI-Jobverluste abfedern",
+      "summary": "China will den KI-Einsatz am Arbeitsplatz steuern und Beschäftigte mit Risikoprüfungen, Umschulung und Schutz vor den Folgen der Automatisierung absichern. (KI, Politik)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/legendaere-bossgegner-drachentoeten-leicht-gemacht-2610-214447.html",
-      "publishedAt": "2026-10-25T06:30:01.000Z"
+      "url": "https://www.golem.de/news/risikopruefungen-werden-pflicht-china-will-ki-jobverluste-abfedern-2610-214487.html",
+      "publishedAt": "2026-10-25T13:10:02.000Z"
     },
     {
-      "id": "n_cea610f1a7",
+      "id": "n_e171a9ca12",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Sechs IT-Jobs in Datenanalyse, Entwicklung und IT-Operations",
-      "summary": "Von Data Analytics und CI/CD bis IT-Security und Operationsmanagement: Sechs neue IT-Jobs bieten anspruchsvolle Aufgaben und Perspektiven. (Golem Karrierewelt, Unternehmenssoftware)",
+      "headline": "Rechenzentren: Google rodet Wald und lockt Wölfe in finnische Dörfer",
+      "summary": "Google muss den Bau eines Rechenzentrums in Finnland wohl vorerst stoppen. 250.000 Bäume sind ohne Genehmigung entfernt worden. (Google, Rechenzentrum)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-sechs-it-jobs-in-datenanalyse-entwicklung-und-it-operations-2610-214144.html",
-      "publishedAt": "2026-10-25T06:00:02.000Z"
+      "url": "https://www.golem.de/news/rechenzentren-google-rodet-wald-und-lockt-woelfe-in-finnische-doerfer-2610-214485.html",
+      "publishedAt": "2026-10-25T12:39:02.000Z"
     },
     {
-      "id": "n_52d1384fbc",
+      "id": "n_1613d8d3a6",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "App-Store: iPhone Duo als Toaster",
-      "summary": "App-Entwickler greifen die Möglichkeiten durch das faltbare Display des iPhone Duo auf und entwickeln teils absurde, teils nützliche Apps. (iPhone Duo, iMac)",
+      "headline": "Deutschland: Volkswagen erwägt weitere Stellenstreichungen",
+      "summary": "Bei Volkswagen stehen weitere Stellenstreichungen im Raum. Zugleich wächst der Streit über Transfergesellschaften und öffentliche Mittel. (VW, Wirtschaft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/app-store-iphone-duo-als-toaster-2610-214479.html",
-      "publishedAt": "2026-10-24T14:40:02.000Z"
+      "url": "https://www.golem.de/news/deutschland-volkswagen-erwaegt-weitere-stellenstreichungen-2610-214486.html",
+      "publishedAt": "2026-10-25T12:08:02.000Z"
     },
     {
-      "id": "n_e4c4477422",
+      "id": "n_45b4d493ed",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Wähleradressen: AfD droht wegen Datenleck Ärger mit dem Datenschutz",
-      "summary": "Nach einem E-Mail-Leak prüft der Datenschutzbeauftragte, ob die AfD in MV Wählerdaten nicht ausreichend geschützt hat. (Datenschutz, Politik)",
+      "headline": "Deutscher Standort bedroht: Audi baut großes Werk in den USA",
+      "summary": "Audi plant ein neues SUV-Werk im US-Bundesstaat Georgia und will dafür rund vier Milliarden US-Dollar investieren. Trump hat das Projekt angekündigt. (Audi, Auto)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/waehleradressen-afd-droht-wegen-datenleck-aerger-mit-dem-datenschutz-2610-214478.html",
-      "publishedAt": "2026-10-24T14:05:02.000Z"
+      "url": "https://www.golem.de/news/deutscher-standort-bedroht-audi-baut-grosses-werk-in-den-usa-2610-214484.html",
+      "publishedAt": "2026-10-25T11:38:01.000Z"
     },
     {
-      "id": "n_a4c992e06a",
+      "id": "n_f5a159edaf",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "KI-Modell: Moonshot AI stellt Kimi K3.1 Pro vor",
-      "summary": "Moonshot AI hat Kimi K3.1 Pro vorgestellt, ein KI-Modell, das für Entwicklung, Forschung, Finanzanalysen und 3D-Inhalte gedacht ist. (KI, API)",
+      "headline": "Keine Ablösung von Microsoft Office: Dänemark beendet Collabora-Test",
+      "summary": "Dänemark hat einen Test mit Collabora beendet. Damit bleibt offen, wie realistisch der Abschied von Microsoft Office in Behörden ist. (Office, Office-Suite)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/ki-modell-moonshot-ai-stellt-kimi-k3-1-pro-vor-2610-214477.html",
-      "publishedAt": "2026-10-24T13:20:02.000Z"
+      "url": "https://www.golem.de/news/keine-abloesung-von-microsoft-office-daenemark-beendet-collabora-test-2610-214483.html",
+      "publishedAt": "2026-10-25T11:07:02.000Z"
     },
     {
-      "id": "n_c1d2ebc755",
+      "id": "n_db26215d1d",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "AfD-Datenleck: Geleakte Mails bringen Weidel in der Spendenaffäre in Erklärungsnot",
-      "summary": "Geleakte E-Mails zeigen, dass Alice Weidel 2017 konkrete Spenden für ihren Social-Media-Wahlkampf erwartete und selbst festlegte, wie das Geld fließen sollte. (Datenleck, E-Mail)",
+      "headline": "Local Wikipedia: Suchmaschine zeigt interessante Orte in Laufreichweite an",
+      "summary": "Ob Sehenswürdigkeiten, Clubs, Museen oder Fun Facts: Local Wikipedia gibt Wikipedia-Artikel aus, die zum eingegebenen Standort passen. (Wikipedia, Suchmaschine)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/afd-datenleck-geleakte-mails-bringen-weidel-in-der-spendenaffaere-in-erklaerungsnot-2610-214476.html",
-      "publishedAt": "2026-10-24T12:47:02.000Z"
+      "url": "https://www.golem.de/news/local-wikipedia-suchmaschine-zeigt-interessante-orte-in-laufreichweite-an-2610-214482.html",
+      "publishedAt": "2026-10-25T10:36:01.000Z"
     },
     {
-      "id": "n_840f92fc90",
+      "id": "n_eb19a5dd9a",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Brandbrief: Bundesländer fordern Reform von Offshore-Windkraftgesetz",
-      "summary": "Acht Ministerpräsidenten fordern Änderungen am Offshore-Windkraftgesetz und warnen, dass der derzeitige Ansatz Investitionen verhindern könnte. (Windkraft, Bundesregierung)",
+      "headline": "Starlink-Drosselung: Musk bezeichnet Ukraine indirekt als Kriegstreiber",
+      "summary": "In einem X-Post wird klar, dass Musk wohl die Drosselung von Starlink beauftragt hat. Seine Aussage: \"Möget ihr in der Hölle schmoren.\" (Elon Musk, Politik)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/brandbrief-bundeslaender-fordern-reform-von-offshore-windkraftgesetz-2610-214475.html",
-      "publishedAt": "2026-10-24T12:15:01.000Z"
+      "url": "https://www.golem.de/news/starlink-drosselung-musk-bezeichnet-ukraine-indirekt-als-kriegstreiber-2610-214481.html",
+      "publishedAt": "2026-10-25T10:04:02.000Z"
     },
     {
-      "id": "n_4790428576",
+      "id": "n_ee21f70f47",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Ausbruchsgefahr: OpenAI sperrt seine KI-Modelle vom Internet aus",
-      "summary": "OpenAI trainiert Spitzenmodelle nur noch offline. Der Grund: KI-Agenten waren in Tests aus Sandboxes ausgebrochen. (OpenAI, KI)",
+      "headline": "Anzeige: Beliebteste elektrische Luftpumpe bei Amazon jetzt zum Angebotspreis",
+      "summary": "Die beliebteste elektrische Luftpumpe ist bei Amazon heute noch im Sonderangebot und liegt über 6 Euro unter dem letzten Preis. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/ausbruchsgefahr-openai-sperrt-seine-ki-modelle-vom-internet-aus-2610-214474.html",
-      "publishedAt": "2026-10-24T11:27:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-beliebteste-elektrische-luftpumpe-bei-amazon-jetzt-zum-angebotspreis-2610-214461.html",
+      "publishedAt": "2026-10-25T09:40:02.000Z"
     },
     {
-      "id": "n_c8d839f31a",
+      "id": "n_b4c30b6342",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
-      "summary": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet.",
+      "headline": "Venezuelan opposition leader María Machado returns after months in exile",
+      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T05:45:31.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T16:21:40.000Z"
     },
     {
-      "id": "n_267b41a819",
+      "id": "n_1c19bb8b19",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+      "headline": "Early reports suggest record high turnout in Serbia elections",
+      "summary": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T05:15:52.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T16:05:15.000Z"
+    },
+    {
+      "id": "n_fa795b3ffb",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+      "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T15:32:51.000Z"
+    },
+    {
+      "id": "n_1a498accad",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Gabon says access to social media restored after eight-month ban",
+      "summary": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T14:39:47.000Z"
+    },
+    {
+      "id": "n_f5e114da16",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "El Salvador president says bodies found in Haiti are not those of hostages",
+      "summary": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T10:55:33.000Z"
     },
     {
       "id": "n_0a5bd0ce69",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "headline": "More than 1,300 arrested as clashes follow another day of mass protests across France",
       "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T04:16:52.000Z"
+      "publishedAt": "2026-10-25T10:38:15.000Z"
     },
     {
-      "id": "n_d3e62867a4",
+      "id": "n_2f7ad053a0",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-      "summary": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
+      "headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T03:20:16.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T09:00:00.000Z"
     },
     {
-      "id": "n_cc88b6d823",
+      "id": "n_1c414a4f59",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-      "summary": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\".",
+      "headline": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
+      "summary": "That Girl Boina's post about why she had closed her beauty parlour struck a nerve with other small business owners.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T02:27:15.000Z"
-    },
-    {
-      "id": "n_0ae1205c30",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Voters in Brazil to choose between Lula and Bolsonaro's son",
-      "summary": "Flávio Bolsonaro, the son of Brazil's imprisoned former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T23:50:02.000Z"
-    },
-    {
-      "id": "n_7b01f4c967",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "The bitter row over military service that could shape Israel's future",
-      "summary": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T23:03:21.000Z"
-    },
-    {
-      "id": "n_ca3fbe9d32",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
-      "summary": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T23:03:09.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T08:36:47.000Z"
     },
     {
       "id": "n_875bfd88d0",
@@ -530,6 +530,28 @@
       "publishedAt": "2026-10-23T17:32:58.000Z"
     },
     {
+      "id": "n_71334093a4",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "publishedAt": "2026-10-25T16:57:32.000Z"
+    },
+    {
+      "id": "n_4262d71f08",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The hottest AI wearables and gadgets you should know about",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "publishedAt": "2026-10-25T14:10:00.000Z"
+    },
+    {
       "id": "n_b0af889ad0",
       "type": "news",
       "topic": "ai",
@@ -596,26 +618,26 @@
       "publishedAt": "2026-10-23T21:59:19.000Z"
     },
     {
-      "id": "n_0931d3afc7",
+      "id": "n_b366ba776f",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside trad",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-      "publishedAt": "2026-10-23T19:06:23.000Z"
+      "headline": "r/opensource just banned AI, non-English speakers, and more",
+      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "publishedAt": "2026-10-25T13:25:32.000Z"
     },
     {
-      "id": "n_94cd4ca5fb",
+      "id": "n_99c99157c7",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "publishedAt": "2026-10-23T04:00:00.000Z"
+      "headline": "Google’s AI search changes upended online publishing",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "publishedAt": "2026-10-25T12:00:00.000Z"
     },
     {
       "id": "n_0509c80e85",
@@ -682,28 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
       "publishedAt": "2026-10-23T16:52:55.000Z"
-    },
-    {
-      "id": "n_d34a3f37bd",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Meta delays new business terms after publisher pushback on AI scraping",
-      "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms wi",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "publishedAt": "2026-10-23T14:47:41.000Z"
-    },
-    {
-      "id": "n_fa80f1a6b4",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Retro gaming is being overrun with AI",
-      "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible freq",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-      "publishedAt": "2026-10-23T12:00:00.000Z"
     },
     {
       "id": "n_2aedd54f3e",
@@ -794,6 +794,17 @@
       "publishedAt": "2026-10-19T18:22:47.000Z"
     },
     {
+      "id": "n_cf27b7f7c2",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "What the US Movement Against Data Centers Can Learn From Abroad",
+      "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+      "publishedAt": "2026-10-25T10:00:00.000Z"
+    },
+    {
       "id": "n_9865b391ed",
       "type": "news",
       "topic": "ai",
@@ -869,17 +880,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
       "publishedAt": "2026-10-21T16:00:00.000Z"
-    },
-    {
-      "id": "n_a6d54c880e",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
-      "summary": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
-      "publishedAt": "2026-10-21T15:02:15.000Z"
     },
     {
       "id": "n_d5dfb55b01",
