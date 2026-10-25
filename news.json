@@ -1,13 +1,68 @@
 {
-  "generatedAt": "2026-10-25T02:00:32.779Z",
+  "generatedAt": "2026-10-25T07:52:08.958Z",
   "items": [
+    {
+      "id": "n_ad22a68580",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
+      "summary": "Tech-Milliardär Musk wirft der Ukraine vor, seinen Satelliten-Internetdienst Starlink für tödliche Drohnenangriffe missbraucht zu haben. Das System sei kein \"Mittel zum Töten\", sagte Musk. Die Sicherheitslücke sei inzwischen aber geschlossen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html",
+      "publishedAt": "2026-10-25T07:45:03.000Z"
+    },
+    {
+      "id": "n_b6a25d076f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
+      "summary": "Immer wieder droht Trump ausländischen Unternehmen mit hohen Zöllen. Nun kündigte Audi den Bau seines ersten Werks in den USA an. Auf einer Wahlkampfveranstaltung durfte der US-Präsident damit auch für sich werben.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html",
+      "publishedAt": "2026-10-25T07:10:15.000Z"
+    },
+    {
+      "id": "n_86dac2f9dd",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wie Erdwärme die Wärmeversorgung verändern soll",
+      "summary": "In Potsdam wird gerade mehr als einen Kilometer in den Boden gebohrt, um künftig Tausende Haushalte mit Erdwärme zu versorgen. Die Technik birgt Risiken, aber auch viele Chancen. Von M. Kell und H. Christ.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/erdwaerme-waermeversorgung-heizen-100.html",
+      "publishedAt": "2026-10-25T04:10:34.000Z"
+    },
+    {
+      "id": "n_4251db3cfb",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Serbien wählt - kann Vucic seine Macht wieder festigen?",
+      "summary": "Serbiens langjähriger Staatschef Vucic will heute die Wahl gewinnen und Premier werden. Doch die starke Protestbewegung der Studenten könnte ihn nach 14 Jahren entmachten. Wer ist Vucic? Von Oliver Soos.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/serbien-wahl-portraet-vucic-100.html",
+      "publishedAt": "2026-10-25T04:10:13.000Z"
+    },
+    {
+      "id": "n_b38b7721f5",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
+      "summary": "Lula oder Bolsonaro - beide Präsidentschaftskandidaten liegen vor der Stichwahl in Brasilien gleichauf. Das Land ist tief gespalten. Dabei könnten gerade die Unentschlossenen zum entscheidenden Faktor werden. Von Anne Herrberg.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html",
+      "publishedAt": "2026-10-25T04:07:12.000Z"
+    },
     {
       "id": "n_d0e6f74334",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Sommerzeit beendet - Uhren um eine Stunde zurückgedreht",
-      "summary": "Es ist wieder so weit: Die Sommerzeit ist zu Ende, die Uhren wurden um eine Stunde zurückgestellt. Auch wenn es in der ersten Nacht Vorteile bringt, sind die meisten Menschen nicht zufrieden mit der Zeitumstellung.",
+      "headline": "Sommerzeit beendet - Uhren um eine Stunde zurückgestellt",
+      "summary": "Die Sommerzeit ist zu Ende, die Uhren wurden um eine Stunde zurückgestellt. Auch wenn es in der ersten Nacht Vorteile bringt, sind die meisten Menschen nicht zufrieden mit der Zeitumstellung.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
       "publishedAt": "2026-10-25T01:11:58.000Z"
@@ -18,7 +73,7 @@
       "topic": "general",
       "lang": "de",
       "headline": "Hunderttausende protestieren in Frankreich - neue Unruhen",
-      "summary": "Eine Woche nach den schweren Ausschreitungen in Frankreich haben heute landesweit mehr als 400.000 Menschen demonstriert. Nach einem friedlichen Beginn kam es am Abend zu Zusammenstößen mit der Polizei. Fast 1.000 Menschen wurden festgenommen.",
+      "summary": "Eine Woche nach den schweren Ausschreitungen in Frankreich haben am Samstag landesweit mehr als 400.000 Menschen demonstriert. Nach einem friedlichen Beginn kam es am Abend zu Zusammenstößen mit der Polizei. Fast 1.000 Menschen wurden festgenommen.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html",
       "publishedAt": "2026-10-24T19:00:39.000Z"
@@ -33,61 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/csu-parteitag-merz-106.html",
       "publishedAt": "2026-10-24T16:51:47.000Z"
-    },
-    {
-      "id": "n_14b8834074",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "65 Jahre Anwerbeabkommen: Zum Arbeiten gekommen, Heimat gefunden",
-      "summary": "Als Deutschland und die Türkei 1961 das Anwerbeabkommen unterschreiben, rechnet niemand damit, dass Hunderttausende Menschen dauerhaft eine Heimat hier finden werden. Für viele ein hart erarbeiteter Erfolg. Von Carolyn Wißing.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/anwerbeabkommen-tuerkei-100.html",
-      "publishedAt": "2026-10-24T16:19:11.000Z"
-    },
-    {
-      "id": "n_d7d57ce8b1",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Hausdurchsuchungen und Zwangsräumungen in Hebron",
-      "summary": "Nach dem tödlichen Angriff auf israelische Soldaten geht die Armee weiter gegen Palästinenser in Hebron vor. Hunderte Menschen mussten überstürzt ihre Häuser verlassen. Von Bettina Meier.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-104.html",
-      "publishedAt": "2026-10-24T16:06:57.000Z"
-    },
-    {
-      "id": "n_8d3ffd0373",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
-      "summary": "Die Satellitenkommunikation von SpaceX in der Ukraine funktioniert nach Angaben aus Kiew wieder stabil. Die ukrainische Armee meldet derweil Angriffe auf russische Industrieanlagen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html",
-      "publishedAt": "2026-10-24T15:29:30.000Z"
-    },
-    {
-      "id": "n_dc88bddd6f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Israelische Armee startet Einsatz in Hebron",
-      "summary": "Nach dem tödlichen Angriff auf Soldaten hat Israel in Hebron im Westjordanland einen Militäreinsatz begonnen. Premier Netanjahu kündigte eine \"sehr große Überraschung\" für die Palästinensische Autonomiebehörde an.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html",
-      "publishedAt": "2026-10-24T14:14:53.000Z"
-    },
-    {
-      "id": "n_b64c061e0a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Nazi-Bau: Kehlsteinhaus am Obersalzberg durch Brand weitgehend zerstört",
-      "summary": "Es diente den Nazis als Repräsentationsort hoch in den Bergen. In Nacht hat es nun im Kehlsteinhaus am Obersalzberg bei Berchtesgaden gebrannt. Die Polizei vermutet Brandstiftung und hat einen Verdächtigen festgenommen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
-      "publishedAt": "2026-10-24T13:58:56.000Z"
     },
     {
       "id": "n_7339de8341",
@@ -178,6 +178,28 @@
       "publishedAt": "2026-10-21T07:22:00.000Z"
     },
     {
+      "id": "n_d3e29f0bc1",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Legendäre Bossgegner: Drachentöten leicht gemacht",
+      "summary": "Majestätisch, furchteinflößend und oft nahezu unbesiegbar: Drachen gehören zu den faszinierendsten Wesen der Videospielgeschichte. Was macht einen guten Drachenkampf aus? Von Fabian Mauruschat (Spiele, World of Warcraft)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/legendaere-bossgegner-drachentoeten-leicht-gemacht-2610-214447.html",
+      "publishedAt": "2026-10-25T06:30:01.000Z"
+    },
+    {
+      "id": "n_cea610f1a7",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Sechs IT-Jobs in Datenanalyse, Entwicklung und IT-Operations",
+      "summary": "Von Data Analytics und CI/CD bis IT-Security und Operationsmanagement: Sechs neue IT-Jobs bieten anspruchsvolle Aufgaben und Perspektiven. (Golem Karrierewelt, Unternehmenssoftware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-sechs-it-jobs-in-datenanalyse-entwicklung-und-it-operations-2610-214144.html",
+      "publishedAt": "2026-10-25T06:00:02.000Z"
+    },
+    {
       "id": "n_52d1384fbc",
       "type": "news",
       "topic": "tech",
@@ -244,48 +266,26 @@
       "publishedAt": "2026-10-24T11:27:01.000Z"
     },
     {
-      "id": "n_40712849fb",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Palantir: Nato-KI hat keinen Kill-Switch",
-      "summary": "Palantir beteuert, weder das Unternehmen noch die US-Regierung das Nato-System Maven abschalten zu können. Die Sorge vor einer Abhängigkeit von US-Technologie ist hoch. (Palantir, KI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/palantir-nato-ki-hat-keinen-kill-switch-2610-214473.html",
-      "publishedAt": "2026-10-24T10:58:02.000Z"
-    },
-    {
-      "id": "n_935d594b49",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Satellitennavigation: Nato kauft Störsender, die GPS auf 11 km lahmlegen",
-      "summary": "Die Nato plant sechs mobile Störsender für GPS und Drohnenfunk. Der Störbereich lässt sich auf bis zu 11 km einstellen. (GPS, Navigationssystem)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/satellitennavigation-nato-kauft-stoersender-die-gps-auf-11-km-lahmlegen-2610-214472.html",
-      "publishedAt": "2026-10-24T10:12:02.000Z"
-    },
-    {
-      "id": "n_32151483ad",
+      "id": "n_c8d839f31a",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-      "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "headline": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
+      "summary": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T23:02:06.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T05:45:31.000Z"
     },
     {
-      "id": "n_5c1b93d236",
+      "id": "n_267b41a819",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Who are the candidates in Brazil's presidential election?",
-      "summary": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
+      "headline": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T22:08:47.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T05:15:52.000Z"
     },
     {
       "id": "n_0a5bd0ce69",
@@ -293,65 +293,65 @@
       "topic": "general",
       "lang": "en",
       "headline": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-      "summary": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+      "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T21:09:27.000Z"
+      "publishedAt": "2026-10-25T04:16:52.000Z"
     },
     {
-      "id": "n_26282d0195",
+      "id": "n_d3e62867a4",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Fireworks and tear gas as protesters and riot police clash in Paris",
-      "summary": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+      "headline": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+      "summary": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T19:37:35.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T03:20:16.000Z"
     },
     {
-      "id": "n_db7a4a088b",
+      "id": "n_cc88b6d823",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-      "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+      "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+      "summary": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T19:12:51.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T02:27:15.000Z"
     },
     {
-      "id": "n_d7177b581f",
+      "id": "n_0ae1205c30",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Two rescued after Nairobi building collapse with five still missing",
-      "summary": "Police have launched a manhunt for the building's owner and contractor after the multi-storey building collapsed while still under construction.",
+      "headline": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+      "summary": "Flávio Bolsonaro, the son of Brazil's imprisoned former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T17:25:46.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T23:50:02.000Z"
     },
     {
-      "id": "n_d783cc6b4b",
+      "id": "n_7b01f4c967",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-      "summary": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
+      "headline": "The bitter row over military service that could shape Israel's future",
+      "summary": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T17:11:56.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T23:03:21.000Z"
     },
     {
-      "id": "n_38dc07aa62",
+      "id": "n_ca3fbe9d32",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
-      "summary": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
+      "headline": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
+      "summary": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T15:56:48.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T23:03:09.000Z"
     },
     {
       "id": "n_875bfd88d0",
@@ -1064,6 +1064,90 @@
       "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
       "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
       "publishedAt": "2026-08-12T12:57:24.000Z"
+    },
+    {
+      "id": "n_f3c8faa918",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The most vulnerable week in internet history...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=SMGg7iisHmc",
+      "thumbnail": "https://i.ytimg.com/vi/SMGg7iisHmc/hqdefault.jpg",
+      "publishedAt": "2026-10-23T18:19:58.000Z"
+    },
+    {
+      "id": "n_dba4be3004",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The last real programmers are dying out...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=zv6B6PQOuHE",
+      "thumbnail": "https://i.ytimg.com/vi/zv6B6PQOuHE/hqdefault.jpg",
+      "publishedAt": "2026-10-22T15:09:31.000Z"
+    },
+    {
+      "id": "n_5c15dc92fc",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Did Google just dethrone OpenAI and Anthropic?",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=b2tjnxX8IHU",
+      "thumbnail": "https://i.ytimg.com/vi/b2tjnxX8IHU/hqdefault.jpg",
+      "publishedAt": "2026-10-20T16:21:03.000Z"
+    },
+    {
+      "id": "n_0a3b2a8559",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The runtime wars are over... and Node won",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=l3L_lETiSzc",
+      "thumbnail": "https://i.ytimg.com/vi/l3L_lETiSzc/hqdefault.jpg",
+      "publishedAt": "2026-10-15T17:35:15.000Z"
+    },
+    {
+      "id": "n_251908ef4e",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "iPhone Duo Review: First Generation Fun!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=ESABTN4VtrA",
+      "thumbnail": "https://i.ytimg.com/vi/ESABTN4VtrA/hqdefault.jpg",
+      "publishedAt": "2026-10-21T12:00:52.000Z"
+    },
+    {
+      "id": "n_5fe4101a91",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The NEW Tesla Roadster: My Honest Reaction",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=scwlR0QHGOk",
+      "thumbnail": "https://i.ytimg.com/vi/scwlR0QHGOk/hqdefault.jpg",
+      "publishedAt": "2026-10-17T02:09:23.000Z"
+    },
+    {
+      "id": "n_55ef81df9d",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Apple Homeview Impressions: Not Convinced!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=QVv3mQzlrN0",
+      "thumbnail": "https://i.ytimg.com/vi/QVv3mQzlrN0/hqdefault.jpg",
+      "publishedAt": "2026-10-13T22:42:38.000Z"
     }
   ]
 }
