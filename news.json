@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-24T22:46:01.976Z",
+  "generatedAt": "2026-10-25T02:00:32.779Z",
   "items": [
+    {
+      "id": "n_d0e6f74334",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Sommerzeit beendet - Uhren um eine Stunde zurückgedreht",
+      "summary": "Es ist wieder so weit: Die Sommerzeit ist zu Ende, die Uhren wurden um eine Stunde zurückgestellt. Auch wenn es in der ersten Nacht Vorteile bringt, sind die meisten Menschen nicht zufrieden mit der Zeitumstellung.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html",
+      "publishedAt": "2026-10-25T01:11:58.000Z"
+    },
     {
       "id": "n_98ebb00de7",
       "type": "news",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html",
       "publishedAt": "2026-10-24T13:58:56.000Z"
-    },
-    {
-      "id": "n_8e825e34ca",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Midterms in den USA: Amerikanischer Traum in weiter Ferne",
-      "summary": "Höherer Lebensstandard durch harte Arbeit: Der klassische amerikanische Traum scheint jungen US-Bürgern zunehmend unerreichbar. Was erwarten sie von den Zwischenwahlen? Anne Schneider hat sich in Texas umgehört.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-junge-waehler-100.html",
-      "publishedAt": "2026-10-24T13:47:08.000Z"
     },
     {
       "id": "n_7339de8341",
@@ -266,6 +266,17 @@
       "publishedAt": "2026-10-24T10:12:02.000Z"
     },
     {
+      "id": "n_32151483ad",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T23:02:06.000Z"
+    },
+    {
       "id": "n_5c1b93d236",
       "type": "news",
       "topic": "general",
@@ -319,17 +330,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-24T17:25:46.000Z"
-    },
-    {
-      "id": "n_32151483ad",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-      "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-24T17:21:42.000Z"
     },
     {
       "id": "n_d783cc6b4b",
@@ -1064,90 +1064,6 @@
       "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
       "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
       "publishedAt": "2026-08-12T12:57:24.000Z"
-    },
-    {
-      "id": "n_f3c8faa918",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The most vulnerable week in internet history...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=SMGg7iisHmc",
-      "thumbnail": "https://i.ytimg.com/vi/SMGg7iisHmc/hqdefault.jpg",
-      "publishedAt": "2026-10-23T18:19:58.000Z"
-    },
-    {
-      "id": "n_dba4be3004",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The last real programmers are dying out...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=zv6B6PQOuHE",
-      "thumbnail": "https://i.ytimg.com/vi/zv6B6PQOuHE/hqdefault.jpg",
-      "publishedAt": "2026-10-22T15:09:31.000Z"
-    },
-    {
-      "id": "n_5c15dc92fc",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did Google just dethrone OpenAI and Anthropic?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=b2tjnxX8IHU",
-      "thumbnail": "https://i.ytimg.com/vi/b2tjnxX8IHU/hqdefault.jpg",
-      "publishedAt": "2026-10-20T16:21:03.000Z"
-    },
-    {
-      "id": "n_0a3b2a8559",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The runtime wars are over... and Node won",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=l3L_lETiSzc",
-      "thumbnail": "https://i.ytimg.com/vi/l3L_lETiSzc/hqdefault.jpg",
-      "publishedAt": "2026-10-15T17:35:15.000Z"
-    },
-    {
-      "id": "n_251908ef4e",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "iPhone Duo Review: First Generation Fun!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=ESABTN4VtrA",
-      "thumbnail": "https://i.ytimg.com/vi/ESABTN4VtrA/hqdefault.jpg",
-      "publishedAt": "2026-10-21T12:00:52.000Z"
-    },
-    {
-      "id": "n_5fe4101a91",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The NEW Tesla Roadster: My Honest Reaction",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=scwlR0QHGOk",
-      "thumbnail": "https://i.ytimg.com/vi/scwlR0QHGOk/hqdefault.jpg",
-      "publishedAt": "2026-10-17T02:09:23.000Z"
-    },
-    {
-      "id": "n_55ef81df9d",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Apple Homeview Impressions: Not Convinced!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=QVv3mQzlrN0",
-      "thumbnail": "https://i.ytimg.com/vi/QVv3mQzlrN0/hqdefault.jpg",
-      "publishedAt": "2026-10-13T22:42:38.000Z"
     }
   ]
 }
