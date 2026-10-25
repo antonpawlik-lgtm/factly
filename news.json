@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-25T20:07:48.665Z",
+  "generatedAt": "2026-10-25T22:52:39.876Z",
   "items": [
+    {
+      "id": "n_62b32632ac",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "\"Nur ein toter Bandit ist ein guter Bandit\" - Wahlkampf in Brasilien",
+      "summary": "Brasiliens Wähler sehen Gewalt und Kriminalität als das größte Problem im Land. Die Macht der Banden wird immer größer. Die Kandidaten bei der Stichwahl ums Präsidentenamt heute stehen dabei für unterschiedliche Lösungen. Von Xenia Böttcher.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-innere-sicherheit-100.html",
+      "publishedAt": "2026-10-25T20:43:16.000Z"
+    },
     {
       "id": "n_4b198d99bb",
       "type": "news",
@@ -35,6 +46,17 @@
       "publishedAt": "2026-10-25T18:49:43.000Z"
     },
     {
+      "id": "n_5ef500d19a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
+      "summary": "Das Kreuzfahrtschiff \"Mein Schiff 3\" ist nach dem Auslaufen in Bremerhaven bei stürmischem Wetter mit zwei Schiffen kollidiert. Zwei Schlepper wurden beschädigt. Nach aktuellem Stand gab es keine Verletzten.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
+      "publishedAt": "2026-10-25T18:30:00.000Z"
+    },
+    {
       "id": "n_e764794da1",
       "type": "news",
       "topic": "general",
@@ -44,17 +66,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html",
       "publishedAt": "2026-10-25T16:24:20.000Z"
-    },
-    {
-      "id": "n_62b32632ac",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "\"Nur ein toter Bandit ist ein guter Bandit\" - Wahlkampf in Brasilien",
-      "summary": "Brasiliens Wähler sehen Gewalt und Kriminalität als das größte Problem im Land. Die Macht der Banden wird immer größer. Die Kandidaten bei der Stichwahl ums Präsidentenamt heute stehen dabei für unterschiedliche Lösungen. Von Xenia Böttcher.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-innere-sicherheit-100.html",
-      "publishedAt": "2026-10-25T15:16:47.000Z"
     },
     {
       "id": "n_2f0a76edf8",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html",
       "publishedAt": "2026-10-25T15:04:51.000Z"
-    },
-    {
-      "id": "n_aa9fcacd89",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Sturmtief \"Manja\" fegt über Deutschland",
-      "summary": "Stromausfall in Freiburg, mögliche Sturmflut und orkanartige Böen an der Nordsee: Sturm und Regen bestimmen heute das Wetter in Deutschland, es gab bereits zahlreiche Einsätze. Für Teile des Landes galten Warnungen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/wetter-sturm-112.html",
-      "publishedAt": "2026-10-25T14:48:27.000Z"
     },
     {
       "id": "n_7339de8341",
@@ -266,15 +266,37 @@
       "publishedAt": "2026-10-25T09:40:02.000Z"
     },
     {
-      "id": "n_1c19bb8b19",
+      "id": "n_d33d24266c",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Early reports suggest record high turnout in Serbia elections",
-      "summary": "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+      "headline": "Deeply divided Israel braces for pivotal election",
+      "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T19:55:15.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T22:11:13.000Z"
+    },
+    {
+      "id": "n_81bc7b0e59",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T22:06:26.000Z"
+    },
+    {
+      "id": "n_b3a8a79ad8",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Why Israel's election is one of the most important in its history",
+      "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T22:05:30.000Z"
     },
     {
       "id": "n_d3e62867a4",
@@ -330,28 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-25T10:55:33.000Z"
-    },
-    {
-      "id": "n_0a5bd0ce69",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-      "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T10:38:15.000Z"
-    },
-    {
-      "id": "n_2f7ad053a0",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T09:00:00.000Z"
     },
     {
       "id": "n_875bfd88d0",
@@ -530,6 +530,17 @@
       "publishedAt": "2026-10-23T17:32:58.000Z"
     },
     {
+      "id": "n_a6feae291b",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "publishedAt": "2026-10-25T21:31:16.000Z"
+    },
+    {
       "id": "n_71334093a4",
       "type": "news",
       "topic": "ai",
@@ -605,17 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
       "publishedAt": "2026-10-23T23:05:49.000Z"
-    },
-    {
-      "id": "n_f782f2bc96",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "publishedAt": "2026-10-23T21:59:19.000Z"
     },
     {
       "id": "n_b366ba776f",
