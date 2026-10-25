@@ -1,16 +1,38 @@
 {
-  "generatedAt": "2026-10-25T17:55:53.436Z",
+  "generatedAt": "2026-10-25T20:07:48.665Z",
   "items": [
     {
-      "id": "n_6391ca48bc",
+      "id": "n_4b198d99bb",
       "type": "news",
       "topic": "general",
       "lang": "de",
       "headline": "Oppositionsführerin Machado meldet Rückkehr nach Venezuela",
-      "summary": "Rund zehn Monate nach ihrer heimlichen Ausreise aus Venezuela ist die Friedensnobelpreisträgerin Machado in ihr Heimatland zurückgekehrt. „Ich bin hier. Bei euch“, teilte Machado auf der Plattform X mit.",
+      "summary": "Rund zehn Monate nach ihrer heimlichen Ausreise aus Venezuela ist die Friedensnobelpreisträgerin Machado in ihre Heimat zurückgekehrt. Den Weg freigemacht hätten von den USA unterstützte \"Versöhnungsgespräche\", so US-Außenminister Rubio.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/venzuela-112.html",
-      "publishedAt": "2026-10-25T17:10:19.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/venezuela-machado-104.html",
+      "publishedAt": "2026-10-25T19:41:15.000Z"
+    },
+    {
+      "id": "n_300ee3dad1",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Auftakt der RN-Wahlkampagne: Le Pen spricht von \"Wiedergeburt\" Frankreichs",
+      "summary": "Die rechtspopulistische französische Präsidentschaftskandidatin Le Pen führt derzeit in den Umfragen. Zum Auftakt der Wahlkampagne ihres Rassemblement National warb sie für einen politischen Neuanfang.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/le-pen-frankreich-100.html",
+      "publishedAt": "2026-10-25T19:25:14.000Z"
+    },
+    {
+      "id": "n_2c8e4ccb85",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Stromsteuer-Debatte: Union und SPD weiter weit auseinander",
+      "summary": "Dass Unternehmen und Haushalte beim Strompreis entlastet werden sollen, darüber herrscht in der Regierung Einigkeit. Unklar aber ist, wie das finanziert werden kann. Im Bericht aus Berlin machten CDU und SPD sehr unterschiedliche Vorschläge.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/bericht-aus-berlin-stromsteuer-100.html",
+      "publishedAt": "2026-10-25T18:49:43.000Z"
     },
     {
       "id": "n_e764794da1",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/wetter-sturm-112.html",
       "publishedAt": "2026-10-25T14:48:27.000Z"
-    },
-    {
-      "id": "n_59af02ad6e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Gaza droht eine neue Ernährungskrise",
-      "summary": "Die Lage im Gazastreifen droht sich wieder zu verschärfen - denn das Welternährungsprogramm muss seine Lebensmittellieferungen massiv kürzen. Der Grund: Die internationalen Geldgeber zahlen deutlich weniger ein. Von Bettina Meier.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/gaza-ernaehrung-100.html",
-      "publishedAt": "2026-10-25T14:31:54.000Z"
-    },
-    {
-      "id": "n_d7aa4db070",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Steinmeier bei Umweltpreis-Verleihung: \"Die Fieberkurve unseres Planeten zeigt deutlich nach oben\"",
-      "summary": "In Aachen ist der Deutsche Umweltpreis an die Klimajuristin Verheyen und den Membranfilter-Ingenieur Vossenkaul verliehen worden. Bundespräsident Steinmeier mahnte, dem Klimaschutz trotz anderer Krisen und Sorgen Priorität einzuräumen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/umweltpreis-142.html",
-      "publishedAt": "2026-10-25T13:13:45.000Z"
     },
     {
       "id": "n_7339de8341",
@@ -266,6 +266,28 @@
       "publishedAt": "2026-10-25T09:40:02.000Z"
     },
     {
+      "id": "n_1c19bb8b19",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Early reports suggest record high turnout in Serbia elections",
+      "summary": "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T19:55:15.000Z"
+    },
+    {
+      "id": "n_d3e62867a4",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
+      "summary": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T19:14:27.000Z"
+    },
+    {
       "id": "n_b4c30b6342",
       "type": "news",
       "topic": "general",
@@ -274,18 +296,7 @@
       "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T16:21:40.000Z"
-    },
-    {
-      "id": "n_1c19bb8b19",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Early reports suggest record high turnout in Serbia elections",
-      "summary": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T16:05:15.000Z"
+      "publishedAt": "2026-10-25T18:29:00.000Z"
     },
     {
       "id": "n_fa795b3ffb",
@@ -341,17 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-25T09:00:00.000Z"
-    },
-    {
-      "id": "n_1c414a4f59",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
-      "summary": "That Girl Boina's post about why she had closed her beauty parlour struck a nerve with other small business owners.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T08:36:47.000Z"
     },
     {
       "id": "n_875bfd88d0",
