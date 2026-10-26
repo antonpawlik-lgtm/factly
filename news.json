@@ -1,93 +1,170 @@
 {
-  "generatedAt": "2026-10-26T15:33:44.461Z",
+  "generatedAt": "2026-10-26T21:59:22.202Z",
   "items": [
     {
-      "id": "n_70de15afda",
+      "id": "n_940888118a",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Wahl des Bundespräsidenten: Wer folgt auf Steinmeier?",
-      "summary": "Am 30. Januar wählt die Bundesversammlung ein neues Staatsoberhaupt. Doch wer für die Nachfolge von Frank-Walter Steinmeier ins Rennen geschickt wird, ist noch offen. Welche Namen gehandelt werden, wer die besten Chancen hat und wie die Wahl abläuft.",
+      "headline": "Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen",
+      "summary": "Trotz der geplanten Wiederaufnahme von Gesprächen unter US-Vermittlung will Russland die Ukraine weiter angreifen. Das teilte Kremlsprecher Peskow mit. In Charkiw wurden bei einer russischen Attacke zwei Menschen getötet.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentenwahl-102.html",
-      "publishedAt": "2026-10-26T15:07:22.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html",
+      "publishedAt": "2026-10-26T21:33:35.000Z"
     },
     {
-      "id": "n_49313a942d",
+      "id": "n_28f763263d",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Kreuzfahrtschiff rammt Containerschiffe - Polizei ermittelt gegen Kapitän",
-      "summary": "Nach der Schiffskollision in Bremerhaven während eines Sturms ermittelt die Polizei gegen den Kapitän des Kreuzfahrtschiffs \"Mein Schiff 3\". Es geht um einen möglichen Verstoß gegen die Sorgfaltspflicht. Die Kreuzfahrt ist abgesagt.",
+      "headline": "Wahlsieg der Studentenliste: Serbien betritt politisches Neuland",
+      "summary": "Absolute Mehrheit für die Studentenliste: In Serbien hat sie überraschend klar die Parlamentswahl gewonnen. Aber wie kann aus einer Protestbewegung eine Regierung werden? Vieles ist unklar - und die Aufgaben sind groß.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/herbststurm-norden-deutschland-100.html",
-      "publishedAt": "2026-10-26T14:30:41.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/serbien-wahlsieg-studentenliste-100.html",
+      "publishedAt": "2026-10-26T20:36:08.000Z"
     },
     {
-      "id": "n_cebd4e769e",
+      "id": "n_e349b31d8c",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Demonstrationen für Pressefreiheit in der Türkei",
-      "summary": "Journalisten stehen in der Türkei seit Langem unter Druck. Erneut sperrten die Behörden kürzlich Medienseiten und inhaftierten weitere Journalisten. Am Wochenende haben nun Tausende Menschen für mehr Pressefreiheit protestiert. Von Stella Männer.",
+      "headline": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
+      "summary": "Der Auftritt von Audi-Chef Döllner an der Seite von US-Präsident Trump sorgt weiter für Kritik. SPD-Generalsekretär Klüssendorf fordert Konsequenzen vom Mutterkonzern VW. Audi selbst verteidigt den Auftritt.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/demo-pressefreiheit-tuerkei-100.html",
-      "publishedAt": "2026-10-26T14:25:20.000Z"
+      "url": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html",
+      "publishedAt": "2026-10-26T19:56:04.000Z"
     },
     {
-      "id": "n_a42fabe82e",
+      "id": "n_db7fddc18c",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Brasiliens Kapitalmärkte stürzen ab",
-      "summary": "Während die EU die Wiederwahl von Brasiliens Präsident Lula begrüßt, hat diese einen Kurssturz bei brasilianischen Aktien und Anleihen ausgelöst. An den Märkten gibt es Sorgen wegen Brasiliens hoher Verschuldung.",
+      "headline": "Audi investiert in Amerika, Neckarsulm bangt",
+      "summary": "Audi will in den USA ein neues Werk bauen, der Auftritt des Firmenchefs auf einer Wahlkampfveranstaltung von Trump sorgt für heftige Kritik. Zugleich ist die Zukunft von deutschen Audi-Werken offen - wie in Neckarsulm. Von F. Siegel.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-brasilien-wahl-100.html",
-      "publishedAt": "2026-10-26T13:47:15.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-usa-trump-neckarsulm-100.html",
+      "publishedAt": "2026-10-26T17:56:22.000Z"
     },
     {
-      "id": "n_3fcc4bc6ab",
+      "id": "n_6079ed3372",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
-      "summary": "US-Präsident Trump und Audi-Chef Döllner auf einer Bühne - das stößt auf scharfe Kritik. Der Vorstandsvorsitzende kündigte in den USA ein neues Werk an. Nun könnten die eigenen Konzernleitlinien für ihn zum Problem werden.",
+      "headline": "Kommunen setzen auf neue Konzepte bei Cybersicherheit",
+      "summary": "Eine Gemeinde zahlt für einen großen Auftrag - das Geld landet aber bei Kriminellen. Weil solche Betrugsmaschen häufiger werden, setzen Kommunen auf neue Konzepte gegen Cyberkriminalität - und brauchen gut geschultes Personal. Von Markus Kaiser.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html",
-      "publishedAt": "2026-10-26T12:48:59.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/cybersicherheit-ki-kommunen-100.html",
+      "publishedAt": "2026-10-26T17:56:13.000Z"
     },
     {
-      "id": "n_d3454b391d",
+      "id": "n_ec6a2f57fc",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Massenproteste gegen Rundfunkreform in Tschechien",
-      "summary": "Die tschechische Regierung will den öffentlich-rechtlichen Rundfunk künftig aus dem Staatshaushalt finanzieren - und Mittel für die Sender deutlich kürzen. Landesweit protestierten Zehntausende. Sie befürchten weniger Unabhängigkeit. Von K. Peetz.",
+      "headline": "Marktbericht: Klare Gewinne zum Wochenstart",
+      "summary": "Dank eines robusten ifo-Geschäftsklimas konnte sich der DAX zum Wochenstart deutlich erholen. Eine Trendwende ist das aber noch nicht. In dieser Woche stehen noch einige gewichtige Daten an.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/tschechien-rundfunk-proteste-100.html",
-      "publishedAt": "2026-10-26T12:02:27.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
+      "publishedAt": "2026-10-26T17:05:23.000Z"
     },
     {
-      "id": "n_5ef500d19a",
+      "id": "n_ced90ce23b",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
-      "summary": "Das Kreuzfahrtschiff \"Mein Schiff 3\" ist nach dem Auslaufen in Bremerhaven bei stürmischem Wetter mit zwei Schiffen kollidiert. Zwei Schlepper wurden beschädigt. Nach aktuellem Stand gab es keine Verletzten.",
+      "headline": "Kommentar zu Audi-Chef Döllner: Politisch und menschlich ein fatales Signal",
+      "summary": "Ist der Auftritt des Audi-Chefs beim US-Präsidenten nicht einfach nur wirtschaftlich vernünftig? Nein, meint Katharina Fuß. Der Manager macht sich zum grinsenden Statisten von Trump - und schickt fatale Signale an die Audi-Belegschaft in Deutschland.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/seeunfall-bremerhaven-100.html",
-      "publishedAt": "2026-10-26T10:54:00.000Z"
+      "url": "https://www.tagesschau.de/kommentar/audi-doellner-trump-kommentar-100.html",
+      "publishedAt": "2026-10-26T16:57:08.000Z"
     },
     {
-      "id": "n_2006fa03e6",
+      "id": "n_baa03ed870",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Ifo-Index: Konjunkturbelebung setzt sich fort",
-      "summary": "Die Stimmung in den deutschen Chefetagen hellt sich weiter auf: Trotz hoher Energiepreise ist der ifo-Geschäftsklimaindex im Oktober zum sechsten Mal in Folge gestiegen.",
+      "headline": "Welche Folgen das Wahlergebnis für Brasilien haben könnte",
+      "summary": "Ihm fehlen Millionen Stimmen, doch seine Niederlage akzeptiert er nicht: Brasiliens rechter Präsidentschaftskandidat Bolsonaro. Das weckt Erinnerungen an die Abwahl seines Vaters. Was nun folgen könnte, erklärt Experte Maihold.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-index-oktober-102.html",
-      "publishedAt": "2026-10-26T10:29:32.000Z"
+      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-126.html",
+      "publishedAt": "2026-10-26T16:27:33.000Z"
+    },
+    {
+      "id": "n_a30cd7254e",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Microsoft bietet 60.000 Mitarbeitern Goldenen Handschlag",
+      "summary": "„Bitte geh‟, sagt Microsoft zu 60.000 Mitarbeitern in 4 Ländern. „Wir zahlen auch was.‟ Es ist ein Signal: KI bedeutet Kündigungen International.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Microsoft-bietet-60-000-Mitarbeitern-Goldenen-Handschlag-11501027.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-26T20:08:00.000Z"
+    },
+    {
+      "id": "n_5c6251778b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Cloudflare: Jahrelang Sicherheitsprobleme wie bei php2shell",
+      "summary": "Mit KI wird gerade jeglicher Code durchsucht. Laut Cloudflare ist noch jahrelang mit neuen, schweren Sicherheitslücken zu rechnen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Cloudflare-Chef-erwartet-etliche-weitere-Luecken-wie-php2shell-11500909.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-26T17:42:00.000Z"
+    },
+    {
+      "id": "n_5cedebfbb6",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Wenn KI wählen müsste: GPT und Grok liefern gegensätzliche Empfehlungen",
+      "summary": "Ein Forscherteam fragte GPT-6.1 Sol und Grok 4.7 per API nach Wahlempfehlungen. Das Ergebnis: GPT wählte fast nur demokratisch, Grok fast nur republikanisch.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/KI-Wahlempfehlungen-GPT-waehlt-Demokraten-Grok-waehlt-Republikaner-11500825.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-26T17:07:00.000Z"
+    },
+    {
+      "id": "n_885f762836",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Streit um Bromo: Europas Satelliten-Fusion auf dem Prüfstand",
+      "summary": "Ein geplanter Raumfahrt-Branchenriese soll Europas Autonomie im All sichern. Doch Brüsseler Kartellwächter und der deutsche Rivale OHB stellen sich quer.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Streit-um-Bromo-Europas-Satelliten-Fusion-auf-dem-Pruefstand-11500853.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-26T16:47:00.000Z"
+    },
+    {
+      "id": "n_1a34db19f7",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Schweiz in Minecraft: Student baut Land im Maßstab 1:1 nach",
+      "summary": "Ein Block, ein Meter: Das Projekt Blocks rechnet die Schweiz aus Swisstopo-Daten in eine Minecraft-Welt um. Die Gesamtkarte erhalten nur Schweizer Einwohner.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Schweiz-im-Massstab-1-1-in-Minecraft-ETH-Student-baut-Land-aus-Geodaten-nach-11500785.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-26T15:58:00.000Z"
+    },
+    {
+      "id": "n_8d077fa507",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "OpenAI wirbt Anthropic-Kunden offenbar mit Rabatten ab",
+      "summary": "OpenAI wirbt offenbar mit Rabatten Unternehmenskunden von Anthropic ab. Laut Insiderinformationen scheint das zu funktionieren.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/OpenAI-wirbt-Anthropic-Kunden-offenbar-mit-Rabatten-ab-11500685.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-26T15:43:00.000Z"
+    },
+    {
+      "id": "n_a74eaee800",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Podcast: „Die digitale Welt ist durch das Amoklaufen der KI-Konzerne gefährdet“",
+      "summary": "KI-Professorin Alke Martens warnt vor Weltuntergangserzählungen und sagt, wo die eigentliche Gefahr liegt: In dem, was Sprachmodelle mit unserem Denken machen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Podcast-Die-digitale-Welt-ist-durch-das-Amoklaufen-der-KI-Konzerne-gefaehrdet-11500763.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-26T15:36:00.000Z"
     },
     {
       "id": "n_558cc959a1",
@@ -101,224 +178,103 @@
       "publishedAt": "2026-10-26T15:20:00.000Z"
     },
     {
-      "id": "n_f882058961",
+      "id": "n_c2ea4ef990",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anthropic vor Börsengang: Umsatz vervierzehnfacht und enorme KI-Kosten",
-      "summary": "Anthropic hat seinen Börsenantrag für die Nasdaq veröffentlicht. Trotz hohen Nettoverlusts erzielte der Claude-Entwickler zuletzt operativ Gewinn.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Anthropic-vor-Boersengang-Umsatz-vervierzehnfacht-und-enorme-KI-Kosten-11500707.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-26T15:06:00.000Z"
-    },
-    {
-      "id": "n_67071f5b44",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Windows-Insider: Vorschauversionen zeigen eingebauten Internet-Speedtest",
-      "summary": "Microsoft hat Insider-Vorschau-Builds von Windows 11 veröffentlicht. Sie bringen ein neues Kontextmenü und einen Internet-Speedtest.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Windows-Insider-Vorschauversionen-zeigen-eingebauten-Internet-Speedtest-11500409.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-26T14:42:00.000Z"
-    },
-    {
-      "id": "n_018d2cae21",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "„Im besten Netz“: Landgericht Köln verbietet Telekom-Werbung in Netzkennung",
-      "summary": "Die Telekom hat vor Gericht eine Schlappe erlitten: Der Anfang des Jahres auf Smartphone-Displays angezeigte Werbeslogan „Im besten Netz“ war unzulässig.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Im-besten-Netz-Landgericht-Koeln-verbietet-Telekom-Werbung-in-Netzkennung-11500475.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-26T14:05:00.000Z"
-    },
-    {
-      "id": "n_21f6282069",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Kimi K3.1 Pro: Chinesisches Open-Weight-Modell fordert US-Weltspitze heraus",
-      "summary": "Moonshot AI stellt Kimi K3.1 Pro vor. Das Open-Weight-Modell konkurriert laut unabhängigen Benchmarks mit proprietären Spitzenmodellen aus den USA.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Chinesisches-Open-Weight-Modell-Kimi-K3-1-Pro-rueckt-an-US-Spitzenmodelle-heran-11500459.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-26T13:55:00.000Z"
-    },
-    {
-      "id": "n_26bb5742f3",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "PowerToys 0.102: Praktische neue Maus-Funktionshelfer",
-      "summary": "Microsofts PowerToys sind in Version 0.102 erschienen. Sie bringen neue Hilfsfunktionen für die Mausbedienung und Verbesserungen mit.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/PowerToys-0-102-Praktische-neue-Maus-Funktionshelfer-11500149.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-26T11:14:00.000Z"
-    },
-    {
-      "id": "n_7339de8341",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "php2shell: Millionen PHP-Dienste in Deutschland verwundbar",
-      "summary": "Die IT-Sicherheitsfirma Censys scannt PHP-Server auf für php2shell anfällige Versionen. Millionen in Deutschland sind noch verwundbar.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/php2shell-Millionen-PHP-Dienste-in-Deutschland-verwundbar-11498464.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-23T12:03:00.000Z"
-    },
-    {
-      "id": "n_f0da6c5654",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "php2shell: Wer nun was machen muss",
-      "summary": "Sämtliche PHP-Versionen der letzten 20 Jahre sind durch zwei Sicherheitslücken gefährdet. Updates einzuspielen ist das einzig wirksame Mittel.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/php2shell-Luecke-Was-jetzt-zu-tun-ist-11497046.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-22T15:00:00.000Z"
-    },
-    {
-      "id": "n_9e72783cda",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Monitorhalterung für zwei Monitore zum Sparpreis bei Amazon",
-      "summary": "Amazon hat eine anpassbare Monitorhalterung im Angebot, an der sich zwei Monitore mit 13 bis 27 Zoll platzsparend befestigen lassen. (Technik/Hardware)",
+      "headline": "Er spielte Pavel Chekov: Star-Trek-Darsteller Walter König ist tot",
+      "summary": "Walter Koenig spielte Pavel Chekov in der klassischen Star-Trek-Serie und den Filmen, war aber auch ein wunderbarer Schurke in Babylon 5. Ein Nachruf von Peter Osteried (Star Trek, In eigener Sache)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-monitorhalterung-fuer-zwei-monitore-zum-sparpreis-bei-amazon-2610-214524.html",
-      "publishedAt": "2026-10-26T15:29:01.000Z"
+      "url": "https://www.golem.de/news/er-spielte-pavel-chekov-star-trek-darsteller-walter-koenig-ist-tot-2610-214532.html",
+      "publishedAt": "2026-10-26T19:31:01.000Z"
     },
     {
-      "id": "n_a6791e8c3e",
+      "id": "n_f3106c34a0",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Apple: iPad mini wird dünner und bekommt OLED-Display",
-      "summary": "Apple rüstet sein kompaktes Tablet auf: Das iPad mini erhält ein OLED-Display, den A20-Pro-Chip und ein 5,4 mm dünnes Gehäuse. (iPad Mini, Apple)",
+      "headline": "KI-Kosten: Microsoft bietet bis zu 60.000 Mitarbeitern Abfindungen an",
+      "summary": "Microsoft will Mitarbeiter loswerden und macht ihnen Angebote. Potenziell könnten 60.000 Beschäftigte annehmen. (Microsoft, Rechenzentrum)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/apple-ipad-mini-wird-duenner-und-bekommt-oled-display-2610-214523.html",
-      "publishedAt": "2026-10-26T15:11:02.000Z"
+      "url": "https://www.golem.de/news/ki-kosten-microsoft-bietet-bis-zu-60-000-mitarbeitern-abfindungen-an-2610-214531.html",
+      "publishedAt": "2026-10-26T18:50:02.000Z"
     },
     {
-      "id": "n_d692d1ceb0",
+      "id": "n_5085615c82",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Claude und Co.: Anthropic reicht Börsengang ein",
-      "summary": "Anthropic wird künftig unter dem Kürzel ANT am Nasdaq gehandelt. Das Unternehmen hat bereits Milliardenverluste eingestanden. (Anthropic, Börse)",
+      "headline": "Krieg: Ukraine trifft russisches Finanzamts-Rechenzentrum",
+      "summary": "Ein ukrainischer Drohnenangriff hat offenbar ein staatliches russisches Rechenzentrum beschädigt. Möglicherweise sind auch Steuerdaten betroffen. (Rechenzentrum, Web Service)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/claude-und-co-anthropic-reicht-boersengang-ein-2610-214521.html",
-      "publishedAt": "2026-10-26T14:39:01.000Z"
+      "url": "https://www.golem.de/news/krieg-ukraine-trifft-russisches-finanzamts-rechenzentrum-2610-214530.html",
+      "publishedAt": "2026-10-26T18:10:02.000Z"
     },
     {
-      "id": "n_ea63aafe82",
+      "id": "n_3aa9890656",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Weltraumschrott: Schutzschicht für Satelliten vorgestellt",
-      "summary": "Die Armierung soll leichter sein als bisherige Schutzhüllen. Sie verhindert das Durchschlagen selbst bei 26.000 km/h Aufprallgeschwindigkeit. (Weltraumschrott, Nasa)",
+      "headline": "Anzeige: Microsoft Copilot im Unternehmen erfolgreich einsetzen",
+      "summary": "Microsoft Copilot kann zahlreiche Arbeitsabläufe unterstützen. Ein eintägiger Online-Workshop zeigt die Integration von KI-Tools und Chatbots in Unternehmen. (Golem Karrierewelt, Server-Applikationen)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/weltraumschrott-schutzschicht-fuer-satelliten-vorgestellt-2610-214520.html",
-      "publishedAt": "2026-10-26T14:25:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-microsoft-copilot-im-unternehmen-erfolgreich-einsetzen-2610-214468.html",
+      "publishedAt": "2026-10-26T17:45:02.000Z"
     },
     {
-      "id": "n_db7c5a6554",
+      "id": "n_f811c13b00",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Gernot Döllner: Audi-Auftritt bei Trump \"verstörend und erbärmlich\"",
-      "summary": "Der gemeinsame Wahlkampf-Auftritt mit Donald Trump in Georgia kann Audi-Chef Gernot Döllner zum Verhängnis werden. Die Kritik wird immer lauter. (Audi, Politik)",
+      "headline": "Stromverbrauch durch KI: Wer KI-Rechenzentren baut, soll auch für neuen Ökostrom sorgen",
+      "summary": "Ein Elektrotechnikprofessor fordert zusätzliche erneuerbare Energien als Voraussetzung für neue Rechenzentren. Auch Abwärme und Stromspeicher sollen genutzt werden. (Energie & Klima, GreenIT)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/gernot-doellner-audi-auftritt-bei-trump-verstoerend-und-erbaermlich-2610-214519.html",
-      "publishedAt": "2026-10-26T14:06:01.000Z"
+      "url": "https://www.golem.de/news/rechenzentren-ki-ausbau-nur-weiter-mit-strengen-umweltauflagen-2610-214528.html",
+      "publishedAt": "2026-10-26T17:36:01.000Z"
     },
     {
-      "id": "n_bbe7251402",
+      "id": "n_f29b52b06e",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Militär: Helsing stellt KI-Verteidigung und Abfangflugkörper gegen Drohnen vor",
-      "summary": "Helsings neue Lenkflugkörper mit Radarsuchköpfen sollen zusammen mit dem KI-Luftverteidigungssystem Contra Drohnen ausschalten. (Militär, Politik)",
+      "headline": "(g+) Künstliche Intelligenz: Stunde der Wahrheit für den KI-Rechenzentrumsboom",
+      "summary": "Abgesagte Börsengänge, fallende Aktienkurse und wachsende Zweifel: Nikkei Asia zeigt in einer Kurzanalyse, warum Anleger in Asien und Ozeanien beim KI-Boom vorsichtiger werden. Von Tsubasa Suruga und Shaun Turton (Rechenzentrum, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/militaer-helsing-stellt-ki-verteidigung-und-abfangflugkoerper-gegen-drohnen-vor-2610-214518.html",
-      "publishedAt": "2026-10-26T13:47:02.000Z"
+      "url": "https://www.golem.de/news/kuenstliche-intelligenz-stunde-der-wahrheit-fuer-den-ki-rechenzentrumsboom-2610-214522.html",
+      "publishedAt": "2026-10-26T17:15:01.000Z"
     },
     {
-      "id": "n_e6ad6e381f",
+      "id": "n_8b02528319",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Schwenkbare Überwachungskamera für Innenräume günstig bei Amazon",
-      "summary": "Eine schwenkbare Überwachungskamera für Innenräume mit FHD-Auflösung, Nachtsicht und Bewegungserkennung ist bei Amazon reduziert. (Videoüberwachung, Technik/Hardware)",
+      "headline": "Google Fitbit Edge im Test: Mehr Sportuhr braucht es oft nicht",
+      "summary": "Präzise Sensoren, hoher Tragekomfort und eine Woche Akkulaufzeit: Im Test überzeugt beim Fitbit Edge auch das Zusammenspiel mit Google Health. Ein Test von Peter Steinlechner (Fitbit, Test)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-schwenkbare-ueberwachungskamera-fuer-innenraeume-guenstig-bei-amazon-2610-214515.html",
-      "publishedAt": "2026-10-26T13:05:02.000Z"
+      "url": "https://www.golem.de/news/google-fitbit-edge-im-test-mehr-sportuhr-braucht-es-oft-nicht-2610-214309.html",
+      "publishedAt": "2026-10-26T17:00:05.000Z"
     },
     {
-      "id": "n_03b3e30692",
+      "id": "n_b39ff4967b",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "95 Milliarden US-Dollar: Meta verkauft Anteile für gigantische KI-Investition",
-      "summary": "Meta Plattforms braucht 95 Milliarden US-Dollar für weitere KI-Pläne. Der Werbemarkt bringt dafür nicht genug ein. (Meta, Rechenzentrum)",
+      "headline": "Anzeige: Starthilfepowerbank von Topdon für unter 136 Euro bei Amazon",
+      "summary": "Nie wieder tote Autobatterien: Die Topdon JS3000 für Benzin- und Dieselfahrzeuge ist bei Amazon zum Sparpreis erhältlich. (Auto, Amazon)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/95-milliarden-us-dollar-meta-verkauft-anteile-fuer-gigantische-ki-investition-2610-214517.html",
-      "publishedAt": "2026-10-26T13:00:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-starthilfepowerbank-von-topdon-fuer-unter-136-euro-bei-amazon-2610-214527.html",
+      "publishedAt": "2026-10-26T16:35:02.000Z"
     },
     {
-      "id": "n_76ad05f5fc",
+      "id": "n_5fa4fb5ded",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+      "headline": "'Maxxing' selected as Dictionary.com word of the year",
+      "summary": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T15:27:54.000Z"
-    },
-    {
-      "id": "n_81bc7b0e59",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T14:34:52.000Z"
-    },
-    {
-      "id": "n_43a04bab18",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Nurse killed in attack while responding to Ebola alert in DR Congo",
-      "summary": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T14:27:32.000Z"
-    },
-    {
-      "id": "n_c9833fcbd1",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-      "summary": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T14:16:09.000Z"
-    },
-    {
-      "id": "n_093bff8763",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US Marine indicted for murder and robbery of woman in Japan",
-      "summary": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T14:13:18.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T21:31:53.000Z"
     },
     {
       "id": "n_199eecef3d",
@@ -329,7 +285,29 @@
       "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T13:54:21.000Z"
+      "publishedAt": "2026-10-26T21:02:47.000Z"
+    },
+    {
+      "id": "n_84f97e2b56",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T19:27:21.000Z"
+    },
+    {
+      "id": "n_62fb176af9",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Sydney's new $5bn airport has one big problem: Getting there is tough",
+      "summary": "The airport won’t have direct public transportation for a year. How do locals feel about getting there?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T18:00:10.000Z"
     },
     {
       "id": "n_333d63b9b4",
@@ -340,18 +318,51 @@
       "summary": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T13:18:57.000Z"
+      "publishedAt": "2026-10-26T17:00:09.000Z"
     },
     {
-      "id": "n_f5819427a8",
+      "id": "n_d1857281bd",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
-      "summary": "The firebrand left-winger, who has at times been at odds with Trump, has won his fourth term as Brazil's president.",
+      "headline": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
+      "summary": "One resident, whose 75-year-old father was killed, described it as an ambush, saying they were surrounded.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T11:39:16.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T16:31:09.000Z"
+    },
+    {
+      "id": "n_a81e416332",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Israel and the US are both going to the polls - the consequences will be global",
+      "summary": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T16:30:34.000Z"
+    },
+    {
+      "id": "n_76ad05f5fc",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T16:27:17.000Z"
+    },
+    {
+      "id": "n_10865bbb2c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+      "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T19:57:23.000Z"
     },
     {
       "id": "n_226eb026b7",
@@ -420,103 +431,114 @@
       "publishedAt": "2026-10-22T18:26:56.000Z"
     },
     {
-      "id": "n_b853ddd115",
+      "id": "n_3013e4fb2f",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Race to update services' computer systems after cyber-security flaw found",
-      "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T17:12:51.000Z"
+      "headline": "Worms mate in man's eyes, get plucked out right before larvae burst out",
+      "summary": "Case study gives a whole new meaning to \"bedroom eyes.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
+      "publishedAt": "2026-10-26T20:27:00.000Z"
     },
     {
-      "id": "n_082e41c8ec",
+      "id": "n_283bfb813f",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "F1 in Texas: The American race that fans love to attend",
-      "summary": "Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas.",
+      "headline": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
+      "summary": "Lindsey Fitzharris chats with Ars about her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
-      "publishedAt": "2026-10-26T14:48:24.000Z"
+      "url": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
+      "publishedAt": "2026-10-26T20:15:07.000Z"
     },
     {
-      "id": "n_6a47f3e0c8",
+      "id": "n_5d5ff332a0",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Tesla gave up the EV crown. Now it wants to win the autonomy race",
-      "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
+      "headline": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+      "summary": "Included is the ability to limit which applications Siri can directly access.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
-      "publishedAt": "2026-10-26T14:30:27.000Z"
+      "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+      "publishedAt": "2026-10-26T20:04:16.000Z"
     },
     {
-      "id": "n_9ffa0ff77a",
+      "id": "n_668d9a95d5",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "From impulse purchase to pocket studio: The M-Vave FM-1",
-      "summary": "M-Vave's cheap FM-1 pocket synth has exploded as a community firmware playground.",
+      "headline": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+      "summary": "Apple claims this is the most significant update ever for the iPad mini line.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
-      "publishedAt": "2026-10-26T11:00:15.000Z"
+      "url": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+      "publishedAt": "2026-10-26T19:04:40.000Z"
     },
     {
-      "id": "n_7e7984ce45",
+      "id": "n_830f46d3a8",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
-      "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+      "headline": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+      "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
-      "publishedAt": "2026-10-24T11:50:28.000Z"
+      "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+      "publishedAt": "2026-10-26T18:50:41.000Z"
     },
     {
-      "id": "n_6ca78a3868",
+      "id": "n_0838a88857",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
-      "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
+      "headline": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
+      "summary": "Ukraine says Starshield back to normal, denies misuse of Starlink commercial service.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
-      "publishedAt": "2026-10-24T11:00:09.000Z"
+      "url": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
+      "publishedAt": "2026-10-26T18:09:08.000Z"
     },
     {
-      "id": "n_5dac0b35ab",
+      "id": "n_71784ce353",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-      "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
+      "headline": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+      "summary": "Investigators explain how highway thieves stole $100M in data center equipment.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
-      "publishedAt": "2026-10-23T22:48:25.000Z"
+      "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+      "publishedAt": "2026-10-26T17:26:36.000Z"
     },
     {
-      "id": "n_32c644453d",
+      "id": "n_ec2a619f2f",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Hegseth warns prediction market bets warp military judgment, endanger troops",
-      "summary": "Pentagon memo: Insider trading gives US enemies key intel on military operations.",
+      "headline": "Some iPhone Duo screens are already failing",
+      "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
-      "publishedAt": "2026-10-23T20:28:43.000Z"
+      "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+      "publishedAt": "2026-10-26T16:51:49.000Z"
     },
     {
-      "id": "n_3e249e7fc6",
+      "id": "n_0c7a0e5840",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Updated Google privacy policy says your Gmail might be used for advertising",
-      "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-      "publishedAt": "2026-10-23T20:19:55.000Z"
+      "headline": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "publishedAt": "2026-10-26T16:49:42.000Z"
+    },
+    {
+      "id": "n_4a24365e96",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "publishedAt": "2026-10-26T16:46:36.000Z"
     },
     {
       "id": "n_2c43c28405",
@@ -563,6 +585,17 @@
       "publishedAt": "2026-10-25T14:10:00.000Z"
     },
     {
+      "id": "n_770c71828f",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Will AI expose the rickety infrastructure of the internet?",
+      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "publishedAt": "2026-10-24T20:15:33.000Z"
+    },
+    {
       "id": "n_b0af889ad0",
       "type": "news",
       "topic": "ai",
@@ -574,37 +607,48 @@
       "publishedAt": "2026-10-24T19:00:00.000Z"
     },
     {
-      "id": "n_35d668020c",
+      "id": "n_96b9f45bb2",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Block’s new voice model sounds eerily human",
-      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "publishedAt": "2026-10-24T16:00:00.000Z"
+      "headline": "Anthropic is burning gas to feed the AI boom",
+      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Excha",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "publishedAt": "2026-10-26T21:45:31.000Z"
     },
     {
-      "id": "n_110fd09f65",
+      "id": "n_2500a6aad8",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "publishedAt": "2026-10-24T15:00:00.000Z"
+      "headline": "The RealReal won’t let AI agents hog designer clothing",
+      "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealRe",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "publishedAt": "2026-10-26T17:30:55.000Z"
     },
     {
-      "id": "n_0d4ae8a7dd",
+      "id": "n_4a8f41d180",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Here are the top AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "publishedAt": "2026-10-24T14:00:00.000Z"
+      "headline": "Five weird details from Anthropic’s IPO filing",
+      "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "publishedAt": "2026-10-26T17:10:23.000Z"
+    },
+    {
+      "id": "n_b8f740314e",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Microsoft offers buyouts to 60,000 employees",
+      "summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and career",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+      "publishedAt": "2026-10-26T15:58:27.000Z"
     },
     {
       "id": "n_df88ce95d9",
@@ -651,48 +695,15 @@
       "publishedAt": "2026-10-25T13:25:32.000Z"
     },
     {
-      "id": "n_99c99157c7",
+      "id": "n_c6549f35a0",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Google’s AI search changes upended online publishing",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "publishedAt": "2026-10-25T12:00:00.000Z"
-    },
-    {
-      "id": "n_0509c80e85",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Blue Planet III is keeping the rough edges in the age of AI",
-      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when thing",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "publishedAt": "2026-10-24T21:29:12.000Z"
-    },
-    {
-      "id": "n_09a5dda451",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Pennsylvania will require labels on AI-generated ads",
-      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "publishedAt": "2026-10-24T18:32:21.000Z"
-    },
-    {
-      "id": "n_f9113fa394",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI now trains its frontier AI models with no internet access",
-      "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk o",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-      "publishedAt": "2026-10-23T21:11:07.000Z"
+      "headline": "Will the real Anthropic please stand up",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "publishedAt": "2026-10-26T17:45:43.000Z"
     },
     {
       "id": "n_69d5a00235",
@@ -772,15 +783,26 @@
       "publishedAt": "2026-10-20T12:00:00.000Z"
     },
     {
-      "id": "n_506646dbe5",
+      "id": "n_e663e24339",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "A visit to Samsung’s massive new semiconductor hub",
-      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fab",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-      "publishedAt": "2026-10-20T09:00:00.000Z"
+      "headline": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+      "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+      "publishedAt": "2026-10-26T21:27:15.000Z"
+    },
+    {
+      "id": "n_5ecfeeaf9c",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+      "summary": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+      "publishedAt": "2026-10-26T16:01:55.000Z"
     },
     {
       "id": "n_ad4aca2b15",
@@ -847,28 +869,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
       "publishedAt": "2026-10-22T19:56:32.000Z"
-    },
-    {
-      "id": "n_f109b36dab",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
-      "summary": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
-      "publishedAt": "2026-10-22T13:00:00.000Z"
-    },
-    {
-      "id": "n_ddf7f86b51",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
-      "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
-      "publishedAt": "2026-10-22T10:00:00.000Z"
     },
     {
       "id": "n_d5dfb55b01",
@@ -1011,7 +1011,7 @@
       "type": "video",
       "topic": "video",
       "lang": "en",
-      "headline": "My First Time in Taiwan w/ Jensen Huang | Lex Fridman",
+      "headline": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
       "summary": "",
       "source": "Lex Fridman",
       "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
@@ -1055,6 +1055,18 @@
       "publishedAt": "2026-08-12T12:57:24.000Z"
     },
     {
+      "id": "n_94fd9875fe",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "China just dropped a new frontier model... and nobody can explain how",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=G_em1hHPnXY",
+      "thumbnail": "https://i.ytimg.com/vi/G_em1hHPnXY/hqdefault.jpg",
+      "publishedAt": "2026-10-26T18:55:29.000Z"
+    },
+    {
       "id": "n_f3c8faa918",
       "type": "video",
       "topic": "video",
@@ -1089,18 +1101,6 @@
       "url": "https://www.youtube.com/watch?v=b2tjnxX8IHU",
       "thumbnail": "https://i.ytimg.com/vi/b2tjnxX8IHU/hqdefault.jpg",
       "publishedAt": "2026-10-20T16:21:03.000Z"
-    },
-    {
-      "id": "n_0a3b2a8559",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The runtime wars are over... and Node won",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=l3L_lETiSzc",
-      "thumbnail": "https://i.ytimg.com/vi/l3L_lETiSzc/hqdefault.jpg",
-      "publishedAt": "2026-10-15T17:35:15.000Z"
     },
     {
       "id": "n_251908ef4e",
