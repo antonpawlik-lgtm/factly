@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-25T22:52:39.876Z",
+  "generatedAt": "2026-10-26T02:02:00.552Z",
   "items": [
+    {
+      "id": "n_ccb0b85026",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Lula gewinnt Wahl in Brasilien",
+      "summary": "Der linksgerichtete Staatschef Lula da Silva hat die Präsidentschaftswahl in Brasilien gewonnen. Der 80-Jährige setzte sich gegen den rechtsgerichteten Kandidaten Flávio Bolsonaro durch, wie das Oberste Wahlgericht mitteilte.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-100.html",
+      "publishedAt": "2026-10-26T01:12:14.000Z"
+    },
+    {
+      "id": "n_92220942de",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz",
+      "summary": "Deutschland braucht mehr bezahlbaren Wohnraum. Das soll unter anderem mit dem Gebäudetyp E gelingen - das E steht hier für \"einfach\". Der Gesetzentwurf liegt dem ARD-Hauptstadtstudio exklusiv vor. Von Oliver Neuroth.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gebaeudetyp-e-104.html",
+      "publishedAt": "2026-10-25T23:07:11.000Z"
+    },
     {
       "id": "n_62b32632ac",
       "type": "news",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/serbien-wahl-update-100.html",
       "publishedAt": "2026-10-25T16:24:20.000Z"
-    },
-    {
-      "id": "n_2f0a76edf8",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Großbritannien: Burnham offen für Rückkehr zu EU-Freizügigkeit",
-      "summary": "Der Brexit hat Großbritannien mehr Schaden als Nutzen gebracht - so sieht es zumindest der neue Premier Burnham. Jetzt zeigt er sich einmal mehr offen für eine Wiederannäherung an die EU - allerdings in Grenzen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/burnham-freizuegigkeit-100.html",
-      "publishedAt": "2026-10-25T15:12:04.000Z"
-    },
-    {
-      "id": "n_b6a25d076f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
-      "summary": "Immer wieder droht Trump ausländischen Unternehmen mit hohen Zöllen. Nun kündigte Audi den Bau seines ersten Werks in den USA an. Auf einer Wahlkampfveranstaltung durfte der US-Präsident damit auch für sich werben.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html",
-      "publishedAt": "2026-10-25T15:04:51.000Z"
     },
     {
       "id": "n_7339de8341",
@@ -266,6 +266,28 @@
       "publishedAt": "2026-10-25T09:40:02.000Z"
     },
     {
+      "id": "n_81bc7b0e59",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T01:07:05.000Z"
+    },
+    {
+      "id": "n_b4c30b6342",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Venezuelan opposition leader María Machado returns after months in exile",
+      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T23:33:14.000Z"
+    },
+    {
       "id": "n_d33d24266c",
       "type": "news",
       "topic": "general",
@@ -275,17 +297,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-25T22:11:13.000Z"
-    },
-    {
-      "id": "n_81bc7b0e59",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
-      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T22:06:26.000Z"
     },
     {
       "id": "n_b3a8a79ad8",
@@ -308,17 +319,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-25T19:14:27.000Z"
-    },
-    {
-      "id": "n_b4c30b6342",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Venezuelan opposition leader María Machado returns after months in exile",
-      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T18:29:00.000Z"
     },
     {
       "id": "n_fa795b3ffb",
@@ -352,6 +352,17 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-25T10:55:33.000Z"
+    },
+    {
+      "id": "n_226eb026b7",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+      "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-25T23:44:34.000Z"
     },
     {
       "id": "n_875bfd88d0",
@@ -429,17 +440,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-22T10:17:26.000Z"
-    },
-    {
-      "id": "n_61ee4bba6b",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "'500 new vulnerabilities' found in government, says AI minister",
-      "summary": "'500 new vulnerabilities' found in government, says AI minister",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T10:08:44.000Z"
     },
     {
       "id": "n_7e7984ce45",
@@ -968,186 +968,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
       "publishedAt": "2026-10-21T14:58:18.000Z"
-    },
-    {
-      "id": "n_5565a81df6",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gemini 4 Argon Is Not What I Expected",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
-      "thumbnail": "https://i.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
-      "publishedAt": "2026-10-19T08:49:21.000Z"
-    },
-    {
-      "id": "n_3c1e366833",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI’s New AI Is Doing Things We Barely Understand",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
-      "thumbnail": "https://i.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
-      "publishedAt": "2026-10-13T08:56:12.000Z"
-    },
-    {
-      "id": "n_b35e5f2d2e",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek Solved AI’s Memory Problem",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
-      "thumbnail": "https://i.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg",
-      "publishedAt": "2026-10-11T16:53:17.000Z"
-    },
-    {
-      "id": "n_b84db88632",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepMind's New AI Just Cracked The Code Of Life",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-      "thumbnail": "https://i.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg",
-      "publishedAt": "2026-10-07T13:29:33.000Z"
-    },
-    {
-      "id": "n_fb6a439eff",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
-      "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
-      "publishedAt": "2026-10-13T21:26:16.000Z"
-    },
-    {
-      "id": "n_c21d60498a",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
-      "publishedAt": "2026-09-17T00:34:47.000Z"
-    },
-    {
-      "id": "n_ffdb3dfd14",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
-      "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_6a18d8c315",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
-      "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
-      "publishedAt": "2026-08-12T12:57:24.000Z"
-    },
-    {
-      "id": "n_f3c8faa918",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The most vulnerable week in internet history...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=SMGg7iisHmc",
-      "thumbnail": "https://i.ytimg.com/vi/SMGg7iisHmc/hqdefault.jpg",
-      "publishedAt": "2026-10-23T18:19:58.000Z"
-    },
-    {
-      "id": "n_dba4be3004",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The last real programmers are dying out...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=zv6B6PQOuHE",
-      "thumbnail": "https://i.ytimg.com/vi/zv6B6PQOuHE/hqdefault.jpg",
-      "publishedAt": "2026-10-22T15:09:31.000Z"
-    },
-    {
-      "id": "n_5c15dc92fc",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did Google just dethrone OpenAI and Anthropic?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=b2tjnxX8IHU",
-      "thumbnail": "https://i.ytimg.com/vi/b2tjnxX8IHU/hqdefault.jpg",
-      "publishedAt": "2026-10-20T16:21:03.000Z"
-    },
-    {
-      "id": "n_0a3b2a8559",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The runtime wars are over... and Node won",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=l3L_lETiSzc",
-      "thumbnail": "https://i.ytimg.com/vi/l3L_lETiSzc/hqdefault.jpg",
-      "publishedAt": "2026-10-15T17:35:15.000Z"
-    },
-    {
-      "id": "n_251908ef4e",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "iPhone Duo Review: First Generation Fun!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=ESABTN4VtrA",
-      "thumbnail": "https://i.ytimg.com/vi/ESABTN4VtrA/hqdefault.jpg",
-      "publishedAt": "2026-10-21T12:00:52.000Z"
-    },
-    {
-      "id": "n_5fe4101a91",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The NEW Tesla Roadster: My Honest Reaction",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=scwlR0QHGOk",
-      "thumbnail": "https://i.ytimg.com/vi/scwlR0QHGOk/hqdefault.jpg",
-      "publishedAt": "2026-10-17T02:09:23.000Z"
-    },
-    {
-      "id": "n_55ef81df9d",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Apple Homeview Impressions: Not Convinced!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=QVv3mQzlrN0",
-      "thumbnail": "https://i.ytimg.com/vi/QVv3mQzlrN0/hqdefault.jpg",
-      "publishedAt": "2026-10-13T22:42:38.000Z"
     }
   ]
 }
