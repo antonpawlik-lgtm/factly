@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-10-26T21:59:22.202Z",
+  "generatedAt": "2026-10-27T02:39:26.403Z",
   "items": [
+    {
+      "id": "n_13060f4635",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Schülerproteste in Frankreich: Fünf-Punkte-Plan, aber noch kein Befreiungsschlag",
+      "summary": "In Frankreich geht die Regierung mit einem Maßnahmenkatalog auf die protestierenden Schüler zu. Diese begrüßen den Fünf-Punkte-Plan des Bildungsministers, wollen am kommenden Samstag aber erneut demonstrieren. Von Julia Borutta.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-5-punkte-plan-100.html",
+      "publishedAt": "2026-10-27T02:22:51.000Z"
+    },
+    {
+      "id": "n_520861c12c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Harry Kane gewinnt Ballon d'Or",
+      "summary": "Harry Kane wurde in London mit dem Ballon d'Or ausgezeichnet. Er ist der erste Bundesliga-Spieler seit Matthias Sammer 1996, der den Award gewinnt. Bei den Frauen gewann Alexia Putellas, bester Trainer wurde Luis de la Fuente.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/sport/eilmeldung-9588.html",
+      "publishedAt": "2026-10-26T23:20:35.000Z"
+    },
     {
       "id": "n_940888118a",
       "type": "news",
@@ -10,7 +32,7 @@
       "summary": "Trotz der geplanten Wiederaufnahme von Gesprächen unter US-Vermittlung will Russland die Ukraine weiter angreifen. Das teilte Kremlsprecher Peskow mit. In Charkiw wurden bei einer russischen Attacke zwei Menschen getötet.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html",
-      "publishedAt": "2026-10-26T21:33:35.000Z"
+      "publishedAt": "2026-10-26T22:30:15.000Z"
     },
     {
       "id": "n_28f763263d",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html",
       "publishedAt": "2026-10-26T17:05:23.000Z"
-    },
-    {
-      "id": "n_ced90ce23b",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Kommentar zu Audi-Chef Döllner: Politisch und menschlich ein fatales Signal",
-      "summary": "Ist der Auftritt des Audi-Chefs beim US-Präsidenten nicht einfach nur wirtschaftlich vernünftig? Nein, meint Katharina Fuß. Der Manager macht sich zum grinsenden Statisten von Trump - und schickt fatale Signale an die Audi-Belegschaft in Deutschland.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kommentar/audi-doellner-trump-kommentar-100.html",
-      "publishedAt": "2026-10-26T16:57:08.000Z"
-    },
-    {
-      "id": "n_baa03ed870",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Welche Folgen das Wahlergebnis für Brasilien haben könnte",
-      "summary": "Ihm fehlen Millionen Stimmen, doch seine Niederlage akzeptiert er nicht: Brasiliens rechter Präsidentschaftskandidat Bolsonaro. Das weckt Erinnerungen an die Abwahl seines Vaters. Was nun folgen könnte, erklärt Experte Maihold.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-126.html",
-      "publishedAt": "2026-10-26T16:27:33.000Z"
     },
     {
       "id": "n_a30cd7254e",
@@ -266,6 +266,28 @@
       "publishedAt": "2026-10-26T16:35:02.000Z"
     },
     {
+      "id": "n_1ab5871f34",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Ex-FBI chief James Comey faces federal charges for third time",
+      "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T02:01:27.000Z"
+    },
+    {
+      "id": "n_687f591224",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+      "summary": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T00:31:11.000Z"
+    },
+    {
       "id": "n_5fa4fb5ded",
       "type": "news",
       "topic": "general",
@@ -299,6 +321,17 @@
       "publishedAt": "2026-10-26T19:27:21.000Z"
     },
     {
+      "id": "n_0a3f3bff38",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Pope's South American trip to go ahead as planned after lung cancer surgery",
+      "summary": "The Pope underwent surgery in to remove a tumour on the lower part of his right lung and is gradually resuming his duties.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T18:46:19.000Z"
+    },
+    {
       "id": "n_62fb176af9",
       "type": "news",
       "topic": "general",
@@ -321,37 +354,15 @@
       "publishedAt": "2026-10-26T17:00:09.000Z"
     },
     {
-      "id": "n_d1857281bd",
+      "id": "n_088d4b9204",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
-      "summary": "One resident, whose 75-year-old father was killed, described it as an ambush, saying they were surrounded.",
+      "headline": "Apple says it will replace iPhone Duo handsets with screen problems",
+      "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T16:31:09.000Z"
-    },
-    {
-      "id": "n_a81e416332",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Israel and the US are both going to the polls - the consequences will be global",
-      "summary": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T16:30:34.000Z"
-    },
-    {
-      "id": "n_76ad05f5fc",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T16:27:17.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T01:48:04.000Z"
     },
     {
       "id": "n_10865bbb2c",
@@ -363,6 +374,17 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-26T19:57:23.000Z"
+    },
+    {
+      "id": "n_76ad05f5fc",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T16:27:17.000Z"
     },
     {
       "id": "n_226eb026b7",
@@ -420,15 +442,15 @@
       "publishedAt": "2026-10-23T08:04:17.000Z"
     },
     {
-      "id": "n_4e52348834",
+      "id": "n_594899e8d9",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-      "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T18:26:56.000Z"
+      "headline": "Microsoft offers to buy out a quarter of its workforce",
+      "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+      "publishedAt": "2026-10-26T22:36:06.000Z"
     },
     {
       "id": "n_3013e4fb2f",
@@ -508,15 +530,26 @@
       "publishedAt": "2026-10-26T17:26:36.000Z"
     },
     {
-      "id": "n_ec2a619f2f",
+      "id": "n_858bf7d244",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Some iPhone Duo screens are already failing",
-      "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
-      "publishedAt": "2026-10-26T16:51:49.000Z"
+      "headline": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "publishedAt": "2026-10-27T02:00:00.000Z"
+    },
+    {
+      "id": "n_543832a6d8",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "publishedAt": "2026-10-27T01:12:21.000Z"
     },
     {
       "id": "n_0c7a0e5840",
@@ -585,26 +618,15 @@
       "publishedAt": "2026-10-25T14:10:00.000Z"
     },
     {
-      "id": "n_770c71828f",
+      "id": "n_bba291662c",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Will AI expose the rickety infrastructure of the internet?",
-      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-      "publishedAt": "2026-10-24T20:15:33.000Z"
-    },
-    {
-      "id": "n_b0af889ad0",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "publishedAt": "2026-10-24T19:00:00.000Z"
+      "headline": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "publishedAt": "2026-10-26T23:34:58.000Z"
     },
     {
       "id": "n_96b9f45bb2",
@@ -682,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
       "publishedAt": "2026-10-26T13:15:00.000Z"
-    },
-    {
-      "id": "n_b366ba776f",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "r/opensource just banned AI, non-English speakers, and more",
-      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "publishedAt": "2026-10-25T13:25:32.000Z"
     },
     {
       "id": "n_c6549f35a0",
@@ -1007,6 +1018,18 @@
       "publishedAt": "2026-10-07T13:29:33.000Z"
     },
     {
+      "id": "n_3f3a8c8623",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
+      "thumbnail": "https://i.ytimg.com/vi/ZAzWPE9CItg/hqdefault.jpg",
+      "publishedAt": "2026-10-26T22:51:51.000Z"
+    },
+    {
       "id": "n_fb6a439eff",
       "type": "video",
       "topic": "video",
@@ -1041,18 +1064,6 @@
       "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
       "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
       "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_6a18d8c315",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=l6USUAIKJls",
-      "thumbnail": "https://i.ytimg.com/vi/l6USUAIKJls/hqdefault.jpg",
-      "publishedAt": "2026-08-12T12:57:24.000Z"
     },
     {
       "id": "n_94fd9875fe",
