@@ -1,16 +1,27 @@
 {
-  "generatedAt": "2026-10-27T19:48:32.817Z",
+  "generatedAt": "2026-10-28T00:07:03.795Z",
   "items": [
+    {
+      "id": "n_d658307b2f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Keine klare Mehrheit bei Parlamentswahl in Israel",
+      "summary": "Bei der Parlamentswahl in Israel erreichen Prognosen zufolge weder Premierminister Netanjahu noch sein wichtigster Gegner Eisenkot eine Mehrheit. Eisenkot kündigte dennoch an, eine Regierung bilden zu wollen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-prognose-100.html",
+      "publishedAt": "2026-10-27T23:55:00.000Z"
+    },
     {
       "id": "n_3cb873337b",
       "type": "news",
       "topic": "general",
       "lang": "de",
       "headline": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar auf Weg in USA",
-      "summary": "Der unterlegene Präsidentschaftskandidat Flávio Bolsonaro hat nach Medienberichten Brasilien verlassen und ist auf dem Weg in die USA. Bolsonaro darf wegen einer Entscheidung des Obersten Gerichts eigentlich nicht ausreisen.",
+      "summary": "Der unterlegene Präsidentschaftskandidat Flávio Bolsonaro hat laut Medienberichten Brasilien verlassen - trotz eines gerichtlich verhängten Ausreiseverbots. Die USA wollen ihm und seiner Familie nun Visa erteilen.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
-      "publishedAt": "2026-10-27T19:25:34.000Z"
+      "publishedAt": "2026-10-27T21:16:24.000Z"
     },
     {
       "id": "n_d8018e76ca",
@@ -18,10 +29,10 @@
       "topic": "general",
       "lang": "de",
       "headline": "Bei Knesset-Wahl zeichnet sich enorm hohe Wahlbeteiligung ab",
-      "summary": "Für viele Israelis ist es nicht weniger als eine Schicksalswahl - und das spiegelt sich in der Wahlbeteiligung wider. Die liegt bereits jetzt auf einem Rekordniveau. Umfragen deuten auf ein knappes Rennen hin.",
+      "summary": "Für viele Israelis ist es nicht weniger als eine Schicksalswahl - und das spiegelt sich in der Wahlbeteiligung wider. Die liegt auf einem Rekordniveau. Umfragen deuten auf ein knappes Rennen hin.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/asien/hohe-wahlbeteiligung-israel-100.html",
-      "publishedAt": "2026-10-27T19:00:24.000Z"
+      "publishedAt": "2026-10-27T20:05:11.000Z"
     },
     {
       "id": "n_55468bd403",
@@ -32,7 +43,18 @@
       "summary": "Die Berliner Linke will heute darüber beraten, ob die Abgeordnete Vanessa Emde aus der Parteifraktion ausgeschlossen werden soll. Emde steht unter anderem wegen ihrer Aussagen zum Existenzrecht Israels in der Kritik.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html",
-      "publishedAt": "2026-10-27T18:48:55.000Z"
+      "publishedAt": "2026-10-27T20:00:01.000Z"
+    },
+    {
+      "id": "n_9cf0cd04c8",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "CDU-Politikerin Claus signalisiert Interesse an Steinmeier-Nachfolge",
+      "summary": "Bisher gibt es nur den Vorschlag der CSU: Ilse Aigner soll Bundespräsidentin werden. Doch in der CDU gibt es den Wunsch nach einem Namen aus den eigenen Reihen. Nun wird der von Ines Claus genannt. Hätte sie Chancen? Von Kirsten Girschick.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/moegliche-nachfolgerin-steinmeier-ines-claus-100.html",
+      "publishedAt": "2026-10-27T19:52:58.000Z"
     },
     {
       "id": "n_93f699a1d6",
@@ -66,28 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-standorte-100.html",
       "publishedAt": "2026-10-27T17:12:36.000Z"
-    },
-    {
-      "id": "n_7636404a52",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Atommüll-Endlager: In weiteren Bundesländern soll nicht mehr gesucht werden",
-      "summary": "Die Suche nach einem Endlager für den hochradioaktiven Atommüll in Deutschland wird konkreter. Die zuständigen Fachleute haben die geeigneten Gebiete weiter eingegrenzt - auf weniger als fünf Prozent der Landesfläche.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-atommuell-100.html",
-      "publishedAt": "2026-10-27T17:11:59.000Z"
-    },
-    {
-      "id": "n_5795b9c41a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Pressefreiheit: Ägypten schließt unabhängige Nachrichtenseite",
-      "summary": "Ein ägyptisches Gericht hat die Schließung der unabhängigen Nachrichtenwebseite Mada Masr angeordnet. Chefredakteurin Attalah wurde zu einer hohen Geldstrafe verurteilt. Reporter ohne Grenzen spricht von einer \"ungeheuerlichen Entscheidung\".",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/aegypten-nachrichtenseite-mada-masr-100.html",
-      "publishedAt": "2026-10-27T16:42:34.000Z"
     },
     {
       "id": "n_3a05c14543",
@@ -266,11 +266,77 @@
       "publishedAt": "2026-10-27T16:44:01.000Z"
     },
     {
+      "id": "n_22e9db2690",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: 'No clear winner' in Israel election - what happens now?",
+      "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T00:04:29.000Z"
+    },
+    {
+      "id": "n_7a64b6f22b",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+      "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T23:41:23.000Z"
+    },
+    {
+      "id": "n_4ce40386ca",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T22:11:08.000Z"
+    },
+    {
+      "id": "n_ff9ab098d3",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+      "summary": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T21:09:12.000Z"
+    },
+    {
+      "id": "n_bb89f4f74e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Egypt court fines journalist Lina Attalah and orders news site's closure",
+      "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T20:44:40.000Z"
+    },
+    {
+      "id": "n_eaf6f6cabf",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+      "summary": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T20:42:38.000Z"
+    },
+    {
       "id": "n_fae31ffd8e",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Dutch zookeeper dies after being mauled in leopard enclosure",
+      "headline": "Dutch zookeeper dies after being mauled by leopard",
       "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
@@ -288,70 +354,26 @@
       "publishedAt": "2026-10-27T19:01:16.000Z"
     },
     {
-      "id": "n_c911cf8a72",
+      "id": "n_a0c3bc6eed",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
-      "summary": "The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money.",
+      "headline": "'An annoying buzz': The search for stealthier drones",
+      "summary": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T18:43:41.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T00:01:10.000Z"
     },
     {
-      "id": "n_99f359bbc9",
+      "id": "n_42206ae1f6",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Controversial Islamic cleric shot dead in northern Nigeria",
-      "summary": "Yahaya Masussuka had posted videos in which he rejected some elements of mainstream Islam.",
+      "headline": "Tech Life",
+      "summary": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T18:35:02.000Z"
-    },
-    {
-      "id": "n_5da481dc97",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Norway and Finland leaders hold rare call with Putin",
-      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T18:28:23.000Z"
-    },
-    {
-      "id": "n_5e357372a6",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Watch: The Mbappé-Chairman Mao controversy explained",
-      "summary": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T17:11:27.000Z"
-    },
-    {
-      "id": "n_e9668143f7",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Nanotyrannus skeleton sells for $47.3m in New York auction",
-      "summary": "The sale of the rare skeleton reignites debate in the scientific community about whether dinosaur remains should end up in private hands or public view.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T17:10:15.000Z"
-    },
-    {
-      "id": "n_bb89f4f74e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
-      "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T16:11:35.000Z"
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jys?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T20:30:00.000Z"
     },
     {
       "id": "n_088d4b9204",
@@ -420,33 +442,77 @@
       "publishedAt": "2026-10-23T12:24:17.000Z"
     },
     {
-      "id": "n_7a5340218a",
+      "id": "n_5b2f53c323",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
-      "summary": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T12:00:25.000Z"
+      "headline": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+      "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+      "publishedAt": "2026-10-27T22:37:30.000Z"
     },
     {
-      "id": "n_a9a0851ac6",
+      "id": "n_60c506bba5",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "The Indian workers filming their work to train AI",
-      "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T08:04:17.000Z"
+      "headline": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+      "summary": "International travel used to be the main risk of measles cases in the US—not anymore.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+      "publishedAt": "2026-10-27T22:22:32.000Z"
+    },
+    {
+      "id": "n_c0a45b82d2",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "China's top-secret spaceplane can't hide in low-Earth orbit",
+      "summary": "The DIA's threat assessment suggests China may soon place directed energy weapons in space.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+      "publishedAt": "2026-10-27T22:04:50.000Z"
+    },
+    {
+      "id": "n_6849d36ab6",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "publishedAt": "2026-10-27T21:50:04.000Z"
+    },
+    {
+      "id": "n_78aca7aaaf",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+      "publishedAt": "2026-10-27T21:31:14.000Z"
+    },
+    {
+      "id": "n_71d9cb2bf3",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+      "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "publishedAt": "2026-10-27T20:25:55.000Z"
     },
     {
       "id": "n_d5ef55b539",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Google's Android Registered App Stores program launches Dec. 1, applications now open",
+      "headline": "Google begins certifying Registered App Stores for Android, but not in the US",
       "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
@@ -464,70 +530,48 @@
       "publishedAt": "2026-10-27T18:49:08.000Z"
     },
     {
-      "id": "n_70b57af5f2",
+      "id": "n_6210b5315d",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Warner Bros. drops final trailer for Dune: Part Three",
-      "summary": "\"After years of combat, I've become the oppressor Chani had sworn to fight.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
-      "publishedAt": "2026-10-27T18:05:55.000Z"
+      "headline": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "publishedAt": "2026-10-27T23:34:27.000Z"
     },
     {
-      "id": "n_04011d5a5c",
+      "id": "n_1f592db8b0",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Ford simplifies using your EV as a home battery with the $30K Fathom",
-      "summary": "The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
-      "publishedAt": "2026-10-27T16:17:58.000Z"
+      "headline": "The data center boom has an upside: innovation for the US grid",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "publishedAt": "2026-10-27T22:55:41.000Z"
     },
     {
-      "id": "n_a60188d049",
+      "id": "n_f45c20f729",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-      "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
-      "publishedAt": "2026-10-27T16:00:22.000Z"
+      "headline": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "publishedAt": "2026-10-27T21:44:34.000Z"
     },
     {
-      "id": "n_8b7c3e50fa",
+      "id": "n_a9a2cf8c96",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
-      "summary": "Huge price hikes force loyal users to reconsider their favorite apps.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/",
-      "publishedAt": "2026-10-27T15:50:19.000Z"
-    },
-    {
-      "id": "n_5a9a13a86b",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
-      "summary": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
-      "publishedAt": "2026-10-27T14:20:26.000Z"
-    },
-    {
-      "id": "n_ec2a619f2f",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
-      "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
-      "publishedAt": "2026-10-27T14:00:49.000Z"
+      "headline": "Who’s really in charge at Anthropic after the IPO?",
+      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "publishedAt": "2026-10-27T21:38:28.000Z"
     },
     {
       "id": "n_44543de809",
@@ -574,48 +618,15 @@
       "publishedAt": "2026-10-27T14:59:09.000Z"
     },
     {
-      "id": "n_6c930674e3",
+      "id": "n_ba3cece69e",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Japan internet giant GMO says hackers posted stolen customer data",
-      "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-      "publishedAt": "2026-10-27T13:32:57.000Z"
-    },
-    {
-      "id": "n_c3f55709f5",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-      "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-      "publishedAt": "2026-10-27T13:00:00.000Z"
-    },
-    {
-      "id": "n_a878112837",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-      "publishedAt": "2026-10-27T13:00:00.000Z"
-    },
-    {
-      "id": "n_b007bafd9f",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "publishedAt": "2026-10-27T11:00:00.000Z"
+      "headline": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing i",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "publishedAt": "2026-10-27T20:48:58.000Z"
     },
     {
       "id": "n_d8c87d0b44",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
       "publishedAt": "2026-10-26T23:34:58.000Z"
-    },
-    {
-      "id": "n_96b9f45bb2",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Anthropic is burning gas to feed the AI boom",
-      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Excha",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-      "publishedAt": "2026-10-26T21:45:31.000Z"
     },
     {
       "id": "n_9dbb9e5222",
@@ -970,54 +970,6 @@
       "publishedAt": "2026-10-21T16:04:43.000Z"
     },
     {
-      "id": "n_5565a81df6",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gemini 4 Argon Is Not What I Expected",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
-      "thumbnail": "https://i.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
-      "publishedAt": "2026-10-19T08:49:21.000Z"
-    },
-    {
-      "id": "n_3c1e366833",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI’s New AI Is Doing Things We Barely Understand",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
-      "thumbnail": "https://i.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
-      "publishedAt": "2026-10-13T08:56:12.000Z"
-    },
-    {
-      "id": "n_b35e5f2d2e",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek Solved AI’s Memory Problem",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
-      "thumbnail": "https://i.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg",
-      "publishedAt": "2026-10-11T16:53:17.000Z"
-    },
-    {
-      "id": "n_b84db88632",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepMind's New AI Just Cracked The Code Of Life",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-      "thumbnail": "https://i.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg",
-      "publishedAt": "2026-10-07T13:29:33.000Z"
-    },
-    {
       "id": "n_3f3a8c8623",
       "type": "video",
       "topic": "video",
@@ -1064,90 +1016,6 @@
       "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
       "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
       "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_94fd9875fe",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "China just dropped a new frontier model... and nobody can explain how",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=G_em1hHPnXY",
-      "thumbnail": "https://i.ytimg.com/vi/G_em1hHPnXY/hqdefault.jpg",
-      "publishedAt": "2026-10-26T18:55:29.000Z"
-    },
-    {
-      "id": "n_f3c8faa918",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The most vulnerable week in internet history...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=SMGg7iisHmc",
-      "thumbnail": "https://i.ytimg.com/vi/SMGg7iisHmc/hqdefault.jpg",
-      "publishedAt": "2026-10-23T18:19:58.000Z"
-    },
-    {
-      "id": "n_dba4be3004",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The last real programmers are dying out...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=zv6B6PQOuHE",
-      "thumbnail": "https://i.ytimg.com/vi/zv6B6PQOuHE/hqdefault.jpg",
-      "publishedAt": "2026-10-22T15:09:31.000Z"
-    },
-    {
-      "id": "n_5c15dc92fc",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did Google just dethrone OpenAI and Anthropic?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=b2tjnxX8IHU",
-      "thumbnail": "https://i.ytimg.com/vi/b2tjnxX8IHU/hqdefault.jpg",
-      "publishedAt": "2026-10-20T16:21:03.000Z"
-    },
-    {
-      "id": "n_251908ef4e",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "iPhone Duo Review: First Generation Fun!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=ESABTN4VtrA",
-      "thumbnail": "https://i.ytimg.com/vi/ESABTN4VtrA/hqdefault.jpg",
-      "publishedAt": "2026-10-21T12:00:52.000Z"
-    },
-    {
-      "id": "n_5fe4101a91",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The NEW Tesla Roadster: My Honest Reaction",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=scwlR0QHGOk",
-      "thumbnail": "https://i.ytimg.com/vi/scwlR0QHGOk/hqdefault.jpg",
-      "publishedAt": "2026-10-17T02:09:23.000Z"
-    },
-    {
-      "id": "n_55ef81df9d",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Apple Homeview Impressions: Not Convinced!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=QVv3mQzlrN0",
-      "thumbnail": "https://i.ytimg.com/vi/QVv3mQzlrN0/hqdefault.jpg",
-      "publishedAt": "2026-10-13T22:42:38.000Z"
     }
   ]
 }
