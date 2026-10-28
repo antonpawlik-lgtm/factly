@@ -1,93 +1,126 @@
 {
-  "generatedAt": "2026-10-28T00:07:03.795Z",
+  "generatedAt": "2026-10-28T09:03:40.007Z",
   "items": [
     {
-      "id": "n_d658307b2f",
+      "id": "n_ba6bda707a",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Keine klare Mehrheit bei Parlamentswahl in Israel",
-      "summary": "Bei der Parlamentswahl in Israel erreichen Prognosen zufolge weder Premierminister Netanjahu noch sein wichtigster Gegner Eisenkot eine Mehrheit. Eisenkot kündigte dennoch an, eine Regierung bilden zu wollen.",
+      "headline": "Knesset-Wahl in Israel: Prognosen zeigen Patt-Situation in Israel",
+      "summary": "Nach der Wahl in Israel und ersten Teilauszählungen gibt es ein enges Rennen um die Mehrheit im Parlament. Sowohl Eisenkot als auch Netanjahu kündigten an, eine Regierung bilden zu wollen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-prognose-100.html",
-      "publishedAt": "2026-10-27T23:55:00.000Z"
+      "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-patt-100.html",
+      "publishedAt": "2026-10-28T09:00:51.000Z"
+    },
+    {
+      "id": "n_2392ca019f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach Wahl zur Knesset: So könnte es in Israel nun weitergehen",
+      "summary": "Israel hat gewählt - doch wer das Land künftig regiert, ist unklar. Der Fahrplan zur Regierungsbildung ist durch Verfassungsfristen streng geregelt. Und doch sind mehrere Szenarien nun denkbar. Ein Überblick.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/israel-wahl-szenarien-100.html",
+      "publishedAt": "2026-10-28T08:54:03.000Z"
+    },
+    {
+      "id": "n_6a6dd980f4",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Liveblog zur Israel-Wahl: ++ Wachsender Vorsprung für das Netanjahu-Lager ++",
+      "summary": "Nach wie vor erreicht kein Parteienbündnis in Israel bei der Parlamentswahl die notwendige Mehrheit der Sitze, jedoch baut das Lager des amtierenden Premierministers Netanjahu den Vorsprung in kleinen Schritten aus.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/newsticker/liveblog-israel-wahl-100.html",
+      "publishedAt": "2026-10-28T08:46:55.000Z"
     },
     {
       "id": "n_3cb873337b",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Brasilien: Bolsonaro trotz Ausreiseverbots offenbar auf Weg in USA",
-      "summary": "Der unterlegene Präsidentschaftskandidat Flávio Bolsonaro hat laut Medienberichten Brasilien verlassen - trotz eines gerichtlich verhängten Ausreiseverbots. Die USA wollen ihm und seiner Familie nun Visa erteilen.",
+      "headline": "Brasilien: Bolsonaro trotz Ausreiseverbots laut US-Medien in USA eingetroffen",
+      "summary": "Der unterlegene Präsidentschaftskandidat Flávio Bolsonaro hat laut Medienberichten Brasilien verlassen und ist in den USA gelandet - trotz eines gerichtlich verhängten Ausreiseverbots. Die USA wollen ihm und seiner Familie nun Visa erteilen.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html",
-      "publishedAt": "2026-10-27T21:16:24.000Z"
-    },
-    {
-      "id": "n_d8018e76ca",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Bei Knesset-Wahl zeichnet sich enorm hohe Wahlbeteiligung ab",
-      "summary": "Für viele Israelis ist es nicht weniger als eine Schicksalswahl - und das spiegelt sich in der Wahlbeteiligung wider. Die liegt auf einem Rekordniveau. Umfragen deuten auf ein knappes Rennen hin.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/hohe-wahlbeteiligung-israel-100.html",
-      "publishedAt": "2026-10-27T20:05:11.000Z"
+      "publishedAt": "2026-10-28T07:47:27.000Z"
     },
     {
       "id": "n_55468bd403",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
-      "summary": "Die Berliner Linke will heute darüber beraten, ob die Abgeordnete Vanessa Emde aus der Parteifraktion ausgeschlossen werden soll. Emde steht unter anderem wegen ihrer Aussagen zum Existenzrecht Israels in der Kritik.",
+      "headline": "Berliner Linksfraktion vertagt Entscheidung über Abgeordnete Emde erneut",
+      "summary": "Im Umgang mit der Abgeordneten Emde hat die Berliner Linksfraktion immer noch keine Lösung gefunden. Wie es weitergeht, blieb offen. Emde steht unter anderem wegen ihrer Aussagen zum Existenzrecht Israels in der Kritik.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html",
-      "publishedAt": "2026-10-27T20:00:01.000Z"
+      "publishedAt": "2026-10-28T07:25:31.000Z"
     },
     {
-      "id": "n_9cf0cd04c8",
+      "id": "n_1a712d46b6",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "CDU-Politikerin Claus signalisiert Interesse an Steinmeier-Nachfolge",
-      "summary": "Bisher gibt es nur den Vorschlag der CSU: Ilse Aigner soll Bundespräsidentin werden. Doch in der CDU gibt es den Wunsch nach einem Namen aus den eigenen Reihen. Nun wird der von Ines Claus genannt. Hätte sie Chancen? Von Kirsten Girschick.",
+      "headline": "Nachfolge für Steinmeier: Merz beharrt auf CDU-Vorschlagsrecht",
+      "summary": "Die Debatte um die Nachfolge von Bundespräsident Steinmeier nimmt Fahrt auf. Aus dem Umfeld des Bundeskanzlers heißt es nun: Merz habe noch keine Entscheidung getroffen - und sehe das Vorschlagsrecht bei der CDU. Von Markus Preiß.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/moegliche-nachfolgerin-steinmeier-ines-claus-100.html",
-      "publishedAt": "2026-10-27T19:52:58.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/nachfolge-steinmeier-100.html",
+      "publishedAt": "2026-10-28T07:21:25.000Z"
     },
     {
-      "id": "n_93f699a1d6",
+      "id": "n_3be160e78c",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Nach Anschlägen in Frankreich: Sorge vor wachsendem Rassismus",
-      "summary": "Nach den offenbar rassistisch motivierten Anschlägen in Frankreich gehen in Paris Menschen auf die Straße. Viele sehen rechte Medien in der Verantwortung - und den Rassemblement National. Von Carolin Dylla.",
+      "headline": "Marktbericht: Viel Rückenwind für den DAX",
+      "summary": "Neuer Optimismus im Technologiesektor sowie starke Zahlen der Deutschen Bank und BASF verheißen dem DAX einen positiven Tagesstart. Die Investoren haben aber auch wichtige Termine am Abend im Blick.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-paris-kundgebung-nach-anschlaegen-von-trappes-la-verriere-100.html",
-      "publishedAt": "2026-10-27T17:56:21.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html",
+      "publishedAt": "2026-10-28T06:36:24.000Z"
     },
     {
-      "id": "n_94c4d9f16f",
+      "id": "n_6e309f7537",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Marktbericht: DAX kann weiter zulegen",
-      "summary": "Obwohl die wichtigsten Termine der Woche noch bevorstehen, hat der DAX seine Kurserholung fortgesetzt. Geholfen haben dabei neue Hoffnungen auf eine diplomatische Lösung im Iran-Krieg.",
+      "headline": "Israel - Eine Nacht ohne klaren Gewinner",
+      "summary": "Es war eine lange, nervenaufreibende Nacht in den Wahlkampfzentralen in Tel Aviv und Jerusalem. Doch Klarheit hat dieser Morgen nicht gebracht. Im Gegenteil: Israel droht nach der Wahl eine monatelange politische Blockade. Von J. Segador.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html",
-      "publishedAt": "2026-10-27T17:18:35.000Z"
+      "url": "https://www.tagesschau.de/ausland/asien/israel-patt-wahl-100.html",
+      "publishedAt": "2026-10-28T05:47:34.000Z"
     },
     {
-      "id": "n_3ad3604678",
+      "id": "n_c6f29760e6",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "FAQ: Die lange Suche nach einem Atommüll-Endlager",
-      "summary": "Rund 27.000 Kubikmeter hochradioaktiver Müll müssen dauerhaft und sicher verwahrt werden. Bis 2050 soll ein Endlager gefunden werden. Die Suche wurde nun weiter eingegrenzt. Wie muss ein Endlager beschaffen sein? Und wo könnte es entstehen?",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-standorte-100.html",
-      "publishedAt": "2026-10-27T17:12:36.000Z"
+      "headline": "Studie: Europas digitale Abhängigkeit wächst",
+      "summary": "Betriebssysteme, Suchmaschinen, Cloud: Bei digitalen Plattformen ist Europa laut Studie fast vollständig von ausländischen Anbietern abhängig.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Studie-Europas-digitale-Abhaengigkeit-waechst-11502673.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-28T08:09:00.000Z"
+    },
+    {
+      "id": "n_b02452ae18",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Angreifer nehmen Brotli-, Adobe-Commerce- und Magento-Lecks ins Visier",
+      "summary": "In freier Wildbahn wurden Angriffe auf kritische Sicherheitslücken in Brotli, Adobe Commerce und Magento beobachtet. Updates helfen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Angreifer-nehmen-Brotli-Adobe-Commerce-und-Magento-Lecks-ins-Visier-11502623.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-28T08:03:00.000Z"
+    },
+    {
+      "id": "n_433276998a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Proton-Angestellte sollen wegen KI-Nutzung erneut ins Bewerbungsgespräch",
+      "summary": "Beim Schweizer IT-Unternehmen Proton möchte man die KI-Nutzung vorantreiben. Dazu sollen die Angestellten jetzt in neuen Bewerbungsgesprächen befragt werden.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Proton-Angestellte-sollen-wegen-KI-Nutzung-erneut-ins-Bewerbungsgespraech-11502535.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-28T07:00:00.000Z"
     },
     {
       "id": "n_3a05c14543",
@@ -145,136 +178,136 @@
       "publishedAt": "2026-10-27T12:19:00.000Z"
     },
     {
-      "id": "n_1f3192dc3f",
+      "id": "n_18ab9cef92",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Stalwart: Der schnellste Mailserver der Welt?",
-      "summary": "Der Mailserver Stalwart erreicht Version 1.0: mit schnelleren Parsern, einer erweiterten Volltextsuche und Änderungen an Datenbank und OAuth.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Stalwart-Der-schnellste-Mailserver-der-Welt-11501223.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-27T11:00:00.000Z"
-    },
-    {
-      "id": "n_9ffa9687ac",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "KI-Agent löscht M365-Dateien? Veeam will gezielt zurückspulen",
-      "summary": "Veeam Intelligent ResOps für Microsoft 365 erkennt KI-Agenten-Zugriffe und macht Änderungen rückgängig. Auch für Okta und Code.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/KI-Agent-loescht-M365-Dateien-Veeam-will-gezielt-zurueckspulen-11501353.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-27T10:47:00.000Z"
-    },
-    {
-      "id": "n_ed8c398910",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Ein Jahr, ein Rekord: Mehr Treibhausgase in der Luft als je gemessen",
-      "summary": "CO2, Methan und Lachgas haben 2025 neue Höchststände erreicht. Dass der CO2-Anstieg geringer ausfiel als im Vorjahr, ist laut WMO keine Entwarnung.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/WMO-Treibhausgaskonzentrationen-erreichten-2025-erneut-Rekordwerte-11501435.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-27T10:40:00.000Z"
-    },
-    {
-      "id": "n_50c738c359",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Chinas Reichenliste: KI-Milliardäre an der Spitze, keine Angaben zur Parteiführung",
-      "summary": "Ein neuer Rekord im Hurun-Report für chinesische Tech- und KI-Milliardäre. Parteifunktionäre verschleiern ihren Reichtum über Familiennetzwerke. (Bytedance, Studien)",
+      "headline": "Digitale Souveränität im All: Ukraine testet eigenen Kommunikationssatelliten",
+      "summary": "Der Testsatellit Obria Nano kreist seit dem 1. Oktober 2026 im Orbit. Mit dem Projekt wollen Himera und Gomspace die Grundlagen für ein nationales ukrainisches Kommunikationsnetz legen. (Satelliten, Mesh)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/chinas-reichenliste-ki-milliardaere-an-der-spitze-keine-angaben-zur-parteielite-2610-214573.html",
-      "publishedAt": "2026-10-27T18:53:02.000Z"
+      "url": "https://www.golem.de/news/digitale-souveraenitaet-im-all-ukraine-testet-eigenen-kommunikationssatelliten-2610-214575.html",
+      "publishedAt": "2026-10-28T09:01:02.000Z"
     },
     {
-      "id": "n_b6f26e0044",
+      "id": "n_a53a14246a",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "M6-iMac: Apple holt die KI auf den Schreibtisch",
-      "summary": "Mehr Leistung, schnellere KI direkt auf dem Gerät und sieben Farben: Apples neuer iMac setzt vor allem auf lokale KI-Verarbeitung. (iMac, Apple)",
+      "headline": "KI-Boom: Fujifilm investiert massiv in Magnetbandproduktion",
+      "summary": "Fujifilm will seine Produktionskapazitäten von Magnetspeicher stark ausbauen - Grund ist eine KI-getriebene hohe Nachfrage. (Fujifilm, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/all-in-one-m6-imac-apple-holt-die-ki-auf-den-schreibtisch-2610-214572.html",
-      "publishedAt": "2026-10-27T18:12:01.000Z"
+      "url": "https://www.golem.de/news/ki-boom-fujifilm-investiert-massiv-in-magnetbandproduktion-2610-214580.html",
+      "publishedAt": "2026-10-28T08:50:02.000Z"
     },
     {
-      "id": "n_2fbfcdb444",
+      "id": "n_f466198b4b",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Notebook: 14-Zoll-Macbook-Pro jetzt mit Apple M6",
-      "summary": "Mehr Grafik- und KI-Leistung, bis zu 24 Stunden Akkulaufzeit und ein Einstiegspreis von 2.300 Euro: Apples neues 14-Zoll-Macbook-Pro kommt am 6. November in den Handel. (Macbook, Apple)",
+      "headline": "Firewalls unter Beschuss: Server der US-Regierung mittels PHP2Shell infiltriert",
+      "summary": "Chinesische Hacker sollen das Internet nach anfälligen Firewalls abgesucht und einige davon infiltriert haben - darunter solche der US-Regierung. (Cyberwar, PHP)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/notebook-14-zoll-macbook-pro-jetzt-mit-apple-m6-2610-214571.html",
-      "publishedAt": "2026-10-27T18:11:02.000Z"
+      "url": "https://www.golem.de/news/firewalls-unter-beschuss-server-der-us-regierung-mittels-php2shell-infiltriert-2610-214578.html",
+      "publishedAt": "2026-10-28T08:27:02.000Z"
     },
     {
-      "id": "n_d136015b93",
+      "id": "n_a7d566824b",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Schweizer Taschenmesser mit 33 Funktionen bei Amazon unter Vergleichspreis",
-      "summary": "Das Victorinox Swiss Classic bietet 33 Funktionen, unter anderem eine Zange und eine Säge. Bei Amazon ist es nun viel günstiger als in den vergangenen Wochen. (Victorinox, Technik/Hardware)",
+      "headline": "Google Deepmind: Genie 4 baut Welten mit Ton und lässt sich live umbauen",
+      "summary": "Google Deepmind startet Genie 4 als Research-Preview. Das Weltmodell erzeugt Ton und folgt Textbefehlen live. (Deepmind, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-schweizer-taschenmesser-mit-33-funktionen-bei-amazon-unter-vergleichspreis-2610-214569.html",
-      "publishedAt": "2026-10-27T17:58:02.000Z"
+      "url": "https://www.golem.de/news/google-deepmind-genie-4-baut-welten-mit-ton-und-laesst-sich-live-umbauen-2610-214579.html",
+      "publishedAt": "2026-10-28T08:17:02.000Z"
     },
     {
-      "id": "n_ba07fd0630",
+      "id": "n_7329dd7514",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: KI-Agenten für wiederkehrende Büroaufgaben einsetzen",
-      "summary": "KI-Agenten brauchen klare Aufgaben und menschliche Kontrolle. Ein Online-Workshop zeigt, wie mit Claude wiederverwendbare Abläufe für typische Büroarbeit entstehen. (Golem Karrierewelt, Programmiersprachen)",
+      "headline": "Hobby-Port: Entwickler bringt iOS 26 auf Surface Duo",
+      "summary": "Ein Entwickler startet iOS 26 auf dem Surface Duo 2. Beide Displays und Touch funktionieren. (Mobile Endgeräte, Apple)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-ki-agenten-fuer-wiederkehrende-bueroaufgaben-einsetzen-2610-214490.html",
-      "publishedAt": "2026-10-27T17:45:01.000Z"
+      "url": "https://www.golem.de/news/hobby-port-entwickler-bringt-ios-26-auf-surface-duo-2610-214577.html",
+      "publishedAt": "2026-10-28T08:07:02.000Z"
     },
     {
-      "id": "n_c92238f16f",
+      "id": "n_33745f1d59",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Antrag: Grüne fordern Haftung für KI-Firmen und Management",
-      "summary": "Die Grünen fordern strengere Sicherheitsauflagen für KI. Man verlangt ein entschlossenes Handeln der Bundesregierung sowie eine Aufstockung staatlicher Prüfstellen. (Security, PHP)",
+      "headline": "Probefahrt: So gut fährt Nvidias KI-Alpamayo in Berlin",
+      "summary": "Nvidias Fahr-KI Alpamayo kommt mit dem Berliner Verkehr erstaunlich gut klar. Bei unserer Testfahrt zeigten sich aber auch die Grenzen des Systems. Ein Bericht von Johannes Hiltscher (Autonomes Fahren, Nvidia)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/antrag-gruene-fordern-haftung-fuer-ki-firmen-und-management-2610-214570.html",
-      "publishedAt": "2026-10-27T17:33:01.000Z"
+      "url": "https://www.golem.de/news/probefahrt-so-gut-faehrt-nvidias-ki-alpamayo-in-berlin-2610-214560.html",
+      "publishedAt": "2026-10-28T08:00:02.000Z"
     },
     {
-      "id": "n_9fd3b4a34e",
+      "id": "n_f59e1f55ed",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) KI: \"Gewagt, aber vernünftig\" - was Anthropics Börsenprospekt verrät",
-      "summary": "240.000 Wörter, über 300 Seiten: Die Financial Times hat den Börsenprospekt analysiert. Er zeigt Milliardenverpflichtungen, ungewöhnliche Machtverhältnisse und existenzielle KI-Risiken. Von George Hammond (Anthropic, Börse)",
+      "headline": "Streamingabo: Abonnenten verbringen weniger Zeit in der Netflix-App",
+      "summary": "Seit mehreren Jahren schafft es Netflix nicht, Abonnenten zu einer längeren Verweildauer zu bringen. Das hat Konsequenzen. (Netflix, Streaming)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/ki-gewagt-aber-vernuenftig-was-anthropics-boersenprospekt-verraet-2610-214563.html",
-      "publishedAt": "2026-10-27T17:00:02.000Z"
+      "url": "https://www.golem.de/news/streamingabo-abonnenten-verbringen-weniger-zeit-in-der-netflix-app-2610-214576.html",
+      "publishedAt": "2026-10-28T07:50:02.000Z"
     },
     {
-      "id": "n_7a62d16893",
+      "id": "n_fb7eab47ce",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: 128 GByte großer 2-in-1-USB-Stick von Orico für unter 22 Euro bei Amazon",
-      "summary": "Ein 128 GByte großer USB-Stick von Orico mit USB-C- und USB-A-Anschluss ist bei Amazon wieder günstiger erhältlich. (Technik/Hardware, Amazon)",
+      "headline": "Notbremsassistenten: Reflektorkleidung macht Fußgänger nachts schlecht sichtbar",
+      "summary": "Notbremsassistenten könnten Fußgänger mit reflektierender Arbeits- oder Kinderkleidung bei Dunkelheit schlecht erkennen. Zu diesem Ergebnis kommt der ADAC. (ADAC, Auto)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-128-gbyte-grosser-2-in-1-usb-stick-von-orico-fuer-unter-22-euro-bei-amazon-2610-214568.html",
-      "publishedAt": "2026-10-27T16:44:01.000Z"
+      "url": "https://www.golem.de/news/notbremsassistenten-reflektorkleidung-macht-fussgaenger-nachts-schlecht-sichtbar-2610-214574.html",
+      "publishedAt": "2026-10-28T06:27:02.000Z"
+    },
+    {
+      "id": "n_02a99fc21d",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T07:53:20.000Z"
+    },
+    {
+      "id": "n_019f471259",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory",
+      "summary": "The two main blocs appear to have too few seats to form the next government without reliance on Arab parties.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T06:53:23.000Z"
+    },
+    {
+      "id": "n_45ddbc96bc",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+      "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T04:32:36.000Z"
     },
     {
       "id": "n_22e9db2690",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Watch: 'No clear winner' in Israel election - what happens now?",
+      "headline": "Watch: What happens now after close vote in Israeli election?",
       "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T00:04:29.000Z"
+      "publishedAt": "2026-10-28T04:22:59.000Z"
     },
     {
       "id": "n_7a64b6f22b",
@@ -285,7 +318,29 @@
       "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T23:41:23.000Z"
+      "publishedAt": "2026-10-28T02:20:25.000Z"
+    },
+    {
+      "id": "n_f68afd2556",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
+      "summary": "AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T01:01:02.000Z"
+    },
+    {
+      "id": "n_b5300c98aa",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "China's families are now supporting more old people than kids",
+      "summary": "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T23:16:08.000Z"
     },
     {
       "id": "n_4ce40386ca",
@@ -297,61 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-27T22:11:08.000Z"
-    },
-    {
-      "id": "n_ff9ab098d3",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
-      "summary": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T21:09:12.000Z"
-    },
-    {
-      "id": "n_bb89f4f74e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Egypt court fines journalist Lina Attalah and orders news site's closure",
-      "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T20:44:40.000Z"
-    },
-    {
-      "id": "n_eaf6f6cabf",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
-      "summary": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T20:42:38.000Z"
-    },
-    {
-      "id": "n_fae31ffd8e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Dutch zookeeper dies after being mauled by leopard",
-      "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T19:30:37.000Z"
-    },
-    {
-      "id": "n_59a029f2ae",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
-      "summary": "Overcrowding and poor ventilation caused the deaths of 33 detainees in a prison cell in Minna state.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T19:01:16.000Z"
     },
     {
       "id": "n_a0c3bc6eed",
@@ -530,6 +530,17 @@
       "publishedAt": "2026-10-27T18:49:08.000Z"
     },
     {
+      "id": "n_0a7119608b",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "publishedAt": "2026-10-28T01:15:28.000Z"
+    },
+    {
       "id": "n_6210b5315d",
       "type": "news",
       "topic": "ai",
@@ -605,17 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
       "publishedAt": "2026-10-27T16:30:57.000Z"
-    },
-    {
-      "id": "n_122f4e2282",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "publishedAt": "2026-10-27T14:59:09.000Z"
     },
     {
       "id": "n_ba3cece69e",
@@ -794,6 +794,28 @@
       "publishedAt": "2026-10-20T15:20:25.000Z"
     },
     {
+      "id": "n_f53a8961cc",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+      "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+      "publishedAt": "2026-10-28T08:30:00.000Z"
+    },
+    {
+      "id": "n_b3d9e88f2e",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Should AI Decide Your Court Case? This Judge Says Yes",
+      "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+      "publishedAt": "2026-10-28T06:00:00.000Z"
+    },
+    {
       "id": "n_47671cae5a",
       "type": "news",
       "topic": "ai",
@@ -858,28 +880,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
       "publishedAt": "2026-10-26T16:01:55.000Z"
-    },
-    {
-      "id": "n_ad4aca2b15",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
-      "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
-      "publishedAt": "2026-10-26T14:50:47.000Z"
-    },
-    {
-      "id": "n_3ae98091f4",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Meet the AI Agents Trying to Be Real-Life Journalists",
-      "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
-      "publishedAt": "2026-10-26T09:30:00.000Z"
     },
     {
       "id": "n_db98bf59a6",
@@ -970,6 +970,54 @@
       "publishedAt": "2026-10-21T16:04:43.000Z"
     },
     {
+      "id": "n_5565a81df6",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Gemini 4 Argon Is Not What I Expected",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+      "thumbnail": "https://i.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
+      "publishedAt": "2026-10-19T08:49:21.000Z"
+    },
+    {
+      "id": "n_3c1e366833",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "OpenAI’s New AI Is Doing Things We Barely Understand",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
+      "thumbnail": "https://i.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
+      "publishedAt": "2026-10-13T08:56:12.000Z"
+    },
+    {
+      "id": "n_b35e5f2d2e",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DeepSeek Solved AI’s Memory Problem",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
+      "thumbnail": "https://i.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg",
+      "publishedAt": "2026-10-11T16:53:17.000Z"
+    },
+    {
+      "id": "n_b84db88632",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DeepMind's New AI Just Cracked The Code Of Life",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
+      "thumbnail": "https://i.ytimg.com/vi/Wkaw03p3BrM/hqdefault.jpg",
+      "publishedAt": "2026-10-07T13:29:33.000Z"
+    },
+    {
       "id": "n_3f3a8c8623",
       "type": "video",
       "topic": "video",
@@ -986,7 +1034,7 @@
       "type": "video",
       "topic": "video",
       "lang": "en",
-      "headline": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
+      "headline": "My First Time in Taiwan w/ Jensen Huang | Lex Fridman",
       "summary": "",
       "source": "Lex Fridman",
       "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
@@ -1016,6 +1064,78 @@
       "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
       "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
       "publishedAt": "2026-08-26T21:44:41.000Z"
+    },
+    {
+      "id": "n_94fd9875fe",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "China just dropped a new frontier model... and nobody can explain how",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=G_em1hHPnXY",
+      "thumbnail": "https://i.ytimg.com/vi/G_em1hHPnXY/hqdefault.jpg",
+      "publishedAt": "2026-10-26T18:55:29.000Z"
+    },
+    {
+      "id": "n_f3c8faa918",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The most vulnerable week in internet history...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=SMGg7iisHmc",
+      "thumbnail": "https://i.ytimg.com/vi/SMGg7iisHmc/hqdefault.jpg",
+      "publishedAt": "2026-10-23T18:19:58.000Z"
+    },
+    {
+      "id": "n_dba4be3004",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The last real programmers are dying out...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=zv6B6PQOuHE",
+      "thumbnail": "https://i.ytimg.com/vi/zv6B6PQOuHE/hqdefault.jpg",
+      "publishedAt": "2026-10-22T15:09:31.000Z"
+    },
+    {
+      "id": "n_5c15dc92fc",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Did Google just dethrone OpenAI and Anthropic?",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=b2tjnxX8IHU",
+      "thumbnail": "https://i.ytimg.com/vi/b2tjnxX8IHU/hqdefault.jpg",
+      "publishedAt": "2026-10-20T16:21:03.000Z"
+    },
+    {
+      "id": "n_251908ef4e",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "iPhone Duo Review: First Generation Fun!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=ESABTN4VtrA",
+      "thumbnail": "https://i.ytimg.com/vi/ESABTN4VtrA/hqdefault.jpg",
+      "publishedAt": "2026-10-21T12:00:52.000Z"
+    },
+    {
+      "id": "n_5fe4101a91",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The NEW Tesla Roadster: My Honest Reaction",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=scwlR0QHGOk",
+      "thumbnail": "https://i.ytimg.com/vi/scwlR0QHGOk/hqdefault.jpg",
+      "publishedAt": "2026-10-17T02:09:23.000Z"
     }
   ]
 }
