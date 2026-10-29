@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-10-29T17:41:30.560Z",
+  "generatedAt": "2026-10-29T22:06:58.179Z",
   "items": [
+    {
+      "id": "n_44f759845f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Trauer um britischen Schauspieler: Patrick Stewart gestorben",
+      "summary": "Seine Rollen als Captain Picard in Star Trek und Professor Charles Xavier bei X-Men machten ihn weltberühmt. Nun ist der britische Schauspieler Patrick Stewart im Alter von 86 Jahren gestorben.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/kultur/patrick-stewart-tot-100.html",
+      "publishedAt": "2026-10-29T20:53:05.000Z"
+    },
+    {
+      "id": "n_1cdbf48468",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Debatte in der Koalition über Steuer auf Umsätze durch KI",
+      "summary": "In Deutschland könnte es eine Steuer auf Umsätze geben, die mit Künstlicher Intelligenz erzielt werden. Auch Familienministerin Prien sprach sich nun dafür aus. So soll auf Veränderungen in der Arbeitswelt reagiert werden - zum Beispiel auf Jobverluste.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/ministerin-prien-ki-steuer-100.html",
+      "publishedAt": "2026-10-29T20:12:03.000Z"
+    },
+    {
+      "id": "n_5451267443",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
+      "summary": "Früher als geplant tritt die Suche nach einer Nachfolge für EZB-Chefin Lagarde in die heiße Phase - die Französin scheidet vorzeitig aus dem Amt. Was sind die Hintergründe, wer könnte nachrücken an der Spitze der Notenbank? Von Constantin Röse.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html",
+      "publishedAt": "2026-10-29T18:40:44.000Z"
+    },
     {
       "id": "n_2459d4476d",
       "type": "news",
@@ -57,37 +90,15 @@
       "publishedAt": "2026-10-29T16:35:53.000Z"
     },
     {
-      "id": "n_fad610e882",
+      "id": "n_e5f6599069",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Steinmeier-Nachfolge: Die Kandidatensuche wird zur Machtfrage",
-      "summary": "Deutschland sucht eine Nachfolge für Bundespräsident Steinmeier. Die Kandidatendebatte bei CDU/CSU ist unübersichtlich und parteipolitisch aufgeladen - nicht zum ersten Mal in der Geschichte. Von Georg Schwarte.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-kandidatensuche-union-100.html",
-      "publishedAt": "2026-10-29T16:22:50.000Z"
-    },
-    {
-      "id": "n_ebff839c3c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wie groß ist der politische Einfluss von Stars wie Stevie Wonder?",
-      "summary": "Stevie Wonders Musik war immer politisch. Jahrzehntelang war er als Bürgerrechtler aktiv, später machte er Wahlkampf für Obama. Welchen Einfluss haben Popstars - und was machen sie daraus, gerade jetzt, vor den Midterms? Von S. Fritz.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kultur/stevie-wonder-tournee-politik-100.html",
-      "publishedAt": "2026-10-29T16:12:36.000Z"
-    },
-    {
-      "id": "n_9857d5cea3",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Eralp reagiert auf Spiegel-Bericht",
-      "summary": "In nicht für die Öffentlichkeit bestimmten Anmerkungen zu einem Spiegel-Interview sorgte sich Linken-Politikerin Elif Eralp um ihre Sicherheit. Nun bekräftigte sie, klar gegen Gewalt vorgehen zu wollen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/berlin/nach-spiegel-bericht-eralp-100.html",
-      "publishedAt": "2026-10-29T16:04:25.000Z"
+      "headline": "Patrick Stewart ist tot",
+      "summary": "Der britische Schauspieler Patrick Stewart ist am Mittwoch gestorben. Er wurde 86 Jahre alt.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Patrick-Stewart-ist-tot-11505529.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-29T20:29:00.000Z"
     },
     {
       "id": "n_315a971eae",
@@ -167,15 +178,70 @@
       "publishedAt": "2026-10-29T07:34:00.000Z"
     },
     {
-      "id": "n_a36bb170c3",
+      "id": "n_fe4c6709ad",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Microsoft Authenticator: Bösartige Apps konnten Zugangstoken abgreifen",
-      "summary": "Microsoft hat im Authenticator eine Sicherheitslücke geschlossen, durch die bösartige Apps hätten Zugangstoken abgreifen können.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Microsoft-Authenticator-Boesartige-Apps-konnten-Zugangstoken-abgreifen-11503334.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-28T13:13:00.000Z"
+      "headline": "Linux-Lücke: Claude schreibt Root-Exploit, Ubuntu und RHEL ohne Patch",
+      "summary": "Eine schwere Sicherheitslücke im Linux-Kernel ermöglicht unter bestimmten Bedingungen Angriffe aus der Ferne. Es ist Patch-Zeit. (Security-Alert, Linux-Kernel)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/linux-luecke-claude-schreibt-root-exploit-ubuntu-und-rhel-ohne-patch-2610-214664.html",
+      "publishedAt": "2026-10-29T20:56:02.000Z"
+    },
+    {
+      "id": "n_57e4e2f201",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Patrick Stewart: Der Captain hat die Brücke verlassen",
+      "summary": "Anfangs als halbgarer Ersatz für Captain Kirk von vielen abgelehnt, wurde Patrick Stewart zur Seele und dem Gewissen von Star Trek. Als Jean-Luc Picard ist der große Mime, der nun von uns gegangen ist, unvergessen. Ein Nachruf von Peter Osteried (Nachruf, Internet)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/patrick-stewart-der-captain-hat-die-bruecke-verlassen-2610-146919.html",
+      "publishedAt": "2026-10-29T20:25:02.000Z"
+    },
+    {
+      "id": "n_e91ae9ef85",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Breko und VATM: Kommunikation bei Glasfaserausbau muss besser werden",
+      "summary": "Nach Kritik von Verbraucherschützern an versteckten Kosten und technischen Hürden beim Glasfaserausbau räumen die Branchenverbände Breko und VATM Nachbesserungsbedarf ein. (Verbraucherschutz, DSL)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/breko-und-vatm-kommunikation-bei-glasfaserausbau-muss-besser-werden-2610-214663.html",
+      "publishedAt": "2026-10-29T19:20:02.000Z"
+    },
+    {
+      "id": "n_631d4e1bdd",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: 256 GByte große MicroSD-Karte von Sandisk zum Bestpreis bei Amazon",
+      "summary": "Amazon verkauft die Sandisk Extreme-MicroSD-Karte mit 256 GByte für unter 52 Euro. Günstiger ist sie bei keinem anderen Anbieter. (Speichermedien, Amazon)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-256-gbyte-grosse-microsd-karte-von-sandisk-zum-bestpreis-bei-amazon-2610-214662.html",
+      "publishedAt": "2026-10-29T17:53:02.000Z"
+    },
+    {
+      "id": "n_582a4d7a41",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Penetration Testing: Sicherheitslücken praktisch untersuchen",
+      "summary": "Penetration Testing macht Sicherheitslücken nachvollziehbar. Ein zweitägiger Workshop vermittelt Grundlagen und praktische Methoden für Webanwendungen und Netzwerke. (Golem Karrierewelt, Server-Applikationen)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-penetration-testing-sicherheitsluecken-praktisch-untersuchen-2610-214657.html",
+      "publishedAt": "2026-10-29T17:45:02.000Z"
+    },
+    {
+      "id": "n_79f846b164",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Megaspeed: Mutmaßliche chinesische Agentin in der Nähe von Nvidia-CEO Huang",
+      "summary": "Eine Top-Managerin von Megaspeed soll als chinesische Spionin den Kontakt zu Nvidia-CEO Jen-Hsun Huang gesucht haben. Während US-Geheimdienste die Treffen überwachten, kaufte sie Nvidia-Technik für fünf Milliarden US-Dollar. (Jen-Hsun Huang, Nvidia)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/megaspeed-mutmassliche-chinesische-agentin-in-der-naehe-von-nvidia-ceo-huang-2610-214661.html",
+      "publishedAt": "2026-10-29T17:44:01.000Z"
     },
     {
       "id": "n_4dc77e93d3",
@@ -200,70 +266,59 @@
       "publishedAt": "2026-10-29T17:00:01.000Z"
     },
     {
-      "id": "n_235ac47bb3",
+      "id": "n_07f5fbec96",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Sicherheitsrisiko: Arbeitgeber löschen häufig nicht die digitalen Zugänge ihrer Ex-Mitarbeiter",
-      "summary": "Lediglich 49 Prozent der Befragten bestätigen die Deaktivierung aller Logins. 54 Prozent nutzen indes auch nach ihrem Ausscheiden noch funktionierende Zugänge. (Datenschutz, Security)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/sicherheitsrisiko-arbeitgeber-loeschen-haeufig-nicht-die-digitalen-zugaenge-ihrer-ex-mitarbeiter-2610-214659.html",
-      "publishedAt": "2026-10-29T16:51:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Young athlete and former minister among victims of Spain train crash",
+      "summary": "As some of the victims' names are released publicly, an outpouring of grief and anger is sweeping across Spain.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T21:33:35.000Z"
     },
     {
-      "id": "n_0141b6f714",
+      "id": "n_e8eb4e27e8",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Bestseller bei Amazon: kabellose Ladestation für iOS und Android jetzt unter 14 Euro",
-      "summary": "Die LED dimmt sich nachts von selbst, und das Smartphone lädt quer wie hochkant: Der Bestseller-Wireless-Charger ist bei Amazon günstiger. (Technik/Hardware, iPhone)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-bestseller-bei-amazon-kabellose-ladestation-fuer-ios-und-android-jetzt-unter-14-euro-2610-214652.html",
-      "publishedAt": "2026-10-29T16:40:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T21:31:12.000Z"
     },
     {
-      "id": "n_1514f67b6c",
+      "id": "n_9971a5e4ef",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Robotik: Lieferroboter verursacht Unfall mit neun Verletzten und fährt weiter",
-      "summary": "In Tallinn werden neun Menschen verletzt, weil ein Lieferroboter über Rot fährt. Technisch gesehen hat der Betreiber Fahrerflucht begangen. (Starship Technologies, Roboter)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/robotik-lieferroboter-verursacht-unfall-und-begeht-fahrerflucht-2610-214653.html",
-      "publishedAt": "2026-10-29T16:12:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: What leaked audio reveals about Spain train crash",
+      "summary": "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the track.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T20:50:25.000Z"
     },
     {
-      "id": "n_c204cb1d54",
+      "id": "n_121deaff89",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Umzug auf Azure: KI-Agenten bringen Githubs Infrastruktur an ihre Grenzen",
-      "summary": "Um mit dem exponentiellen Wachstum mitzuhalten, baut Github seine Infrastruktur massiv aus - bei Azure statt im eigenen Rechenzentrum. (Github, Computer)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/umzug-auf-azure-ki-agenten-bringen-githubs-infrastruktur-an-ihre-grenzen-2610-214650.html",
-      "publishedAt": "2026-10-29T15:51:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T20:21:54.000Z"
     },
     {
-      "id": "n_35bbfc34fb",
+      "id": "n_32fc73a1f7",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Macbook Pro mit Proled XDR: Steve Jobs hatte recht",
-      "summary": "Touchscreens für Laptops waren für Steve Jobs stets ein No-Go - aus gutem Grund. Das heutige Apple ist sich dafür nicht zu schade. Ein IMHO von Oliver Nickel (Macbook, Display)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/macbook-pro-mit-proled-xdr-steve-jobs-hatte-recht-2610-214648.html",
-      "publishedAt": "2026-10-29T15:28:02.000Z"
-    },
-    {
-      "id": "n_4b4fbdd9ab",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Marderschreck fürs Auto günstig bei Amazon",
-      "summary": "Amazon hat einen Marderschreck fürs Auto von Pattler im Angebot, der Marder mit Ultraschalltönen aus dem Motorraum fernhält. (Technik/Hardware)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-marderschreck-fuers-auto-guenstig-bei-amazon-2610-214651.html",
-      "publishedAt": "2026-10-29T15:24:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "summary": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T20:05:57.000Z"
     },
     {
       "id": "n_eff192d752",
@@ -275,28 +330,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-29T17:02:59.000Z"
-    },
-    {
-      "id": "n_e8eb4e27e8",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
-      "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T16:26:02.000Z"
-    },
-    {
-      "id": "n_066ab2051e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "summary": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T15:47:20.000Z"
     },
     {
       "id": "n_e5c5ce358b",
@@ -321,37 +354,15 @@
       "publishedAt": "2026-10-29T14:49:25.000Z"
     },
     {
-      "id": "n_d4f72b2bef",
+      "id": "n_c3c296345f",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-      "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
+      "headline": "Google value plunges by $500bn as AI fears rattle Wall Street",
+      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T14:17:35.000Z"
-    },
-    {
-      "id": "n_72ab5d9bfb",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-      "summary": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T13:44:39.000Z"
-    },
-    {
-      "id": "n_db879e85f4",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Philippine police obtain warrant to search Thomas Markle's devices",
-      "summary": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T13:25:07.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T21:52:13.000Z"
     },
     {
       "id": "n_2225817457",
@@ -431,15 +442,81 @@
       "publishedAt": "2026-10-27T09:37:55.000Z"
     },
     {
-      "id": "n_10865bbb2c",
+      "id": "n_ca205e978a",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Anthropic's blockbuster share listing - 5 surprising things we now know",
-      "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T19:57:23.000Z"
+      "headline": "Windows 11 gets right-click menu improvements as PC revenue slides",
+      "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+      "publishedAt": "2026-10-29T20:18:49.000Z"
+    },
+    {
+      "id": "n_69e91b7f98",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+      "summary": "Inspector general rejected request from Democratic and Republican senators.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
+      "publishedAt": "2026-10-29T20:08:10.000Z"
+    },
+    {
+      "id": "n_2eb0eeefec",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Trump declares robot imports a national security threat",
+      "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+      "publishedAt": "2026-10-29T19:07:53.000Z"
+    },
+    {
+      "id": "n_6df4ac5022",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
+      "summary": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+      "publishedAt": "2026-10-29T18:29:12.000Z"
+    },
+    {
+      "id": "n_3ac3d3b67d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Turning a solar power system into its own backup",
+      "summary": "Plant design allows it to run on either stored solar heat or combustion.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+      "publishedAt": "2026-10-29T18:02:26.000Z"
+    },
+    {
+      "id": "n_d175d4f66b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+      "summary": "Charges filed as Trump admin tries to save Kalshi from Utah's total ban on gambling.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+      "publishedAt": "2026-10-29T17:21:33.000Z"
+    },
+    {
+      "id": "n_4fecc0fbd4",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Google admits AI search makes less money, but it's fixing that with more ads",
+      "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+      "publishedAt": "2026-10-29T16:24:55.000Z"
     },
     {
       "id": "n_ec59d10256",
@@ -453,81 +530,70 @@
       "publishedAt": "2026-10-29T12:58:34.000Z"
     },
     {
-      "id": "n_421fcafb7a",
+      "id": "n_6224c596d3",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
-      "summary": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
-      "publishedAt": "2026-10-29T11:00:08.000Z"
+      "headline": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "publishedAt": "2026-10-29T20:08:31.000Z"
     },
     {
-      "id": "n_f1032294b7",
+      "id": "n_24f3c9778b",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
-      "summary": "This Vulcan launch will be first to use a full complement of 6 solid rocket boosters.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
-      "publishedAt": "2026-10-28T22:51:15.000Z"
+      "headline": "Rivian expands joint venture with VW to include AI assistant",
+      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "publishedAt": "2026-10-29T20:05:47.000Z"
     },
     {
-      "id": "n_47ebb1c951",
+      "id": "n_56fa7327f2",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "As US ties fray, Europe plans first undersea cable link to Greenland",
-      "summary": "Europe's Pan-Arctic Cable will bypass US to link Canada, Japan, and South Korea.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
-      "publishedAt": "2026-10-28T22:35:50.000Z"
+      "headline": "OpenAI-backed Thrive Holdings acquires ADT",
+      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "publishedAt": "2026-10-29T19:56:19.000Z"
     },
     {
-      "id": "n_4af1c4c131",
+      "id": "n_31a141606e",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
-      "summary": "Six unproven peptides popular with MAHA now under \"enforcement discretion policy.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
-      "publishedAt": "2026-10-28T22:17:15.000Z"
+      "headline": "Meta quietly launches an AI fashion app called Style Sketch",
+      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "publishedAt": "2026-10-29T19:14:36.000Z"
     },
     {
-      "id": "n_d175d4f66b",
+      "id": "n_a39d2cb266",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
-      "summary": "US agency has sued 10 states for trying to stop gambling on prediction markets.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-      "publishedAt": "2026-10-28T19:30:33.000Z"
+      "headline": "Granola crunches up a dictation feature to compete with Wispr",
+      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "publishedAt": "2026-10-29T17:54:38.000Z"
     },
     {
-      "id": "n_39134a7f03",
+      "id": "n_bcae5e5bff",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "The last, best hope for space tourism just rolled onto a runway in Arizona",
-      "summary": "It has been nearly a year since any space tourism flights occurred.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
-      "publishedAt": "2026-10-28T19:20:36.000Z"
-    },
-    {
-      "id": "n_88f09ecccd",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
-      "summary": "It's not as different from the previous model as you might have expected.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
-      "publishedAt": "2026-10-28T19:10:29.000Z"
+      "headline": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "publishedAt": "2026-10-29T17:00:00.000Z"
     },
     {
       "id": "n_7610575f95",
@@ -552,70 +618,15 @@
       "publishedAt": "2026-10-29T16:21:00.000Z"
     },
     {
-      "id": "n_60c269dfa5",
+      "id": "n_2a1a8a7c88",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-      "publishedAt": "2026-10-29T14:35:26.000Z"
-    },
-    {
-      "id": "n_bcae5e5bff",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "publishedAt": "2026-10-29T14:00:00.000Z"
-    },
-    {
-      "id": "n_c546a70dbf",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-      "summary": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-      "publishedAt": "2026-10-29T13:00:00.000Z"
-    },
-    {
-      "id": "n_fd92a52966",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
-      "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
-      "publishedAt": "2026-10-29T13:00:00.000Z"
-    },
-    {
-      "id": "n_b126d77212",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-      "publishedAt": "2026-10-28T21:58:32.000Z"
-    },
-    {
-      "id": "n_f348c6db37",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Google expands AI Search ads globally as core ad growth slows",
-      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "publishedAt": "2026-10-28T21:48:37.000Z"
+      "headline": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on b",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "publishedAt": "2026-10-29T18:45:31.000Z"
     },
     {
       "id": "n_45b4ef0b72",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
       "publishedAt": "2026-10-28T21:34:04.000Z"
-    },
-    {
-      "id": "n_fc7d1d71bd",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Clau",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-      "publishedAt": "2026-10-28T20:03:00.000Z"
     },
     {
       "id": "n_f863128399",
@@ -794,6 +794,17 @@
       "publishedAt": "2026-10-22T18:48:04.000Z"
     },
     {
+      "id": "n_bf3026d4c6",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "publishedAt": "2026-10-29T18:39:43.000Z"
+    },
+    {
       "id": "n_a2aa84b8c0",
       "type": "news",
       "topic": "ai",
@@ -869,17 +880,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
       "publishedAt": "2026-10-28T06:00:00.000Z"
-    },
-    {
-      "id": "n_47671cae5a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Anthropic Says It Will Revolutionize Biology—Some Day",
-      "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-      "publishedAt": "2026-10-27T19:39:04.000Z"
     },
     {
       "id": "n_f3538b6fb3",
@@ -1034,7 +1034,7 @@
       "type": "video",
       "topic": "video",
       "lang": "en",
-      "headline": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
+      "headline": "The FULL Taiwan Experience w/ Jensen Huang | Lex Fridman",
       "summary": "",
       "source": "Lex Fridman",
       "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
