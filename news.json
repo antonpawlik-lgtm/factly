@@ -1,93 +1,137 @@
 {
-  "generatedAt": "2026-10-29T03:10:08.379Z",
+  "generatedAt": "2026-10-29T11:52:54.302Z",
   "items": [
-    {
-      "id": "n_327afd6129",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Brasiliens Wahlverlierer: Bolsonaros spektakuläre Flucht",
-      "summary": "Ein Privatflugzeug, wohl zwei Zwischenstopps, die Ankunft in Trumps USA - der Wahlverlierer der Präsidentschaftswahl bezeichnet sich nun als \"Anführer\" Brasiliens. Wie geht das rechte Lager mit dem geflüchteten Bolsonaro um? Von A. Herrberg.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/bolsonaro-flucht-100.html",
-      "publishedAt": "2026-10-29T02:14:59.000Z"
-    },
     {
       "id": "n_5e23427b0c",
       "type": "news",
       "topic": "general",
       "lang": "de",
       "headline": "Zugunglück in Spanien: Der Schock sitzt tief",
-      "summary": "In Spanien sitzt der Schock tief über das zweite schwere Zugunglück auf der Hochgeschwindigkeitszugstrecke zwischen Madrid und Andalusien. Mindestens 68 Menschen verloren bei dem Unglück in der Region Toledo ihr Leben. Von Franka Welz.",
+      "summary": "In Spanien sitzt der Schock tief über das zweite schwere Zugunglück auf der Hochgeschwindigkeitszugstrecke zwischen Madrid und Andalusien. Mindestens 69 Menschen verloren bei dem Unglück in der Region Toledo ihr Leben. Von Franka Welz.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-reportage-100.html",
-      "publishedAt": "2026-10-29T00:52:51.000Z"
+      "publishedAt": "2026-10-29T11:24:09.000Z"
     },
     {
-      "id": "n_2c89684b05",
+      "id": "n_d5ef459ea1",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Bolsonaro erklärt sich selbst zum Wahlsieger - aus den USA",
-      "summary": "Heimlich hat sich der brasilianische Wahlverlierer Flávio Bolsonaro in die USA abgesetzt. Gegen ihn wird wegen Korruption und Geldwäsche ermittelt. Entgegen eindeutiger Ergebnisse hat er sich nun selbst zum Wahlsieger erklärt.",
+      "headline": "Suche nach Opfern des Zugunglücks in Spanien geht weiter",
+      "summary": "In Spanien suchen die Rettungskräfte nach dem schweren Zugunglück nach weiteren Opfern in den Waggon-Trümmern. Die Regierung versprach Aufklärung, in Madrid gab es Proteste. Als Unfallursache könnte menschliches Versagen eine Rolle gespielt haben.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html",
-      "publishedAt": "2026-10-28T21:56:25.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-128.html",
+      "publishedAt": "2026-10-29T11:22:21.000Z"
     },
     {
-      "id": "n_2778e3df5c",
+      "id": "n_a67bd20e86",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Wie konnte es zu dem schweren Zugunglück kommen?",
-      "summary": "Ein Zug steht, ein weiterer fährt mit hoher Geschwindigkeit auf. Bei dem schweren Zugunglück in Spanien starben mindestens 68 Menschen. Es gibt erste Erkenntnisse zur Unglücksursache: Offenbar spielte menschliches Versagen eine Rolle.",
+      "headline": "Steinmeier-Rede in China: \"Mit Größe und Macht kommt große Verantwortung\"",
+      "summary": "Bundespräsident Steinmeier hat an der renommierten Peking-Universität eine Rede gehalten. Dabei richtete er klare Forderungen an China - bekundete aber auch seinen Respekt für die Volksrepublik.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-144.html",
-      "publishedAt": "2026-10-28T20:54:12.000Z"
+      "url": "https://www.tagesschau.de/ausland/asien/steinmeier-china-102.html",
+      "publishedAt": "2026-10-29T11:21:17.000Z"
     },
     {
-      "id": "n_6a6dd980f4",
+      "id": "n_0c1772cd5e",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Liveblog zur Israel-Wahl: ++ Likud wirft arabischen Parteien Wahlbetrug vor ++",
-      "summary": "Die Partei von Israels Premier Netanjahu wirft den arabischen Parteien nach deren starken Abschneiden Wahlbetrug vor. Präsident Herzog will ein Scheitern der Regierungsbildung unter allen Umständen verhindern.",
+      "headline": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück",
+      "summary": "Gerüchte gab es bereits länger, nun ist es bestätigt: EZB-Chefin Lagarde gibt ihren Posten vorzeitig im Februar auf. So kann über die Nachfolge noch vor der Präsidentschaftswahl in Frankreich entschieden werden.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/newsticker/liveblog-israel-wahl-100.html",
-      "publishedAt": "2026-10-28T20:49:08.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/lagarde-ezb-ruecktritt-100.html",
+      "publishedAt": "2026-10-29T10:54:13.000Z"
     },
     {
-      "id": "n_e93e64af9a",
+      "id": "n_415fcaa082",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Bayern: Ermittlungen gegen zwei Belarusen wegen Sabotageverdacht",
-      "summary": "Zwei Männer aus Belarus stehen im Verdacht, im Raum Nürnberg einen Brandanschlag geplant zu haben - im Auftrag einer fremden Regierung oder Vereinigung. Sie wurden festgenommen und sitzen in Untersuchungshaft. Von Joseph Röhmel.",
+      "headline": "Konstituierende Sitzung von neu gewähltem Abgeordnetenhaus in Berlin",
+      "summary": "Knapp sechs Wochen nach der Wahl in Berlin ist das Abgeordnetenhaus zu seiner konstituierenden Sitzung zusammengekommen. Die Linke-Politikerin Klein ist zur neuen Präsidentin des Parlaments gewählt worden.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/bayern-ermittlungen-gegen-belarusen-sabotage-100.html",
-      "publishedAt": "2026-10-28T19:03:51.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/berlin-abgeordnetenhaus-erste-sitzung-100.html",
+      "publishedAt": "2026-10-29T10:46:05.000Z"
     },
     {
-      "id": "n_df225f2a6c",
+      "id": "n_e0fe798dce",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Großbritannien: Burnhams Regierung stellt Haushalt vor",
-      "summary": "Die Vorstellung des Haushalts war für Großbritanniens Premier Burnham der erste Härtetest. Die Erwartungen der Briten sind hoch. Die Regierung setzt vor allem auf kleine Maßnahmen, die die Menschen sofort spüren sollen. Von Lisa-Maria Röhling.",
+      "headline": "Rotes Kreuz eröffnet größtes Bevölkerungsschutzzentrum in Brandenburg",
+      "summary": "In Brandenburg hat das Deutsche Rote Kreuz ein neues Bevölkerungsschutzzentrum eröffnet. Dort lagert Material, um bei Katastrophen bis zu 5.000 Menschen versorgen zu können. Laut Innenminister Dobrindt setzt das Projekt Maßstäbe.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/gb-labour-haushalt-burnham-100.html",
-      "publishedAt": "2026-10-28T18:20:51.000Z"
+      "url": "https://www.tagesschau.de/inland/regional/brandenburg/groesstes-bevoelkerungsschutzzentrum-deutschlands-100.html",
+      "publishedAt": "2026-10-29T10:41:03.000Z"
     },
     {
-      "id": "n_3be160e78c",
+      "id": "n_2459d4476d",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Marktbericht: Der DAX behauptet sich",
-      "summary": "Der Handelstag im DAX endet mit leichten Gewinnen. Die Investoren haben viele Quartalszahlen zu verarbeiten, außerdem richtet sich der Blick in die USA. Die hohen Energiepreise dämpfen indes weiterhin die Stimmung.",
+      "headline": "Marktbericht: DAX trotz VW-Bilanz im grünen Bereich",
+      "summary": "Vor dem EZB-Zinsentscheid legt der DAX weiter zu. Mit einer Zinserhöhung rechnen die Anleger nicht, sie wird erst für den Dezember erwartet. Aus der Autobranche meldet VW einen Milliardenverlust.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html",
-      "publishedAt": "2026-10-28T17:38:51.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-alphabet-ki-fed-ezb-100.html",
+      "publishedAt": "2026-10-29T10:16:25.000Z"
+    },
+    {
+      "id": "n_809670a122",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "KI-Investitionen tragen nicht überall Früchte",
+      "summary": "Die Tech-Giganten im Silicon Valley stecken Milliarden in Künstliche Intelligenz. Doch die investierten Gelder führen nicht automatisch zu Wachstum. Das zeigen die Zahlen von Microsoft und Alphabet.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-alphabet-kuenstliche-intelligenz-cloud-100.html",
+      "publishedAt": "2026-10-29T09:28:06.000Z"
+    },
+    {
+      "id": "n_db6d0ca907",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Angriffsversuche auf junge Lücke in Oracle E-Business-Suite",
+      "summary": "Oracle hat mit dem Oktober-CPU auch Lücken in der E-Business-Suite geschlossen. Nun sehen IT-Forscher erste Angriffsversuche.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Angriffsversuche-auf-junge-Luecke-in-Oracle-E-Business-Suite-11504666.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-29T11:29:00.000Z"
+    },
+    {
+      "id": "n_6e36f8f990",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Bausteine für die Entstehung des Lebens kamen wohl nicht von Kometen",
+      "summary": "Seit einem Jahrhundert gelten Kometen als mögliche Quelle für die molekularen Bausteine, aus denen das Leben entstanden ist. Das muss wohl revidiert werden.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Bausteine-fuer-die-Entstehung-des-Lebens-kamen-wohl-nicht-von-Kometen-11504375.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-29T11:05:00.000Z"
+    },
+    {
+      "id": "n_63b4f87659",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Windows-Update-Vorschau bringt „~\\“ für alle und viele Verbesserungen",
+      "summary": "Anfang des Monats war der Pfad „~\\“ in der Insider-Vorschau, nun erreicht er alle Windows-Nutzer. Weitere Verbesserungen kommen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Windows-Update-Vorschau-Tilde-fuer-alle-und-kleine-Verbesserungen-11504321.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-29T10:19:00.000Z"
+    },
+    {
+      "id": "n_1877a2e4ae",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Angriffe auf Linux- und VMware-ESX-Schwachstellen",
+      "summary": "Die IT-Sicherheitsbehörde CISA warnt vor Angriffen auf Lecks im Linux-Kernel und VMware ESX. Dieses Mal sind Hintergründe bekannt.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-29T07:34:00.000Z"
     },
     {
       "id": "n_a36bb170c3",
@@ -134,213 +178,103 @@
       "publishedAt": "2026-10-28T08:03:00.000Z"
     },
     {
-      "id": "n_433276998a",
+      "id": "n_94bd068f44",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Proton-Angestellte sollen wegen KI-Nutzung erneut ins Bewerbungsgespräch",
-      "summary": "Beim Schweizer IT-Unternehmen Proton möchte man die KI-Nutzung vorantreiben. Dazu sollen die Angestellten jetzt in neuen Bewerbungsgesprächen befragt werden.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Proton-Angestellte-sollen-wegen-KI-Nutzung-erneut-ins-Bewerbungsgespraech-11502535.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-28T07:00:00.000Z"
-    },
-    {
-      "id": "n_3a05c14543",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Frankreich erwog Internet-Sperren während Protesten",
-      "summary": "Während der Protestwelle in Frankreich erwog die Regierung, Zugänge zu sozialen Netzwerken und mobiles Internet gezielt zu blockieren.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Frankreich-erwog-Internet-Sperren-waehrend-Protesten-11502333.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-27T17:32:00.000Z"
-    },
-    {
-      "id": "n_f216e5accd",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "iPhone-Altersverifizierung: Auch Apple bittet zum Selfie",
-      "summary": "Apple führt eine Altersprüfung per Selfie in ersten Ländern ein. Wer sein Alter nicht nachweist, muss mit gesperrten iPhone-Funktionen und Inhalten rechnen.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Altersverifizierung-auf-iPhones-Selfie-Pruefung-jetzt-auch-bei-Apple-11502367.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-27T17:24:00.000Z"
-    },
-    {
-      "id": "n_4e92e574d7",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "EU digitalisiert Abschiebungen: Frontex wird zur Überwachungs- und IT-Zentrale",
-      "summary": "Die EU-Kommission sieht für Frontex vernetzte Datenbanken, automatisiertes Fallmanagement und den deutlichen Ausbau digitaler Überwachung für Rückführungen vor.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/EU-digitalisiert-Abschiebungen-Frontex-wird-zur-Ueberwachungs-und-IT-Zentrale-11502261.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-27T16:27:00.000Z"
-    },
-    {
-      "id": "n_4e8456c605",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Orange: Netzbetreiber fordert nach Ausfall Schadensersatz von Nokia",
-      "summary": "Nach dem großen Netzausfall vom 21. Oktober fordert Orange finanzielle Entschädigung vom Ausrüster Nokia. Der hatte mit einem Softwareupdate das Mobilfunknetz lahmgelegt. (Nokia, Huawei)",
+      "headline": "Weltraumtourismus: Andere wollen zum Mond, Virgin Galactic nicht mal in den Orbit",
+      "summary": "Mit Apeiron wurde ein neues Passagierflugzeug für suborbitale Flüge bis nah an den Weltraum vorgestellt. Skepsis ist angebracht. (Virgin Galactic, Wirtschaft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/orange-netzbetreiber-fordert-nach-ausfall-schadensersatz-von-nokia-2610-214616.html",
-      "publishedAt": "2026-10-28T19:11:01.000Z"
+      "url": "https://www.golem.de/news/weltraumtourismus-andere-wollen-zum-mond-virgin-galactic-nicht-mal-in-den-orbit-2610-214636.html",
+      "publishedAt": "2026-10-29T11:46:02.000Z"
     },
     {
-      "id": "n_127063aa0c",
+      "id": "n_1e0fc645eb",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Amazon Echo: Dot wird Smart-Home-Zentrale, Wecker erkennt Schlafphasen",
-      "summary": "Mit einem smarten Wecker, einem vernetzten Echo Dot, einem größeren Display und einem digitalen Bilderrahmen baut Amazon sein Echo-Angebot deutlich aus. (Echo, Mesh)",
+      "headline": "Anzeige: Eastpak Laptop-Rucksack jetzt für unter 50 Euro im Angebot bei Amazon",
+      "summary": "Der Eastpak Back To Work bietet 27 Liter, ein 15-Zoll-Laptopfach, wasserabweisenden Stoff, und so günstig war er länger nicht mehr. (Technik/Hardware, Arbeit)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/amazon-echo-dot-wird-smart-home-zentrale-wecker-erkennt-schlafphasen-2610-214615.html",
-      "publishedAt": "2026-10-28T18:46:05.000Z"
+      "url": "https://www.golem.de/news/anzeige-eastpak-laptop-rucksack-jetzt-fuer-unter-50-euro-im-angebot-bei-amazon-2610-214638.html",
+      "publishedAt": "2026-10-29T11:41:02.000Z"
     },
     {
-      "id": "n_18a758cc9c",
+      "id": "n_a953c9e9d6",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Apple MacBook Pro: Der erste Touch-Mac kostet bis zu 16.099 Euro",
-      "summary": "Apple stattet das Macbook Pro mit Touch-Bedienung und einem OLED-Display aus. Dazu kommen die Chips M5 Pro und M5 Max. (Macbook, Display)",
+      "headline": "Diktiergerät Comu Action Pro im Test: Mitschreiben kann es, Buchstabensalat auch",
+      "summary": "Das Comu Action Pro ist ein Aufnahmegerät, das auch Telefonate mitschneiden kann. Die KI-Aufbereitung der Aufnahmen ist interessant, aber nicht perfekt. Ein Test von Tobias Költzsch (KI, Test)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/apple-macbook-pro-der-erste-touch-mac-kostet-bis-zu-16-099-euro-2610-214613.html",
-      "publishedAt": "2026-10-28T17:56:02.000Z"
+      "url": "https://www.golem.de/news/comu-action-pro-im-test-mitschreiben-kann-es-buchstabensalat-auch-2610-214602.html",
+      "publishedAt": "2026-10-29T11:18:02.000Z"
     },
     {
-      "id": "n_189405792c",
+      "id": "n_4ce90dbf1a",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: NIS 2 in bestehende Sicherheitskonzepte integrieren",
-      "summary": "NIS 2 muss in bestehende Sicherheitskonzepte eingebunden werden. Ein Online-Workshop vermittelt konkrete Schritte für Risikomanagement und Umsetzung. (Golem Karrierewelt, Unternehmenssoftware)",
+      "headline": "Anzeige: Lautsprecher von Bose, JBL und anderen günstig bei Back Market",
+      "summary": "Bluetooth-Lautsprecher für Musik und PC von beliebten Marken wie Bose und JBL gibt es bei Back Market refurbished zu günstigen Preisen. (Lautsprecher, Sound-Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-nis-2-in-bestehende-sicherheitskonzepte-integrieren-2610-214493.html",
-      "publishedAt": "2026-10-28T17:45:04.000Z"
+      "url": "https://www.golem.de/news/anzeige-lautsprecher-von-bose-jbl-und-anderen-guenstig-bei-back-market-2610-214632.html",
+      "publishedAt": "2026-10-29T10:52:02.000Z"
     },
     {
-      "id": "n_ad7c1e0003",
+      "id": "n_1e3df5b227",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Decoding China 2026: Huawei will das Reichweitenproblem von 6 GHz gelöst haben",
-      "summary": "Hohe Frequenzen im Mobilfunk haben bislang ein Reichweitenproblem. Mit neuer Antennentechnik, Werkstoffen und KI-Steuerung will Huawei das ändern. (Mobilfunk, Huawei)",
+      "headline": "1-zu-1-Nachbau: Student rekreiert die Schweiz in Minecraft",
+      "summary": "Das Land wird maßstabsgetreu nach Geodaten erschaffen. Ein Block hat dabei eine Kantenlänge von einem Meter. (Spiele, Minecraft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/decoding-china-2026-huawei-will-das-reichweitenproblem-von-6-ghz-geloest-haben-2610-214614.html",
-      "publishedAt": "2026-10-28T17:44:01.000Z"
+      "url": "https://www.golem.de/news/1-zu-1-nachbau-student-rekreiert-die-schweiz-in-minecraft-2610-214631.html",
+      "publishedAt": "2026-10-29T10:38:01.000Z"
     },
     {
-      "id": "n_10bdb89ca5",
+      "id": "n_19ac360f1d",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Chinesischer Raumgleiter: US-Militärgeheimdienst bestätigt chinesische Fortschritte im All",
-      "summary": "Ein Foto zeigt den Prototypen, der mittlerweile seit 200 Tagen im Orbit ist. Es soll zwei Modelle geben, die Satelliten einfangen und landen können. (Weltall, Spionage)",
+      "headline": "Wegen Porsche und China: Volkswagen meldet 5,82 Milliarden Euro Verlust",
+      "summary": "Bei Europas größtem Autohersteller läuft es schlechter als erwartet. Was hinter den roten Zahlen von VW steckt. (VW, Elektroauto)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/chinesischer-raumgleiter-us-militaergeheimdienst-bestaetigt-chinesische-fortschritte-im-all-2610-214604.html",
-      "publishedAt": "2026-10-28T17:24:01.000Z"
+      "url": "https://www.golem.de/news/wegen-porsche-und-china-volkswagen-meldet-5-82-milliarden-euro-verlust-2610-214630.html",
+      "publishedAt": "2026-10-29T10:24:02.000Z"
     },
     {
-      "id": "n_1ddc1279ad",
+      "id": "n_1866afc294",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) Samsung-Klinik entwickelt OP-Roboter: \"Roboter, das Skalpell bitte!\"",
-      "summary": "In Südkorea sollen humanoide Roboter künftig bei Operationen assistieren. Nikkei Asia zeigt in unserer heutigen Leseempfehlung, was sie bereits können. Von Nami Matsuura (KI, Instant Messenger)",
+      "headline": "Anzeige: Aqara Zigbee Tür- und Fenstersensoren im 3er-Pack unter 40 Euro bei Amazon",
+      "summary": "Aqara Tür- und Fenstersensoren melden offene Fenster ans Smartphone und halten zwei Jahre durch. Das Dreierpack gibt es nun zum Sparpreis (Technik/Hardware, Smart Home)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/samsung-klinik-entwickelt-op-roboter-roboter-das-skalpell-bitte-2610-214609.html",
-      "publishedAt": "2026-10-28T17:00:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-aqara-zigbee-tuer-und-fenstersensoren-im-3er-pack-unter-40-euro-bei-amazon-2610-214628.html",
+      "publishedAt": "2026-10-29T10:18:02.000Z"
     },
     {
-      "id": "n_64a2de9205",
+      "id": "n_7ad80e1708",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: OLED-Brille statt Monitor | Amazon-Bestseller Viture Pro 2 mit 120 Hz kostet nur 349 Euro",
-      "summary": "Die Viture Pro 2 bietet Full HD pro Auge, 120 Hz und einen virtuellen Bildschirm mit bis zu 146 Zoll. Im Angebot ist sie günstiger als üblich. Doch es gibt eine günstigere Alternative. (OLED, Amazon)",
+      "headline": "Forscher warnen: Millionenfach installierte Chrome-Add-ons kapern heimlich Traffic",
+      "summary": "Betroffen sind 319 Erweiterungen mit mehr als 13 Millionen Installationen. Sie leiten Suchanfragen um und bescheren den Betreibern damit Werbeeinnahmen. (Browser, Chrome)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-oled-brille-statt-monitor-amazon-bestseller-viture-pro-2-mit-120-hz-kostet-nur-349-euro-2610-214612.html",
-      "publishedAt": "2026-10-28T16:46:05.000Z"
+      "url": "https://www.golem.de/news/forscher-warnen-ueber-300-chrome-add-ons-leiten-heimlich-traffic-um-2610-214629.html",
+      "publishedAt": "2026-10-29T10:09:02.000Z"
     },
     {
-      "id": "n_a813b60a7f",
+      "id": "n_e8eb4e27e8",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+      "headline": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T01:14:01.000Z"
-    },
-    {
-      "id": "n_55fdc1c599",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Girl seriously injured in wolf attack at German wildlife park",
-      "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T22:08:52.000Z"
-    },
-    {
-      "id": "n_57cf444b54",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "High-speed train crash kills at least 68 people in Spain",
-      "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T21:38:54.000Z"
-    },
-    {
-      "id": "n_c2cf1e6fc5",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-      "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T21:24:41.000Z"
-    },
-    {
-      "id": "n_3198c42b11",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-      "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T21:16:30.000Z"
-    },
-    {
-      "id": "n_e17af4c0d4",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Israel's election deadlock is a sign of the country's deep divisions",
-      "summary": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T20:53:02.000Z"
-    },
-    {
-      "id": "n_f97ab3187c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Watch: King dances in the streets of the Bahamas capital",
-      "summary": "The monarch is in the Bahamas as part of a tour of the Caribbean during which he addressed the \"great suffering of the past\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T20:44:10.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T11:27:05.000Z"
     },
     {
       "id": "n_066ab2051e",
@@ -348,10 +282,87 @@
       "topic": "general",
       "lang": "en",
       "headline": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "summary": "With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T20:24:39.000Z"
+      "publishedAt": "2026-10-29T11:22:18.000Z"
+    },
+    {
+      "id": "n_3e2b659163",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+      "summary": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T11:07:35.000Z"
+    },
+    {
+      "id": "n_09bc1ee537",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "What we know so far about deadly Spain train crash",
+      "summary": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T10:02:37.000Z"
+    },
+    {
+      "id": "n_eff192d752",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Carney to push for closer ties at Canada-EU summit in Montreal",
+      "summary": "The term \"associate member\" is reportedly off the table as officials discuss deeper economic and defence ties.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T09:51:06.000Z"
+    },
+    {
+      "id": "n_6c762e0c24",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+      "summary": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T09:30:03.000Z"
+    },
+    {
+      "id": "n_4d7ac58c86",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
+      "summary": "The jailbreak began with a fake seizure and ended 36 hours later with all the inmates back behind bars.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T09:17:05.000Z"
+    },
+    {
+      "id": "n_4429b62108",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "How could Israel break election deadlock? Here are four scenarios",
+      "summary": "With more than 90% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T09:06:48.000Z"
+    },
+    {
+      "id": "n_2225817457",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Ofcom outlines age check methods ahead of social media ban for under-16s",
+      "summary": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T09:31:44.000Z"
     },
     {
       "id": "n_9a6e68d20a",
@@ -429,17 +440,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-26T19:57:23.000Z"
-    },
-    {
-      "id": "n_76ad05f5fc",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T16:27:17.000Z"
     },
     {
       "id": "n_f1032294b7",
@@ -618,6 +618,17 @@
       "publishedAt": "2026-10-28T17:00:00.000Z"
     },
     {
+      "id": "n_9cd5509199",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "AI has come for Arizona’s water",
+      "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "publishedAt": "2026-10-29T10:00:04.000Z"
+    },
+    {
       "id": "n_09f762edab",
       "type": "news",
       "topic": "ai",
@@ -695,15 +706,15 @@
       "publishedAt": "2026-10-28T14:44:00.000Z"
     },
     {
-      "id": "n_8030d1b5c6",
+      "id": "n_f863128399",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Voters in Texas agree: They hate data centers",
-      "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a s",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
-      "publishedAt": "2026-10-28T12:00:00.000Z"
+      "headline": "We urgently need to monitor AI agents’ actions in real time",
+      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed priva",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "publishedAt": "2026-10-29T10:11:12.000Z"
     },
     {
       "id": "n_5d25973f53",
@@ -783,15 +794,15 @@
       "publishedAt": "2026-10-22T18:48:04.000Z"
     },
     {
-      "id": "n_6a85074051",
+      "id": "n_17185e5bdd",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Making the case for context-aware AI",
-      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the rig",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "publishedAt": "2026-10-22T10:00:00.000Z"
+      "headline": "I Gave My Blood to the AI Death Clock",
+      "summary": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+      "publishedAt": "2026-10-29T10:00:00.000Z"
     },
     {
       "id": "n_e71c51112f",
@@ -869,17 +880,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
       "publishedAt": "2026-10-27T11:00:00.000Z"
-    },
-    {
-      "id": "n_5b42dab628",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
-      "summary": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
-      "publishedAt": "2026-10-27T09:30:00.000Z"
     },
     {
       "id": "n_7ae8eb2055",
@@ -968,6 +968,150 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
       "publishedAt": "2026-10-21T16:04:43.000Z"
+    },
+    {
+      "id": "n_c66d1bea7b",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DeepSeek's New AI Is An Absolute Monster",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
+      "thumbnail": "https://i.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
+      "publishedAt": "2026-10-28T17:32:40.000Z"
+    },
+    {
+      "id": "n_5565a81df6",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Gemini 4 Argon Is Not What I Expected",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+      "thumbnail": "https://i.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
+      "publishedAt": "2026-10-19T08:49:21.000Z"
+    },
+    {
+      "id": "n_3c1e366833",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "OpenAI’s New AI Is Doing Things We Barely Understand",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
+      "thumbnail": "https://i.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
+      "publishedAt": "2026-10-13T08:56:12.000Z"
+    },
+    {
+      "id": "n_b35e5f2d2e",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DeepSeek Solved AI’s Memory Problem",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
+      "thumbnail": "https://i.ytimg.com/vi/4fLVq6HJsKc/hqdefault.jpg",
+      "publishedAt": "2026-10-11T16:53:17.000Z"
+    },
+    {
+      "id": "n_3f3a8c8623",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
+      "thumbnail": "https://i.ytimg.com/vi/ZAzWPE9CItg/hqdefault.jpg",
+      "publishedAt": "2026-10-26T22:51:51.000Z"
+    },
+    {
+      "id": "n_fb6a439eff",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
+      "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
+      "publishedAt": "2026-10-13T21:26:16.000Z"
+    },
+    {
+      "id": "n_c21d60498a",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
+      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
+      "publishedAt": "2026-09-17T00:34:47.000Z"
+    },
+    {
+      "id": "n_ffdb3dfd14",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
+      "publishedAt": "2026-08-26T21:44:41.000Z"
+    },
+    {
+      "id": "n_9c145faf00",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Did the AI bubble just pop?",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=nEaJMdM1djM",
+      "thumbnail": "https://i.ytimg.com/vi/nEaJMdM1djM/hqdefault.jpg",
+      "publishedAt": "2026-10-28T13:31:29.000Z"
+    },
+    {
+      "id": "n_94fd9875fe",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "China just dropped a new frontier model... and nobody can explain how",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=G_em1hHPnXY",
+      "thumbnail": "https://i.ytimg.com/vi/G_em1hHPnXY/hqdefault.jpg",
+      "publishedAt": "2026-10-26T18:55:29.000Z"
+    },
+    {
+      "id": "n_f3c8faa918",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The most vulnerable week in internet history...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=SMGg7iisHmc",
+      "thumbnail": "https://i.ytimg.com/vi/SMGg7iisHmc/hqdefault.jpg",
+      "publishedAt": "2026-10-23T18:19:58.000Z"
+    },
+    {
+      "id": "n_dba4be3004",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The last real programmers are dying out...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=zv6B6PQOuHE",
+      "thumbnail": "https://i.ytimg.com/vi/zv6B6PQOuHE/hqdefault.jpg",
+      "publishedAt": "2026-10-22T15:09:31.000Z"
     },
     {
       "id": "n_342584f266",
