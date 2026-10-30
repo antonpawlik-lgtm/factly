@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-10-30T17:20:38.601Z",
+  "generatedAt": "2026-10-30T21:44:20.049Z",
   "items": [
+    {
+      "id": "n_4b49cd6429",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Binance will alle Verluste nach Hackerangriff ersetzen",
+      "summary": "Nach einem Hackerangriff mit einem Schaden von 6,3 Milliarden Dollar will Binance alle Verluste ersetzen. Der Fall zeigt, wie verwundbar Kryptowerte sind, und wirft Fragen zur Sicherheit digitaler Anlagen auf.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html",
+      "publishedAt": "2026-10-30T20:21:33.000Z"
+    },
+    {
+      "id": "n_c98f9d9a4b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
+      "summary": "Die EU und Kanada gründen in Montreal eine \"Allianz für die Zukunft\". Ziel ist mehr Unabhängigkeit und eine engere Zusammenarbeit von KI bis Raumfahrt. Auch die Ukraine spielt eine Rolle.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
+      "publishedAt": "2026-10-30T18:59:17.000Z"
+    },
+    {
+      "id": "n_fa4108600c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "USA: Bereitet Newsom eine Präsidentschaftskandidatur vor?",
+      "summary": "Der Wahlkampf in den USA ist für Politiker auch eine Gelegenheit, sich zu positionieren - für die Präsidentschaftswahl 2028. Kaliforniens Gouverneur Newsom werden Ambitionen nachgesagt - doch es gibt viele Vorbehalte. Von R. Spiegelhauer.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-newsom-ambitionen-100.html",
+      "publishedAt": "2026-10-30T18:46:53.000Z"
+    },
+    {
+      "id": "n_ca44c71a37",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Zelda, WoW und GTA VI: Warum die Games noch immer faszinieren",
+      "summary": "Zelda, WoW und GTA: Der November bietet für Gamer gleich drei neu aufgelegte Videospiel-Klassiker. Warum lösen die jahrzehntealten Game-Reihen noch immer solche Begeisterung aus? Von Samira Straub",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/kultur/videospiel-klassiker-100.html",
+      "publishedAt": "2026-10-30T18:27:55.000Z"
+    },
+    {
+      "id": "n_0b8934a8d7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Remscheider Waffenprozess: Illegaler Waffensammler zu Haftstrafe verurteilt",
+      "summary": "300 scharfe Waffen, 100.000 Schuss Munition und das alles in einem Wohngebiet - es war einer größten Waffenfunde in Deutschland. Für seine illegale Sammlung ist ein Mann aus Remscheid nun zu sechseinhalb Jahren Haft verurteilt worden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/waffenfund-remscheid-urteil-100.html",
+      "publishedAt": "2026-10-30T17:45:00.000Z"
+    },
+    {
+      "id": "n_6f6b90cc5c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Proteste gegen Meloni: Hunderttausende demonstrieren in Italien",
+      "summary": "Hohe Lebenshaltungskosten, steigende Rüstungsausgaben, zu wenig Investition in Bildung: In Italien sind Hunderttausende Menschen gegen die Politik der Regierung auf die Straße gegangen - begleitet von einem massiven Polizeiaufgebot.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html",
+      "publishedAt": "2026-10-30T17:23:20.000Z"
+    },
+    {
+      "id": "n_870df273b6",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: Schwaches Ende einer starken Börsenwoche",
+      "summary": "Zum Wochenschluss schwächelt der DAX, nachdem er zuvor viermal in Folge gestiegen war. Auslöser sind der hohe Ölpreis, aber auch schwache Tech-Vorgaben aus Übersee.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html",
+      "publishedAt": "2026-10-30T17:22:12.000Z"
+    },
     {
       "id": "n_8b4bfa549d",
       "type": "news",
@@ -11,94 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/ukraine-erste-menschen-verlassen-oleschky-100.html",
       "publishedAt": "2026-10-30T16:49:53.000Z"
-    },
-    {
-      "id": "n_e269feb73c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Debatte um Eralp überlagert Regierungsbildung",
-      "summary": "Die Regierungsbildung in Berlin wird erneut von einer Debatte um die Linke überschattet. Im Fokus: die eventuell künftige Regierende Bürgermeisterin Eralp und ihr Umgang mit Islamismus. Ihre Partei stellt sich entschieden hinter sie.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/berlin-eralp-debatte-spiegel-bericht-100.html",
-      "publishedAt": "2026-10-30T16:44:36.000Z"
-    },
-    {
-      "id": "n_5049fe78cc",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Steinmeier in China: Handelsüberschuss im Fokus",
-      "summary": "Bundespräsident Steinmeier hat China zum Abbau seines hohen Handelsdefizits mit Deutschland aufgefordert. Bei einem Treffen mit Präsident Xi betonte er zudem die Verantwortung beider Länder, die internationale Ordnung aufrechtzuerhalten.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/steinmeiner-xi-treffen-100.html",
-      "publishedAt": "2026-10-30T16:35:59.000Z"
-    },
-    {
-      "id": "n_e51fdf46bb",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Jugendproteste: \"Sie meinen es jetzt wirklich ernst\"",
-      "summary": "Steigende Preise, marode Schulen, fehlender Dialog: Im Interview erklärt der Protestforscher Florian Staudt, warum junge Menschen in Europa protestieren - und was die Politik aus seiner Sicht jetzt tun sollte.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-gruende-100.html",
-      "publishedAt": "2026-10-30T16:03:53.000Z"
-    },
-    {
-      "id": "n_c38bb35699",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Gen-Z-Protest: Polizei will Anreise von Gewalttätern stoppen",
-      "summary": "Vor den \"Gen Z regelt\"-Demonstrationen am Samstag wollen die Behörden gewaltbereite Personen schon an der Grenze stoppen. Die Initiatoren machen der Bundesregierung schwere Vorwürfe und bekommen prominente Unterstützung für ihren Protest.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/genz-proteste-polizei-gewalttaeter-100.html",
-      "publishedAt": "2026-10-30T15:58:19.000Z"
-    },
-    {
-      "id": "n_cd065477ee",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Klage wegen Unterrichtsausfall: Ex-Schüler scheitert vor Gericht",
-      "summary": "Mehr als 400 ausgefallene Unterrichtsstunden, aber kein Anspruch auf eine Neubewertung des Abiturs: Die Klage eines ehemaligen Schülers aus Landau gegen das Land Rheinland-Pfalz blieb ohne Erfolg. Von Christoph Kehlbach.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/unterrichtsausfall-klage-abgewiesen-100.html",
-      "publishedAt": "2026-10-30T15:55:15.000Z"
-    },
-    {
-      "id": "n_840a510f86",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Nach gescheiterter Hinrichtung: Pike beklagt ständige Schmerzen",
-      "summary": "Als erste Frau seit 200 Jahren sollte Christa Pike in Tennessee hingerichtet werden. Doch sie überlebte die Gabe eines eigentlich tödlichen Medikaments. In einer ersten Stellungnahme berichtet sie von ständigen Schmerzen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/pike-aeussert-sich-erstmals-nach-gescheiterter-hinrichtung-100.html",
-      "publishedAt": "2026-10-30T15:46:27.000Z"
-    },
-    {
-      "id": "n_3cd6b1a3aa",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Vorschlag für mehr Pünktlichkeit der Bahn: Weniger Züge auf der Strecke",
-      "summary": "Die Bahn will pünktlicher werden. Deshalb soll eine neue Expertenkommission jetzt Vorschläge für schnelle Verbesserungen liefern. Eine Idee: Weniger Züge auf den überlasteten Strecken. Doch aus der Branche kommt Kritik.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/bahn-puenktlichkeit-expertenkommission-100.html",
-      "publishedAt": "2026-10-30T14:59:25.000Z"
-    },
-    {
-      "id": "n_5b0220c404",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Kann ArtCraft Adobe ersetzen? Wir haben ein 3003-Video damit geschnitten",
-      "summary": "Adobe Photoshop, Premiere und After Effects für lau: Wir haben getestet, ob man mit der ArtCraft-Software professionell Videos und Bilder bearbeiten kann.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Kann-ArtCraft-Adobe-ersetzen-Wir-haben-ein-3003-Video-damit-geschnitten-11506536.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-30T16:01:00.000Z"
     },
     {
       "id": "n_2cc8ae017e",
@@ -178,6 +167,72 @@
       "publishedAt": "2026-10-30T06:01:00.000Z"
     },
     {
+      "id": "n_e5f6599069",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Patrick Stewart ist tot",
+      "summary": "Der britische Schauspieler Patrick Stewart ist am Mittwoch gestorben. Er wurde 86 Jahre alt.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Patrick-Stewart-ist-tot-11505529.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-29T20:29:00.000Z"
+    },
+    {
+      "id": "n_4031dd8228",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Beliebte Dyson-Alternative: Akku-Staubsauger für weniger als 140 Euro im Amazon-Angebot",
+      "summary": "Bei Amazon ist ein beliebter Akku-Staubsauger von Bulelink jetzt befristet reduziert. (Technik/Hardware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-beliebte-dyson-alternative-akku-staubsauger-fuer-weniger-als-140-euro-im-amazon-angebot-2610-214707.html",
+      "publishedAt": "2026-10-30T18:25:02.000Z"
+    },
+    {
+      "id": "n_ffe9ae1b7d",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: USB-Bluetooth-Adapter von TP-Link für bis zu 7 Geräte zum Jahresbestpreis",
+      "summary": "Bluetooth für den PC nachrüsten: Der TP-Link UB500 verbindet bis zu sieben Geräte gleichzeitig. Bei Amazon kostet der USB-Adapter jetzt unter 7 Euro. (TP-Link, Amazon)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-usb-bluetooth-adapter-von-tp-link-fuer-bis-zu-7-geraete-zum-jahresbestpreis-2610-214706.html",
+      "publishedAt": "2026-10-30T18:10:02.000Z"
+    },
+    {
+      "id": "n_db7755d86b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Mähroboter von Navimow war bei Amazon nie günstiger",
+      "summary": "Es mag nicht die Hauptsaison für Mähroboter sein, doch die Gelegenheit für ein Schnäppchen ist gut. Ein beliebtes Modell von Navimow war bei Amazon nie günstiger. (Mähroboter, Segway)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-maehroboter-von-navimow-war-bei-amazon-nie-guenstiger-2610-214703.html",
+      "publishedAt": "2026-10-30T17:50:02.000Z"
+    },
+    {
+      "id": "n_2b353c47d9",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: KI-gestützte Entwicklungsabläufe mit Claude Code steuern",
+      "summary": "Claude Code braucht klare Vorgaben und überprüfbare Ergebnisse. Ein dreitägiger Workshop vermittelt Spezifikationen, Context Engineering und automatisierte Prüfungen. (Golem Karrierewelt, Programmiersprachen)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-ki-gestuetzte-entwicklungsablaeufe-mit-claude-code-steuern-2610-214658.html",
+      "publishedAt": "2026-10-30T17:45:06.000Z"
+    },
+    {
+      "id": "n_bce5851ca7",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Tripo.ai und Meshy: KIs für 3D-Modelle schotten sich nach Milliardenbewertung ab",
+      "summary": "Kostenlos 3D-Modelle entwerfen, ohne sich in komplexe Programme einzuarbeiten. Das war bei Tripo.ai und Meshy möglich - vor ihrer Milliardenbewertung. Ein Erfahrungsbericht von Achim Sawall (DIY - Do it yourself, KI)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/tripo-ai-und-meshy-kis-fuer-3d-modelle-schotten-sich-nach-milliardenbewertung-ab-2610-214705.html",
+      "publishedAt": "2026-10-30T17:45:02.000Z"
+    },
+    {
       "id": "n_a3a33fec7c",
       "type": "news",
       "topic": "tech",
@@ -211,59 +266,70 @@
       "publishedAt": "2026-10-30T16:30:05.000Z"
     },
     {
-      "id": "n_e6dd4dde96",
+      "id": "n_31077fabb6",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Werke in Taiwan: Fünffaches Jahresgehalt als Bonus für Micron-Mitarbeiter",
-      "summary": "Micron zahlt in Taiwan erste hohe Boni. Die Belegschaft einer Fab droht dennoch weiter mit Streik. (Micron, Wirtschaft)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/werk-in-taiwan-einige-micron-mitarbeiter-bekommen-ueber-fuenf-jahresgehaelter-bonus-2610-214699.html",
-      "publishedAt": "2026-10-30T16:05:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T21:13:14.000Z"
     },
     {
-      "id": "n_45fe8769ad",
+      "id": "n_9513d13293",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Cloud Rebuild: Windows-Feature kann PC direkt übers Internet neu installieren",
-      "summary": "Cloud Rebuild sucht auch Treiber und benötigte Dateien über Windows Update und installiert sie gleich mit. (Windows 11, Microsoft)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/cloud-rebuild-windows-feature-kann-pc-direkt-uebers-internet-neu-installieren-2610-214698.html",
-      "publishedAt": "2026-10-30T15:41:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "summary": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T20:55:18.000Z"
     },
     {
-      "id": "n_73246b297d",
+      "id": "n_2983ac9f31",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Kooperation zwischen Russland und SpaceX: Putin lobt Musk als Genie",
-      "summary": "Beim Russland-Afrika-Gipfel schwärmt Wladimir Putin von Elon Musk und enthüllt enge Kontakte zwischen Moskau und SpaceX. (Elon Musk, Politik)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/kooperation-zwischen-russland-und-spacex-putin-lobt-musk-als-genie-2610-214690.html",
-      "publishedAt": "2026-10-30T15:27:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Police deployed during stand-off over control of Poland's top court",
+      "summary": "It comes after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T20:52:01.000Z"
     },
     {
-      "id": "n_e06f364e74",
+      "id": "n_24c4692494",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Konnektivität: EZB wählt Telekom und Telefónica für Netzwerkaufbau des digitalen Euro",
-      "summary": "Die EZB holt für den digitalen Euro die Deutsche Telekom und Telefónica ins Projekt. Während die EU die US-Zahlungsabwickler angreift, formiert sich Widerstand. Eine Analyse von Achim Sawall (Digitaler Euro, Telekom)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/konnektivitaet-ezb-waehlt-telekom-und-telefonica-fuer-netzwerkaufbau-des-digitalen-euro-2610-214695.html",
-      "publishedAt": "2026-10-30T15:06:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T20:41:51.000Z"
     },
     {
-      "id": "n_6835a4e3d1",
+      "id": "n_d6f468599e",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Andy Jassy: Prime Video wird zum Milliardengeschäft für Amazon",
-      "summary": "Vom kostenlosen Bonus über Bindung von Prime-Mitgliedern bis zum Medienbereich: Amazon Prime Video erwirtschaftet mittlerweile zweistellige Milliardenumsätze. (Prime Video, Amazon)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/andy-jassy-prime-video-wird-zum-milliardengeschaeft-fuer-amazon-2610-214691.html",
-      "publishedAt": "2026-10-30T14:43:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T20:34:46.000Z"
+    },
+    {
+      "id": "n_77e8331448",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "summary": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T17:25:20.000Z"
     },
     {
       "id": "n_96aadfca87",
@@ -286,72 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-30T17:00:32.000Z"
-    },
-    {
-      "id": "n_31077fabb6",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T16:48:12.000Z"
-    },
-    {
-      "id": "n_2ec54ff601",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-      "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T16:26:11.000Z"
-    },
-    {
-      "id": "n_d6f468599e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US tech stocks see sharp falls over AI cost fears",
-      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T15:46:28.000Z"
-    },
-    {
-      "id": "n_6e4fb3b4a2",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Democratic senator blames Egypt press crackdown on US military aid decision",
-      "summary": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T15:17:11.000Z"
-    },
-    {
-      "id": "n_121deaff89",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T15:09:29.000Z"
-    },
-    {
-      "id": "n_cf81f7dd7d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Six dead after helicopter crashes in northern Indian state",
-      "summary": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T15:06:05.000Z"
     },
     {
       "id": "n_c3c296345f",
@@ -431,6 +431,83 @@
       "publishedAt": "2026-10-29T01:30:43.000Z"
     },
     {
+      "id": "n_65d255a745",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+      "summary": "People who love AI don't always love telling others they used it.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+      "publishedAt": "2026-10-30T20:40:13.000Z"
+    },
+    {
+      "id": "n_a222d0a212",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
+      "summary": "Faked symptoms still point to infections that antibiotics don't treat.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
+      "publishedAt": "2026-10-30T20:17:50.000Z"
+    },
+    {
+      "id": "n_538ea1326a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Basically no one is using AI agents for their DoorDash orders",
+      "summary": "But it's still early days for the relatively new e-commerce use case.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "publishedAt": "2026-10-30T19:30:52.000Z"
+    },
+    {
+      "id": "n_64f7a393ec",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Rare meteorite from Mars gives us a view into its ancient crust",
+      "summary": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
+      "publishedAt": "2026-10-30T18:13:42.000Z"
+    },
+    {
+      "id": "n_b10570d117",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "summary": "Low costs and offline security mean magnetic tape still has a job.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "publishedAt": "2026-10-30T17:38:19.000Z"
+    },
+    {
+      "id": "n_1a9f926a45",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+      "summary": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+      "publishedAt": "2026-10-30T16:53:49.000Z"
+    },
+    {
+      "id": "n_f6163eced8",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Analysts find looming launch crisis is \"more severe\" than anticipated",
+      "summary": "There's no evidence that Starship will launch traditional satellites, either.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
+      "publishedAt": "2026-10-30T16:12:59.000Z"
+    },
+    {
       "id": "n_ff7b881291",
       "type": "news",
       "topic": "tech",
@@ -442,81 +519,37 @@
       "publishedAt": "2026-10-30T13:53:20.000Z"
     },
     {
-      "id": "n_ff5ccffe8e",
+      "id": "n_0806533d8a",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Hackers steal $6.3 billion from Binance in record crypto heist",
-      "summary": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
-      "publishedAt": "2026-10-30T13:46:39.000Z"
+      "headline": "Last-minute Halloween costumes for tech nerds",
+      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "publishedAt": "2026-10-30T21:26:59.000Z"
     },
     {
-      "id": "n_f2d90ec51a",
+      "id": "n_f1f6194d20",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
-      "summary": "Nissan’s series hybrid e-Power system has been retuned for American roads.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/",
-      "publishedAt": "2026-10-30T12:00:18.000Z"
+      "headline": "Cracks are emerging in the AI spending boom",
+      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "publishedAt": "2026-10-30T21:17:40.000Z"
     },
     {
-      "id": "n_ac707bc2c6",
+      "id": "n_d52c9778a5",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
-      "summary": "Disgraced founder of Theranos has some people falling for her act all over again.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
-      "publishedAt": "2026-10-30T11:30:01.000Z"
-    },
-    {
-      "id": "n_213759144b",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
-      "summary": "It's been a good week for ULA, with big NASA contract, Vulcan nearing return-to-flight.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
-      "publishedAt": "2026-10-30T11:00:35.000Z"
-    },
-    {
-      "id": "n_adc2264007",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Reddit is moving to “a logged-in-only experience,” CEO says",
-      "summary": "Reddit's search traffic \"was down meaningfully\" last quarter.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
-      "publishedAt": "2026-10-29T21:47:57.000Z"
-    },
-    {
-      "id": "n_ca205e978a",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-      "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
-      "publishedAt": "2026-10-29T20:18:49.000Z"
-    },
-    {
-      "id": "n_69e91b7f98",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
-      "summary": "Inspector general rejected request from Democratic and Republican senators.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
-      "publishedAt": "2026-10-29T20:08:10.000Z"
+      "headline": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "publishedAt": "2026-10-30T17:47:12.000Z"
     },
     {
       "id": "n_135f70cd39",
@@ -524,7 +557,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "Google’s first data center satellite is online and writing poetry",
-      "summary": "The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
       "publishedAt": "2026-10-30T17:00:00.000Z"
@@ -574,37 +607,37 @@
       "publishedAt": "2026-10-30T13:00:00.000Z"
     },
     {
-      "id": "n_cea73ec16e",
+      "id": "n_25a528e218",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-      "publishedAt": "2026-10-30T13:00:00.000Z"
+      "headline": "The biggest names in AI are backing a new way to opt out of scraping",
+      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI compani",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "publishedAt": "2026-10-30T20:26:10.000Z"
     },
     {
-      "id": "n_3e1cebb1f9",
+      "id": "n_c4dbacf8aa",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "publishedAt": "2026-10-30T01:20:48.000Z"
+      "headline": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku abo",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "publishedAt": "2026-10-30T18:21:38.000Z"
     },
     {
-      "id": "n_05367ef1f3",
+      "id": "n_0de3f9697e",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "publishedAt": "2026-10-29T23:42:22.000Z"
+      "headline": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present per",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "publishedAt": "2026-10-30T17:38:04.000Z"
     },
     {
       "id": "n_974d9b85c8",
@@ -660,39 +693,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
       "publishedAt": "2026-10-30T09:00:00.000Z"
-    },
-    {
-      "id": "n_2a1a8a7c88",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "You can generate and edit Google Docs files directly in Gemini chats now",
-      "summary": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on b",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-      "publishedAt": "2026-10-29T18:45:31.000Z"
-    },
-    {
-      "id": "n_45b4ef0b72",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Microsoft’s AI future has fewer jobs",
-      "summary": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to arou",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-      "publishedAt": "2026-10-29T16:00:00.000Z"
-    },
-    {
-      "id": "n_9d92d4ec6e",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The NYT Cooking app is testing AI recipe modifications",
-      "summary": "The AI tool provides recommendations and adjusts the recipe accordingly. | Image: The New York Times The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior e",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
-      "publishedAt": "2026-10-29T14:39:37.000Z"
     },
     {
       "id": "n_f863128399",
@@ -783,6 +783,17 @@
       "publishedAt": "2026-10-22T18:48:04.000Z"
     },
     {
+      "id": "n_a7904f9e10",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "How a Contractor’s Claude Agent Got Into the Pentagon",
+      "summary": "This week on “Uncanny Valley,” we discuss the contractor who plugged their AI agent into a Pentagon system, Anthropic’s IPO filing, and the volunteers gearing up to counter ICE at the midterms.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+      "publishedAt": "2026-10-30T21:19:26.000Z"
+    },
+    {
       "id": "n_bf3026d4c6",
       "type": "news",
       "topic": "ai",
@@ -860,15 +871,15 @@
       "publishedAt": "2026-10-28T08:30:00.000Z"
     },
     {
-      "id": "n_b3d9e88f2e",
+      "id": "n_b2263e9f84",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Should AI Decide Your Court Case? This Judge Says Yes",
-      "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
-      "publishedAt": "2026-10-28T06:00:00.000Z"
+      "headline": "nemotron-halloween",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "publishedAt": "2026-10-30T17:57:24.000Z"
     },
     {
       "id": "n_f3538b6fb3",
@@ -913,17 +924,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/anydecisionmodel",
       "publishedAt": "2026-10-29T00:00:00.000Z"
-    },
-    {
-      "id": "n_7ae8eb2055",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "publishedAt": "2026-10-28T14:58:17.000Z"
     },
     {
       "id": "n_db98bf59a6",
