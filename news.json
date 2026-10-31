@@ -1,71 +1,27 @@
 {
-  "generatedAt": "2026-10-31T16:24:59.299Z",
+  "generatedAt": "2026-10-31T23:49:35.156Z",
   "items": [
     {
-      "id": "n_aaf7ce285b",
+      "id": "n_fa8f5e48f2",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Was Salz aus 1.000 Metern Tiefe so wertvoll macht",
-      "summary": "Ein Bergbaukonzern aus Hessen kontrolliert rund 30 Prozent des Weltmarktes für hochreine Pharmasalze. Was dort abgebaut wird, ist für viele Menschen überlebenswichtig. Von Christof Dörr.",
+      "headline": "Erneut Proteste und Zusammenstöße in Frankreich",
+      "summary": "Am dritten Samstag in Folge haben in Frankreich Hunderttausende Menschen protestiert - erst friedlich, doch am Ende kam es wieder zu Zusammenstößen mit der Polizei. Die bleibt auch nach Ende der Protestzüge in Alarmbereitschaft. Von J. Borutta.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/salz-142.html",
-      "publishedAt": "2026-10-31T16:21:31.000Z"
+      "url": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
+      "publishedAt": "2026-10-31T22:32:55.000Z"
     },
     {
-      "id": "n_bf3b96c6e7",
+      "id": "n_61ed762265",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD",
-      "summary": "In Berlin hat sich nach Grünen und SPD nun auch die Linke für Koalitionsverhandlungen ausgesprochen. Auf einem Parteitag stimmte eine klare Mehrheit dafür. Sechs Wochen nach der Wahl können die Gespräche damit beginnen.",
+      "headline": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
+      "summary": "Bessere Bildung, mehr Klimaschutz und bezahlbarer Wohnraum - dafür sind Zehntausende in vielen deutschen Städten auf die Straße gezogen. Die Proteste der \"Gen Z regelt\" blieben weitgehend friedlich. Doch am Abend kam es zu einigen Ausschreitungen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html",
-      "publishedAt": "2026-10-31T16:13:23.000Z"
-    },
-    {
-      "id": "n_0a0c75a087",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Aus für UN-Friedensmission in der Westsahara nach Veto im UN-Sicherheitsrat",
-      "summary": "Nach mehr als 30 Jahren kommt nun das Aus für die UN-Friedensmission MINURSO: Russland hat die Verlängerung im UN-Sicherheitsrat blockiert. Damit müssen zivile und militärische Kräfte das Gebiet in den kommenden Tagen verlassen - auch deutsche Soldaten.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/westsahara-un-mission-100.html",
-      "publishedAt": "2026-10-31T16:12:40.000Z"
-    },
-    {
-      "id": "n_f9f7e5bb79",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Linkspartei: Eralp rechnet mit Zustimmung zu Koalitionsgesprächen",
-      "summary": "In Berlin läuft der Parteitag der Linkspartei. Fraktionschefin Eralp verteidigte das Sondierungspapier mit Grünen sowie SPD und warb für Koalitionsverhandlungen. Sie äußerte sich auch zur umstrittenen Abgeordneten Emde.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-linkspartei-eralp-koalitionsverhandlungen-100.html",
-      "publishedAt": "2026-10-31T16:07:00.000Z"
-    },
-    {
-      "id": "n_0132d49463",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Demos in vielen Städten: Jugend-Proteste bisher weitgehend friedlich",
-      "summary": "Die Proteste der \"GenZ\" haben begonnen. Größere Aktionen gibt es etwa in Berlin, Frankfurt, München und Köln. Dort wurde der Demozug wegen Verstößen gegen das Vermummungsverbot abgesagt. Bislang ist es laut Polizei weitgehend friedlich.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html",
-      "publishedAt": "2026-10-31T15:55:18.000Z"
-    },
-    {
-      "id": "n_5f97973848",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
-      "summary": "Nach der Evakuierung der von Russland besetzten Stadt Oleschky sind gerettete Bewohner in ukrainisch kontrolliertem Gebiet angekommen. Zuvor waren sie mit Militärflugzeugen nach Belarus gebracht worden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html",
-      "publishedAt": "2026-10-31T15:06:39.000Z"
+      "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html",
+      "publishedAt": "2026-10-31T20:33:42.000Z"
     },
     {
       "id": "n_3221bb4be4",
@@ -76,25 +32,69 @@
       "summary": "Nach der Absetzung der bisherigen Gerichtsspitze eskaliert der Streit über Polens Verfassungsgericht: Regierung und Opposition werfen sich gegenseitig vor, die Justiz zu gefährden. Vor dem Gebäude gab es erneut Proteste.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
-      "publishedAt": "2026-10-31T13:57:56.000Z"
+      "publishedAt": "2026-10-31T20:11:14.000Z"
     },
     {
-      "id": "n_4553ac1c75",
+      "id": "n_f9f7e5bb79",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Das System Vucic in Serbien: Besiegt, aber nicht verschwunden",
-      "summary": "Auch rund eine Woche nach ihrem Wahlsieg in Serbien staunt die Studentenbewegung noch über ihren Erfolg. Ihre Mitglieder merken aber im Alltag: Das System von Ex-Präsident Vucic verschwindet nicht über Nacht. Von A. Bachmann und I. Bafas.",
+      "headline": "Linkspartei: Eralp rechnet mit Zustimmung zu Koalitionsgesprächen",
+      "summary": "In Berlin läuft der Parteitag der Linkspartei. Fraktionschefin Eralp verteidigte das Sondierungspapier mit Grünen sowie SPD und warb für Koalitionsverhandlungen. Sie äußerte sich auch zur umstrittenen Abgeordneten Emde.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/serbien-studenten-nach-wahlsieg-100.html",
-      "publishedAt": "2026-10-31T12:08:42.000Z"
+      "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-linkspartei-eralp-koalitionsverhandlungen-100.html",
+      "publishedAt": "2026-10-31T19:39:40.000Z"
+    },
+    {
+      "id": "n_823a6e023e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Midterms in den USA: Kippt ausgerechnet Texas?",
+      "summary": "In Texas könnte bei den Zwischenwahlen am Dienstag ein Demokrat das Rennen um den Sitz im US-Senat für sich entscheiden. Dabei gewinnen in dem Bundesstaat seit Jahrzehnten verlässlich die Republikaner. Welche Themen beschäftigen die Wähler? Von S. Schmidt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html",
+      "publishedAt": "2026-10-31T18:05:02.000Z"
+    },
+    {
+      "id": "n_bf3b96c6e7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD",
+      "summary": "Sechs Wochen nach der Wahl in Berlin ist der Weg frei für rot-grün-rote Koalitionsverhandlungen: Nach Grünen und SPD stimmte nun auch der Parteitag der Linken dafür. Am Montag sollen die Gespräche beginnen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html",
+      "publishedAt": "2026-10-31T18:00:40.000Z"
+    },
+    {
+      "id": "n_222947e752",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Treffen in Atlanta: G20-Außenminister finden keine gemeinsame Sprache",
+      "summary": "Zwei Tage lang haben die G20-Außenminister in Atlanta über internationale Krisen beraten. Es ging dabei vor allem um die Folgen für die Weltwirtschaft. Überlagert wurde das Treffen von Spannungen - vor allem mit Russland. Von M. Sambale.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-abschluss-100.html",
+      "publishedAt": "2026-10-31T16:54:43.000Z"
+    },
+    {
+      "id": "n_0132d49463",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "\"GenZ\"-Proteste: Tausende demonstrieren für soziale Gerechtigkeit",
+      "summary": "Am Nachmittag haben die angekündigten Proteste der \"GenZ\" begonnen. In Hamburg und Köln ging die Polizei unter anderem wegen des Einsatzes von Pyrotechnik gegen Demonstrierende vor. Die befürchteten großen Ausschreitungen blieben bislang aus.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html",
+      "publishedAt": "2026-10-31T16:54:21.000Z"
     },
     {
       "id": "n_68ea10a4b6",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Ab morgen gelten neue Gebühren: pro Position, nicht pro Paket",
+      "headline": "Neue Zollgebühren: pro Position, nicht pro Paket",
       "summary": "Durch die Zollreform der Europäischen Union tritt Anfang November eine neue Gebühr in Kraft. Direktimporte aus dem Nicht-EU-Ausland könnten teurer werden.",
       "source": "heise online",
       "url": "https://www.heise.de/news/Importpakete-2-Euro-zusaetzliche-Gebuehr-pro-Warenposition-11507130.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
@@ -266,15 +266,70 @@
       "publishedAt": "2026-10-31T11:20:01.000Z"
     },
     {
+      "id": "n_5f84f1aafe",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+      "summary": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T23:06:13.000Z"
+    },
+    {
+      "id": "n_641fcec3e1",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T22:11:45.000Z"
+    },
+    {
+      "id": "n_3ef1a8112a",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Thousands demonstrate in Paris as protests spread across Europe",
+      "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T21:29:01.000Z"
+    },
+    {
+      "id": "n_c02cb42c8a",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T19:22:26.000Z"
+    },
+    {
       "id": "n_763a99da66",
       "type": "news",
       "topic": "general",
       "lang": "en",
       "headline": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "summary": "Many residents left Oleshky on Friday following a ceasefire brokered by US First Lady Melania Trump.",
+      "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T15:50:41.000Z"
+      "publishedAt": "2026-10-31T17:53:35.000Z"
+    },
+    {
+      "id": "n_896568e9ef",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Emotional reunions with loved ones for Oleshky evacuees",
+      "summary": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T16:55:47.000Z"
     },
     {
       "id": "n_3d21f51d37",
@@ -286,72 +341,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-31T15:16:20.000Z"
-    },
-    {
-      "id": "n_93f7b4ba33",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Ethiopian PM puts ministers through military training",
-      "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T14:28:15.000Z"
-    },
-    {
-      "id": "n_cd7f597628",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Watch: Blood donors get a Halloween fright in Thailand",
-      "summary": "Thai Red Cross workers dressed up as part of a Halloween-themed blood drive in the country's capital Bangkok.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T12:50:45.000Z"
-    },
-    {
-      "id": "n_008e0f544c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US approves sale of 500 Patriot missiles to Ukraine",
-      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T12:21:25.000Z"
-    },
-    {
-      "id": "n_5c635865d0",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "CCTV and zip ties: How US mail-in votes are secured and counted",
-      "summary": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T09:16:14.000Z"
-    },
-    {
-      "id": "n_fe78595c0b",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Spain train disaster clouds Sánchez chances of re-election",
-      "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T05:44:21.000Z"
-    },
-    {
-      "id": "n_27b50d1672",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Suited and booted: How Joseph Kabila went from president to rebel leader",
-      "summary": "What does Joseph Kabila launching a new rebel movement mean for DR Congo?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T04:32:07.000Z"
     },
     {
       "id": "n_a2f2839074",
@@ -530,6 +519,39 @@
       "publishedAt": "2026-10-30T20:40:13.000Z"
     },
     {
+      "id": "n_89c6cb6d29",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "publishedAt": "2026-10-31T21:41:00.000Z"
+    },
+    {
+      "id": "n_cefcb0bd24",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "publishedAt": "2026-10-31T21:36:07.000Z"
+    },
+    {
+      "id": "n_bc398a80a0",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "publishedAt": "2026-10-31T21:17:03.000Z"
+    },
+    {
       "id": "n_344dcf7974",
       "type": "news",
       "topic": "ai",
@@ -583,39 +605,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
       "publishedAt": "2026-10-30T21:52:03.000Z"
-    },
-    {
-      "id": "n_0806533d8a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Last-minute Halloween costumes for tech nerds",
-      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "publishedAt": "2026-10-30T21:26:59.000Z"
-    },
-    {
-      "id": "n_f1f6194d20",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Cracks are emerging in the AI spending boom",
-      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "publishedAt": "2026-10-30T21:17:40.000Z"
-    },
-    {
-      "id": "n_d52c9778a5",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "publishedAt": "2026-10-30T17:47:12.000Z"
     },
     {
       "id": "n_ed0268fa6e",
@@ -968,150 +957,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/torch-neuronx-model-support",
       "publishedAt": "2026-10-23T00:00:00.000Z"
-    },
-    {
-      "id": "n_ce14acab8d",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI Claims It Just Did The Impossible",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
-      "thumbnail": "https://i.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg",
-      "publishedAt": "2026-10-30T15:57:16.000Z"
-    },
-    {
-      "id": "n_c66d1bea7b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek's New AI Is An Absolute Monster",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
-      "thumbnail": "https://i.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
-      "publishedAt": "2026-10-28T17:32:40.000Z"
-    },
-    {
-      "id": "n_5565a81df6",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gemini 4 Argon Is Not What I Expected",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
-      "thumbnail": "https://i.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
-      "publishedAt": "2026-10-19T08:49:21.000Z"
-    },
-    {
-      "id": "n_3c1e366833",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI’s New AI Is Doing Things We Barely Understand",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
-      "thumbnail": "https://i.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
-      "publishedAt": "2026-10-13T08:56:12.000Z"
-    },
-    {
-      "id": "n_3f3a8c8623",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
-      "thumbnail": "https://i.ytimg.com/vi/ZAzWPE9CItg/hqdefault.jpg",
-      "publishedAt": "2026-10-26T22:51:51.000Z"
-    },
-    {
-      "id": "n_fb6a439eff",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
-      "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
-      "publishedAt": "2026-10-13T21:26:16.000Z"
-    },
-    {
-      "id": "n_c21d60498a",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
-      "publishedAt": "2026-09-17T00:34:47.000Z"
-    },
-    {
-      "id": "n_ffdb3dfd14",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
-      "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_9c145faf00",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did the AI bubble just pop?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=nEaJMdM1djM",
-      "thumbnail": "https://i.ytimg.com/vi/nEaJMdM1djM/hqdefault.jpg",
-      "publishedAt": "2026-10-28T13:31:29.000Z"
-    },
-    {
-      "id": "n_94fd9875fe",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "China just dropped a new frontier model... and nobody can explain how",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=G_em1hHPnXY",
-      "thumbnail": "https://i.ytimg.com/vi/G_em1hHPnXY/hqdefault.jpg",
-      "publishedAt": "2026-10-26T18:55:29.000Z"
-    },
-    {
-      "id": "n_f3c8faa918",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The most vulnerable week in internet history...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=SMGg7iisHmc",
-      "thumbnail": "https://i.ytimg.com/vi/SMGg7iisHmc/hqdefault.jpg",
-      "publishedAt": "2026-10-23T18:19:58.000Z"
-    },
-    {
-      "id": "n_dba4be3004",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The last real programmers are dying out...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=zv6B6PQOuHE",
-      "thumbnail": "https://i.ytimg.com/vi/zv6B6PQOuHE/hqdefault.jpg",
-      "publishedAt": "2026-10-22T15:09:31.000Z"
     },
     {
       "id": "n_342584f266",
