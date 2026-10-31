@@ -1,93 +1,104 @@
 {
-  "generatedAt": "2026-10-31T09:13:16.008Z",
+  "generatedAt": "2026-10-31T16:24:59.299Z",
   "items": [
     {
-      "id": "n_7c3a4b24db",
+      "id": "n_aaf7ce285b",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Arabische Parteien in Israel stecken in einem Dilemma",
-      "summary": "Die arabischen Listen in Israel haben bei der Parlamentswahl große Erfolge erzielt. Sie traten gemeinsam an, unterscheiden sich aber inhaltlich. Vor allem wollen sie nicht nur Mehrheitsbeschaffer sein. Von Julia Segador.",
+      "headline": "Was Salz aus 1.000 Metern Tiefe so wertvoll macht",
+      "summary": "Ein Bergbaukonzern aus Hessen kontrolliert rund 30 Prozent des Weltmarktes für hochreine Pharmasalze. Was dort abgebaut wird, ist für viele Menschen überlebenswichtig. Von Christof Dörr.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-arabische-parteien-100.html",
-      "publishedAt": "2026-10-31T08:49:15.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/salz-142.html",
+      "publishedAt": "2026-10-31T16:21:31.000Z"
     },
     {
-      "id": "n_26ae9e13ce",
+      "id": "n_bf3b96c6e7",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Polen: Tumult und Protest vor dem Verfassungsgericht",
-      "summary": "Der Machtkampf um das polnische Verfassungsgericht spitzt sich zu. Die Polizei sicherte das Gebäude ab, nachdem sich Protestierende dort versammelt hatten. Auslöser ist die mutmaßliche Suspendierung der bisherigen Gerichtsführung.",
+      "headline": "Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD",
+      "summary": "In Berlin hat sich nach Grünen und SPD nun auch die Linke für Koalitionsverhandlungen ausgesprochen. Auf einem Parteitag stimmte eine klare Mehrheit dafür. Sechs Wochen nach der Wahl können die Gespräche damit beginnen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
-      "publishedAt": "2026-10-31T08:25:36.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html",
+      "publishedAt": "2026-10-31T16:13:23.000Z"
     },
     {
-      "id": "n_bfef9a2eb1",
+      "id": "n_0a0c75a087",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "KI bei der Geldanlage: Wie sicher sind ChatGPT-Anlagetipps?",
-      "summary": "Immer mehr Menschen holen sich bei der Geldanlage Rat von ChatGPT oder Claude. Experten sehen in den KI-Anlagetipps durchaus Potenzial, warnen aber auch vor Fehlern und Risiken. Von Angela Göpfert.",
+      "headline": "Aus für UN-Friedensmission in der Westsahara nach Veto im UN-Sicherheitsrat",
+      "summary": "Nach mehr als 30 Jahren kommt nun das Aus für die UN-Friedensmission MINURSO: Russland hat die Verlängerung im UN-Sicherheitsrat blockiert. Damit müssen zivile und militärische Kräfte das Gebiet in den kommenden Tagen verlassen - auch deutsche Soldaten.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html",
-      "publishedAt": "2026-10-31T07:45:19.000Z"
+      "url": "https://www.tagesschau.de/ausland/afrika/westsahara-un-mission-100.html",
+      "publishedAt": "2026-10-31T16:12:40.000Z"
     },
     {
-      "id": "n_e056238871",
+      "id": "n_f9f7e5bb79",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Die Linke in Berlin: Aus dem Trubel in die Koalition?",
-      "summary": "Die Berliner Linke entscheidet heute über den Start von Koalitionsverhandlungen mit SPD und Grünen. Überschattet wird der Parteitag von Antisemitismusvorwürfen und einem Spiegel-Bericht. Von Frank Aischmann.",
+      "headline": "Linkspartei: Eralp rechnet mit Zustimmung zu Koalitionsgesprächen",
+      "summary": "In Berlin läuft der Parteitag der Linkspartei. Fraktionschefin Eralp verteidigte das Sondierungspapier mit Grünen sowie SPD und warb für Koalitionsverhandlungen. Sie äußerte sich auch zur umstrittenen Abgeordneten Emde.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-parteitag-eralp-100.html",
-      "publishedAt": "2026-10-31T07:43:12.000Z"
+      "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-linkspartei-eralp-koalitionsverhandlungen-100.html",
+      "publishedAt": "2026-10-31T16:07:00.000Z"
     },
     {
-      "id": "n_d2f1814116",
+      "id": "n_0132d49463",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Einigung bei der UN-Biodiversitätskonferenz erzielt",
-      "summary": "Wie kann die Artenvielfalt geschützt werden? Darüber wurde bei der UN-Biodiversitätskonferenz intensiv verhandelt. Am Ende gab es in Armenien eine Einigung - wenn auch keine besonders ambitionierte.",
+      "headline": "Demos in vielen Städten: Jugend-Proteste bisher weitgehend friedlich",
+      "summary": "Die Proteste der \"GenZ\" haben begonnen. Größere Aktionen gibt es etwa in Berlin, Frankfurt, München und Köln. Dort wurde der Demozug wegen Verstößen gegen das Vermummungsverbot abgesagt. Bislang ist es laut Polizei weitgehend friedlich.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/biodiversitaet-cop-armenien-100.html",
-      "publishedAt": "2026-10-31T07:09:41.000Z"
+      "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html",
+      "publishedAt": "2026-10-31T15:55:18.000Z"
     },
     {
-      "id": "n_27b12e5897",
+      "id": "n_5f97973848",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Jugendproteste in mehr als 30 Städten geplant",
-      "summary": "Wachsende Unzufriedenheit und Zukunftsängste: Die GenZ protestiert bundesweit für bessere Bildung, Klimaschutz und mehr politische Teilhabe. In mehr als 30 Städten sind Demonstrationen angekündigt. Von Jan Koch.",
+      "headline": "Bewohner Oleschkys auf ukrainisch kontrolliertem Gebiet angekommen",
+      "summary": "Nach der Evakuierung der von Russland besetzten Stadt Oleschky sind gerettete Bewohner in ukrainisch kontrolliertem Gebiet angekommen. Zuvor waren sie mit Militärflugzeugen nach Belarus gebracht worden.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html",
-      "publishedAt": "2026-10-31T04:52:31.000Z"
+      "url": "https://www.tagesschau.de/ausland/oleschky-ukraine-100.html",
+      "publishedAt": "2026-10-31T15:06:39.000Z"
     },
     {
-      "id": "n_187a4befeb",
+      "id": "n_3221bb4be4",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Frust bei US-Farmern könnte Trump Stimmen bei den Midterms kosten",
-      "summary": "Landwirte gelten als wichtige Wählergruppe der US-Republikaner. Doch steigende Kosten und eine unberechenbare Zollpolitik sorgen für Frust. Das könnte bei den Zwischenwahlen zum Stresstest für die Trump-Regierung werden. Von S. Jackisch.",
+      "headline": "Der Kampf um das polnische Verfassungsgericht eskaliert",
+      "summary": "Nach der Absetzung der bisherigen Gerichtsspitze eskaliert der Streit über Polens Verfassungsgericht: Regierung und Opposition werfen sich gegenseitig vor, die Justiz zu gefährden. Vor dem Gebäude gab es erneut Proteste.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-landwirtschaft-100.html",
-      "publishedAt": "2026-10-31T04:52:21.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
+      "publishedAt": "2026-10-31T13:57:56.000Z"
     },
     {
-      "id": "n_c98f9d9a4b",
+      "id": "n_4553ac1c75",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "\"Allianz für die Zukunft\": Kanada und Europa gründen Bündnis",
-      "summary": "Die EU und Kanada gründen in Montreal eine \"Allianz für die Zukunft\". Ziel ist mehr Unabhängigkeit und eine engere Zusammenarbeit von KI bis Raumfahrt. Auch die Ukraine spielt eine Rolle.",
+      "headline": "Das System Vucic in Serbien: Besiegt, aber nicht verschwunden",
+      "summary": "Auch rund eine Woche nach ihrem Wahlsieg in Serbien staunt die Studentenbewegung noch über ihren Erfolg. Ihre Mitglieder merken aber im Alltag: Das System von Ex-Präsident Vucic verschwindet nicht über Nacht. Von A. Bachmann und I. Bafas.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
-      "publishedAt": "2026-10-31T03:57:32.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/serbien-studenten-nach-wahlsieg-100.html",
+      "publishedAt": "2026-10-31T12:08:42.000Z"
+    },
+    {
+      "id": "n_68ea10a4b6",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Ab morgen gelten neue Gebühren: pro Position, nicht pro Paket",
+      "summary": "Durch die Zollreform der Europäischen Union tritt Anfang November eine neue Gebühr in Kraft. Direktimporte aus dem Nicht-EU-Ausland könnten teurer werden.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Importpakete-2-Euro-zusaetzliche-Gebuehr-pro-Warenposition-11507130.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-10-31T11:56:00.000Z"
     },
     {
       "id": "n_5b0220c404",
@@ -167,114 +178,158 @@
       "publishedAt": "2026-10-30T11:21:00.000Z"
     },
     {
-      "id": "n_228088082d",
+      "id": "n_e97b15d24e",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Neuer größter Diebstahl: Über 6 Milliarden US-Dollar bei Binance abgegriffen",
-      "summary": "Bei Binance haben Unbefugte mehr als sechs Milliarden US-Dollar abgegriffen, die Hälfte davon konnte eingefroren werden. Trotzdem ist es der größte Diebstahl.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/6-3-Milliarden-US-Dollar-Neuer-groesster-Krypto-Coup-aller-Zeiten-trifft-Binance-11505601.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-30T06:01:00.000Z"
-    },
-    {
-      "id": "n_28f6271606",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "(g+) Chiplets und 3D-Stacking: Das Ende des monolithischen Chips",
-      "summary": "Kleinere Chips, schnellere Verbindungen, neue Fertigungsverfahren: Wie Chiplets und 3D-Stacking die Grenzen klassischer Prozessoren verschieben. Eine Analyse von Klaus Manhart (Post-Silicon, Prozessor)",
+      "headline": "Haiku generiert: Googles Satelliten-KI-Rechner meldet sich aus dem Orbit",
+      "summary": "Googles experimenteller Satelliten-KI-Rechner ist online und funkt mit Bodenstationen. Die erste Aufgabe der KI an Bord: ein Gedicht über den Weltraum schreiben. (Satelliten, Google)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/chiplets-und-3d-stacking-das-ende-des-monolithischen-chips-2610-214677.html",
-      "publishedAt": "2026-10-31T09:07:01.000Z"
+      "url": "https://www.golem.de/news/haiku-generiert-googles-satelliten-ki-rechner-meldet-sich-aus-dem-orbit-2610-214715.html",
+      "publishedAt": "2026-10-31T14:41:02.000Z"
     },
     {
-      "id": "n_8e6a4a5032",
+      "id": "n_d30954ec29",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Defense Radar: Drohnen abschießen, ohne Menschen zu gefährden",
-      "summary": "Ein Laser der Bundeswehr soll Drohnen auf bis zu 3 km Entfernung abwehren. Was das System militärisch taugt, erklären wir in unserem Defense Radar auf Youtube. (Militär, Politik)",
+      "headline": "Nationalversammlung: Frankreich will eine Steuer von 5,5 Cent pro Gigabyte",
+      "summary": "Die französische Nationalversammlung hat einen Antrag verabschiedet, der Hersteller digitaler Daten dazu verpflichten würde, 5,5 Cent für jedes Gigabyte zu zahlen. (Internet, Politik)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/defense-radar-drohnen-abschiessen-ohne-menschen-zu-gefaehrden-2610-214687.html",
-      "publishedAt": "2026-10-31T08:35:02.000Z"
+      "url": "https://www.golem.de/news/nationalversammlung-frankreich-will-eine-steuer-von-5-5-cent-pro-gigabyte-2610-214718.html",
+      "publishedAt": "2026-10-31T14:03:02.000Z"
     },
     {
-      "id": "n_132b6fe28b",
+      "id": "n_38b7dd22ff",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Drohnenkrieg in der Ukraine: Roboter sollen Abfangdrohnen an die Front bringen",
-      "summary": "Die Ukraine baut Drohnen, die von unbemannten Bodenfahrzeugen aus starten und feindliche Flugziele bekämpfen sollen. (Drohne, Politik)",
+      "headline": "Nasdaq: KI-Sorgen treiben Anleger aus Tech-Aktien",
+      "summary": "Der Technologie-Index Nasdaq 100 hat an Wert eingebüßt - gibt es erste Zweifel daran, ob sich die Investitionen in künstliche Intelligenz wirklich lohnen werden? (KI, Intel)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/drohnenkrieg-in-der-ukraine-roboter-sollen-abfangdrohnen-an-die-front-bringen-2610-214688.html",
-      "publishedAt": "2026-10-31T07:17:01.000Z"
+      "url": "https://www.golem.de/news/nasdaq-ki-sorgen-treiben-anleger-aus-tech-aktien-2610-214717.html",
+      "publishedAt": "2026-10-31T13:38:01.000Z"
     },
     {
-      "id": "n_d35bb6eab4",
+      "id": "n_b183eb005f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Stromnetzschwankung: Periodische Leistungsspitze im Netz hat dezentrale Ursache",
-      "summary": "Seit Jahren gibt es alle 60 Sekunden eine Spitze im europäischen Strombedarf. Im Reallabor in Jülich ist die Ursache gefunden worden. (Strom, KI)",
+      "headline": "KI-Kurs bei Proton: Yen sagt umstrittene Mitarbeiterinterviews zu KI ab",
+      "summary": "Proton streicht die Re-Interviews zur KI-Nutzung. Yen räumt Kommunikationsfehler ein, will KI aber weiter vorantreiben. (Unternehmen, Wirtschaft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/stromnetzschwankung-periodische-leistungsspitze-im-netz-hat-dezentrale-ursache-2610-214694.html",
-      "publishedAt": "2026-10-31T06:45:01.000Z"
+      "url": "https://www.golem.de/news/ki-kurs-bei-proton-yen-sagt-umstrittene-mitarbeiterinterviews-zu-ki-ab-2610-214712.html",
+      "publishedAt": "2026-10-31T13:09:02.000Z"
     },
     {
-      "id": "n_398b7eef50",
+      "id": "n_c9767a9c67",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Halloween 2026: Abseits der Blockbuster wird es richtig unheimlich",
-      "summary": "Ungewöhnliche Horrorideen aus der Indiegames-Szene: Hellraiser wird spielbar, ein Vampir-Adventure erinnert an Bloodlines und in Graveyard Keeper 2 werden Zombies zu Arbeitskräften. Von Rainer Sigl (Indiegames, Spiele)",
+      "headline": "Das Recht, selbst zu denken: KI-Verweigerer erhält religiöse Ausnahme",
+      "summary": "Ein Angestellter aus Kentucky will aus religiösen Gründen sein Denken nicht an KI auslagern. Sein Arbeitgeber macht eine Ausnahme. (KI, Rechenzentrum)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/halloween-2026-abseits-der-blockbuster-wird-es-richtig-unheimlich-2610-214316.html",
-      "publishedAt": "2026-10-31T06:30:01.000Z"
+      "url": "https://www.golem.de/news/das-recht-selbst-zu-denken-ki-verweigerer-erhaelt-religioese-ausnahme-2610-214708.html",
+      "publishedAt": "2026-10-31T12:30:02.000Z"
     },
     {
-      "id": "n_4031dd8228",
+      "id": "n_77b3358b6a",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Beliebte Dyson-Alternative: Akku-Staubsauger für weniger als 140 Euro im Amazon-Angebot",
-      "summary": "Bei Amazon ist ein beliebter Akku-Staubsauger von Bulelink jetzt befristet reduziert. (Technik/Hardware)",
+      "headline": "Foldable: Samsung lästert in Werbung über iPhone Duos Displayfehler",
+      "summary": "Schon nach der Veröffentlichung des iPhone Duos hat Samsung auf die eigene Expertise verwiesen. Nach den Problemen kennt die Schadenfreude keine Grenzen mehr. (iPhone Duo, Smartphone)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-beliebte-dyson-alternative-akku-staubsauger-fuer-weniger-als-140-euro-im-amazon-angebot-2610-214707.html",
-      "publishedAt": "2026-10-30T18:25:02.000Z"
+      "url": "https://www.golem.de/news/foldable-samsung-laestert-in-werbung-ueber-iphone-duos-displayfehler-2610-214716.html",
+      "publishedAt": "2026-10-31T12:08:01.000Z"
     },
     {
-      "id": "n_ffe9ae1b7d",
+      "id": "n_f87ceae96c",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: USB-Bluetooth-Adapter von TP-Link für bis zu 7 Geräte zum Jahresbestpreis",
-      "summary": "Bluetooth für den PC nachrüsten: Der TP-Link UB500 verbindet bis zu sieben Geräte gleichzeitig. Bei Amazon kostet der USB-Adapter jetzt unter 7 Euro. (TP-Link, Amazon)",
+      "headline": "Square Enix: Evercold macht Final Fantasy 14 fast zu einem neuen Spiel",
+      "summary": "Zwei Kampfsysteme, ein neues Ausrüstungssystem und weniger tägliche Pflichten: Square Enix baut sein Onlinerollenspiel mit Evercold um. Ein Bericht von Peter Steinlechner (Final Fantasy, MMORPG)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-usb-bluetooth-adapter-von-tp-link-fuer-bis-zu-7-geraete-zum-jahresbestpreis-2610-214706.html",
-      "publishedAt": "2026-10-30T18:10:02.000Z"
+      "url": "https://www.golem.de/news/square-enix-evercold-macht-final-fantasy-14-fast-zu-einem-neuen-spiel-2610-214713.html",
+      "publishedAt": "2026-10-31T11:45:02.000Z"
     },
     {
-      "id": "n_db7755d86b",
+      "id": "n_778ca91d00",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Mähroboter von Navimow war bei Amazon nie günstiger",
-      "summary": "Es mag nicht die Hauptsaison für Mähroboter sein, doch die Gelegenheit für ein Schnäppchen ist gut. Ein beliebtes Modell von Navimow war bei Amazon nie günstiger. (Mähroboter, Segway)",
+      "headline": "Phagentherapie: Start-up gibt Patient von KI entworfene Viren",
+      "summary": "Radical Numerics hat nach eigenen Angaben erstmals von KI entworfene Phagen verabreicht. Ob die Therapie wirkt, ist offen. (KI, Innovation)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-maehroboter-von-navimow-war-bei-amazon-nie-guenstiger-2610-214703.html",
-      "publishedAt": "2026-10-30T17:50:02.000Z"
+      "url": "https://www.golem.de/news/phagentherapie-start-up-gibt-patient-von-ki-entworfene-viren-2610-214711.html",
+      "publishedAt": "2026-10-31T11:20:01.000Z"
     },
     {
-      "id": "n_2ec54ff601",
+      "id": "n_763a99da66",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-      "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+      "headline": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "summary": "Many residents left Oleshky on Friday following a ceasefire brokered by US First Lady Melania Trump.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T08:49:35.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T15:50:41.000Z"
+    },
+    {
+      "id": "n_3d21f51d37",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T15:16:20.000Z"
+    },
+    {
+      "id": "n_93f7b4ba33",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Ethiopian PM puts ministers through military training",
+      "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T14:28:15.000Z"
+    },
+    {
+      "id": "n_cd7f597628",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: Blood donors get a Halloween fright in Thailand",
+      "summary": "Thai Red Cross workers dressed up as part of a Halloween-themed blood drive in the country's capital Bangkok.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cmze42el49d9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T12:50:45.000Z"
+    },
+    {
+      "id": "n_008e0f544c",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US approves sale of 500 Patriot missiles to Ukraine",
+      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T12:21:25.000Z"
+    },
+    {
+      "id": "n_5c635865d0",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "CCTV and zip ties: How US mail-in votes are secured and counted",
+      "summary": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T09:16:14.000Z"
     },
     {
       "id": "n_fe78595c0b",
@@ -299,59 +354,15 @@
       "publishedAt": "2026-10-31T04:32:07.000Z"
     },
     {
-      "id": "n_51621e23f1",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
-      "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T02:39:25.000Z"
-    },
-    {
       "id": "n_a2f2839074",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
       "headline": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
       "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-31T02:12:19.000Z"
-    },
-    {
-      "id": "n_25d49323b8",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "The Indian chef who brought curry to America - then vanished",
-      "summary": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T02:02:16.000Z"
-    },
-    {
-      "id": "n_3a1e46fd30",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Responsible or panicked? Meet the people around the world already preparing for crisis",
-      "summary": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T01:32:33.000Z"
-    },
-    {
-      "id": "n_b2887bbff8",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Global nature talks reach deal but money remains an issue",
-      "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T01:27:05.000Z"
     },
     {
       "id": "n_d6f468599e",
@@ -431,6 +442,28 @@
       "publishedAt": "2026-10-29T09:31:44.000Z"
     },
     {
+      "id": "n_e58df0c82c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Seabirds racing home over the ocean can get jet-lagged",
+      "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+      "publishedAt": "2026-10-31T11:15:26.000Z"
+    },
+    {
+      "id": "n_58f1874bf5",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+      "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+      "publishedAt": "2026-10-31T11:02:34.000Z"
+    },
+    {
       "id": "n_e7a0d7ebff",
       "type": "news",
       "topic": "tech",
@@ -497,26 +530,15 @@
       "publishedAt": "2026-10-30T20:40:13.000Z"
     },
     {
-      "id": "n_a222d0a212",
+      "id": "n_344dcf7974",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
-      "summary": "Faked symptoms still point to infections that antibiotics don't treat.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
-      "publishedAt": "2026-10-30T20:17:50.000Z"
-    },
-    {
-      "id": "n_538ea1326a",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Basically no one is using AI agents for their DoorDash orders",
-      "summary": "But it's still early days for the relatively new e-commerce use case.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-      "publishedAt": "2026-10-30T19:30:52.000Z"
+      "headline": "OpenAI reportedly lowers funding target for new round",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "publishedAt": "2026-10-31T16:12:55.000Z"
     },
     {
       "id": "n_6336aff37e",
@@ -596,15 +618,15 @@
       "publishedAt": "2026-10-30T17:47:12.000Z"
     },
     {
-      "id": "n_135f70cd39",
+      "id": "n_ed0268fa6e",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Google’s first data center satellite is online and writing poetry",
-      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "publishedAt": "2026-10-30T17:00:00.000Z"
+      "headline": "I built an AI Tamagotchi before Meta could",
+      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It c",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "publishedAt": "2026-10-31T16:05:00.000Z"
     },
     {
       "id": "n_011fdc062b",
@@ -682,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
       "publishedAt": "2026-10-30T13:11:05.000Z"
-    },
-    {
-      "id": "n_5cfbd02556",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-      "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the com",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-      "publishedAt": "2026-10-30T13:01:14.000Z"
     },
     {
       "id": "n_f863128399",
@@ -783,6 +794,39 @@
       "publishedAt": "2026-10-22T18:48:04.000Z"
     },
     {
+      "id": "n_bc2326c848",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "publishedAt": "2026-10-31T12:00:00.000Z"
+    },
+    {
+      "id": "n_2ec3abacf2",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "publishedAt": "2026-10-31T10:30:00.000Z"
+    },
+    {
+      "id": "n_44be6d9cd9",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "publishedAt": "2026-10-31T10:00:00.000Z"
+    },
+    {
       "id": "n_a7904f9e10",
       "type": "news",
       "topic": "ai",
@@ -836,39 +880,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
       "publishedAt": "2026-10-29T10:00:00.000Z"
-    },
-    {
-      "id": "n_e71c51112f",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
-      "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
-      "publishedAt": "2026-10-28T18:30:00.000Z"
-    },
-    {
-      "id": "n_ec6b9e6548",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-      "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-      "publishedAt": "2026-10-28T10:15:00.000Z"
-    },
-    {
-      "id": "n_f53a8961cc",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-      "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-      "publishedAt": "2026-10-28T08:30:00.000Z"
     },
     {
       "id": "n_b2263e9f84",
