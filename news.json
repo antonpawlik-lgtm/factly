@@ -1,38 +1,82 @@
 {
-  "generatedAt": "2026-10-31T02:58:01.663Z",
+  "generatedAt": "2026-10-31T09:13:16.008Z",
   "items": [
+    {
+      "id": "n_7c3a4b24db",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Arabische Parteien in Israel stecken in einem Dilemma",
+      "summary": "Die arabischen Listen in Israel haben bei der Parlamentswahl große Erfolge erzielt. Sie traten gemeinsam an, unterscheiden sich aber inhaltlich. Vor allem wollen sie nicht nur Mehrheitsbeschaffer sein. Von Julia Segador.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-arabische-parteien-100.html",
+      "publishedAt": "2026-10-31T08:49:15.000Z"
+    },
     {
       "id": "n_26ae9e13ce",
       "type": "news",
       "topic": "general",
       "lang": "de",
       "headline": "Polen: Tumult und Protest vor dem Verfassungsgericht",
-      "summary": "Der Machtkampf um das polnische Verfassungsgericht spitzt sich zu. Die Polizei umstellte das Gebäude, nachdem sich Protestierende dort versammelt hatten. Auslöser ist die mutmaßliche Suspendierung der bisherigen Gerichtsführung.",
+      "summary": "Der Machtkampf um das polnische Verfassungsgericht spitzt sich zu. Die Polizei sicherte das Gebäude ab, nachdem sich Protestierende dort versammelt hatten. Auslöser ist die mutmaßliche Suspendierung der bisherigen Gerichtsführung.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-streit-100.html",
-      "publishedAt": "2026-10-31T01:03:28.000Z"
+      "publishedAt": "2026-10-31T08:25:36.000Z"
     },
     {
-      "id": "n_d0f56310f4",
+      "id": "n_bfef9a2eb1",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "US-Regierung genehmigt Patriot-Lieferungen an Ukraine",
-      "summary": "Um sich gegen russische Angriffe zur Wehr zu setzen, ist die Ukraine vor allem auf US-Waffenlieferungen angewiesen. Diese kamen zuletzt ins Stocken. Bei einer Lieferung hat das US-Außenministerium nun grünes Licht gegeben.",
+      "headline": "KI bei der Geldanlage: Wie sicher sind ChatGPT-Anlagetipps?",
+      "summary": "Immer mehr Menschen holen sich bei der Geldanlage Rat von ChatGPT oder Claude. Experten sehen in den KI-Anlagetipps durchaus Potenzial, warnen aber auch vor Fehlern und Risiken. Von Angela Göpfert.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html",
-      "publishedAt": "2026-10-30T23:56:24.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html",
+      "publishedAt": "2026-10-31T07:45:19.000Z"
     },
     {
-      "id": "n_4b49cd6429",
+      "id": "n_e056238871",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Binance will alle Verluste nach Hackerangriff ersetzen",
-      "summary": "Nach einem Hackerangriff mit einem Schaden von 6,3 Milliarden Dollar will Binance alle Verluste ersetzen. Der Fall zeigt, wie verwundbar Kryptowerte sind, und wirft Fragen zur Sicherheit digitaler Anlagen auf.",
+      "headline": "Die Linke in Berlin: Aus dem Trubel in die Koalition?",
+      "summary": "Die Berliner Linke entscheidet heute über den Start von Koalitionsverhandlungen mit SPD und Grünen. Überschattet wird der Parteitag von Antisemitismusvorwürfen und einem Spiegel-Bericht. Von Frank Aischmann.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/usa-binance-hackerangriff-verluste-100.html",
-      "publishedAt": "2026-10-30T20:21:33.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-parteitag-eralp-100.html",
+      "publishedAt": "2026-10-31T07:43:12.000Z"
+    },
+    {
+      "id": "n_d2f1814116",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Einigung bei der UN-Biodiversitätskonferenz erzielt",
+      "summary": "Wie kann die Artenvielfalt geschützt werden? Darüber wurde bei der UN-Biodiversitätskonferenz intensiv verhandelt. Am Ende gab es in Armenien eine Einigung - wenn auch keine besonders ambitionierte.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/biodiversitaet-cop-armenien-100.html",
+      "publishedAt": "2026-10-31T07:09:41.000Z"
+    },
+    {
+      "id": "n_27b12e5897",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Jugendproteste in mehr als 30 Städten geplant",
+      "summary": "Wachsende Unzufriedenheit und Zukunftsängste: Die GenZ protestiert bundesweit für bessere Bildung, Klimaschutz und mehr politische Teilhabe. In mehr als 30 Städten sind Demonstrationen angekündigt. Von Jan Koch.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-112.html",
+      "publishedAt": "2026-10-31T04:52:31.000Z"
+    },
+    {
+      "id": "n_187a4befeb",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Frust bei US-Farmern könnte Trump Stimmen bei den Midterms kosten",
+      "summary": "Landwirte gelten als wichtige Wählergruppe der US-Republikaner. Doch steigende Kosten und eine unberechenbare Zollpolitik sorgen für Frust. Das könnte bei den Zwischenwahlen zum Stresstest für die Trump-Regierung werden. Von S. Jackisch.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-landwirtschaft-100.html",
+      "publishedAt": "2026-10-31T04:52:21.000Z"
     },
     {
       "id": "n_c98f9d9a4b",
@@ -43,51 +87,7 @@
       "summary": "Die EU und Kanada gründen in Montreal eine \"Allianz für die Zukunft\". Ziel ist mehr Unabhängigkeit und eine engere Zusammenarbeit von KI bis Raumfahrt. Auch die Ukraine spielt eine Rolle.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/kanada-eu-allianz-zukunft-100.html",
-      "publishedAt": "2026-10-30T18:59:17.000Z"
-    },
-    {
-      "id": "n_fa4108600c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "USA: Bereitet Newsom eine Präsidentschaftskandidatur vor?",
-      "summary": "Der Wahlkampf in den USA ist für Politiker auch eine Gelegenheit, sich zu positionieren - für die Präsidentschaftswahl 2028. Kaliforniens Gouverneur Newsom werden Ambitionen nachgesagt - doch es gibt viele Vorbehalte. Von R. Spiegelhauer.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-newsom-ambitionen-100.html",
-      "publishedAt": "2026-10-30T18:46:53.000Z"
-    },
-    {
-      "id": "n_ca44c71a37",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Zelda, WoW und GTA VI: Warum die Games noch immer faszinieren",
-      "summary": "Zelda, WoW und GTA: Der November bietet für Gamer gleich drei neu aufgelegte Videospiel-Klassiker. Warum lösen die jahrzehntealten Game-Reihen noch immer solche Begeisterung aus? Von Samira Straub",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kultur/videospiel-klassiker-100.html",
-      "publishedAt": "2026-10-30T18:27:55.000Z"
-    },
-    {
-      "id": "n_0b8934a8d7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Remscheider Waffenprozess: Illegaler Waffensammler zu Haftstrafe verurteilt",
-      "summary": "300 scharfe Waffen, 100.000 Schuss Munition und das alles in einem Wohngebiet - es war einer größten Waffenfunde in Deutschland. Für seine illegale Sammlung ist ein Mann aus Remscheid nun zu sechseinhalb Jahren Haft verurteilt worden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/waffenfund-remscheid-urteil-100.html",
-      "publishedAt": "2026-10-30T17:45:00.000Z"
-    },
-    {
-      "id": "n_6f6b90cc5c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Proteste gegen Meloni: Hunderttausende demonstrieren in Italien",
-      "summary": "Hohe Lebenshaltungskosten, steigende Rüstungsausgaben, zu wenig Investition in Bildung: In Italien sind Hunderttausende Menschen gegen die Politik der Regierung auf die Straße gegangen - begleitet von einem massiven Polizeiaufgebot.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html",
-      "publishedAt": "2026-10-30T17:23:20.000Z"
+      "publishedAt": "2026-10-31T03:57:32.000Z"
     },
     {
       "id": "n_5b0220c404",
@@ -178,6 +178,61 @@
       "publishedAt": "2026-10-30T06:01:00.000Z"
     },
     {
+      "id": "n_28f6271606",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "(g+) Chiplets und 3D-Stacking: Das Ende des monolithischen Chips",
+      "summary": "Kleinere Chips, schnellere Verbindungen, neue Fertigungsverfahren: Wie Chiplets und 3D-Stacking die Grenzen klassischer Prozessoren verschieben. Eine Analyse von Klaus Manhart (Post-Silicon, Prozessor)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/chiplets-und-3d-stacking-das-ende-des-monolithischen-chips-2610-214677.html",
+      "publishedAt": "2026-10-31T09:07:01.000Z"
+    },
+    {
+      "id": "n_8e6a4a5032",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Defense Radar: Drohnen abschießen, ohne Menschen zu gefährden",
+      "summary": "Ein Laser der Bundeswehr soll Drohnen auf bis zu 3 km Entfernung abwehren. Was das System militärisch taugt, erklären wir in unserem Defense Radar auf Youtube. (Militär, Politik)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/defense-radar-drohnen-abschiessen-ohne-menschen-zu-gefaehrden-2610-214687.html",
+      "publishedAt": "2026-10-31T08:35:02.000Z"
+    },
+    {
+      "id": "n_132b6fe28b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Drohnenkrieg in der Ukraine: Roboter sollen Abfangdrohnen an die Front bringen",
+      "summary": "Die Ukraine baut Drohnen, die von unbemannten Bodenfahrzeugen aus starten und feindliche Flugziele bekämpfen sollen. (Drohne, Politik)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/drohnenkrieg-in-der-ukraine-roboter-sollen-abfangdrohnen-an-die-front-bringen-2610-214688.html",
+      "publishedAt": "2026-10-31T07:17:01.000Z"
+    },
+    {
+      "id": "n_d35bb6eab4",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Stromnetzschwankung: Periodische Leistungsspitze im Netz hat dezentrale Ursache",
+      "summary": "Seit Jahren gibt es alle 60 Sekunden eine Spitze im europäischen Strombedarf. Im Reallabor in Jülich ist die Ursache gefunden worden. (Strom, KI)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/stromnetzschwankung-periodische-leistungsspitze-im-netz-hat-dezentrale-ursache-2610-214694.html",
+      "publishedAt": "2026-10-31T06:45:01.000Z"
+    },
+    {
+      "id": "n_398b7eef50",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Halloween 2026: Abseits der Blockbuster wird es richtig unheimlich",
+      "summary": "Ungewöhnliche Horrorideen aus der Indiegames-Szene: Hellraiser wird spielbar, ein Vampir-Adventure erinnert an Bloodlines und in Graveyard Keeper 2 werden Zombies zu Arbeitskräften. Von Rainer Sigl (Indiegames, Spiele)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/halloween-2026-abseits-der-blockbuster-wird-es-richtig-unheimlich-2610-214316.html",
+      "publishedAt": "2026-10-31T06:30:01.000Z"
+    },
+    {
       "id": "n_4031dd8228",
       "type": "news",
       "topic": "tech",
@@ -211,59 +266,37 @@
       "publishedAt": "2026-10-30T17:50:02.000Z"
     },
     {
-      "id": "n_2b353c47d9",
+      "id": "n_2ec54ff601",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: KI-gestützte Entwicklungsabläufe mit Claude Code steuern",
-      "summary": "Claude Code braucht klare Vorgaben und überprüfbare Ergebnisse. Ein dreitägiger Workshop vermittelt Spezifikationen, Context Engineering und automatisierte Prüfungen. (Golem Karrierewelt, Programmiersprachen)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-ki-gestuetzte-entwicklungsablaeufe-mit-claude-code-steuern-2610-214658.html",
-      "publishedAt": "2026-10-30T17:45:06.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+      "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T08:49:35.000Z"
     },
     {
-      "id": "n_bce5851ca7",
+      "id": "n_fe78595c0b",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Tripo.ai und Meshy: KIs für 3D-Modelle schotten sich nach Milliardenbewertung ab",
-      "summary": "Kostenlos 3D-Modelle entwerfen, ohne sich in komplexe Programme einzuarbeiten. Das war bei Tripo.ai und Meshy möglich - vor ihrer Milliardenbewertung. Ein Erfahrungsbericht von Achim Sawall (DIY - Do it yourself, KI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/tripo-ai-und-meshy-kis-fuer-3d-modelle-schotten-sich-nach-milliardenbewertung-ab-2610-214705.html",
-      "publishedAt": "2026-10-30T17:45:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Spain train disaster clouds Sánchez chances of re-election",
+      "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T05:44:21.000Z"
     },
     {
-      "id": "n_a3a33fec7c",
+      "id": "n_27b50d1672",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "(g+) Künstliche Intelligenz: Anthropic und das Rätsel der drei fehlenden Zahlen",
-      "summary": "Drei entscheidende Zahlen fehlen im Börsenprospekt von Anthropic. Die Financial Times erklärt, was sie über das Unternehmen und den KI-Boom verraten würden. Von Richard Waters (Anthropic, Wirtschaft)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/kuenstliche-intelligenz-anthropic-und-das-raetsel-der-drei-fehlenden-zahlen-2610-214704.html",
-      "publishedAt": "2026-10-30T17:03:01.000Z"
-    },
-    {
-      "id": "n_30b6ac2a2a",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: 16 Zoll großer Portable Monitor mit 2,5-K-Auflösung für unter 128 Euro bei Amazon",
-      "summary": "Der Arzopa Z1RC bietet 16 Zoll, 2.560 x 1.600 Pixel und einen ausklappbaren Standfuß. Im Amazon-Angebot kostet der Portable Monitor keine 128 Euro. (TV & Monitore, Display)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-16-zoll-grosser-portable-monitor-mit-2-5-k-aufloesung-fuer-unter-128-euro-bei-amazon-2610-214702.html",
-      "publishedAt": "2026-10-30T16:46:02.000Z"
-    },
-    {
-      "id": "n_37a6c011e5",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "August Hanning: US-Geheimdienste wollen Kooperation mit BND überprüfen",
-      "summary": "Nach der Festnahme des früheren BND-Chefs August Hanning haben sich US-Geheimdienstler bei ihren deutschen Kollegen gemeldet - mit einer Warnung. (Geheimdienste, Politik)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/august-hanning-us-geheimdienste-wollen-kooperation-mit-bnd-ueberpruefen-2610-214701.html",
-      "publishedAt": "2026-10-30T16:30:05.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Suited and booted: How Joseph Kabila went from president to rebel leader",
+      "summary": "What does Joseph Kabila launching a new rebel movement mean for DR Congo?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T04:32:07.000Z"
     },
     {
       "id": "n_51621e23f1",
@@ -319,39 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-31T01:27:05.000Z"
-    },
-    {
-      "id": "n_2983ac9f31",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Police deployed during stand-off over control of top Poland court",
-      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T01:11:43.000Z"
-    },
-    {
-      "id": "n_008e0f544c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US approves sale of 500 Patriot missiles to Ukraine",
-      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T00:40:43.000Z"
-    },
-    {
-      "id": "n_9513d13293",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "summary": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T00:29:58.000Z"
     },
     {
       "id": "n_d6f468599e",
@@ -957,6 +957,174 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/torch-neuronx-model-support",
       "publishedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "n_ce14acab8d",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "OpenAI Claims It Just Did The Impossible",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
+      "thumbnail": "https://i.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg",
+      "publishedAt": "2026-10-30T15:57:16.000Z"
+    },
+    {
+      "id": "n_c66d1bea7b",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DeepSeek's New AI Is An Absolute Monster",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
+      "thumbnail": "https://i.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
+      "publishedAt": "2026-10-28T17:32:40.000Z"
+    },
+    {
+      "id": "n_5565a81df6",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Gemini 4 Argon Is Not What I Expected",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+      "thumbnail": "https://i.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
+      "publishedAt": "2026-10-19T08:49:21.000Z"
+    },
+    {
+      "id": "n_3c1e366833",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "OpenAI’s New AI Is Doing Things We Barely Understand",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
+      "thumbnail": "https://i.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
+      "publishedAt": "2026-10-13T08:56:12.000Z"
+    },
+    {
+      "id": "n_3f3a8c8623",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
+      "thumbnail": "https://i.ytimg.com/vi/ZAzWPE9CItg/hqdefault.jpg",
+      "publishedAt": "2026-10-26T22:51:51.000Z"
+    },
+    {
+      "id": "n_fb6a439eff",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
+      "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
+      "publishedAt": "2026-10-13T21:26:16.000Z"
+    },
+    {
+      "id": "n_c21d60498a",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
+      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
+      "publishedAt": "2026-09-17T00:34:47.000Z"
+    },
+    {
+      "id": "n_ffdb3dfd14",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
+      "publishedAt": "2026-08-26T21:44:41.000Z"
+    },
+    {
+      "id": "n_9c145faf00",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Did the AI bubble just pop?",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=nEaJMdM1djM",
+      "thumbnail": "https://i.ytimg.com/vi/nEaJMdM1djM/hqdefault.jpg",
+      "publishedAt": "2026-10-28T13:31:29.000Z"
+    },
+    {
+      "id": "n_94fd9875fe",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "China just dropped a new frontier model... and nobody can explain how",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=G_em1hHPnXY",
+      "thumbnail": "https://i.ytimg.com/vi/G_em1hHPnXY/hqdefault.jpg",
+      "publishedAt": "2026-10-26T18:55:29.000Z"
+    },
+    {
+      "id": "n_f3c8faa918",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The most vulnerable week in internet history...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=SMGg7iisHmc",
+      "thumbnail": "https://i.ytimg.com/vi/SMGg7iisHmc/hqdefault.jpg",
+      "publishedAt": "2026-10-23T18:19:58.000Z"
+    },
+    {
+      "id": "n_dba4be3004",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The last real programmers are dying out...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=zv6B6PQOuHE",
+      "thumbnail": "https://i.ytimg.com/vi/zv6B6PQOuHE/hqdefault.jpg",
+      "publishedAt": "2026-10-22T15:09:31.000Z"
+    },
+    {
+      "id": "n_342584f266",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Macbook PROLED XDR Impressions: They Said They Wouldn't!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=2reQut8WNGc",
+      "thumbnail": "https://i.ytimg.com/vi/2reQut8WNGc/hqdefault.jpg",
+      "publishedAt": "2026-10-29T02:50:34.000Z"
+    },
+    {
+      "id": "n_251908ef4e",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "iPhone Duo Review: First Generation Fun!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=ESABTN4VtrA",
+      "thumbnail": "https://i.ytimg.com/vi/ESABTN4VtrA/hqdefault.jpg",
+      "publishedAt": "2026-10-21T12:00:52.000Z"
     }
   ]
 }
