@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-11-01T02:53:06.151Z",
+  "generatedAt": "2026-11-01T09:50:54.400Z",
   "items": [
+    {
+      "id": "n_de05382a23",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt",
+      "summary": "In vielen europäischen Ländern gehen momentan junge Menschen auf die Straße - auch in Portugal. Dort richten sich die Demonstrationen vor allem gegen die Wohnungsnot. Die Polizei ging hart gegen ein Protestcamp in Lissabon vor.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/portugal-protest-100.html",
+      "publishedAt": "2026-11-01T09:46:44.000Z"
+    },
+    {
+      "id": "n_6d18336abc",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "\"Gen Z regelt\" will Demos fortsetzen",
+      "summary": "Das Fazit der Organisatoren der \"Gen Z regelt\"-Proteste fällt positiv aus - trotz der vereinzelten Gewalt. Man habe keinen Einfluss darauf, was nach Ende der Demos passiere, sagte ein Sprecher. Der Protest soll bald weitergehen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
+      "publishedAt": "2026-11-01T09:45:30.000Z"
+    },
+    {
+      "id": "n_1521b46c50",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ukraine: Zehn Tage gegen den Krieg im Kopf",
+      "summary": "In den ukrainischen Karpaten versuchen Soldatinnen und Soldaten, für ein paar Tage Abstand vom Krieg zu gewinnen. Doch die Erinnerungen lassen sich nicht einfach abschütteln. Von Susanne Petersohn.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-erholung-soldaten-100.html",
+      "publishedAt": "2026-11-01T08:43:57.000Z"
+    },
+    {
+      "id": "n_10c3073fc6",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Microcars boomen - aber wie sicher sind sie?",
+      "summary": "Sie sehen aus wie Kleinwagen, sind aber keine: Microcars sind maximal 45 km/h schnell und dürfen in Deutschland schon ab 15 Jahren gefahren werden. Wie sicher sind die beliebten Mini-Autos? Von Hermann Scholz.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/microcars-sicherheit-100.html",
+      "publishedAt": "2026-11-01T08:41:59.000Z"
+    },
+    {
+      "id": "n_71a37424b5",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Steinmeier zu KI: \"Nicht das Ob steht zur Frage, sondern das Wie\"",
+      "summary": "Zum Abschluss seiner China-Reise hat Bundespräsident Steinmeier vor den Risiken Künstlicher Intelligenz für die Demokratie gewarnt. Über Fortschritte im Handelskonflikt zwischen Europa und China äußerte er sich vorsichtig optimistisch. Von D. Hebestreit und M. Deiß.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-ki-100.html",
+      "publishedAt": "2026-11-01T08:01:11.000Z"
+    },
+    {
+      "id": "n_5d625188c2",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wie KI Entwicklung und Alltag verändert - kreativ auf Knopfdruck?",
+      "summary": "Ob bei der Entwicklung neuer Produkte, in der Werbung oder bei der Gestaltung des eigenen Zuhauses: KI ist im Alltag angekommen. Sie spart oft Zeit, wirft aber auch Fragen nach Kreativität, Arbeitsplätzen und Vertrauen auf. Von Anke Heinhaus.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/technologie/ki-veraenderung-wirtschaft-alltag-100.html",
+      "publishedAt": "2026-11-01T08:00:49.000Z"
+    },
+    {
+      "id": "n_838d51391a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bunte \"Tag der Toten\"-Parade zieht durch Mexiko-Stadt",
+      "summary": "Schaurige Skelette, elegante Catrinas: In Mexiko-Stadt hat zum zehnten Mal eine Parade zum \"Tag der Toten\" stattgefunden. Das farbenfrohe Schauspiel geht auf einen Bond-Film zurück, die Traditionen dahinter sind viel älter.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/mexiko-feierlichkeiten-november-100.html",
+      "publishedAt": "2026-11-01T07:57:56.000Z"
+    },
     {
       "id": "n_e45576fe91",
       "type": "news",
@@ -10,84 +87,7 @@
       "summary": "Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten. Sie hatten sich offenbar teils gezielt unter die Demos gemischt.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
-      "publishedAt": "2026-11-01T02:32:36.000Z"
-    },
-    {
-      "id": "n_f5d120ab61",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich",
-      "summary": "Laut Experten war es der bisher größte Hackerangriff auf eine Börse für Digitalwährungen. Am Donnerstag war er bekannt geworden - und schnell geriet Nordkorea ins Visier. Nun macht auch das FBI nordkoreanische Hacker dafür verantwortlich.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html",
-      "publishedAt": "2026-11-01T02:06:07.000Z"
-    },
-    {
-      "id": "n_6d18336abc",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "\"Gen Z regelt\" will am 20. November wieder demonstrieren",
-      "summary": "Man habe keinen Einfluss darauf, was nach Ende der Demos passiere, sagte ein \"Gen Z\"-Sprecher. Von Gewalt hatte sich die Initiative stets distanziert. Ihr Fazit der Jugendproteste fällt positiv aus. Am 20. November will sie erneut demonstrieren.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
-      "publishedAt": "2026-11-01T01:44:46.000Z"
-    },
-    {
-      "id": "n_fa8f5e48f2",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Erneut Proteste und Zusammenstöße in Frankreich",
-      "summary": "Am dritten Samstag in Folge haben in Frankreich Hunderttausende Menschen protestiert - erst friedlich, doch am Ende kam es wieder zu Zusammenstößen mit der Polizei. Die bleibt auch nach Ende der Protestzüge in Alarmbereitschaft. Von J. Borutta.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html",
-      "publishedAt": "2026-10-31T22:32:55.000Z"
-    },
-    {
-      "id": "n_61ed762265",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Weitgehend friedlich - in einigen Städten Ausschreitungen",
-      "summary": "Bessere Bildung, mehr Klimaschutz und bezahlbarer Wohnraum - dafür sind Zehntausende in vielen deutschen Städten auf die Straße gezogen. Die Proteste der \"Gen Z regelt\" blieben weitgehend friedlich. Doch am Abend kam es zu einigen Ausschreitungen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-102.html",
-      "publishedAt": "2026-10-31T20:33:42.000Z"
-    },
-    {
-      "id": "n_3221bb4be4",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Der Kampf um das polnische Verfassungsgericht eskaliert",
-      "summary": "Nach der Absetzung der bisherigen Gerichtsspitze eskaliert der Streit über Polens Verfassungsgericht: Regierung und Opposition werfen sich gegenseitig vor, die Justiz zu gefährden. Vor dem Gebäude gab es erneut Proteste.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-100.html",
-      "publishedAt": "2026-10-31T20:11:14.000Z"
-    },
-    {
-      "id": "n_f9f7e5bb79",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Linkspartei: Eralp rechnet mit Zustimmung zu Koalitionsgesprächen",
-      "summary": "In Berlin läuft der Parteitag der Linkspartei. Fraktionschefin Eralp verteidigte das Sondierungspapier mit Grünen sowie SPD und warb für Koalitionsverhandlungen. Sie äußerte sich auch zur umstrittenen Abgeordneten Emde.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/berlin/berlin-linkspartei-eralp-koalitionsverhandlungen-100.html",
-      "publishedAt": "2026-10-31T19:39:40.000Z"
-    },
-    {
-      "id": "n_823a6e023e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Midterms in den USA: Kippt ausgerechnet Texas?",
-      "summary": "In Texas könnte bei den Zwischenwahlen am Dienstag ein Demokrat das Rennen um den Sitz im US-Senat für sich entscheiden. Dabei gewinnen in dem Bundesstaat seit Jahrzehnten verlässlich die Republikaner. Welche Themen beschäftigen die Wähler? Von S. Schmidt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html",
-      "publishedAt": "2026-10-31T18:05:02.000Z"
+      "publishedAt": "2026-11-01T07:47:42.000Z"
     },
     {
       "id": "n_68ea10a4b6",
@@ -178,6 +178,50 @@
       "publishedAt": "2026-10-30T11:21:00.000Z"
     },
     {
+      "id": "n_f58576c5b6",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Tragbarer Bluetooth-Lautsprecher Bose SoundLink Flex SE jetzt reduziert bei Amazon",
+      "summary": "Der Bose SoundLink Flex SE übersteht Regen und Stürze, hält bis zu 12 Stunden durch und ist so günstig wie seit Mitte August nicht mehr. (Technik/Hardware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-tragbarer-bluetooth-lautsprecher-bose-soundlink-flex-se-jetzt-reduziert-bei-amazon-2611-214697.html",
+      "publishedAt": "2026-11-01T09:40:02.000Z"
+    },
+    {
+      "id": "n_9497d8e85f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "(g+) Scheinselbstständigkeit: Warum Dailys, Tickets und Kundenlaptop für IT-Freelancer riskant sind",
+      "summary": "Selbst mit GmbH und sauberem Vertrag können IT-Freelancer als Beschäftigte gelten. Entscheidend ist der Projektalltag. Und der kann Aufträge kosten. Ein Ratgebertext von Pierre Wilken (IT-Freelancer, Wirtschaft)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/scheinselbststaendigkeit-warum-dailys-tickets-und-kundenlaptop-fuer-it-freelancer-riskant-sind-2611-214700.html",
+      "publishedAt": "2026-11-01T09:00:02.000Z"
+    },
+    {
+      "id": "n_51aa7a92bb",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Star-Trek-Jubiläumsjahr: Captain Janeway und die autonomen Autos",
+      "summary": "Eine Entscheidung aus Star Trek: Voyager sorgt bis heute für Fan-Diskussionen. Dahinter steckt ein moralisches Problem, das ganz schön aktuell ist. Von Emanuel Kessler (Star Trek, Unterhaltung & Hobby)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/star-trek-jubilaeumsjahr-captain-janeway-und-die-autonomen-autos-2611-214692.html",
+      "publishedAt": "2026-11-01T06:30:02.000Z"
+    },
+    {
+      "id": "n_45a435fc2b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Sechs IT-Jobs in Security, Administration und Entwicklung",
+      "summary": "Von Java und IT-Security bis SAP Analytics und Systemadministration: Sechs neue IT-Jobs bieten spannende Aufgaben und Perspektiven. (Golem Karrierewelt, Unternehmenssoftware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-sechs-it-jobs-in-security-administration-und-entwicklung-2611-214544.html",
+      "publishedAt": "2026-11-01T06:00:02.000Z"
+    },
+    {
       "id": "n_e97b15d24e",
       "type": "news",
       "topic": "tech",
@@ -222,48 +266,15 @@
       "publishedAt": "2026-10-31T13:09:02.000Z"
     },
     {
-      "id": "n_c9767a9c67",
+      "id": "n_641fcec3e1",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Das Recht, selbst zu denken: KI-Verweigerer erhält religiöse Ausnahme",
-      "summary": "Ein Angestellter aus Kentucky will aus religiösen Gründen sein Denken nicht an KI auslagern. Sein Arbeitgeber macht eine Ausnahme. (KI, Rechenzentrum)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/das-recht-selbst-zu-denken-ki-verweigerer-erhaelt-religioese-ausnahme-2610-214708.html",
-      "publishedAt": "2026-10-31T12:30:02.000Z"
-    },
-    {
-      "id": "n_77b3358b6a",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Foldable: Samsung lästert in Werbung über iPhone Duos Displayfehler",
-      "summary": "Schon nach der Veröffentlichung des iPhone Duos hat Samsung auf die eigene Expertise verwiesen. Nach den Problemen kennt die Schadenfreude keine Grenzen mehr. (iPhone Duo, Smartphone)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/foldable-samsung-laestert-in-werbung-ueber-iphone-duos-displayfehler-2610-214716.html",
-      "publishedAt": "2026-10-31T12:08:01.000Z"
-    },
-    {
-      "id": "n_f87ceae96c",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Square Enix: Evercold macht Final Fantasy 14 fast zu einem neuen Spiel",
-      "summary": "Zwei Kampfsysteme, ein neues Ausrüstungssystem und weniger tägliche Pflichten: Square Enix baut sein Onlinerollenspiel mit Evercold um. Ein Bericht von Peter Steinlechner (Final Fantasy, MMORPG)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/square-enix-evercold-macht-final-fantasy-14-fast-zu-einem-neuen-spiel-2610-214713.html",
-      "publishedAt": "2026-10-31T11:45:02.000Z"
-    },
-    {
-      "id": "n_778ca91d00",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Phagentherapie: Start-up gibt Patient von KI entworfene Viren",
-      "summary": "Radical Numerics hat nach eigenen Angaben erstmals von KI entworfene Phagen verabreicht. Ob die Therapie wirkt, ist offen. (KI, Innovation)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/phagentherapie-start-up-gibt-patient-von-ki-entworfene-viren-2610-214711.html",
-      "publishedAt": "2026-10-31T11:20:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T09:28:06.000Z"
     },
     {
       "id": "n_de77300dcc",
@@ -271,10 +282,54 @@
       "topic": "general",
       "lang": "en",
       "headline": "Shops looted as German cost of living protests turn violent",
-      "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
+      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-01T01:59:57.000Z"
+      "publishedAt": "2026-11-01T08:43:00.000Z"
+    },
+    {
+      "id": "n_8fa2de3423",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "India's opposition holds mega rally seeking election chief's resignation",
+      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T07:00:55.000Z"
+    },
+    {
+      "id": "n_5091dd7a10",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+      "summary": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T06:03:57.000Z"
+    },
+    {
+      "id": "n_63401d8237",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+      "summary": "The supermodel and TV host provided a gory new shock at her New York event.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T05:26:02.000Z"
+    },
+    {
+      "id": "n_cc1971927f",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T01:37:26.000Z"
     },
     {
       "id": "n_385c23b64d",
@@ -288,17 +343,6 @@
       "publishedAt": "2026-11-01T00:55:06.000Z"
     },
     {
-      "id": "n_8fa2de3423",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "India's opposition set to hold mega rally seeking election chief's resignation",
-      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-01T00:12:07.000Z"
-    },
-    {
       "id": "n_5f84f1aafe",
       "type": "news",
       "topic": "general",
@@ -308,50 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-31T23:06:13.000Z"
-    },
-    {
-      "id": "n_641fcec3e1",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T22:11:45.000Z"
-    },
-    {
-      "id": "n_3ef1a8112a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Thousands demonstrate in Paris as protests spread across Europe",
-      "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T21:29:01.000Z"
-    },
-    {
-      "id": "n_c02cb42c8a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T19:22:26.000Z"
-    },
-    {
-      "id": "n_cc1971927f",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "These firms you've never heard of are feeding fears the AI bubble could burst",
-      "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-01T01:37:26.000Z"
     },
     {
       "id": "n_a2f2839074",
@@ -957,6 +957,174 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/torch-neuronx-model-support",
       "publishedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "n_ce14acab8d",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "OpenAI Claims It Just Did The Impossible",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
+      "thumbnail": "https://i.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg",
+      "publishedAt": "2026-10-30T15:57:16.000Z"
+    },
+    {
+      "id": "n_c66d1bea7b",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DeepSeek's New AI Is An Absolute Monster",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
+      "thumbnail": "https://i.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
+      "publishedAt": "2026-10-28T17:32:40.000Z"
+    },
+    {
+      "id": "n_5565a81df6",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Gemini 4 Argon Is Not What I Expected",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+      "thumbnail": "https://i.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
+      "publishedAt": "2026-10-19T08:49:21.000Z"
+    },
+    {
+      "id": "n_3c1e366833",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "OpenAI’s New AI Is Doing Things We Barely Understand",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
+      "thumbnail": "https://i.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
+      "publishedAt": "2026-10-13T08:56:12.000Z"
+    },
+    {
+      "id": "n_3f3a8c8623",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
+      "thumbnail": "https://i.ytimg.com/vi/ZAzWPE9CItg/hqdefault.jpg",
+      "publishedAt": "2026-10-26T22:51:51.000Z"
+    },
+    {
+      "id": "n_fb6a439eff",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
+      "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
+      "publishedAt": "2026-10-13T21:26:16.000Z"
+    },
+    {
+      "id": "n_c21d60498a",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
+      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
+      "publishedAt": "2026-09-17T00:34:47.000Z"
+    },
+    {
+      "id": "n_ffdb3dfd14",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
+      "publishedAt": "2026-08-26T21:44:41.000Z"
+    },
+    {
+      "id": "n_9c145faf00",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Did the AI bubble just pop?",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=nEaJMdM1djM",
+      "thumbnail": "https://i.ytimg.com/vi/nEaJMdM1djM/hqdefault.jpg",
+      "publishedAt": "2026-10-28T13:31:29.000Z"
+    },
+    {
+      "id": "n_94fd9875fe",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "China just dropped a new frontier model... and nobody can explain how",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=G_em1hHPnXY",
+      "thumbnail": "https://i.ytimg.com/vi/G_em1hHPnXY/hqdefault.jpg",
+      "publishedAt": "2026-10-26T18:55:29.000Z"
+    },
+    {
+      "id": "n_f3c8faa918",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The most vulnerable week in internet history...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=SMGg7iisHmc",
+      "thumbnail": "https://i.ytimg.com/vi/SMGg7iisHmc/hqdefault.jpg",
+      "publishedAt": "2026-10-23T18:19:58.000Z"
+    },
+    {
+      "id": "n_dba4be3004",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The last real programmers are dying out...",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=zv6B6PQOuHE",
+      "thumbnail": "https://i.ytimg.com/vi/zv6B6PQOuHE/hqdefault.jpg",
+      "publishedAt": "2026-10-22T15:09:31.000Z"
+    },
+    {
+      "id": "n_342584f266",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Macbook PROLED XDR Impressions: They Said They Wouldn't!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=2reQut8WNGc",
+      "thumbnail": "https://i.ytimg.com/vi/2reQut8WNGc/hqdefault.jpg",
+      "publishedAt": "2026-10-29T02:50:34.000Z"
+    },
+    {
+      "id": "n_251908ef4e",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "iPhone Duo Review: First Generation Fun!",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=ESABTN4VtrA",
+      "thumbnail": "https://i.ytimg.com/vi/ESABTN4VtrA/hqdefault.jpg",
+      "publishedAt": "2026-10-21T12:00:52.000Z"
     }
   ]
 }
