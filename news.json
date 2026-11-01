@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-10-31T23:49:35.156Z",
+  "generatedAt": "2026-11-01T02:53:06.151Z",
   "items": [
+    {
+      "id": "n_e45576fe91",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ausschreitungen am Abend nach friedlichen Protesten am Nachmittag",
+      "summary": "Bei den Protesten am Tag ging es um bessere Bildung oder die Wehrpflicht, Zehntausende demonstrierten friedlich. Am Abend übernahmen in einigen Städten dann Krawallmacher und Extremisten. Sie hatten sich offenbar teils gezielt unter die Demos gemischt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/ausschreitungen-frankfurt-koeln-100.html",
+      "publishedAt": "2026-11-01T02:32:36.000Z"
+    },
+    {
+      "id": "n_f5d120ab61",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich",
+      "summary": "Laut Experten war es der bisher größte Hackerangriff auf eine Börse für Digitalwährungen. Am Donnerstag war er bekannt geworden - und schnell geriet Nordkorea ins Visier. Nun macht auch das FBI nordkoreanische Hacker dafür verantwortlich.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html",
+      "publishedAt": "2026-11-01T02:06:07.000Z"
+    },
+    {
+      "id": "n_6d18336abc",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "\"Gen Z regelt\" will am 20. November wieder demonstrieren",
+      "summary": "Man habe keinen Einfluss darauf, was nach Ende der Demos passiere, sagte ein \"Gen Z\"-Sprecher. Von Gewalt hatte sich die Initiative stets distanziert. Ihr Fazit der Jugendproteste fällt positiv aus. Am 20. November will sie erneut demonstrieren.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-demos-bilanz-100.html",
+      "publishedAt": "2026-11-01T01:44:46.000Z"
+    },
     {
       "id": "n_fa8f5e48f2",
       "type": "news",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html",
       "publishedAt": "2026-10-31T18:05:02.000Z"
-    },
-    {
-      "id": "n_bf3b96c6e7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Berliner Linke stimmt für Aufnahme von Koalitionsverhandlungen mit Grünen und SPD",
-      "summary": "Sechs Wochen nach der Wahl in Berlin ist der Weg frei für rot-grün-rote Koalitionsverhandlungen: Nach Grünen und SPD stimmte nun auch der Parteitag der Linken dafür. Am Montag sollen die Gespräche beginnen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html",
-      "publishedAt": "2026-10-31T18:00:40.000Z"
-    },
-    {
-      "id": "n_222947e752",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Treffen in Atlanta: G20-Außenminister finden keine gemeinsame Sprache",
-      "summary": "Zwei Tage lang haben die G20-Außenminister in Atlanta über internationale Krisen beraten. Es ging dabei vor allem um die Folgen für die Weltwirtschaft. Überlagert wurde das Treffen von Spannungen - vor allem mit Russland. Von M. Sambale.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-abschluss-100.html",
-      "publishedAt": "2026-10-31T16:54:43.000Z"
-    },
-    {
-      "id": "n_0132d49463",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "\"GenZ\"-Proteste: Tausende demonstrieren für soziale Gerechtigkeit",
-      "summary": "Am Nachmittag haben die angekündigten Proteste der \"GenZ\" begonnen. In Hamburg und Köln ging die Polizei unter anderem wegen des Einsatzes von Pyrotechnik gegen Demonstrierende vor. Die befürchteten großen Ausschreitungen blieben bislang aus.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/gen-z-proteste-114.html",
-      "publishedAt": "2026-10-31T16:54:21.000Z"
     },
     {
       "id": "n_68ea10a4b6",
@@ -266,6 +266,39 @@
       "publishedAt": "2026-10-31T11:20:01.000Z"
     },
     {
+      "id": "n_de77300dcc",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Shops looted as German cost of living protests turn violent",
+      "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T01:59:57.000Z"
+    },
+    {
+      "id": "n_385c23b64d",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T00:55:06.000Z"
+    },
+    {
+      "id": "n_8fa2de3423",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T00:12:07.000Z"
+    },
+    {
       "id": "n_5f84f1aafe",
       "type": "news",
       "topic": "general",
@@ -310,37 +343,15 @@
       "publishedAt": "2026-10-31T19:22:26.000Z"
     },
     {
-      "id": "n_763a99da66",
+      "id": "n_cc1971927f",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+      "headline": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T17:53:35.000Z"
-    },
-    {
-      "id": "n_896568e9ef",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Emotional reunions with loved ones for Oleshky evacuees",
-      "summary": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T16:55:47.000Z"
-    },
-    {
-      "id": "n_3d21f51d37",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-      "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T15:16:20.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T01:37:26.000Z"
     },
     {
       "id": "n_a2f2839074",
@@ -418,17 +429,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-30T07:45:00.000Z"
-    },
-    {
-      "id": "n_2225817457",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Ofcom outlines age check methods ahead of social media ban for under-16s",
-      "summary": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T09:31:44.000Z"
     },
     {
       "id": "n_e58df0c82c",
@@ -957,30 +957,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/torch-neuronx-model-support",
       "publishedAt": "2026-10-23T00:00:00.000Z"
-    },
-    {
-      "id": "n_342584f266",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Macbook PROLED XDR Impressions: They Said They Wouldn't!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=2reQut8WNGc",
-      "thumbnail": "https://i.ytimg.com/vi/2reQut8WNGc/hqdefault.jpg",
-      "publishedAt": "2026-10-29T02:50:34.000Z"
-    },
-    {
-      "id": "n_251908ef4e",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "iPhone Duo Review: First Generation Fun!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=ESABTN4VtrA",
-      "thumbnail": "https://i.ytimg.com/vi/ESABTN4VtrA/hqdefault.jpg",
-      "publishedAt": "2026-10-21T12:00:52.000Z"
     }
   ]
 }
