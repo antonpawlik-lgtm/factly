@@ -1,93 +1,115 @@
 {
-  "generatedAt": "2026-11-02T10:37:35.446Z",
+  "generatedAt": "2026-11-02T20:56:46.394Z",
   "items": [
     {
-      "id": "n_1106e07fe5",
+      "id": "n_4ed1c9b011",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Michigan vor US-Zwischenwahl: Demokratin unterstützt jetzt Republikaner",
-      "summary": "Der Kampf um den Senatssitz für den US-Bundesstaat Michigan ist eng. Nun könnte das Rennen noch spannender werden. Denn eine prominente Demokratin unterstützt nun den Spitzenkandidaten der Republikaner. Der fühlt sich geehrt. Auch Trump freut sich.",
+      "headline": "Jüdische Akademie in Frankfurt eröffnet",
+      "summary": "Mit der Jüdischen Akademie eröffnet der Zentralrat der Juden in Frankfurt erstmals nach der Shoah eine überregionale Bildungseinrichtung. Bundespräsident Steinmeier nutzte seine Rede für einen Appell, den Kampf gegen Antisemitismus zu verstärken.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/midterms-michigan-streit-demokraten-100.html",
-      "publishedAt": "2026-11-02T10:16:12.000Z"
+      "url": "https://www.tagesschau.de/inland/regional/hessen/juedische-akademie-frankfurt-100.html",
+      "publishedAt": "2026-11-02T20:37:43.000Z"
     },
     {
-      "id": "n_692e12d5d2",
+      "id": "n_0c02e93f12",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Bulgariens amtierende Präsidentin Jotowa gewinnt Stichwahl",
-      "summary": "Bulgariens Amtsinhaberin Jotowa hat die Stichwahl um das Präsidentenamt nach Auszählung aller Stimmen gewonnen. Herausforderer Gjurow landete auf dem zweiten Platz. Jotowa gehört zum Lager des als russlandfreundlich geltenden Regierungschefs Radew.",
+      "headline": "Warum es bei diesen Midterms auch auf Alaska ankommen könnte",
+      "summary": "Obwohl Alaska traditionell republikanisch wählt, liegt die Demokratin Peltola in Umfragen vorn. Der Ausgang im nördlichsten Bundesstaat könnte die Midterms entscheidend beeinflussen. Den Wahlkampf bestimmen auch hier die hohen Preise. Von Torben Börgers.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html",
-      "publishedAt": "2026-11-02T09:57:30.000Z"
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-alaska-100.html",
+      "publishedAt": "2026-11-02T20:15:15.000Z"
     },
     {
-      "id": "n_da166dd0f1",
+      "id": "n_14936ca8bd",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Bildungsministerin Prien: Gewalt nach Jugenddemos wirft Integrationsfragen auf",
-      "summary": "Frankfurt, Köln, Hamburg: In mehreren Städten eskalierte am Wochenende die Lage nach den \"Gen Z regelt\"-Protesten. Wer waren die Gewalttäter? Darüber gibt es eine Debatte. Für Bildungsministerin Prien geht es auch um Fragen der Integration.",
+      "headline": "Abenteurer Bushby kehrt nach 28 Jahren von Weltreise zurück",
+      "summary": "50.000 Kilometer in 28 Jahren - hinter dem englischen Abenteurer Karl Bushby liegt eine gewaltige Wanderung. Nun ist er in seine Heimatstadt Hull zurückgekehrt - und wurde von seiner gerührten Mutter empfangen. Von Lisa-Maria Röhling.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/jugendprotest-ausschreitungen-prien-100.html",
-      "publishedAt": "2026-11-02T09:21:20.000Z"
+      "url": "https://www.tagesschau.de/ausland/bushby-lauf-100.html",
+      "publishedAt": "2026-11-02T20:00:49.000Z"
+    },
+    {
+      "id": "n_7b7e92bf33",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ukraine meldet mindestens 24 Tote bei Angriff in Region Saporischschja",
+      "summary": "Bei einem russischen Angriff in der Region Saporischschja sind der Ukraine zufolge mindestens 24 Menschen getötet worden. Präsident Selenskyj warf Moskau gezieltes Bombardement vor - demnach traf die Attacke ein Verteilzentrum für Hilfsgüter.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html",
+      "publishedAt": "2026-11-02T19:26:32.000Z"
+    },
+    {
+      "id": "n_89da17c1c8",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Digitalgipfel in Berlin: Merz fordert mehr digitale Souveränität",
+      "summary": "In Sachen KI hängt Deutschland international hinterher. Bei einem Digitalgipfel in Berlin forderte Kanzler Merz daher einen schnellen und energischen Ausbau der KI-Fähigkeiten. Doch viel Zeit bleibe dafür nicht mehr, sagen Experten.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/digitalgipfel-wildberger-merz-ki-100.html",
+      "publishedAt": "2026-11-02T18:33:00.000Z"
+    },
+    {
+      "id": "n_91efa3c377",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Merz spricht sich bei Steinmeier-Nachfolge für Frau aus",
+      "summary": "Eine Festlegung hatte der Kanzler lange vermieden - doch nun macht Merz klar: Eine Frau soll auf Bundespräsident Steinmeier folgen. Er kündigte an, eine Kandidatin der politischen Mitte vorzuschlagen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/merz-nachfolge-steinmeier-100.html",
+      "publishedAt": "2026-11-02T18:30:17.000Z"
     },
     {
       "id": "n_a69e50ca89",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Marktbericht: Gespannte Lage vor US-Zwischenwahlen",
-      "summary": "Vor den US-Zwischenwahlen halten sich die Anleger lieber zurück. Zum Wochenstart gibt der DAX etwas nach. Mit Spannung warten die Investoren auch auf die heutigen Apple-Zahlen.",
+      "headline": "Marktbericht: DAX legt zu - Anleger bleiben vorsichtig",
+      "summary": "Anleger am deutschen Aktienmarkt haben sich zum Wochenauftakt zurückhaltend gezeigt. Zwar konnte der DAX seine Gewinne im Handelsverlauf behaupten, für einen größeren Kurssprung fehlten jedoch die Impulse.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-168.html",
-      "publishedAt": "2026-11-02T09:06:31.000Z"
+      "publishedAt": "2026-11-02T17:32:24.000Z"
     },
     {
-      "id": "n_2fe0b4729e",
+      "id": "n_29bdddc915",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Binance-Kunden heben nach Hackerangriff Milliarden ab",
-      "summary": "Einen Großteil der gestohlenen Kundengelder hat Binance nach dem Hackerangriff mittlerweile ersetzt. Dennoch kämpft die Kryptobörse mit einem Vertrauensverlust. Kunden haben 3,6 Milliarden Dollar abgezogen.",
+      "headline": "Handel mit Merchandise: Nicht mehr viel los im Trump-Shop",
+      "summary": "Fanartikel von Trump waren einmal ein gutes Geschäft in den USA. Im ganzen Land eröffneten Shops, in denen es Devotionalien aller Art gab - nicht nur die bekannten roten MAGA-Mützen. Wie läuft das Geschäft inzwischen? Von C. Kühntopp.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html",
-      "publishedAt": "2026-11-02T08:59:47.000Z"
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-stores-fanshop-100.html",
+      "publishedAt": "2026-11-02T17:24:23.000Z"
     },
     {
-      "id": "n_7f0015b7dd",
+      "id": "n_e28485a460",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Rot-grün-rote Koalitionsgespräche in Berlin starten",
-      "summary": "Linke, Grüne und SPD in Berlin beginnen ihre Verhandlungen über eine gemeinsame Regierung. Bis Dezember könnte ein Koalitionsvertrag stehen - doch sicher ist das nicht. Mehrere prominente SPD-Mitglieder sprechen sich gegen eine Koalition aus.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/berlin/koalitionsgespraeche-rot-gruen-rot-100.html",
-      "publishedAt": "2026-11-02T08:23:43.000Z"
+      "headline": "Merz: Google-Cloud ausreichend souverän für Nachrichtendienste",
+      "summary": "Beim Digitalgipfel in Berlin hat der Bundeskanzler seine Begeisterung für Chancen durch KI offenbart – und US-Clouddiensten einen Blankoscheck ausgestellt.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Merz-Google-Cloud-ausreichend-souveraen-fuer-Nachrichtendienste-11508517.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-11-02T16:56:00.000Z"
     },
     {
-      "id": "n_2baad25ffd",
+      "id": "n_281cf81440",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Neun Tote bei Flugzeugabsturz in Florida",
-      "summary": "In den USA sind neun Menschen beim Absturz eines Flugzeugs gestorben. Der Privatjet war im Bundesstaat Florida über einem Wohngebiet abgestürzt. Zuvor hatte der Pilot Probleme mit dem Wetter gemeldet.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/flugzeugabsturz-usa-florida-100.html",
-      "publishedAt": "2026-11-02T08:13:47.000Z"
-    },
-    {
-      "id": "n_3fa9f977f4",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Fehlalarm in Kiew nach Hackerangriff auf Warn-App",
-      "summary": "Vor Angriffen warnt die Ukraine die Bevölkerung per App. Doch dabei gibt es nun ein Problem: Die App wurde gehackt, in Kiew wurde fälschlicherweise vor \"Gefahr durch Strahlung\" gewarnt. Auch Russland meldet einen Angriff auf seine Warn-App.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/warn-app-ukraine-russland-gehackt-100.html",
-      "publishedAt": "2026-11-02T06:35:32.000Z"
+      "headline": "Kühlschränke in Lebensmittelläden weiterer Länder geknackt",
+      "summary": "Vor Kurzem gab es Angriffe auf Kühlschränke französischer Supermärkte. Nun sind Läden in weiteren Ländern betroffen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Kuehlschraenke-in-Lebensmittellaeden-weiterer-Laender-geknackt-11507846.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-11-02T12:24:00.000Z"
     },
     {
       "id": "n_056a7fa5bd",
@@ -156,202 +178,191 @@
       "publishedAt": "2026-10-30T11:48:00.000Z"
     },
     {
-      "id": "n_f31747b089",
+      "id": "n_5a3b00ac5c",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Hugging-Face-Übernahme: US-Justiz prüft Nvidias Expansionskurs",
-      "summary": "Das US-Justizministerium prüft, ob Nvidias Hugging-Face-Kauf den Wettbewerb beeinträchtigen könnte. Auch andere Geschäfte stehen kartellrechtlich im Fokus.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Hugging-Face-Uebernahme-US-Justiz-prueft-Nvidias-Expansionskurs-11506212.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-30T11:43:00.000Z"
-    },
-    {
-      "id": "n_d7d0ba6454",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Für 17 Milliarden US-Dollar: DoorDash übernimmt Shopping-Lieferdienst Instacart",
-      "summary": "DoorDash verdient sein Geld primär mit Essenslieferungen. Für 17 Milliarden US-Dollar übernimmt der US-Konzern nun den Einzelhandelsspezialisten Instacart.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Fuer-17-Milliarden-US-Dollar-DoorDash-uebernimmt-Shopping-Lieferdienst-Instacart-11505960.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-30T11:38:00.000Z"
-    },
-    {
-      "id": "n_1bee404ae5",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Elektro-Lkw: Elektromobilität benötigt bessere Stromvermarktung",
-      "summary": "Der Umstieg auf batteriebetriebene Lkw-Flotten kann die Energiekosten noch stärker senken, wenn das ganze Potenzial der Stromspeicher genutzt wird. (Elektromobilität, Akku)",
+      "headline": "Anzeige: Einhell-Kompressor nahe Prime-Day-Preis und 18V-Akkus bei Amazon günstiger",
+      "summary": "Zum bisher besten Amazon-Prime-exklusiven Preis gibt es aktuell einen 18V-Kompressor von Einhell. Auch 18-V-Akkus sind günstiger geworden. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/elektro-lkw-elektromobilitaet-benoetigt-bessere-stromvermarktung-2611-214747.html",
-      "publishedAt": "2026-11-02T10:27:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-einhell-kompressor-nahe-prime-day-preis-und-18v-akkus-bei-amazon-guenstiger-2611-214772.html",
+      "publishedAt": "2026-11-02T17:55:02.000Z"
     },
     {
-      "id": "n_13e60259a6",
+      "id": "n_2577855a6e",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Mehrere Länder betroffen: Hacker spielen Pornos auf LED-Tafeln über Straßen ab",
-      "summary": "In einigen Ländern sind auf LED-Anzeigetafeln über Straßen und Autobahnen Pornos aufgetaucht. Die Verursacher behaupten, das sei ganz einfach gewesen. (Cybercrime, Cyberwar)",
+      "headline": "Anzeige: Microsoft Entra ID: Hybride Strukturen verwalten und absichern",
+      "summary": "Microsoft Entra ID verlangt Planung bei Einrichtung und Absicherung. Ein Onlineworkshop vermittelt die Konfiguration hybrider Strukturen und Strategien zur Härtung. (Golem Karrierewelt, Sicherheitslücke)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/mehrere-laender-betroffen-hacker-spielen-pornos-auf-led-tafeln-ueber-strassen-ab-2611-214745.html",
-      "publishedAt": "2026-11-02T10:10:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-microsoft-entra-id-hybride-strukturen-verwalten-und-absichern-2611-214721.html",
+      "publishedAt": "2026-11-02T17:45:02.000Z"
     },
     {
-      "id": "n_8b4bd9403a",
+      "id": "n_970cd46ee4",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Symbiotic Drive: Auch BMW stellt Selbstfahrassistenten vor",
-      "summary": "Nach Mercedes-Benz bringt auch BMW einen neuen Fahrassistenten nach Deutschland. Symbiotic Drive soll auch in der Stadt abbiegen können. (BMW, Elektroauto)",
+      "headline": "Digitalgipfel: Merz will Abhängigkeit von US-KI drastisch reduzieren",
+      "summary": "Auf dem Digitalgipfel fordert Friedrich Merz mehr technologische Souveränität bei KI und lobt seine eigene Digitalpolitik. Sein Digitalminister mahnt zur Eile. (Friedrich Merz, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/symbiotic-drive-auch-bmw-stellt-selbstfahrassistenten-vor-2611-214746.html",
-      "publishedAt": "2026-11-02T09:57:02.000Z"
+      "url": "https://www.golem.de/news/digitalgipfel-merz-will-abhaengigkeit-von-us-ki-drastisch-reduzieren-2611-214771.html",
+      "publishedAt": "2026-11-02T17:37:01.000Z"
     },
     {
-      "id": "n_789d7c3055",
+      "id": "n_dea8a2d19f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: ULTIMEA Poseidon M20 Pro 2.1 Soundbar für unter 60 Euro bei Amazon im Angebot",
-      "summary": "Die ULTIMEA Poseidon M20 Pro Soundbar mit integriertem Subwoofer und 132 Watt Leistung ist jetzt wieder günstiger. (Technik/Hardware, Heimkino)",
+      "headline": "(g+) Alex Karp: Palantir-Chef warnt vor Chinas KI-Dominanz",
+      "summary": "Im Exklusivinterview mit Nikkei Asia erklärt Alex Karp, warum Staaten und Unternehmen ihre KI selbst kontrollieren sollten. Von Takeshi Kawanami (Palantir, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-ultimea-poseidon-m20-pro-2-1-soundbar-fuer-unter-60-euro-bei-amazon-im-angebot-2611-214744.html",
-      "publishedAt": "2026-11-02T09:49:02.000Z"
+      "url": "https://www.golem.de/news/alex-karp-palantir-chef-warnt-vor-chinas-ki-dominanz-2611-214762.html",
+      "publishedAt": "2026-11-02T17:00:02.000Z"
     },
     {
-      "id": "n_84317ce223",
+      "id": "n_fc79531832",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Google TV Streamer kostet mehr: Drastische Preiserhöhung für Googles einziges Streaminggerät",
-      "summary": "Einen Preisaufschlag von über 40 Prozent gibt es für den Google TV Streamer auch in Deutschland. Weitere Google-Geräte werden folgen. (Google TV Streamer, Google)",
+      "headline": "Pi 5 und Compute Module: Raspberry Pi kostet mittlerweile fast 350 Euro",
+      "summary": "Die Raspberry Pi Foundation hebt einmal mehr die Preise für einige Modelle des Computers an - teilweise um ein Viertel. (Raspberry Pi, RAM)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/google-tv-streamer-kostet-mehr-drastische-preiserhoehung-fuer-googles-einziges-streaminggeraet-2611-214743.html",
-      "publishedAt": "2026-11-02T09:36:01.000Z"
+      "url": "https://www.golem.de/news/pi-5-und-compute-module-raspberry-pi-kostet-mittlerweile-fast-350-euro-2611-214770.html",
+      "publishedAt": "2026-11-02T16:45:02.000Z"
     },
     {
-      "id": "n_9e0f2b1162",
+      "id": "n_f558c8311f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Betriebssystem: Windows 11 hat ein neues Rechtsklickmenü",
-      "summary": "Microsoft versucht, das teils von Windows 10 übernommene Kontextmenü endlich moderner zu gestalten. (Windows 11, Microsoft)",
+      "headline": "Anzeige: Saugroboter mit Wischfunktion von Roborock wieder zum Tiefstpreis bei Amazon",
+      "summary": "18.500 Pa Saugdruck und eine Station, die Mopps mit heißem Wasser reinigt: Der Roborock Qrevo S Pro kostet bei Amazon wieder unter 390 Euro. (Saugroboter, Amazon)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/betriebssystem-windows-11-hat-ein-neues-rechtsklickmenue-2611-214741.html",
-      "publishedAt": "2026-11-02T09:18:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-saugroboter-mit-wischfunktion-von-roborock-wieder-zum-tiefstpreis-bei-amazon-2611-214767.html",
+      "publishedAt": "2026-11-02T16:35:02.000Z"
     },
     {
-      "id": "n_1023481aff",
+      "id": "n_b56ad710c7",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Apple-Warnung: iPhone-Hacker nehmen Bundestag und Regierung ins Visier",
-      "summary": "Apple warnt Abgeordnete und Regierungsmitglieder vor einem möglichen Hackerangriff. Digitalminister Wildberger bestätigt den Vorgang. (Karsten Wildberger, iPhone)",
+      "headline": "Minecraft und Mindustry: Risikoscheue KI-Agenten entwickeln ausgeprägte Bürokratie",
+      "summary": "Bei Misserfolgen neigen KI-Agenten dazu, ein starkes Vorsorgeverhalten zu entwickeln und Aufgaben übermäßig bürokratisch zu regeln. (KI, Minecraft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/apple-warnung-iphone-hacker-nehmen-bundestag-und-regierung-ins-visier-2611-214740.html",
-      "publishedAt": "2026-11-02T09:06:02.000Z"
+      "url": "https://www.golem.de/news/minecraft-und-mindustry-risikoscheue-ki-agenten-entwickeln-ausgepraegte-buerokratie-2611-214769.html",
+      "publishedAt": "2026-11-02T16:25:02.000Z"
     },
     {
-      "id": "n_f25f5d9473",
+      "id": "n_f133663554",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Hyperschallraketen: Deutsches Start-up kassiert 100 Millionen Risikokapital",
-      "summary": "Hypersonica erhält 100 Millionen Euro. Bis 2029 soll die Hyperschallrakete HS-1 in Serie gehen. (Militär, Politik)",
+      "headline": "Cyberattacke: Postfächer von Linke-Abgeordneten im Bundestag lahmgelegt",
+      "summary": "Cyberangriff auf Linken-Abgeordnete im Bundestag: Manche von ihnen erhalten so viele E-Mails, dass ihre Postfächer nicht mehr nutzbar sind. (Deutscher Bundestag, Spam)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/hyperschallraketen-deutsches-start-up-kassiert-100-millionen-risikokapital-2611-214738.html",
-      "publishedAt": "2026-11-02T08:50:02.000Z"
+      "url": "https://www.golem.de/news/cyberattacke-postfaecher-von-linke-abgeordneten-im-bundestag-lahmgelegt-2611-214768.html",
+      "publishedAt": "2026-11-02T16:06:02.000Z"
     },
     {
-      "id": "n_4652b6ad9b",
+      "id": "n_7584627279",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Ryanair says it may freeze workers' pay and raise airfares",
-      "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+      "headline": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "summary": "Local officials say more had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T10:04:39.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T20:23:12.000Z"
+    },
+    {
+      "id": "n_5f3fc0f006",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Man guilty of stealing cash from farm owned by South African president",
+      "summary": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T20:08:51.000Z"
     },
     {
       "id": "n_27c8c1faca",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Nine killed as small jet crashes on Florida street",
-      "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+      "headline": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+      "summary": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T09:10:19.000Z"
+      "publishedAt": "2026-11-02T19:58:34.000Z"
     },
     {
-      "id": "n_96587d36c5",
+      "id": "n_3bbc6d75eb",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Uganda begins withdrawing troops from Somalia after 20 years",
-      "summary": "The country was the first to contribute troops to the AU mission established to stabilise Somalia in 2007.",
+      "headline": "What Florida jet audio and flight data tells us about its final moments",
+      "summary": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities. BBC Verify has used air traffic control audio and flight tracking data to reconstruct the final moments before the plane crashed.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T08:55:27.000Z"
+      "url": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T19:49:22.000Z"
     },
     {
-      "id": "n_c938dd9f29",
+      "id": "n_961347ee66",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Popular Australian children's author jailed over child exploitation offences",
-      "summary": "The author of Jasper Jones and Runt pleaded guilty in May after police raided his home months earlier.",
+      "headline": "Trump to remove Rwanda and South Africa from US trade deal",
+      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmjwe9nggp60o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T08:03:39.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T19:33:10.000Z"
+    },
+    {
+      "id": "n_9021f5cfb4",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+      "summary": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T18:34:24.000Z"
+    },
+    {
+      "id": "n_bcc8812695",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+      "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T18:25:01.000Z"
+    },
+    {
+      "id": "n_2bbdae702e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Shop freezers in seven European countries hit by cyber-attack",
+      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-02T17:38:11.000Z"
     },
     {
       "id": "n_bc46b33a52",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
       "headline": "Binance users withdraw $3.6bn after largest-ever crypto hack",
       "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-02T07:42:33.000Z"
-    },
-    {
-      "id": "n_f3f6c3d1fb",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Iran killed her teenage daughter - now she is facing up to the regime",
-      "summary": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T06:00:54.000Z"
-    },
-    {
-      "id": "n_660903c7e4",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "How a Democrat in Michigan rocked the party days before the US midterms",
-      "summary": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T04:40:00.000Z"
-    },
-    {
-      "id": "n_192330b7d9",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump makes final campaign push in final weekend before election",
-      "summary": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T04:04:28.000Z"
     },
     {
       "id": "n_cc1971927f",
@@ -420,103 +431,158 @@
       "publishedAt": "2026-10-30T11:35:51.000Z"
     },
     {
-      "id": "n_1b2161d396",
+      "id": "n_65e0f2251c",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-      "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T09:33:51.000Z"
+      "headline": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
+      "summary": "\"The flow of time is always cruel.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
+      "publishedAt": "2026-11-02T19:52:23.000Z"
     },
     {
-      "id": "n_e58df0c82c",
+      "id": "n_3cf3bf32d7",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Seabirds racing home over the ocean can get jet-lagged",
-      "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
+      "headline": "Most of our measures of a key cognitive process don't agree",
+      "summary": "A big study with very little beyond negative results still gets published.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
-      "publishedAt": "2026-10-31T11:15:26.000Z"
+      "url": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
+      "publishedAt": "2026-11-02T19:13:26.000Z"
     },
     {
-      "id": "n_58f1874bf5",
+      "id": "n_9518925605",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "The FDA wants to pull its approval of a drug. It’s not so easy.",
-      "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+      "headline": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
+      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
-      "publishedAt": "2026-10-31T11:02:34.000Z"
+      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+      "publishedAt": "2026-11-02T18:32:21.000Z"
     },
     {
-      "id": "n_e7a0d7ebff",
+      "id": "n_778dbacaae",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
-      "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+      "headline": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+      "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
-      "publishedAt": "2026-10-31T00:07:22.000Z"
+      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+      "publishedAt": "2026-11-02T18:05:31.000Z"
     },
     {
-      "id": "n_b1311b7a95",
+      "id": "n_ed27b2587d",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Flesh-eating screwworms spread to third state and are attacking pets",
-      "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
+      "headline": "China publicly discloses plan for a lunar landing within three years",
+      "summary": "The plan does not include a mission similar to Apollo 8 or Artemis II.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
-      "publishedAt": "2026-10-30T22:36:41.000Z"
+      "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
+      "publishedAt": "2026-11-02T17:09:13.000Z"
     },
     {
-      "id": "n_df4feec8b4",
+      "id": "n_3327074e4a",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
-      "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
+      "headline": "F1 in Mexico City: Yet another Ferrari fiasco, but that’s not all",
+      "summary": "There was plenty of drama on and off the track for Formula 1 this weekend.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
-      "publishedAt": "2026-10-30T22:21:05.000Z"
+      "url": "https://arstechnica.com/cars/2026/11/f1-in-mexico-city-we-have-a-new-world-champion/",
+      "publishedAt": "2026-11-02T15:57:24.000Z"
     },
     {
-      "id": "n_df26d5473c",
+      "id": "n_78036d3639",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-      "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
+      "headline": "The world has a new plan to save nature, but it still needs the money",
+      "summary": "A new action plan aims to rescue 2030 nature targets as financing remains inadequate.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-      "publishedAt": "2026-10-30T21:41:54.000Z"
+      "url": "https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money/",
+      "publishedAt": "2026-11-02T14:56:52.000Z"
     },
     {
-      "id": "n_ce0cce9f3b",
+      "id": "n_aa5c09b1df",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "headline": "This $48 e-paper display can be whatever you want it to be",
+      "summary": "This DIY e-paper display works in two official ecosystems or on your own server.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-      "publishedAt": "2026-10-30T21:09:54.000Z"
+      "url": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/",
+      "publishedAt": "2026-11-02T12:00:07.000Z"
     },
     {
-      "id": "n_65d255a745",
+      "id": "n_8402594bed",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
-      "summary": "People who love AI don't always love telling others they used it.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
-      "publishedAt": "2026-10-30T20:40:13.000Z"
+      "headline": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "publishedAt": "2026-11-02T19:19:17.000Z"
+    },
+    {
+      "id": "n_6e11dddc7a",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "publishedAt": "2026-11-02T16:30:00.000Z"
+    },
+    {
+      "id": "n_3059ef1574",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "publishedAt": "2026-11-02T16:23:21.000Z"
+    },
+    {
+      "id": "n_a43a012fc6",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "publishedAt": "2026-11-02T15:00:00.000Z"
+    },
+    {
+      "id": "n_f7151c69ed",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+      "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+      "publishedAt": "2026-11-02T14:00:00.000Z"
+    },
+    {
+      "id": "n_869219a7f1",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "publishedAt": "2026-11-02T13:57:53.000Z"
     },
     {
       "id": "n_33c086ca14",
@@ -541,70 +607,37 @@
       "publishedAt": "2026-11-01T20:57:58.000Z"
     },
     {
-      "id": "n_89c6cb6d29",
+      "id": "n_e3f3f6c0c5",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "publishedAt": "2026-10-31T21:41:00.000Z"
+      "headline": "Anthropic clamps down on Claude’s AI video game clones",
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "publishedAt": "2026-11-02T18:56:02.000Z"
     },
     {
-      "id": "n_cefcb0bd24",
+      "id": "n_16194c055a",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "publishedAt": "2026-10-31T21:36:07.000Z"
+      "headline": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "publishedAt": "2026-11-02T18:01:30.000Z"
     },
     {
-      "id": "n_bc398a80a0",
+      "id": "n_dc6c7ef2ed",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "publishedAt": "2026-10-31T21:17:03.000Z"
-    },
-    {
-      "id": "n_344dcf7974",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI reportedly lowers funding target for new round",
-      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "publishedAt": "2026-10-31T16:12:55.000Z"
-    },
-    {
-      "id": "n_6336aff37e",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "publishedAt": "2026-10-31T01:20:05.000Z"
-    },
-    {
-      "id": "n_43523836c6",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "publishedAt": "2026-10-30T22:56:13.000Z"
+      "headline": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "publishedAt": "2026-11-02T17:51:19.000Z"
     },
     {
       "id": "n_ed0268fa6e",
@@ -662,37 +695,26 @@
       "publishedAt": "2026-10-30T18:21:38.000Z"
     },
     {
-      "id": "n_0de3f9697e",
+      "id": "n_0ad9e89a8a",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present per",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "publishedAt": "2026-10-30T17:38:04.000Z"
+      "headline": "Raising the quality of insights in agentic analytics",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "publishedAt": "2026-11-02T17:00:00.000Z"
     },
     {
-      "id": "n_974d9b85c8",
+      "id": "n_728c21b3de",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-      "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-      "publishedAt": "2026-10-30T14:58:06.000Z"
-    },
-    {
-      "id": "n_5ec9437afb",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Silicon Valley wants you to invest in miracles",
-      "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring for",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "publishedAt": "2026-10-30T13:11:05.000Z"
+      "headline": "Stop counting tokens, start counting what ships",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, t",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "publishedAt": "2026-11-02T13:10:32.000Z"
     },
     {
       "id": "n_e49f46b109",
@@ -761,26 +783,15 @@
       "publishedAt": "2026-10-26T17:45:43.000Z"
     },
     {
-      "id": "n_69d5a00235",
+      "id": "n_b38643a409",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "The focus on AI safety disasters ignores everyday harms",
-      "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But co",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "publishedAt": "2026-10-26T09:01:00.000Z"
-    },
-    {
-      "id": "n_2aedd54f3e",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Designing an AI serving harness built to last",
-      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, lar",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-      "publishedAt": "2026-10-22T21:17:29.000Z"
+      "headline": "When You Should—and Shouldn’t—Use AI to Search the Web",
+      "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+      "publishedAt": "2026-11-02T12:00:00.000Z"
     },
     {
       "id": "n_865143ca1c",
@@ -858,17 +869,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
       "publishedAt": "2026-10-29T18:39:43.000Z"
-    },
-    {
-      "id": "n_a2aa84b8c0",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
-      "summary": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
-      "publishedAt": "2026-10-29T15:00:00.000Z"
     },
     {
       "id": "n_b2263e9f84",
