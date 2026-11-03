@@ -1,93 +1,104 @@
 {
-  "generatedAt": "2026-11-02T20:56:46.394Z",
+  "generatedAt": "2026-11-03T10:12:18.008Z",
   "items": [
     {
-      "id": "n_4ed1c9b011",
+      "id": "n_393a6f0ba8",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Jüdische Akademie in Frankfurt eröffnet",
-      "summary": "Mit der Jüdischen Akademie eröffnet der Zentralrat der Juden in Frankfurt erstmals nach der Shoah eine überregionale Bildungseinrichtung. Bundespräsident Steinmeier nutzte seine Rede für einen Appell, den Kampf gegen Antisemitismus zu verstärken.",
+      "headline": "Sind Männer gesundheitlich schlechter dran als Frauen?",
+      "summary": "Männer haben im Schnitt eine deutlich geringere Lebenserwartung als Frauen. Ein neuer Bericht zeigt: Auch Geschlechterrollen und das Wirken von Gesellschaftsnormen spielen bei der Gesundheit von Männern eine Rolle. Von Niels Walker.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/hessen/juedische-akademie-frankfurt-100.html",
-      "publishedAt": "2026-11-02T20:37:43.000Z"
+      "url": "https://www.tagesschau.de/wissen/gesundheit/maenner-gesundheit-102.html",
+      "publishedAt": "2026-11-03T10:07:38.000Z"
     },
     {
-      "id": "n_0c02e93f12",
+      "id": "n_bb9a2dabc5",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Warum es bei diesen Midterms auch auf Alaska ankommen könnte",
-      "summary": "Obwohl Alaska traditionell republikanisch wählt, liegt die Demokratin Peltola in Umfragen vorn. Der Ausgang im nördlichsten Bundesstaat könnte die Midterms entscheidend beeinflussen. Den Wahlkampf bestimmen auch hier die hohen Preise. Von Torben Börgers.",
+      "headline": "Liveblog zu den Midterms: ++ US-Bürger wählen neuen Kongress ++",
+      "summary": "Republikaner oder Demokraten - wer überzeugt mehr? In den USA finden heute die Zwischenwahlen statt, ein wichtiger Gradmesser für Trumps Politik. Weltweit wird der Ausgang der Wahl mit Spannung erwartet - die Entwicklungen hier im Liveblog.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-alaska-100.html",
-      "publishedAt": "2026-11-02T20:15:15.000Z"
+      "url": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
+      "publishedAt": "2026-11-03T10:03:45.000Z"
     },
     {
-      "id": "n_14936ca8bd",
+      "id": "n_726b98a48f",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Abenteurer Bushby kehrt nach 28 Jahren von Weltreise zurück",
-      "summary": "50.000 Kilometer in 28 Jahren - hinter dem englischen Abenteurer Karl Bushby liegt eine gewaltige Wanderung. Nun ist er in seine Heimatstadt Hull zurückgekehrt - und wurde von seiner gerührten Mutter empfangen. Von Lisa-Maria Röhling.",
+      "headline": "Midterms: \"Entscheidende Wahl für Entwicklung der US-Demokratie\"",
+      "summary": "Unter Trump haben die USA eine autoritäre Phase erreicht, sagt der Historiker Manfred Berg. Ob diese Entwicklung weitergehe, hänge von dieser und der Wahl 2028 ab. Doch selbst bei einer Niederlage werde Trump an seinem Politikstil festhalten.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/bushby-lauf-100.html",
-      "publishedAt": "2026-11-02T20:00:49.000Z"
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-midterms-zustand-demokratie-102.html",
+      "publishedAt": "2026-11-03T09:40:40.000Z"
+    },
+    {
+      "id": "n_6120b8699e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "US-Wahlen: Wie Trumps Kurs die Bundesregierung herausfordert",
+      "summary": "Bei den Kongresswahlen entscheidet sich, ob Präsident Trump seine Politik weiterhin weitgehend ungehindert durchziehen kann. Das wird auch von der Bundespolitik aufmerksam beobachtet. Von Nicole Markwald.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/midterms-usa-deutschland-102.html",
+      "publishedAt": "2026-11-03T09:22:54.000Z"
+    },
+    {
+      "id": "n_169b4d269a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Marktbericht: Anleger scheuen vor US-Zwischenwahlen das Risiko",
+      "summary": "Die Sorge vor einer erneuten Eskalation im Nahen Osten drückt auf die Stimmung der Anleger. Und vor den US-Zwischenwahlen herrscht ohnehin Nervosität. Der DAX fällt zum Handelsstart weiter zurück.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-apple-midterms-100.html",
+      "publishedAt": "2026-11-03T09:15:35.000Z"
+    },
+    {
+      "id": "n_76077779bc",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Kahlschlag bei Schaeffler: Stellenabbau und Standortschließungen",
+      "summary": "Die Krise der deutschen Autoindustrie lässt Schaeffler zu drastischen Maßnahmen greifen. Tausende Stellen werden gestrichen. In Deutschland stehen vier Werke vor dem Aus.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/schaeffler-154.html",
+      "publishedAt": "2026-11-03T09:02:12.000Z"
     },
     {
       "id": "n_7b7e92bf33",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Ukraine meldet mindestens 24 Tote bei Angriff in Region Saporischschja",
-      "summary": "Bei einem russischen Angriff in der Region Saporischschja sind der Ukraine zufolge mindestens 24 Menschen getötet worden. Präsident Selenskyj warf Moskau gezieltes Bombardement vor - demnach traf die Attacke ein Verteilzentrum für Hilfsgüter.",
+      "headline": "Ukraine meldet mindestens 26 Tote bei Angriff in Region Saporischschja",
+      "summary": "Bei einem russischen Angriff in der Region Saporischschja sind der Ukraine zufolge mindestens 26 Menschen getötet worden. Präsident Selenskyj warf Moskau gezieltes Bombardement vor. Der Staatschef wird heute in Berlin erwartet.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html",
-      "publishedAt": "2026-11-02T19:26:32.000Z"
+      "publishedAt": "2026-11-03T09:00:13.000Z"
     },
     {
-      "id": "n_89da17c1c8",
+      "id": "n_30d51b901f",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Digitalgipfel in Berlin: Merz fordert mehr digitale Souveränität",
-      "summary": "In Sachen KI hängt Deutschland international hinterher. Bei einem Digitalgipfel in Berlin forderte Kanzler Merz daher einen schnellen und energischen Ausbau der KI-Fähigkeiten. Doch viel Zeit bleibe dafür nicht mehr, sagen Experten.",
+      "headline": "Starkes iPhone-Geschäft sorgt für Rekordumsatz bei Apple",
+      "summary": "Apple hat unter dem neuen Konzernchef John Ternus ‌die Erwartungen von Börsenprofis übertroffen. Der iPhone-Umsatz und die Konzernerlöse haben im dritten Quartal Rekordwerte erreicht. Die Aktie fällt trotzdem.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/digitalgipfel-wildberger-merz-ki-100.html",
-      "publishedAt": "2026-11-02T18:33:00.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/apple-rekordumsatz-100.html",
+      "publishedAt": "2026-11-03T08:13:13.000Z"
     },
     {
-      "id": "n_91efa3c377",
+      "id": "n_d6b1e60fd3",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Merz spricht sich bei Steinmeier-Nachfolge für Frau aus",
-      "summary": "Eine Festlegung hatte der Kanzler lange vermieden - doch nun macht Merz klar: Eine Frau soll auf Bundespräsident Steinmeier folgen. Er kündigte an, eine Kandidatin der politischen Mitte vorzuschlagen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/merz-nachfolge-steinmeier-100.html",
-      "publishedAt": "2026-11-02T18:30:17.000Z"
-    },
-    {
-      "id": "n_a69e50ca89",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: DAX legt zu - Anleger bleiben vorsichtig",
-      "summary": "Anleger am deutschen Aktienmarkt haben sich zum Wochenauftakt zurückhaltend gezeigt. Zwar konnte der DAX seine Gewinne im Handelsverlauf behaupten, für einen größeren Kurssprung fehlten jedoch die Impulse.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-168.html",
-      "publishedAt": "2026-11-02T17:32:24.000Z"
-    },
-    {
-      "id": "n_29bdddc915",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Handel mit Merchandise: Nicht mehr viel los im Trump-Shop",
-      "summary": "Fanartikel von Trump waren einmal ein gutes Geschäft in den USA. Im ganzen Land eröffneten Shops, in denen es Devotionalien aller Art gab - nicht nur die bekannten roten MAGA-Mützen. Wie läuft das Geschäft inzwischen? Von C. Kühntopp.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-stores-fanshop-100.html",
-      "publishedAt": "2026-11-02T17:24:23.000Z"
+      "headline": "Mit Nvidias Segen: Marvell will Lumentum für 115 Milliarden US-Dollar kaufen",
+      "summary": "Marvell und Lumentum sind beide zentrale Hersteller in der Lieferkette von Nvidia, nun sollen sie zusammengehen. Der enorme Kaufpreis irritiert aber die Börse.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Mit-Nvidias-Segen-Marvell-will-Lumentum-fuer-115-Milliarden-US-Dollar-kaufen-11508781.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-11-03T05:52:00.000Z"
     },
     {
       "id": "n_e28485a460",
@@ -167,191 +178,213 @@
       "publishedAt": "2026-10-30T13:08:00.000Z"
     },
     {
-      "id": "n_0bfd0df235",
+      "id": "n_66423aa663",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Hardwarekosten: Google erhöht Preis für TV Streamer 4K um über 40 Prozent",
-      "summary": "Google erhöht den Preis seiner Streaming-Box TV Streamer (4K) in seinem deutschen Store um über 40 Prozent.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Google-erhoeht-Preis-fuer-TV-Streamer-4K-um-ueber-40-Prozent-11506228.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-30T11:48:00.000Z"
+      "headline": "Diebisch: Thief kehrt nach 28 Jahren mit neuer Kampagne zurück",
+      "summary": "Der Schleichspielklassiker Thief erscheint als Remaster. Besonders spannend ist eine neue Kampagne, die von erfahrenen Moddern entwickelt wird. (Thief, Spiele)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/diebisch-thief-kehrt-nach-28-jahren-mit-neuer-kampagne-zurueck-2611-214786.html",
+      "publishedAt": "2026-11-03T10:03:02.000Z"
     },
     {
-      "id": "n_5a3b00ac5c",
+      "id": "n_c14b67df4e",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Einhell-Kompressor nahe Prime-Day-Preis und 18V-Akkus bei Amazon günstiger",
-      "summary": "Zum bisher besten Amazon-Prime-exklusiven Preis gibt es aktuell einen 18V-Kompressor von Einhell. Auch 18-V-Akkus sind günstiger geworden. (Technik/Hardware)",
+      "headline": "Open World Games: GTA 6 spielen ist anerkannter Bildungsurlaub",
+      "summary": "Der Onlinekurs Open World Games ist bereits jetzt komplett ausgebucht und startet nicht zufällig einen Tag vor dem GTA-6-Release. (GTA 6, Spiele)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-einhell-kompressor-nahe-prime-day-preis-und-18v-akkus-bei-amazon-guenstiger-2611-214772.html",
-      "publishedAt": "2026-11-02T17:55:02.000Z"
+      "url": "https://www.golem.de/news/open-world-games-gta-6-spielen-ist-anerkannter-bildungsurlaub-2611-214784.html",
+      "publishedAt": "2026-11-03T09:50:01.000Z"
     },
     {
-      "id": "n_2577855a6e",
+      "id": "n_34c6a5f699",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Microsoft Entra ID: Hybride Strukturen verwalten und absichern",
-      "summary": "Microsoft Entra ID verlangt Planung bei Einrichtung und Absicherung. Ein Onlineworkshop vermittelt die Konfiguration hybrider Strukturen und Strategien zur Härtung. (Golem Karrierewelt, Sicherheitslücke)",
+      "headline": "Anzeige: Fritz!DECT Repeater 100 jetzt bei Amazon günstig wie seit Monaten nicht",
+      "summary": "Der Fritz!DECT Repeater 100 bringt HD-Telefonie bis in Keller und Garten und ist so günstig wie seit drei Monaten nicht mehr. (Technik/Hardware, Smart Home)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-microsoft-entra-id-hybride-strukturen-verwalten-und-absichern-2611-214721.html",
-      "publishedAt": "2026-11-02T17:45:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-fritz-dect-repeater-100-jetzt-bei-amazon-guenstig-wie-seit-monaten-nicht-2611-214782.html",
+      "publishedAt": "2026-11-03T09:44:02.000Z"
     },
     {
-      "id": "n_970cd46ee4",
+      "id": "n_03773d187e",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Digitalgipfel: Merz will Abhängigkeit von US-KI drastisch reduzieren",
-      "summary": "Auf dem Digitalgipfel fordert Friedrich Merz mehr technologische Souveränität bei KI und lobt seine eigene Digitalpolitik. Sein Digitalminister mahnt zur Eile. (Friedrich Merz, KI)",
+      "headline": "Digitalgipfel: Geheimdienste bauen auf Google, Merz nennt das europäisch",
+      "summary": "Bundeskanzler Merz lehnt Autarkie anscheinend ab. Denn die geplante Cloud der Nachrichtendienste mit Google nennt er europäische Infrastruktur. (Friedrich Merz, Datenschutz)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/digitalgipfel-merz-will-abhaengigkeit-von-us-ki-drastisch-reduzieren-2611-214771.html",
-      "publishedAt": "2026-11-02T17:37:01.000Z"
+      "url": "https://www.golem.de/news/digitalgipfel-geheimdienste-bauen-auf-google-merz-nennt-das-europaeisch-2611-214779.html",
+      "publishedAt": "2026-11-03T08:58:02.000Z"
     },
     {
-      "id": "n_dea8a2d19f",
+      "id": "n_1aae99a42e",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) Alex Karp: Palantir-Chef warnt vor Chinas KI-Dominanz",
-      "summary": "Im Exklusivinterview mit Nikkei Asia erklärt Alex Karp, warum Staaten und Unternehmen ihre KI selbst kontrollieren sollten. Von Takeshi Kawanami (Palantir, KI)",
+      "headline": "Wütende KI-Meuten: Wie gefälschte Proteste auf Tiktok Geld bringen sollen",
+      "summary": "Auf Tiktok protestieren KI-generierte Menschen gegen die Politik. Dahinter steckt ein Geschäftsmodell, das mit Empörung Reichweite und Geld erzeugt. Von Alexander Riechelmann (Tiktok, Spam)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/alex-karp-palantir-chef-warnt-vor-chinas-ki-dominanz-2611-214762.html",
-      "publishedAt": "2026-11-02T17:00:02.000Z"
+      "url": "https://www.golem.de/news/wuetende-ki-meuten-wie-gefaelschte-proteste-auf-tiktok-geld-bringen-sollen-2611-214732.html",
+      "publishedAt": "2026-11-03T08:45:02.000Z"
     },
     {
-      "id": "n_fc79531832",
+      "id": "n_ddf63da2c9",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Pi 5 und Compute Module: Raspberry Pi kostet mittlerweile fast 350 Euro",
-      "summary": "Die Raspberry Pi Foundation hebt einmal mehr die Preise für einige Modelle des Computers an - teilweise um ein Viertel. (Raspberry Pi, RAM)",
+      "headline": "Weltraumteleskop: Rettungsmission für Hubble geplant",
+      "summary": "Weil vor 2040 kein Ersatz für Hubble im Orbit sein wird, soll das Weltraumteleskop wieder angehoben werden. Unklar ist, wer das kann. (Weltraumteleskop, Nasa)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/pi-5-und-compute-module-raspberry-pi-kostet-mittlerweile-fast-350-euro-2611-214770.html",
-      "publishedAt": "2026-11-02T16:45:02.000Z"
+      "url": "https://www.golem.de/news/weltraumteleskop-rettungsmission-fuer-hubble-geplant-2611-214781.html",
+      "publishedAt": "2026-11-03T08:36:01.000Z"
     },
     {
-      "id": "n_f558c8311f",
+      "id": "n_691762c108",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Saugroboter mit Wischfunktion von Roborock wieder zum Tiefstpreis bei Amazon",
-      "summary": "18.500 Pa Saugdruck und eine Station, die Mopps mit heißem Wasser reinigt: Der Roborock Qrevo S Pro kostet bei Amazon wieder unter 390 Euro. (Saugroboter, Amazon)",
+      "headline": "Softwareentwicklung mit KI: In elf Tagen zum Linux-kompatiblen Kernel-Prototyp",
+      "summary": "Mit Ginux will der Gründer von CentOS und Rocky Linux zeigen, dass von Menschen dirigierte KI Entwicklungsarbeit deutlich beschleunigen kann. (KI, CentOS)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-saugroboter-mit-wischfunktion-von-roborock-wieder-zum-tiefstpreis-bei-amazon-2611-214767.html",
-      "publishedAt": "2026-11-02T16:35:02.000Z"
+      "url": "https://www.golem.de/news/softwareentwicklung-mit-ki-in-elf-tagen-zum-linux-kompatiblen-kernel-prototyp-2611-214780.html",
+      "publishedAt": "2026-11-03T08:27:01.000Z"
     },
     {
-      "id": "n_b56ad710c7",
+      "id": "n_5e1286c077",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Minecraft und Mindustry: Risikoscheue KI-Agenten entwickeln ausgeprägte Bürokratie",
-      "summary": "Bei Misserfolgen neigen KI-Agenten dazu, ein starkes Vorsorgeverhalten zu entwickeln und Aufgaben übermäßig bürokratisch zu regeln. (KI, Minecraft)",
+      "headline": "Dringend patchen: 11.000 Gitlab-Instanzen durch laufende Angriffe gefährdet",
+      "summary": "Angreifer nehmen seit einigen Wochen Gitlab-Server ins Visier. Fast jede dritte Gitlab-Instanz ist anfällig für mindestens eine kritische Sicherheitslücke. (Sicherheitslücke, Ruby)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/minecraft-und-mindustry-risikoscheue-ki-agenten-entwickeln-ausgepraegte-buerokratie-2611-214769.html",
-      "publishedAt": "2026-11-02T16:25:02.000Z"
+      "url": "https://www.golem.de/news/attacken-laufen-bereits-rund-11-000-angreifbare-gitlab-instanzen-im-netz-2611-214776.html",
+      "publishedAt": "2026-11-03T08:19:02.000Z"
     },
     {
-      "id": "n_f133663554",
+      "id": "n_dbe976cec8",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Cyberattacke: Postfächer von Linke-Abgeordneten im Bundestag lahmgelegt",
-      "summary": "Cyberangriff auf Linken-Abgeordnete im Bundestag: Manche von ihnen erhalten so viele E-Mails, dass ihre Postfächer nicht mehr nutzbar sind. (Deutscher Bundestag, Spam)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/cyberattacke-postfaecher-von-linke-abgeordneten-im-bundestag-lahmgelegt-2611-214768.html",
-      "publishedAt": "2026-11-02T16:06:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Americans head to the polls for elections that could define Trump's closing chapter",
+      "summary": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T09:29:32.000Z"
+    },
+    {
+      "id": "n_e2028e11a7",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Tenerife striker De Miguel dies after on-field collision",
+      "summary": "Tenerife forward Jesus de Miguel dies after suffering an on-field collision during a Spanish second-division match.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T09:09:18.000Z"
+    },
+    {
+      "id": "n_fde93fa8c4",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "North Korea denies being behind record $6.3bn Binance hack",
+      "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T08:33:20.000Z"
+    },
+    {
+      "id": "n_155bce04f5",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Major test for Australia's social media ban begins in High Court",
+      "summary": "Lawyers for Reddit and a digital rights group are arguing the world-leading policy robs children of their right to free communication.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T07:53:38.000Z"
+    },
+    {
+      "id": "n_0b546e2829",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Why a US-Russia showdown left Morocco celebrating",
+      "summary": "An impasse between the US and Russia at the UN means its peacekeeping mission in Western Sahara has ended after 35 years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T07:29:46.000Z"
     },
     {
       "id": "n_7584627279",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "summary": "Local officials say more had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+      "headline": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
+      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T20:23:12.000Z"
+      "publishedAt": "2026-11-03T07:24:12.000Z"
     },
     {
-      "id": "n_5f3fc0f006",
+      "id": "n_bfad2b5951",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Man guilty of stealing cash from farm owned by South African president",
-      "summary": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
+      "headline": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+      "summary": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T20:08:51.000Z"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T07:15:17.000Z"
     },
     {
-      "id": "n_27c8c1faca",
+      "id": "n_7062a3beba",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
-      "summary": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
+      "headline": "US strikes Iranian island ahead of midterm elections",
+      "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T19:58:34.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T03:39:08.000Z"
     },
     {
-      "id": "n_3bbc6d75eb",
+      "id": "n_37618b9677",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "What Florida jet audio and flight data tells us about its final moments",
-      "summary": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities. BBC Verify has used air traffic control audio and flight tracking data to reconstruct the final moments before the plane crashed.",
+      "headline": "UK also affected by cyber-attack which hit European supermarket fridges",
+      "summary": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T19:49:22.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T09:43:44.000Z"
     },
     {
-      "id": "n_961347ee66",
+      "id": "n_5b071ae017",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Trump to remove Rwanda and South Africa from US trade deal",
-      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+      "headline": "Apple unsure when more foldable iPhones will be available after selling out",
+      "summary": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T19:33:10.000Z"
-    },
-    {
-      "id": "n_9021f5cfb4",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-      "summary": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T18:34:24.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T07:03:03.000Z"
     },
     {
       "id": "n_bcc8812695",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
       "headline": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
       "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-02T18:25:01.000Z"
-    },
-    {
-      "id": "n_2bbdae702e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Shop freezers in seven European countries hit by cyber-attack",
-      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-02T17:38:11.000Z"
     },
     {
       "id": "n_bc46b33a52",
@@ -398,37 +431,37 @@
       "publishedAt": "2026-10-30T20:34:46.000Z"
     },
     {
-      "id": "n_c3c296345f",
+      "id": "n_0dfcca5dfe",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Google value plunges by $500bn as its own AI search hits ad sales",
-      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T12:04:02.000Z"
+      "headline": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+      "summary": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
+      "publishedAt": "2026-11-02T23:30:16.000Z"
     },
     {
-      "id": "n_1aa672cf3e",
+      "id": "n_187838088a",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Who could be behind the Binance hack and what we know so far",
-      "summary": "Binance has been hit by what could be the biggest crypto hack ever - here's what we know so far",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T11:57:33.000Z"
+      "headline": "Why large dogs age faster than small ones, and other October research highlights",
+      "summary": "Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/",
+      "publishedAt": "2026-11-02T22:54:35.000Z"
     },
     {
-      "id": "n_27995324f9",
+      "id": "n_f329f77c5b",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "From Bitcoin to Binance: Crypto terms and what they mean",
-      "summary": "The Binance hack has thrust cryptocurrencies back into headlines - but what are they and how do they work?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T11:35:51.000Z"
+      "headline": "Third person dies of bird flu since virus started jumping to livestock",
+      "summary": "The threat is still considered to be low, but the virus continues to spread.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
+      "publishedAt": "2026-11-02T21:21:43.000Z"
     },
     {
       "id": "n_65e0f2251c",
@@ -486,37 +519,81 @@
       "publishedAt": "2026-11-02T17:09:13.000Z"
     },
     {
-      "id": "n_3327074e4a",
+      "id": "n_0e5b1d74af",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "F1 in Mexico City: Yet another Ferrari fiasco, but that’s not all",
-      "summary": "There was plenty of drama on and off the track for Formula 1 this weekend.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/11/f1-in-mexico-city-we-have-a-new-world-champion/",
-      "publishedAt": "2026-11-02T15:57:24.000Z"
+      "headline": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "publishedAt": "2026-11-03T07:20:00.000Z"
     },
     {
-      "id": "n_78036d3639",
+      "id": "n_4c7d73c303",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "The world has a new plan to save nature, but it still needs the money",
-      "summary": "A new action plan aims to rescue 2030 nature targets as financing remains inadequate.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money/",
-      "publishedAt": "2026-11-02T14:56:52.000Z"
+      "headline": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "publishedAt": "2026-11-03T03:30:00.000Z"
     },
     {
-      "id": "n_aa5c09b1df",
+      "id": "n_9c67c7267a",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "This $48 e-paper display can be whatever you want it to be",
-      "summary": "This DIY e-paper display works in two official ecosystems or on your own server.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/",
-      "publishedAt": "2026-11-02T12:00:07.000Z"
+      "headline": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "publishedAt": "2026-11-03T01:49:52.000Z"
+    },
+    {
+      "id": "n_bd936fe1d4",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "publishedAt": "2026-11-03T00:35:52.000Z"
+    },
+    {
+      "id": "n_19ce29ebfa",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "summary": "The one-year-old startup is now valued at $300 million.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "publishedAt": "2026-11-02T23:13:53.000Z"
+    },
+    {
+      "id": "n_55dd7e97ce",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "publishedAt": "2026-11-02T22:14:50.000Z"
+    },
+    {
+      "id": "n_f0d1149023",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Web host Squarespace lays off 19% of its employees",
+      "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "publishedAt": "2026-11-02T19:25:59.000Z"
     },
     {
       "id": "n_8402594bed",
@@ -530,89 +607,12 @@
       "publishedAt": "2026-11-02T19:19:17.000Z"
     },
     {
-      "id": "n_6e11dddc7a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "publishedAt": "2026-11-02T16:30:00.000Z"
-    },
-    {
-      "id": "n_3059ef1574",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-      "publishedAt": "2026-11-02T16:23:21.000Z"
-    },
-    {
-      "id": "n_a43a012fc6",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "publishedAt": "2026-11-02T15:00:00.000Z"
-    },
-    {
-      "id": "n_f7151c69ed",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-      "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-      "publishedAt": "2026-11-02T14:00:00.000Z"
-    },
-    {
-      "id": "n_869219a7f1",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-      "publishedAt": "2026-11-02T13:57:53.000Z"
-    },
-    {
-      "id": "n_33c086ca14",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "publishedAt": "2026-11-01T21:55:23.000Z"
-    },
-    {
-      "id": "n_0ae1026466",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "publishedAt": "2026-11-01T20:57:58.000Z"
-    },
-    {
       "id": "n_e3f3f6c0c5",
       "type": "news",
       "topic": "ai",
       "lang": "en",
       "headline": "Anthropic clamps down on Claude’s AI video game clones",
-      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still",
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will stil",
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
       "publishedAt": "2026-11-02T18:56:02.000Z"
@@ -695,6 +695,17 @@
       "publishedAt": "2026-10-30T18:21:38.000Z"
     },
     {
+      "id": "n_bdefad5dcd",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand ",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "publishedAt": "2026-11-03T04:18:47.000Z"
+    },
+    {
       "id": "n_0ad9e89a8a",
       "type": "news",
       "topic": "ai",
@@ -770,17 +781,6 @@
       "source": "MIT Technology Review",
       "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
       "publishedAt": "2026-10-27T11:19:18.000Z"
-    },
-    {
-      "id": "n_c6549f35a0",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Will the real Anthropic please stand up",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "publishedAt": "2026-10-26T17:45:43.000Z"
     },
     {
       "id": "n_b38643a409",
@@ -871,6 +871,17 @@
       "publishedAt": "2026-10-29T18:39:43.000Z"
     },
     {
+      "id": "n_fec0e46ceb",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Transformers Model Integration Contracts",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "publishedAt": "2026-11-03T00:00:00.000Z"
+    },
+    {
       "id": "n_b2263e9f84",
       "type": "news",
       "topic": "ai",
@@ -946,17 +957,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/allenai/novelty-bench",
       "publishedAt": "2026-10-27T16:12:42.000Z"
-    },
-    {
-      "id": "n_6430909168",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Does Your Model Run on AWS Trainium? Look It Up",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "publishedAt": "2026-10-23T00:00:00.000Z"
     },
     {
       "id": "n_ce14acab8d",
