@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-11-03T18:44:05.907Z",
+  "generatedAt": "2026-11-04T00:56:57.808Z",
   "items": [
+    {
+      "id": "n_0774f0ec68",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Die Ergebnisse der Midterms in den USA in Zahlen und Karten",
+      "summary": "In immer mehr US-Bundesstaaten haben die Wahllokale geschlossen und die Auszählung läuft. Wie ist der Stand bei den Wahlen zum Senat, zum Repräsentantenhaus und zu den Gouverneuren? Ergebnisse in Zahlen und Karten.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/midterms-ergebnisse-102.html",
+      "publishedAt": "2026-11-04T00:39:30.000Z"
+    },
+    {
+      "id": "n_bb9a2dabc5",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Liveblog zu den Midterms: ++ Erste Wahlen beendet ++ Auszählung beginnt ++",
+      "summary": "Die ersten Wahllokale in Teilen von Indiana und Kentucky haben geschlossen. Das US-Justizministerium schickt zahlreiche Wahlbeobachter in alle Bundesstaaten. Die Entwicklungen im Liveblog.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
+      "publishedAt": "2026-11-04T00:36:23.000Z"
+    },
+    {
+      "id": "n_6e6ad9e4ba",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Reaktion auf Zugunglücke: Spaniens Verkehrsminister tritt zurück",
+      "summary": "Zwei schwere Zugunglücke haben Spanien in diesem Jahr erschüttert. Nun zieht Verkehrsminister Puente die politischen Konsequenzen. Außerdem beschloss die Regierung neue Maßnahmen, um die Sicherheit zu verbessern.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/spanien-zugunglueck-puente-ruecktritt-100.html",
+      "publishedAt": "2026-11-03T20:58:56.000Z"
+    },
+    {
+      "id": "n_3caf1652bf",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Tausende protestieren gegen tschechische Rundfunk-Pläne",
+      "summary": "Tschechiens Regierung will den öffentlich-rechtlichen Rundfunk künftig aus dem Staatshaushalt finanzieren. Viele sorgen sich deshalb um die Unabhängigkeit der Sender. Tausende gingen auf die Straße, beim Rundfunk wurde gestreikt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/protest-tschechien-rundfunk-100.html",
+      "publishedAt": "2026-11-03T19:52:48.000Z"
+    },
+    {
+      "id": "n_65764ad137",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Renten könnten 2027 um 4,1 Prozent steigen",
+      "summary": "Rentnerinnen und Rentner können sich auf spürbar steigende Bezüge einstellen. Der Rentenversicherungsbericht der Bundesregierung geht im kommenden Jahr von einer Steigerung von mehr als vier Prozent aus. Von K. Girschick.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/rentenerhoehung-entwurf-100.html",
+      "publishedAt": "2026-11-03T19:05:51.000Z"
+    },
     {
       "id": "n_bc225ddebe",
       "type": "news",
@@ -24,17 +79,6 @@
       "publishedAt": "2026-11-03T18:39:26.000Z"
     },
     {
-      "id": "n_bb9a2dabc5",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Liveblog zu den Midterms: ++ US-Justizministerium schickt Wahlbeobachter in alle Bundesstaaten ++",
-      "summary": "Das US-Justizministerium schickt zahlreiche Wahlbeobachter in alle Bundesstaaten, Kritiker befürchten eine abschreckende Wirkung durch deren Präsenz. Bei den US-Midterms wird ein spannendes Rennen erwartet. Die Entwicklungen im Liveblog.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
-      "publishedAt": "2026-11-03T18:35:43.000Z"
-    },
-    {
       "id": "n_83d6b231bc",
       "type": "news",
       "topic": "general",
@@ -46,48 +90,15 @@
       "publishedAt": "2026-11-03T18:27:43.000Z"
     },
     {
-      "id": "n_7c90701797",
+      "id": "n_361de1aba2",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Spanien beschließt nach Zugunglück neue Sicherheitsmaßnahmen im Bahnverkehr",
-      "summary": "69 Menschen starben vor knapp einer Woche bei der Kollision zweier Hochgeschwindigkeitszüge - es war bereits das zweite schwere Zugunglück in Spanien in diesem Jahr. Nun sollen neue Maßnahmen die Sicherheit verbessern.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/spanien-sicherheitsmassnahmen-100.html",
-      "publishedAt": "2026-11-03T17:32:23.000Z"
-    },
-    {
-      "id": "n_169b4d269a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: DAX fällt leicht zurück",
-      "summary": "Inmitten der Zahlenflut zum dritten Quartal und angesichts des Wahltages in den USA hielten sich die Anleger bedeckt. Der DAX konnte seine anfänglichen Verluste aber eingrenzen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-apple-midterms-100.html",
-      "publishedAt": "2026-11-03T17:10:25.000Z"
-    },
-    {
-      "id": "n_b8196dce07",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Weitere gefährliche Halloween-Süßigkeiten entdeckt - auch im Ausland",
-      "summary": "Nadeln in Schokoriegeln, Metall in Fruchtgummi: Immer mehr manipulierte Halloween-Süßigkeiten werden gemeldet - und das nicht nur in Deutschland. In einigen Fällen verletzten sich Kinder.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/halloween-suessigkeiten-nadeln-100.html",
-      "publishedAt": "2026-11-03T17:02:41.000Z"
-    },
-    {
-      "id": "n_770b962173",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Dobrindt verteidigt \"Chaoten\"-Aussage nach Krawallen vom Wochenende",
-      "summary": "Sind \"migrantische Milieus\" für die Gewalt vom Wochenende verantwortlich? Die Aussagen von Innenminister Dobrindt stoßen weiter auf breite Kritik. Der Minister selbst will seine Wortwahl jedoch nicht korrigieren.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-genz-proteste-100.html",
-      "publishedAt": "2026-11-03T16:14:29.000Z"
+      "headline": "heise+ | Linux-Distribution Fedora 45: KDE Plasma 6.8, Gnome 51 und Kmscon",
+      "summary": "Ein Security-Vorfall verzögerte das Release, sodass KDE Plasma 6.8 noch drin landet. Außerdem kommt Fedora 45 mit Gnome 51 und einer aufpolierten Textkonsole.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Linux-Distribution-Fedora-45-KDE-Plasma-6-8-Gnome-51-und-Kmscon-11505699.html?wt_mc=rss.red.ho.top-news.atom.beitrag_plus.beitrag_plus",
+      "publishedAt": "2026-11-03T20:00:00.000Z"
     },
     {
       "id": "n_dafcbcbe15",
@@ -165,17 +176,6 @@
       "source": "heise online",
       "url": "https://www.heise.de/news/Kann-ArtCraft-Adobe-ersetzen-Wir-haben-ein-3003-Video-damit-geschnitten-11506536.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
       "publishedAt": "2026-10-30T16:01:00.000Z"
-    },
-    {
-      "id": "n_2cc8ae017e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "„SMS des Todes“: Sicherheitslücke lässt Android-Smartphones abstürzen",
-      "summary": "Eine unsichtbare SMS lässt Android-Smartphones abstürzen, unterbricht Anrufe und hält Geräte in einer Reboot-Schleife gefangen. Google hat bereits reagiert.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/SMS-des-Todes-Sicherheitsluecke-laesst-Android-Smartphones-abstuerzen-11506526.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-10-30T14:23:00.000Z"
     },
     {
       "id": "n_e655c83914",
@@ -266,6 +266,50 @@
       "publishedAt": "2026-11-03T16:45:01.000Z"
     },
     {
+      "id": "n_f3989377ad",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "ANC under pressure to reverse South Africa decline",
+      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T00:03:19.000Z"
+    },
+    {
+      "id": "n_12b0eaea27",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
+      "summary": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T23:58:36.000Z"
+    },
+    {
+      "id": "n_d82818c118",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Spanish transport minister resigns days after deadly train crash",
+      "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T22:45:59.000Z"
+    },
+    {
+      "id": "n_15d9a348e9",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "NTSB says crucial plane parts found three miles from Florida crash site",
+      "summary": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T21:53:38.000Z"
+    },
+    {
       "id": "n_a09a583b08",
       "type": "news",
       "topic": "general",
@@ -274,7 +318,7 @@
       "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T17:56:03.000Z"
+      "publishedAt": "2026-11-03T20:42:47.000Z"
     },
     {
       "id": "n_c31b3717ae",
@@ -310,48 +354,26 @@
       "publishedAt": "2026-11-03T16:19:29.000Z"
     },
     {
-      "id": "n_fc39e7480c",
+      "id": "n_93b118af97",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Mining giant joins fight to stop killer toad march across Australia",
-      "summary": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
+      "headline": "Graduates are managing AI - but are they learning much else?",
+      "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T15:05:01.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T00:04:35.000Z"
     },
     {
-      "id": "n_664a8fbdf4",
+      "id": "n_c5db139399",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Libya's top religious authority rules against wearing Nike clothes",
-      "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
+      "headline": "Tech Life",
+      "summary": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T14:56:46.000Z"
-    },
-    {
-      "id": "n_a80c9e9fe5",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-      "summary": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T13:55:47.000Z"
-    },
-    {
-      "id": "n_a5ad8811e6",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
-      "summary": "Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-03T13:44:44.000Z"
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-03T20:30:00.000Z"
     },
     {
       "id": "n_37618b9677",
@@ -409,26 +431,70 @@
       "publishedAt": "2026-11-02T07:42:33.000Z"
     },
     {
-      "id": "n_cc1971927f",
+      "id": "n_5f58c4321f",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "These firms you've never heard of are feeding fears the AI bubble could burst",
-      "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-01T01:37:26.000Z"
+      "headline": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+      "summary": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+      "publishedAt": "2026-11-03T22:39:37.000Z"
     },
     {
-      "id": "n_a2f2839074",
+      "id": "n_2f70d6c369",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-      "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-31T02:12:19.000Z"
+      "headline": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+      "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+      "publishedAt": "2026-11-03T20:39:55.000Z"
+    },
+    {
+      "id": "n_e9e1cc36cc",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+      "summary": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+      "publishedAt": "2026-11-03T18:30:27.000Z"
+    },
+    {
+      "id": "n_2d0707b146",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Buttons are back and storage is king when it comes to car interiors",
+      "summary": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
+      "publishedAt": "2026-11-03T18:19:31.000Z"
+    },
+    {
+      "id": "n_b121628aeb",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Google will let schools skip AI tools, but they have to give up search, too",
+      "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+      "publishedAt": "2026-11-03T17:54:43.000Z"
+    },
+    {
+      "id": "n_991337267b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Another child dies of measles as CDC reportedly holds up health alert",
+      "summary": "NY governor pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/",
+      "publishedAt": "2026-11-03T17:21:29.000Z"
     },
     {
       "id": "n_4e5242d643",
@@ -453,70 +519,59 @@
       "publishedAt": "2026-11-03T16:50:32.000Z"
     },
     {
-      "id": "n_6e52bc4c45",
+      "id": "n_f901cc10a3",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-      "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
-      "publishedAt": "2026-11-03T16:03:13.000Z"
+      "headline": "Anthropic is working on a system to prove AI models’ identity",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "publishedAt": "2026-11-03T22:41:03.000Z"
     },
     {
-      "id": "n_d90dbf7591",
+      "id": "n_59cb8a96ca",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
-      "summary": "Meta faces pressure to protect No Kings Instagram on election day.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
-      "publishedAt": "2026-11-03T15:39:30.000Z"
+      "headline": "Data centers are turning to old jet engines as the wait for power grows",
+      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "publishedAt": "2026-11-03T22:19:53.000Z"
     },
     {
-      "id": "n_8ec8eb5dfa",
+      "id": "n_d37889a9eb",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "EPA throws in the towel on policing air pollution from factory farms",
-      "summary": "Critics say EPA is effectively abandoning Clean Air Act enforcement at factory farms.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/",
-      "publishedAt": "2026-11-03T14:49:00.000Z"
+      "headline": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "publishedAt": "2026-11-03T21:43:08.000Z"
     },
     {
-      "id": "n_fbd0eff8d1",
+      "id": "n_dd34e5bf1c",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
-      "summary": "After pioneering the passenger screen, Mercedes has designs on the windshield.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
-      "publishedAt": "2026-11-03T14:00:07.000Z"
+      "headline": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "publishedAt": "2026-11-03T21:05:55.000Z"
     },
     {
-      "id": "n_0dfcca5dfe",
+      "id": "n_c69664e34d",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
-      "summary": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
-      "publishedAt": "2026-11-02T23:30:16.000Z"
-    },
-    {
-      "id": "n_187838088a",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Why large dogs age faster than small ones, and other October research highlights",
-      "summary": "Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/",
-      "publishedAt": "2026-11-02T22:54:35.000Z"
+      "headline": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "publishedAt": "2026-11-03T19:34:43.000Z"
     },
     {
       "id": "n_2023d4b1aa",
@@ -552,59 +607,48 @@
       "publishedAt": "2026-11-03T16:30:34.000Z"
     },
     {
-      "id": "n_f9c0c715ee",
+      "id": "n_5d47252e76",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Apple restricts dating apps and AI companions to users 18 and up",
-      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-      "publishedAt": "2026-11-03T15:38:27.000Z"
+      "headline": "The biggest modding site in PC gaming is taking a stance on AI",
+      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the plat",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "publishedAt": "2026-11-04T00:42:10.000Z"
     },
     {
-      "id": "n_954137d8d0",
+      "id": "n_64fbdbf83e",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
-      "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
-      "publishedAt": "2026-11-03T14:30:00.000Z"
+      "headline": "Please stop asking me when the AI bubble will pop",
+      "summary": "Emmanuel Roman, chief executive officer of Pacific Investment Management Co. (Pimco), during the Global Financial Leaders' Investment Summit in Hong Kong, China, on Tuesday, Nov. 3, 2026. | Bloomberg via Getty Images People, including on this staff, keep asking me with varying de",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "publishedAt": "2026-11-03T23:37:45.000Z"
     },
     {
-      "id": "n_2b376a5511",
+      "id": "n_39cfcbde58",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-      "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
-      "publishedAt": "2026-11-03T14:00:00.000Z"
+      "headline": "Those Jeff Bezos hair transplant photos are very fake",
+      "summary": "These edits of Jason Statham (left) and Jeff Bezos are a bit jarring, but that’s sort of the point. | Image: The Verge Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the las",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+      "publishedAt": "2026-11-03T21:01:07.000Z"
     },
     {
-      "id": "n_0e5b1d74af",
+      "id": "n_49792679d7",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-      "publishedAt": "2026-11-03T07:20:00.000Z"
-    },
-    {
-      "id": "n_4c7d73c303",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "publishedAt": "2026-11-03T03:30:00.000Z"
+      "headline": "Apple starts giving Siri AI access to third-party apps",
+      "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "publishedAt": "2026-11-03T20:16:17.000Z"
     },
     {
       "id": "n_62af551153",
@@ -649,50 +693,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
       "publishedAt": "2026-11-03T18:00:00.000Z"
-    },
-    {
-      "id": "n_0eaf3e3a75",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Google is entirely disabling Search in schools that don&#8217;t want AI",
-      "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-      "publishedAt": "2026-11-03T17:00:04.000Z"
-    },
-    {
-      "id": "n_85827c831b",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Midterm elections 2026: all the news",
-      "summary": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year’s races are expected to be most broadly defined by affordability is",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
-      "publishedAt": "2026-11-03T15:58:39.000Z"
-    },
-    {
-      "id": "n_dde5f3bd62",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Apple is all in on AI — its own and everyone else&#8217;s",
-      "summary": "Apple CEO John Ternus. | Photo: Bloomberg via Getty Images Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenu",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-      "publishedAt": "2026-11-03T15:24:51.000Z"
-    },
-    {
-      "id": "n_32791f69eb",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI is quietly renaming data centers ‘compute campuses’",
-      "summary": "The Stargate AI data center “compute campus” in Abilene, Texas. | Photo: Bloomberg via Getty Images People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political la",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-      "publishedAt": "2026-11-03T15:00:44.000Z"
     },
     {
       "id": "n_c7a94f8b7c",
@@ -957,174 +957,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/mistral-large4",
       "publishedAt": "2026-10-29T00:00:00.000Z"
-    },
-    {
-      "id": "n_ce14acab8d",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI Claims It Just Did The Impossible",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
-      "thumbnail": "https://i.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg",
-      "publishedAt": "2026-10-30T15:57:16.000Z"
-    },
-    {
-      "id": "n_c66d1bea7b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek's New AI Is An Absolute Monster",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
-      "thumbnail": "https://i.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
-      "publishedAt": "2026-10-28T17:32:40.000Z"
-    },
-    {
-      "id": "n_5565a81df6",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gemini 4 Argon Is Not What I Expected",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
-      "thumbnail": "https://i.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
-      "publishedAt": "2026-10-19T08:49:21.000Z"
-    },
-    {
-      "id": "n_3c1e366833",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI’s New AI Is Doing Things We Barely Understand",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
-      "thumbnail": "https://i.ytimg.com/vi/z_sXLlLVUls/hqdefault.jpg",
-      "publishedAt": "2026-10-13T08:56:12.000Z"
-    },
-    {
-      "id": "n_3f3a8c8623",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
-      "thumbnail": "https://i.ytimg.com/vi/ZAzWPE9CItg/hqdefault.jpg",
-      "publishedAt": "2026-10-26T22:51:51.000Z"
-    },
-    {
-      "id": "n_fb6a439eff",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
-      "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
-      "publishedAt": "2026-10-13T21:26:16.000Z"
-    },
-    {
-      "id": "n_c21d60498a",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
-      "publishedAt": "2026-09-17T00:34:47.000Z"
-    },
-    {
-      "id": "n_ffdb3dfd14",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
-      "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_9c145faf00",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did the AI bubble just pop?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=nEaJMdM1djM",
-      "thumbnail": "https://i.ytimg.com/vi/nEaJMdM1djM/hqdefault.jpg",
-      "publishedAt": "2026-10-28T13:31:29.000Z"
-    },
-    {
-      "id": "n_94fd9875fe",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "China just dropped a new frontier model... and nobody can explain how",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=G_em1hHPnXY",
-      "thumbnail": "https://i.ytimg.com/vi/G_em1hHPnXY/hqdefault.jpg",
-      "publishedAt": "2026-10-26T18:55:29.000Z"
-    },
-    {
-      "id": "n_f3c8faa918",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The most vulnerable week in internet history...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=SMGg7iisHmc",
-      "thumbnail": "https://i.ytimg.com/vi/SMGg7iisHmc/hqdefault.jpg",
-      "publishedAt": "2026-10-23T18:19:58.000Z"
-    },
-    {
-      "id": "n_dba4be3004",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The last real programmers are dying out...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=zv6B6PQOuHE",
-      "thumbnail": "https://i.ytimg.com/vi/zv6B6PQOuHE/hqdefault.jpg",
-      "publishedAt": "2026-10-22T15:09:31.000Z"
-    },
-    {
-      "id": "n_0ec2db3ae5",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OLED iPad Mini is The Most Apple Product They've Ever Appled",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=g6Die8gVFn0",
-      "thumbnail": "https://i.ytimg.com/vi/g6Die8gVFn0/hqdefault.jpg",
-      "publishedAt": "2026-11-03T14:01:31.000Z"
-    },
-    {
-      "id": "n_342584f266",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Macbook PROLED XDR Impressions: They Said They Wouldn't!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=2reQut8WNGc",
-      "thumbnail": "https://i.ytimg.com/vi/2reQut8WNGc/hqdefault.jpg",
-      "publishedAt": "2026-10-29T02:50:34.000Z"
     }
   ]
 }
