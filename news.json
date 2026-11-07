@@ -1,27 +1,71 @@
 {
-  "generatedAt": "2026-11-07T17:04:44.374Z",
+  "generatedAt": "2026-11-07T21:09:26.736Z",
   "items": [
+    {
+      "id": "n_3ec5331b3d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Polen: Mindestens sechs Tote nach Schüssen in Krakau",
+      "summary": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 16 Personen verletzt worden. Der mutmaßliche Täter konnte demnach gefasst werden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
+      "publishedAt": "2026-11-07T21:05:52.000Z"
+    },
+    {
+      "id": "n_8fa3a44584",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
+      "summary": "Am Nachmittag hat ein Täter im polnischen Krakau aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt. Was bislang über die Tat bekannt ist.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
+      "publishedAt": "2026-11-07T21:04:34.000Z"
+    },
+    {
+      "id": "n_71a1532102",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bankenkrise: Anklage gegen Paraguays Ex-Präsidenten",
+      "summary": "Nur einen Tag nach seiner Amtsenthebung muss sich Paraguays Ex-Präsident Peña wegen seiner Rolle im Bankenskandal vor der Justiz verantworten. Die Staatsanwaltschaft fordert Untersuchungshaft.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/ermittlungen-paraguay-pena-100.html",
+      "publishedAt": "2026-11-07T20:33:23.000Z"
+    },
+    {
+      "id": "n_e68a8d456a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Oppositionsführer Eisenkot soll Israels neue Regierung bilden",
+      "summary": "Endet die Ära Netanjahu in Israel? Staatspräsident Herzog beauftragt den Oppositionspolitiker Eisenkot mit der Regierungsbildung. In den kommenden 28 Tagen soll er versuchen, eine Koalition zu schmieden.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html",
+      "publishedAt": "2026-11-07T20:31:48.000Z"
+    },
+    {
+      "id": "n_2a662087ac",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Papst in Uruguay: Schwierige Mission für Leo XIV.",
+      "summary": "Zum Auftakt seiner Südamerika-Reise besucht Papst Leo XIV. Uruguay - ein Land, in dem der Glaube im Alltag kaum eine Rolle spielt. Doch im Armenviertel der Hauptstadt findet die soziale Arbeit der Kirche Anklang. Von Anne Herrberg.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-100.html",
+      "publishedAt": "2026-11-07T19:56:52.000Z"
+    },
     {
       "id": "n_1d8f430f79",
       "type": "news",
       "topic": "general",
       "lang": "de",
       "headline": "Weniger Teilnehmer bei neuen Demos in Frankreich",
-      "summary": "Das zweite Mal in dieser Woche und das vierte Wochenende in Folge haben in Frankreich Menschen gegen hohe Lebenskosten oder Probleme im Bildungssystem protestiert. Allerdings kamen diesmal deutlich weniger Teilnehmer.",
+      "summary": "Das zweite Mal in dieser Woche und das vierte Wochenende in Folge haben in Frankreich Menschen gegen hohe Lebenskosten oder Probleme im Bildungssystem protestiert. Allerdings kamen diesmal weniger Teilnehmer.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/frankreich-proteste-246.html",
-      "publishedAt": "2026-11-07T16:59:14.000Z"
-    },
-    {
-      "id": "n_3ec5331b3d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
-      "summary": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens fünf Menschen getötet und 15 Personen verletzt worden. Der mutmaßliche Täter konnte demnach gefasst werden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
-      "publishedAt": "2026-11-07T16:53:10.000Z"
+      "publishedAt": "2026-11-07T18:57:56.000Z"
     },
     {
       "id": "n_99bf0990e0",
@@ -44,50 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
       "publishedAt": "2026-11-07T14:45:52.000Z"
-    },
-    {
-      "id": "n_ade362f1fd",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Parlamentswahl in Neuseeland: Regierungspartei und Labour nahezu gleichauf",
-      "summary": "Neuseeland hat ein neues Parlament gewählt. Doch angesichts eines extrem knappen Wahlausgangs könnte es bei der Frage, welche Regierung das Land künftig führt, letztlich auf die kleinen Parteien ankommen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-102.html",
-      "publishedAt": "2026-11-07T14:41:43.000Z"
-    },
-    {
-      "id": "n_e1cdc7ac80",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Pahlavi nimmt Freiheitspreis für iranisches Volk entgegen",
-      "summary": "Der iranische Oppositionelle Pahlavi hat stellvertretend für das iranische Volk den Freiheitspreis der FDP-nahen Friedrich-Naumann-Stiftung entgegengenommen. Während der Verleihung gab es auch Demonstrationen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/hessen/pahlavi-friedenspreis-frankfurt-100.html",
-      "publishedAt": "2026-11-07T13:25:25.000Z"
-    },
-    {
-      "id": "n_78a606015a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Schwere Schäden nach Raketenangriffen auf Kiew",
-      "summary": "Russland hat kurz vor Wintereinbruch erneut die ukrainische Strom- und Wasserversorgung angegriffen. In einigen Teilen des Landes fiel der Strom aus. Präsident Selenskyj und Kiews Bürgermeister Klitschko streiten über die Verteidigung.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
-      "publishedAt": "2026-11-07T12:13:38.000Z"
-    },
-    {
-      "id": "n_92b5200977",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Ilse Aigner im Porträt: Krisenerprobt, bürgernah - und bald Staatsoberhaupt?",
-      "summary": "Ilse Aigner hat beste Chancen, die erste Bundespräsidentin Deutschlands zu werden. Obwohl sie bereits hohe Ämter auf Bundes- und Landesebene innehatte, stand sie nie in allererster Reihe. Ein Porträt von Anita Fünffinger.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/ilse-aigner-portraet-100.html",
-      "publishedAt": "2026-11-07T11:30:37.000Z"
     },
     {
       "id": "n_ad7a4fee54",
@@ -266,6 +266,61 @@
       "publishedAt": "2026-11-07T09:00:01.000Z"
     },
     {
+      "id": "n_10a11a2077",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "What we know so far after Polish gunman opens fire in Krakow main square",
+      "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T20:23:17.000Z"
+    },
+    {
+      "id": "n_a41907c82a",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Paraguay's former president charged after bank collapse",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T19:17:22.000Z"
+    },
+    {
+      "id": "n_a190c1df03",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US offers $20m reward for information about Iran's nuclear programme",
+      "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T18:14:38.000Z"
+    },
+    {
+      "id": "n_c334eb223f",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Gaza wedding festival sees 250 couples married at the same time",
+      "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T17:58:41.000Z"
+    },
+    {
+      "id": "n_b3534df0c8",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Houthis say at least 25 killed in Saudi air strike",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T17:09:24.000Z"
+    },
+    {
       "id": "n_ad35b3d935",
       "type": "news",
       "topic": "general",
@@ -297,61 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-07T15:19:35.000Z"
-    },
-    {
-      "id": "n_e6afdaa46c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T12:49:36.000Z"
-    },
-    {
-      "id": "n_fe773657f4",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Four things we learned this week about 2028 White House race",
-      "summary": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T12:23:28.000Z"
-    },
-    {
-      "id": "n_4caa2a4546",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Texas mayor instructs police to limit co-operation with ICE",
-      "summary": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T08:15:55.000Z"
-    },
-    {
-      "id": "n_2227d0d9b6",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-      "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T07:27:44.000Z"
-    },
-    {
-      "id": "n_a41907c82a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Paraguay's president impeached and under house arrest after bank collapse",
-      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T07:20:00.000Z"
     },
     {
       "id": "n_af31ad6378",
@@ -974,7 +974,7 @@
       "type": "video",
       "topic": "video",
       "lang": "en",
-      "headline": "The OpenAI Astra Weight Hack, Explained",
+      "headline": "OpenAI's Astra Just Opened The Black Box Of AI",
       "summary": "",
       "source": "Two Minute Papers",
       "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
