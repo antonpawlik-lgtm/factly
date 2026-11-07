@@ -1,6 +1,83 @@
 {
-  "generatedAt": "2026-11-06T18:36:46.016Z",
+  "generatedAt": "2026-11-07T00:28:03.256Z",
   "items": [
+    {
+      "id": "n_c9b2b6d5d3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
+      "summary": "Plötzlich ging es ganz schnell: Infolge der Bankenkrise in Paraguay hat der Senat den bisherigen Präsidenten Peña des Amtes enthoben - kurz darauf ordnete die Staatsanwaltschaft Hausarrest für ihn an. Ein Nachfolger ist bereits vereidigt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html",
+      "publishedAt": "2026-11-07T00:06:18.000Z"
+    },
+    {
+      "id": "n_9527064b23",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Politologin über Aigner: \"Sie hat viel politische Erfahrung\"",
+      "summary": "Bayerns Landtagspräsidentin Ilse Aigner wird Unionskandidatin für die Wahl zur Bundespräsidentin. Genug Erfahrung habe sie, sagt die Politologin Münch in den tagesthemen. Diese werde auch dringend gebraucht.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-interview-tt-100.html",
+      "publishedAt": "2026-11-06T20:54:46.000Z"
+    },
+    {
+      "id": "n_5cad87b83a",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
+      "summary": "Sie wäre dort die erste Frau: Laut ARD-Hauptstadtstudio werden CDU und CSU Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Gemeinsam mit der SPD hätten sie in der Bundesversammlung eine Mehrheit.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
+      "publishedAt": "2026-11-06T20:36:48.000Z"
+    },
+    {
+      "id": "n_39e9b30e77",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Trumps Stabschefin Wiles verlässt das Weiße Haus",
+      "summary": "Seit der Wahlniederlage der Republikaner bei den Midterms wird spekuliert, ob und wie US-Präsident Trump seinen Machtzirkel umbaut. Nun steht fest: Die Strippenzieherin Wiles geht, ihr Vize Miller übernimmt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-wiles-100.html",
+      "publishedAt": "2026-11-06T20:20:30.000Z"
+    },
+    {
+      "id": "n_65d8d0c93b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bombendrohungen in Europa: Anzeichen auf koordinierten Angriff verdichten sich",
+      "summary": "Erneut hat es in Europa zahlreiche Bombendrohungen gegeben - sowohl im Flugverkehr als auch gegen Medienhäuser. Spanien spricht von einem hybriden Angriff, der \"kein Zufall\" sei. Irland sieht eine \"koordinierte Kampagne\".",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-europa-100.html",
+      "publishedAt": "2026-11-06T19:39:20.000Z"
+    },
+    {
+      "id": "n_7c155a4bfb",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Erneut Hackerangriff auf Münchener Universität - TUM betroffen",
+      "summary": "Unbekannte haben Hochschulsysteme der Technischen Universität München gehackt. Sie konnten etwa Adressen und Passwörter einsehen. Es ist bereits der zweite Hackerangriff auf eine große Uni in München.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/bayern/hackerangriff-tum-100.html",
+      "publishedAt": "2026-11-06T19:23:12.000Z"
+    },
+    {
+      "id": "n_c2a83240c6",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Russland bei Eishockey-WM? Deutschlands sportpolitisches Dilemma",
+      "summary": "Die Eishockey-WM in Deutschland steht wegen der möglichen Teilnahme Russlands vor einem Boykott mehrerer Nationen und Sponsoren. Die Bundesregierung bringt das in ein Dilemma. Von Felix Jakobs.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/eishockey-wm-wie-umgehen-mit-russland-100.html",
+      "publishedAt": "2026-11-06T18:53:38.000Z"
+    },
     {
       "id": "n_41162a6c5b",
       "type": "news",
@@ -13,81 +90,15 @@
       "publishedAt": "2026-11-06T17:48:38.000Z"
     },
     {
-      "id": "n_e06a3ef31e",
+      "id": "n_ad7a4fee54",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Verhaltene Reaktionen auf Trumps Ankündigung eines Ukraine-Abkommens",
-      "summary": "Nach einem Treffen mit Kreml-Unterhändler Dmitrijew kündigte US-Präsident Trump ein \"großes\" Ukraine-Abkommen an. Alle würden begeistert sein, behauptete er. Doch Moskau und Brüssel dämpfen die Erwartungen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html",
-      "publishedAt": "2026-11-06T17:46:51.000Z"
-    },
-    {
-      "id": "n_8f3c6a7f3f",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Weltweiter KI-Ausverkauf: DAX rutscht nach Rekordhoch ab",
-      "summary": "Sorgen um KI- und Halbleiterwerte lösen weltweit Verkäufe aus - und setzen auch den deutschen Aktienmarkt unter Druck. Die US-Börsen konnten sich inzwischen wieder berappeln.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html",
-      "publishedAt": "2026-11-06T17:30:36.000Z"
-    },
-    {
-      "id": "n_5cad87b83a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Ilse Aigner soll laut ARD-Informationen Bundespräsidentin werden",
-      "summary": "Sie wäre dort die erste Frau: Laut ARD-Hauptstadtstudio werden CDU und CSU Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen. Gemeinsam mit der SPD hätten sie in der Bundesversammlung eine Mehrheit.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/cdu-csu-aigner-bundespraesidentin-100.html",
-      "publishedAt": "2026-11-06T17:17:22.000Z"
-    },
-    {
-      "id": "n_3c8f5658cc",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Anführer von Hungersekte in Kenia zu 200 Jahren Haft verurteilt.",
-      "summary": "Der selbsternannte kenianische Pastor Mackenzie ist für den Mord an 191 Menschen verurteilt worden. Er soll sie aus angeblich religiösen Gründen zum Todesfasten verleitet haben - die meisten waren Kinder.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/kenia-urteil-sektenfuehrer-100.html",
-      "publishedAt": "2026-11-06T17:08:10.000Z"
-    },
-    {
-      "id": "n_f79b47d564",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Bundestag berät über umstrittene Autobahn-Reform",
-      "summary": "Der Bundestag hat über eine geplante Reform der bundeseigenen Autobahn GmbH debattiert. Die Regierung will die Finanzierung ändern, um Autobahnen zu erhalten und ausbauen zu können. Doch das Vorhaben ist umstritten.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/autobahn-reform-102.html",
-      "publishedAt": "2026-11-06T17:04:16.000Z"
-    },
-    {
-      "id": "n_4cb5286ffc",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Auch Senat in Polen stimmt für Lockerung des Abtreibungsrechts",
-      "summary": "Nach der ersten Kammer hat in Polen auch der Senat für eine Liberalisierung des Abtreibungsrechts gestimmt. Das letzte Wort hat aber Präsident Nawrocki. Dessen Zustimmung gilt als unwahrscheinlich.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/polen-aenderung-abreibungsrecht-100.html",
-      "publishedAt": "2026-11-06T16:19:52.000Z"
-    },
-    {
-      "id": "n_ae242be1f3",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Kanarische Inseln melden vermehrte Flüchtlingsankünfte",
-      "summary": "Spanien schlägt Alarm. Die Zahl der ankommenden Flüchtlinge auf El Hierro, einer kleinen kanarischen Insel, steigt seit Anfang November wieder stark an. Die Behörden warnen vor Ausnahmezuständen wie 2024. Von Julia Macher.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/kanaren-fluechtlinge-106.html",
-      "publishedAt": "2026-11-06T15:48:14.000Z"
+      "headline": "Mindfactory informiert Kunden über Cyberangriff",
+      "summary": "Hardwarehändler Mindfactory ist Opfer eines Cyberangriffs geworden. Kunden und die Datenschutzbehörde wurden informiert, die Ermittlungen laufen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Mindfactory-informiert-Kunden-ueber-Cyberangriff-11515963.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-11-06T17:22:00.000Z"
     },
     {
       "id": "n_efd89cbf19",
@@ -165,17 +176,6 @@
       "source": "heise online",
       "url": "https://www.heise.de/news/Forever-Blizzard-laedt-erneut-zurueck-ins-alte-World-of-Warcraft-11514106.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
       "publishedAt": "2026-11-05T18:43:00.000Z"
-    },
-    {
-      "id": "n_642a73fec0",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "EU-Generalanwalt hält Google-Fonts-Abmahnwellen für missbräuchlich",
-      "summary": "Wer DSGVO-Verstöße automatisiert provoziert, um Kasse zu machen, hat laut EU-Generalanwalt Szpunar keinen Anspruch auf Schadenersatz und betreibt Missbrauch.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/EU-Generalanwalt-Google-Fonts-Abmahnwellen-sind-oft-rechtsmissbraeuchlich-11514000.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-11-05T17:40:00.000Z"
     },
     {
       "id": "n_ccc9e0485d",
@@ -266,15 +266,15 @@
       "publishedAt": "2026-11-06T15:44:02.000Z"
     },
     {
-      "id": "n_85f5fe53c7",
+      "id": "n_af31ad6378",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Nigerian court rules opposition candidate cannot stand in elections",
-      "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
+      "headline": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T17:35:55.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T21:49:50.000Z"
     },
     {
       "id": "n_8fc8e90c6b",
@@ -285,7 +285,29 @@
       "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T17:03:02.000Z"
+      "publishedAt": "2026-11-06T21:06:25.000Z"
+    },
+    {
+      "id": "n_9ce3058db8",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T17:44:02.000Z"
+    },
+    {
+      "id": "n_85f5fe53c7",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Nigerian court rules opposition candidate cannot stand in elections",
+      "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T17:35:55.000Z"
     },
     {
       "id": "n_108eb11f2a",
@@ -332,28 +354,6 @@
       "publishedAt": "2026-11-06T15:30:42.000Z"
     },
     {
-      "id": "n_8c805a1139",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "New wave of bomb threats hit European airlines",
-      "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T15:25:35.000Z"
-    },
-    {
-      "id": "n_d2d6666689",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-      "summary": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T15:02:03.000Z"
-    },
-    {
       "id": "n_3f5fe12d28",
       "type": "news",
       "topic": "tech",
@@ -374,17 +374,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-06T13:25:50.000Z"
-    },
-    {
-      "id": "n_af31ad6378",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T09:57:04.000Z"
     },
     {
       "id": "n_ec3e64150f",
@@ -431,92 +420,125 @@
       "publishedAt": "2026-11-04T00:04:35.000Z"
     },
     {
-      "id": "n_1443d6af9b",
+      "id": "n_4185e767d8",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Wisconsin reports measles death of a baby, first death in over 35 years",
-      "summary": "Next week, experts will determine if the US has lost its measles elimination status.",
+      "headline": "Man unexpectedly recovers from a knife wound through his eye and brain",
+      "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
-      "publishedAt": "2026-11-06T17:06:32.000Z"
+      "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+      "publishedAt": "2026-11-06T23:09:45.000Z"
     },
     {
-      "id": "n_01aef0d2f9",
+      "id": "n_5e8dffb0e5",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Could potential AI clones of GTA VI force a quicker official port?",
-      "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+      "headline": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+      "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
-      "publishedAt": "2026-11-06T16:19:12.000Z"
+      "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+      "publishedAt": "2026-11-06T22:41:37.000Z"
     },
     {
-      "id": "n_b5c1f3a915",
+      "id": "n_0e26b90ba7",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality",
-      "summary": "It has the best laptop screen we've used, but there may be reasons to wait.",
+      "headline": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+      "summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/",
-      "publishedAt": "2026-11-06T15:28:07.000Z"
+      "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+      "publishedAt": "2026-11-06T22:08:47.000Z"
     },
     {
-      "id": "n_8250334af1",
+      "id": "n_a5eef3cf57",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
-      "summary": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
+      "headline": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
-      "publishedAt": "2026-11-06T14:13:32.000Z"
+      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+      "publishedAt": "2026-11-06T20:56:41.000Z"
     },
     {
-      "id": "n_ba6c83f8e1",
+      "id": "n_8437660c5a",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "No more Cybertrucks; Musk moves on from the angular metallic flop",
-      "summary": "Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful.",
+      "headline": "Earth's churning mantle may have created the Great Unconformity",
+      "summary": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/",
-      "publishedAt": "2026-11-06T13:50:20.000Z"
+      "url": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
+      "publishedAt": "2026-11-06T20:24:20.000Z"
     },
     {
-      "id": "n_1d078774c4",
+      "id": "n_b20401b110",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Rocket Report: Artemis II literally tore through the atmosphere; New Glenn delay",
-      "summary": "Interstellar Technologies announces more government funding for the Japanese Zero rocket.",
+      "headline": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
+      "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/",
-      "publishedAt": "2026-11-06T13:33:20.000Z"
+      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
+      "publishedAt": "2026-11-06T20:05:30.000Z"
     },
     {
-      "id": "n_e024b4cae3",
+      "id": "n_9feda61082",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
-      "summary": "\"This is going to be a game-changer.\"",
+      "headline": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
+      "summary": "Developer: “I can’t be part of the Fox world.”",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
-      "publishedAt": "2026-11-06T00:17:06.000Z"
+      "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
+      "publishedAt": "2026-11-06T19:50:18.000Z"
     },
     {
-      "id": "n_9ed3b44bda",
+      "id": "n_41593e4bb4",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-      "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+      "headline": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
+      "summary": "FAA information display systems to be floppy-free at 435 sites by end of 2028.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-      "publishedAt": "2026-11-05T23:09:36.000Z"
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
+      "publishedAt": "2026-11-06T19:12:28.000Z"
+    },
+    {
+      "id": "n_314bd08978",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "publishedAt": "2026-11-06T22:53:46.000Z"
+    },
+    {
+      "id": "n_4758b3e084",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "publishedAt": "2026-11-06T18:44:38.000Z"
+    },
+    {
+      "id": "n_46e88a02e0",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "publishedAt": "2026-11-06T18:44:20.000Z"
     },
     {
       "id": "n_8604446381",
@@ -574,37 +596,37 @@
       "publishedAt": "2026-11-06T13:02:16.000Z"
     },
     {
-      "id": "n_f3bfec2868",
+      "id": "n_6813d62fd9",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Physicl raises $10M to make the digital world real enough for robots",
-      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-      "publishedAt": "2026-11-06T13:00:00.000Z"
+      "headline": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "publishedAt": "2026-11-06T23:46:18.000Z"
     },
     {
-      "id": "n_9889510bec",
+      "id": "n_1bc7ba2a28",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "publishedAt": "2026-11-06T06:28:32.000Z"
+      "headline": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "publishedAt": "2026-11-06T23:00:44.000Z"
     },
     {
-      "id": "n_01af2f668a",
+      "id": "n_c0641eb0de",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "publishedAt": "2026-11-05T22:40:55.000Z"
+      "headline": "All the latest updates on AI data centers",
+      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and th",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "publishedAt": "2026-11-06T20:02:22.000Z"
     },
     {
       "id": "n_52e0623fab",
@@ -612,7 +634,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-      "summary": "Meta will now allow you to build customized, app-like experiences within its Muse AI assistant. The new feature, called \"spaces,\" allows Muse to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the a",
+      "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse a",
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
       "publishedAt": "2026-11-06T18:10:10.000Z"
@@ -660,39 +682,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
       "publishedAt": "2026-11-06T14:00:00.000Z"
-    },
-    {
-      "id": "n_44766e97c4",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Protesters break into Microsoft data center site in Amsterdam",
-      "summary": "Members of the action group Geef Tegengas put a banner on a crane during a protest. | Image: Getty Images Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest again",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-      "publishedAt": "2026-11-06T11:55:19.000Z"
-    },
-    {
-      "id": "n_85f398082d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI is stepping back from NDAs for data center projects",
-      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public o",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "publishedAt": "2026-11-06T00:37:56.000Z"
-    },
-    {
-      "id": "n_cc48f8093c",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Airbnb is working on an AI travel agent",
-      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or sche",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-      "publishedAt": "2026-11-06T00:06:12.000Z"
     },
     {
       "id": "n_e804e0e792",
@@ -783,6 +772,17 @@
       "publishedAt": "2026-11-02T09:35:19.000Z"
     },
     {
+      "id": "n_938e426435",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "publishedAt": "2026-11-06T18:43:43.000Z"
+    },
+    {
       "id": "n_0667fe3d98",
       "type": "news",
       "topic": "ai",
@@ -858,17 +858,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
       "publishedAt": "2026-11-05T11:45:00.000Z"
-    },
-    {
-      "id": "n_88d1bdb9c1",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
-      "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
-      "publishedAt": "2026-11-04T23:13:14.000Z"
     },
     {
       "id": "n_be1ba71e55",
@@ -957,174 +946,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/transformers-mic",
       "publishedAt": "2026-11-03T00:00:00.000Z"
-    },
-    {
-      "id": "n_7a7f412202",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
-      "thumbnail": "https://i.ytimg.com/vi/XgC1QTs6A2U/hqdefault.jpg",
-      "publishedAt": "2026-11-06T07:27:02.000Z"
-    },
-    {
-      "id": "n_ce14acab8d",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI Claims It Just Did The Impossible",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
-      "thumbnail": "https://i.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg",
-      "publishedAt": "2026-10-30T15:57:16.000Z"
-    },
-    {
-      "id": "n_c66d1bea7b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek's New AI Is An Absolute Monster",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
-      "thumbnail": "https://i.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
-      "publishedAt": "2026-10-28T17:32:40.000Z"
-    },
-    {
-      "id": "n_5565a81df6",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gemini 4 Argon Is Not What I Expected",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
-      "thumbnail": "https://i.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
-      "publishedAt": "2026-10-19T08:49:21.000Z"
-    },
-    {
-      "id": "n_3f3a8c8623",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
-      "thumbnail": "https://i.ytimg.com/vi/ZAzWPE9CItg/hqdefault.jpg",
-      "publishedAt": "2026-10-26T22:51:51.000Z"
-    },
-    {
-      "id": "n_fb6a439eff",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
-      "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
-      "publishedAt": "2026-10-13T21:26:16.000Z"
-    },
-    {
-      "id": "n_c21d60498a",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
-      "publishedAt": "2026-09-17T00:34:47.000Z"
-    },
-    {
-      "id": "n_ffdb3dfd14",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
-      "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_02e3418836",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The one thing holding theoretical CS together just broke... kinda",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=iw9SZgyahqg",
-      "thumbnail": "https://i.ytimg.com/vi/iw9SZgyahqg/hqdefault.jpg",
-      "publishedAt": "2026-11-06T16:42:38.000Z"
-    },
-    {
-      "id": "n_c0d2e81c85",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The worst week in cybersecurity history... so far",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=k2ruCf_z75I",
-      "thumbnail": "https://i.ytimg.com/vi/k2ruCf_z75I/hqdefault.jpg",
-      "publishedAt": "2026-11-03T19:47:10.000Z"
-    },
-    {
-      "id": "n_9c145faf00",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did the AI bubble just pop?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=nEaJMdM1djM",
-      "thumbnail": "https://i.ytimg.com/vi/nEaJMdM1djM/hqdefault.jpg",
-      "publishedAt": "2026-10-28T13:31:29.000Z"
-    },
-    {
-      "id": "n_94fd9875fe",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "China just dropped a new frontier model... and nobody can explain how",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=G_em1hHPnXY",
-      "thumbnail": "https://i.ytimg.com/vi/G_em1hHPnXY/hqdefault.jpg",
-      "publishedAt": "2026-10-26T18:55:29.000Z"
-    },
-    {
-      "id": "n_0ec2db3ae5",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OLED iPad Mini is The Most Apple Product They've Ever Appled",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=g6Die8gVFn0",
-      "thumbnail": "https://i.ytimg.com/vi/g6Die8gVFn0/hqdefault.jpg",
-      "publishedAt": "2026-11-03T14:01:31.000Z"
-    },
-    {
-      "id": "n_342584f266",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Macbook PROLED XDR Impressions: They Said They Wouldn't!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=2reQut8WNGc",
-      "thumbnail": "https://i.ytimg.com/vi/2reQut8WNGc/hqdefault.jpg",
-      "publishedAt": "2026-10-29T02:50:34.000Z"
     }
   ]
 }
