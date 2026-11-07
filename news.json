@@ -1,27 +1,38 @@
 {
-  "generatedAt": "2026-11-07T09:21:19.853Z",
+  "generatedAt": "2026-11-07T17:04:44.374Z",
   "items": [
     {
-      "id": "n_b23ea7561b",
+      "id": "n_1d8f430f79",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Was passiert bei einer Bombendrohung im Flugzeug?",
-      "summary": "Die Bombendrohungen im europäischen Luftverkehr alarmieren Behörden - und verunsichern Passagiere. Gibt es solche Vorfälle öfter? Und was passiert bei einer Bombendrohung an Bord? Ein Überblick über die wichtigsten Fragen.",
+      "headline": "Weniger Teilnehmer bei neuen Demos in Frankreich",
+      "summary": "Das zweite Mal in dieser Woche und das vierte Wochenende in Folge haben in Frankreich Menschen gegen hohe Lebenskosten oder Probleme im Bildungssystem protestiert. Allerdings kamen diesmal deutlich weniger Teilnehmer.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/bombendrohungen-faq-100.html",
-      "publishedAt": "2026-11-07T08:10:26.000Z"
+      "url": "https://www.tagesschau.de/ausland/frankreich-proteste-246.html",
+      "publishedAt": "2026-11-07T16:59:14.000Z"
     },
     {
-      "id": "n_78a606015a",
+      "id": "n_3ec5331b3d",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Schwere Schäden nach Raketenangriffen auf Kiew",
-      "summary": "Erneut haben russische Raketen die ukrainische Hauptstadt Kiew und das Umland getroffen. Es gab zahlreiche Explosionen, so Bürgermeister Klitschko. Die Strom- und Wasserversorgung seien stark beeinträchtigt.",
+      "headline": "Polen: Mindestens fünf Tote nach Schüssen in Krakau",
+      "summary": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens fünf Menschen getötet und 15 Personen verletzt worden. Der mutmaßliche Täter konnte demnach gefasst werden.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
-      "publishedAt": "2026-11-07T07:40:23.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
+      "publishedAt": "2026-11-07T16:53:10.000Z"
+    },
+    {
+      "id": "n_99bf0990e0",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wofür Trumps neuer Stabschef Miller steht",
+      "summary": "Seit Freitag ist Stephen Miller neuer Stabschef von Präsident Trump. Der 41-Jährige gilt als rechter Hardliner und Kopf hinter der strikten Einwanderungspolitik. Welches Signal sendet Trump mit der Personalie an Republikaner und Demokraten?",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html",
+      "publishedAt": "2026-11-07T14:57:49.000Z"
     },
     {
       "id": "n_132c0ecc56",
@@ -29,65 +40,54 @@
       "topic": "general",
       "lang": "de",
       "headline": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
-      "summary": "Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal. Er will künftig mehr Frauen für die Bundeswehr gewinnen.",
+      "summary": "Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal - Spitzenvertreter der Union sehen das anders.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
-      "publishedAt": "2026-11-07T07:02:40.000Z"
+      "publishedAt": "2026-11-07T14:45:52.000Z"
     },
     {
-      "id": "n_eeadf3771f",
+      "id": "n_ade362f1fd",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Gesundheitsbehörde: Größter Masernausbruch in den USA seit 35 Jahren",
-      "summary": "Die USA erleben laut der Gesundheitsbehörde CDC den größten Masernausbruch seit 1991. Im Laufe des Jahres wurden bereits 5.182 Krankheitsfälle registriert. In Wisconsin starb erstmals seit mehr als dreieinhalb Jahrzehnten ein Baby.",
+      "headline": "Parlamentswahl in Neuseeland: Regierungspartei und Labour nahezu gleichauf",
+      "summary": "Neuseeland hat ein neues Parlament gewählt. Doch angesichts eines extrem knappen Wahlausgangs könnte es bei der Frage, welche Regierung das Land künftig führt, letztlich auf die kleinen Parteien ankommen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-masern-100.html",
-      "publishedAt": "2026-11-07T06:01:55.000Z"
+      "url": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-102.html",
+      "publishedAt": "2026-11-07T14:41:43.000Z"
     },
     {
-      "id": "n_2106d5e313",
+      "id": "n_e1cdc7ac80",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "AfD-Leak: Die interne Sorge vor finanziellen Folgen",
-      "summary": "Wer trägt die Verantwortung für das AfD-Leak? Der Landesverband Mecklenburg-Vorpommern fordert NDR und WDR zufolge, dass die Bundespartei mögliche Kosten aus Rechtsstreitigkeiten trägt. Von S. Pittelkow, M. Sarti und K. Riedel.",
+      "headline": "Pahlavi nimmt Freiheitspreis für iranisches Volk entgegen",
+      "summary": "Der iranische Oppositionelle Pahlavi hat stellvertretend für das iranische Volk den Freiheitspreis der FDP-nahen Friedrich-Naumann-Stiftung entgegengenommen. Während der Verleihung gab es auch Demonstrationen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/investigativ/ndr-wdr/afd-leak-folgen-100.html",
-      "publishedAt": "2026-11-07T05:00:12.000Z"
+      "url": "https://www.tagesschau.de/inland/regional/hessen/pahlavi-friedenspreis-frankfurt-100.html",
+      "publishedAt": "2026-11-07T13:25:25.000Z"
     },
     {
-      "id": "n_552ab614bd",
+      "id": "n_78a606015a",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Trumps neuer Stabschef Miller: \"Ein Warnschuss in Richtung des künftigen Kongresses\"",
-      "summary": "Auf Stabschefin Wiles folgt Hardliner Miller: Mit dieser Entscheidung reagiert Trump auf das Wahldebakel seiner Partei - und geht auf Konfrontationskurs zu den Demokraten. Doch auch Republikanern stößt die Personalie auf. Von C. Kühntopp.",
+      "headline": "Schwere Schäden nach Raketenangriffen auf Kiew",
+      "summary": "Russland hat kurz vor Wintereinbruch erneut die ukrainische Strom- und Wasserversorgung angegriffen. In einigen Teilen des Landes fiel der Strom aus. Präsident Selenskyj und Kiews Bürgermeister Klitschko streiten über die Verteidigung.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-miller-100.html",
-      "publishedAt": "2026-11-07T04:19:10.000Z"
+      "url": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html",
+      "publishedAt": "2026-11-07T12:13:38.000Z"
     },
     {
-      "id": "n_3a2f8be5f5",
+      "id": "n_92b5200977",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Sanierung der Bahnstrecke Berlin-Hannover: Massive Probleme für Pendler",
-      "summary": "Dass die Generalsanierung der Bahnstrecke Berlin-Hannover massive Verspätungen bedeutet, war klar. Doch nun zeigt sich: Die Pünktlichkeit auf der Ausweichstrecke ist selbst für Bahnverhältnisse unterdurchschnittlich. Von Andre Kartschall.",
+      "headline": "Ilse Aigner im Porträt: Krisenerprobt, bürgernah - und bald Staatsoberhaupt?",
+      "summary": "Ilse Aigner hat beste Chancen, die erste Bundespräsidentin Deutschlands zu werden. Obwohl sie bereits hohe Ämter auf Bundes- und Landesebene innehatte, stand sie nie in allererster Reihe. Ein Porträt von Anita Fünffinger.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bahn-berlin-hannover-bauarbeiten-pendler-100.html",
-      "publishedAt": "2026-11-07T02:54:24.000Z"
-    },
-    {
-      "id": "n_f2e61e2fec",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Gerät Tschechiens Wasserwirtschaft in Gefahr?",
-      "summary": "Seit zwei Jahren gibt es in Tschechien zu wenig Schnee und Regen - der wasserreichste Stausee ist mittlerweile halb leer. Sollte auch dieser Winter die Pegelstände nicht anheben, wäre die Versorgung im ganzen Land gefährdet. Von André Berthold.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/tschechien-wasserknappheit-100.html",
-      "publishedAt": "2026-11-07T02:08:29.000Z"
+      "url": "https://www.tagesschau.de/inland/ilse-aigner-portraet-100.html",
+      "publishedAt": "2026-11-07T11:30:37.000Z"
     },
     {
       "id": "n_ad7a4fee54",
@@ -178,6 +178,83 @@
       "publishedAt": "2026-11-05T18:43:00.000Z"
     },
     {
+      "id": "n_2c94c27fe7",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Other Worlds: Neue Stranger-Things-Serie spielt im Jahr 1955",
+      "summary": "Netflix bringt ein Spin-off von Stranger Things: Other Worlds spielt in den 50er Jahren und kommt mit neuen Charakteren. (Netflix, Streaming)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/outer-worlds-neue-stranger-things-serie-spielt-im-jahr-1955-2611-214964.html",
+      "publishedAt": "2026-11-07T13:17:02.000Z"
+    },
+    {
+      "id": "n_6a4bc148d2",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Carplay Display mit Android Auto günstig bei Amazon",
+      "summary": "Amazon hat ein Carplay Display im Angebot, das sowohl Apple Carplay als auch Android Auto unterstützt und als Freisprecheinrichtung dient. (Technik/Hardware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-carplay-display-mit-android-auto-guenstig-bei-amazon-2611-214944.html",
+      "publishedAt": "2026-11-07T12:40:01.000Z"
+    },
+    {
+      "id": "n_564718804c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Elektroauto: Yangwang U9 Xtreme durchbricht die 500-km/h-Grenze",
+      "summary": "Das elektrische Hypercar von Yangwang U9 Xtreme hat in Abu Dhabi 503,17 km/h erreicht. Die FIA hat den Wert offiziell anerkannt. (BYD, Elektroauto)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/elektroauto-yangwang-u9-xtreme-durchbricht-die-500-km-h-grenze-2611-214962.html",
+      "publishedAt": "2026-11-07T12:27:02.000Z"
+    },
+    {
+      "id": "n_641eb14466",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Amsterdam: Eskalation vor Microsoft-RZ-Baustelle endet mit 200 Festnahmen",
+      "summary": "Was als Demonstration gegen ein neues Rechenzentrum begann, mündete in Amsterdam in einen der größten Polizeieinsätze der jüngsten Zeit. (Microsoft, Rechenzentrum)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/amsterdam-eskalation-vor-microsoft-rz-baustelle-endet-mit-200-festnahmen-2611-214961.html",
+      "publishedAt": "2026-11-07T11:53:02.000Z"
+    },
+    {
+      "id": "n_d264405bf0",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "RIP Cybertruck: Elons Traummobil wurde nur vier Jahre alt",
+      "summary": "2027 ist Schluss mit dem Cybertruck - Elon Musks Auto, das nur Fans oder Hater zu haben scheint. Die Geschichte eines Fahrzeugs, das stets auf der Suche nach einer Zielgruppe war. Ein IMHO von Tobias Költzsch (Tesla Cybertruck, Elektroauto)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/rip-cybertruck-elons-traummobil-wurde-nur-vier-jahre-alt-2611-214960.html",
+      "publishedAt": "2026-11-07T11:22:02.000Z"
+    },
+    {
+      "id": "n_11b5048df9",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Midterm-Wahlen: VW untersucht Döllner-Auftritt mit Trump",
+      "summary": "Für seinen Auftritt auf einer Wahlveranstaltung wurde Audi-Chef Döllner stark kritisiert. Nun soll VW eine interne Untersuchung starten. (Audi, Politik)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/midterm-wahlen-vw-untersucht-doellner-auftritt-mit-trump-2611-214959.html",
+      "publishedAt": "2026-11-07T09:47:01.000Z"
+    },
+    {
+      "id": "n_068faf3e38",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Outdoor-Smartphone von Blackview jetzt mit 18 GByte RAM und riesigem Akku zum Angebotspreis",
+      "summary": "Kurz vor dem Black Friday hat Blackview ein neues Outdoor-Smartphone im Angebot. Es bietet einen ausdauernden Akku und gut 180 Euro Rabatt. (Smartphone, Mobil)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-outdoor-smartphone-von-blackview-jetzt-mit-18-gbyte-ram-und-riesigem-akku-zum-angebotspreis-2611-214947.html",
+      "publishedAt": "2026-11-07T09:40:02.000Z"
+    },
+    {
       "id": "n_7627e8b4f7",
       "type": "news",
       "topic": "tech",
@@ -189,81 +266,81 @@
       "publishedAt": "2026-11-07T09:00:01.000Z"
     },
     {
-      "id": "n_4001286312",
+      "id": "n_ad35b3d935",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Leipzig: Fahnder suchen mutmaßlichen Drohnen-Täter mit KI-Gesicht",
-      "summary": "Nach dem Drohnenanschlag auf den Flughafen Leipzig suchen Generalbundesanwalt und BKA mit einem ungewöhnlichen Mittel nach einer unbekannten Person. (KI, Security)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/leipzig-fahnder-suchen-mutmasslichen-drohnen-taeter-mit-ki-gesicht-2611-214948.html",
-      "publishedAt": "2026-11-07T08:26:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Italian foreign minister says hackers leaked his personal data",
+      "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T16:50:06.000Z"
     },
     {
-      "id": "n_f57a589f9c",
+      "id": "n_6627ae0c02",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Gina Hinojosa: Texas will Ausbau von KI-Rechenzentren auf Eis legen",
-      "summary": "Die künftige texanische Gouverneurin reagiert auf Proteste aus der Bevölkerung und will den Ausbau von Rechenzentren stoppen, bis Schutzgesetze stehen. (Rechenzentrum, KI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/gina-hinojosa-texas-will-ausbau-von-ki-rechenzentren-auf-eis-legen-2611-214946.html",
-      "publishedAt": "2026-11-07T07:23:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "No clear winner after tight New Zealand general election",
+      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T15:56:28.000Z"
     },
     {
-      "id": "n_52f4b4e46d",
+      "id": "n_154908852b",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Arcade in Tokio: Hier blinkt und piepst ein halbes Jahrhundert Videospielgeschichte",
-      "summary": "Blinkende Röhrenmonitore, klackernde Joysticks, Spiele aus den 1970ern: Im Mikado lebt Videospielgeschichte. Daneben wirken moderne Arcades wie Spielzeugläden. Eine Reportage von Peter Steinlechner (PC, Bandai Namco)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/arcade-hier-blinkt-und-piepst-ein-halbes-jahrhundert-videospielgeschichte-2611-214689.html",
-      "publishedAt": "2026-11-07T06:30:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T15:19:35.000Z"
     },
     {
-      "id": "n_a64c39e031",
+      "id": "n_e6afdaa46c",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Gesundheitsgefährdender Algorithmus: EU fordert grundlegende Änderungen bei Tiktok",
-      "summary": "Die EU-Kommission sieht Hinweise darauf, dass Tiktok seine Nutzer durch das Empfehlungssystem der App gesundheitlich gefährdet. (Tiktok, Politik)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/gesundheitsgefaehrdender-algorithmus-eu-fordert-grundlegende-aenderungen-bei-tiktok-2611-214945.html",
-      "publishedAt": "2026-11-07T06:11:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T12:49:36.000Z"
     },
     {
-      "id": "n_ccc9e0485d",
+      "id": "n_fe773657f4",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Ladegerät mit einziehbaren Kabeln für Zigarettenanzünder nur 16 Euro bei Amazon",
-      "summary": "Das Lisen-Auto-Ladegerät lädt vier Geräte gleichzeitig, rollt seine Kabel selbst ein und ist im befristeten Angebot deutlich günstiger. (Technik/Hardware, Auto)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-ladegeraet-mit-einziehbaren-kabeln-fuer-zigarettenanzuender-nur-16-euro-bei-amazon-2611-214934.html",
-      "publishedAt": "2026-11-06T18:30:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Four things we learned this week about 2028 White House race",
+      "summary": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T12:23:28.000Z"
     },
     {
-      "id": "n_81fcc5eea4",
+      "id": "n_4caa2a4546",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Cloud Competence Center: Strategien für die Cloud-Transformation",
-      "summary": "Cloud Governance erfordert klare Rollen, Prozesse und eine Roadmap. Ein Online-Workshop zeigt, wie Unternehmen ein Cloud Competence Center aufbauen. (Golem Karrierewelt, Verschlüsselung)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-cloud-competence-center-strategien-fuer-die-cloud-transformation-2611-214957.html",
-      "publishedAt": "2026-11-06T17:45:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Texas mayor instructs police to limit co-operation with ICE",
+      "summary": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T08:15:55.000Z"
     },
     {
-      "id": "n_0967bb7129",
+      "id": "n_2227d0d9b6",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Mini-Powerbank von Iniu mit 45 W und 10.000 mAh für unter 34 Euro",
-      "summary": "45 W, 10.000 mAh und ein abnehmbares USB-C-Kabel: Die kompakte Iniu P50 kostet bei Amazon derzeit wieder unter 34 Euro. (Technik/Hardware, Amazon)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-mini-powerbank-von-iniu-mit-45-w-und-10-000-mah-fuer-unter-34-euro-2611-214958.html",
-      "publishedAt": "2026-11-06T17:43:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+      "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T07:27:44.000Z"
     },
     {
       "id": "n_a41907c82a",
@@ -277,64 +354,9 @@
       "publishedAt": "2026-11-07T07:20:00.000Z"
     },
     {
-      "id": "n_d022c40745",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Pope in 'pretty good health' as he starts Latin America tour",
-      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T06:59:48.000Z"
-    },
-    {
-      "id": "n_444a515987",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "This man refused life-saving treatment because of his religion - days later the rules changed",
-      "summary": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T01:27:47.000Z"
-    },
-    {
-      "id": "n_cccced87af",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "The young Somali woman changing how the world sees Mogadishu",
-      "summary": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T01:19:49.000Z"
-    },
-    {
-      "id": "n_f727bf68d6",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-      "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T23:46:08.000Z"
-    },
-    {
-      "id": "n_1129afa748",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "With Stephen Miller pick, Trump readies for a battle",
-      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T23:24:15.000Z"
-    },
-    {
       "id": "n_af31ad6378",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
       "headline": "Elon Musk appears to signal the end of the road for Cybertruck",
       "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
@@ -345,7 +367,7 @@
     {
       "id": "n_8fc8e90c6b",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
       "headline": "AI stocks climb after trillions wiped from market values",
       "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
@@ -420,6 +442,28 @@
       "publishedAt": "2026-11-04T00:04:35.000Z"
     },
     {
+      "id": "n_f510be305e",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+      "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+      "publishedAt": "2026-11-07T12:15:55.000Z"
+    },
+    {
+      "id": "n_130145bcfb",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+      "publishedAt": "2026-11-07T11:00:34.000Z"
+    },
+    {
       "id": "n_4185e767d8",
       "type": "news",
       "topic": "tech",
@@ -484,28 +528,6 @@
       "source": "Ars Technica",
       "url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
       "publishedAt": "2026-11-06T20:05:30.000Z"
-    },
-    {
-      "id": "n_9feda61082",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
-      "summary": "Developer: “I can’t be part of the Fox world.”",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
-      "publishedAt": "2026-11-06T19:50:18.000Z"
-    },
-    {
-      "id": "n_41593e4bb4",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
-      "summary": "FAA information display systems to be floppy-free at 435 sites by end of 2028.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
-      "publishedAt": "2026-11-06T19:12:28.000Z"
     },
     {
       "id": "n_36231604b2",
@@ -596,6 +618,50 @@
       "publishedAt": "2026-11-06T14:10:00.000Z"
     },
     {
+      "id": "n_fa06ff8fdc",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "summary": "The NYT Cooking app now has a built in AI assistant. | Photo: Jennifer Pattison Tuohy / The Verge Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "publishedAt": "2026-11-07T15:50:00.000Z"
+    },
+    {
+      "id": "n_73be1ddc7f",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The US let Nvidia sell chips to an empty office in China",
+      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offi",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "publishedAt": "2026-11-07T15:43:45.000Z"
+    },
+    {
+      "id": "n_055e03fe8f",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "AI broke the cybersecurity world. What’s next?",
+      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so d",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "publishedAt": "2026-11-07T15:00:00.000Z"
+    },
+    {
+      "id": "n_8879475e62",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "summary": "Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "publishedAt": "2026-11-07T12:30:00.000Z"
+    },
+    {
       "id": "n_6813d62fd9",
       "type": "news",
       "topic": "ai",
@@ -638,50 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
       "publishedAt": "2026-11-06T18:10:10.000Z"
-    },
-    {
-      "id": "n_91f8d419f4",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI is the new dating dealbreaker",
-      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-      "publishedAt": "2026-11-06T17:00:00.000Z"
-    },
-    {
-      "id": "n_22815b4f72",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Big Tech lost big in the 2026 election",
-      "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-      "publishedAt": "2026-11-06T16:38:02.000Z"
-    },
-    {
-      "id": "n_c821c11af1",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "How Akai and Moog are embracing vibe-coded mods",
-      "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-      "publishedAt": "2026-11-06T16:34:39.000Z"
-    },
-    {
-      "id": "n_35ab47bbc7",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Amazon will let you text Alexa your shopping list",
-      "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching resul",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-      "publishedAt": "2026-11-06T14:00:00.000Z"
     },
     {
       "id": "n_e804e0e792",
@@ -772,6 +794,17 @@
       "publishedAt": "2026-11-02T09:35:19.000Z"
     },
     {
+      "id": "n_f5ca85f34e",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "publishedAt": "2026-11-07T11:00:00.000Z"
+    },
+    {
       "id": "n_938e426435",
       "type": "news",
       "topic": "ai",
@@ -847,17 +880,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
       "publishedAt": "2026-11-05T12:00:00.000Z"
-    },
-    {
-      "id": "n_398b9af750",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
-      "summary": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
-      "publishedAt": "2026-11-05T11:45:00.000Z"
     },
     {
       "id": "n_be1ba71e55",
@@ -948,6 +970,18 @@
       "publishedAt": "2026-11-03T00:00:00.000Z"
     },
     {
+      "id": "n_f825ed192f",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The OpenAI Astra Weight Hack, Explained",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
+      "thumbnail": "https://i.ytimg.com/vi/GJ6PMUm5oTA/hqdefault.jpg",
+      "publishedAt": "2026-11-07T16:24:47.000Z"
+    },
+    {
       "id": "n_7a7f412202",
       "type": "video",
       "topic": "video",
@@ -982,18 +1016,6 @@
       "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
       "thumbnail": "https://i.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
       "publishedAt": "2026-10-28T17:32:40.000Z"
-    },
-    {
-      "id": "n_5565a81df6",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Gemini 4 Argon Is Not What I Expected",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
-      "thumbnail": "https://i.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
-      "publishedAt": "2026-10-19T08:49:21.000Z"
     },
     {
       "id": "n_3f3a8c8623",
