@@ -1,16 +1,27 @@
 {
-  "generatedAt": "2026-11-07T21:09:26.736Z",
+  "generatedAt": "2026-11-08T02:58:08.939Z",
   "items": [
     {
-      "id": "n_3ec5331b3d",
+      "id": "n_c86ccf145e",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Polen: Mindestens sechs Tote nach Schüssen in Krakau",
-      "summary": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 16 Personen verletzt worden. Der mutmaßliche Täter konnte demnach gefasst werden.",
+      "headline": "FDP vor Parteitag: Kubicki sucht den Weg aus der Krise",
+      "summary": "Die FDP kommt heute zu einem digitalen Parteitag zusammen. Nach vielen Wahlniederlagen steckt die Partei in einer tiefen Krise. Bislang konnte das auch ihr neuer Vorsitzender Kubicki nicht ändern. Von Philipp Eckstein.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
-      "publishedAt": "2026-11-07T21:05:52.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/fdp-kubicki-effekt-100.html",
+      "publishedAt": "2026-11-08T02:28:44.000Z"
+    },
+    {
+      "id": "n_df3e770efe",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nach Schüssen in Krakau: Eine Stadt steht unter Schock",
+      "summary": "Ein Mann schießt in Krakau aus seinem Auto, er tötet sechs Menschen und verletzt viele weitere. Nach der Tat steht Polens zweitgrößte Stadt unter Schock. Ermittler suchen Antworten auf die bohrende Frage: Warum? Von Palina Milling.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/polen-krakau-schuesse-102.html",
+      "publishedAt": "2026-11-08T01:50:38.000Z"
     },
     {
       "id": "n_8fa3a44584",
@@ -18,10 +29,32 @@
       "topic": "general",
       "lang": "de",
       "headline": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
-      "summary": "Am Nachmittag hat ein Täter im polnischen Krakau aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt. Was bislang über die Tat bekannt ist.",
+      "summary": "Im polnischen Krakau hat ein Mann aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt, darunter auch eine deutsche. Was bislang über die Tat bekannt ist.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
-      "publishedAt": "2026-11-07T21:04:34.000Z"
+      "publishedAt": "2026-11-08T01:27:38.000Z"
+    },
+    {
+      "id": "n_bfbf8e481b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Französischer Präsidentschaftskandidat Mélenchon fordert NATO-Austritt",
+      "summary": "Bei der französischen Präsidentschaftswahl im kommenden April könnte er stark abschneiden: der linke Kandidat Mélenchon. Jetzt hat er sein Programm vorgestellt - und sich dabei nicht nur gegen die NATO positioniert.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-wahlprogramm-100.html",
+      "publishedAt": "2026-11-08T00:14:21.000Z"
+    },
+    {
+      "id": "n_3ec5331b3d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Polen: Mindestens sechs Tote nach Schüssen in Krakau",
+      "summary": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 16 Personen verletzt worden. Der mutmaßliche Täter konnte demnach gefasst werden. In seinem Wohnhaus wurden weitere Tote entdeckt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
+      "publishedAt": "2026-11-07T21:51:26.000Z"
     },
     {
       "id": "n_71a1532102",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-100.html",
       "publishedAt": "2026-11-07T19:56:52.000Z"
-    },
-    {
-      "id": "n_1d8f430f79",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Weniger Teilnehmer bei neuen Demos in Frankreich",
-      "summary": "Das zweite Mal in dieser Woche und das vierte Wochenende in Folge haben in Frankreich Menschen gegen hohe Lebenskosten oder Probleme im Bildungssystem protestiert. Allerdings kamen diesmal weniger Teilnehmer.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/frankreich-proteste-246.html",
-      "publishedAt": "2026-11-07T18:57:56.000Z"
-    },
-    {
-      "id": "n_99bf0990e0",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wofür Trumps neuer Stabschef Miller steht",
-      "summary": "Seit Freitag ist Stephen Miller neuer Stabschef von Präsident Trump. Der 41-Jährige gilt als rechter Hardliner und Kopf hinter der strikten Einwanderungspolitik. Welches Signal sendet Trump mit der Personalie an Republikaner und Demokraten?",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html",
-      "publishedAt": "2026-11-07T14:57:49.000Z"
-    },
-    {
-      "id": "n_132c0ecc56",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
-      "summary": "Die Wiedereinführung der Wehrpflicht scheint zum jetzigen Zeitpunkt offenbar nicht nötig. Verteidigungsminister Pistorius berichtet von einer positiven Entwicklung beim Bundeswehrpersonal - Spitzenvertreter der Union sehen das anders.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html",
-      "publishedAt": "2026-11-07T14:45:52.000Z"
     },
     {
       "id": "n_ad7a4fee54",
@@ -270,11 +270,22 @@
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "What we know so far after Polish gunman opens fire in Krakow main square",
-      "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+      "headline": "What we know so far after Krakow gun attack",
+      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T20:23:17.000Z"
+      "publishedAt": "2026-11-08T01:47:41.000Z"
+    },
+    {
+      "id": "n_6f06cf85fa",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T22:19:59.000Z"
     },
     {
       "id": "n_a41907c82a",
@@ -293,7 +304,7 @@
       "topic": "general",
       "lang": "en",
       "headline": "US offers $20m reward for information about Iran's nuclear programme",
-      "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-07T18:14:38.000Z"
@@ -343,15 +354,15 @@
       "publishedAt": "2026-11-07T15:56:28.000Z"
     },
     {
-      "id": "n_154908852b",
+      "id": "n_b0a43b0719",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "headline": "Can the Zelda remake capture the magic of the original?",
+      "summary": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T15:19:35.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T00:37:45.000Z"
     },
     {
       "id": "n_af31ad6378",
@@ -429,17 +440,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-04T16:26:15.000Z"
-    },
-    {
-      "id": "n_93b118af97",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Graduates are managing AI - but are they learning much else?",
-      "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T00:04:35.000Z"
     },
     {
       "id": "n_f510be305e",
@@ -530,6 +530,28 @@
       "publishedAt": "2026-11-06T20:05:30.000Z"
     },
     {
+      "id": "n_ed263cbbe1",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "publishedAt": "2026-11-07T22:07:22.000Z"
+    },
+    {
+      "id": "n_69c75581d5",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "publishedAt": "2026-11-07T21:17:08.000Z"
+    },
+    {
       "id": "n_36231604b2",
       "type": "news",
       "topic": "ai",
@@ -594,28 +616,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
       "publishedAt": "2026-11-06T17:23:52.000Z"
-    },
-    {
-      "id": "n_d275be2a12",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "publishedAt": "2026-11-06T15:54:47.000Z"
-    },
-    {
-      "id": "n_ab4846bbc5",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-      "publishedAt": "2026-11-06T14:10:00.000Z"
     },
     {
       "id": "n_fa06ff8fdc",
@@ -968,150 +968,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/transformers-mic",
       "publishedAt": "2026-11-03T00:00:00.000Z"
-    },
-    {
-      "id": "n_f825ed192f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI's Astra Just Opened The Black Box Of AI",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
-      "thumbnail": "https://i.ytimg.com/vi/GJ6PMUm5oTA/hqdefault.jpg",
-      "publishedAt": "2026-11-07T16:24:47.000Z"
-    },
-    {
-      "id": "n_7a7f412202",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
-      "thumbnail": "https://i.ytimg.com/vi/XgC1QTs6A2U/hqdefault.jpg",
-      "publishedAt": "2026-11-06T07:27:02.000Z"
-    },
-    {
-      "id": "n_ce14acab8d",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI Claims It Just Did The Impossible",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
-      "thumbnail": "https://i.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg",
-      "publishedAt": "2026-10-30T15:57:16.000Z"
-    },
-    {
-      "id": "n_c66d1bea7b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek's New AI Is An Absolute Monster",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
-      "thumbnail": "https://i.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
-      "publishedAt": "2026-10-28T17:32:40.000Z"
-    },
-    {
-      "id": "n_3f3a8c8623",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
-      "thumbnail": "https://i.ytimg.com/vi/ZAzWPE9CItg/hqdefault.jpg",
-      "publishedAt": "2026-10-26T22:51:51.000Z"
-    },
-    {
-      "id": "n_fb6a439eff",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
-      "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
-      "publishedAt": "2026-10-13T21:26:16.000Z"
-    },
-    {
-      "id": "n_c21d60498a",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
-      "publishedAt": "2026-09-17T00:34:47.000Z"
-    },
-    {
-      "id": "n_ffdb3dfd14",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
-      "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_02e3418836",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The one thing holding theoretical CS together just broke... kinda",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=iw9SZgyahqg",
-      "thumbnail": "https://i.ytimg.com/vi/iw9SZgyahqg/hqdefault.jpg",
-      "publishedAt": "2026-11-06T16:42:38.000Z"
-    },
-    {
-      "id": "n_c0d2e81c85",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The worst week in cybersecurity history... so far",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=k2ruCf_z75I",
-      "thumbnail": "https://i.ytimg.com/vi/k2ruCf_z75I/hqdefault.jpg",
-      "publishedAt": "2026-11-03T19:47:10.000Z"
-    },
-    {
-      "id": "n_9c145faf00",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did the AI bubble just pop?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=nEaJMdM1djM",
-      "thumbnail": "https://i.ytimg.com/vi/nEaJMdM1djM/hqdefault.jpg",
-      "publishedAt": "2026-10-28T13:31:29.000Z"
-    },
-    {
-      "id": "n_94fd9875fe",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "China just dropped a new frontier model... and nobody can explain how",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=G_em1hHPnXY",
-      "thumbnail": "https://i.ytimg.com/vi/G_em1hHPnXY/hqdefault.jpg",
-      "publishedAt": "2026-10-26T18:55:29.000Z"
     },
     {
       "id": "n_2511c0dfdf",
