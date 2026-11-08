@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-11-08T02:58:08.939Z",
+  "generatedAt": "2026-11-08T09:49:00.574Z",
   "items": [
+    {
+      "id": "n_5e3c087367",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Papst Leo XIV. setzt Südamerika-Reise fort",
+      "summary": "Zum Auftakt seiner Südamerika-Reise traf Papst Leo XIV. in Uruguay auf Armut und Gläubige in einer meist säkularen Gesellschaft. Nun geht es nach Argentinien, dessen Staatschef den Pontifex bisher eher als Kritiker kennt. Von Tilmann Kleinjung.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/papst-leo-suedamerika-uruguay-100.html",
+      "publishedAt": "2026-11-08T08:27:56.000Z"
+    },
+    {
+      "id": "n_eb0b57fd6e",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Guatemalas Korruptionsbekämpfer riskieren ihr Leben",
+      "summary": "Guatemalas Präsident Arévalo versucht, die Korruption im Land zu bekämpfen. Doch der Widerstand einflussreicher Kreise ist massiv. Der Mord an einem der bekanntesten Anwälte des Landes zeigt, wie entschlossen sie sind. Von A. Demmer.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/guatemala-kampf-korruption-100.html",
+      "publishedAt": "2026-11-08T07:39:28.000Z"
+    },
+    {
+      "id": "n_d4a61396de",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wie der Aktienkauf rund um die Uhr funktionieren soll",
+      "summary": "Die Deutsche Börse in Frankfurt ermöglicht ab sofort den Handel mit DAX-Werten auch nachts oder am Wochenende. Noch gibt es allerdings eine wichtige Hürde. Was Anleger wissen sollten. Von Alina Leimbach.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/aktien-kauf-nachts-100.html",
+      "publishedAt": "2026-11-08T07:35:33.000Z"
+    },
+    {
+      "id": "n_199019d930",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Mehr als 20 Verletzte nach Erdbeben in Zentraljapan",
+      "summary": "Mehrere Regionen in Japan wurden in der Nacht von einem Erdbeben der Stärke 5,7 erschüttert. Am stärksten betroffen war die Präfektur Aichi. Medien berichten über mehr als 20 Verletzte. Laut Behörden könnten weitere Beben folgen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-aichi-100.html",
+      "publishedAt": "2026-11-08T07:27:58.000Z"
+    },
+    {
+      "id": "n_f3851c49d1",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "US-Militär attackiert Handelsschiff im Golf von Oman",
+      "summary": "Im Golf von Oman hat das US-Militär auf ein Handelsschiff gefeuert, das gegen die US-Seeblockade verstoßen haben soll. Iran meldet unterdessen, dass zwei Frachter in der Straße von Hormus in Brand geraten seien.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/usa-iran-seeblockade-angriff-handelsschiff-100.html",
+      "publishedAt": "2026-11-08T06:01:58.000Z"
+    },
+    {
+      "id": "n_00449a5029",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Medienbericht: Kaum Geld aus Sondervermögen in Bildungsinfrastruktur geflossen",
+      "summary": "Vom Sondervermögen des Bundes sollen auch Schulen, Kitas und Wissenschaft profitieren. Doch von den vorgesehenen Mitteln ist bislang offenbar nur ein Bruchteil in die Bildungsinfrastruktur geflossen. Die Grünen kritisieren das.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/sondervermoegen-bildungsinfrastruktur-100.html",
+      "publishedAt": "2026-11-08T03:28:25.000Z"
+    },
     {
       "id": "n_c86ccf145e",
       "type": "news",
@@ -22,72 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/polen-krakau-schuesse-102.html",
       "publishedAt": "2026-11-08T01:50:38.000Z"
-    },
-    {
-      "id": "n_8fa3a44584",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "FAQ: Was ist über die Schüsse in Krakau bekannt?",
-      "summary": "Im polnischen Krakau hat ein Mann aus einem Auto geschossen und mindestens sechs Menschen getötet. Weitere Personen wurden verletzt, darunter auch eine deutsche. Was bislang über die Tat bekannt ist.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
-      "publishedAt": "2026-11-08T01:27:38.000Z"
-    },
-    {
-      "id": "n_bfbf8e481b",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Französischer Präsidentschaftskandidat Mélenchon fordert NATO-Austritt",
-      "summary": "Bei der französischen Präsidentschaftswahl im kommenden April könnte er stark abschneiden: der linke Kandidat Mélenchon. Jetzt hat er sein Programm vorgestellt - und sich dabei nicht nur gegen die NATO positioniert.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-wahlprogramm-100.html",
-      "publishedAt": "2026-11-08T00:14:21.000Z"
-    },
-    {
-      "id": "n_3ec5331b3d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Polen: Mindestens sechs Tote nach Schüssen in Krakau",
-      "summary": "Bei Schüssen in der polnischen Stadt Krakau sind laut Polizei mindestens sechs Menschen getötet und 16 Personen verletzt worden. Der mutmaßliche Täter konnte demnach gefasst werden. In seinem Wohnhaus wurden weitere Tote entdeckt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-100.html",
-      "publishedAt": "2026-11-07T21:51:26.000Z"
-    },
-    {
-      "id": "n_71a1532102",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Bankenkrise: Anklage gegen Paraguays Ex-Präsidenten",
-      "summary": "Nur einen Tag nach seiner Amtsenthebung muss sich Paraguays Ex-Präsident Peña wegen seiner Rolle im Bankenskandal vor der Justiz verantworten. Die Staatsanwaltschaft fordert Untersuchungshaft.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/ermittlungen-paraguay-pena-100.html",
-      "publishedAt": "2026-11-07T20:33:23.000Z"
-    },
-    {
-      "id": "n_e68a8d456a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Oppositionsführer Eisenkot soll Israels neue Regierung bilden",
-      "summary": "Endet die Ära Netanjahu in Israel? Staatspräsident Herzog beauftragt den Oppositionspolitiker Eisenkot mit der Regierungsbildung. In den kommenden 28 Tagen soll er versuchen, eine Koalition zu schmieden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html",
-      "publishedAt": "2026-11-07T20:31:48.000Z"
-    },
-    {
-      "id": "n_2a662087ac",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Papst in Uruguay: Schwierige Mission für Leo XIV.",
-      "summary": "Zum Auftakt seiner Südamerika-Reise besucht Papst Leo XIV. Uruguay - ein Land, in dem der Glaube im Alltag kaum eine Rolle spielt. Doch im Armenviertel der Hauptstadt findet die soziale Arbeit der Kirche Anklang. Von Anne Herrberg.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-100.html",
-      "publishedAt": "2026-11-07T19:56:52.000Z"
     },
     {
       "id": "n_ad7a4fee54",
@@ -178,6 +178,50 @@
       "publishedAt": "2026-11-05T18:43:00.000Z"
     },
     {
+      "id": "n_1477d61481",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Bei Dunkelflaute: Effizientere Wärmepumpe dank chemischem Speicher",
+      "summary": "Damit Wärmepumpen bei einer Kältewelle verlässlich heizen, ist die Kombination mit Speichern sinnvoll. Eine effizientere Pumpe allein genügt nicht. (Wärmepumpe, Akku)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/bei-dunkelflaute-effizientere-waermepumpe-dank-chemischem-speicher-2611-214965.html",
+      "publishedAt": "2026-11-08T09:47:02.000Z"
+    },
+    {
+      "id": "n_d06e758dae",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "(g+) Pizzarechner mit Flutter: Einstieg in Web-Apps leicht gemacht",
+      "summary": "Mit Flutter/Dart kleine, kompakte Web-Apps bauen, ohne Javascript und HTML schreiben zu müssen - geht das überhaupt? Spoiler: Ja, das geht. Der Artikel zeigt, wie. Eine Anleitung von Stefanie Schmidt (Softwareentwicklung, Ruby)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/pizzarechner-mit-flutter-einstieg-in-web-apps-leicht-gemacht-2611-214942.html",
+      "publishedAt": "2026-11-08T09:00:02.000Z"
+    },
+    {
+      "id": "n_42bd303b46",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Lego-Alternative: Das Bluebrixx nur für Hartgesottene",
+      "summary": "Modbrix-Modelle sehen toll aus, wenn sie fertiggesteckt sind. Selten haben wir aber das Bauen mit Klemmbausteinen so verflucht. Ein Erfahrungsbericht von Oliver Nickel (Bluebrixx, Lego)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/lego-alternative-das-bluebrixx-nur-fuer-hartgesottene-2611-214936.html",
+      "publishedAt": "2026-11-08T06:30:02.000Z"
+    },
+    {
+      "id": "n_e918b48b61",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: IT-Jobs in Cloud, Systemadministration und Softwareentwicklung",
+      "summary": "Ob Cloud-Administration, IT-Security, SAP SuccessFactors oder Fullstack-Entwicklung - diese sechs IT-Jobs bieten vielseitige Aufgaben. (Golem Karrierewelt, Unternehmenssoftware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-it-jobs-in-cloud-systemadministration-und-softwareentwicklung-2611-214922.html",
+      "publishedAt": "2026-11-08T06:00:02.000Z"
+    },
+    {
       "id": "n_2c94c27fe7",
       "type": "news",
       "topic": "tech",
@@ -222,48 +266,15 @@
       "publishedAt": "2026-11-07T11:53:02.000Z"
     },
     {
-      "id": "n_d264405bf0",
+      "id": "n_461eb78085",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "RIP Cybertruck: Elons Traummobil wurde nur vier Jahre alt",
-      "summary": "2027 ist Schluss mit dem Cybertruck - Elon Musks Auto, das nur Fans oder Hater zu haben scheint. Die Geschichte eines Fahrzeugs, das stets auf der Suche nach einer Zielgruppe war. Ein IMHO von Tobias Költzsch (Tesla Cybertruck, Elektroauto)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/rip-cybertruck-elons-traummobil-wurde-nur-vier-jahre-alt-2611-214960.html",
-      "publishedAt": "2026-11-07T11:22:02.000Z"
-    },
-    {
-      "id": "n_11b5048df9",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Midterm-Wahlen: VW untersucht Döllner-Auftritt mit Trump",
-      "summary": "Für seinen Auftritt auf einer Wahlveranstaltung wurde Audi-Chef Döllner stark kritisiert. Nun soll VW eine interne Untersuchung starten. (Audi, Politik)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/midterm-wahlen-vw-untersucht-doellner-auftritt-mit-trump-2611-214959.html",
-      "publishedAt": "2026-11-07T09:47:01.000Z"
-    },
-    {
-      "id": "n_068faf3e38",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Outdoor-Smartphone von Blackview jetzt mit 18 GByte RAM und riesigem Akku zum Angebotspreis",
-      "summary": "Kurz vor dem Black Friday hat Blackview ein neues Outdoor-Smartphone im Angebot. Es bietet einen ausdauernden Akku und gut 180 Euro Rabatt. (Smartphone, Mobil)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-outdoor-smartphone-von-blackview-jetzt-mit-18-gbyte-ram-und-riesigem-akku-zum-angebotspreis-2611-214947.html",
-      "publishedAt": "2026-11-07T09:40:02.000Z"
-    },
-    {
-      "id": "n_7627e8b4f7",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "(g+) Surveillance Pricing: Wie weit dürfen Händler Preise personalisieren?",
-      "summary": "Ein Produkt, zwei Kunden, zwei unterschiedliche Preise: Wir erklären, wann Händler in der EU Kundendaten zur Preisgestaltung nutzen dürfen und wo Datenschutz- und Verbraucherrecht Grenzen setzen. Eine Analyse von Nils Matthiesen (Verbraucherschutz, KI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/surveillance-pricing-wie-weit-duerfen-haendler-preise-personalisieren-2611-214937.html",
-      "publishedAt": "2026-11-07T09:00:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "How the deadly shooting in Krakow unfolded",
+      "summary": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T09:29:24.000Z"
     },
     {
       "id": "n_10a11a2077",
@@ -271,10 +282,43 @@
       "topic": "general",
       "lang": "en",
       "headline": "What we know so far after Krakow gun attack",
-      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
+      "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T01:47:41.000Z"
+      "publishedAt": "2026-11-08T07:52:33.000Z"
+    },
+    {
+      "id": "n_b3534df0c8",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Houthis say at least 33 killed in Saudi air strike",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T04:03:12.000Z"
+    },
+    {
+      "id": "n_37d974face",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "The Trump coalition is shattered - what will Republicans do now?",
+      "summary": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T00:52:39.000Z"
+    },
+    {
+      "id": "n_4a5aba3dab",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+      "summary": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T00:48:59.000Z"
     },
     {
       "id": "n_6f06cf85fa",
@@ -288,6 +332,17 @@
       "publishedAt": "2026-11-07T22:19:59.000Z"
     },
     {
+      "id": "n_6e31703fcb",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T21:36:16.000Z"
+    },
+    {
       "id": "n_a41907c82a",
       "type": "news",
       "topic": "general",
@@ -297,61 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-07T19:17:22.000Z"
-    },
-    {
-      "id": "n_a190c1df03",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US offers $20m reward for information about Iran's nuclear programme",
-      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T18:14:38.000Z"
-    },
-    {
-      "id": "n_c334eb223f",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Gaza wedding festival sees 250 couples married at the same time",
-      "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T17:58:41.000Z"
-    },
-    {
-      "id": "n_b3534df0c8",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Houthis say at least 25 killed in Saudi air strike",
-      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T17:09:24.000Z"
-    },
-    {
-      "id": "n_ad35b3d935",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Italian foreign minister says hackers leaked his personal data",
-      "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T16:50:06.000Z"
-    },
-    {
-      "id": "n_6627ae0c02",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "No clear winner after tight New Zealand general election",
-      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T15:56:28.000Z"
     },
     {
       "id": "n_b0a43b0719",
@@ -968,6 +968,150 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/transformers-mic",
       "publishedAt": "2026-11-03T00:00:00.000Z"
+    },
+    {
+      "id": "n_f825ed192f",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "OpenAI's Astra Just Opened The Black Box Of AI",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
+      "thumbnail": "https://i.ytimg.com/vi/GJ6PMUm5oTA/hqdefault.jpg",
+      "publishedAt": "2026-11-07T16:24:47.000Z"
+    },
+    {
+      "id": "n_7a7f412202",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
+      "thumbnail": "https://i.ytimg.com/vi/XgC1QTs6A2U/hqdefault.jpg",
+      "publishedAt": "2026-11-06T07:27:02.000Z"
+    },
+    {
+      "id": "n_ce14acab8d",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "OpenAI Claims It Just Did The Impossible",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
+      "thumbnail": "https://i.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg",
+      "publishedAt": "2026-10-30T15:57:16.000Z"
+    },
+    {
+      "id": "n_c66d1bea7b",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DeepSeek's New AI Is An Absolute Monster",
+      "summary": "",
+      "source": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
+      "thumbnail": "https://i.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
+      "publishedAt": "2026-10-28T17:32:40.000Z"
+    },
+    {
+      "id": "n_3f3a8c8623",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
+      "thumbnail": "https://i.ytimg.com/vi/ZAzWPE9CItg/hqdefault.jpg",
+      "publishedAt": "2026-10-26T22:51:51.000Z"
+    },
+    {
+      "id": "n_fb6a439eff",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
+      "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
+      "publishedAt": "2026-10-13T21:26:16.000Z"
+    },
+    {
+      "id": "n_c21d60498a",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
+      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
+      "publishedAt": "2026-09-17T00:34:47.000Z"
+    },
+    {
+      "id": "n_ffdb3dfd14",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
+      "summary": "",
+      "source": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
+      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
+      "publishedAt": "2026-08-26T21:44:41.000Z"
+    },
+    {
+      "id": "n_02e3418836",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The one thing holding theoretical CS together just broke... kinda",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=iw9SZgyahqg",
+      "thumbnail": "https://i.ytimg.com/vi/iw9SZgyahqg/hqdefault.jpg",
+      "publishedAt": "2026-11-06T16:42:38.000Z"
+    },
+    {
+      "id": "n_c0d2e81c85",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "The worst week in cybersecurity history... so far",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=k2ruCf_z75I",
+      "thumbnail": "https://i.ytimg.com/vi/k2ruCf_z75I/hqdefault.jpg",
+      "publishedAt": "2026-11-03T19:47:10.000Z"
+    },
+    {
+      "id": "n_9c145faf00",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Did the AI bubble just pop?",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=nEaJMdM1djM",
+      "thumbnail": "https://i.ytimg.com/vi/nEaJMdM1djM/hqdefault.jpg",
+      "publishedAt": "2026-10-28T13:31:29.000Z"
+    },
+    {
+      "id": "n_94fd9875fe",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "China just dropped a new frontier model... and nobody can explain how",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=G_em1hHPnXY",
+      "thumbnail": "https://i.ytimg.com/vi/G_em1hHPnXY/hqdefault.jpg",
+      "publishedAt": "2026-10-26T18:55:29.000Z"
     },
     {
       "id": "n_2511c0dfdf",
