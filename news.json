@@ -1,6 +1,72 @@
 {
-  "generatedAt": "2026-11-08T21:25:26.896Z",
+  "generatedAt": "2026-11-09T03:19:53.183Z",
   "items": [
+    {
+      "id": "n_dd188c490b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Trump will Kampfsportunternehmer White als Pressesprecher",
+      "summary": "\"Ein gewalttätiger Kämpfer und Krieger\": Mit einem unkonventionellen Vorschlag löst US-Präsident Trump Rätselraten aus: Der Chef der Kampfsportliga UFC soll Pressesprecher werden. Alles nur ein Scherz, rudert Trump später zurück.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html",
+      "publishedAt": "2026-11-09T02:49:02.000Z"
+    },
+    {
+      "id": "n_a09198ee98",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Historische Niederlage: ANC stürzt bei Kommunalwahl in Südafrika ab",
+      "summary": "Bei den Kommunalwahlen in Südafrika hat der Afrikanische Nationalkongress (ANC) eine herbe Niederlage eingefahren. Viele sind angesichts Kriminalität und Korruption enttäuscht von der Partei, die das Land aus der Apartheid geführt hatte.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/wahlen-suedafrika-102.html",
+      "publishedAt": "2026-11-09T02:47:21.000Z"
+    },
+    {
+      "id": "n_bebc1d2f6b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Krakau nach der Tat - der Stand der Ermittlungen",
+      "summary": "Hunderte Menschen in Krakau haben gemeinsam der sechs Opfer gedacht, die am Wochenende auf einem zentralen Platz der Stadt erschossen wurden. Gleichzeitig ermitteln die Behörden weiter - wegen des Verdachts auf Terrorismus.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ermittlungen-krakau-100.html",
+      "publishedAt": "2026-11-09T02:02:19.000Z"
+    },
+    {
+      "id": "n_560c51ff72",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Papst Leo XIV. fordert in Argentinien mehr Rücksicht auf Schwache",
+      "summary": "Zu Beginn seines Argentinienbesuchs hat Papst Leo XIV. Kritik an der \"Kettensägen-Politik\" von Präsident Milei geübt und zu mehr Rücksicht aufgerufen. Seit fast vier Jahrzehnten war kein Papst mehr in dem südamerikanischen Land zu Gast.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html",
+      "publishedAt": "2026-11-09T00:43:39.000Z"
+    },
+    {
+      "id": "n_40325239ce",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Mindestens 21 Tote nach Bootsunglück vor Senegal gemeldet",
+      "summary": "Vor der Küste Senegals ist ein Boot gekentert. Die Behörden bestätigten mehr als 20 Tote, mit weiteren wird gerechnet. Zahlreiche Menschen versuchen jedes Jahr, über die gefährliche Atlantikroute aus Westafrika in die EU zu gelangen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/afrika/viele-tote-bootsunglueck-senegal-100.html",
+      "publishedAt": "2026-11-09T00:32:33.000Z"
+    },
+    {
+      "id": "n_acba0e9c61",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+      "summary": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben. Von Gabi Biesinger.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/nvidia-spionage-pruefung-100.html",
+      "publishedAt": "2026-11-08T23:11:37.000Z"
+    },
     {
       "id": "n_310cfa6841",
       "type": "news",
@@ -24,70 +90,15 @@
       "publishedAt": "2026-11-08T20:15:13.000Z"
     },
     {
-      "id": "n_91ccbd72a6",
+      "id": "n_52ae6f92a8",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Kanzler Merz will Aigner als Bundespräsidentin vorschlagen",
-      "summary": "Bislang hatte sich Kanzler Merz in der Frage zur Bundespräsidenten-Nachfolge zurückgehalten. Jetzt machte er es offiziell: Der CDU-Chef will am Montag Ilse Aigner dafür vorschlagen - als erste Frau in diesem Amt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-merz-100.html",
-      "publishedAt": "2026-11-08T20:05:22.000Z"
-    },
-    {
-      "id": "n_d5216acf96",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Chef der Jungen Union: \"Junge Generation wird von der Politik vernachlässigt\"",
-      "summary": "Viele junge Menschen fühlen sich politisch übergangen. Das liege auch daran, dass Pläne wie die Rentenreform nicht umgesetzt würden, sagt Winkel, Vorsitzender der Jungen Union, im Bericht aus Berlin. Die Regierung habe einiges wieder gut zu machen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-junge-generation-100.html",
-      "publishedAt": "2026-11-08T19:43:02.000Z"
-    },
-    {
-      "id": "n_aafb4ed9b0",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Parteitag: FDP bündelt Kräfte für Landtagswahlen kommendes Jahr",
-      "summary": "Die FDP kämpft ums Überleben. Ihre letzte Chance dürften die Landtagswahlen kommendes Jahr sein. Während des digitalen Parteitags versuchte FDP-Chef Kubicki, die Liberalen als Gegengewicht zur Regierung zu etablieren. Von Lissy Kaufmann.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/fdp-bundesparteitag-122.html",
-      "publishedAt": "2026-11-08T18:53:14.000Z"
-    },
-    {
-      "id": "n_24f9420b2a",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
-      "summary": "Amsterdam ist erneut Schauplatz einer Großdemonstration gegen das israelische Vorgehen im Gazastreifen geworden. Der Protest verlief laut Polizei friedlich. Ministerpräsident Jetten war dieses Mal nicht dabei.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html",
-      "publishedAt": "2026-11-08T17:02:14.000Z"
-    },
-    {
-      "id": "n_efe2bd5e11",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Ukraine-Gespräche in Abu Dhabi: Europäer sind laut Frankreich \"gut vertreten\"",
-      "summary": "Ab Dienstag soll in Abu Dhabi über einen möglichen Frieden in der Ukraine verhandelt werden. Laut dem französischen Außenminister Barrot ist auch Europa vertreten: Frankreich werde an den Gesprächen mit den Russen teilnehmen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html",
-      "publishedAt": "2026-11-08T16:33:42.000Z"
-    },
-    {
-      "id": "n_726c131d8d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Israel: Oppositionsführer Eisenkot soll neue Regierung bilden",
-      "summary": "Nun ist es offiziell: Israels Präsident Herzog hat den Oppositionspolitiker Eisenkot mit der Regierungsbildung beauftragt. Der Ex-Militärchef appellierte an die anderen Parteien, \"unkonventionelle politische Schritte\" zu akzeptieren.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/israel-auftrag-regierungsbildung-eisenkot-100.html",
-      "publishedAt": "2026-11-08T16:07:41.000Z"
+      "headline": "Jensen Huang gesteht Affäre ein, Nvidia beginnt Untersuchung",
+      "summary": "Das Board von Nvidia hat mit externer Unterstützung eine Untersuchung gegen seinen CEO eingeleitet. Es geht um Verbindungen zu chinesischen Geheimdiensten.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Jensen-Huang-gesteht-Affaere-ein-Nvidia-beginnt-Untersuchung-11516757.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-11-08T22:06:00.000Z"
     },
     {
       "id": "n_ad7a4fee54",
@@ -165,17 +176,6 @@
       "source": "heise online",
       "url": "https://www.heise.de/news/Nach-US-Zwischenwahlen-Skepsis-zum-KI-Boom-loest-heftigen-Boersenabsturz-aus-11514310.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
       "publishedAt": "2026-11-06T06:03:00.000Z"
-    },
-    {
-      "id": "n_a583d92bb3",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "„World of Warcraft: Forever“ ist da: Blizzard erweitert das Azeroth von 2004",
-      "summary": "Blizzard hat „World of Warcraft: Forever“ veröffentlicht. Die neue Dauer-Variante des MMORPGs erweitert das Azeroth der Anfangszeit um neue Inhalte.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Forever-Blizzard-laedt-erneut-zurueck-ins-alte-World-of-Warcraft-11514106.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-11-05T18:43:00.000Z"
     },
     {
       "id": "n_7b16396111",
@@ -266,6 +266,39 @@
       "publishedAt": "2026-11-08T10:36:01.000Z"
     },
     {
+      "id": "n_97b1a1785a",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T23:34:18.000Z"
+    },
+    {
+      "id": "n_a06a85a618",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+      "summary": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T22:05:12.000Z"
+    },
+    {
+      "id": "n_f17511fbf6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-08T21:37:36.000Z"
+    },
+    {
       "id": "n_fd082421c3",
       "type": "news",
       "topic": "general",
@@ -275,17 +308,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-08T19:58:02.000Z"
-    },
-    {
-      "id": "n_97b1a1785a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T18:22:53.000Z"
     },
     {
       "id": "n_1d829d59cf",
@@ -330,28 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-08T09:29:24.000Z"
-    },
-    {
-      "id": "n_b3534df0c8",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Houthis say at least 33 killed in Saudi air strike",
-      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T04:03:12.000Z"
-    },
-    {
-      "id": "n_37d974face",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "The Trump coalition is shattered - what will Republicans do now?",
-      "summary": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T00:52:39.000Z"
     },
     {
       "id": "n_b628553be4",
@@ -618,6 +618,17 @@
       "publishedAt": "2026-11-06T18:00:00.000Z"
     },
     {
+      "id": "n_67abd93f19",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "summary": "Jensen Huang, chief executive officer of Nvidia Corp., attends a media briefing following the company's \"Japan AI Ecosystem\" reception in Tokyo, Japan, on Thursday, July 16, 2026. Japan is planning to buy 27,500 next-generation Rubin chips from Nvidia Corp. to build a homegrown f",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "publishedAt": "2026-11-08T22:54:50.000Z"
+    },
+    {
       "id": "n_ecd65815b5",
       "type": "news",
       "topic": "ai",
@@ -693,17 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
       "publishedAt": "2026-11-07T12:30:00.000Z"
-    },
-    {
-      "id": "n_6813d62fd9",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "publishedAt": "2026-11-06T23:46:18.000Z"
     },
     {
       "id": "n_e804e0e792",
@@ -968,186 +968,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/transformers-mic",
       "publishedAt": "2026-11-03T00:00:00.000Z"
-    },
-    {
-      "id": "n_f825ed192f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI's Astra Just Opened The Black Box Of AI",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
-      "thumbnail": "https://i.ytimg.com/vi/GJ6PMUm5oTA/hqdefault.jpg",
-      "publishedAt": "2026-11-07T16:24:47.000Z"
-    },
-    {
-      "id": "n_7a7f412202",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
-      "thumbnail": "https://i.ytimg.com/vi/XgC1QTs6A2U/hqdefault.jpg",
-      "publishedAt": "2026-11-06T07:27:02.000Z"
-    },
-    {
-      "id": "n_ce14acab8d",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI Claims It Just Did The Impossible",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
-      "thumbnail": "https://i.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg",
-      "publishedAt": "2026-10-30T15:57:16.000Z"
-    },
-    {
-      "id": "n_c66d1bea7b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek's New AI Is An Absolute Monster",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
-      "thumbnail": "https://i.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
-      "publishedAt": "2026-10-28T17:32:40.000Z"
-    },
-    {
-      "id": "n_3f3a8c8623",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
-      "thumbnail": "https://i.ytimg.com/vi/ZAzWPE9CItg/hqdefault.jpg",
-      "publishedAt": "2026-10-26T22:51:51.000Z"
-    },
-    {
-      "id": "n_fb6a439eff",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
-      "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
-      "publishedAt": "2026-10-13T21:26:16.000Z"
-    },
-    {
-      "id": "n_c21d60498a",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
-      "publishedAt": "2026-09-17T00:34:47.000Z"
-    },
-    {
-      "id": "n_ffdb3dfd14",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
-      "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_02e3418836",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The one thing holding theoretical CS together just broke... kinda",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=iw9SZgyahqg",
-      "thumbnail": "https://i.ytimg.com/vi/iw9SZgyahqg/hqdefault.jpg",
-      "publishedAt": "2026-11-06T16:42:38.000Z"
-    },
-    {
-      "id": "n_c0d2e81c85",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The worst week in cybersecurity history... so far",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=k2ruCf_z75I",
-      "thumbnail": "https://i.ytimg.com/vi/k2ruCf_z75I/hqdefault.jpg",
-      "publishedAt": "2026-11-03T19:47:10.000Z"
-    },
-    {
-      "id": "n_9c145faf00",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did the AI bubble just pop?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=nEaJMdM1djM",
-      "thumbnail": "https://i.ytimg.com/vi/nEaJMdM1djM/hqdefault.jpg",
-      "publishedAt": "2026-10-28T13:31:29.000Z"
-    },
-    {
-      "id": "n_94fd9875fe",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "China just dropped a new frontier model... and nobody can explain how",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=G_em1hHPnXY",
-      "thumbnail": "https://i.ytimg.com/vi/G_em1hHPnXY/hqdefault.jpg",
-      "publishedAt": "2026-10-26T18:55:29.000Z"
-    },
-    {
-      "id": "n_2511c0dfdf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Meta VR Glasses: What Vision Pro 2 COULD Have Been!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=_x58r9TBois",
-      "thumbnail": "https://i.ytimg.com/vi/_x58r9TBois/hqdefault.jpg",
-      "publishedAt": "2026-11-06T21:29:30.000Z"
-    },
-    {
-      "id": "n_0ec2db3ae5",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OLED iPad Mini is The Most Apple Product They've Ever Appled",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=g6Die8gVFn0",
-      "thumbnail": "https://i.ytimg.com/vi/g6Die8gVFn0/hqdefault.jpg",
-      "publishedAt": "2026-11-03T14:01:31.000Z"
-    },
-    {
-      "id": "n_342584f266",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Macbook PROLED XDR Impressions: They Said They Wouldn't!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=2reQut8WNGc",
-      "thumbnail": "https://i.ytimg.com/vi/2reQut8WNGc/hqdefault.jpg",
-      "publishedAt": "2026-10-29T02:50:34.000Z"
     }
   ]
 }
