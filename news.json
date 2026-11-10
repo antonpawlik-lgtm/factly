@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-11-09T23:37:35.275Z",
+  "generatedAt": "2026-11-10T04:57:17.157Z",
   "items": [
+    {
+      "id": "n_dc26bda070",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ticket-Zweitmarkt: Preisdeckel für Ticketbörsen in der Planung",
+      "summary": "Extreme Preisaufschläge beim Weiterverkauf von Tickets - das möchte Justiz- und Verbraucherschutzministerin Stefanie Hubig (SPD) in Zukunft unterbinden. Dafür ist ein Gesetz nun in der internen Abstimmung.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/ticket-weiterverkauf-beschraenkung-100.html",
+      "publishedAt": "2026-11-10T04:10:12.000Z"
+    },
+    {
+      "id": "n_47310722c3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Forschungsbericht: Fossile CO2-Emissionen gehen leicht zurück",
+      "summary": "Die UN-Klimakonferenz sucht nach Wegen aus den fossilen Energieträgern. Aktuelle Zahlen zeigen: Die fossilen CO2-Emissionen gehen leicht zurück. Doch Experten warnen, dies könne nur ein vorübergehender Effekt sein. Von Simon Plentinger.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wissen/klima/emissionen-klimawandel-global-carbon-budget-100.html",
+      "publishedAt": "2026-11-10T04:01:04.000Z"
+    },
+    {
+      "id": "n_39357910ed",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Gespräche in Abu Dhabi: Gedämpfte Erwartungen der Ukraine",
+      "summary": "Heute beginnen die trilateralen Verhandlungen in Abu Dhabi. Können die Gespräche mit den USA und Russland zu einem echten Frieden führen - oder gar zu einer Schwächung der Ukraine? In der Ukraine sind die Erwartungen gedämpft. Von F. Kellermann.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html",
+      "publishedAt": "2026-11-10T01:13:48.000Z"
+    },
+    {
+      "id": "n_a948e0692b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Verkehrsminister Bilger verteidigt \"Tankrabatt\"",
+      "summary": "Seit Oktober gibt es den \"Tankrabatt\". Verkehrsminister Bilger findet das richtig. Entlastung sei nötig gewesen, sagte er in der ARD-Arena. Kritisch blickt er auf Debatten über ein generelles Tempolimit.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/bilger-wahlarena-100.html",
+      "publishedAt": "2026-11-09T23:40:08.000Z"
+    },
     {
       "id": "n_0927840d01",
       "type": "news",
@@ -44,50 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/gesellschaft/synagoge-muenchen-102.html",
       "publishedAt": "2026-11-09T19:14:42.000Z"
-    },
-    {
-      "id": "n_bf3cc8a904",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Weltklimakonferenz in Antalya: Erster Tag, erster Konflikt",
-      "summary": "Im türkischen Antalya hat die UN-Klimakonferenz begonnen - mit eindringlichen Worten und einem vielversprechenden Vorschlag. Doch kaum eröffnet, gab es auch den ersten Konflikt. Von Benjamin Weber",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/cop-136.html",
-      "publishedAt": "2026-11-09T18:19:45.000Z"
-    },
-    {
-      "id": "n_5c8fc3dce2",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühltruhen verantwortlich",
-      "summary": "In mehreren Ländern Europas hatte es zuletzt Cyberangriffe auf Supermarkt-Kühlanlagen gegeben - als möglicher Urheber galt Russland. Der französische Außenminister machte nun Iran für die Vorfälle in Frankreich verantwortlich.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
-      "publishedAt": "2026-11-09T17:51:23.000Z"
-    },
-    {
-      "id": "n_417f996a4e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Wadephul zweifelt an Russlands Verhandlungswillen",
-      "summary": "In Abu Dhabi geht es ab Dienstag um ein mögliches Ende des Ukraine-Kriegs. Sind das ernsthafte Friedensgespräche? Außenminister Wadephul zweifelt am Verhandlungswillen Russlands - und fordert Mitsprache für die Europäer.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-102.html",
-      "publishedAt": "2026-11-09T17:19:07.000Z"
-    },
-    {
-      "id": "n_99bc852b1e",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: DAX erholt sich kräftig",
-      "summary": "Der deutsche Aktienmarkt ist stark in die neue Woche gestartet. Während große Fragezeichen über der Technologiebranche bleiben, kam heute Entlastung von anderer Seite.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html",
-      "publishedAt": "2026-11-09T17:18:50.000Z"
     },
     {
       "id": "n_af48d1d906",
@@ -266,15 +266,15 @@
       "publishedAt": "2026-11-09T15:53:02.000Z"
     },
     {
-      "id": "n_6885954489",
+      "id": "n_3ac6d44b81",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Judge denies motion to dismiss Lindsay Clancy's murder case",
-      "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+      "headline": "Trump says more US attacks on Iran 'highly unlikely'",
+      "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation in the Middle East change.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T23:28:53.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T04:09:16.000Z"
     },
     {
       "id": "n_2eeebfe27c",
@@ -285,40 +285,18 @@
       "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T23:20:29.000Z"
+      "publishedAt": "2026-11-10T03:58:13.000Z"
     },
     {
-      "id": "n_7aa2ed7647",
+      "id": "n_9b6cbbc692",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Dana White declines Trump’s offer to be White House press secretary",
-      "summary": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\".",
+      "headline": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T22:46:27.000Z"
-    },
-    {
-      "id": "n_ed37d32e2c",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-      "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T21:52:28.000Z"
-    },
-    {
-      "id": "n_f8a5a7047f",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trial date of alleged Charlie Kirk killer set for June 2028",
-      "summary": "Tyler Robinson has pleaded not guilty to aggravated murder and six other charges in connection with the 2025 killing of the conservative activist.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T21:48:38.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T01:55:22.000Z"
     },
     {
       "id": "n_dfdd7bb2e5",
@@ -326,32 +304,54 @@
       "topic": "general",
       "lang": "en",
       "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T21:37:02.000Z"
+      "publishedAt": "2026-11-10T01:38:49.000Z"
     },
     {
-      "id": "n_12647216fa",
+      "id": "n_da96c13a52",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Turkey steel factory blast kills at least 17 people",
-      "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
+      "headline": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T20:42:04.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T00:14:03.000Z"
     },
     {
-      "id": "n_87181a6313",
+      "id": "n_6c22ff3622",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "France accuses Iran of supermarket fridge hacking",
-      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+      "headline": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T20:20:08.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T00:09:49.000Z"
+    },
+    {
+      "id": "n_c32ad64abc",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "The superpower battle over energy – and what it means for your bills",
+      "summary": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T00:08:28.000Z"
+    },
+    {
+      "id": "n_2965feb8b5",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T23:51:22.000Z"
     },
     {
       "id": "n_c1a8be3a6f",
@@ -363,17 +363,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-09T19:58:01.000Z"
-    },
-    {
-      "id": "n_2965feb8b5",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T15:46:20.000Z"
     },
     {
       "id": "n_45c537ea23",
@@ -418,17 +407,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-06T21:49:50.000Z"
-    },
-    {
-      "id": "n_8fc8e90c6b",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "AI stocks climb after trillions wiped from market values",
-      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T21:06:25.000Z"
     },
     {
       "id": "n_e80c606f4c",
@@ -519,12 +497,23 @@
       "publishedAt": "2026-11-09T15:23:20.000Z"
     },
     {
+      "id": "n_98071e4b97",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Anthropic reportedly plans to move forward with IPO plans",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "publishedAt": "2026-11-10T01:27:12.000Z"
+    },
+    {
       "id": "n_13bdf29156",
       "type": "news",
       "topic": "ai",
       "lang": "en",
       "headline": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-      "summary": "The PR firm was enlisted shortly after an Oct. 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
       "publishedAt": "2026-11-09T23:28:37.000Z"
@@ -596,15 +585,48 @@
       "publishedAt": "2026-11-09T18:00:00.000Z"
     },
     {
-      "id": "n_ea1cff7571",
+      "id": "n_8d28cfa555",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-      "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-      "publishedAt": "2026-11-09T16:56:54.000Z"
+      "headline": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at producti",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "publishedAt": "2026-11-10T00:28:49.000Z"
+    },
+    {
+      "id": "n_285987eab7",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "What could China get from Jensen Huang?",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "publishedAt": "2026-11-09T23:51:58.000Z"
+    },
+    {
+      "id": "n_fd48ce2874",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Here’s what Trump said he knew about Jensen Huang",
+      "summary": "Jensen Huang and President Trump. | Getty Images President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unf",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "publishedAt": "2026-11-09T23:47:46.000Z"
+    },
+    {
+      "id": "n_15c28179b2",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huan",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "publishedAt": "2026-11-09T23:07:59.000Z"
     },
     {
       "id": "n_4a7141713a",
@@ -649,50 +671,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
       "publishedAt": "2026-11-09T17:36:08.000Z"
-    },
-    {
-      "id": "n_67d134866a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-      "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situatio",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
-      "publishedAt": "2026-11-09T15:50:38.000Z"
-    },
-    {
-      "id": "n_86961a9937",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Disney and Adobe are building generative AI tools together",
-      "summary": "Who wants a hand-designed and creatively curated monorail anyway. | Image: Disney / Adobe The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced tod",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-      "publishedAt": "2026-11-09T15:38:56.000Z"
-    },
-    {
-      "id": "n_bce465cdb5",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Hold up — I had a great time talking to the RIAA guy",
-      "summary": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone’s villain for suing kids for downloading music. That was when I decided to go be a c",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
-      "publishedAt": "2026-11-09T15:30:00.000Z"
-    },
-    {
-      "id": "n_cc49c1ae68",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Jonathan Kanter is using AI to take on Big Tech",
-      "summary": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former ",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
-      "publishedAt": "2026-11-09T14:30:00.000Z"
     },
     {
       "id": "n_3ec2e27891",
@@ -783,6 +761,17 @@
       "publishedAt": "2026-11-03T04:18:47.000Z"
     },
     {
+      "id": "n_ab14eb7e6a",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+      "publishedAt": "2026-11-10T00:18:19.000Z"
+    },
+    {
       "id": "n_b60218929c",
       "type": "news",
       "topic": "ai",
@@ -858,17 +847,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
       "publishedAt": "2026-11-06T18:43:43.000Z"
-    },
-    {
-      "id": "n_0667fe3d98",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-      "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
-      "publishedAt": "2026-11-06T16:00:00.000Z"
     },
     {
       "id": "n_057e22ab69",
@@ -957,150 +935,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/cwe-bench",
       "publishedAt": "2026-11-03T00:00:00.000Z"
-    },
-    {
-      "id": "n_f825ed192f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI's Astra Just Opened The Black Box Of AI",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
-      "thumbnail": "https://i.ytimg.com/vi/GJ6PMUm5oTA/hqdefault.jpg",
-      "publishedAt": "2026-11-07T16:24:47.000Z"
-    },
-    {
-      "id": "n_7a7f412202",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
-      "thumbnail": "https://i.ytimg.com/vi/XgC1QTs6A2U/hqdefault.jpg",
-      "publishedAt": "2026-11-06T07:27:02.000Z"
-    },
-    {
-      "id": "n_ce14acab8d",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI Claims It Just Did The Impossible",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
-      "thumbnail": "https://i.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg",
-      "publishedAt": "2026-10-30T15:57:16.000Z"
-    },
-    {
-      "id": "n_c66d1bea7b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepSeek's New AI Is An Absolute Monster",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
-      "thumbnail": "https://i.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
-      "publishedAt": "2026-10-28T17:32:40.000Z"
-    },
-    {
-      "id": "n_3f3a8c8623",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
-      "thumbnail": "https://i.ytimg.com/vi/ZAzWPE9CItg/hqdefault.jpg",
-      "publishedAt": "2026-10-26T22:51:51.000Z"
-    },
-    {
-      "id": "n_fb6a439eff",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
-      "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
-      "publishedAt": "2026-10-13T21:26:16.000Z"
-    },
-    {
-      "id": "n_c21d60498a",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
-      "publishedAt": "2026-09-17T00:34:47.000Z"
-    },
-    {
-      "id": "n_ffdb3dfd14",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
-      "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_526cf64c21",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI spent $1.2 million hacking Linux... and it was a bargain",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=pf5tXJZM1Rw",
-      "thumbnail": "https://i.ytimg.com/vi/pf5tXJZM1Rw/hqdefault.jpg",
-      "publishedAt": "2026-11-09T21:04:16.000Z"
-    },
-    {
-      "id": "n_02e3418836",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The one thing holding theoretical CS together just broke... kinda",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=iw9SZgyahqg",
-      "thumbnail": "https://i.ytimg.com/vi/iw9SZgyahqg/hqdefault.jpg",
-      "publishedAt": "2026-11-06T16:42:38.000Z"
-    },
-    {
-      "id": "n_c0d2e81c85",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The worst week in cybersecurity history... so far",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=k2ruCf_z75I",
-      "thumbnail": "https://i.ytimg.com/vi/k2ruCf_z75I/hqdefault.jpg",
-      "publishedAt": "2026-11-03T19:47:10.000Z"
-    },
-    {
-      "id": "n_9c145faf00",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did the AI bubble just pop?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=nEaJMdM1djM",
-      "thumbnail": "https://i.ytimg.com/vi/nEaJMdM1djM/hqdefault.jpg",
-      "publishedAt": "2026-10-28T13:31:29.000Z"
     },
     {
       "id": "n_2511c0dfdf",
