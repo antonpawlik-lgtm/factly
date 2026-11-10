@@ -1,93 +1,115 @@
 {
-  "generatedAt": "2026-11-10T13:52:31.160Z",
+  "generatedAt": "2026-11-10T21:03:55.195Z",
   "items": [
     {
-      "id": "n_88984bb795",
+      "id": "n_08f28f58a8",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "KI-Boom: Deutscher Chipkonzern Infineon will weiter zweistellig wachsen",
-      "summary": "Der boomende Ausbau der KI-Infrastruktur, aber auch ein besseres Autogeschäft haben Infineon einen Rekordumsatz beschert. Der deutsche Chipkonzern sieht noch kein Ende des Booms.",
+      "headline": "Schüsse in Hamburg: Verdächtiger tot, weitere Leichen in Süddeutschland",
+      "summary": "In Hamburg sind unweit der Elbphilharmonie zwei Menschen durch Schüsse verletzt worden. Der mutmaßliche Täter wurde tot in einem Hotelzimmer gefunden. In Baden-Württemberg hat die Polizei zwei Leichen gefunden - und prüft einen Zusammenhang.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-infineon-ki-100.html",
-      "publishedAt": "2026-11-10T13:33:44.000Z"
+      "url": "https://www.tagesschau.de/inland/gesellschaft/hamburg-elbphilharmonie-etlingen-schuesse-100.html",
+      "publishedAt": "2026-11-10T17:27:27.000Z"
     },
     {
-      "id": "n_05e079d30d",
+      "id": "n_7854c2a996",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Aigner stellt sich Fraktionen vor - nicht bei AfD und Linken",
-      "summary": "Nach ihrer Kür zur Unions-Kandidatin für das Bundespräsidentenamt stellt sich Aigner heute in Berlin den Bundestagsfraktionen von Union, SPD und Grünen vor. Eine Einladung der AfD schlug sie aus. Die Linke lud Aigner bislang nicht ein.",
+      "headline": "Marktbericht: Der DAX wird zurückgepfiffen",
+      "summary": "Zeitweise hatte der DAX heute die Verluste wegen des KI-Crashs am Freitag vollständig aufgeholt. Unter anderem neue Details zur Nvidia-Affäre bremsten den Aufwärtsdrang dann aber empfindlich.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html",
-      "publishedAt": "2026-11-10T12:40:11.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html",
+      "publishedAt": "2026-11-10T17:21:50.000Z"
     },
     {
-      "id": "n_858314f074",
+      "id": "n_4496be8b1e",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Masernkrise in den USA: Mehr Verunsicherung, mehr Infektionen",
-      "summary": "Die USA erleben den größten Masernausbruch seit Jahrzehnten - auch weil der Gesundheitsminister widersprüchliche Botschaften zur Impfung verbreitet. Noch in dieser Woche könnte das Land den Status \"masernfrei\" verlieren. Von Anne Schneider.",
+      "headline": "Wadephul warnt Iran vor hybriden Angriffen",
+      "summary": "Frankreich sieht Iran hinter den Cyberangriffen auf Kühlanlagen - doch das Land dementiert. Die deutschen Behörden haben sich noch nicht festgelegt, Außenminister Wadephul warnte Teheran nun aber vor hybriden Attacken.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-masern-102.html",
-      "publishedAt": "2026-11-10T12:13:48.000Z"
+      "url": "https://www.tagesschau.de/ausland/wadephul-iran-102.html",
+      "publishedAt": "2026-11-10T16:51:08.000Z"
     },
     {
-      "id": "n_8b0ffc8a32",
+      "id": "n_6c40bb85df",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Bund will offenbar E-Auto-Prämie um 917 Millionen Euro aufstocken",
-      "summary": "Sie soll Menschen mit niedrigem oder mittlerem Einkommen den Umstieg erleichtern: Und tatsächlich ist die E-Auto-Prämie des Bundes ein voller Erfolg. Daher soll sie im kommenden Jahr noch mal um mehr als 900 Millionen aufgestockt werden.",
+      "headline": "Pentagon-Chef Hegseth sieht in Amtsenthebungsantrag \"Schauprozess\"",
+      "summary": "Machtmissbrauch im Iran-Krieg - unter anderem wegen dieses Vorwurfs könnte ein Amtsenthebungsverfahren gegen Pentagon-Chef Hegseth eingeleitet werden. Auf einer Pressekonferenz wies er die Anschuldigungen zurück und sprach von einer Inszenierung.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/e-autos-kaufpraemie-bundesregierung-100.html",
-      "publishedAt": "2026-11-10T12:11:01.000Z"
+      "url": "https://www.tagesschau.de/ausland/amerika/usa-hegseth-amtsenthebungsverfahren-100.html",
+      "publishedAt": "2026-11-10T15:51:55.000Z"
     },
     {
-      "id": "n_932ec18c87",
+      "id": "n_158694c3c0",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Australien will nach Hackerangriff strengere Regeln für KI-Firmen",
-      "summary": "Ein KI-Sicherheitsvorfall hat kürzlich einen Schock in Australien ausgelöst - jetzt reagiert die Regierung: Die Regeln für KI-Entwickler sollen verschärft werden. Auch im Strafrecht werden Änderungen geprüft.",
+      "headline": "Maschinenbauer \"fassungslos\" über Bundesregierung",
+      "summary": "Die Koalition ringt um Reformen. Viel zu zögerlich, findet der Maschinenbauverband VDMA. Er wirft der Bundesregierung vor, mit internem Streit und Reformstau den Industriestandort Deutschland zu gefährden.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/australien-ki-regulieren-100.html",
-      "publishedAt": "2026-11-10T12:00:03.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/maschinenbaugipfel-100.html",
+      "publishedAt": "2026-11-10T15:43:59.000Z"
     },
     {
-      "id": "n_2627be6a64",
+      "id": "n_c0e94e8b4d",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Strafprozess gegen ehemalige rbb-Intendantin Schlesinger beginnt",
-      "summary": "Hat sich Patricia Schlesinger in ihrer Zeit als Intendantin des rbb strafbar gemacht? Heute wird gegen sie und drei weitere Angeklagte der Prozess eröffnet. Das Gericht geht von 56 Verhandlungstagen aus.",
+      "headline": "Anthropic peilt Börsen-Bewertung von über einer Billion Dollar an",
+      "summary": "Das KI-Unternehmen Anthropic hat Details seiner Börsenpläne veröffentlicht. Was die Aktien kosten sollen und wie viel Geld der US-Konzern damit erlösen will - trotz wachsender Zweifel an der Rentabilität der Branche.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-strafprozess-gegen-ehemalige-rbb-intendantin-schlesinger-beginnt-102.html",
-      "publishedAt": "2026-11-10T11:35:39.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boerse-kuenstliche-intelligenz-100.html",
+      "publishedAt": "2026-11-10T15:37:43.000Z"
     },
     {
-      "id": "n_b066f49a3d",
+      "id": "n_a4fa7fb4d0",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Was von den Ukraine-Gesprächen in Abu Dhabi zu erwarten ist",
-      "summary": "Unterhändler Russlands und der Ukraine haben ihre Gespräche unter US-Vermittlung in Abu Dhabi aufgenommen. Was wollen die Kriegsparteien? Welche Interessen haben die USA? Und welche Rolle haben die Europäer?",
+      "headline": "Zwei Tote bei russischen Luftangriffen",
+      "summary": "Russland hat die Ukraine in der Nacht erneut mit Luftangriffen überzogen. Dabei starben ukrainischen Angaben zufolge zwei Menschen. Zudem seien mehrere Umspannwerke getroffen worden, in mehreren Regionen fiel der Strom aus.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/ukraine-verhandlungen-abu-dhabi-104.html",
-      "publishedAt": "2026-11-10T10:48:43.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-206.html",
+      "publishedAt": "2026-11-10T14:42:40.000Z"
     },
     {
-      "id": "n_c934ea865f",
+      "id": "n_e431c32369",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Maschinenbau will mit Künstlicher Intelligenz aus der Krise",
-      "summary": "Der deutsche Maschinenbau steckt in seinem vierten Krisenjahr. Die Branche leidet unter hohen Energiekosten und zu viel Bürokratie. Beim Maschinenbaugipfel gibt es aber auch Hoffnungssignale - etwa die Künstliche Intelligenz. Von A. John.",
+      "headline": "Proteste vor Haus bei Kiew: Keine Belege für ein ukrainisches Foltergefängnis",
+      "summary": "Gewaltsame Proteste, ein verstörter Teenager, eine verzweifelte Ärztin: Im Internet verbreiten sich Bilder mit Behauptungen über die Entdeckung eines ukrainischen Foltergefängnisses bei Kiew. Was ist dazu bekannt? Von C. Reveland und K. König.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/technologie/maschinenbauer-boom-kuenstliche-intelligenz-100.html",
-      "publishedAt": "2026-11-10T10:36:17.000Z"
+      "url": "https://www.tagesschau.de/faktenfinder/ukraine-angebliches-foltergefaengnis-100.html",
+      "publishedAt": "2026-11-10T14:22:54.000Z"
+    },
+    {
+      "id": "n_a6f7452a0a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "AMD Zen 6 soll agentische KI beflügeln: Erste Leistungswerte",
+      "summary": "AMDs Epyc-Prozessoren mit Zen-6-Architektur sind da. Erste Messungen bescheinigen ihnen deutlich mehr Leistung, von der laut AMD agentische KI profitieren soll.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/AMD-Zen-6-soll-agentische-KI-befluegeln-Erste-Leistungswerte-11518546.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-11-10T17:00:00.000Z"
+    },
+    {
+      "id": "n_d71b2db539",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Omnissa: Virtuelle Desktops als Sicherheitszone für KI",
+      "summary": "Souveräner Betrieb und sichere KI-Agenten: Omnissa erweitert sein Angebot und setzt auf virtuelle Desktops als kontrollierte Umgebung für Agenten.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Omnissa-Virtuelle-Desktops-als-Sicherheitszone-fuer-KI-11518404.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-11-10T15:49:00.000Z"
     },
     {
       "id": "n_bf304e513b",
@@ -156,202 +178,202 @@
       "publishedAt": "2026-11-10T09:26:00.000Z"
     },
     {
-      "id": "n_a6a884e7c9",
+      "id": "n_1a10f201de",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Außer der Reihe: Sicherheitsupdates für fast alle Apple-Geräte",
-      "summary": "Apple hat iOS 27.2.1, macOS 27.2.1 und diverse weitere Updates veröffentlicht. Gestopft werden unter anderem Lücken in Bluetooth und der Nachrichten-App.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Ausser-der-Reihe-Sicherheitsupdates-fuer-fast-alle-Apple-Geraete-11518098.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-11-10T09:12:00.000Z"
-    },
-    {
-      "id": "n_b5a5741c4b",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Chrome-Update stopft attackiertes Sicherheitsleck",
-      "summary": "Google hat ein Update für den Webbrowser Chrome veröffentlicht. Die Entwickler warnen, dass eine Lücke bereits angegriffen wird.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Chrome-Update-stopft-attackiertes-Sicherheitsleck-11518215.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-11-10T07:57:00.000Z"
-    },
-    {
-      "id": "n_f7914e24de",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Beliebtes Lötkolben-Set mit viel Zubehör reduziert bei Amazon",
-      "summary": "Amazon hat einen kabellosen Lötkolben im Set mit einem drehbaren Ständer, vier Lötspitzen und weiterem Zubehör im Angebot. (Technik/Hardware)",
+      "headline": "Spionage: Bundeswehr sperrt DJI-Drohnen und chinesische Autos aus",
+      "summary": "Aus Sorge vor möglicher Spionage dürfen chinesische Drohnen und Autos nicht mehr in Bundeswehr-Kasernen. (Bundeswehr, Elektroauto)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-beliebtes-loetkolben-set-mit-viel-zubehoer-reduziert-bei-amazon-2611-215042.html",
-      "publishedAt": "2026-11-10T13:29:01.000Z"
+      "url": "https://www.golem.de/news/spionage-bundeswehr-sperrt-dji-drohnen-und-chinesische-autos-aus-2611-215061.html",
+      "publishedAt": "2026-11-10T18:44:02.000Z"
     },
     {
-      "id": "n_49b8e20671",
+      "id": "n_45a11f9087",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Black Week Deals bei Vodafone - 1.080 Euro sparen mit unbegrenztem Datenvolumen",
-      "summary": "Vodafone hat heute seine Black Week Deals gestartet und bietet Handyverträge mit und ohne Smartphone mit satten Rabatten an. (Vodafone, Telekommunikation)",
+      "headline": "Formula 2030: Polestar holt physische Tasten ins Auto zurück",
+      "summary": "Die flache Designstudie Formula 2030 gibt Hinweise auf Polestars kommende E-Autos. Im Innenraum kehren zudem physische Bedienelemente zurück. (Elektroauto, Auto)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-black-week-deals-bei-vodafone-1-080-euro-sparen-mit-unbegrenztem-datenvolumen-2611-215041.html",
-      "publishedAt": "2026-11-10T13:06:02.000Z"
+      "url": "https://www.golem.de/news/formula-2030-polestar-holt-physische-tasten-ins-auto-zurueck-2611-215059.html",
+      "publishedAt": "2026-11-10T18:10:02.000Z"
     },
     {
-      "id": "n_3339a191a8",
+      "id": "n_188af71de5",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) Capacities im Test: Das Notizprogramm für Einzelgänger",
-      "summary": "Capacities ist ein ungewöhnliches Notizprogramm: Gedanken werden zu Objekten, Coworking gibt es nicht. Für Eigenbrötler wie mich genau das Richtige. Ein Test von Tobias Költzsch (Unternehmenssoftware, Office-Suite)",
+      "headline": "Anzeige: Anker Solix C1000 Powerstation mit 2000 W erstmals unter 500 Euro bei Amazon",
+      "summary": "Die Anker Solix C1000 Gen 2 speichert 1.024 Wattstunden, liefert 2.000 Watt Dauerleistung und ist bei Amazon so günstig wie noch nie. (Technik/Hardware, Powerstation)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/capacities-im-test-das-notizprogramm-fuer-einzelgaenger-2611-214997.html",
-      "publishedAt": "2026-11-10T12:30:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-anker-solix-c1000-powerstation-mit-2000-w-erstmals-unter-500-euro-bei-amazon-2611-215049.html",
+      "publishedAt": "2026-11-10T18:00:01.000Z"
     },
     {
-      "id": "n_25a57f30bc",
+      "id": "n_294ceb50cf",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Andrea Nahles: Bundesarbeitsagentur erwartet 800.000 Arbeitsplätze weniger durch KI",
-      "summary": "Die Bundesarbeitsagentur rechnet wegen KI mit einem weitreichenden Umbau des Arbeitsmarkts. Besonders hart trifft es den Nachwuchs. (KI, Wirtschaft)",
+      "headline": "DCF77-Signal: Wetterstationen mit Meteotime könnten dauerhaft ausfallen",
+      "summary": "Seit mehr als vier Monaten erhalten Wetterstationen keine Vorhersagen mehr über das Funksignal DCF77. Hama bietet einen kostenlosen Gerätetausch an. (Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/andrea-nahles-bundesarbeitsagentur-erwartet-800-000-arbeitsplaetze-weniger-durch-ki-2611-215038.html",
-      "publishedAt": "2026-11-10T11:57:02.000Z"
+      "url": "https://www.golem.de/news/dcf77-signal-wetterstationen-mit-meteotime-koennten-dauerhaft-ausfallen-2611-215062.html",
+      "publishedAt": "2026-11-10T17:48:02.000Z"
     },
     {
-      "id": "n_d34e3b4611",
+      "id": "n_bffc245cd4",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Klimakrise: CO2-Emissionen aus Öl, Gas und Kohle sinken weltweit",
-      "summary": "2026 wird der CO2-Ausstoß aus fossilen Energieträgern kleiner. 40 Länder weltweit konnten die Emissionen senken, während die Wirtschaft wächst. (Klimakrise, Wissenschaft)",
+      "headline": "Anzeige: Claude Code: KI-Agenten für die Softwareentwicklung nutzen",
+      "summary": "Claude Code ermöglicht KI-gestützte Softwareentwicklung. Ein dreitägiger Workshop zeigt, wie Entwickler mit Agentic Coding, Spezifikationen und Tests arbeiten. (Golem Karrierewelt, Programmiersprachen)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/klimakrise-co2-emissionen-aus-oel-gas-und-kohle-sinken-weltweit-2611-215037.html",
-      "publishedAt": "2026-11-10T11:42:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-claude-code-ki-agenten-fuer-die-softwareentwicklung-nutzen-2611-215014.html",
+      "publishedAt": "2026-11-10T17:45:01.000Z"
     },
     {
-      "id": "n_42697bbc38",
+      "id": "n_b1534cf28b",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Angriff auf Beget: Hacker zerstören Daten und Backups eines russischen Hosters",
-      "summary": "Angreifer sind in die IT von einem der größten Hoster Russlands eingedrungen und haben Daten unzähliger Kunden unwiederbringlich gelöscht. (Cybercrime, Back-up)",
+      "headline": "Melbourne-Toulouse: Qantas stellt mit Airbus A350-1000ULR neuen Langstreckenrekord auf",
+      "summary": "Der Rekordflug des Airbus A350-1000ULR soll den Weg für regelmäßige Nonstopflüge bereiten. (Airbus, Flugzeug)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/angriff-auf-beget-hacker-zerstoeren-daten-und-backups-eines-russischen-hosters-2611-215035.html",
-      "publishedAt": "2026-11-10T11:28:02.000Z"
+      "url": "https://www.golem.de/news/melbourne-toulouse-qantas-stellt-mit-airbus-a350-1000ulr-neuen-langstreckenrekord-auf-2611-215057.html",
+      "publishedAt": "2026-11-10T17:31:02.000Z"
     },
     {
-      "id": "n_313311dd46",
+      "id": "n_c014e946d1",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Anker Soundcore 2 Bluetooth-Lautsprecher für unter 24 Euro bei Amazon",
-      "summary": "Der Anker Soundcore 2 übersteht dank IPX7 Regen und Spritzwasser, spielt bis zu 24 Stunden und ist wieder deutlich günstiger verfügbar. (Technik/Hardware, Bluetooth)",
+      "headline": "PC-Gaming: Steam zeigt erstmals echte Frameraten",
+      "summary": "Wie flüssig läuft ein Spiel auf dem Steam Deck? Valve veröffentlicht erstmals Bildraten aus der Praxis. Andere Geräte sollen folgen. (Steam, Valve)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-anker-soundcore-2-bluetooth-lautsprecher-fuer-unter-24-euro-bei-amazon-2611-215036.html",
-      "publishedAt": "2026-11-10T11:24:02.000Z"
+      "url": "https://www.golem.de/news/pc-gaming-steam-zeigt-erstmals-echte-frameraten-2611-215055.html",
+      "publishedAt": "2026-11-10T17:16:01.000Z"
     },
     {
-      "id": "n_18d758e237",
+      "id": "n_45252e5717",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Kritische Infrastruktur: Verbände fordern Notfallnetz für Krisenkommunikation",
-      "summary": "Kein Handyempfang, kein Internet - und trotzdem müssen Behörden im Krisenfall zusammenarbeiten. Wie kann das gelingen? (Infrastruktur, Verschlüsselung)",
+      "headline": "(g+) Spionageaffäre um Nvidia-Chef: Mutmaßliche Spionin wollte offenbar KI-Chips vermarkten",
+      "summary": "Die Financial Times hat mit Investoren gesprochen, denen Alice Huang Zugang zu begehrten Nvidia-Chips und Geschäftsbeziehungen zu Alibaba in Aussicht gestellt haben soll. Von Eleanor Olcott (Nvidia, Wirtschaft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/kritische-infrastruktur-verbaende-fordern-notfallnetz-fuer-krisenkommunikation-2611-215034.html",
-      "publishedAt": "2026-11-10T11:15:02.000Z"
+      "url": "https://www.golem.de/news/spionageaffaere-um-nvidia-chef-mutmassliche-spionin-wollte-offenbar-ki-chips-vermarkten-2611-215046.html",
+      "publishedAt": "2026-11-10T17:00:02.000Z"
+    },
+    {
+      "id": "n_c8155dccf0",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T20:53:33.000Z"
+    },
+    {
+      "id": "n_d68f526af6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T20:40:13.000Z"
+    },
+    {
+      "id": "n_5615a0ab87",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US federal authorities could have prevented Epstein crimes, report finds",
+      "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T20:36:58.000Z"
+    },
+    {
+      "id": "n_58032ebc9a",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+      "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T19:26:42.000Z"
+    },
+    {
+      "id": "n_7eee3792c5",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+      "summary": "The US Food and Drug Administration says Ozempic, Wegovy, and other weight-loss drugs must have labels about the condition, known as NAION.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T18:43:04.000Z"
+    },
+    {
+      "id": "n_cff6cae276",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+      "summary": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T18:35:35.000Z"
+    },
+    {
+      "id": "n_b28769c11d",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T18:33:51.000Z"
+    },
+    {
+      "id": "n_5c327dc8ea",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Arrests made after visit from former US President Biden",
+      "summary": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T18:07:56.000Z"
+    },
+    {
+      "id": "n_519ce40bbf",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Tech Life",
+      "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T20:30:00.000Z"
     },
     {
       "id": "n_adf593f419",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
-      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+      "headline": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T13:45:36.000Z"
-    },
-    {
-      "id": "n_87181a6313",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Iran rejects French claims it was behind supermarket fridge hacking",
-      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T13:45:13.000Z"
-    },
-    {
-      "id": "n_39299601a0",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "French wartime resistance heroine Solange Alexandre dies aged 104",
-      "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T13:23:54.000Z"
-    },
-    {
-      "id": "n_abb287b242",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "California police investigate after 27 fall ill at half-marathon running event",
-      "summary": "A local hospital says runners had \"unusual\" symptoms after racing on an atypically hot day.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq0ldlyd556go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T13:22:12.000Z"
-    },
-    {
-      "id": "n_71ab83aa77",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Israel's new parliament to be sworn in as leaders compete to form government",
-      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T12:25:48.000Z"
-    },
-    {
-      "id": "n_5643d3d7eb",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Police officer dies and another injured after backpack explosion in Oviedo",
-      "summary": "Officers attended the scene in connection with a separate incident at a residential building in the city.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T11:25:46.000Z"
-    },
-    {
-      "id": "n_ff6c707d6d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
-      "summary": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T11:23:18.000Z"
-    },
-    {
-      "id": "n_3ac6d44b81",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump says more US attacks on Iran 'highly unlikely'",
-      "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T09:40:31.000Z"
+      "publishedAt": "2026-11-10T17:56:12.000Z"
     },
     {
       "id": "n_42ec1e7471",
@@ -409,290 +431,268 @@
       "publishedAt": "2026-11-09T21:52:28.000Z"
     },
     {
-      "id": "n_c1a8be3a6f",
+      "id": "n_0e4a97de00",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T19:58:01.000Z"
-    },
-    {
-      "id": "n_45c537ea23",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
-      "summary": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T14:50:35.000Z"
-    },
-    {
-      "id": "n_ffd1be60b8",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
-      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+      "headline": "Google Fi adds support for a second 5G network, won't say which one",
+      "summary": "Fi has always supported T-Mobile, but the new one? Google won't say.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
-      "publishedAt": "2026-11-10T12:15:32.000Z"
+      "url": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
+      "publishedAt": "2026-11-10T19:35:59.000Z"
     },
     {
-      "id": "n_1e5c1e122c",
+      "id": "n_b40010d3be",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
-      "summary": "Per usual, the basic MacBook Pro lags behind the flagships where it counts.",
+      "headline": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+      "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
-      "publishedAt": "2026-11-10T12:00:21.000Z"
+      "url": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+      "publishedAt": "2026-11-10T19:00:26.000Z"
     },
     {
-      "id": "n_e80c606f4c",
+      "id": "n_25c872dbbb",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "DCU shake-up: James Gunn and Peter Safran out post-merger",
-      "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
+      "headline": "Free video-streaming service Tubi lets users share curated watchlists now",
+      "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
-      "publishedAt": "2026-11-09T21:55:35.000Z"
+      "url": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
+      "publishedAt": "2026-11-10T18:39:16.000Z"
     },
     {
-      "id": "n_ac80b58c91",
+      "id": "n_b5a0a06fa9",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
-      "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
+      "headline": "Steam Deck performance gets a reality check with Valve's new FPS data",
+      "summary": "Benchmark tools for generic gaming rigs could be coming soon.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
-      "publishedAt": "2026-11-09T21:13:39.000Z"
+      "url": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
+      "publishedAt": "2026-11-10T17:26:44.000Z"
     },
     {
-      "id": "n_1f8464b9a8",
+      "id": "n_c5b4bb51ba",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "A Sam Altman parody offers an amusing lesson in memory management",
-      "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
+      "headline": "High oil prices have led to a dip in global carbon emissions",
+      "summary": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
-      "publishedAt": "2026-11-09T20:49:09.000Z"
+      "url": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
+      "publishedAt": "2026-11-10T16:29:27.000Z"
     },
     {
-      "id": "n_8abde1ce00",
+      "id": "n_4c4fe289b2",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-      "summary": "\"*sshole\" poses a serious threat to Internet security.",
+      "headline": "One space station company sues another for copying its work",
+      "summary": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-      "publishedAt": "2026-11-09T19:41:34.000Z"
+      "url": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
+      "publishedAt": "2026-11-10T16:17:51.000Z"
     },
     {
-      "id": "n_04df3a9aa5",
+      "id": "n_004c51f512",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Pentagon mulls placing fleet of military satellites around the Moon",
-      "summary": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
+      "headline": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "summary": "The new model is up to twice as successful at some tasks.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
-      "publishedAt": "2026-11-09T19:08:37.000Z"
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "publishedAt": "2026-11-10T15:00:39.000Z"
     },
     {
-      "id": "n_4065836ff3",
+      "id": "n_9527616301",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Claude Code is accidentally exposing secrets all over GitHub",
-      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "headline": "Nvidia has a Jensen Huang problem—and no obvious successor",
+      "summary": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-      "publishedAt": "2026-11-09T17:24:26.000Z"
+      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+      "publishedAt": "2026-11-10T14:53:05.000Z"
     },
     {
-      "id": "n_1c52468d7a",
+      "id": "n_91faed0650",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
-      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
+      "headline": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-      "publishedAt": "2026-11-10T13:00:00.000Z"
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "publishedAt": "2026-11-10T20:52:13.000Z"
     },
     {
-      "id": "n_1b18832a8d",
+      "id": "n_9a5bae24e0",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Otter AI can now follow conversations across 30+ languages",
-      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "headline": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-      "publishedAt": "2026-11-10T07:00:00.000Z"
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "publishedAt": "2026-11-10T19:57:52.000Z"
     },
     {
-      "id": "n_98071e4b97",
+      "id": "n_fe6d70a180",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Anthropic reportedly plans to move forward with IPO plans",
-      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "headline": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-      "publishedAt": "2026-11-10T01:27:12.000Z"
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "publishedAt": "2026-11-10T19:23:34.000Z"
     },
     {
-      "id": "n_13bdf29156",
+      "id": "n_2800935556",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "headline": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-      "publishedAt": "2026-11-09T23:28:37.000Z"
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "publishedAt": "2026-11-10T19:03:52.000Z"
     },
     {
-      "id": "n_f469998b0e",
+      "id": "n_ccdccf818b",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "headline": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-      "publishedAt": "2026-11-09T22:46:09.000Z"
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "publishedAt": "2026-11-10T18:49:52.000Z"
     },
     {
-      "id": "n_05d31a5bc4",
+      "id": "n_fd8e1c638d",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "The race is on to sue Nvidia",
-      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+      "headline": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-      "publishedAt": "2026-11-09T22:23:42.000Z"
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "publishedAt": "2026-11-10T17:30:00.000Z"
     },
     {
-      "id": "n_39befa3379",
+      "id": "n_940b8a321b",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "headline": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-      "publishedAt": "2026-11-09T20:09:06.000Z"
+      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "publishedAt": "2026-11-10T17:04:19.000Z"
     },
     {
-      "id": "n_2b128ff095",
+      "id": "n_5ef445c1e8",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "headline": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-      "publishedAt": "2026-11-09T19:24:51.000Z"
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "publishedAt": "2026-11-10T15:54:08.000Z"
     },
     {
-      "id": "n_707c973eec",
+      "id": "n_34a6071342",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Hands-on with Ring’s new AI drone camera for your home",
-      "summary": "Ring’s new Drone Cam is a flying indoor security camera. Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If",
+      "headline": "The US is winning the AI race. Jensen Huang could have blown it",
+      "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He ",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
-      "publishedAt": "2026-11-10T13:30:00.000Z"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "publishedAt": "2026-11-10T19:04:05.000Z"
     },
     {
-      "id": "n_8d28cfa555",
+      "id": "n_7396b577c7",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at producti",
+      "headline": "ChatGPT is getting verified AI ‘Business Agents’",
+      "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-foc",
       "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-      "publishedAt": "2026-11-10T00:28:49.000Z"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "publishedAt": "2026-11-10T18:00:00.000Z"
     },
     {
-      "id": "n_285987eab7",
+      "id": "n_7ac1a3b293",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "What could China get from Jensen Huang?",
-      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range ",
+      "headline": "The indie game community is in disarray over AI and Big Walk",
+      "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretc",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-      "publishedAt": "2026-11-09T23:51:58.000Z"
+      "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+      "publishedAt": "2026-11-10T17:32:47.000Z"
     },
     {
-      "id": "n_fd48ce2874",
+      "id": "n_ec3f910d2a",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Here’s what Trump said he knew about Jensen Huang",
-      "summary": "Jensen Huang and President Trump. | Getty Images President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unf",
+      "headline": "Anthropic has its own AI-powered office suite now",
+      "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particula",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-      "publishedAt": "2026-11-09T23:47:46.000Z"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "publishedAt": "2026-11-10T17:30:00.000Z"
     },
     {
-      "id": "n_15c28179b2",
+      "id": "n_3e50515c6d",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huan",
+      "headline": "eBay appears to have shut the door on third-party AI agents",
+      "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms lik",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "publishedAt": "2026-11-09T23:07:59.000Z"
+      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "publishedAt": "2026-11-10T16:20:30.000Z"
     },
     {
-      "id": "n_4a7141713a",
+      "id": "n_a14681e2dd",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-      "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant t",
+      "headline": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-      "publishedAt": "2026-11-09T19:09:58.000Z"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "publishedAt": "2026-11-10T16:00:00.000Z"
     },
     {
-      "id": "n_f1eea0a278",
+      "id": "n_0cd5e191c4",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than ",
+      "headline": "Anthropic targets $1.4 trillion IPO",
+      "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the The New Y",
       "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-      "publishedAt": "2026-11-09T19:00:00.000Z"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+      "publishedAt": "2026-11-10T14:06:54.000Z"
     },
     {
-      "id": "n_9d5aee5d27",
+      "id": "n_04566ece2f",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Instagram’s Effect Builder makes new filters from AI prompts",
-      "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbo",
+      "headline": "Adobe is going all in on agentic AI",
+      "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include a",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-      "publishedAt": "2026-11-09T18:07:23.000Z"
+      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+      "publishedAt": "2026-11-10T14:00:00.000Z"
     },
     {
       "id": "n_3ec2e27891",
@@ -783,6 +783,17 @@
       "publishedAt": "2026-11-03T04:18:47.000Z"
     },
     {
+      "id": "n_dfd6684379",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+      "summary": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+      "publishedAt": "2026-11-10T14:00:00.000Z"
+    },
+    {
       "id": "n_d7b8cbead9",
       "type": "news",
       "topic": "ai",
@@ -860,15 +871,26 @@
       "publishedAt": "2026-11-09T11:00:00.000Z"
     },
     {
-      "id": "n_e2ef60ab4c",
+      "id": "n_724fae9251",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
-      "summary": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
-      "publishedAt": "2026-11-09T08:00:00.000Z"
+      "headline": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "publishedAt": "2026-11-10T00:00:00.000Z"
+    },
+    {
+      "id": "n_3229de0d91",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Decision Models in Hugging Face",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "publishedAt": "2026-11-10T00:00:00.000Z"
     },
     {
       "id": "n_057e22ab69",
@@ -935,28 +957,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
       "publishedAt": "2026-11-04T17:50:10.000Z"
-    },
-    {
-      "id": "n_bc4177032a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Palette: teaching a small model to build decks in your design language",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "publishedAt": "2026-11-03T16:35:36.000Z"
-    },
-    {
-      "id": "n_20954e3ac0",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "CWE-bench v2: More coverage, quality, and transparency",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/cwe-bench",
-      "publishedAt": "2026-11-03T00:00:00.000Z"
     },
     {
       "id": "n_ad2999a10b",
@@ -1055,6 +1055,18 @@
       "publishedAt": "2026-08-26T21:44:41.000Z"
     },
     {
+      "id": "n_9c1dd2df1b",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Did Anthropic just save its $1 trillion IPO?",
+      "summary": "",
+      "source": "Fireship",
+      "url": "https://www.youtube.com/watch?v=1FurWDiK9A4",
+      "thumbnail": "https://i.ytimg.com/vi/1FurWDiK9A4/hqdefault.jpg",
+      "publishedAt": "2026-11-10T18:19:55.000Z"
+    },
+    {
       "id": "n_526cf64c21",
       "type": "video",
       "topic": "video",
@@ -1089,18 +1101,6 @@
       "url": "https://www.youtube.com/watch?v=k2ruCf_z75I",
       "thumbnail": "https://i.ytimg.com/vi/k2ruCf_z75I/hqdefault.jpg",
       "publishedAt": "2026-11-03T19:47:10.000Z"
-    },
-    {
-      "id": "n_9c145faf00",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did the AI bubble just pop?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=nEaJMdM1djM",
-      "thumbnail": "https://i.ytimg.com/vi/nEaJMdM1djM/hqdefault.jpg",
-      "publishedAt": "2026-10-28T13:31:29.000Z"
     },
     {
       "id": "n_2511c0dfdf",
