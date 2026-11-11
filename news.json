@@ -1,6 +1,61 @@
 {
-  "generatedAt": "2026-11-10T21:03:55.195Z",
+  "generatedAt": "2026-11-11T03:28:00.700Z",
   "items": [
+    {
+      "id": "n_c13b28b65c",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Kommentar: Aigner hätte auch zu AfD und Linken gehen müssen",
+      "summary": "Als Bundespräsidentin möchte Ilse Aigner Gräben überwinden. Bei ihrem Besuch im Bundestag versuchte sie allerdings nicht, die Türschwellen vor den Fraktionssälen von AfD und Linke zu überwinden. Ein schlechter Start, meint Maximilian Ulrich.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-kein-besuch-bei-afd-linke-100.html",
+      "publishedAt": "2026-11-11T01:20:58.000Z"
+    },
+    {
+      "id": "n_11c0013932",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ilse Aigner stellt sich den Bundestagsfraktionen vor",
+      "summary": "Freundlich und überparteilich präsentiert sich die künftige Bundespräsidentin Ilse Aigner bei den Fraktionen im Bundestag. Nur bei zwei Parteien lässt sie sich nicht blicken. Von Uwe Berndt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/aigner-fraktionen-100.html",
+      "publishedAt": "2026-11-11T01:17:49.000Z"
+    },
+    {
+      "id": "n_0f287a88a8",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "US-Repräsentantenhaus lehnt Amtsenthebungsverfahren gegen Hegseth ab",
+      "summary": "Die Republikaner im US-Repräsentantenhaus haben einen Vorstoß zur Amtsenthebung von Verteidigungsminister Pete Hegseth abgewehrt. Sie stimmten nahezu geschlossen gegen eine entsprechende Resolution.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/hegseth-amtsenthebungsverfahren-gestoppt-100.html",
+      "publishedAt": "2026-11-11T00:19:26.000Z"
+    },
+    {
+      "id": "n_c027dfffd3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene",
+      "summary": "Der erste Tag der Gespräche zwischen Russland und der Ukraine in Abu Dhabi ist ohne offizielles Ergebnis zu Ende gegangen. Medien berichten aber von einem geplanten Gefangenenaustausch. Eine Waffenruhe scheint dagegen in weiter Ferne.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html",
+      "publishedAt": "2026-11-10T21:08:29.000Z"
+    },
+    {
+      "id": "n_b0c096f56b",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Trauermesse nach Zugunglück mit 69 Toten in Spanien",
+      "summary": "Vor knapp zwei Wochen erschütterte das zweite große Zugunglück innerhalb eines Jahres Spanien - der Schock sitzt noch immer tief. Bei einer Trauermesse in Toledo wurde nun der 69 Toten gedacht. Von Franka Welz.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/trauermesse-spanien-100.html",
+      "publishedAt": "2026-11-10T21:04:36.000Z"
+    },
     {
       "id": "n_08f28f58a8",
       "type": "news",
@@ -33,61 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/wadephul-iran-102.html",
       "publishedAt": "2026-11-10T16:51:08.000Z"
-    },
-    {
-      "id": "n_6c40bb85df",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Pentagon-Chef Hegseth sieht in Amtsenthebungsantrag \"Schauprozess\"",
-      "summary": "Machtmissbrauch im Iran-Krieg - unter anderem wegen dieses Vorwurfs könnte ein Amtsenthebungsverfahren gegen Pentagon-Chef Hegseth eingeleitet werden. Auf einer Pressekonferenz wies er die Anschuldigungen zurück und sprach von einer Inszenierung.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/usa-hegseth-amtsenthebungsverfahren-100.html",
-      "publishedAt": "2026-11-10T15:51:55.000Z"
-    },
-    {
-      "id": "n_158694c3c0",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Maschinenbauer \"fassungslos\" über Bundesregierung",
-      "summary": "Die Koalition ringt um Reformen. Viel zu zögerlich, findet der Maschinenbauverband VDMA. Er wirft der Bundesregierung vor, mit internem Streit und Reformstau den Industriestandort Deutschland zu gefährden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/maschinenbaugipfel-100.html",
-      "publishedAt": "2026-11-10T15:43:59.000Z"
-    },
-    {
-      "id": "n_c0e94e8b4d",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Anthropic peilt Börsen-Bewertung von über einer Billion Dollar an",
-      "summary": "Das KI-Unternehmen Anthropic hat Details seiner Börsenpläne veröffentlicht. Was die Aktien kosten sollen und wie viel Geld der US-Konzern damit erlösen will - trotz wachsender Zweifel an der Rentabilität der Branche.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boerse-kuenstliche-intelligenz-100.html",
-      "publishedAt": "2026-11-10T15:37:43.000Z"
-    },
-    {
-      "id": "n_a4fa7fb4d0",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Zwei Tote bei russischen Luftangriffen",
-      "summary": "Russland hat die Ukraine in der Nacht erneut mit Luftangriffen überzogen. Dabei starben ukrainischen Angaben zufolge zwei Menschen. Zudem seien mehrere Umspannwerke getroffen worden, in mehreren Regionen fiel der Strom aus.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-206.html",
-      "publishedAt": "2026-11-10T14:42:40.000Z"
-    },
-    {
-      "id": "n_e431c32369",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Proteste vor Haus bei Kiew: Keine Belege für ein ukrainisches Foltergefängnis",
-      "summary": "Gewaltsame Proteste, ein verstörter Teenager, eine verzweifelte Ärztin: Im Internet verbreiten sich Bilder mit Behauptungen über die Entdeckung eines ukrainischen Foltergefängnisses bei Kiew. Was ist dazu bekannt? Von C. Reveland und K. König.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/faktenfinder/ukraine-angebliches-foltergefaengnis-100.html",
-      "publishedAt": "2026-11-10T14:22:54.000Z"
     },
     {
       "id": "n_a6f7452a0a",
@@ -266,92 +266,114 @@
       "publishedAt": "2026-11-10T17:00:02.000Z"
     },
     {
+      "id": "n_fb5573ea53",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T03:26:42.000Z"
+    },
+    {
+      "id": "n_9a43c86cef",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+      "summary": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T02:47:59.000Z"
+    },
+    {
       "id": "n_c8155dccf0",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+      "headline": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
       "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T20:53:33.000Z"
+      "publishedAt": "2026-11-11T02:41:16.000Z"
+    },
+    {
+      "id": "n_45d5c49f84",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T01:01:20.000Z"
+    },
+    {
+      "id": "n_61c8704b89",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+      "summary": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T00:26:02.000Z"
+    },
+    {
+      "id": "n_83048dff04",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+      "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T00:19:42.000Z"
+    },
+    {
+      "id": "n_7afea9ada6",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T00:18:07.000Z"
     },
     {
       "id": "n_d68f526af6",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+      "headline": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
       "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T20:40:13.000Z"
+      "publishedAt": "2026-11-10T22:52:15.000Z"
     },
     {
-      "id": "n_5615a0ab87",
+      "id": "n_87a3474e76",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "US federal authorities could have prevented Epstein crimes, report finds",
-      "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
+      "headline": "Robot vessels take on the dangerous work of mine hunting",
+      "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T20:36:58.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T00:19:13.000Z"
     },
     {
-      "id": "n_58032ebc9a",
+      "id": "n_2965feb8b5",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
-      "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
+      "headline": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T19:26:42.000Z"
-    },
-    {
-      "id": "n_7eee3792c5",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
-      "summary": "The US Food and Drug Administration says Ozempic, Wegovy, and other weight-loss drugs must have labels about the condition, known as NAION.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T18:43:04.000Z"
-    },
-    {
-      "id": "n_cff6cae276",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
-      "summary": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T18:35:35.000Z"
-    },
-    {
-      "id": "n_b28769c11d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T18:33:51.000Z"
-    },
-    {
-      "id": "n_5c327dc8ea",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Arrests made after visit from former US President Biden",
-      "summary": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T18:07:56.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-10T21:22:36.000Z"
     },
     {
       "id": "n_519ce40bbf",
@@ -409,26 +431,70 @@
       "publishedAt": "2026-11-10T05:22:39.000Z"
     },
     {
-      "id": "n_2965feb8b5",
+      "id": "n_51c33ac2c7",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T23:51:22.000Z"
+      "headline": "Seagate's new hybrid drive raises some old questions",
+      "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "publishedAt": "2026-11-10T23:30:56.000Z"
     },
     {
-      "id": "n_ed37d32e2c",
+      "id": "n_eae5970b07",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-      "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T21:52:28.000Z"
+      "headline": "The US military seems to be getting nervous about the launch supply crunch",
+      "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+      "publishedAt": "2026-11-10T23:02:39.000Z"
+    },
+    {
+      "id": "n_cd1dc6d6e6",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "publishedAt": "2026-11-10T22:35:01.000Z"
+    },
+    {
+      "id": "n_6114256391",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+      "summary": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
+      "publishedAt": "2026-11-10T21:55:26.000Z"
+    },
+    {
+      "id": "n_b686da6834",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "publishedAt": "2026-11-10T21:12:59.000Z"
+    },
+    {
+      "id": "n_c4b2e9a503",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "What happens to mathematics when AI becomes an oracle?",
+      "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+      "publishedAt": "2026-11-10T20:30:01.000Z"
     },
     {
       "id": "n_0e4a97de00",
@@ -453,70 +519,15 @@
       "publishedAt": "2026-11-10T19:00:26.000Z"
     },
     {
-      "id": "n_25c872dbbb",
+      "id": "n_bd2a6830d8",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Free video-streaming service Tubi lets users share curated watchlists now",
-      "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
-      "publishedAt": "2026-11-10T18:39:16.000Z"
-    },
-    {
-      "id": "n_b5a0a06fa9",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Steam Deck performance gets a reality check with Valve's new FPS data",
-      "summary": "Benchmark tools for generic gaming rigs could be coming soon.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
-      "publishedAt": "2026-11-10T17:26:44.000Z"
-    },
-    {
-      "id": "n_c5b4bb51ba",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "High oil prices have led to a dip in global carbon emissions",
-      "summary": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
-      "publishedAt": "2026-11-10T16:29:27.000Z"
-    },
-    {
-      "id": "n_4c4fe289b2",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "One space station company sues another for copying its work",
-      "summary": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
-      "publishedAt": "2026-11-10T16:17:51.000Z"
-    },
-    {
-      "id": "n_004c51f512",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-      "summary": "The new model is up to twice as successful at some tasks.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-      "publishedAt": "2026-11-10T15:00:39.000Z"
-    },
-    {
-      "id": "n_9527616301",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Nvidia has a Jensen Huang problem—and no obvious successor",
-      "summary": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
-      "publishedAt": "2026-11-10T14:53:05.000Z"
+      "headline": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "publishedAt": "2026-11-10T21:08:52.000Z"
     },
     {
       "id": "n_91faed0650",
@@ -594,17 +605,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
       "publishedAt": "2026-11-10T17:04:19.000Z"
-    },
-    {
-      "id": "n_5ef445c1e8",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-      "publishedAt": "2026-11-10T15:54:08.000Z"
     },
     {
       "id": "n_34a6071342",
@@ -957,186 +957,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
       "publishedAt": "2026-11-04T17:50:10.000Z"
-    },
-    {
-      "id": "n_ad2999a10b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Is Software Over?",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=vug73goPJaM",
-      "thumbnail": "https://i.ytimg.com/vi/vug73goPJaM/hqdefault.jpg",
-      "publishedAt": "2026-11-10T10:15:57.000Z"
-    },
-    {
-      "id": "n_f825ed192f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI's Astra Just Opened The Black Box Of AI",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
-      "thumbnail": "https://i.ytimg.com/vi/GJ6PMUm5oTA/hqdefault.jpg",
-      "publishedAt": "2026-11-07T16:24:47.000Z"
-    },
-    {
-      "id": "n_7a7f412202",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
-      "thumbnail": "https://i.ytimg.com/vi/XgC1QTs6A2U/hqdefault.jpg",
-      "publishedAt": "2026-11-06T07:27:02.000Z"
-    },
-    {
-      "id": "n_ce14acab8d",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI Claims It Just Did The Impossible",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
-      "thumbnail": "https://i.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg",
-      "publishedAt": "2026-10-30T15:57:16.000Z"
-    },
-    {
-      "id": "n_3f3a8c8623",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
-      "thumbnail": "https://i.ytimg.com/vi/ZAzWPE9CItg/hqdefault.jpg",
-      "publishedAt": "2026-10-26T22:51:51.000Z"
-    },
-    {
-      "id": "n_fb6a439eff",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
-      "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
-      "publishedAt": "2026-10-13T21:26:16.000Z"
-    },
-    {
-      "id": "n_c21d60498a",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
-      "publishedAt": "2026-09-17T00:34:47.000Z"
-    },
-    {
-      "id": "n_ffdb3dfd14",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=NYFGCESmikA",
-      "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
-      "publishedAt": "2026-08-26T21:44:41.000Z"
-    },
-    {
-      "id": "n_9c1dd2df1b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did Anthropic just save its $1 trillion IPO?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=1FurWDiK9A4",
-      "thumbnail": "https://i.ytimg.com/vi/1FurWDiK9A4/hqdefault.jpg",
-      "publishedAt": "2026-11-10T18:19:55.000Z"
-    },
-    {
-      "id": "n_526cf64c21",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI spent $1.2 million hacking Linux... and it was a bargain",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=pf5tXJZM1Rw",
-      "thumbnail": "https://i.ytimg.com/vi/pf5tXJZM1Rw/hqdefault.jpg",
-      "publishedAt": "2026-11-09T21:04:16.000Z"
-    },
-    {
-      "id": "n_02e3418836",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The one thing holding theoretical CS together just broke... kinda",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=iw9SZgyahqg",
-      "thumbnail": "https://i.ytimg.com/vi/iw9SZgyahqg/hqdefault.jpg",
-      "publishedAt": "2026-11-06T16:42:38.000Z"
-    },
-    {
-      "id": "n_c0d2e81c85",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The worst week in cybersecurity history... so far",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=k2ruCf_z75I",
-      "thumbnail": "https://i.ytimg.com/vi/k2ruCf_z75I/hqdefault.jpg",
-      "publishedAt": "2026-11-03T19:47:10.000Z"
-    },
-    {
-      "id": "n_2511c0dfdf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Meta VR Glasses: What Vision Pro 2 COULD Have Been!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=_x58r9TBois",
-      "thumbnail": "https://i.ytimg.com/vi/_x58r9TBois/hqdefault.jpg",
-      "publishedAt": "2026-11-06T21:29:30.000Z"
-    },
-    {
-      "id": "n_0ec2db3ae5",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OLED iPad Mini is The Most Apple Product They've Ever Appled",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=g6Die8gVFn0",
-      "thumbnail": "https://i.ytimg.com/vi/g6Die8gVFn0/hqdefault.jpg",
-      "publishedAt": "2026-11-03T14:01:31.000Z"
-    },
-    {
-      "id": "n_342584f266",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Macbook PROLED XDR Impressions: They Said They Wouldn't!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=2reQut8WNGc",
-      "thumbnail": "https://i.ytimg.com/vi/2reQut8WNGc/hqdefault.jpg",
-      "publishedAt": "2026-10-29T02:50:34.000Z"
     }
   ]
 }
