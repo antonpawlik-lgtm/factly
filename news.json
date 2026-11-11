@@ -1,93 +1,104 @@
 {
-  "generatedAt": "2026-11-11T13:03:54.067Z",
+  "generatedAt": "2026-11-11T21:37:45.288Z",
   "items": [
     {
-      "id": "n_2514b351f8",
+      "id": "n_4a2e68e24f",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Digital Fairness Act - EU will digitalen Verbraucherschutz stärken",
-      "summary": "Die EU-Kommission will mit einem Digital Fairness Act (DFA) Verbraucher in der digitalen Welt schützen. Der nun vorgestellte Entwurf soll unlautere Praktiken unterbinden. Die deutschen Verleger sind nicht begeistert.",
+      "headline": "Schwarz-Rot verschiebt Zuckersteuer - keine Einigung bei Stromsteuer",
+      "summary": "Im Ringen um den Haushalt hat sich die Koalition nach ARD-Informationen auf einen Kompromiss geeinigt. So soll etwa die Einführung einer Zuckersteuer verschoben werden - zudem wird die Stromsteuer wohl vorerst nicht für alle gesenkt.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-digital-fairness-act-100.html",
-      "publishedAt": "2026-11-11T12:40:59.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
+      "publishedAt": "2026-11-11T21:30:05.000Z"
     },
     {
-      "id": "n_7355968894",
+      "id": "n_a8faa74f72",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Marktbericht: Der DAX-Rally geht die Puste aus",
-      "summary": "Am dritten Tag erlahmt die DAX-Rally. Die Quartalszahlen waren zwar überwiegend positiv, aber für die Höhe der Bewertungen erwarten Investoren mehr. Dazu kommen unbefriedigende Entwicklungen bei Öl und Inflation.",
+      "headline": "Köln und Düsseldorf: Meist friedlicher Karnevalsstart im Rheinland",
+      "summary": "In den Karnevalshochburgen Köln und Düsseldorf haben die Jecken die fünfte Jahreszeit eingeläutet. Laut Polizei verliefen die Feiern auf den Straßen und in den Kneipen meist friedlich. Nur das Wetter machte nicht mit.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/dax-rally-geht-puste-aus-100.html",
-      "publishedAt": "2026-11-11T12:40:08.000Z"
+      "url": "https://www.tagesschau.de/inland/gesellschaft/karneval-start-koeln-duesseldorf-100.html",
+      "publishedAt": "2026-11-11T20:29:48.000Z"
     },
     {
-      "id": "n_db7bcae739",
+      "id": "n_64b7d11996",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Bundeskartellamt kritisiert Gebührenpolitik von PayPal",
-      "summary": "Wer etwas mit PayPal kauft, muss dafür keine Gebühren zahlen. Onlinehändler dagegen tragen womöglich überhöhte Kosten. Aus Sicht des Bundeskartellamts könnte das günstigere Zahlungsanbieter benachteiligen.",
+      "headline": "Polens Rechte ziehen mit \"Unabhängigkeitsmarsch\" durch Warschau",
+      "summary": "Am polnischen Unabhängigkeitstag findet traditionell eine Großdemonstration von Rechtsnationalisten statt. Der sogenannte Unabhängigkeitsmarsch durch Warschau ist umstritten - und zieht doch Hunderttausende an. Von P. Milling.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/paypal-bundeskartellamt-gebuehren-100.html",
-      "publishedAt": "2026-11-11T12:34:37.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/umstrittener-marsch-zu-unabhaengigkeitstag-in-polen-100.html",
+      "publishedAt": "2026-11-11T19:26:10.000Z"
     },
     {
-      "id": "n_fa582d2969",
+      "id": "n_077105b42c",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "EKD-Synode in Würzburg: Wie die Kirche Demokratie stärken will",
-      "summary": "Gegen Menschenfeindlichkeit: Die evangelische Kirche will die Demokratie stärken, mit Bildungsarbeit und Begegnungsräumen, vor allem auf dem Land. Das hat die Synode in Würzburg beschlossen. Doch Geld und Personal werden knapper. Von C. Wölfel.",
+      "headline": "Bombendrohungen an Tausenden Schulen in Italien und Großbritannien",
+      "summary": "An Tausenden Schulen in Italien sind per E-Mail Bombendrohungen eingegangen. Auch in Großbritannien gibt es ähnliche Fälle. Die Behörden gehen von Falschmeldungen aus. Wer hinter den Drohungen steckt, ist unklar.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/ekd-synode-122.html",
-      "publishedAt": "2026-11-11T12:07:44.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-italien-100.html",
+      "publishedAt": "2026-11-11T19:13:07.000Z"
     },
     {
-      "id": "n_fe8db9a678",
+      "id": "n_e6cc9b55dc",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Pistorius pocht auf \"null Toleranz\" gegenüber sexualisiertem Fehlverhalten in Bundeswehr",
-      "summary": "Angesichts der hohen Zahl an Fällen von sexualisiertem Fehlverhalten bei der Bundeswehr will Verteidigungsminister Pistorius mit \"null Toleranz\" dagegen vorgehen. Unter anderem durch bessere Prävention und eine externe Anlaufstelle für Betroffene.",
+      "headline": "\"Sicherheitsordnung\": Warum übernehmen die USA Russlands Forderung?",
+      "summary": "Russland sieht Gespräche über eine \"Sicherheitsordnung\" für Europa vor allem als Mittel, seinen Einfluss über den Kontinent auszuweiten, sagt die Politikexpertin Jana Puglierin. Nun hätten sich die USA auf diese Logik eingelassen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-dunkelfeldstudie-102.html",
-      "publishedAt": "2026-11-11T11:30:22.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/europa-sicherheitsarchitektur-russland-usa-100.html",
+      "publishedAt": "2026-11-11T18:56:21.000Z"
     },
     {
-      "id": "n_f4a0210b26",
+      "id": "n_af55580cbb",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Ukraine-Verhandlungen: Russland plant kein Treffen mit Europäern",
-      "summary": "In Abu Dhabi gehen die von den USA vermittelten Gespräche über ein Ende des Kriegs gegen die Ukraine weiter. Auch die Europäer sind vor Ort, doch die russische Delegation zeigt wenig Interesse an einem Austausch.",
+      "headline": "Urteil: BGH nimmt Rechtsschutzversicherungen in die Pflicht",
+      "summary": "Klagen gegen Impfstoffhersteller sind seit der Corona-Pandemie keine Seltenheit. Häufig wollen Versicherungen diese nicht unterstützen - wegen vermeintlich geringer Erfolgschancen. Oft zu Unrecht, urteilte nun der BGH. Von A. Stein.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/ukraine-russland-abu-dhabi-eu-100.html",
-      "publishedAt": "2026-11-11T11:27:20.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-rechtsschutzversicherung-100.html",
+      "publishedAt": "2026-11-11T18:46:53.000Z"
     },
     {
-      "id": "n_09f1987bf7",
+      "id": "n_196dbf9830",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Wenn Klimaschutz überfordert",
-      "summary": "Vielen Menschen ist das Thema Klimaschutz wichtig - das zumindest zeigen Umfragen. Doch häufig werden Maßnahmen, die die Umwelt schützen sollen, abgelehnt. Wie passt das zusammen? Von Magdalena Schmude.",
+      "headline": "Familienministerin Prien plant Einkommensgrenze beim Unterhaltsvorschuss",
+      "summary": "Einkommensgrenze, statt verkürzter Zahlung: Familienministerin Prien hat einen Gesetzentwurf zum Unterhaltsvorschuss vorgelegt. Elternteile, die nicht zahlen, sollen stärker in die Pflicht genommen werden - etwa mit Fahrverboten.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/klima/klimaschutz-212.html",
-      "publishedAt": "2026-11-11T11:02:47.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-100.html",
+      "publishedAt": "2026-11-11T18:01:47.000Z"
     },
     {
-      "id": "n_53126fbfa7",
+      "id": "n_03c137f17c",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "\"Tankrabatt\" drückt Inflation im Oktober",
-      "summary": "Die Teuerungsrate ist im Oktober in Deutschland zurückgegangen. Der \"Tankrabatt\" zeigt offenbar Wirkung. Energie - vor allem Heizöl - bleibt aber teuer. Und auch einige Lebensmittel kosten wieder mehr.",
+      "headline": "Russland und Ukraine vereinbaren Gefangenenaustausch",
+      "summary": "Bei den Ukraine-Gesprächen haben Moskau und Kiew einen weiteren Gefangenenaustausch vereinbart. Morgen wollen die US-Gesandten Kushner und Witkoff zu Kremlchef Putin reisen. Dabei soll es auch darum gehen, die Europäer in die Gespräche einzubinden.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-tankrabatt-spritpreise-oktober-100.html",
-      "publishedAt": "2026-11-11T11:00:32.000Z"
+      "url": "https://www.tagesschau.de/ausland/asien/ukraine-russland-verhandlungen-abu-dhabi-104.html",
+      "publishedAt": "2026-11-11T17:30:18.000Z"
+    },
+    {
+      "id": "n_df7c387079",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "„Merkmale von Glücksspiel“: EU will Lootboxen für Minderjährige verbieten",
+      "summary": "Der Entwurf des Digital Fairness Act verbietet Lootboxen und Pay-to-Win für Minderjährige. Der Branchenverband game schlägt Alarm.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Digital-Fairness-Act-Was-der-EU-Entwurf-fuer-Lootboxen-in-Spielen-bedeutet-11520914.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-11-11T13:25:00.000Z"
     },
     {
       "id": "n_4618b869c5",
@@ -167,191 +178,180 @@
       "publishedAt": "2026-11-10T12:16:00.000Z"
     },
     {
-      "id": "n_a6e5b59ead",
+      "id": "n_b6fb49d02d",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Angriffswarnung für GPUStack, FreeSwitch, OpenSSH und IBM Aspera Faspex",
-      "summary": "Die US-amerikanische IT-Sicherheitsbehörde CISA warnt vor Angriffen auf GPUStack, FreeSwitch, OpenSSH und IBM Aspera Faspex.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Angriffswarnung-fuer-GPUStack-FreeSwitch-OpenSSH-und-IBM-Aspera-Faspex-11518710.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-11-10T10:33:00.000Z"
-    },
-    {
-      "id": "n_e57837ba28",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Downloadstart: DE-CIX verzeichnet wegen GTA VI neue Datenrekorde",
-      "summary": "Ein Spitzenwert von 22,30 Terabit pro Sekunde für den Vorab-Download für Grand Theft Auto VI. Auch weltweit verzeichnete der DE-CIX einen neuen Höchstwert. (DE-CIX, Spiele)",
+      "headline": "FTTH: Telefónica und Deutsche Glasfaser arbeiten zusammen",
+      "summary": "Telefónica Deutschland baut die Reichweite des eigenen Festnetzangebots massiv aus und kooperiert künftig mit Deutsche Glasfaser. (Deutsche Glasfaser, Glasfaser)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/downloadstart-de-cix-verzeichnet-wegen-gta-vi-neue-datenrekorde-2611-215089.html",
-      "publishedAt": "2026-11-11T12:49:02.000Z"
+      "url": "https://www.golem.de/news/ftth-telefonica-und-deutsche-glasfaser-arbeiten-zusammen-2611-215108.html",
+      "publishedAt": "2026-11-11T18:51:01.000Z"
     },
     {
-      "id": "n_fd7e9f0c96",
+      "id": "n_0889f40a57",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) Softwareentwicklung: KI schreibt immer mehr Code - was bleibt für Entwickler?",
-      "summary": "KI schreibt immer mehr Code. Studien zeigen, welche Aufgaben Entwickler abgeben und wo ihre eigene Arbeit weiterhin entscheidend bleibt. Ein Ratgebertext von Klaus Manhart (Stirbt das Coding?, KI)",
+      "headline": "Anzeige: KI-Agenten mit Claude für Büroaufgaben einsetzen",
+      "summary": "KI-Agenten können wiederkehrende Büroaufgaben übernehmen. Ein Online-Workshop zeigt, wie sich mit Claude Arbeitsabläufe automatisieren und kontrollieren lassen. (Golem Karrierewelt, Programmiersprachen)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/softwareentwicklung-ki-schreibt-immer-mehr-code-was-bleibt-fuer-entwickler-2611-215040.html",
-      "publishedAt": "2026-11-11T12:30:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-ki-agenten-mit-claude-fuer-bueroaufgaben-einsetzen-2611-215107.html",
+      "publishedAt": "2026-11-11T18:08:01.000Z"
     },
     {
-      "id": "n_7c1014a836",
+      "id": "n_433f7f7fcf",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Doppeltes Datenvolumen zur Black Week im CallYa Jahrespaket M von Vodafone",
-      "summary": "Für die Black Week hat Vodafone auch ein CallYa-Jahrespaket verbessert. Das Jahrespaket M ist jetzt mit doppeltem Datenvolumen ausgestattet. (Vodafone, Black Friday)",
+      "headline": "Single-Player-Kampagne von Star Citizen: Mark Hamill spielt Squadron 42 in VR",
+      "summary": "Die Macher von Star Citizen zeigen im Video neues Gameplay von Squadron 42. Auch Mark Hamill persönlich durfte hinters Steuer. (Star Citizen, Spiele)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-doppeltes-datenvolumen-zur-black-week-im-callya-jahrespaket-m-von-vodafone-2611-215060.html",
-      "publishedAt": "2026-11-11T12:20:01.000Z"
+      "url": "https://www.golem.de/news/single-player-kampagne-von-star-citizen-mark-hamill-spielt-squadron-42-in-vr-2611-215104.html",
+      "publishedAt": "2026-11-11T17:32:01.000Z"
     },
     {
-      "id": "n_ca9746a54a",
+      "id": "n_38214143f4",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Code-Analyse: Telekom braucht rund um die Uhr KI-Modelle gegen Zero-Day-Lücken",
-      "summary": "Der Chief Security Officer der Telekom räumt mit verbreiteten Mythen rund um KI auf. Ein besonderes Sicherheitsprobleme sieht er bei Open Source. (Softwareentwicklung, KI)",
+      "headline": "Produktion des ID.Golf: VW stoppt Projekt Gamechanger für Wolfsburg",
+      "summary": "Aus Kostengründen verzichtet VW auf ein neues Gussverfahren für den Elektro-Golf. Verwirrung gibt es um die ID.3-Produktion. (Volkswagen ID., Elektroauto)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/code-analyse-telekom-braucht-rund-um-die-uhr-ki-modelle-gegen-zero-day-luecken-2611-215088.html",
-      "publishedAt": "2026-11-11T12:17:02.000Z"
+      "url": "https://www.golem.de/news/produktion-des-id-golf-vw-stoppt-projekt-gamechanger-fuer-wolfsburg-2611-215105.html",
+      "publishedAt": "2026-11-11T17:13:02.000Z"
     },
     {
-      "id": "n_97bf23ceeb",
+      "id": "n_8652188270",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "2-nm-Fertigung: Rapidus scheint Produktionsstart verschieben zu müssen",
-      "summary": "Das japanische Halbleiter-Start-up Rapidus plagen wohl noch diverse Probleme. Zentrale Schaltungsteile sollen nicht wie geplant funktionieren. (Halbleiterfertigung, IBM)",
+      "headline": "(g+) Opinion: 'Delayering' Is the New Code Word for 'AI Took Your Job'",
+      "summary": "Financial technology firm Chime Financial Corp. boasted this year that it was using artificial intelligence tools to transition to smaller teams with \"fewer layers.\" What unholy strain of consultant-speak is delayering? Von Jonathan Levin (KI, Software)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/2-nm-fertigung-rapidus-scheint-produktionsstart-verschieben-zu-muessen-2611-215085.html",
-      "publishedAt": "2026-11-11T12:04:02.000Z"
+      "url": "https://www.golem.de/news/opinion-delayering-is-the-new-code-word-for-ai-took-your-job-2611-215102.html",
+      "publishedAt": "2026-11-11T17:00:02.000Z"
     },
     {
-      "id": "n_107757fc40",
+      "id": "n_d2701d3944",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "The Legend of Zelda: Zelda Ocarina of Time legt Rekordstart auf Switch 2 hin",
-      "summary": "Mehr als 5,2 Millionen verkaufte Exemplare in vier Tagen: Das Remake von Ocarina of Time stellt einen neuen Nintendo-Switch-2-Rekord auf. (Zelda, Adventure)",
+      "headline": "Sicherheitschef: Es gibt bei Huawei laut Telekom \"nicht die Smoking Gun\"",
+      "summary": "Die Telekom beurteilt die Sicherheit ihrer Technik nicht anhand der Vorgaben der US-Regierung. Der NSA-Skandal ist nicht vergessen. (Huawei, Telekom)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/the-legend-of-zelda-zelda-ocarina-of-time-legt-rekordstart-auf-switch-2-hin-2611-215084.html",
-      "publishedAt": "2026-11-11T11:52:01.000Z"
+      "url": "https://www.golem.de/news/sicherheitschef-es-gibt-bei-huawei-laut-telekom-nicht-die-smoking-gun-2611-215100.html",
+      "publishedAt": "2026-11-11T16:43:02.000Z"
     },
     {
-      "id": "n_cc10628704",
+      "id": "n_97169fa2f6",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Beliebter Akku-Autostaubsauger mit Zubehör erstmals unter 60 Euro bei Amazon",
-      "summary": "Der Fanttik Slim V8 Apex saugt mit 19.000 Pa Krümel aus dem Kindersitz oder der Tastatur, wiegt nur 500 Gramm und ist jetzt so günstig wie noch nie. (Technik/Hardware, Haushaltsgeräte)",
+      "headline": "Anzeige: Xiaomi Poco F8 Ultra zum niedrigsten Preis seit Monaten bei Amazon",
+      "summary": "Im frühen Black Friday Angebot verkauft Amazon das Xiaomi Poco F8 Ultra mit 12+256 GByte Speicher so günstig wie lange nicht. (Black Friday, Smartphone)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-beliebter-akku-autostaubsauger-mit-zubehoer-erstmals-unter-60-euro-bei-amazon-2611-215087.html",
-      "publishedAt": "2026-11-11T11:46:02.000Z"
+      "url": "https://www.golem.de/news/anzeige-xiaomi-poco-f8-ultra-zum-niedrigsten-preis-seit-monaten-bei-amazon-2611-215103.html",
+      "publishedAt": "2026-11-11T16:18:01.000Z"
     },
     {
-      "id": "n_8714b9014c",
+      "id": "n_cfb3783535",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Spielebranche: China hängt die USA bei Mobile Games ab",
-      "summary": "US-Spieleentwickler verlieren laut einer Analyse massiv an Boden - sogar im Heimatmarkt. Ein wichtiger Wert ist besonders auffällig. (Mobile Games, Microsoft)",
+      "headline": "Militärische KI-Plattform: Helsing stellt europäische Alternative zu Palantir vor",
+      "summary": "Die KI-Plattform Clarity soll große Datenmengen parallel verarbeiten können. Laut Helsing wurden die KI-Modelle und -Agenten in Europa entwickelt. (Militär, Wirtschaft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/spielebranche-china-haengt-die-usa-bei-mobile-games-ab-2611-215081.html",
-      "publishedAt": "2026-11-11T11:39:01.000Z"
+      "url": "https://www.golem.de/news/militaerische-ki-plattform-helsing-stellt-europaeische-alternative-zu-palantir-vor-2611-215099.html",
+      "publishedAt": "2026-11-11T16:08:02.000Z"
     },
     {
-      "id": "n_90dc2babde",
+      "id": "n_23565797d1",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Kenya discharges last Ebola patient in key milestone to being declared free of the virus",
-      "summary": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
+      "headline": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T12:53:11.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T20:52:52.000Z"
     },
     {
-      "id": "n_ff8b6bdaf4",
+      "id": "n_5bde872441",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-      "summary": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
+      "headline": "African writing award probe finds 'no evidence' winning story was AI generated",
+      "summary": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T12:32:06.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T20:00:54.000Z"
     },
     {
       "id": "n_c57d9b9b4f",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
-      "summary": "Emails containing the false warnings were sent to schools in Rome, Naples, Vicenza, Florence, Pisa, Trieste and other Italian cities, officials say.",
+      "headline": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+      "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T12:30:29.000Z"
+      "publishedAt": "2026-11-11T18:38:45.000Z"
     },
     {
-      "id": "n_9a43c86cef",
+      "id": "n_77d2e141ff",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
-      "summary": "The 400 Mawozo gang was targeted by El Salvador's military, which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+      "headline": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+      "summary": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T12:14:12.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T18:10:57.000Z"
     },
     {
-      "id": "n_fb5573ea53",
+      "id": "n_3a270928c1",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "headline": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+      "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T11:47:22.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T18:04:58.000Z"
     },
     {
-      "id": "n_60389a017f",
+      "id": "n_45d5c49f84",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Transport workers in Chile block highways in protest over surging fuel prices",
-      "summary": "Hundreds of bus and lorry drivers are blocking traffic along major highway routes across the country.",
+      "headline": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T11:34:50.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T16:59:34.000Z"
     },
     {
-      "id": "n_126976799d",
+      "id": "n_9e192a2ac3",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Eswatini gives illegal foreign businesses 12 months to leave",
-      "summary": "The law follows the growth of foreign-owned businesses in retail sector in rural areas.",
+      "headline": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+      "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gnq2pw2kro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T11:15:00.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T16:45:11.000Z"
     },
     {
-      "id": "n_b208d6a6d0",
+      "id": "n_f20ccf018a",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Tearful Smith switches allegiance to Netherlands",
-      "summary": "Tatjana Smith, South Africa's most decorated Olympian, switches allegiance to the Netherlands.",
+      "headline": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+      "summary": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T09:45:14.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T16:38:07.000Z"
     },
     {
       "id": "n_b0b00dc134",
@@ -442,180 +442,213 @@
       "publishedAt": "2026-11-10T08:23:21.000Z"
     },
     {
-      "id": "n_51c33ac2c7",
+      "id": "n_d5b3e3dc33",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Seagate's new hybrid drive raises some old questions",
-      "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
+      "headline": "T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says",
+      "summary": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "publishedAt": "2026-11-10T23:30:56.000Z"
+      "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+      "publishedAt": "2026-11-11T20:32:21.000Z"
     },
     {
-      "id": "n_eae5970b07",
+      "id": "n_d49b4066d8",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "The US military seems to be getting nervous about the launch supply crunch",
-      "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+      "headline": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+      "summary": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
-      "publishedAt": "2026-11-10T23:02:39.000Z"
+      "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+      "publishedAt": "2026-11-11T20:22:03.000Z"
     },
     {
-      "id": "n_cd1dc6d6e6",
+      "id": "n_d23951db81",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "headline": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
+      "summary": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "publishedAt": "2026-11-10T22:35:01.000Z"
+      "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/",
+      "publishedAt": "2026-11-11T19:00:26.000Z"
     },
     {
-      "id": "n_6114256391",
+      "id": "n_d48e4f7a31",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
-      "summary": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
+      "headline": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
-      "publishedAt": "2026-11-10T21:55:26.000Z"
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "publishedAt": "2026-11-11T18:16:40.000Z"
     },
     {
-      "id": "n_b686da6834",
+      "id": "n_b6506d6405",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "headline": "Trump admin loses fight to spy on random journalists’ LinkedIn DMs",
+      "summary": "Confidential sources “lifeblood” of free press, court rules in LinkedIn fight.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-      "publishedAt": "2026-11-10T21:12:59.000Z"
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms/",
+      "publishedAt": "2026-11-11T18:05:26.000Z"
     },
     {
-      "id": "n_c4b2e9a503",
+      "id": "n_9e2e1c68cf",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "What happens to mathematics when AI becomes an oracle?",
-      "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.",
+      "headline": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+      "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
-      "publishedAt": "2026-11-10T20:30:01.000Z"
+      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+      "publishedAt": "2026-11-11T17:37:32.000Z"
     },
     {
-      "id": "n_0e4a97de00",
+      "id": "n_9b6a04c666",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Google Fi adds support for a second 5G network, won't say which one",
-      "summary": "Fi has always supported T-Mobile, but the new one? Google won't say.",
+      "headline": "Apple is shuttering its 28-year-old online community forum",
+      "summary": "Apple has already made the forum read-only.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
-      "publishedAt": "2026-11-10T19:35:59.000Z"
+      "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
+      "publishedAt": "2026-11-11T17:04:26.000Z"
     },
     {
-      "id": "n_b40010d3be",
+      "id": "n_81c693f5ea",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
-      "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
+      "headline": "IBM to offer access to a dual-processor quantum system in 2027",
+      "summary": "The company plans on linking two 520-qubit chips before next year is over.",
       "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
-      "publishedAt": "2026-11-10T19:00:26.000Z"
+      "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+      "publishedAt": "2026-11-11T16:33:08.000Z"
     },
     {
-      "id": "n_a390f90d46",
+      "id": "n_0d92f57c72",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+      "headline": "Why the data center you dread might never even be built",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may ne",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-      "publishedAt": "2026-11-11T07:30:51.000Z"
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "publishedAt": "2026-11-11T20:15:15.000Z"
     },
     {
-      "id": "n_bd2a6830d8",
+      "id": "n_6bc57b8d80",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "headline": "Meta is losing its longtime head of infrastructure",
+      "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-      "publishedAt": "2026-11-10T21:08:52.000Z"
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "publishedAt": "2026-11-11T20:12:01.000Z"
     },
     {
-      "id": "n_91faed0650",
+      "id": "n_984513ae1f",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "headline": "How backlash and red tape continue to slow data centers post-Blue Wave",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may ne",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "publishedAt": "2026-11-10T20:52:13.000Z"
+      "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+      "publishedAt": "2026-11-11T20:02:14.000Z"
     },
     {
-      "id": "n_9a5bae24e0",
+      "id": "n_c063829a61",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+      "headline": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "publishedAt": "2026-11-10T19:57:52.000Z"
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "publishedAt": "2026-11-11T19:54:00.000Z"
     },
     {
-      "id": "n_fe6d70a180",
+      "id": "n_019cc9ec16",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+      "headline": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-      "publishedAt": "2026-11-10T19:23:34.000Z"
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "publishedAt": "2026-11-11T19:34:55.000Z"
     },
     {
-      "id": "n_2800935556",
+      "id": "n_90a2e60457",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "headline": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "publishedAt": "2026-11-10T19:03:52.000Z"
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "publishedAt": "2026-11-11T19:22:22.000Z"
     },
     {
-      "id": "n_ccdccf818b",
+      "id": "n_32bc3a2f62",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "headline": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "publishedAt": "2026-11-10T18:49:52.000Z"
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "publishedAt": "2026-11-11T16:16:07.000Z"
     },
     {
-      "id": "n_fd8e1c638d",
+      "id": "n_29f521837a",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+      "headline": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
       "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "publishedAt": "2026-11-10T17:30:00.000Z"
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "publishedAt": "2026-11-11T16:14:44.000Z"
+    },
+    {
+      "id": "n_2d8f602ac5",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "summary": "Tabletop isn’t anything to do with D&D or boardgames, but it does make it easier to coordinate with freinds, | Image: Google Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friend",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "publishedAt": "2026-11-11T16:00:00.000Z"
+    },
+    {
+      "id": "n_a86af765ff",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "summary": "A graphic representing Google’s AlphaGenome Atlas. | Image: Google Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could h",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "publishedAt": "2026-11-11T15:00:00.000Z"
+    },
+    {
+      "id": "n_450a9863af",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+      "summary": "Project Screen Test lets you talk with AI-generated characters to shape their personality. | Image: Adobe Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are b",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "publishedAt": "2026-11-11T14:00:00.000Z"
     },
     {
       "id": "n_34a6071342",
@@ -671,39 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
       "publishedAt": "2026-11-10T16:20:30.000Z"
-    },
-    {
-      "id": "n_a14681e2dd",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-      "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "publishedAt": "2026-11-10T16:00:00.000Z"
-    },
-    {
-      "id": "n_0cd5e191c4",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Anthropic targets $1.4 trillion IPO",
-      "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the The New Y",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-      "publishedAt": "2026-11-10T14:06:54.000Z"
-    },
-    {
-      "id": "n_04566ece2f",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Adobe is going all in on agentic AI",
-      "summary": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and features announced today at Adobe's Max conference in Miami, Florida, include a",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-      "publishedAt": "2026-11-10T14:00:00.000Z"
     },
     {
       "id": "n_3ec2e27891",
@@ -794,6 +794,50 @@
       "publishedAt": "2026-11-03T04:18:47.000Z"
     },
     {
+      "id": "n_6876cf9cc9",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "summary": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "publishedAt": "2026-11-11T19:55:54.000Z"
+    },
+    {
+      "id": "n_c1e65afe95",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "A Startup Wants to Fight AI Bioweapons With AI",
+      "summary": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+      "publishedAt": "2026-11-11T17:00:00.000Z"
+    },
+    {
+      "id": "n_052fdbefc1",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
+      "summary": "“It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
+      "publishedAt": "2026-11-11T16:13:03.000Z"
+    },
+    {
+      "id": "n_68811e0d8b",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+      "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+      "publishedAt": "2026-11-11T15:30:00.000Z"
+    },
+    {
       "id": "n_75e855ee58",
       "type": "news",
       "topic": "ai",
@@ -838,50 +882,6 @@
       "publishedAt": "2026-11-10T11:00:00.000Z"
     },
     {
-      "id": "n_2eff05fe6c",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
-      "summary": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
-      "publishedAt": "2026-11-10T07:00:00.000Z"
-    },
-    {
-      "id": "n_c98e24de8e",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
-      "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
-      "publishedAt": "2026-11-10T05:01:00.000Z"
-    },
-    {
-      "id": "n_ab14eb7e6a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
-      "summary": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
-      "publishedAt": "2026-11-10T00:18:19.000Z"
-    },
-    {
-      "id": "n_b60218929c",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
-      "summary": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
-      "publishedAt": "2026-11-09T14:30:56.000Z"
-    },
-    {
       "id": "n_b22522d14a",
       "type": "news",
       "topic": "ai",
@@ -891,6 +891,17 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/qvac/botpsy",
       "publishedAt": "2026-11-11T05:01:16.000Z"
+    },
+    {
+      "id": "n_d2296a64c0",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "publishedAt": "2026-11-11T00:00:00.000Z"
     },
     {
       "id": "n_724fae9251",
@@ -957,17 +968,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
       "publishedAt": "2026-11-06T00:00:00.000Z"
-    },
-    {
-      "id": "n_89209ab642",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/phonon-tts",
-      "publishedAt": "2026-11-05T00:00:00.000Z"
     },
     {
       "id": "n_ad2999a10b",
@@ -1112,6 +1112,18 @@
       "url": "https://www.youtube.com/watch?v=k2ruCf_z75I",
       "thumbnail": "https://i.ytimg.com/vi/k2ruCf_z75I/hqdefault.jpg",
       "publishedAt": "2026-11-03T19:47:10.000Z"
+    },
+    {
+      "id": "n_7ab48d3626",
+      "type": "video",
+      "topic": "video",
+      "lang": "en",
+      "headline": "Macbook PROLED Review: It's Not About That",
+      "summary": "",
+      "source": "Marques Brownlee",
+      "url": "https://www.youtube.com/watch?v=hdMszZ2ah5Q",
+      "thumbnail": "https://i.ytimg.com/vi/hdMszZ2ah5Q/hqdefault.jpg",
+      "publishedAt": "2026-11-11T18:43:56.000Z"
     },
     {
       "id": "n_2511c0dfdf",
