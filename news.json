@@ -1,16 +1,49 @@
 {
-  "generatedAt": "2026-11-11T21:37:45.288Z",
+  "generatedAt": "2026-11-12T04:38:07.843Z",
   "items": [
+    {
+      "id": "n_eab30864eb",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Im Stadtteil Brooklyn: Tote und Verletzte nach Gebäudeeinsturz in New York",
+      "summary": "Beim Einsturz eines mehrstöckigen Gebäudes in New York sind mindestens zwei Menschen ums Leben gekommen. Mehrere weitere wurden unter den Trümmern eingeschlossen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html",
+      "publishedAt": "2026-11-12T03:34:55.000Z"
+    },
+    {
+      "id": "n_4a3bab4cb9",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Offene Wunden: Der Papst und die Missbrauchsskandale",
+      "summary": "In der zweiten Heimat des Papstes, Peru, gibt es Missbrauchsvorwürfe gegen Sodalicio - eine Organisation, die trotz Verbots noch Einfluss hat. Für dieses Verbot spielte Papst Leo eine entscheidende Rolle. Von A. Herrberg.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/papst-peru-missbrauch-100.html",
+      "publishedAt": "2026-11-12T02:33:13.000Z"
+    },
+    {
+      "id": "n_46f52c69f9",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Historischer Sieg: Demokrat Colom holt Senatssitz in Mississippi",
+      "summary": "Erstmals seit mehr als vier Jahrzehnten hat ein Demokrat im südlichen US-Bundesstaat Mississippi eine Wahl für den US-Senat gewonnen. Colom gelang ein überraschender Sieg - er weitet damit die Mehrheit im Senat ab Januar auf 55 der 100 Sitze aus.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/demokrat-mississippi-sieg-100.html",
+      "publishedAt": "2026-11-12T02:08:44.000Z"
+    },
     {
       "id": "n_4a2e68e24f",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Schwarz-Rot verschiebt Zuckersteuer - keine Einigung bei Stromsteuer",
-      "summary": "Im Ringen um den Haushalt hat sich die Koalition nach ARD-Informationen auf einen Kompromiss geeinigt. So soll etwa die Einführung einer Zuckersteuer verschoben werden - zudem wird die Stromsteuer wohl vorerst nicht für alle gesenkt.",
+      "headline": "Schwarz-Rot verschiebt Zuckersteuer - keine Senkung der Stromsteuer",
+      "summary": "Im Ringen um den Haushalt hat sich die Koalition auf einen Kompromiss geeinigt. So soll etwa die Einführung einer Zuckersteuer verschoben werden - zudem wird die Stromsteuer vorerst nicht gesenkt.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
-      "publishedAt": "2026-11-11T21:30:05.000Z"
+      "publishedAt": "2026-11-11T23:12:02.000Z"
     },
     {
       "id": "n_a8faa74f72",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/europa-sicherheitsarchitektur-russland-usa-100.html",
       "publishedAt": "2026-11-11T18:56:21.000Z"
-    },
-    {
-      "id": "n_af55580cbb",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Urteil: BGH nimmt Rechtsschutzversicherungen in die Pflicht",
-      "summary": "Klagen gegen Impfstoffhersteller sind seit der Corona-Pandemie keine Seltenheit. Häufig wollen Versicherungen diese nicht unterstützen - wegen vermeintlich geringer Erfolgschancen. Oft zu Unrecht, urteilte nun der BGH. Von A. Stein.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-rechtsschutzversicherung-100.html",
-      "publishedAt": "2026-11-11T18:46:53.000Z"
-    },
-    {
-      "id": "n_196dbf9830",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Familienministerin Prien plant Einkommensgrenze beim Unterhaltsvorschuss",
-      "summary": "Einkommensgrenze, statt verkürzter Zahlung: Familienministerin Prien hat einen Gesetzentwurf zum Unterhaltsvorschuss vorgelegt. Elternteile, die nicht zahlen, sollen stärker in die Pflicht genommen werden - etwa mit Fahrverboten.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-100.html",
-      "publishedAt": "2026-11-11T18:01:47.000Z"
-    },
-    {
-      "id": "n_03c137f17c",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Russland und Ukraine vereinbaren Gefangenenaustausch",
-      "summary": "Bei den Ukraine-Gesprächen haben Moskau und Kiew einen weiteren Gefangenenaustausch vereinbart. Morgen wollen die US-Gesandten Kushner und Witkoff zu Kremlchef Putin reisen. Dabei soll es auch darum gehen, die Europäer in die Gespräche einzubinden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/ukraine-russland-verhandlungen-abu-dhabi-104.html",
-      "publishedAt": "2026-11-11T17:30:18.000Z"
     },
     {
       "id": "n_df7c387079",
@@ -178,6 +178,17 @@
       "publishedAt": "2026-11-10T12:16:00.000Z"
     },
     {
+      "id": "n_3b5eadb607",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Zweite Affäre: Nvidia erwägt offenbar Jensen Huangs Absetzung",
+      "summary": "Nach einem Bericht über eine zweite mutmaßliche Affäre könnte der Nvidia-Verwaltungsrat über Jensen Huangs Zukunft entscheiden. (Nvidia, Wirtschaft)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/zweite-affaere-nvidia-erwaegt-offenbar-jensen-huangs-absetzung-2611-215113.html",
+      "publishedAt": "2026-11-12T00:37:01.000Z"
+    },
+    {
       "id": "n_b6fb49d02d",
       "type": "news",
       "topic": "tech",
@@ -255,15 +266,70 @@
       "publishedAt": "2026-11-11T16:18:01.000Z"
     },
     {
-      "id": "n_cfb3783535",
+      "id": "n_e8d0b12d49",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Militärische KI-Plattform: Helsing stellt europäische Alternative zu Palantir vor",
-      "summary": "Die KI-Plattform Clarity soll große Datenmengen parallel verarbeiten können. Laut Helsing wurden die KI-Modelle und -Agenten in Europa entwickelt. (Militär, Wirtschaft)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/militaerische-ki-plattform-helsing-stellt-europaeische-alternative-zu-palantir-vor-2611-215099.html",
-      "publishedAt": "2026-11-11T16:08:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Famed ship SS United States sunk off coast of Florida",
+      "summary": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T04:03:13.000Z"
+    },
+    {
+      "id": "n_e4a5945bc1",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T04:00:30.000Z"
+    },
+    {
+      "id": "n_b8bb9c4cda",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
+      "summary": "The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T03:32:54.000Z"
+    },
+    {
+      "id": "n_06aaf836ff",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Australian teen missing in bush for six days rescued alive",
+      "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T02:40:18.000Z"
+    },
+    {
+      "id": "n_0de3b4c908",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Survivor pulled from rubble of deadly building collapse in New York",
+      "summary": "Two people are dead and several others injured as rescuers scour the debris in Brooklyn.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T02:33:12.000Z"
+    },
+    {
+      "id": "n_b96cc40761",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+      "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T00:36:11.000Z"
     },
     {
       "id": "n_23565797d1",
@@ -274,7 +340,7 @@
       "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T20:52:52.000Z"
+      "publishedAt": "2026-11-11T22:07:37.000Z"
     },
     {
       "id": "n_5bde872441",
@@ -288,70 +354,15 @@
       "publishedAt": "2026-11-11T20:00:54.000Z"
     },
     {
-      "id": "n_c57d9b9b4f",
+      "id": "n_2965feb8b5",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
+      "headline": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+      "summary": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T18:38:45.000Z"
-    },
-    {
-      "id": "n_77d2e141ff",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
-      "summary": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T18:10:57.000Z"
-    },
-    {
-      "id": "n_3a270928c1",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T18:04:58.000Z"
-    },
-    {
-      "id": "n_45d5c49f84",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T16:59:34.000Z"
-    },
-    {
-      "id": "n_9e192a2ac3",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T16:45:11.000Z"
-    },
-    {
-      "id": "n_f20ccf018a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-      "summary": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T16:38:07.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-12T04:18:33.000Z"
     },
     {
       "id": "n_b0b00dc134",
@@ -363,17 +374,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-11T11:33:24.000Z"
-    },
-    {
-      "id": "n_2965feb8b5",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-11T07:44:24.000Z"
     },
     {
       "id": "n_87a3474e76",
@@ -442,11 +442,22 @@
       "publishedAt": "2026-11-10T08:23:21.000Z"
     },
     {
+      "id": "n_73f976158f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+      "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+      "publishedAt": "2026-11-11T23:10:17.000Z"
+    },
+    {
       "id": "n_d5b3e3dc33",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says",
+      "headline": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
       "summary": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
@@ -519,15 +530,48 @@
       "publishedAt": "2026-11-11T17:04:26.000Z"
     },
     {
-      "id": "n_81c693f5ea",
+      "id": "n_48e6c41241",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "IBM to offer access to a dual-processor quantum system in 2027",
-      "summary": "The company plans on linking two 520-qubit chips before next year is over.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
-      "publishedAt": "2026-11-11T16:33:08.000Z"
+      "headline": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "publishedAt": "2026-11-12T03:13:10.000Z"
+    },
+    {
+      "id": "n_c2f163e5b0",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "publishedAt": "2026-11-11T23:50:00.000Z"
+    },
+    {
+      "id": "n_e9253ae661",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "publishedAt": "2026-11-11T23:28:45.000Z"
+    },
+    {
+      "id": "n_0ca5cf57ee",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "publishedAt": "2026-11-11T23:17:05.000Z"
     },
     {
       "id": "n_0d92f57c72",
@@ -568,54 +612,32 @@
       "topic": "ai",
       "lang": "en",
       "headline": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "summary": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
       "publishedAt": "2026-11-11T19:54:00.000Z"
     },
     {
-      "id": "n_019cc9ec16",
+      "id": "n_4a6d926314",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-      "publishedAt": "2026-11-11T19:34:55.000Z"
+      "headline": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second al",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "publishedAt": "2026-11-11T22:44:36.000Z"
     },
     {
-      "id": "n_90a2e60457",
+      "id": "n_33bddd1c40",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-      "summary": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-      "publishedAt": "2026-11-11T19:22:22.000Z"
-    },
-    {
-      "id": "n_32bc3a2f62",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-      "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
-      "publishedAt": "2026-11-11T16:16:07.000Z"
-    },
-    {
-      "id": "n_29f521837a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-      "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-      "publishedAt": "2026-11-11T16:14:44.000Z"
+      "headline": "United won’t let your AI agent book your flight",
+      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from ot",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "publishedAt": "2026-11-11T21:54:21.000Z"
     },
     {
       "id": "n_2d8f602ac5",
@@ -682,28 +704,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
       "publishedAt": "2026-11-10T17:32:47.000Z"
-    },
-    {
-      "id": "n_ec3f910d2a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Anthropic has its own AI-powered office suite now",
-      "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own particula",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
-      "publishedAt": "2026-11-10T17:30:00.000Z"
-    },
-    {
-      "id": "n_3e50515c6d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "eBay appears to have shut the door on third-party AI agents",
-      "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms lik",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-      "publishedAt": "2026-11-10T16:20:30.000Z"
     },
     {
       "id": "n_3ec2e27891",
@@ -968,198 +968,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
       "publishedAt": "2026-11-06T00:00:00.000Z"
-    },
-    {
-      "id": "n_ad2999a10b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Is Software Over?",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=vug73goPJaM",
-      "thumbnail": "https://i.ytimg.com/vi/vug73goPJaM/hqdefault.jpg",
-      "publishedAt": "2026-11-10T10:15:57.000Z"
-    },
-    {
-      "id": "n_f825ed192f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI's Astra Just Opened The Black Box Of AI",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
-      "thumbnail": "https://i.ytimg.com/vi/GJ6PMUm5oTA/hqdefault.jpg",
-      "publishedAt": "2026-11-07T16:24:47.000Z"
-    },
-    {
-      "id": "n_7a7f412202",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
-      "thumbnail": "https://i.ytimg.com/vi/XgC1QTs6A2U/hqdefault.jpg",
-      "publishedAt": "2026-11-06T07:27:02.000Z"
-    },
-    {
-      "id": "n_ce14acab8d",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI Claims It Just Did The Impossible",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
-      "thumbnail": "https://i.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg",
-      "publishedAt": "2026-10-30T15:57:16.000Z"
-    },
-    {
-      "id": "n_ba9a43a36e",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare | Lex Fridman Podcast #504",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=2hJkprFnzhY",
-      "thumbnail": "https://i.ytimg.com/vi/2hJkprFnzhY/hqdefault.jpg",
-      "publishedAt": "2026-11-10T23:52:20.000Z"
-    },
-    {
-      "id": "n_3f3a8c8623",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
-      "thumbnail": "https://i.ytimg.com/vi/ZAzWPE9CItg/hqdefault.jpg",
-      "publishedAt": "2026-10-26T22:51:51.000Z"
-    },
-    {
-      "id": "n_fb6a439eff",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
-      "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
-      "publishedAt": "2026-10-13T21:26:16.000Z"
-    },
-    {
-      "id": "n_c21d60498a",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
-      "publishedAt": "2026-09-17T00:34:47.000Z"
-    },
-    {
-      "id": "n_9c1dd2df1b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did Anthropic just save its $1 trillion IPO?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=1FurWDiK9A4",
-      "thumbnail": "https://i.ytimg.com/vi/1FurWDiK9A4/hqdefault.jpg",
-      "publishedAt": "2026-11-10T18:19:55.000Z"
-    },
-    {
-      "id": "n_526cf64c21",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI spent $1.2 million hacking Linux... and it was a bargain",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=pf5tXJZM1Rw",
-      "thumbnail": "https://i.ytimg.com/vi/pf5tXJZM1Rw/hqdefault.jpg",
-      "publishedAt": "2026-11-09T21:04:16.000Z"
-    },
-    {
-      "id": "n_02e3418836",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The one thing holding theoretical CS together just broke... kinda",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=iw9SZgyahqg",
-      "thumbnail": "https://i.ytimg.com/vi/iw9SZgyahqg/hqdefault.jpg",
-      "publishedAt": "2026-11-06T16:42:38.000Z"
-    },
-    {
-      "id": "n_c0d2e81c85",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The worst week in cybersecurity history... so far",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=k2ruCf_z75I",
-      "thumbnail": "https://i.ytimg.com/vi/k2ruCf_z75I/hqdefault.jpg",
-      "publishedAt": "2026-11-03T19:47:10.000Z"
-    },
-    {
-      "id": "n_7ab48d3626",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Macbook PROLED Review: It's Not About That",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=hdMszZ2ah5Q",
-      "thumbnail": "https://i.ytimg.com/vi/hdMszZ2ah5Q/hqdefault.jpg",
-      "publishedAt": "2026-11-11T18:43:56.000Z"
-    },
-    {
-      "id": "n_2511c0dfdf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Meta VR Glasses: What Vision Pro 2 COULD Have Been!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=_x58r9TBois",
-      "thumbnail": "https://i.ytimg.com/vi/_x58r9TBois/hqdefault.jpg",
-      "publishedAt": "2026-11-06T21:29:30.000Z"
-    },
-    {
-      "id": "n_0ec2db3ae5",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OLED iPad Mini is The Most Apple Product They've Ever Appled",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=g6Die8gVFn0",
-      "thumbnail": "https://i.ytimg.com/vi/g6Die8gVFn0/hqdefault.jpg",
-      "publishedAt": "2026-11-03T14:01:31.000Z"
-    },
-    {
-      "id": "n_342584f266",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Macbook PROLED XDR Impressions: They Said They Wouldn't!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=2reQut8WNGc",
-      "thumbnail": "https://i.ytimg.com/vi/2reQut8WNGc/hqdefault.jpg",
-      "publishedAt": "2026-10-29T02:50:34.000Z"
     }
   ]
 }
