@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-11-14T19:32:27.169Z",
+  "generatedAt": "2026-11-15T00:28:05.838Z",
   "items": [
+    {
+      "id": "n_abe6ae4f23",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Erfolg für SpaceX: \"Starship\"-Rakete kehrt zur Startrampe zurück",
+      "summary": "Eine Rakete, die wie ein ziviles Flugzeug eingesetzt werden kann, das ist das Ziel von SpaceX. Nun kann das \"Starship\"-System einen Erfolg verbuchen: Erstmals landete die etwa 50 Meter große obere Raketenstufe wieder auf der Erde.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html",
+      "publishedAt": "2026-11-14T23:12:16.000Z"
+    },
+    {
+      "id": "n_b67121f9b7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Berlin: Hunderte bei \"Gen Z regelt\"-Protest - mehrere Festnahmen",
+      "summary": "In Berlin haben Hunderte Menschen bei einer \"Gen Z regelt\"-Demo mitgemacht. Es ging unter anderem um kaputte Schulen, Wehrpflicht sowie Uni- und Sozialkürzungen. Mehrere Menschen wurden festgenommen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html",
+      "publishedAt": "2026-11-14T21:31:18.000Z"
+    },
+    {
+      "id": "n_0381902c2d",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Selbstzahlen oder lange Wartezeit? Kritik an Kassenärzte-Chef",
+      "summary": "Schneller zum Facharzt, wenn man den Termin selbst zahlt? Wegen der anstehenden Honorarkürzungen hält Kassenärzte-Chef Gassen das für wahrscheinlich. Er handelte sich damit deutliche Kritik ein.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/reaktionen-selbstzahler-arzttermine-100.html",
+      "publishedAt": "2026-11-14T19:45:01.000Z"
+    },
     {
       "id": "n_d0fc205609",
       "type": "news",
@@ -57,37 +90,15 @@
       "publishedAt": "2026-11-14T18:12:45.000Z"
     },
     {
-      "id": "n_0164b9c550",
+      "id": "n_4b1a7168b1",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht",
-      "summary": "Ein Rückzug aus dem Donbass im Tausch für einen NATO-Beitritt - das haben die USA der Ukraine nach Angaben Selenskyjs nahegelegt. Unter bestimmten Bedingungen würde er diese Frage in einem Referendum zur Abstimmung stellen, so der Präsident.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html",
-      "publishedAt": "2026-11-14T17:21:30.000Z"
-    },
-    {
-      "id": "n_615b3318ee",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Zu viel Chlor im Pool: 15 Gäste im Phantasialand verletzt",
-      "summary": "Durch die Microsoft-Störung bekam die Belegschaft im Freizeitpark Phantasialand nicht mit, dass zu viel Chlor im Schwimmbecken eines Hotels auf dem Gelände war. 15 Gäste wurden verletzt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/verletzte-phantasialand-chlor-100.html",
-      "publishedAt": "2026-11-14T17:01:00.000Z"
-    },
-    {
-      "id": "n_94666c1427",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Korruptionsermittlungen in Ungarn: Millionen bei Ex-Minister entdeckt",
-      "summary": "Beim früheren ungarischen Entwicklungsminister Seszták sind im Rahmen von Korruptionsermittlungen mehr als 17 Millionen Euro Bargeld gefunden worden. Es lag vergraben in Wäldern, Scheunen und Lagerhallen. Sesták gehörte zur Orbán-Regierung.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/ungarn-bargeldfund-sesztak-100.html",
-      "publishedAt": "2026-11-14T16:31:06.000Z"
+      "headline": "SpaceX fängt erstmals Starship nach Flug in der Erdumlaufbahn wieder auf",
+      "summary": "Nach 22 Stunden in der Erdumlaufbahn ist ein Starship zum Startplatz zurückgekehrt und wurde dort von zwei Greifarmen aufgefangen. Zuvor lief nicht alles rund.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/SpaceX-faengt-erstmals-Starship-nach-Flug-in-der-Erdumlaufbahn-wieder-auf-11525437.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-11-14T22:29:00.000Z"
     },
     {
       "id": "n_65c0c02416",
@@ -167,23 +178,12 @@
       "publishedAt": "2026-11-13T10:44:00.000Z"
     },
     {
-      "id": "n_6d56fe492a",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Gebärdensprache bei Apple TV: Streamingdienst startet neues Feature",
-      "summary": "Apple beginnt mit einem ersten Film einen neuen Service: Inhalte von Apple TV kommen künftig mit zuschaltbaren Gebärden. Los geht's mit „Being Heumann“.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Gebaerdensprache-bei-Apple-TV-Streamingdienst-startet-neues-Feature-11522982.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-11-13T09:25:00.000Z"
-    },
-    {
       "id": "n_ecd4469bf7",
       "type": "news",
       "topic": "tech",
       "lang": "de",
       "headline": "Petition: Nvidia-Mitarbeiter und Elon Musk wollen Huang zurück",
-      "summary": "Trotz mehrerer Affären wünschen sich viele die Rückkehr von Jensen Huang an die Nvidia-Spitze. Ein interner und ein externer Aufruf stoßen auf Zuspruch. (Nvidia, Wirtschaft)",
+      "summary": "Trotz mehrerer Affären wünschen sich viele die Rückkehr von Jensen Huang an die Nvidia-Spitze. Ein interner und ein externer Aufruf finden Zuspruch. (Nvidia, Wirtschaft)",
       "source": "Golem.de",
       "url": "https://www.golem.de/news/petition-nvidia-mitarbeiter-und-elon-musk-wollen-huang-zurueck-2611-215228.html",
       "publishedAt": "2026-11-14T17:19:01.000Z"
@@ -270,11 +270,11 @@
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "What we know about the ground stop and what to do if you're affected",
+      "headline": "How telecoms upgrade work sparked US flight chaos",
       "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T19:27:03.000Z"
+      "publishedAt": "2026-11-14T23:11:27.000Z"
     },
     {
       "id": "n_1476d670af",
@@ -282,10 +282,32 @@
       "topic": "general",
       "lang": "en",
       "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T19:21:10.000Z"
+      "publishedAt": "2026-11-14T22:37:25.000Z"
+    },
+    {
+      "id": "n_06a1e4f465",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T22:09:40.000Z"
+    },
+    {
+      "id": "n_e4a5ad8f91",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T20:23:06.000Z"
     },
     {
       "id": "n_0db8dc11d5",
@@ -330,28 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-14T18:17:58.000Z"
-    },
-    {
-      "id": "n_95238972c9",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-      "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T18:00:10.000Z"
-    },
-    {
-      "id": "n_92720765a4",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-14T15:53:55.000Z"
     },
     {
       "id": "n_a20a765200",
@@ -519,6 +519,28 @@
       "publishedAt": "2026-11-13T19:49:16.000Z"
     },
     {
+      "id": "n_acaf00569e",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Where was Nvidia’s security team?",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday c",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "publishedAt": "2026-11-15T00:08:07.000Z"
+    },
+    {
+      "id": "n_a4a92fbcda",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "publishedAt": "2026-11-14T21:41:22.000Z"
+    },
+    {
       "id": "n_7134e7e1ad",
       "type": "news",
       "topic": "ai",
@@ -583,28 +605,6 @@
       "source": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
       "publishedAt": "2026-11-13T16:00:12.000Z"
-    },
-    {
-      "id": "n_59c58e3f39",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "publishedAt": "2026-11-13T15:58:00.000Z"
-    },
-    {
-      "id": "n_744da6a287",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-      "publishedAt": "2026-11-13T14:44:48.000Z"
     },
     {
       "id": "n_d46b516a4c",
@@ -957,198 +957,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/hub-gcp-marketplace",
       "publishedAt": "2026-11-10T00:00:00.000Z"
-    },
-    {
-      "id": "n_3d1ff3383c",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "AI Can Do Everything…Except This",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=x7iwI6WfWS0",
-      "thumbnail": "https://i.ytimg.com/vi/x7iwI6WfWS0/hqdefault.jpg",
-      "publishedAt": "2026-11-14T08:40:55.000Z"
-    },
-    {
-      "id": "n_88050485a8",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepMind’s AI Just Did The Impossible",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=gPNiuyYirfw",
-      "thumbnail": "https://i.ytimg.com/vi/gPNiuyYirfw/hqdefault.jpg",
-      "publishedAt": "2026-11-12T13:41:41.000Z"
-    },
-    {
-      "id": "n_ad2999a10b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Is Software Over?",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=vug73goPJaM",
-      "thumbnail": "https://i.ytimg.com/vi/vug73goPJaM/hqdefault.jpg",
-      "publishedAt": "2026-11-10T10:15:57.000Z"
-    },
-    {
-      "id": "n_f825ed192f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI's Astra Just Opened The Black Box Of AI",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
-      "thumbnail": "https://i.ytimg.com/vi/GJ6PMUm5oTA/hqdefault.jpg",
-      "publishedAt": "2026-11-07T16:24:47.000Z"
-    },
-    {
-      "id": "n_ba9a43a36e",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Russia-Ukraine War: Putin, Zelenskyy, Trump and the Future of Warfare | Lex Fridman Podcast #504",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=2hJkprFnzhY",
-      "thumbnail": "https://i.ytimg.com/vi/2hJkprFnzhY/hqdefault.jpg",
-      "publishedAt": "2026-11-10T23:52:20.000Z"
-    },
-    {
-      "id": "n_3f3a8c8623",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
-      "thumbnail": "https://i.ytimg.com/vi/ZAzWPE9CItg/hqdefault.jpg",
-      "publishedAt": "2026-10-26T22:51:51.000Z"
-    },
-    {
-      "id": "n_fb6a439eff",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Jensen Huang & Lex Fridman in Taiwan",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
-      "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
-      "publishedAt": "2026-10-13T21:26:16.000Z"
-    },
-    {
-      "id": "n_c21d60498a",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
-      "publishedAt": "2026-09-17T00:34:47.000Z"
-    },
-    {
-      "id": "n_39c408566c",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Jensen Huang just pulled out of Nvidia...",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=SOwUWPtXQ9I",
-      "thumbnail": "https://i.ytimg.com/vi/SOwUWPtXQ9I/hqdefault.jpg",
-      "publishedAt": "2026-11-12T21:17:10.000Z"
-    },
-    {
-      "id": "n_9c1dd2df1b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Did Anthropic just save its $1 trillion IPO?",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=1FurWDiK9A4",
-      "thumbnail": "https://i.ytimg.com/vi/1FurWDiK9A4/hqdefault.jpg",
-      "publishedAt": "2026-11-10T18:19:55.000Z"
-    },
-    {
-      "id": "n_526cf64c21",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI spent $1.2 million hacking Linux... and it was a bargain",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=pf5tXJZM1Rw",
-      "thumbnail": "https://i.ytimg.com/vi/pf5tXJZM1Rw/hqdefault.jpg",
-      "publishedAt": "2026-11-09T21:04:16.000Z"
-    },
-    {
-      "id": "n_02e3418836",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "The one thing holding theoretical CS together just broke... kinda",
-      "summary": "",
-      "source": "Fireship",
-      "url": "https://www.youtube.com/watch?v=iw9SZgyahqg",
-      "thumbnail": "https://i.ytimg.com/vi/iw9SZgyahqg/hqdefault.jpg",
-      "publishedAt": "2026-11-06T16:42:38.000Z"
-    },
-    {
-      "id": "n_7ab48d3626",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Macbook PROLED Review: It's Not About That",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=hdMszZ2ah5Q",
-      "thumbnail": "https://i.ytimg.com/vi/hdMszZ2ah5Q/hqdefault.jpg",
-      "publishedAt": "2026-11-11T18:43:56.000Z"
-    },
-    {
-      "id": "n_2511c0dfdf",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Meta VR Glasses: What Vision Pro 2 COULD Have Been!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=_x58r9TBois",
-      "thumbnail": "https://i.ytimg.com/vi/_x58r9TBois/hqdefault.jpg",
-      "publishedAt": "2026-11-06T21:29:30.000Z"
-    },
-    {
-      "id": "n_0ec2db3ae5",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OLED iPad Mini is The Most Apple Product They've Ever Appled",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=g6Die8gVFn0",
-      "thumbnail": "https://i.ytimg.com/vi/g6Die8gVFn0/hqdefault.jpg",
-      "publishedAt": "2026-11-03T14:01:31.000Z"
-    },
-    {
-      "id": "n_342584f266",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Macbook PROLED XDR Impressions: They Said They Wouldn't!",
-      "summary": "",
-      "source": "Marques Brownlee",
-      "url": "https://www.youtube.com/watch?v=2reQut8WNGc",
-      "thumbnail": "https://i.ytimg.com/vi/2reQut8WNGc/hqdefault.jpg",
-      "publishedAt": "2026-10-29T02:50:34.000Z"
     }
   ]
 }
