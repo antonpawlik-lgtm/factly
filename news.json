@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-15T18:05:11.040Z",
+  "generatedAt": "2026-11-16T00:29:30.157Z",
   "items": [
+    {
+      "id": "n_fc9023cad3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Estland schließt ab Dezember Grenzübergänge nach Russland",
+      "summary": "Estland unterstützt die Ukraine im Kampf gegen Russland - unter anderem mit Drohnen. Eine Drohnenfabrik wurde am Wochenende angegriffen, laut Estland von russischen Agenten. Nun schließt Estland seine drei Grenzübergänge zum Nachbarland.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
+      "publishedAt": "2026-11-15T20:44:43.000Z"
+    },
+    {
+      "id": "n_220d4d9cf3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Israel: Netanjahu wirbt bei Eisenkot um Einheitsregierung",
+      "summary": "Eisenkot oder Netanjahu? Die Parlamentswahl in Israel brachte keine eindeutige Antwort. Derzeit sucht Oppositionspolitiker Eisenkot nach Partnern für eine Koalition. Noch-Premier Netanjahu hat seine eigenen Vorstellungen. Von B. Meier.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-einheitsregierung-100.html",
+      "publishedAt": "2026-11-15T20:23:26.000Z"
+    },
     {
       "id": "n_9db48fe8f5",
       "type": "news",
@@ -10,7 +32,7 @@
       "summary": "Die SPD sucht eine neue Parteispitze. Erster Bewerber ist Hubertus Heil. Er bekomme viel Zuspruch aus der Partei, sagte er im Bericht aus Berlin. Auch zu Vizekanzler Klingbeil äußerte er sich. Offen ließ Heil, mit welcher Frau er kandidieren will.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-kandidatur-100.html",
-      "publishedAt": "2026-11-15T18:03:55.000Z"
+      "publishedAt": "2026-11-15T18:44:55.000Z"
     },
     {
       "id": "n_3d7c74aad1",
@@ -33,17 +55,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/europa/fluechtlinge-ankunft-kanaren-100.html",
       "publishedAt": "2026-11-15T17:31:41.000Z"
-    },
-    {
-      "id": "n_fc9023cad3",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Estland schließt ab Dezember Grenzübergänge nach Russland",
-      "summary": "Estland unterstützt die Ukraine im Kampf gegen Russland - unter anderem mit Drohnen. Eine Drohnenfabrik wurde am Wochenende angegriffen, laut Estland von russischen Agenten. Nun schließt Estland seine drei Grenzübergänge zum Nachbarland.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html",
-      "publishedAt": "2026-11-15T16:52:46.000Z"
     },
     {
       "id": "n_43a08481fa",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/gesellschaft/mobile-notaufnahme-saarland-100.html",
       "publishedAt": "2026-11-15T15:37:17.000Z"
-    },
-    {
-      "id": "n_0ceb5b5b74",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Bundesweites Gedenken zum Volkstrauertag - auch im Bundestag",
-      "summary": "Der Volkstrauertag ist kein gesetzlicher Feiertag, aber ein staatlicher Gedenktag. Im ganzen Land wird heute an Kriegsopfer erinnert. In diesem Jahr zusammen mit dem österreichischem Bundespräsidenten Van der Bellen. Er rief zu mehr Mitgefühl auf.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/volkstrauertag-bundestag-104.html",
-      "publishedAt": "2026-11-15T15:24:11.000Z"
     },
     {
       "id": "n_b44afe6836",
@@ -266,48 +266,59 @@
       "publishedAt": "2026-11-15T10:17:01.000Z"
     },
     {
-      "id": "n_a29c233ccd",
+      "id": "n_1e5d8f925b",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian missiles.",
+      "headline": "Russia's mega-rich are already imagining a future after Putin",
+      "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T17:57:09.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T00:13:14.000Z"
     },
     {
-      "id": "n_80dade9f7f",
+      "id": "n_3e8f4b649f",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Czechs rally against plan to switch funding of public media",
-      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+      "headline": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T17:23:40.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T00:03:29.000Z"
     },
     {
-      "id": "n_76222d4d31",
+      "id": "n_111652aa24",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-      "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
+      "headline": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T15:57:03.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T23:52:10.000Z"
     },
     {
-      "id": "n_fb9303c767",
+      "id": "n_ade629466c",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "How telecoms upgrade work sparked US flight chaos",
-      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "headline": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+      "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T14:57:15.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T22:57:27.000Z"
+    },
+    {
+      "id": "n_ddaa095629",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Police ban protests near 10 schools and five universities in Paris",
+      "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T22:28:54.000Z"
     },
     {
       "id": "n_c6f717fdbe",
@@ -318,34 +329,34 @@
       "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T14:56:21.000Z"
+      "publishedAt": "2026-11-15T22:24:20.000Z"
     },
     {
-      "id": "n_cba5f678d1",
+      "id": "n_80dade9f7f",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-      "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+      "headline": "Czechs rally against plan to switch funding of public media",
+      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T14:33:59.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T21:03:40.000Z"
     },
     {
-      "id": "n_c7e011fee4",
+      "id": "n_a29c233ccd",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Iran targets US military base in Bahrain with drone attack",
-      "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+      "headline": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-15T13:42:58.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T19:32:39.000Z"
     },
     {
       "id": "n_b74d8070ff",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
       "headline": "South Korea's top scorer in tax accountancy exam admits cheating",
       "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
@@ -418,6 +429,17 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-13T21:15:41.000Z"
+    },
+    {
+      "id": "n_2eef4a5b12",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "publishedAt": "2026-11-15T23:11:54.000Z"
     },
     {
       "id": "n_f6708dd5d1",
@@ -497,15 +519,37 @@
       "publishedAt": "2026-11-13T21:59:01.000Z"
     },
     {
-      "id": "n_c479f2841d",
+      "id": "n_fa232e2aaf",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "publishedAt": "2026-11-13T21:20:47.000Z"
+      "headline": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "publishedAt": "2026-11-15T23:30:00.000Z"
+    },
+    {
+      "id": "n_9e3d554c6c",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "publishedAt": "2026-11-15T21:56:35.000Z"
+    },
+    {
+      "id": "n_d9bb72c7b4",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "publishedAt": "2026-11-15T20:20:57.000Z"
     },
     {
       "id": "n_acaf00569e",
@@ -563,37 +607,26 @@
       "publishedAt": "2026-11-13T22:43:00.000Z"
     },
     {
-      "id": "n_645e798427",
+      "id": "n_2f1f5cbf7c",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "AI agent startup LangChain hits $3B valuation",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "publishedAt": "2026-11-13T19:37:57.000Z"
+      "headline": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "publishedAt": "2026-11-15T20:43:49.000Z"
     },
     {
-      "id": "n_3dc626ea28",
+      "id": "n_1207b5c1c7",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "publishedAt": "2026-11-13T18:40:30.000Z"
-    },
-    {
-      "id": "n_c231d25e54",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "publishedAt": "2026-11-13T16:00:12.000Z"
+      "headline": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "publishedAt": "2026-11-15T19:15:43.000Z"
     },
     {
       "id": "n_4c525e5e54",
@@ -660,28 +693,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
       "publishedAt": "2026-11-13T14:47:16.000Z"
-    },
-    {
-      "id": "n_cd9d1a105b",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-      "summary": "Let’s get to work. | Photo: Allison Johnson / The Verge Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agen",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-      "publishedAt": "2026-11-13T14:00:00.000Z"
-    },
-    {
-      "id": "n_71dad9da95",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Let’s talk about Jensen Huang’s many affairs!",
-      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approachi",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-      "publishedAt": "2026-11-13T12:00:00.000Z"
     },
     {
       "id": "n_07356858ca",
@@ -946,102 +957,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/hub-gcp-marketplace",
       "publishedAt": "2026-11-10T00:00:00.000Z"
-    },
-    {
-      "id": "n_3d1ff3383c",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "AI Can Do Everything…Except This",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=x7iwI6WfWS0",
-      "thumbnail": "https://i.ytimg.com/vi/x7iwI6WfWS0/hqdefault.jpg",
-      "publishedAt": "2026-11-14T08:40:55.000Z"
-    },
-    {
-      "id": "n_88050485a8",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "DeepMind’s AI Just Did The Impossible",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=gPNiuyYirfw",
-      "thumbnail": "https://i.ytimg.com/vi/gPNiuyYirfw/hqdefault.jpg",
-      "publishedAt": "2026-11-12T13:41:41.000Z"
-    },
-    {
-      "id": "n_ad2999a10b",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Is Software Over?",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=vug73goPJaM",
-      "thumbnail": "https://i.ytimg.com/vi/vug73goPJaM/hqdefault.jpg",
-      "publishedAt": "2026-11-10T10:15:57.000Z"
-    },
-    {
-      "id": "n_f825ed192f",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "OpenAI's Astra Just Opened The Black Box Of AI",
-      "summary": "",
-      "source": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
-      "thumbnail": "https://i.ytimg.com/vi/GJ6PMUm5oTA/hqdefault.jpg",
-      "publishedAt": "2026-11-07T16:24:47.000Z"
-    },
-    {
-      "id": "n_ba9a43a36e",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare | Lex Fridman Podcast #504",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=2hJkprFnzhY",
-      "thumbnail": "https://i.ytimg.com/vi/2hJkprFnzhY/hqdefault.jpg",
-      "publishedAt": "2026-11-10T23:52:20.000Z"
-    },
-    {
-      "id": "n_3f3a8c8623",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
-      "thumbnail": "https://i.ytimg.com/vi/ZAzWPE9CItg/hqdefault.jpg",
-      "publishedAt": "2026-10-26T22:51:51.000Z"
-    },
-    {
-      "id": "n_fb6a439eff",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Taiwan Night Market Food Tour w/ Jensen Huang | Lex Fridman",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
-      "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
-      "publishedAt": "2026-10-13T21:26:16.000Z"
-    },
-    {
-      "id": "n_c21d60498a",
-      "type": "video",
-      "topic": "video",
-      "lang": "en",
-      "headline": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502",
-      "summary": "",
-      "source": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=s7d2d8FhevU",
-      "thumbnail": "https://i.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg",
-      "publishedAt": "2026-09-17T00:34:47.000Z"
     },
     {
       "id": "n_39c408566c",
