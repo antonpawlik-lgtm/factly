@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-11-18T19:40:51.680Z",
+  "generatedAt": "2026-11-19T02:05:28.901Z",
   "items": [
+    {
+      "id": "n_968edddae7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich",
+      "summary": "Die italienische Bank und deren Chef Orcel sind bei der Übernahme der Commerzbank einen wichtigen Schritt weiter - die Bundesregierung einigte sich mit UniCredit.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
+      "publishedAt": "2026-11-19T01:06:22.000Z"
+    },
+    {
+      "id": "n_955f3a6f81",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Xi, Trump und Putin: Drei Perspektiven, viele Differenzen",
+      "summary": "Es gilt schon vorab als historisch - das erste Dreier-Treffen von Xi, Trump und Putin auf dem APEC-Gipfel in Shenzhen. Doch die Positionen der drei Präsidenten bei den Themen atomare Abrüstung, Iran oder Ukraine klaffen teils auseinander.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/apec-treffen-xi-putin-trump-themen-100.html",
+      "publishedAt": "2026-11-18T23:33:32.000Z"
+    },
+    {
+      "id": "n_fec55d4721",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Israels Armee startet Einsatz in von Hamas kontrolliertem Gebiet",
+      "summary": "Trotz der Waffenruhe hat Israels Armee nach eigenen Angaben einen neuen Einsatz im Zentrum des Gazastreifens begonnen. Ziel des Angriffs sei Infrastruktur der Terrororganisation Hamas. Die Islamisten werfen Israel Eskalation vor.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/asien/israel-gaza-bodenoffensive-104.html",
+      "publishedAt": "2026-11-18T21:04:52.000Z"
+    },
+    {
+      "id": "n_c17db9e478",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Team aus Karlsruhe erhält Zukunftspreis für Mikrochip-Forschung",
+      "summary": "Mit dem Deutschen Zukunftspreis des Bundespräsidenten soll besonders innovative Forschung ausgezeichnet werden. Dieses Jahr geht er an ein Forscher-Team, das an einer Technik gegen Datenstau bei Mikrochips arbeitet.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wissen/forschung/zukunftspreis-110.html",
+      "publishedAt": "2026-11-18T19:44:46.000Z"
+    },
     {
       "id": "n_65be04a50c",
       "type": "news",
@@ -44,50 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nvidia-100.html",
       "publishedAt": "2026-11-18T17:45:45.000Z"
-    },
-    {
-      "id": "n_9b57a42cdb",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Ex-Ministerin Kneissl: Österreich prüft Aberkennung der Staatsbürgerschaft",
-      "summary": "Österreichs Ex-Außenministerin Kneissl fiel schon während ihrer Amtszeit durch ihre Nähe zu Russland auf. Inzwischen lebt sie dort und stellt sich öffentlich hinter Putin. In ihrem Heimatland könnte das jetzt Folgen haben.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/kneissl-staatsbuergerschaft-100.html",
-      "publishedAt": "2026-11-18T17:17:56.000Z"
-    },
-    {
-      "id": "n_4426114ee7",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Brasilianischer Regenwald: Indigene verlassen offenbar aus Not ihre Isolation",
-      "summary": "Offenbar aus Hunger heraus haben isoliert lebende Indigene in Brasilien Kontakt zur Außenwelt gesucht: Etwa 20 Angehörige der Awá kamen Berichten zufolge in ein Dorf, um nach Lebensmitteln zu fragen - \"ein beunruhigendes Zeichen\", so eine NGO.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/brasilien-awa-100.html",
-      "publishedAt": "2026-11-18T17:09:00.000Z"
-    },
-    {
-      "id": "n_4e9e6b7e78",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Gericht: Preiserhöhungs-Klausel von DAZN unwirksam",
-      "summary": "Von 11,99 Euro monatlich auf 29,99 Euro in kurzer Zeit: Die Preiserhöhungen bei DAZN waren auf viel Kritik gestoßen - nun hat ein Gericht die zugrundeliegende Klausel für unwirksam erklärt. Verbraucher können auf Rückerstattungen hoffen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/dazn-preise-urteil-100.html",
-      "publishedAt": "2026-11-18T17:04:38.000Z"
-    },
-    {
-      "id": "n_18a19d35d5",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Kommentar zur Stromsteuer-Einigung: Fahren auf Sicht - aber wer sitzt eigentlich am Steuer?",
-      "summary": "Kanzler Merz hat die Stromsteuer zur Schicksalsfrage erklärt - und dann acht Stunden lang das kleinstmögliche Ergebnis verhandelt, meint Georg Schwarte. Der Koalitionsausschuss liefert eine Doku-Soap statt Politik. Und niemand wundert sich mehr darüber.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kommentar/koalitionsausschuss-merz-stromsteuersenkung-100.html",
-      "publishedAt": "2026-11-18T15:47:07.000Z"
     },
     {
       "id": "n_970deb34a9",
@@ -178,11 +178,33 @@
       "publishedAt": "2026-11-17T07:52:00.000Z"
     },
     {
+      "id": "n_4ca5307c4f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Black Friday Woche 2026 - Jetzt die besten Deals bei Amazon sichern",
+      "summary": "Amazon hat uns mit den frühen Black Friday Angeboten bereits einen Vorgeschmack geliefert. Seit Mitternacht läuft jetzt die Black Friday Woche. (Black Friday, Amazon)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-black-friday-woche-2026-jetzt-die-besten-deals-bei-amazon-sichern-2611-215370.html",
+      "publishedAt": "2026-11-18T23:01:01.000Z"
+    },
+    {
+      "id": "n_87c1d08ef3",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Millionen Webserver gefährdet: NGINX-Lücke erlaubt Codeausführung ohne Anmeldung",
+      "summary": "Zwei NGINX-Lücken könnten bei aktivem HTTP/2 Codeausführung auf Webservern ermöglichen. Die Patches sollten schnell eingespielt werden. (Nginx, Server)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/millionen-webserver-gefaehrdet-nginx-luecke-erlaubt-codeausfuehrung-ohne-anmeldung-2611-215378.html",
+      "publishedAt": "2026-11-18T20:35:01.000Z"
+    },
+    {
       "id": "n_e778165c1f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Gartner widerspricht KI-Blase: KI-Ausbau \"ist womöglich noch zu klein\"",
+      "headline": "Gartner widerspricht KI-Blase: Weltweiter KI-Ausbau \"ist womöglich noch zu klein\"",
       "summary": "Rund 2,4 Billionen US-Dollar sollen 2027 weltweit in KI-Infrastruktur fließen - weit mehr, als Endkunden bisher für Anwendungen zahlen. Gartner hält den massiven Vorab-Ausbau für nötig. (KI, Studien)",
       "source": "Golem.de",
       "url": "https://www.golem.de/news/gartner-widerspricht-ki-blase-ki-ausbau-ist-womoeglich-noch-zu-klein-2611-215377.html",
@@ -244,114 +266,103 @@
       "publishedAt": "2026-11-18T16:35:02.000Z"
     },
     {
-      "id": "n_fd5057d53b",
+      "id": "n_8944b9bf2f",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Crimean Bridge attacked again, Russian official says",
+      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T01:05:03.000Z"
+    },
+    {
+      "id": "n_43a2d9476e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T00:49:19.000Z"
+    },
+    {
+      "id": "n_1e0689dfba",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
+      "summary": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T00:38:52.000Z"
+    },
+    {
+      "id": "n_87fd25ae87",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Why has Waymo pulled all its driverless cars from US freeways?",
+      "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T23:47:46.000Z"
+    },
+    {
+      "id": "n_c6d87bb33a",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+      "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T23:44:27.000Z"
+    },
+    {
+      "id": "n_1431aa957f",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+      "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T23:28:03.000Z"
+    },
+    {
+      "id": "n_cd24719f40",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "summary": "No state has ever been found guilty by an international court of committing genocide.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T23:04:06.000Z"
+    },
+    {
+      "id": "n_c3261a1d08",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T22:34:56.000Z"
+    },
+    {
+      "id": "n_d412c50db1",
       "type": "news",
       "topic": "tech",
-      "lang": "de",
-      "headline": "Gerichtsurteil: DAZN muss Preiserhöhung zurückzahlen",
-      "summary": "Das Oberlandesgericht Hamm erklärt Preiserhöhungen von DAZN für rechtswidrig. Wer Geld zurück will, muss allerdings einiges nachweisen. (Dazn, Verbraucherschutz)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/gerichtsurteil-dazn-muss-preiserhoehung-zurueckzahlen-2611-215372.html",
-      "publishedAt": "2026-11-18T16:22:05.000Z"
-    },
-    {
-      "id": "n_80cf990c6f",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Fusion: Paketdienste GLS und DPD schließen sich zusammen",
-      "summary": "Die Marke DPD soll verschwinden, der neue Anbieter könnte DHL stärker Konkurrenz machen. (GLS, Post)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/fusion-paketdienste-gls-und-dpd-schliessen-sich-zusammen-2611-215371.html",
-      "publishedAt": "2026-11-18T16:01:01.000Z"
-    },
-    {
-      "id": "n_bd5806ebe2",
-      "type": "news",
-      "topic": "general",
       "lang": "en",
-      "headline": "William and Kate reflect on 'enduring' UK-India ties with Modi",
-      "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
+      "headline": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T17:51:47.000Z"
-    },
-    {
-      "id": "n_2cc51f85ba",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Grand Theft Auto 6 is a masterpiece, say critics",
-      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T17:34:25.000Z"
-    },
-    {
-      "id": "n_77109af97e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-      "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T17:34:23.000Z"
-    },
-    {
-      "id": "n_a4c7a879cd",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "New video shows explosions moments before part of Crimea Bridge collapses",
-      "summary": "BBC Verify analyses footage showing the final moments before part of the bridge fell and videos showing the scale of destruction.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T17:09:43.000Z"
-    },
-    {
-      "id": "n_c73c048e2d",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T17:00:40.000Z"
-    },
-    {
-      "id": "n_40b5659e8a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-      "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T17:00:04.000Z"
-    },
-    {
-      "id": "n_73539e88a7",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Julio Iglesias facing court investigation over alleged sexual offences",
-      "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T16:33:16.000Z"
-    },
-    {
-      "id": "n_eba19e7327",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-      "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T16:10:44.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T01:56:28.000Z"
     },
     {
       "id": "n_b7ed276b63",
@@ -362,7 +373,18 @@
       "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T13:55:14.000Z"
+      "publishedAt": "2026-11-18T23:42:07.000Z"
+    },
+    {
+      "id": "n_2cc51f85ba",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T17:34:25.000Z"
     },
     {
       "id": "n_15adef1f11",
@@ -409,34 +431,67 @@
       "publishedAt": "2026-11-18T06:04:21.000Z"
     },
     {
-      "id": "n_a0e676b4b5",
+      "id": "n_37938fc816",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
-      "summary": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T05:10:02.000Z"
+      "headline": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+      "summary": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
+      "publishedAt": "2026-11-18T23:25:04.000Z"
     },
     {
-      "id": "n_942df5e1cc",
+      "id": "n_71d6205e3d",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Waymo pulls driverless taxis from all US freeways",
-      "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T03:07:22.000Z"
+      "headline": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+      "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+      "publishedAt": "2026-11-18T23:10:39.000Z"
+    },
+    {
+      "id": "n_e0deff6c53",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
+      "summary": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
+      "publishedAt": "2026-11-18T22:08:57.000Z"
+    },
+    {
+      "id": "n_43948a68c0",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
+      "summary": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
+      "publishedAt": "2026-11-18T21:29:24.000Z"
+    },
+    {
+      "id": "n_7c553ab5a9",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Windows Server 2028 trades compatibility for out-of-the-box security",
+      "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
+      "publishedAt": "2026-11-18T20:41:12.000Z"
     },
     {
       "id": "n_bf45b68b22",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Best Buy sells Blu-rays again after quitting the business in 2024",
-      "summary": "Popular titles like The Odyssey are being “sold & shipped by Best Buy\" again.",
+      "headline": "Best Buy sells Blu-rays online and in-store again",
+      "summary": "Popular titles like The Odyssey are being “sold & shipped by Best Buy.\"",
       "source": "Ars Technica",
       "url": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
       "publishedAt": "2026-11-18T19:31:17.000Z"
@@ -464,59 +519,15 @@
       "publishedAt": "2026-11-18T18:46:08.000Z"
     },
     {
-      "id": "n_81a31047b5",
+      "id": "n_b429cb510b",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "The \"shameful\" measles data that lost the US its elimination status",
-      "summary": "Measles became endemic in the US months ago—and it's only accelerating.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/",
-      "publishedAt": "2026-11-18T18:30:23.000Z"
-    },
-    {
-      "id": "n_cb39ce49d0",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Will Wright's next simulation will use AI to mine content from your memories",
-      "summary": "With MyMems, Wright says he wants to \"turn the simulation inward.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
-      "publishedAt": "2026-11-18T18:10:33.000Z"
-    },
-    {
-      "id": "n_0acf333306",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo",
-      "summary": "This commuter bike will have you blazing through streets without any range anxiety.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/",
-      "publishedAt": "2026-11-18T17:53:59.000Z"
-    },
-    {
-      "id": "n_db952f9133",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
-      "summary": "\"ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/",
-      "publishedAt": "2026-11-18T16:58:32.000Z"
-    },
-    {
-      "id": "n_df7476c00c",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Waymo has stopped its robotaxis from driving on the freeway—here’s why",
-      "summary": "Robotaxis already had to be recalled in May after they entered highway construction zones.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
-      "publishedAt": "2026-11-18T16:24:34.000Z"
+      "headline": "The nation’s largest school districts consider ditching Google Search",
+      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powere",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "publishedAt": "2026-11-18T23:18:35.000Z"
     },
     {
       "id": "n_66574755f6",
@@ -534,7 +545,7 @@
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+      "headline": "Nvidia’s rise, visualized",
       "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. (function(){function e(){window.addEventListener(`message`,function(e){if",
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
@@ -594,17 +605,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
       "publishedAt": "2026-11-18T14:00:00.000Z"
-    },
-    {
-      "id": "n_ce416493db",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Nvidia isn’t selling any more AI chips to China",
-      "summary": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the compan",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-      "publishedAt": "2026-11-18T13:01:05.000Z"
     },
     {
       "id": "n_bb3ee1cf50",
@@ -695,12 +695,45 @@
       "publishedAt": "2026-11-09T19:35:33.000Z"
     },
     {
+      "id": "n_25e810fd0e",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
+      "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/guys-really-we-got-this/",
+      "publishedAt": "2026-11-18T22:16:23.000Z"
+    },
+    {
+      "id": "n_66a7c55dd5",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
+      "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
+      "publishedAt": "2026-11-18T22:00:00.000Z"
+    },
+    {
+      "id": "n_d1d45343eb",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
+      "summary": "The Trump administration announced plans to clamp down on China’s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
+      "publishedAt": "2026-11-18T21:15:00.000Z"
+    },
+    {
       "id": "n_30748ff8dd",
       "type": "news",
       "topic": "ai",
       "lang": "en",
       "headline": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
-      "summary": "Interim CEO Collette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
+      "summary": "Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
       "source": "Wired",
       "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
       "publishedAt": "2026-11-18T17:33:07.000Z"
@@ -750,37 +783,15 @@
       "publishedAt": "2026-11-18T05:01:00.000Z"
     },
     {
-      "id": "n_6a740dd42e",
+      "id": "n_f689168723",
       "type": "news",
       "topic": "ai",
       "lang": "en",
-      "headline": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
-      "summary": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
-      "publishedAt": "2026-11-17T22:19:19.000Z"
-    },
-    {
-      "id": "n_6203f8f06a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
-      "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-      "publishedAt": "2026-11-17T11:00:00.000Z"
-    },
-    {
-      "id": "n_b79f0ac15d",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward",
-      "summary": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
-      "publishedAt": "2026-11-17T11:00:00.000Z"
+      "headline": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "summary": "",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "publishedAt": "2026-11-18T19:54:56.000Z"
     },
     {
       "id": "n_75623b38e6",
@@ -858,17 +869,6 @@
       "source": "Hugging Face",
       "url": "https://huggingface.co/blog/allenai/xybench",
       "publishedAt": "2026-11-13T17:02:35.000Z"
-    },
-    {
-      "id": "n_40e78db660",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "summary": "",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "publishedAt": "2026-11-13T14:05:22.000Z"
     },
     {
       "id": "n_66042cf011",
