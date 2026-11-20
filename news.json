@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-19T19:41:16.095Z",
+  "generatedAt": "2026-11-20T01:55:43.683Z",
   "items": [
+    {
+      "id": "n_bd1c967236",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Liveticker zu Gipfeln: ++ Wadephul sieht Chance auf Schritt Richtung Frieden ++",
+      "summary": "Außenminister Wadephul gibt sich nach den jüngsten Bemühungen um einen Frieden für die Ukraine optimistisch. Frankreichs Präsident Macron will erneut über einen NATO-Beitritt der Ukraine sprechen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/newsticker/liveblog-apec-gipfel-xi-trump-putin-100.html",
+      "publishedAt": "2026-11-19T21:02:03.000Z"
+    },
+    {
+      "id": "n_17be089684",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Strafbefehl gegen Tesla-Werksleiter",
+      "summary": "Im Februar hatte die IG Metall Strafanzeige gegen den Werksleiter von Tesla in Grünheide gestellt. Der Vorwurf: üble Nachrede. Nun hat ein Gericht einen Strafbefehl gegen den Mann erlassen. Der Werksleiter wehrt sich vor Gericht.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/regional/brandenburg/strafbefehl-werksleiter-von-tesla-100.html",
+      "publishedAt": "2026-11-19T20:07:12.000Z"
+    },
     {
       "id": "n_7348b944cd",
       "type": "news",
@@ -11,17 +33,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/innenpolitik/gipfel-koalition-willige-ukraine-100.html",
       "publishedAt": "2026-11-19T19:22:45.000Z"
-    },
-    {
-      "id": "n_bd1c967236",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Liveticker zu Gipfeln: ++ Wadephul sieht Chance auf Schritt Richtung Frieden ++",
-      "summary": "Außenminister Wadephul gibt sich nach den jüngsten Bemühungen um einen Frieden für die Ukraine optimistisch. Frankreichs Präsident Macron will erneut über einen NATO-Beitritt der Ukraine sprechen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/newsticker/liveblog-apec-gipfel-xi-trump-putin-100.html",
-      "publishedAt": "2026-11-19T19:19:58.000Z"
     },
     {
       "id": "n_84f6ce1560",
@@ -77,17 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html",
       "publishedAt": "2026-11-19T15:55:43.000Z"
-    },
-    {
-      "id": "n_7b3c480f61",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Putin, Xi und Trump: Appelle für Weltfrieden und gegen Atomkrieg",
-      "summary": "Etwa eineinhalb Stunden Zeit nahmen sich die Präsidenten Trump, Putin und Xi für ihr erstes Dreiertreffen. Sie verabredeten einen Dialog über \"atomare Risiken\". Putin sprach von einer \"gemeinsamen Verantwortung\" für den Weltfrieden.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/gipfel-trump-putin-xi-shenzhen-100.html",
-      "publishedAt": "2026-11-19T15:32:13.000Z"
     },
     {
       "id": "n_aa70d3da01",
@@ -266,6 +266,17 @@
       "publishedAt": "2026-11-19T17:00:02.000Z"
     },
     {
+      "id": "n_fddde9ec8f",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "More climate money for Africa? Europe says use what's already pledged",
+      "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T00:54:50.000Z"
+    },
+    {
       "id": "n_42a9728713",
       "type": "news",
       "topic": "general",
@@ -274,84 +285,84 @@
       "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T19:16:21.000Z"
+      "publishedAt": "2026-11-20T00:50:24.000Z"
     },
     {
-      "id": "n_116411d1d3",
+      "id": "n_ad37c01d24",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-      "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+      "headline": "Why Canada is embracing AI data centres while the US pushes back",
+      "summary": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T17:38:22.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T00:13:24.000Z"
     },
     {
-      "id": "n_61165eb634",
+      "id": "n_eca3e57c24",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Rohingya genocide: What was said in court and what happens now?",
-      "summary": "The verdict marks the first time a state has ever been found to have committed genocide by an international court.",
+      "headline": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T17:35:05.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T00:13:21.000Z"
     },
     {
-      "id": "n_f1f6e4f97f",
+      "id": "n_9d2a1bd9d9",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Susan Smith denied parole again 32 years after drowning her two sons",
-      "summary": "At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children \"did not deserve to die\".",
+      "headline": "How did Anthropic's stock market debut unfold?",
+      "summary": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T17:23:34.000Z"
+      "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T23:52:25.000Z"
     },
     {
-      "id": "n_0c138ac9b2",
+      "id": "n_296d916c75",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "What did Trump, Xi and Putin get out of their historic meeting?",
-      "summary": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?",
+      "headline": "Trump posthumously pardons US baseball legend Pete Rose",
+      "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T17:23:29.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T23:51:50.000Z"
     },
     {
-      "id": "n_c3261a1d08",
+      "id": "n_3efda0ba48",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-      "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "headline": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T17:03:23.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T23:40:29.000Z"
     },
     {
-      "id": "n_11685b3b01",
+      "id": "n_779c3aaa13",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-      "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+      "headline": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T16:55:57.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T23:33:51.000Z"
     },
     {
-      "id": "n_2cddf338ba",
+      "id": "n_91681bf084",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
-      "summary": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
+      "headline": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T15:52:26.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T00:02:07.000Z"
     },
     {
       "id": "n_e802c02986",
@@ -420,26 +431,59 @@
       "publishedAt": "2026-11-18T21:28:08.000Z"
     },
     {
-      "id": "n_2cc51f85ba",
+      "id": "n_4ef64e9265",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Grand Theft Auto 6 is a masterpiece, say critics",
-      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T17:34:25.000Z"
+      "headline": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+      "summary": "Amazon now uses its shopping platform for political purposes.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+      "publishedAt": "2026-11-19T22:16:37.000Z"
     },
     {
-      "id": "n_15adef1f11",
+      "id": "n_f7101bc1bc",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "Hacks, AI or just overdue updates - why have there been so many outages?",
-      "summary": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T13:16:53.000Z"
+      "headline": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+      "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+      "publishedAt": "2026-11-19T21:19:12.000Z"
+    },
+    {
+      "id": "n_545852a959",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+      "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+      "publishedAt": "2026-11-19T20:29:46.000Z"
+    },
+    {
+      "id": "n_a18d40e53c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+      "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+      "publishedAt": "2026-11-19T20:19:28.000Z"
+    },
+    {
+      "id": "n_2fefa24a16",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+      "summary": "\"Project Suncatcher is a long-term moonshot.\"",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+      "publishedAt": "2026-11-19T19:52:54.000Z"
     },
     {
       "id": "n_2c6337293b",
@@ -475,59 +519,48 @@
       "publishedAt": "2026-11-19T14:04:38.000Z"
     },
     {
-      "id": "n_a2d0889c92",
+      "id": "n_a22c687c43",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
-      "summary": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
-      "publishedAt": "2026-11-19T13:40:02.000Z"
+      "headline": "Apple is hiring engineers to build its own AI agent",
+      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the cre",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "publishedAt": "2026-11-19T22:31:41.000Z"
     },
     {
-      "id": "n_45584a3597",
+      "id": "n_74e2df7789",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "How to tell a cyberattack from a plain old outage",
-      "summary": "When everything goes down, don’t assume it’s a cyberattack.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
-      "publishedAt": "2026-11-19T11:13:01.000Z"
+      "headline": "A brief history of Nvidia’s recent stock fluctuations",
+      "summary": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images \"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter ear",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "publishedAt": "2026-11-19T21:59:35.000Z"
     },
     {
-      "id": "n_37938fc816",
+      "id": "n_b0341a0ae3",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
-      "summary": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
-      "publishedAt": "2026-11-18T23:25:04.000Z"
+      "headline": "Meta’s Muse Charm might cost $300",
+      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the ho",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "publishedAt": "2026-11-19T20:22:17.000Z"
     },
     {
-      "id": "n_71d6205e3d",
+      "id": "n_6900f6014b",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
-      "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
-      "publishedAt": "2026-11-18T23:10:39.000Z"
-    },
-    {
-      "id": "n_e0deff6c53",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
-      "summary": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
-      "publishedAt": "2026-11-18T22:08:57.000Z"
+      "headline": "Google is putting AI chats right on the homepage",
+      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar b",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "publishedAt": "2026-11-19T20:05:06.000Z"
     },
     {
       "id": "n_a628e3d51e",
@@ -546,7 +579,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "Anthropic starts trading on Wall Street",
-      "summary": "Anthropic CEO Dario Amodei speaks at the Nasdaq ahead of his company’s public debut. | Photo by Michael Nagle/Bloomberg via Getty Images Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $8",
+      "summary": "Anthropic CEO Dario Amodei speaks at the Nasdaq ahead of his company’s public debut. | Photo: Michael Nagle / Bloomberg via Getty Images Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $8",
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
       "publishedAt": "2026-11-19T16:52:01.000Z"
@@ -572,50 +605,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
       "publishedAt": "2026-11-19T14:25:37.000Z"
-    },
-    {
-      "id": "n_029ded4e9a",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "I let Apple’s always-listening AI summarize my life for two weeks",
-      "summary": "Siri Recap can be turned on or off manually from the wrist. Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
-      "publishedAt": "2026-11-19T13:00:00.000Z"
-    },
-    {
-      "id": "n_fdfefb89d6",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Canva adds an AI ‘off’ button",
-      "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-      "publishedAt": "2026-11-19T12:30:00.000Z"
-    },
-    {
-      "id": "n_b429cb510b",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "The nation’s largest school districts consider ditching Google Search",
-      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powere",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-      "publishedAt": "2026-11-18T23:18:35.000Z"
-    },
-    {
-      "id": "n_66574755f6",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Trump’s latest land grab is an AI hub in the Philippines",
-      "summary": "President Donald Trump is welcomed upon his arrival at Villamor Air Base on November 17th, 2026, in Manila, Philippines. | Photo: Getty Images President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local ne",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
-      "publishedAt": "2026-11-18T19:40:36.000Z"
     },
     {
       "id": "n_bb3ee1cf50",
@@ -706,6 +695,28 @@
       "publishedAt": "2026-11-09T19:35:33.000Z"
     },
     {
+      "id": "n_bb79788fc6",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "What’s With All These Outages?",
+      "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+      "publishedAt": "2026-11-19T21:57:01.000Z"
+    },
+    {
+      "id": "n_394e8021d9",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+      "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+      "publishedAt": "2026-11-19T20:34:17.000Z"
+    },
+    {
       "id": "n_2a01bbcb10",
       "type": "news",
       "topic": "ai",
@@ -722,7 +733,7 @@
       "topic": "ai",
       "lang": "en",
       "headline": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
-      "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth.",
+      "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
       "source": "Wired",
       "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
       "publishedAt": "2026-11-19T12:00:00.000Z"
@@ -770,28 +781,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
       "publishedAt": "2026-11-18T17:33:07.000Z"
-    },
-    {
-      "id": "n_c0bdf578be",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
-      "summary": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/artex-ai-hacking-tools/",
-      "publishedAt": "2026-11-18T16:35:24.000Z"
-    },
-    {
-      "id": "n_1b11d2c31e",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
-      "summary": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
-      "publishedAt": "2026-11-18T15:02:40.000Z"
     },
     {
       "id": "n_f689168723",
@@ -970,7 +959,7 @@
       "type": "video",
       "topic": "video",
       "lang": "en",
-      "headline": "Taiwan: Street Food with the CEO of a $5 Trillion Company | Jensen Huang and Lex Fridman",
+      "headline": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
       "summary": "",
       "source": "Lex Fridman",
       "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
