@@ -1,16 +1,60 @@
 {
-  "generatedAt": "2026-11-20T01:55:43.683Z",
+  "generatedAt": "2026-11-20T10:39:42.873Z",
   "items": [
     {
-      "id": "n_bd1c967236",
+      "id": "n_d1b0d186a2",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Liveticker zu Gipfeln: ++ Wadephul sieht Chance auf Schritt Richtung Frieden ++",
-      "summary": "Außenminister Wadephul gibt sich nach den jüngsten Bemühungen um einen Frieden für die Ukraine optimistisch. Frankreichs Präsident Macron will erneut über einen NATO-Beitritt der Ukraine sprechen.",
+      "headline": "Marktbericht: DAX-Talfahrt setzt sich fort",
+      "summary": "Der DAX fällt im frühen Handel weit zurück, es droht der sechste Verlusttag in Folge. Das erfolgreiche Börsendebüt von Anthropic hat die Stimmung nicht aufgehellt, und die Inflationssorgen erhalten neue Nahrung.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/newsticker/liveblog-apec-gipfel-xi-trump-putin-100.html",
-      "publishedAt": "2026-11-19T21:02:03.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html",
+      "publishedAt": "2026-11-20T10:04:11.000Z"
+    },
+    {
+      "id": "n_1e06c3c7c1",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Was die Volkswagen-Forderungen für Beschäftigte bedeuten könnten",
+      "summary": "Kein Lohnplus, mehr Arbeit, weniger Extras: VW hat der IG Metall einen Forderungskatalog vorgelegt, der es in sich hat. Was auf die Beschäftigten zukommen könnte - und warum eine schnelle Einigung kaum möglich ist.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifstreit-ig-metall-100.html",
+      "publishedAt": "2026-11-20T09:55:01.000Z"
+    },
+    {
+      "id": "n_36749557c7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Tote bei russischen Angriffen auf mehrere Brücken in Kiew",
+      "summary": "Es ist eine Attacke ins Herz der ukrainischen Hauptstadt: Russland hat in Kiew erneut Brücken beschossen und beschädigt. Mehrere Menschen wurden getötet. In Polen musste wegen des Angriffs zeitweise ein Flughafen den Betrieb einstellen.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-bruecken-100.html",
+      "publishedAt": "2026-11-20T09:34:09.000Z"
+    },
+    {
+      "id": "n_568cbf0dad",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Neue EU-Regeln ab heute: Mehr Schutz vor Verschuldung bei Kleinkrediten",
+      "summary": "Mehr Schutz für Verbraucher, mehr Kontrolle bei Krediten: Von heute an gilt die neue Verbraucherkreditrichtlinie. Selbst kleine Beträge wie bei \"Heute kaufen, später zahlen\" verlangen von Anbietern nun mehr Aufwand. Von Juri Sonnenholzner.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/kleinkredite-neue-regeln-verschuldung-100.html",
+      "publishedAt": "2026-11-20T09:22:00.000Z"
+    },
+    {
+      "id": "n_eaa59c4493",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Deutliches Kursplus: So lief der erste Handelstag von Anthropic",
+      "summary": "Den Anfangshype konnte Anthropic am ersten Börsentag nicht ganz halten. Trotzdem ist die Aktie mit einem deutlichen Kursplus aus dem Handel gegangen. Das machte viele Beschäftigte auf einen Schlag reich.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersenstart-ipo-100.html",
+      "publishedAt": "2026-11-20T08:16:20.000Z"
     },
     {
       "id": "n_17be089684",
@@ -21,73 +65,62 @@
       "summary": "Im Februar hatte die IG Metall Strafanzeige gegen den Werksleiter von Tesla in Grünheide gestellt. Der Vorwurf: üble Nachrede. Nun hat ein Gericht einen Strafbefehl gegen den Mann erlassen. Der Werksleiter wehrt sich vor Gericht.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/regional/brandenburg/strafbefehl-werksleiter-von-tesla-100.html",
-      "publishedAt": "2026-11-19T20:07:12.000Z"
+      "publishedAt": "2026-11-20T08:13:46.000Z"
     },
     {
-      "id": "n_7348b944cd",
+      "id": "n_56a803ebeb",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Merz will baldige Gespräche mit Russland auf neutralem Boden",
-      "summary": "Die \"Koalition der Willigen\" verspricht, der Ukraine \"so lange wie nötig\" zu helfen. Nach dem Gipfel in Berlin rief Kanzler Merz Russlands Präsident Putin auf, die Waffen niederzulegen. Einen Frieden könne es nur mit Beteiligung Europas geben.",
+      "headline": "Kaliforniens Justiz erhöht wegen China-Geschäft Druck auf Nvidia",
+      "summary": "Nach dem Rücktritt von Nvidia-Chef Huang kommt der Chiphersteller nicht zur Ruhe. Jetzt wollen kalifornische Behörden untersuchen, ob und wie KI-Chips oder Informationen illegal nach China gelangt sein könnten.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/gipfel-koalition-willige-ukraine-100.html",
-      "publishedAt": "2026-11-19T19:22:45.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/kalifornien-justiz-aufklaerung-nvidia-chips-china-100.html",
+      "publishedAt": "2026-11-20T07:47:56.000Z"
     },
     {
-      "id": "n_84f6ce1560",
+      "id": "n_db9d728e93",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Dreiergipfel in Shenzhen: Xis Choreografie - assistiert von Trump und Putin",
-      "summary": "Beim Gipfel von Xi, Trump und Putin ging es um schöne Bilder und Schmeicheleien. Konkrete Politik? Fehlanzeige. Doch China gelang es, ein Thema zu setzen, das vor allem seinen Interessen und denen Russlands dient. Von Marie von Mallinckrodt.",
+      "headline": "Warum Burnham die Nähe zur EU sucht",
+      "summary": "Der britische Premier Burnham lässt keinen Zweifel aufkommen: Er will London wieder näher an die EU führen, denn er hält den Brexit für gescheitert. Wie weit kann er dabei gehen? Ein EU-UK-Gipfel soll den Prozess beschleunigen. Von C. Prössl.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/dreiergipfel-xi-trump-putin-100.html",
-      "publishedAt": "2026-11-19T18:30:48.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/eu-uk-gipfel-100.html",
+      "publishedAt": "2026-11-20T07:41:19.000Z"
     },
     {
-      "id": "n_ed6c2756ba",
+      "id": "n_af77caec5b",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Marktbericht: Keine Erholung trotz Anthropic-Euphorie",
-      "summary": "Trotz der guten Stimmung im Technologiesektor rund um den Rekord-Börsengang von Anthropic ist der DAX abgerutscht. Der deutsche Leitindex schloss auf dem tiefsten Stand seit mehr als drei Wochen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html",
-      "publishedAt": "2026-11-19T17:33:52.000Z"
+      "headline": "Microsoft Hotpatching: Patchday-Flicken legen Apps lahm",
+      "summary": "Im November hat Microsoft Hotpatches verteilt, die ohne Neustart wirken. Allerdings starten dadurch einige Apps nicht mehr.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Microsoft-Patchday-Hotpatches-erzeugen-Startprobleme-mit-Apps-11532241.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-11-20T09:41:00.000Z"
     },
     {
-      "id": "n_f2e5458da9",
+      "id": "n_b9490f20a9",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
-      "summary": "Anthropic gelingt der größte Börsengang aller Zeiten. Nach dem Absturz von Nvidia verbindet die KI-Branche damit neue Hoffnungen. Sind die Zweifel am Boom rund um Künstliche Intelligenz nun zerstreut? Von Angela Göpfert.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html",
-      "publishedAt": "2026-11-19T16:54:27.000Z"
+      "headline": "Voyager 1 ist jetzt einen Lichttag entfernt – und schickt nur noch Trägersignal",
+      "summary": "Voyager 1 ist als erstes menschengemachtes Objekt mehr als einen Lichttag von uns entfernt. Das hat die NASA bestätigt, es gibt aber wieder technische Probleme.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Nach-Meilenstein-NASA-empfaengt-von-Voyager-1-keine-Daten-aber-Lebenszeichen-11531999.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-11-20T08:55:00.000Z"
     },
     {
-      "id": "n_b58719ad9a",
+      "id": "n_b96221f483",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Volkswagen will Nullrunden für zwei Jahre",
-      "summary": "Nullrunden, weniger Zulagen und Änderungen bei der Arbeitszeit - Volkswagen will harte Einschnitte in der anstehenden Tarifrunde durchsetzen. Die IG Metall wirft dem Konzern vor, mit dem \"Messer in den Rücken\" der Arbeitnehmer zu fallen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-nullrunde-100.html",
-      "publishedAt": "2026-11-19T16:11:57.000Z"
-    },
-    {
-      "id": "n_4f603cf9d8",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "BASF bläst Evonik-Übernahme ab",
-      "summary": "BASF nimmt Abstand von einer Übernahme des Konkurrenten Evonik. Der Chemiekonzern gibt die Pläne auf, nachdem Evonik zuvor zwei unverbindliche Kaufangebote zurückgewiesen hatte.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html",
-      "publishedAt": "2026-11-19T15:55:43.000Z"
+      "headline": "VMware stopft attackierte Sicherheitslücken",
+      "summary": "Broadcom schließt teils kritische Lücken in VMware-Produkten. Eine in vCenter wird laut Mandiant bereits angegriffen.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/VMware-stopft-attackierte-Sicherheitsluecken-11532009.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-11-20T08:06:00.000Z"
     },
     {
       "id": "n_aa70d3da01",
@@ -145,125 +178,125 @@
       "publishedAt": "2026-11-19T16:09:00.000Z"
     },
     {
-      "id": "n_f67c87ff05",
+      "id": "n_87f09fca85",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "PHP behebt 17 Sicherheitslücken, fünf erlauben Ausführung von Schadcode",
-      "summary": "Die kritischen Sicherheitslücken sind nur mit Vorbedingungen und nicht auf Standardinstallationen ausnutzbar; Admins sollten dennoch updaten.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/PHP-behebt-17-Sicherheitsluecken-vier-erlauben-Ausfuehrung-von-Schadcode-11531249.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-11-19T14:42:00.000Z"
-    },
-    {
-      "id": "n_77e9df8fac",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Krebs-OP in Aachen: Erster Einsatz eines neuen Symani-Mikroinstruments",
-      "summary": "An der Uniklinik RWTH Aachen wurde erstmals weltweit ein neues elektrochirurgisches Mikroinstrument mit dem OP-Roboter Symani am Patienten eingesetzt.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Aachener-Uniklinik-setzt-neues-Mikroinstrument-fuer-OP-Roboter-Symani-ein-11531015.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-11-19T13:44:00.000Z"
-    },
-    {
-      "id": "n_e1d25fd453",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Ubiquiti UniFi Access Application: Lücken erlauben Codeschmuggel",
-      "summary": "Sicherheitslücken in Ubiquiti UniFi Access Application ermöglichen Angreifern, Schadcode einzuschmuggeln oder Rechte auszuweiten.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Ubiquiti-UniFi-Access-Application-Luecken-erlauben-Codeschmuggel-11531080.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-11-19T13:03:00.000Z"
-    },
-    {
-      "id": "n_2f82eb011e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Magnetische Powerbank mit Qi2 zum Jahresbestpreis bei Amazon",
-      "summary": "Eine magnetische Powerbank von Anker mit Qi2, 15 W und 10.000 mAh ist zum Black Friday bei Amazon so günstig wie noch nie in diesem Jahr. (Technik/Hardware, Black Friday)",
+      "headline": "Revolut-Datenpanne: Nach Cyberangriff drohen Kunden gewaltsame Übergriffe",
+      "summary": "Cyberkriminelle sind an Daten von Revolut-Kunden gelangt. In den Niederlanden sind nun Versuche gewaltsamer Angriffe auf Betroffene bekannt geworden. (Cybercrime, Cyberwar)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-magnetische-powerbank-mit-qi2-zum-jahresbestpreis-bei-amazon-2611-215438.html",
-      "publishedAt": "2026-11-19T17:55:02.000Z"
+      "url": "https://www.golem.de/news/revolut-datenpanne-nach-cyberangriff-drohen-kunden-gewaltsame-uebergriffe-2611-215459.html",
+      "publishedAt": "2026-11-20T10:35:02.000Z"
     },
     {
-      "id": "n_666e238c2c",
+      "id": "n_e9c6a0e552",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Breko-Jahrestagung: Telekom-Konkurrenten drängen auf erste eigene Kupferabschaltung",
-      "summary": "Bislang hat nur die Telekom selbst alte DSL-Netze für ihre Glasfaser abschalten dürfen. (Breko, DSL)",
+      "headline": "Warren Spector: Deus-Ex-Schöpfer hofft auf Ende der Milliarden-Spiele",
+      "summary": "Der Deus-Ex-Schöpfer Warren Spector lobt Rockstar Games für GTA 6, kritisiert aber die enormen Entwicklungskosten. (GTA 6, Deus Ex)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/breko-jahrestagung-telekom-konkurrenten-draengen-auf-erste-eigene-kupferabschaltung-2611-215437.html",
-      "publishedAt": "2026-11-19T17:49:01.000Z"
+      "url": "https://www.golem.de/news/warren-spector-deus-ex-schoepfer-hofft-auf-ende-der-milliarden-spiele-2611-215456.html",
+      "publishedAt": "2026-11-20T10:20:02.000Z"
     },
     {
-      "id": "n_d91e984c78",
+      "id": "n_5b5ea1de22",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: IT-Sicherheitsvorfälle: Die ersten Maßnahmen richtig wählen",
-      "summary": "Bei Cyberangriffen müssen IT-Teams schnell und strukturiert reagieren. Ein Workshop zur Incident Response vermittelt erste Maßnahmen, IT-Forensik und Beweissicherung. (Golem Karrierewelt, Server-Applikationen)",
+      "headline": "Mit Nvidia RTX Spark N1X: Asus verkauft KI-Mini-PC ab 4.700 Euro",
+      "summary": "Der Asus ProArt GR1X soll mithilfe von Nvidias RTX Spark N1X große Sprachmodelle und KI-Agenten ohne Cloud ausführen können. (KI, Nvidia)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-it-sicherheitsvorfaelle-die-ersten-massnahmen-richtig-waehlen-2611-215381.html",
-      "publishedAt": "2026-11-19T17:45:02.000Z"
+      "url": "https://www.golem.de/news/mit-nvidia-rtx-spark-n1x-asus-verkauft-ki-mini-pc-ab-4-700-euro-2611-215457.html",
+      "publishedAt": "2026-11-20T10:05:02.000Z"
     },
     {
-      "id": "n_ba18752026",
+      "id": "n_dee3bcd92b",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Hacking-Tool: Flipper One mit Rekordstart trotz offener Fragen",
-      "summary": "Bei Kickstarter kann die neue Flipper-Version unterstützt werden. Diese kostet deutlich mehr als der Vorgänger, einige Spezifikationen sind offen. (Flipper Zero, Linux)",
+      "headline": "Finanzierungsrunde: Investoren wollen SpaceX-GPUs nicht im All sehen",
+      "summary": "Mit neuem Geld will SpaceX Nvidia-GPUs kaufen. Die dienen als Sicherheit, weshalb Investoren wollen, dass sie die Erde nicht verlassen. (SpaceX, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/hacking-tool-flipper-one-mit-rekordstart-trotz-offener-fragen-2611-215435.html",
-      "publishedAt": "2026-11-19T17:34:01.000Z"
+      "url": "https://www.golem.de/news/finanzierungsrunde-investoren-wollen-spacex-gpus-nicht-im-all-sehen-2611-215454.html",
+      "publishedAt": "2026-11-20T09:50:02.000Z"
     },
     {
-      "id": "n_18443800cf",
+      "id": "n_1837d12f1d",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Google Pixel 11 günstig wie nie am Black Friday",
-      "summary": "Erst seit August auf dem Markt, jetzt 300 Euro unter UVP: Amazon bietet das Google Pixel 11 mit 256 GB für unter 700 Euro am Black Friday an. (Black Friday, Smartphone)",
+      "headline": "Android: Google macht App-Verifizierung ab Januar 2027 weltweit zur Pflicht",
+      "summary": "Die Registrierung von Apps macht Android laut Google sicherer - eine Option für das Sideloading bleibt aber. (Android, Google)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-google-pixel-11-guenstig-wie-nie-am-black-friday-2611-215433.html",
-      "publishedAt": "2026-11-19T17:30:01.000Z"
+      "url": "https://www.golem.de/news/android-google-macht-app-verifizierung-ab-januar-2027-weltweit-zur-pflicht-2611-215455.html",
+      "publishedAt": "2026-11-20T09:35:01.000Z"
     },
     {
-      "id": "n_8c136195be",
+      "id": "n_74c6e2313f",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "KI-Unternehmen: Anthropic-Aktie macht Kurssprung zum Börsenstart",
-      "summary": "Anthropic ist erfolgreich an der Börse gestartet. Das Unternehmen wird mit fast 2 Billionen US-Dollar bewertet. (Anthropic, Börse)",
+      "headline": "Tai 9: BYD lässt Lenkrad im Armaturenbrett verschwinden",
+      "summary": "Das Lenkrad des Tai 9 verschwindet in nur zehn Sekunden im Armaturenbrett. Die ungewöhnliche Technik ist serienmäßig erhältlich. (BYD, Auto)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/ki-unternehmen-anthropic-aktie-macht-kursprung-zum-boersenstart-2611-215436.html",
-      "publishedAt": "2026-11-19T17:16:01.000Z"
+      "url": "https://www.golem.de/news/tai-9-byd-laesst-lenkrad-im-armaturenbrett-verschwinden-2611-215453.html",
+      "publishedAt": "2026-11-20T09:20:02.000Z"
     },
     {
-      "id": "n_d9d6a90a4d",
+      "id": "n_caefc50ea4",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Edifier M60 Desktop-Lautsprecher mit neuem Bestpreis für unter 60 Euro pro Stück bei Amazon",
-      "summary": "Die Edifier M60 liefern 66 Watt, streamen per LDAC in Hi-Res-Qualität und bringen eigene Ständer mit, zur Black Week sogar zum Sparpreis. (Technik/Hardware, Sound-Hardware)",
+      "headline": "Klarna, Paypal und Co.: Diese neuen Regeln gelten ab 20. November beim Später bezahlen",
+      "summary": "Wer erst später bezahlen oder einen Einkauf in Raten aufteilen will, muss künftig mit zusätzlichen Prüfungen rechnen. Ein Ratgebertext von Ulrike Barth (Onlinehandel, Verbraucherschutz)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-edifier-m60-desktop-lautsprecher-mit-neuem-bestpreis-fuer-unter-60-euro-pro-stueck-bei-amazon-2611-215429.html",
-      "publishedAt": "2026-11-19T17:15:01.000Z"
+      "url": "https://www.golem.de/news/klarna-paypal-und-co-diese-neuen-regeln-gelten-ab-20-november-beim-spaeter-bezahlen-2611-215423.html",
+      "publishedAt": "2026-11-20T09:05:02.000Z"
     },
     {
-      "id": "n_65d2a5d33d",
+      "id": "n_0afe3732e9",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) Wachstum: Wo bleibt Europas KI-Boom?",
-      "summary": "Wenn man ganz genau hinsieht, kann man ihn in den Daten entdecken - unsere heutige Leseempfehlung aus der Financial Times. Von Soumaya Keynes (Wirtschaft, KI)",
+      "headline": "E-Mail-Dienst: Bending Spoons kauft Mailchimp",
+      "summary": "Der vorherige Eigentümer erhält nur noch ein Drittel des ursprünglichen Kaufpreises für Mailchimp von Bending Spoons. (Unternehmen, Wirtschaft)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/wachstum-wo-bleibt-europas-ki-boom-2611-215427.html",
-      "publishedAt": "2026-11-19T17:00:02.000Z"
+      "url": "https://www.golem.de/news/e-mail-dienst-bending-spoons-kauft-mailchimp-2611-215450.html",
+      "publishedAt": "2026-11-20T08:55:01.000Z"
+    },
+    {
+      "id": "n_f451b9b779",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Three Kyiv bridges hit during major Russian missile attack",
+      "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T10:20:08.000Z"
+    },
+    {
+      "id": "n_e3a5c10bd4",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "UK and EU to agree youth mobility scheme, BBC understands",
+      "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T07:14:46.000Z"
+    },
+    {
+      "id": "n_7c0ffdc4f1",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Nigeria moves to end jail terms for attempted suicide",
+      "summary": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T06:32:17.000Z"
     },
     {
       "id": "n_fddde9ec8f",
@@ -274,7 +307,29 @@
       "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T00:54:50.000Z"
+      "publishedAt": "2026-11-20T05:03:43.000Z"
+    },
+    {
+      "id": "n_5eb4b83dd8",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "China issues Mount Fuji warning as family of missing climber offers reward",
+      "summary": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T04:13:22.000Z"
+    },
+    {
+      "id": "n_bdb9550d22",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US army warns detonation of unstable explosives will create toxic plume",
+      "summary": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T01:27:27.000Z"
     },
     {
       "id": "n_42a9728713",
@@ -299,59 +354,37 @@
       "publishedAt": "2026-11-20T00:13:24.000Z"
     },
     {
-      "id": "n_eca3e57c24",
+      "id": "n_77ce998683",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
-      "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+      "headline": "White House removes cyber-security chief after series of tech outages",
+      "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T00:13:21.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T09:37:59.000Z"
     },
     {
-      "id": "n_9d2a1bd9d9",
+      "id": "n_5b5e77b6ee",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "How did Anthropic's stock market debut unfold?",
-      "summary": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
+      "headline": "Should AI be judging our credit worthiness?",
+      "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T23:52:25.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T07:32:19.000Z"
     },
     {
-      "id": "n_296d916c75",
+      "id": "n_819d3babef",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Trump posthumously pardons US baseball legend Pete Rose",
-      "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+      "headline": "GTA 6 breaks records as estimated sales top $2.3bn",
+      "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T23:51:50.000Z"
-    },
-    {
-      "id": "n_3efda0ba48",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-      "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T23:40:29.000Z"
-    },
-    {
-      "id": "n_779c3aaa13",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T23:33:51.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T02:54:40.000Z"
     },
     {
       "id": "n_91681bf084",
@@ -363,6 +396,17 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-20T00:02:07.000Z"
+    },
+    {
+      "id": "n_779c3aaa13",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T23:33:51.000Z"
     },
     {
       "id": "n_e802c02986",
@@ -396,39 +440,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-19T12:26:39.000Z"
-    },
-    {
-      "id": "n_d412c50db1",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-      "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T02:59:06.000Z"
-    },
-    {
-      "id": "n_b7ed276b63",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "The seven Anthropic founders who are about to become multi-billionaires",
-      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T23:42:07.000Z"
-    },
-    {
-      "id": "n_0a4eeca95e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-      "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T21:28:08.000Z"
     },
     {
       "id": "n_4ef64e9265",
@@ -695,6 +706,17 @@
       "publishedAt": "2026-11-09T19:35:33.000Z"
     },
     {
+      "id": "n_a7839ae95a",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+      "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "publishedAt": "2026-11-20T07:00:00.000Z"
+    },
+    {
       "id": "n_bb79788fc6",
       "type": "news",
       "topic": "ai",
@@ -770,17 +792,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/",
       "publishedAt": "2026-11-18T21:15:00.000Z"
-    },
-    {
-      "id": "n_30748ff8dd",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
-      "summary": "Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
-      "publishedAt": "2026-11-18T17:33:07.000Z"
     },
     {
       "id": "n_f689168723",
@@ -923,7 +934,7 @@
       "type": "video",
       "topic": "video",
       "lang": "en",
-      "headline": "GTA 6 and the Biggest Jewelry Thief in US History | Lex Fridman Podcast #505",
+      "headline": "Larry Lawton: GTA 6, Crime, Jewel Heists, Prison, Mafia, Miami & Money | Lex Fridman Podcast #505",
       "summary": "",
       "source": "Lex Fridman",
       "url": "https://www.youtube.com/watch?v=v1X9Fqs5a14",
