@@ -1,93 +1,104 @@
 {
-  "generatedAt": "2026-11-22T00:44:49.926Z",
+  "generatedAt": "2026-11-22T10:26:39.504Z",
   "items": [
     {
-      "id": "n_69b7817cc9",
+      "id": "n_2a1a48efc7",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "EU und Indonesien unterzeichnen Freihandelsabkommen",
-      "summary": "Fast zehn Jahre haben die Verhandlungen gedauert: Nun haben die EU und Indonesien ein Freihandelsabkommen unterzeichnet, mit dem die Zölle auf fast alle Waren wegfallen sollen. Davon könnte auch die Autobranche profitieren.",
+      "headline": "COP31: Beschlusstext \"für Deutschland nicht zustimmungsfähig\"",
+      "summary": "Die Weltklimakonferenz in Antalya ist schon in der Verlängerung, um ein Beschlusspapier wird heftig gerungen. Nun hat Umweltminister Schneider den Entwurf scharf zurückgewiesen - und erhebt Vorwürfe gegen einige Staaten.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
-      "publishedAt": "2026-11-21T20:17:57.000Z"
+      "url": "https://www.tagesschau.de/ausland/weltklimakonferenz-cop-droht-zu-scheitern-100.html",
+      "publishedAt": "2026-11-22T10:01:02.000Z"
     },
     {
-      "id": "n_63bc6d4e70",
+      "id": "n_28942fe155",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Niederlande: Handfester Protest gegen PFAS-Verseuchung",
-      "summary": "Rund um die Chemiefabrik Chemours in den Niederlanden sollen die Bürger kein Obst aus ihren Gärten mehr essen. Dort werden Kunststoffe hergestellt, die zu den sogenannten Ewigkeitschemikalien gehören. Dagegen wehren sich die Bürger. Von O. Chladkova.",
+      "headline": "Künftiger Generalinspekteur will bei sexualisiertem Fehlverhalten durchgreifen",
+      "summary": "Die Bundeswehr hat ein Problem mit sexualisiertem Fehlverhalten. Das belegt eine Studie. Der künftige Generalinspekteur der Bundeswehr, Freuding, will hier \"unerbittlich hart durchgreifen\". Die Zahlen seien \"unerträglich\".",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/niederlande-protest-gegen-pfas-100.html",
-      "publishedAt": "2026-11-21T19:54:06.000Z"
+      "url": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-generalinspekteur-gegen-sexualisiertes-fehlverhalten-100.html",
+      "publishedAt": "2026-11-22T09:51:56.000Z"
     },
     {
-      "id": "n_e060e7b0cd",
+      "id": "n_90541cebde",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee",
-      "summary": "Vor Finnland ist in internationalen Gewässern ein russisches Handelsschiff von Drohnen getroffen worden. Es brach ein Feuer aus, zur Besatzung gibt es widersprüchliche Angaben.",
+      "headline": "Israel: Warum die Stadt Bat Yam Iran verklagt",
+      "summary": "Mehr als ein Jahr nach dem verheerenden Raketenangriff auf ein Wohnviertel im israelischen Bat Yam sind viele Familien nicht in ihre Wohnungen zurückgekehrt. Nun hat die Stadt Klage gegen Iran eingereicht. Von Bettina Meier.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html",
-      "publishedAt": "2026-11-21T19:10:03.000Z"
+      "url": "https://www.tagesschau.de/ausland/asien/israel-bat-jam-raketenangriff-klage-iran-reportage-100.html",
+      "publishedAt": "2026-11-22T09:48:00.000Z"
     },
     {
-      "id": "n_a5f1fc3c7e",
+      "id": "n_7447743e0a",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
-      "summary": "Die Riemannsche Vermutung über Primzahlen gilt als eines der größten Probleme der Mathematik. Nun könnte sie mithilfe der KI von Anthropic gelöst worden sein - fast zeitgleich mit dem Börsengang des US-Unternehmens.",
+      "headline": "Wie Armut Kinder in Deutschland krank macht",
+      "summary": "Kinder aus armutsgefährdeten Familien haben ein höheres Risiko, krank zu werden - körperlich und psychisch. Dabei gibt es in Deutschland viele Hilfen. Warum kommen sie oft nicht an? Von Katharina Spreier.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
-      "publishedAt": "2026-11-21T17:32:19.000Z"
+      "url": "https://www.tagesschau.de/inland/gesellschaft/armut-kinder-familien-100.html",
+      "publishedAt": "2026-11-22T08:26:52.000Z"
     },
     {
-      "id": "n_f5750e74b8",
+      "id": "n_2c6bd1b991",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Ministerium will Autobahntankstellen vom Spritpreisdeckel ausnehmen",
-      "summary": "Ab Januar soll der Preisdeckel für Benzin und Diesel gelten. Wirtschaftsministerin Reiche plant offenbar, Autobahntankstellen davon ausnehmen. Ihr neuer Gesetzentwurf ist noch in der Abstimmung zwischen den Ministerien.",
+      "headline": "Gesetzentwurf des Justizministeriums: Femizide sollen eindeutig als Mord gelten",
+      "summary": "\"Wer eine Frau tötet, weil sie sich von ihm trennen will, der muss als Mörder bestraft werden\": Justizministerin Hubig will den Mordparagrafen verschärfen und Femizide eindeutig als Mord erfassen. Ein Gesetzentwurf dazu liegt nun vor.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html",
-      "publishedAt": "2026-11-21T15:55:59.000Z"
+      "url": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html",
+      "publishedAt": "2026-11-22T08:16:45.000Z"
     },
     {
-      "id": "n_a448c332c2",
+      "id": "n_c45d7d490c",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Mexiko nimmt einen der meistgesuchten Drogenbosse fest",
-      "summary": "Die USA fordern von Mexiko schon länger ein hartes Vorgehen gegen Kartelle. Nun ist den Behörden offenbar ein hochrangiger Drogenboss ins Netz gegangen. Der Mann zählte auf der Liste des FBI zu den meistgesuchten Verbrechern.",
+      "headline": "Australien: Social-Media-Verbot mit Lücken und Mängeln",
+      "summary": "Jugendliche vor den Folgen von Social Media zu schützen, das war die Idee hinter dem Social-Media-Verbot in Australien. Ein Jahr danach zeigt sich, wo es bei der Umsetzung hakt. Von C. Justus und P. Nöhr.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/mexiko-drogenkartell-chef-festnahme-100.html",
-      "publishedAt": "2026-11-21T15:36:57.000Z"
+      "url": "https://www.tagesschau.de/ausland/ozeanien/australien-social-media-108.html",
+      "publishedAt": "2026-11-22T07:26:24.000Z"
     },
     {
-      "id": "n_23428b4285",
+      "id": "n_3c9db3c9c8",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "\"Costa Concordia\"-Kapitän Schettino auf Bewährung aus Haft entlassen",
-      "summary": "Aufgrund eines riskanten Manövers kenterte die \"Costa Concordia\" 2012 vor der Küste Italiens. 32 Menschen starben. Nun ist der ehemalige Kapitän des Schiffes aus dem Gefängnis entlassen worden. Von Anna Giordano.",
+      "headline": "Antisemitismusbeauftragte fordert mehr Engagement gegen Judenhass",
+      "summary": "Antisemitismus so offen wie seit dem Holocaust nicht mehr: Bundesbeauftragte von Schnurbein warnt vor wachsendem Judenhass in Deutschland. Die \"AfD-Ideologie\" sei ein gefährlicher Angriff auf die Erinnerungskultur.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/costa-concordia-kapitaen-aus-haft-entlassen-100.html",
-      "publishedAt": "2026-11-21T14:07:14.000Z"
+      "url": "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html",
+      "publishedAt": "2026-11-22T05:47:26.000Z"
     },
     {
-      "id": "n_d865bd1d5d",
+      "id": "n_557e2a6b5b",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Italiens Ex-Polizeichef De Gennaro nimmt sich das Leben",
-      "summary": "Gianni De Gennaro bekleidete lange Schlüsselpositionen im italienischen Sicherheitsapparat - sei es im Kampf gegen die Mafia, beim G8-Gipfel in Genua oder für die Geheimdienste. Kurz vor einer Gerichtsanhörung tötete er sich selbst.",
+      "headline": "Klimakonferenz in Antalya: Staaten beraten neuen Entwurf für Abschlusserklärung",
+      "summary": "Nach weit über 30 Stunden Verlängerung liegt der Klimakonferenz in Antalya ein neuer Entwurf für eine Abschlusserklärung vor. Ein klares Bekenntnis zur Abkehr von fossilen Energien enthält der Text nicht. Am Vormittag soll abgestimmt werden.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/italien-polizeichef-de-gennaro-tot-100.html",
-      "publishedAt": "2026-11-21T12:48:02.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
+      "publishedAt": "2026-11-22T05:21:04.000Z"
+    },
+    {
+      "id": "n_081bac685b",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "GL.iNet: Schwachstelle entdeckt, Patch verfügbar",
+      "summary": "Eine Lücke in den cloudbasierten Fernverwaltungsdiensten wird bereits ausgenutzt. Admins sollten schnell handeln.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/GL-iNet-Schwachstelle-entdeckt-Patch-verfuegbar-11533722.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-11-22T10:02:00.000Z"
     },
     {
       "id": "n_c12e653c4f",
@@ -167,15 +178,81 @@
       "publishedAt": "2026-11-19T17:34:00.000Z"
     },
     {
-      "id": "n_464ef1bb5b",
+      "id": "n_3afbc13e46",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anthropic-Aktien an der Börse gestartet",
-      "summary": "Anthropics Aktien sind an der Börse gestartet. Der Kurs bewegt sich wie erwartet über dem Einstiegspreis.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Anthropic-Aktien-an-der-Boerse-gestartet-11528173.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-11-19T17:11:00.000Z"
+      "headline": "Onlineshopping: Mehr Komfort beim Päckchen-Versand mit DHL",
+      "summary": "Der Paketdienst DHL bringt mehr Komfortfunktionen für den Versand und Empfang von Päckchen. (DHL, Onlineshop)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/onlineshopping-mehr-komfort-beim-paeckchen-versand-mit-dhl-2611-215512.html",
+      "publishedAt": "2026-11-22T10:16:02.000Z"
+    },
+    {
+      "id": "n_5a7824f21a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Balkonkraftwerk mit zwei bifazialen Modulen kostet bei Amazon nur 200 Euro",
+      "summary": "Bei Amazon ist ein Balkonkraftwerk mit zwei bifazialen Modulen befristet für nur 200 Euro zu haben. (Balkonkraftwerk, Energie & Klima)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-balkonkraftwerk-mit-zwei-bifazialen-modulen-kostet-bei-amazon-nur-200-euro-2611-215505.html",
+      "publishedAt": "2026-11-22T10:05:01.000Z"
+    },
+    {
+      "id": "n_694264ed35",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Smarte Lautsprecher und smarte Displays: Google schaltet Google Assistant nächstes Jahr ab",
+      "summary": "Alle smarten Lautsprecher und smarten Displays mit Google Assistant sollen ab nächstem Sommer auf Gemini für Google Home umgestellt werden. (Google Home, Google)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/smarte-lautsprecher-und-smarte-displays-google-schaltet-google-assistant-naechstes-jahr-ab-2611-215511.html",
+      "publishedAt": "2026-11-22T09:57:02.000Z"
+    },
+    {
+      "id": "n_ab827bae75",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Wärmebildkamera fürs Handy am Black Friday günstig wie nie bei Amazon",
+      "summary": "Mit der Topdon TC001 Mini hat Amazon eine Wärmebildkamera fürs Handy im Angebot, die Temperaturunterschiede präzise per App analysiert. (Technik/Hardware, Black Friday)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-waermebildkamera-fuers-handy-am-black-friday-guenstig-wie-nie-bei-amazon-2611-215373.html",
+      "publishedAt": "2026-11-22T09:40:04.000Z"
+    },
+    {
+      "id": "n_b33653c335",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Cybercrime: Unbefugte verschaffen sich Zugang zu FBI-Datenbank",
+      "summary": "Hacker haben nicht nur die US-Bundespolizei FBI erfolgreich infiltriert, sondern auch das US-Landwirtschaftsministerium. (FBI, Cyberwar)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/cybercrime-unbefugte-verschaffen-sich-zugang-zu-fbi-datenbank-2611-215508.html",
+      "publishedAt": "2026-11-22T09:40:02.000Z"
+    },
+    {
+      "id": "n_861f087cd7",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "(g+) Agenten und SQL: Mit strengem Datenbankdesign zu besseren KI-Ergebnissen",
+      "summary": "KI-Agenten können bei Datenbankabfragen halluzinieren. Klare Strukturen und Regeln helfen, Fehler zu vermeiden. Ein Plädoyer für sorgfältiges Database Design. Ein Ratgebertext von Antony Ghiroz (Datenbank, PostgreSQL)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/agenten-und-sql-mit-strengem-datenbankdesign-zu-besseren-ki-ergebnissen-2611-215226.html",
+      "publishedAt": "2026-11-22T09:00:01.000Z"
+    },
+    {
+      "id": "n_e69005b95a",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Pädophilenjäger: Selbstjustiz im Netz",
+      "summary": "Sie geben vor, Kinder zu schützen. Doch selbst ernannte Pädophilenjäger werden immer wieder selbst zu Tätern - mit teilweise tödlichen Folgen. Von Elke Wittich (Politik, Soziales Netz)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/paedophilenjaeger-selbstjustiz-im-netz-2611-215224.html",
+      "publishedAt": "2026-11-22T06:30:02.000Z"
     },
     {
       "id": "n_2220dfd5ef",
@@ -189,81 +266,48 @@
       "publishedAt": "2026-11-21T14:00:02.000Z"
     },
     {
-      "id": "n_33884ddd9c",
+      "id": "n_3d97e0803e",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Black Deal bei Blau - iPhone 18 Pro mit 100 GByte Datenvolumen für 1 Euro",
-      "summary": "Auch bei Blau gibt es aktuell Black Deals. Das Apple iPhone 18 Pro wird mit 100 GByte Datenvolumen jetzt für nur 1 Euro Anzahlung angeboten. (Blau.de, Apple)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-black-deal-bei-blau-iphone-18-pro-mit-100-gbyte-datenvolumen-fuer-1-euro-2611-215471.html",
-      "publishedAt": "2026-11-21T12:40:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "South Korea education minister resigns over exam cheating scandal",
+      "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T09:20:45.000Z"
     },
     {
-      "id": "n_2ffcbcacb3",
+      "id": "n_6bc6938e2c",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anthropic: Mathematiker will mit Claude Riemann-Vermutung gelöst haben",
-      "summary": "Levent Alpöge will mit Claude die Riemann-Vermutung bewiesen haben. Die Prüfung des Lean-Codes läuft noch. (Claude, Wissen)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anthropic-mathematiker-will-mit-claude-riemann-vermutung-geloest-haben-2611-215500.html",
-      "publishedAt": "2026-11-21T11:06:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T07:12:41.000Z"
     },
     {
-      "id": "n_4319fdbcfa",
+      "id": "n_87321b68fd",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Verivox-Studie: Internettarife werden nach Rabatt fast dreimal so teuer",
-      "summary": "Verivox hat 679 Internettarife ausgewertet. Nach dem Einstiegsrabatt steigt die Grundgebühr im Schnitt von 18,67 auf 53,48 Euro. (Tarife, Telekom)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/verivox-studie-internettarife-werden-nach-rabatt-fast-dreimal-so-teuer-2611-215503.html",
-      "publishedAt": "2026-11-21T10:44:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Three killed and dozens missing after fire at Indonesian factory",
+      "summary": "At least three people were killed and 36 are still missing after a fire at a confectionary factory.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T06:05:00.000Z"
     },
     {
-      "id": "n_32a651d609",
+      "id": "n_48f549e40a",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "KI-Wettlauf: Trump droht Rechenzentren im Ausland mit enormer Steuer",
-      "summary": "Trump will Konzerne zum Bau in den USA drängen. Der Ausbau stößt bei Wählern allerdings auf Widerstand. (Donald Trump, KI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/ki-wettlauf-trump-droht-rechenzentren-im-ausland-mit-enormer-steuer-2611-215502.html",
-      "publishedAt": "2026-11-21T10:23:01.000Z"
-    },
-    {
-      "id": "n_bf41f798ae",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Rockstar Games: GTA 6 verkauft 32,5 Millionen Stück und bricht alle Rekorde",
-      "summary": "Rockstar Games meldet für GTA 6 den größten Verkaufsstart der Unterhaltungsgeschichte: 3,79 Milliarden US-Dollar. (GTA 6, Rockstar)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/rockstar-games-gta-6-verkauft-32-5-millionen-stueck-und-bricht-alle-rekorde-2611-215499.html",
-      "publishedAt": "2026-11-21T09:54:01.000Z"
-    },
-    {
-      "id": "n_952bc33bf9",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Tineco Switch S7 Stretch Nass-Trockensauger zum neuen Bestpreis bei Amazon",
-      "summary": "Der Tineco Switch S7 Stretch saugt und wischt gleichzeitig, putzt sich mit 85 Grad selbst und ist zum Black Friday so günstig wie nie. (Technik/Hardware)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-tineco-switch-s7-stretch-nass-trockensauger-zum-neuen-bestpreis-bei-amazon-2611-215357.html",
-      "publishedAt": "2026-11-21T09:40:02.000Z"
-    },
-    {
-      "id": "n_982089aebb",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Nvidia-Unternehmenskultur: Huang soll Nvidia-Mitarbeiter gezielt gedemütigt haben",
-      "summary": "Die New York Times beschreibt jahrelange Tiraden des Ex-CEOs. Nvidia schweigt, Huangs Sprecher widerspricht. (Nvidia, Wirtschaft)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/nvidia-unternehmenskultur-huang-soll-nvidia-mitarbeiter-gezielt-gedemuetigt-haben-2611-215501.html",
-      "publishedAt": "2026-11-21T09:30:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T01:25:03.000Z"
     },
     {
       "id": "n_45201d2fd3",
@@ -299,28 +343,6 @@
       "publishedAt": "2026-11-22T00:09:58.000Z"
     },
     {
-      "id": "n_48f549e40a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T23:31:17.000Z"
-    },
-    {
-      "id": "n_040c95d5f0",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T22:19:43.000Z"
-    },
-    {
       "id": "n_caa368e1c1",
       "type": "news",
       "topic": "general",
@@ -330,28 +352,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T22:01:19.000Z"
-    },
-    {
-      "id": "n_86c4e81769",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Russia-bound ship attacked in Gulf of Finland",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T19:20:22.000Z"
-    },
-    {
-      "id": "n_88af422b08",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T13:17:38.000Z"
     },
     {
       "id": "n_9a3ad65b71",
@@ -934,7 +934,7 @@
       "type": "video",
       "topic": "video",
       "lang": "en",
-      "headline": "GTA 6, Crime, Jewel Heists, Mafia, Gangs, Prison, Corrupt Cops & Money | Lex Fridman Podcast #505",
+      "headline": "GTA 6, Crime, Heists, Mafia, Gangs, Prison, Corrupt Cops, Miami & Money | Lex Fridman Podcast #505",
       "summary": "",
       "source": "Lex Fridman",
       "url": "https://www.youtube.com/watch?v=v1X9Fqs5a14",
