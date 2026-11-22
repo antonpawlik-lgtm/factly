@@ -1,93 +1,104 @@
 {
-  "generatedAt": "2026-11-21T10:22:09.510Z",
+  "generatedAt": "2026-11-22T00:44:49.926Z",
   "items": [
     {
-      "id": "n_0f49275ea6",
+      "id": "n_69b7817cc9",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "\"Altersvorsorgedepot für nahezu alle Riester-Sparer interessant\"",
-      "summary": "Die Bundesregierung stellt die Altersvorsorge ab dem kommenden Jahr neu auf. Die staatliche Förderung könnte beim neuen Altersvorsorgedepot für viele lukrativer sein als beim bisherigen \"Riestern\". Das sollte man beachten. Von P. Sauer.",
+      "headline": "EU und Indonesien unterzeichnen Freihandelsabkommen",
+      "summary": "Fast zehn Jahre haben die Verhandlungen gedauert: Nun haben die EU und Indonesien ein Freihandelsabkommen unterzeichnet, mit dem die Zölle auf fast alle Waren wegfallen sollen. Davon könnte auch die Autobranche profitieren.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-tipps-riester-100.html",
-      "publishedAt": "2026-11-21T10:20:52.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
+      "publishedAt": "2026-11-21T20:17:57.000Z"
     },
     {
-      "id": "n_40390377fb",
+      "id": "n_63bc6d4e70",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Altersvorsorgedepot: Staatlich organisierter Fonds nicht startklar",
-      "summary": "Zum Jahreswechsel startet das neue Modell der staatlichen Altersvorsorge, das Altersvorsorgedepot. Private Angebote gibt es längst - doch das öffentlich organisierte Basis-Fondsangebot wird dann wohl noch nicht bereit sein.",
+      "headline": "Niederlande: Handfester Protest gegen PFAS-Verseuchung",
+      "summary": "Rund um die Chemiefabrik Chemours in den Niederlanden sollen die Bürger kein Obst aus ihren Gärten mehr essen. Dort werden Kunststoffe hergestellt, die zu den sogenannten Ewigkeitschemikalien gehören. Dagegen wehren sich die Bürger. Von O. Chladkova.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html",
-      "publishedAt": "2026-11-21T10:16:17.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/niederlande-protest-gegen-pfas-100.html",
+      "publishedAt": "2026-11-21T19:54:06.000Z"
     },
     {
-      "id": "n_3f4502c8ed",
+      "id": "n_e060e7b0cd",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Erdbeben erschüttert Perus Andenregion",
-      "summary": "Die Erschütterungen waren bis in die Hauptstadt Lima zu spüren: Ein Erdbeben der Stärke 6,7 hat die Andenregion in Peru erschüttert. Über Schäden oder Opfer ist bislang nichts bekannt.",
+      "headline": "Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee",
+      "summary": "Vor Finnland ist in internationalen Gewässern ein russisches Handelsschiff von Drohnen getroffen worden. Es brach ein Feuer aus, zur Besatzung gibt es widersprüchliche Angaben.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/peru-erdbeben-102.html",
-      "publishedAt": "2026-11-21T09:51:28.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html",
+      "publishedAt": "2026-11-21T19:10:03.000Z"
     },
     {
-      "id": "n_3b0159120c",
+      "id": "n_a5f1fc3c7e",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "GTA VI spielt laut Konzern fast vier Milliarden Dollar am ersten Tag ein",
-      "summary": "Lange mussten GTA-Fans auf den sechsten Teil der Videospiel-Reihe warten - jetzt trägt der Hype Früchte. Nach Angaben von Rockstar Games erzielte das Spiel am ersten Verkaufstag einen Rekordumsatz von rund 3,8 Milliarden Dollar.",
+      "headline": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
+      "summary": "Die Riemannsche Vermutung über Primzahlen gilt als eines der größten Probleme der Mathematik. Nun könnte sie mithilfe der KI von Anthropic gelöst worden sein - fast zeitgleich mit dem Börsengang des US-Unternehmens.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html",
-      "publishedAt": "2026-11-21T09:39:17.000Z"
+      "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
+      "publishedAt": "2026-11-21T17:32:19.000Z"
     },
     {
-      "id": "n_12646496ae",
+      "id": "n_f5750e74b8",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Südafrikas vermeidbare Wasserkrise",
-      "summary": "Marode Leitungen, zu hoher Verbrauch, geringe Investitionen: Die Wasserkrise in Südafrika gilt als weitgehend hausgemacht. Weil sich die Lage verschlimmert hat, reagieren die Behörden mit strengeren Regeln. Von Stephan Ueberbach.",
+      "headline": "Ministerium will Autobahntankstellen vom Spritpreisdeckel ausnehmen",
+      "summary": "Ab Januar soll der Preisdeckel für Benzin und Diesel gelten. Wirtschaftsministerin Reiche plant offenbar, Autobahntankstellen davon ausnehmen. Ihr neuer Gesetzentwurf ist noch in der Abstimmung zwischen den Ministerien.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/wassermangel-suedafrika-100.html",
-      "publishedAt": "2026-11-21T08:27:21.000Z"
+      "url": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html",
+      "publishedAt": "2026-11-21T15:55:59.000Z"
     },
     {
-      "id": "n_a18d37a4e6",
+      "id": "n_a448c332c2",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Liquiditätshilfen für Schweinehalter: \"Nur ein Tropfen auf den heißen Stein\"",
-      "summary": "Schweinehaltung in Deutschland ist ein Verlustgeschäft - Liquiditätshilfen in Höhe von 25 Millionen Euro sollen jetzt den Betrieben helfen. Doch das Notfallprogramm allein wird nicht ausreichen, warnen Landwirte und Opposition. Von T. Lehning.",
+      "headline": "Mexiko nimmt einen der meistgesuchten Drogenbosse fest",
+      "summary": "Die USA fordern von Mexiko schon länger ein hartes Vorgehen gegen Kartelle. Nun ist den Behörden offenbar ein hochrangiger Drogenboss ins Netz gegangen. Der Mann zählte auf der Liste des FBI zu den meistgesuchten Verbrechern.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/schweinezucht-deutschland-exporte-100.html",
-      "publishedAt": "2026-11-21T08:26:38.000Z"
+      "url": "https://www.tagesschau.de/ausland/amerika/mexiko-drogenkartell-chef-festnahme-100.html",
+      "publishedAt": "2026-11-21T15:36:57.000Z"
     },
     {
-      "id": "n_a88e9d41c4",
+      "id": "n_23428b4285",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "\"Palisades Fire\" - Angeklagter im zweiten Anlauf schuldig gesprochen",
-      "summary": "Bei dem Brand im Januar 2025 starben 31 Menschen: Nach dem verheerenden Feuer im Nobelvorort Pacific Palisades von Los Angeles ist der Angeklagte schuldig gesprochen worden. Ihm drohen bis zu 40 Jahre Haft.",
+      "headline": "\"Costa Concordia\"-Kapitän Schettino auf Bewährung aus Haft entlassen",
+      "summary": "Aufgrund eines riskanten Manövers kenterte die \"Costa Concordia\" 2012 vor der Küste Italiens. 32 Menschen starben. Nun ist der ehemalige Kapitän des Schiffes aus dem Gefängnis entlassen worden. Von Anna Giordano.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/amerika/prozess-pacific-palisades-feuer-kalifornien-100.html",
-      "publishedAt": "2026-11-21T08:14:03.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/costa-concordia-kapitaen-aus-haft-entlassen-100.html",
+      "publishedAt": "2026-11-21T14:07:14.000Z"
     },
     {
-      "id": "n_83b8ffad51",
+      "id": "n_d865bd1d5d",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "\"Killerroboter\": UN-Konferenz endet mit Minimalkompromiss",
-      "summary": "\"Killerroboter\" können Ziele auswählen und Angriffe auslösen - ohne menschliche Beteiligung. Die UN sollten dafür Schranken erarbeiten. Das Wann und Wie bleibt aber auch wegen des Widerstands aus Russland und den USA ungeklärt.",
+      "headline": "Italiens Ex-Polizeichef De Gennaro nimmt sich das Leben",
+      "summary": "Gianni De Gennaro bekleidete lange Schlüsselpositionen im italienischen Sicherheitsapparat - sei es im Kampf gegen die Mafia, beim G8-Gipfel in Genua oder für die Geheimdienste. Kurz vor einer Gerichtsanhörung tötete er sich selbst.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/regeln-fuer-killerroboter-100.html",
-      "publishedAt": "2026-11-21T07:57:28.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/italien-polizeichef-de-gennaro-tot-100.html",
+      "publishedAt": "2026-11-21T12:48:02.000Z"
+    },
+    {
+      "id": "n_c12e653c4f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Windows-Update-Vorschau: Gesichts-Unlock im Dunkeln",
+      "summary": "Microsoft hat die Vorschau der kommenden Patchday-Updates veröffentlicht. Windows Hello lernt darin Gesichtserkennung im Dunkeln.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Windows-Update-Vorschau-Gesichts-Unlock-im-Dunkeln-11533459.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-11-21T10:52:00.000Z"
     },
     {
       "id": "n_c71e04fc78",
@@ -167,15 +178,59 @@
       "publishedAt": "2026-11-19T17:11:00.000Z"
     },
     {
-      "id": "n_5484258369",
+      "id": "n_2220dfd5ef",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Cyberangriff auf EU-Kommission: Verdacht auf KI-Tool Artex, tagelange Ausfälle",
-      "summary": "Ein Cyberangriff legte Personalsysteme der EU-Kommission tagelang lahm. Grund ist offenbar der Missbrauch des KI-Tools Artex, vor dem CERT-EU gewarnt hatte.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Cyberangriff-auf-EU-Kommission-Verdacht-auf-KI-Tool-Artex-tagelange-Ausfaelle-11531596.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-11-19T16:27:00.000Z"
+      "headline": "Anzeige: IT-Jobs in Administration, Data Engineering und Security",
+      "summary": "Ob IT-Security im Ministerium, Data Engineering im Rettungsdienst oder Systemadministration in Unternehmen - diese sechs Jobs bieten neue Perspektiven. (Golem Karrierewelt, Unternehmenssoftware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-it-jobs-in-administration-data-engineering-und-security-2611-215439.html",
+      "publishedAt": "2026-11-21T14:00:02.000Z"
+    },
+    {
+      "id": "n_33884ddd9c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: Black Deal bei Blau - iPhone 18 Pro mit 100 GByte Datenvolumen für 1 Euro",
+      "summary": "Auch bei Blau gibt es aktuell Black Deals. Das Apple iPhone 18 Pro wird mit 100 GByte Datenvolumen jetzt für nur 1 Euro Anzahlung angeboten. (Blau.de, Apple)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-black-deal-bei-blau-iphone-18-pro-mit-100-gbyte-datenvolumen-fuer-1-euro-2611-215471.html",
+      "publishedAt": "2026-11-21T12:40:02.000Z"
+    },
+    {
+      "id": "n_2ffcbcacb3",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anthropic: Mathematiker will mit Claude Riemann-Vermutung gelöst haben",
+      "summary": "Levent Alpöge will mit Claude die Riemann-Vermutung bewiesen haben. Die Prüfung des Lean-Codes läuft noch. (Claude, Wissen)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anthropic-mathematiker-will-mit-claude-riemann-vermutung-geloest-haben-2611-215500.html",
+      "publishedAt": "2026-11-21T11:06:02.000Z"
+    },
+    {
+      "id": "n_4319fdbcfa",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Verivox-Studie: Internettarife werden nach Rabatt fast dreimal so teuer",
+      "summary": "Verivox hat 679 Internettarife ausgewertet. Nach dem Einstiegsrabatt steigt die Grundgebühr im Schnitt von 18,67 auf 53,48 Euro. (Tarife, Telekom)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/verivox-studie-internettarife-werden-nach-rabatt-fast-dreimal-so-teuer-2611-215503.html",
+      "publishedAt": "2026-11-21T10:44:01.000Z"
+    },
+    {
+      "id": "n_32a651d609",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "KI-Wettlauf: Trump droht Rechenzentren im Ausland mit enormer Steuer",
+      "summary": "Trump will Konzerne zum Bau in den USA drängen. Der Ausbau stößt bei Wählern allerdings auf Widerstand. (Donald Trump, KI)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/ki-wettlauf-trump-droht-rechenzentren-im-ausland-mit-enormer-steuer-2611-215502.html",
+      "publishedAt": "2026-11-21T10:23:01.000Z"
     },
     {
       "id": "n_bf41f798ae",
@@ -211,59 +266,48 @@
       "publishedAt": "2026-11-21T09:30:02.000Z"
     },
     {
-      "id": "n_09dc27c690",
+      "id": "n_45201d2fd3",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "(g+) Kubernetes-Integrationstests: Wie Entwickler versteckte Kubernetes-Fehler vor dem ...",
-      "summary": "Mocks können Fehler im Zusammenspiel von Anwendung und Datenbank übersehen. Mit kind und Testcontainers lässt sich eine Bestell-API unter realistischen Kubernetes-Bedingungen prüfen. Ein Ratgebertext von Fabian Deitelhoff (Softwareentwicklung, PostgreSQL)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/kubernetes-integrationstests-wie-entwickler-versteckte-kubernetes-fehler-vor-dem-deployment-finden-2611-215227.html",
-      "publishedAt": "2026-11-21T09:00:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T00:10:44.000Z"
     },
     {
-      "id": "n_186b498689",
+      "id": "n_67c31da8ce",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Bestehende Windkraftanlagen: Lasermessung verspricht mehr Strom aus Windkraft",
-      "summary": "Ein neues System soll die Verhältnisse für Windräder günstiger und schneller dokumentieren. Vorhandene Windparks könnten so optimiert werden. (Windkraft, Lidar)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/bestehende-windkraftanlagen-lasermessung-verspricht-mehr-strom-aus-windkraft-2611-215481.html",
-      "publishedAt": "2026-11-21T06:57:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+      "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T00:10:37.000Z"
     },
     {
-      "id": "n_cdeb3792fd",
+      "id": "n_cca80141b2",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Gebrauchte Hardware: KI-Workstation des armen Mannes schlägt Framework Desktop",
-      "summary": "Lokale KI wird immer interessanter, die Hardware aber teurer. Wir haben ein System gebaut, das ab 900 Euro Modelle bis 200 Milliarden Parameter stemmt. Von Johannes Hiltscher (DIY-KI, AMD)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/gebrauchte-hardware-ki-workstation-des-armen-mannes-schlaegt-framework-desktop-2611-215421.html",
-      "publishedAt": "2026-11-21T06:30:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "How a teen gamer and his mother helped rescue a missing girl",
+      "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T00:09:58.000Z"
     },
     {
-      "id": "n_795d0e0a71",
+      "id": "n_48f549e40a",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Tesla Assisted Driving: Tesla darf in Italien schon autonom fahren",
-      "summary": "Italien lässt Teslas Fahrasssistenzsystem als erstes großes EU-Land zu. Damit wächst der Druck auf die EU vor der Abstimmung im Dezember. (Tesla, Elektroauto)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/tesla-assisted-driving-tesla-darf-in-italien-schon-autonom-fahren-2611-215496.html",
-      "publishedAt": "2026-11-20T18:46:01.000Z"
-    },
-    {
-      "id": "n_3e03be4dce",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Abbau: DB-Systel-Beschäftigte protestieren mit Flood the Office für Homeoffice",
-      "summary": "Die Deutsche Bahn will ihre Belegschaft zurück ins Büro holen, doch es fehlen Schreibtische. Bei einer Protestaktion wurde auf den Fluren gearbeitet. (Arbeit, Deutsche Bahn)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/abbau-db-systel-beschaeftigte-protestieren-mit-flood-the-office-fuer-homeoffice-2611-215498.html",
-      "publishedAt": "2026-11-20T18:21:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T23:31:17.000Z"
     },
     {
       "id": "n_040c95d5f0",
@@ -274,84 +318,40 @@
       "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T09:52:11.000Z"
+      "publishedAt": "2026-11-21T22:19:43.000Z"
     },
     {
-      "id": "n_0c6a9c1764",
+      "id": "n_caa368e1c1",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+      "headline": "Lock of former US President George Washington's hair sells for $4,000",
+      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T09:40:55.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T22:01:19.000Z"
     },
     {
-      "id": "n_45201d2fd3",
+      "id": "n_86c4e81769",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "FBI reportedly investigating apparent hack of its criminal database",
-      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "headline": "Russia-bound ship attacked in Gulf of Finland",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T09:34:20.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T19:20:22.000Z"
     },
     {
-      "id": "n_633d3b37de",
+      "id": "n_88af422b08",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+      "headline": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T08:10:25.000Z"
-    },
-    {
-      "id": "n_09f042383a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Trafalgar Square Christmas tree felled in Norway",
-      "summary": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T08:10:03.000Z"
-    },
-    {
-      "id": "n_b4af86b6cf",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Man convicted of starting Palisades fire in Los Angeles",
-      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T04:34:00.000Z"
-    },
-    {
-      "id": "n_b6a86b6c32",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-      "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T01:02:39.000Z"
-    },
-    {
-      "id": "n_fd65dccda2",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "ANC fights to keep control of South Africa's key cities after election setback",
-      "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T00:34:51.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T13:17:38.000Z"
     },
     {
       "id": "n_9a3ad65b71",
@@ -380,7 +380,7 @@
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "headline": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
       "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
@@ -440,6 +440,28 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-20T07:32:19.000Z"
+    },
+    {
+      "id": "n_6bc7da661c",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+      "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+      "publishedAt": "2026-11-21T22:12:41.000Z"
+    },
+    {
+      "id": "n_8e097765d1",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "“Race realism” isn’t realistic—and it isn’t good science",
+      "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+      "publishedAt": "2026-11-21T12:01:13.000Z"
     },
     {
       "id": "n_b05c36fbb6",
@@ -508,26 +530,37 @@
       "publishedAt": "2026-11-20T20:41:17.000Z"
     },
     {
-      "id": "n_1400be933d",
+      "id": "n_234da3fc18",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "NASA’s new Moon plan is taking shape, but some big questions remain",
-      "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
-      "publishedAt": "2026-11-20T20:26:33.000Z"
+      "headline": "The UN fails to agree on rules regulating ‘killer robots’",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitl",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "publishedAt": "2026-11-21T20:03:37.000Z"
     },
     {
-      "id": "n_bd89151204",
+      "id": "n_a9f34b76fc",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
-      "summary": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
-      "publishedAt": "2026-11-20T19:52:59.000Z"
+      "headline": "Can Anthropic afford to put safety first?",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that impor",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "publishedAt": "2026-11-21T15:00:00.000Z"
+    },
+    {
+      "id": "n_e74727ec8a",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. ",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "publishedAt": "2026-11-21T14:00:00.000Z"
     },
     {
       "id": "n_3a0cb236fd",
@@ -583,39 +616,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
       "publishedAt": "2026-11-19T22:31:41.000Z"
-    },
-    {
-      "id": "n_74e2df7789",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "A brief history of Nvidia’s recent stock fluctuations",
-      "summary": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images \"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter ear",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "publishedAt": "2026-11-19T21:59:35.000Z"
-    },
-    {
-      "id": "n_b0341a0ae3",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Meta’s Muse Charm might cost $300",
-      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the ho",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "publishedAt": "2026-11-19T20:22:17.000Z"
-    },
-    {
-      "id": "n_6900f6014b",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Google is putting AI chats right on the homepage",
-      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar b",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "publishedAt": "2026-11-19T20:05:06.000Z"
     },
     {
       "id": "n_01449c61c8",
@@ -706,6 +706,17 @@
       "publishedAt": "2026-11-12T20:16:24.000Z"
     },
     {
+      "id": "n_9dd04be51f",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "The Outages Are Just Getting Started",
+      "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "publishedAt": "2026-11-21T13:00:00.000Z"
+    },
+    {
       "id": "n_a7d20c8027",
       "type": "news",
       "topic": "ai",
@@ -781,17 +792,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
       "publishedAt": "2026-11-19T20:34:17.000Z"
-    },
-    {
-      "id": "n_2a01bbcb10",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-      "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-      "publishedAt": "2026-11-19T17:00:00.000Z"
     },
     {
       "id": "n_80d31a6dee",
@@ -934,7 +934,7 @@
       "type": "video",
       "topic": "video",
       "lang": "en",
-      "headline": "GTA 6, Crime, Prison Gangs, Jewel Heists, Miami, Corrupt Cops & Money | Lex Fridman Podcast #505",
+      "headline": "GTA 6, Crime, Jewel Heists, Mafia, Gangs, Prison, Corrupt Cops & Money | Lex Fridman Podcast #505",
       "summary": "",
       "source": "Lex Fridman",
       "url": "https://www.youtube.com/watch?v=v1X9Fqs5a14",
