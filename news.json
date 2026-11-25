@@ -1,6 +1,39 @@
 {
-  "generatedAt": "2026-11-24T19:45:38.220Z",
+  "generatedAt": "2026-11-25T03:51:01.574Z",
   "items": [
+    {
+      "id": "n_a42b9e82eb",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Brücken-Krieg: Gefahr für Kiew, Probleme für Russlands Logistik",
+      "summary": "Kiew, Saporischschja, Odessa - immer wieder greift Russland ukrainische Brücken an. Im Gegenzug schießt die Ukraine vermehrt zurück - auch auf die Krim-Brücke. Dabei geht es beiden Seiten nicht immer nur um militärische Ziele. Von R. Barth.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-bruecken-krieg-100.html",
+      "publishedAt": "2026-11-25T01:40:52.000Z"
+    },
+    {
+      "id": "n_40622851b9",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "WHO: Lebenserwartung in Kuba erstmals seit Beginn der Aufzeichnungen gesunken",
+      "summary": "Die Lebenserwartung in Kuba ist laut der WHO erstmals in der Geschichte gesunken, die Säuglingssterblichkeit hat sich mehr als verdoppelt. WHO-Chef Tedros macht dafür auch US-Sanktionen verantwortlich - und fordert deren sofortiges Ende.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/kuba-lebenserwartungen-who-100.html",
+      "publishedAt": "2026-11-25T00:06:58.000Z"
+    },
+    {
+      "id": "n_ffe88175ad",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Nvidia-Chef Huang ist zurück, doch wie hoch ist der Preis?",
+      "summary": "Huang ist zurück als Chef von Nvidia. Doch die Krise ist nicht ausgestanden. Der US-Kongress fordert Antworten. Und auch für Trump könnte der Fall Konsequenzen haben. Von A. Herbst.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/huang-folgen-nvidia-rueckkehr-100.html",
+      "publishedAt": "2026-11-24T20:17:10.000Z"
+    },
     {
       "id": "n_556f6a5e20",
       "type": "news",
@@ -55,39 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/afrika/steinmeier-deutsch-afrikanischer-wirtschaftsgipfel-100.html",
       "publishedAt": "2026-11-24T17:21:31.000Z"
-    },
-    {
-      "id": "n_1939c017af",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "35. Todestag von Freddie Mercury: Eine unsterbliche Stimme",
-      "summary": "Queen-Sänger Freddie Mercury ist seit 35 Jahren tot - aber immer noch da. Was macht den Sänger bis heute so erfolgreich? Von Christoph Ohrem.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kultur/freddie-mercury-todestag-100.html",
-      "publishedAt": "2026-11-24T16:52:38.000Z"
-    },
-    {
-      "id": "n_c35cc71394",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Menschenrechtsgerichtshof: Pushbacks in Ausnahmefällen zulässig",
-      "summary": "Setzt ein Drittstaat Migration gezielt als Druckmittel ein, darf der betroffene EU-Staat Migranten an der Grenze zurückweisen. Das hat jetzt der EGMR geurteilt. Rechte besonders schutzbedürftiger Menschen müssen aber gewahrt bleiben. Von A. Stephany.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/egmr-pushbacks-belarus-100.html",
-      "publishedAt": "2026-11-24T16:24:25.000Z"
-    },
-    {
-      "id": "n_2aa2cb820b",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Bilanz des Spendenrats: Deutsche spenden wieder mehr",
-      "summary": "Die Deutschen spenden wieder mehr, doch die Zahl der Spender geht zurück. Das geht aus der Bilanz des Spendenrats hervor. Besonders eine Altersgruppe gibt auffällig viel - und eine andere auffällig wenig.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/spendenrat-bilanz-100.html",
-      "publishedAt": "2026-11-24T15:42:18.000Z"
     },
     {
       "id": "n_34e0b8530e",
@@ -266,6 +266,28 @@
       "publishedAt": "2026-11-24T16:55:02.000Z"
     },
     {
+      "id": "n_ca6bd074c9",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US attorney general dodges questions about Nvidia investigation",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T03:44:07.000Z"
+    },
+    {
+      "id": "n_ad056cd737",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T02:59:27.000Z"
+    },
+    {
       "id": "n_6c20825f61",
       "type": "news",
       "topic": "general",
@@ -286,17 +308,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-24T19:10:31.000Z"
-    },
-    {
-      "id": "n_ca6bd074c9",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "US attorney general dodges questions about Nvidia investigation",
-      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T18:55:59.000Z"
     },
     {
       "id": "n_1f9b448a86",
@@ -343,15 +354,26 @@
       "publishedAt": "2026-11-24T15:35:53.000Z"
     },
     {
-      "id": "n_1d9e85a585",
+      "id": "n_d55d4faa02",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Land mine casualties soar in Syria, two years after war",
-      "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+      "headline": "Why tiny cars are taking off across Europe",
+      "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T15:17:28.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T00:34:05.000Z"
+    },
+    {
+      "id": "n_1c46ac3bcd",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Tech Life",
+      "summary": "Experts from around the world plot the progress of AI development every five years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyx?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T21:00:00.000Z"
     },
     {
       "id": "n_60789fe36e",
@@ -398,37 +420,48 @@
       "publishedAt": "2026-11-23T21:23:42.000Z"
     },
     {
-      "id": "n_f2571879ac",
+      "id": "n_a48327b0b0",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "How important are Nvidia and Jensen Huang to the US economy?",
-      "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T16:12:35.000Z"
+      "headline": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+      "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+      "publishedAt": "2026-11-24T22:50:11.000Z"
     },
     {
-      "id": "n_b04f871e66",
+      "id": "n_5ce3ed5a9f",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "The rise and fall and rise again of Jensen Huang",
-      "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T15:49:52.000Z"
+      "headline": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+      "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+      "publishedAt": "2026-11-24T22:36:28.000Z"
     },
     {
-      "id": "n_e7c549582e",
+      "id": "n_30d256445c",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
-      "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T14:08:50.000Z"
+      "headline": "What's going on with the Riemann hypothesis?",
+      "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+      "publishedAt": "2026-11-24T20:34:53.000Z"
+    },
+    {
+      "id": "n_4a888669ef",
+      "type": "news",
+      "topic": "tech",
+      "lang": "en",
+      "headline": "Back-to-back measles deaths is our new reality; US tally now at 14",
+      "summary": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
+      "publishedAt": "2026-11-24T20:00:18.000Z"
     },
     {
       "id": "n_11c9e9b6ee",
@@ -475,48 +508,15 @@
       "publishedAt": "2026-11-24T18:03:58.000Z"
     },
     {
-      "id": "n_34b5362849",
+      "id": "n_32af257829",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-      "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
-      "publishedAt": "2026-11-24T17:34:34.000Z"
-    },
-    {
-      "id": "n_52ebfa6a66",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Porsche 718 Boxster prototype drive: This electric roadster is real",
-      "summary": "Technical details are still limited, but we already know it's fun to drive.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/",
-      "publishedAt": "2026-11-24T16:58:20.000Z"
-    },
-    {
-      "id": "n_24f6f3af5f",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "No more heated seat subscriptions for cars in New York from 2027",
-      "summary": "Services with “ongoing costs” are a pretty big loophole in the new law.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/",
-      "publishedAt": "2026-11-24T16:20:37.000Z"
-    },
-    {
-      "id": "n_4059bf6cbe",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
-      "summary": "\"Without this funding, activities would be delayed.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
-      "publishedAt": "2026-11-24T16:12:46.000Z"
+      "headline": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Time",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "publishedAt": "2026-11-24T20:02:03.000Z"
     },
     {
       "id": "n_3e9a37054b",
@@ -594,17 +594,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
       "publishedAt": "2026-11-23T22:09:26.000Z"
-    },
-    {
-      "id": "n_0cd17937bd",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "AI data centers throw another wrench into chaotic UN climate talks",
-      "summary": "People protest outside the plenary ahead of the closing plenary session on the final day of the COP31 UNFCCC climate conference on November 20th in Antalya, Turkey. | Photo: Getty Images The clean energy revolution hinges on electrifying the entire global economy just as power-hu",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-      "publishedAt": "2026-11-23T21:09:37.000Z"
     },
     {
       "id": "n_22d7270e7a",
@@ -695,12 +684,23 @@
       "publishedAt": "2026-11-16T16:04:28.000Z"
     },
     {
+      "id": "n_c380f1e958",
+      "type": "news",
+      "topic": "ai",
+      "lang": "en",
+      "headline": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
+      "summary": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
+      "publishedAt": "2026-11-24T23:39:04.000Z"
+    },
+    {
       "id": "n_9336a8c017",
       "type": "news",
       "topic": "ai",
       "lang": "en",
       "headline": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
-      "summary": "The reinstated Nvidia CEO acknowledged violating the company’s code of conduct and said he had made some “very serious personal mistakes.”",
+      "summary": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
       "source": "Wired",
       "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
       "publishedAt": "2026-11-24T17:44:53.000Z"
@@ -770,17 +770,6 @@
       "source": "Wired",
       "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
       "publishedAt": "2026-11-23T13:11:00.000Z"
-    },
-    {
-      "id": "n_92effb5a33",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
-      "summary": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
-      "source": "Wired",
-      "url": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
-      "publishedAt": "2026-11-23T12:00:00.000Z"
     },
     {
       "id": "n_16565a3f5d",
@@ -923,7 +912,7 @@
       "type": "video",
       "topic": "video",
       "lang": "en",
-      "headline": "GTA 6, Crime, Prison Gangs, Jewel Heists, Miami, Corrupt Cops & Money | Lex Fridman Podcast #505",
+      "headline": "GTA 6, Crime, Jewel Heists, Mafia, Gangs, Prison, Corrupt Cops & Money | Lex Fridman Podcast #505",
       "summary": "",
       "source": "Lex Fridman",
       "url": "https://www.youtube.com/watch?v=v1X9Fqs5a14",
