@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-11-26T20:38:25.491Z",
+  "generatedAt": "2026-11-27T03:20:29.620Z",
   "items": [
+    {
+      "id": "n_8239362720",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bosnien und Herzogowina: Dodik hebt Sohn auf den Thron",
+      "summary": "Dodik hatte über 20 Jahre lang die Macht in der serbisch-dominierten Republika Srpska. 2025 musste er nach internationalem Druck zurücktreten, wegen seiner Separatismuspolitik. Nun macht er seinen Sohn zum Regierungschef. Von O. Soos.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/dodik-bosnien-sohn-100.html",
+      "publishedAt": "2026-11-27T01:29:29.000Z"
+    },
+    {
+      "id": "n_40c8c38e56",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Merz verkündet vorzeitiges Ende des EU-Sondergipfels",
+      "summary": "Die Vorstellungen unter den 27 Staats- und Regierungschefs lagen weit auseinander. So weit, dass sie laut Merz den zweiten angesetzten Tag des Gipfels ausfallen lassen. Es geht um viele Milliarden für den EU-Haushalt.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html",
+      "publishedAt": "2026-11-27T00:02:22.000Z"
+    },
+    {
+      "id": "n_234b7f3db3",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Wintereinbruch: Schneefall behindert Autoverkehr in Bayern",
+      "summary": "In Oberbayern haben Schneefälle für zahlreiche Verkehrsunfälle und Sperrungen von Autobahnen gesorgt. Stellenweise fielen bis zu zehn Zentimeter Neuschnee. Laut Wetterdienst bleiben auch die kommenden Tage eher frostig.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/wetter/wetterthema/schnee-bayern-autobahnsperrung-100.html",
+      "publishedAt": "2026-11-26T21:54:39.000Z"
+    },
+    {
+      "id": "n_bad694a1e7",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Merz fordert weitere Kürzungen der EU-Finanzen",
+      "summary": "Um mehr als 200 Milliarden Euro ist der EU-Haushaltsentwurf bereits gekürzt worden. Dem Kanzler reicht das aber noch nicht. Außerdem verknüpft Merz die schwierigen Verhandlungen weiterhin mit der Unterstützung für die Ukraine.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-ukraine-100.html",
+      "publishedAt": "2026-11-26T21:37:41.000Z"
+    },
     {
       "id": "n_482cbecf63",
       "type": "news",
@@ -44,50 +88,6 @@
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/ausland/afrika/senegal-uebung-bundeswehr-100.html",
       "publishedAt": "2026-11-26T17:59:05.000Z"
-    },
-    {
-      "id": "n_4ff9f62f05",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Spanier Hernández de Cos soll Nachfolger von EZB-Chefin Lagarde werden",
-      "summary": "EZB-Chefin Lagarde hatte angekündigt, ihren Posten im Februar aufzugeben. Nun ist die Nachfolge geklärt: Die EU-Spitzen einigten sich auf den Spanier Hernández de Cos. Ein Deutscher ist als Chefvolkswirt vorgesehen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html",
-      "publishedAt": "2026-11-26T17:28:08.000Z"
-    },
-    {
-      "id": "n_52a1b8dfe1",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Marktbericht: DAX macht einen Sprung nach vorn",
-      "summary": "Mit Rückenwind der Technologie-Aktien springt der DAX am Donnerstag wieder über die Marke von 25.000 Punkten. Doch das Grundvertrauen, ob und wie weit die Erholung trägt, bleibt angeschlagen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-174.html",
-      "publishedAt": "2026-11-26T17:23:20.000Z"
-    },
-    {
-      "id": "n_3f114469c1",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Einigung im Tarifstreit der Metall- und Elektroindustrie",
-      "summary": "Die Beschäftigten in der Metall- und Elektroindustrie sollen in zwei Stufen insgesamt 4,3 Prozent mehr Lohn erhalten. Darauf haben sich Arbeitgeber und IG Metall geeinigt. Der Pilotabschluss ermöglicht aber auch Ausnahmen.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/tarifabschluss-metall-elektroindustrie-100.html",
-      "publishedAt": "2026-11-26T16:43:33.000Z"
-    },
-    {
-      "id": "n_ea2682e955",
-      "type": "news",
-      "topic": "general",
-      "lang": "de",
-      "headline": "Rentenreform: Vom Gesamtkunstwerk zum Trümmerhaufen",
-      "summary": "Die \"Respekt-Rente\" ist der nächste Versuch der Regierung, die Rente zu reformieren. Auch sie wird wohl zerredet, weil die Koalitionäre lieber übereinander statt miteinander sprechen. Das macht auf Dauer ziemlich schlechte Laune, meint Georg Schwarte.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kommentar/respekt-rente-kommentar-schwarte-100.html",
-      "publishedAt": "2026-11-26T16:29:47.000Z"
     },
     {
       "id": "n_2774cf247a",
@@ -266,48 +266,81 @@
       "publishedAt": "2026-11-26T16:19:02.000Z"
     },
     {
-      "id": "n_a5a563c2a3",
+      "id": "n_585b336a14",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+      "headline": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-26T20:35:39.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-27T02:55:31.000Z"
     },
     {
-      "id": "n_e0c25974c0",
+      "id": "n_94d2e60bc9",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Watch: Roofs torn off and streets under water as severe weather hits US",
-      "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+      "headline": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-26T19:26:16.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-27T00:52:11.000Z"
     },
     {
-      "id": "n_184ed2e926",
+      "id": "n_ca498d96b5",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Nine injured, three critically, after Bangkok oil refinery explosion",
-      "summary": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
+      "headline": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+      "summary": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-26T16:21:19.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-27T00:48:11.000Z"
     },
     {
-      "id": "n_b69c72f7a3",
+      "id": "n_39bf977e21",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "New UK-EU treaty has 10-year termination clause",
-      "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+      "headline": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+      "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-26T15:23:17.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-27T00:47:43.000Z"
+    },
+    {
+      "id": "n_17958f2a10",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+      "summary": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-26T23:03:16.000Z"
+    },
+    {
+      "id": "n_15078c8b6a",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-26T22:49:27.000Z"
+    },
+    {
+      "id": "n_2ca7f9718e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+      "summary": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-26T22:06:20.000Z"
     },
     {
       "id": "n_f12611ab34",
@@ -318,40 +351,29 @@
       "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-26T15:17:18.000Z"
+      "publishedAt": "2026-11-26T22:01:22.000Z"
     },
     {
-      "id": "n_69ecaeceb0",
+      "id": "n_f9fb9773b0",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-      "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
+      "headline": "Why is there a shortage of 'wizard' elevator mechanics?",
+      "summary": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-26T14:44:26.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-27T00:02:19.000Z"
     },
     {
-      "id": "n_e989c48d26",
+      "id": "n_68d12cc1e2",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Pregnant US inmate escapes in prison vehicle after medical appointment",
-      "summary": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
+      "headline": "Asia made a big AI bet on Nvidia. What happens now?",
+      "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-26T14:35:22.000Z"
-    },
-    {
-      "id": "n_10aa483313",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
-      "summary": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-26T12:33:23.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-26T23:08:12.000Z"
     },
     {
       "id": "n_27217ba350",
@@ -418,28 +440,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-25T00:34:05.000Z"
-    },
-    {
-      "id": "n_1c46ac3bcd",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Tech Life",
-      "summary": "Experts from around the world plot the progress of AI development every five years.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyx?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T21:00:00.000Z"
-    },
-    {
-      "id": "n_60789fe36e",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Faisal Islam: Fears over the AI boom haven't gone away",
-      "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T18:21:43.000Z"
     },
     {
       "id": "n_242c081646",
