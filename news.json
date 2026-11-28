@@ -1,104 +1,93 @@
 {
-  "generatedAt": "2026-11-28T00:46:06.655Z",
+  "generatedAt": "2026-11-28T10:59:59.359Z",
   "items": [
     {
-      "id": "n_4f1d7bf044",
+      "id": "n_d3640bf62d",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Entwurf für Spritpreisdeckel liegt vor - Kabinett beschließt am Mittwoch",
-      "summary": "Ein werktags berechneter Höchstpreis, Bußgeld bei Nichteinhaltung und Ausnahmen an Autobahnen: Der Spritpreisdeckel soll ab Januar gelten. Ein Entwurf ist nun in der Abstimmung. Das Kabinett könnte darüber am Mittwoch entscheiden.",
+      "headline": "Mehrere Opfer bei Explosion nahe einer Schule in Afghanistan",
+      "summary": "Nahe einer Schule im Osten Afghanistans hat es eine Explosion gegeben. Durch die Detonation sind offenbar mehrere Schüler getötet worden. Die Behörden sprechen von Fahrlässigkeit.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
-      "publishedAt": "2026-11-27T23:35:35.000Z"
+      "url": "https://www.tagesschau.de/ausland/asien/explosion-an-schule-in-afghanistan-100.html",
+      "publishedAt": "2026-11-28T10:52:36.000Z"
     },
     {
-      "id": "n_abd2e6a660",
+      "id": "n_84eeaed799",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Schweitzer zu Plänen für Rentenreform: \"Wir können zusammenkommen\"",
-      "summary": "In den tagesthemen hat Bundesarbeitsminister Schweitzer seine Rentenpläne als Grundlage für einen Konsens bezeichnet. Man stabilisiere damit die Beiträge und tue etwas \"für die Fleißigen, die lange gearbeitet haben\".",
+      "headline": "Kritik aus der Union an Rentenplänen von Arbeitsminister Schweitzer",
+      "summary": "Der Vorschlag des Arbeitsministers zur Reform der Rente liegt auf dem Tisch - und der Gegenwind aus der Union ist recht rau. Dem Koalitionspartner stößt auf, dass die \"Rente mit 63\" im Kern erhalten bleibt. Doch nicht nur das.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/schweitzer-interview-100.html",
-      "publishedAt": "2026-11-27T22:10:29.000Z"
+      "url": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html",
+      "publishedAt": "2026-11-28T10:11:40.000Z"
     },
     {
-      "id": "n_04fc7cf2e7",
+      "id": "n_24e8b29dd0",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Reaktionen auf Rentenpläne: \"Frührentner sollen also Haushaltslöcher stopfen\"",
-      "summary": "Der Rentenentwurf von Arbeitsminister Schweitzer stößt auf ein geteiltes Echo. DGB-Chefin Fahimi kritisierte steigende Abschläge für Frührentner, lobte aber den Erhalt der \"Rente mit 63\". Aus der Union kommt deutlicher Widerstand.",
+      "headline": "Mitarbeiter von Ärzte ohne Grenzen im Gazastreifen getötet",
+      "summary": "Israel wirft der Hamas im Gazastreifen immer wieder vor, sich als humanitäre Helfer auszugeben. Nun hat das Militär bei einem Angriff zwei Wachleute von Ärzte ohne Grenzen getötet. Die Hilfsorganisation zeigt sich empört.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-100.html",
-      "publishedAt": "2026-11-27T19:45:49.000Z"
+      "url": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-hamas-aerzte-ohne-grenzen-100.html",
+      "publishedAt": "2026-11-28T09:58:16.000Z"
     },
     {
-      "id": "n_a990e4111c",
+      "id": "n_e7652f2eb7",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Marktbericht: Schnäppchenjagd an der Börse",
-      "summary": "Dank starker US-Börsen am Black Friday kann auch der DAX seine Erholung fortsetzen. Nach einer tiefroten Vorwoche geht er am Ende versöhnlich ins Wochenende. Vor allem Technologie-Werte steigen.",
+      "headline": "Volksabstimmung: Darf die Schweiz bald einfacher Waffen verkaufen?",
+      "summary": "Das Schweizer Recht erlaubt den Export von Rüstungsgütern nur unter engen Vorgaben. Das schwäche die Sicherheit des Landes, meint die Regierung. Sie will das ändern - und lässt die Schweizer am Sonntag darüber abstimmen. Von S. Biegger.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html",
-      "publishedAt": "2026-11-27T17:30:38.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/schweiz-abstimmung-kriegsmaterialgesetz-100.html",
+      "publishedAt": "2026-11-28T09:45:23.000Z"
     },
     {
-      "id": "n_15272b56e5",
+      "id": "n_ea04e244a8",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Das plant Arbeitsminister Schweitzer für die Rente",
-      "summary": "Seit Monaten ringt die Koalition um einen Kompromiss bei der Rente. Arbeitsminister Schweitzer hat nun einen ersten Entwurf vorgelegt. Einer der Punkte: Die \"Rente mit 63\" soll im Kern bestehen bleiben. Von Jan-Peter Bartels und Tim Aßmann.",
+      "headline": "Flugverkehr am Airport Köln/Bonn nach Drohnensichtung zeitweise gestoppt",
+      "summary": "Am Airport Köln/Bonn ist am späten Abend der Flugverkehr vorübergehend eingestellt worden. Anlass war eine gesichtete Drohne. Warum sie dort unterwegs war, ist unklar. Mittlerweile können die Flugzeuge wieder starten und landen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-entwurf-arbeitsministerium-100.html",
-      "publishedAt": "2026-11-27T16:30:51.000Z"
+      "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/drohnensichtung-flugverkehr-am-airport-koelnbonn-gestoppt-100.html",
+      "publishedAt": "2026-11-28T08:21:27.000Z"
     },
     {
-      "id": "n_fd82a1cdb1",
+      "id": "n_7364c5edc2",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Kommentar zu Schweitzers Rentenplänen: Die politische Irrfahrt geht weiter",
-      "summary": "Die \"Rente mit 63\" ist eine Umverteilung von unten nach oben, meint Dagmar Pepping. Arbeitsminister Schweitzer hätte ihr ein Ende setzen müssen. Stattdessen geht die Irrfahrt weiter - und der Streit in der Koalition wohl ebenso.",
+      "headline": "Nach niedrigen Pegelständen im Sommer: Umweltminister will Rhein umbauen",
+      "summary": "Niedrige Pegelstände an deutschen Flüssen führten im Sommer zu erheblichen Wirtschaftsschäden. Umweltminister Schneider fordert nun massive Investitionen in die Wasserinfrastruktur. Er will dem Rhein mehr Platz geben.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kommentar/rentenplaene-schweitzer-100.html",
-      "publishedAt": "2026-11-27T16:26:55.000Z"
+      "url": "https://www.tagesschau.de/inland/umweltminister-schneider-rhein-umbau-100.html",
+      "publishedAt": "2026-11-28T07:16:29.000Z"
     },
     {
-      "id": "n_66d6deda72",
+      "id": "n_9f4538ba8c",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Beschlüsse im Bundestag - Stromsteuer sinkt, Zuckersteuer kommt",
-      "summary": "Der Bundestag hat die Senkung der Stromsteuer für ein Jahr und eine Zuckersteuer bei Getränken beschlossen. Außerdem steigt die Abgabe auf hochprozentigen Alkohol. Auch Alkopops könnten teurer werden.",
+      "headline": "Treibstoffkrise in Malawi: Kaum Geld - und dann der Iran-Krieg",
+      "summary": "Malawi leidet unter einer extremen Treibstoffkrise. Die fragile Wirtschaft hängt vom Tabakexport ab - zu schwachen Deviseneinnahmen kommt die Lage an der Straße von Hormus hinzu. Die Krise wirkt sich auf alle Lebensbereiche aus. Von C. Hauck.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/innenpolitik/beschluss-zuckersteuer-stromsteuer-100.html",
-      "publishedAt": "2026-11-27T16:09:18.000Z"
+      "url": "https://www.tagesschau.de/ausland/afrika/malawi-treibstoffkrise-100.html",
+      "publishedAt": "2026-11-28T03:34:41.000Z"
     },
     {
-      "id": "n_1e55df9a67",
+      "id": "n_4a63c7589e",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Helge Schneider sagt Tschüss - vielleicht",
-      "summary": "Helge Schneider verbindet avancierten Jazz mit anarchischem Humor. 2027 geht der selbsternannte Klimperclown auf Abschiedstournee. Fragt sich nur: Meint er das ernst? Von Christoph Ohrem.",
+      "headline": "US-Militär beschießt Frachter im Golf von Oman",
+      "summary": "Im Golf von Oman hat das US-Militär nach eigenen Angaben ein Handelsschiff beschossen. Die Besatzung habe versucht, die US-Blockade iranischer Häfen zu durchbrechen. Das Schiff sei manövrierunfähig, die Crew unverletzt.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/kultur/helge-schneider-abschiedstournee-100.html",
-      "publishedAt": "2026-11-27T15:23:02.000Z"
-    },
-    {
-      "id": "n_4d350c71f2",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "c't 3003 baut Fernseher mit KI-Agent um: Tizen wird zu „Apple TV“",
-      "summary": "Schnell und einfach: Wir haben mit einem KI-Agenten die komplette Bedienoberfläche eines Samsung-TVs umgebaut – und Werbung und Tracker entfernt.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/c-t-3003-baut-Fernseher-mit-KI-Agent-um-Tizen-wird-zu-Apple-TV-11541121.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-11-27T18:02:00.000Z"
+      "url": "https://www.tagesschau.de/ausland/asien/iran-usa-frachter-beschuss-golf-oman-100.html",
+      "publishedAt": "2026-11-28T03:27:38.000Z"
     },
     {
       "id": "n_44e25fde27",
@@ -178,180 +167,224 @@
       "publishedAt": "2026-11-26T09:12:00.000Z"
     },
     {
-      "id": "n_be640164d6",
+      "id": "n_5d878c7691",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: 20 Prozent Rabatt auf Vibe-Coding-Workshop",
-      "summary": "Eine eigene App mit ChatGPT bauen und testen, ganz ohne Programmierkenntnisse. Der Vibe-Coding-Workshop kostet in der Black Week 20 Prozent weniger. (Golem Karrierewelt, Programmiersprachen)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-20-prozent-rabatt-auf-vibe-coding-workshop-2611-215772.html",
-      "publishedAt": "2026-11-27T17:45:01.000Z"
+      "headline": "Windows Server 2025: Ungeplantes Update gegen Absturz mit Fehlercode 0x139",
+      "summary": "Windows Server 2025 mit Hotpatches vom November-Patchday stürzen unter Umständen mit Stop-Fehler 0x139 ab. Ein Update behebt das.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Ausserplanmaessiges-Update-fuer-Windows-Server-2025-behebt-Absturzfehler-11538601.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-11-26T08:27:00.000Z"
     },
     {
-      "id": "n_e05d296e46",
+      "id": "n_0bb27ffcb7",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Bestseller-Luftpumpe mit Akku zum Black Friday nur rund 22 Euro bei Amazon",
-      "summary": "Die Akku-Luftpumpe ist Bestseller bei Amazon und jetzt im Angebot verfügbar. Sie bietet Reifendrucksensor, 4.000-mAh und LED-Anzeige. (Technik/Hardware)",
+      "headline": "E-Barometer: VWs Anteil beim E-Auto-Umstieg mehr als halbiert",
+      "summary": "Tesla führt jetzt das HUK-Ranking an. Auch Skoda und BMW verlieren Anteile, während Opel zulegt. (Elektroauto, Tesla)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-bestseller-luftpumpe-mit-akku-zum-black-friday-nur-rund-22-euro-bei-amazon-2611-215767.html",
-      "publishedAt": "2026-11-27T17:30:01.000Z"
+      "url": "https://www.golem.de/news/e-barometer-vws-anteil-beim-e-auto-umstieg-mehr-als-halbiert-2611-215777.html",
+      "publishedAt": "2026-11-28T10:55:01.000Z"
     },
     {
-      "id": "n_9a5abbd97d",
+      "id": "n_db85c625ed",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Mobilfunkstandard: China startet bereits in acht Provinzen 6G-Pilotprogramm",
-      "summary": "Während in Europa und den USA noch über die künftige Netzarchitektur gestritten wird, bringt China 6G in die praktische Erprobung. (6G, Mobilfunk)",
+      "headline": "Biodrohnen: Diese Tauben fotografieren mit Elektroden im Gehirn",
+      "summary": "Eine russische Firma lässt Tauben mit Kameras Luftbilder aufnehmen. Wohin die Vögel fliegen, soll ein Implantat in ihrem Gehirn steuern. (Innovation & Forschung, Russland)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/mobilfunkstandard-china-startet-bereits-in-acht-provinzen-6g-pilotprogramm-2611-215770.html",
-      "publishedAt": "2026-11-27T17:09:02.000Z"
+      "url": "https://www.golem.de/news/biodrohnen-diese-tauben-fotografieren-mit-elektroden-im-gehirn-2611-215778.html",
+      "publishedAt": "2026-11-28T10:28:02.000Z"
     },
     {
-      "id": "n_b6ef364f3d",
+      "id": "n_0693075a4b",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "(g+) Investment-Risiken: Das KI-Dilemma der Fondsmanager",
-      "summary": "Die versteckten Abhängigkeiten von KI sollten selbst in breit gestreuten Portfolios nicht unterschätzt werden, warnt die Financial Times in meinem Meinungsbeitrag. Von The Editorial Board (Wirtschaft, Börse)",
+      "headline": "Verbraucherpreise: Festplatten kosten 40,8 Prozent mehr als vor einem Jahr",
+      "summary": "PC-Hardware ist teuer geworden, das spüren viele. Nun zeigen amtliche Zahlen, wie heftig der Anstieg tatsächlich ausfällt. (Statistisches Bundesamt, Speichermedien)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/investment-risiken-das-ki-dilemma-der-fondsmanager-2611-215768.html",
-      "publishedAt": "2026-11-27T17:00:02.000Z"
+      "url": "https://www.golem.de/news/verbraucherpreise-festplatten-kosten-40-8-prozent-mehr-als-vor-einem-jahr-2611-215776.html",
+      "publishedAt": "2026-11-28T10:06:02.000Z"
     },
     {
-      "id": "n_36b2cbcbfd",
+      "id": "n_d30397c748",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Heute ist Black Friday - das sind die besten 20 Deals",
-      "summary": "Die Black Friday Woche läuft seit über einer Woche. Heute erreicht die Schnäppchen-Aktion mit dem Black Friday ihren vorläufigen Höhepunkt. (Black Friday, Amazon)",
+      "headline": "Erneuerbare Energie: Finnland hat Zeiten mit negativen Strompreisen minimiert",
+      "summary": "Negative Strom-Preise ergeben sich nicht nur aus Produktionsüberschuss, sie deuten strukturelle Probleme an. Finnland zeigt, wie das zu lösen ist. (Energiewende, Solarenergie)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-heute-ist-black-friday-das-sind-die-besten-20-deals-2611-215769.html",
-      "publishedAt": "2026-11-27T15:58:02.000Z"
+      "url": "https://www.golem.de/news/erneuerbare-energie-finnland-hat-zeiten-mit-negativen-strompreisen-minimiert-2611-215761.html",
+      "publishedAt": "2026-11-28T09:45:02.000Z"
     },
     {
-      "id": "n_bf356b420d",
+      "id": "n_f925580c46",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "AI-RAN-Konkurrenz: Huaweis Oscar setzt auf Spezial-Chips statt auf Nvidia-GPUs",
-      "summary": "Während Nvidia und die AI-RAN Alliance das Mobilfunk-Zugangsnetz auf universelle GPU-Server verlagern wollen, geht Huawei den entgegengesetzten Weg. (Huawei, Nvidia)",
+      "headline": "Anzeige: Jetzt Amazon Essentials entdecken und 2.000 Euro mitnehmen",
+      "summary": "Beim Glücksrad-Gewinnspiel zu den Everyday Essentials übernimmt Amazon für zehn Glückliche die Alltagseinkäufe im Dezember. (Amazon, Technik/Hardware)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/ai-ran-konkurrenz-huawei-oscar-setzt-auf-spezial-chips-statt-auf-nvidia-gpus-2611-215764.html",
-      "publishedAt": "2026-11-27T15:23:01.000Z"
+      "url": "https://www.golem.de/news/anzeige-jetzt-amazon-essentials-entdecken-und-2-000-euro-mitnehmen-2611-215739.html",
+      "publishedAt": "2026-11-28T09:40:02.000Z"
     },
     {
-      "id": "n_b648e2d7e5",
+      "id": "n_01f553a3c4",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "72 Millionen Menschen: Elon Musk will jedem Kind in den USA SpaceX-Aktien schenken",
-      "summary": "Die Aktien sollen teils von SpaceX und teils aus Musks eigenem Portfolio kommen. (Elon Musk, Wirtschaft)",
+      "headline": "(g+) KI-gestützte Softwareentwicklung: Wenn das Gedächtnis von Coding-Agenten zum Problem wird",
+      "summary": "Coding-Agenten können auf frühere Projektentscheidungen zurückgreifen. Doch nicht alle sind noch gültig. Wir zeigen, wie Codex mit widersprüchlichen Vorgaben umgeht. Ein Praxistest von Fabian Deitelhoff (Softwareentwicklung, KI)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/72-millionen-menschen-elon-musk-will-jedem-kind-in-den-usa-spacex-aktien-schenken-2611-215759.html",
-      "publishedAt": "2026-11-27T15:09:01.000Z"
+      "url": "https://www.golem.de/news/ki-gestuetzte-softwareentwicklung-wenn-das-gedaechtnis-von-coding-agenten-zum-problem-wird-2611-215745.html",
+      "publishedAt": "2026-11-28T09:00:01.000Z"
     },
     {
-      "id": "n_08925ec0b8",
+      "id": "n_0cb9d74bca",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Anzeige: Schwenkbare Überwachungskamera am Black Friday für unter 20 Euro",
-      "summary": "Eine schwenkbare Überwachungskamera für den Innenbereich mit FHD, Nachtsicht und Alexa gibt es am Black Friday zum Sparpreis bei Amazon. (Videoüberwachung, Black Friday)",
+      "headline": "Defense Radar: Wie Deutschland seine Flugabwehr neu aufstellt",
+      "summary": "IRIS-T-SLM ist bereits im Ukrainekrieg im Einsatz. Welche Rolle das Flugabwehrsystem künftig bei der Bundeswehr spielt, erklären wir in unserem Defense Radar auf Youtube. (Defense Radar, Politik)",
       "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-schwenkbare-ueberwachungskamera-am-black-friday-fuer-unter-20-euro-2611-215762.html",
-      "publishedAt": "2026-11-27T15:08:01.000Z"
+      "url": "https://www.golem.de/news/defense-radar-wie-deutschland-seine-luftabwehr-neu-aufstellt-2611-215765.html",
+      "publishedAt": "2026-11-28T08:35:02.000Z"
     },
     {
-      "id": "n_8d6cdbff6f",
+      "id": "n_9ae87a4f2f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Anzeige: 50 Prozent Rabatt auf alle E-Learning-Kurse",
+      "summary": "Netzwerkfehler finden, Linux im Terminal bedienen oder Daten auswerten. In der Black Week gibt es 50 Prozent Rabatt auf alle E-Learning-Kurse der Golem Karrierewelt. (Golem Karrierewelt, Python)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-50-prozent-rabatt-auf-alle-e-learning-kurse-2611-215773.html",
+      "publishedAt": "2026-11-28T07:30:02.000Z"
+    },
+    {
+      "id": "n_8310d66685",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
-      "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+      "headline": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "summary": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-28T00:05:17.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T10:34:58.000Z"
     },
     {
-      "id": "n_60b47dd99c",
+      "id": "n_a7161e8354",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
-      "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
+      "headline": "Seven students killed and nearly 100 injured in explosion in Afghanistan, official says",
+      "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T23:02:35.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T10:14:37.000Z"
+    },
+    {
+      "id": "n_21263e86da",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Australian wrestler Bronson Reed dies aged 38, WWE says",
+      "summary": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T07:31:14.000Z"
+    },
+    {
+      "id": "n_ecb5df903f",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Eight killed in Peruvian military helicopter crash",
+      "summary": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T04:19:16.000Z"
+    },
+    {
+      "id": "n_6815b669d4",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T04:13:45.000Z"
+    },
+    {
+      "id": "n_dd0b7a8a7e",
+      "type": "news",
+      "topic": "general",
+      "lang": "en",
+      "headline": "Nigeria's acting legend who was loved across Africa and beyond",
+      "summary": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T01:20:35.000Z"
     },
     {
       "id": "n_013919c687",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
-      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
+      "headline": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T22:03:46.000Z"
+      "publishedAt": "2026-11-28T00:56:55.000Z"
     },
     {
-      "id": "n_4571de9aa2",
+      "id": "n_3941eb83ee",
       "type": "news",
       "topic": "general",
       "lang": "en",
-      "headline": "Spanish PM and rivals rally supporters in final pitch for votes",
-      "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "headline": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+      "summary": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T21:55:53.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T00:50:11.000Z"
     },
     {
-      "id": "n_6b38497d46",
+      "id": "n_12e93693f2",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
-      "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
+      "headline": "Pensions and benefits services still down after 'cyber incident'",
+      "summary": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T20:34:45.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T09:10:32.000Z"
     },
     {
-      "id": "n_4d345bd13c",
+      "id": "n_ecd790245e",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-      "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+      "headline": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+      "summary": "With an official PC version potentially still months away, fans are getting impatient.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T20:06:31.000Z"
+      "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T01:30:50.000Z"
     },
     {
-      "id": "n_5e6bff0510",
+      "id": "n_dcad73dbe0",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "en",
-      "headline": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-      "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+      "headline": "Tech Now",
+      "summary": "Ammie Sekhon looks at robotics that could one day help spacecraft act independently.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T18:42:50.000Z"
-    },
-    {
-      "id": "n_15078c8b6a",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-      "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-27T18:00:40.000Z"
+      "url": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T01:00:00.000Z"
     },
     {
       "id": "n_f9fb9773b0",
@@ -407,39 +440,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-25T10:11:34.000Z"
-    },
-    {
-      "id": "n_0774f534f2",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
-      "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T10:03:12.000Z"
-    },
-    {
-      "id": "n_ca6bd074c9",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "US attorney general dodges questions about Nvidia investigation",
-      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T03:44:07.000Z"
-    },
-    {
-      "id": "n_d55d4faa02",
-      "type": "news",
-      "topic": "tech",
-      "lang": "en",
-      "headline": "Why tiny cars are taking off across Europe",
-      "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T00:34:05.000Z"
     },
     {
       "id": "n_a3a64e2095",
