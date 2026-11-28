@@ -1,49 +1,82 @@
 {
-  "generatedAt": "2026-11-28T10:59:59.359Z",
+  "generatedAt": "2026-11-28T19:13:00.530Z",
   "items": [
     {
-      "id": "n_d3640bf62d",
+      "id": "n_3ba5e9eb4f",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Mehrere Opfer bei Explosion nahe einer Schule in Afghanistan",
-      "summary": "Nahe einer Schule im Osten Afghanistans hat es eine Explosion gegeben. Durch die Detonation sind offenbar mehrere Schüler getötet worden. Die Behörden sprechen von Fahrlässigkeit.",
+      "headline": "AfD und Grüne kritisieren BSW für Parteitagsbeschluss",
+      "summary": "Das BSW sucht die Nähe zur AfD - doch dort reagiert man wenig euphorisch. Niemand wisse, wofür das BSW stehe, sagt AfD-Politiker Brandner. Die Partei sei \"mausetot\". Die Linkspartei kommt zu einem ähnlichen Schluss.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/explosion-an-schule-in-afghanistan-100.html",
-      "publishedAt": "2026-11-28T10:52:36.000Z"
+      "url": "https://www.tagesschau.de/inland/bsw-afd-gruene-kritik-100.html",
+      "publishedAt": "2026-11-28T19:10:23.000Z"
     },
     {
-      "id": "n_84eeaed799",
+      "id": "n_1b5f07be19",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Kritik aus der Union an Rentenplänen von Arbeitsminister Schweitzer",
-      "summary": "Der Vorschlag des Arbeitsministers zur Reform der Rente liegt auf dem Tisch - und der Gegenwind aus der Union ist recht rau. Dem Koalitionspartner stößt auf, dass die \"Rente mit 63\" im Kern erhalten bleibt. Doch nicht nur das.",
+      "headline": "Krieg gegen die Ukraine: Mehrere Tote bei russischen Angriffen",
+      "summary": "Bei russischen Angriffen in der Ukraine sind mindestens acht Menschen getötet worden. Auch Russland meldet zwei Tote in den besetzten Gebieten - und mehr als 1.200 abgefangene ukrainische Drohnen.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html",
-      "publishedAt": "2026-11-28T10:11:40.000Z"
+      "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-krieg-angriffe-110.html",
+      "publishedAt": "2026-11-28T18:08:12.000Z"
     },
     {
-      "id": "n_24e8b29dd0",
+      "id": "n_2256a440d0",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Mitarbeiter von Ärzte ohne Grenzen im Gazastreifen getötet",
-      "summary": "Israel wirft der Hamas im Gazastreifen immer wieder vor, sich als humanitäre Helfer auszugeben. Nun hat das Militär bei einem Angriff zwei Wachleute von Ärzte ohne Grenzen getötet. Die Hilfsorganisation zeigt sich empört.",
+      "headline": "Warum die Preise wieder stärker steigen könnten",
+      "summary": "Zwar steigen die Preise aktuell nicht mehr so rasant wie 2022 und 2023. Doch Preiserwartungen der Unternehmen und höhere Erzeugerpreise geben Anlass zur Sorge. Was kommt im neuen Jahr auf Verbraucher zu? Von Steffen Clement.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-hamas-aerzte-ohne-grenzen-100.html",
-      "publishedAt": "2026-11-28T09:58:16.000Z"
+      "url": "https://www.tagesschau.de/wirtschaft/verbraucher/inflation-preisanstieg-ausblick-2027-100.html",
+      "publishedAt": "2026-11-28T17:46:10.000Z"
     },
     {
-      "id": "n_e7652f2eb7",
+      "id": "n_a8fd0f265e",
       "type": "news",
       "topic": "general",
       "lang": "de",
-      "headline": "Volksabstimmung: Darf die Schweiz bald einfacher Waffen verkaufen?",
-      "summary": "Das Schweizer Recht erlaubt den Export von Rüstungsgütern nur unter engen Vorgaben. Das schwäche die Sicherheit des Landes, meint die Regierung. Sie will das ändern - und lässt die Schweizer am Sonntag darüber abstimmen. Von S. Biegger.",
+      "headline": "Bundeskongress der Jusos: Heil wirbt auf der Bühne um Unterstützung",
+      "summary": "Die Jusos wollen eine Frau an der Spitze der SPD. Bislang kandidiert aber nur ein Mann: Hubertus Heil. Auf dem Juso-Bundeskongress warb er um Unterstützung. Aber auch eine hoch gehandelte SPD-Frau meldete sich zu Wort. Von N. Kohnert und C. Nagel.",
       "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/europa/schweiz-abstimmung-kriegsmaterialgesetz-100.html",
-      "publishedAt": "2026-11-28T09:45:23.000Z"
+      "url": "https://www.tagesschau.de/inland/spd-jusos-heil-schwesig-tuermer-100.html",
+      "publishedAt": "2026-11-28T17:15:17.000Z"
+    },
+    {
+      "id": "n_fd281dcdc4",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Bundesparteitag: BSW gegen Abgrenzung von AfD - mehrere Austritte",
+      "summary": "Das BSW will mit der AfD zusammenarbeiten. Ein Antrag, sich stärker abzugrenzen, fand auf dem Bundesparteitag keine Mehrheit. Daraufhin traten 30 Mitglieder aus der Partei aus - darunter Mitgründer Ernst.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/inland/bsw-zusammenarbeit-afd-de-masi-102.html",
+      "publishedAt": "2026-11-28T16:10:05.000Z"
+    },
+    {
+      "id": "n_38701e2916",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Zusammenstöße bei Großdemo in Albaniens Hauptstadt Tirana",
+      "summary": "Bei erneuten Protesten in Albanien ist es zu Zusammenstößen zwischen Demonstrierenden und der Polizei gekommen. Der Unmut richtet sich seit Monaten gegen Großinvestoren und vermeintlich korrupte Politiker.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/europa/proteste-gegen-regierungschef-in-albanien-100.html",
+      "publishedAt": "2026-11-28T15:50:05.000Z"
+    },
+    {
+      "id": "n_00e6484e4f",
+      "type": "news",
+      "topic": "general",
+      "lang": "de",
+      "headline": "Ölförderung vor Falklandinseln: Seegerichtshof weist Antrag Argentiniens ab",
+      "summary": "Seit Jahrzehnten beanspruchen Briten und Argentinier die Kontrolle über die Falklandinseln im Südatlantik. Argentinien wollte nun ein britisches Ölprojekt vor der Küste der Inselgruppe gerichtlich stoppen - ohne Erfolg.",
+      "source": "Tagesschau",
+      "url": "https://www.tagesschau.de/ausland/amerika/streit-falklandinseln-100.html",
+      "publishedAt": "2026-11-28T15:45:16.000Z"
     },
     {
       "id": "n_ea04e244a8",
@@ -54,40 +87,40 @@
       "summary": "Am Airport Köln/Bonn ist am späten Abend der Flugverkehr vorübergehend eingestellt worden. Anlass war eine gesichtete Drohne. Warum sie dort unterwegs war, ist unklar. Mittlerweile können die Flugzeuge wieder starten und landen.",
       "source": "Tagesschau",
       "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/drohnensichtung-flugverkehr-am-airport-koelnbonn-gestoppt-100.html",
-      "publishedAt": "2026-11-28T08:21:27.000Z"
+      "publishedAt": "2026-11-28T15:35:00.000Z"
     },
     {
-      "id": "n_7364c5edc2",
+      "id": "n_e4a68ef663",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Nach niedrigen Pegelständen im Sommer: Umweltminister will Rhein umbauen",
-      "summary": "Niedrige Pegelstände an deutschen Flüssen führten im Sommer zu erheblichen Wirtschaftsschäden. Umweltminister Schneider fordert nun massive Investitionen in die Wasserinfrastruktur. Er will dem Rhein mehr Platz geben.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/inland/umweltminister-schneider-rhein-umbau-100.html",
-      "publishedAt": "2026-11-28T07:16:29.000Z"
+      "headline": "handyticket.de ausgefallen – zahlreiche Fahrkarten-Apps gestört",
+      "summary": "Seit einigen Tagen zeigen viele Fahrkarten-Apps gebuchte Tickets nicht an. Dahinter steckt offenbar ein Ausfall bei handyticket.de.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/handyticket-de-ausgefallen-zahlreiche-Fahrkarten-Apps-gestoert-11541650.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-11-28T17:04:00.000Z"
     },
     {
-      "id": "n_9f4538ba8c",
+      "id": "n_68e230cd33",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "Treibstoffkrise in Malawi: Kaum Geld - und dann der Iran-Krieg",
-      "summary": "Malawi leidet unter einer extremen Treibstoffkrise. Die fragile Wirtschaft hängt vom Tabakexport ab - zu schwachen Deviseneinnahmen kommt die Lage an der Straße von Hormus hinzu. Die Krise wirkt sich auf alle Lebensbereiche aus. Von C. Hauck.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/afrika/malawi-treibstoffkrise-100.html",
-      "publishedAt": "2026-11-28T03:34:41.000Z"
+      "headline": "Kritik an elektronischer Patientenakte: „Es brennt bei der ePA“",
+      "summary": "Ex-Datenschützer Ulrich Kelber sieht gravierende Mängel bei der elektronischen Patientenakte und fordert stattdessen föderale Datenhaltung.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/Kritik-an-elektronischer-Patientenakte-Es-brennt-bei-der-ePA-11541550.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-11-28T14:51:00.000Z"
     },
     {
-      "id": "n_4a63c7589e",
+      "id": "n_4d350c71f2",
       "type": "news",
-      "topic": "general",
+      "topic": "tech",
       "lang": "de",
-      "headline": "US-Militär beschießt Frachter im Golf von Oman",
-      "summary": "Im Golf von Oman hat das US-Militär nach eigenen Angaben ein Handelsschiff beschossen. Die Besatzung habe versucht, die US-Blockade iranischer Häfen zu durchbrechen. Das Schiff sei manövrierunfähig, die Crew unverletzt.",
-      "source": "Tagesschau",
-      "url": "https://www.tagesschau.de/ausland/asien/iran-usa-frachter-beschuss-golf-oman-100.html",
-      "publishedAt": "2026-11-28T03:27:38.000Z"
+      "headline": "c't 3003 baut Fernseher mit KI-Agent um: Tizen wird zu „Apple TV“",
+      "summary": "Schnell und einfach: Wir haben mit einem KI-Agenten die komplette Bedienoberfläche eines Samsung-TVs umgebaut – und Werbung und Tracker entfernt.",
+      "source": "heise online",
+      "url": "https://www.heise.de/news/c-t-3003-baut-Fernseher-mit-KI-Agent-um-Tizen-wird-zu-Apple-TV-11541121.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+      "publishedAt": "2026-11-27T18:02:00.000Z"
     },
     {
       "id": "n_44e25fde27",
@@ -145,37 +178,70 @@
       "publishedAt": "2026-11-26T13:33:00.000Z"
     },
     {
-      "id": "n_d4a74a6867",
+      "id": "n_a0211a1505",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Sparkassen bringen Unterstützung für Google Pay",
-      "summary": "In Updates der Sparkassen-App wurden Hinweise auf eine Google-Pay-Anbindung entdeckt. Der Sparkassenverband bestätigt die Funktion.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Sparkassen-bringen-Unterstuetzung-fuer-Google-Pay-11538771.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-11-26T09:45:00.000Z"
+      "headline": "Anzeige: IT-Jobs in SAP, Datenanalyse und Systemadministration",
+      "summary": "SAP-Anwendungen optimieren, Datenbanken gestalten oder IT-Systeme betreuen: Sechs offene Stellen bieten neue berufliche Perspektiven. (Golem Karrierewelt, Unternehmenssoftware)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-it-jobs-in-sap-datenanalyse-und-systemadministration-2611-215730.html",
+      "publishedAt": "2026-11-28T14:00:02.000Z"
     },
     {
-      "id": "n_9d196be509",
+      "id": "n_d3a20c2481",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Attacken auf Danfoss-Geräte, HPE-Juniper-Router, Mitel MiCollab und XO",
-      "summary": "Die US-IT-Sicherheitsbehörde warnt vor laufenden Angriffen auf zehn Sicherheitslücken in mehreren Produkten.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Angriffswarnung-auf-Danfoss-Geraete-HPE-Juniper-Router-Mitel-MiCollab-und-XO-11538657.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-11-26T09:12:00.000Z"
+      "headline": "Ladepreise: ADAC rügt hohe Aufpreise an Schnellladern",
+      "summary": "Verglichen mit den Spritpreisen vom Oktober lädt es sich im Schnitt günstiger. Einige Schnelllader sind dennoch teurer. (Elektromobilität, Auto)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/ladepreise-adac-ruegt-hohe-aufpreise-an-schnellladern-2611-215782.html",
+      "publishedAt": "2026-11-28T13:06:02.000Z"
     },
     {
-      "id": "n_5d878c7691",
+      "id": "n_fc232e6c06",
       "type": "news",
       "topic": "tech",
       "lang": "de",
-      "headline": "Windows Server 2025: Ungeplantes Update gegen Absturz mit Fehlercode 0x139",
-      "summary": "Windows Server 2025 mit Hotpatches vom November-Patchday stürzen unter Umständen mit Stop-Fehler 0x139 ab. Ein Update behebt das.",
-      "source": "heise online",
-      "url": "https://www.heise.de/news/Ausserplanmaessiges-Update-fuer-Windows-Server-2025-behebt-Absturzfehler-11538601.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
-      "publishedAt": "2026-11-26T08:27:00.000Z"
+      "headline": "Anzeige: Black Friday bei it-nerd24 - Dauerlizenzen von Microsoft und Windows zum halben Preis ...",
+      "summary": "Mit Dauerlizenzen lassen sich laufende Kosten für Software reduzieren. Bei it-nerd24 gibt es Microsoft-Dauerlizenzen mit 50 Prozent Black-Friday-Rabatt. (Black Friday, Microsoft)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/anzeige-black-friday-bei-it-nerd24-dauerlizenzen-von-microsoft-und-windows-zum-halben-preis-sichern-2611-215744.html",
+      "publishedAt": "2026-11-28T12:40:02.000Z"
+    },
+    {
+      "id": "n_4284536b4f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Pirelli treibt Sensorik voran: Reifen, die mit dem Auto sprechen",
+      "summary": "Ein winziger Sensor in der Reifeninnenseite misst Temperatur, Druck und Fahrbahnzustand und funkt die Daten ans Fahrzeug. Die Serienreife rückt näher. (Auto, Patent)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/pirelli-treibt-sensorik-voran-reifen-die-mit-dem-auto-sprechen-2611-215781.html",
+      "publishedAt": "2026-11-28T12:23:01.000Z"
+    },
+    {
+      "id": "n_dc52b1052f",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Kryptografie: KI-Labore sollen brisanten Durchbruch zurückhalten",
+      "summary": "Der Informatikprofessor Scott Aaronson erwartet, dass KI einige der heutigen Verschlüsselungssysteme knackt. Auch die Bank of England sieht Risiken. (Verschlüsselung, KI)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/kryptografie-ki-labore-sollen-brisanten-durchbruch-zurueckhalten-2611-215780.html",
+      "publishedAt": "2026-11-28T12:00:02.000Z"
+    },
+    {
+      "id": "n_3e1fbbe057",
+      "type": "news",
+      "topic": "tech",
+      "lang": "de",
+      "headline": "Neues Macbook Pro: Löst Apples OLED-Display Kopfschmerzen aus?",
+      "summary": "Kopfschmerzen, Schwindel, Übelkeit: Seit dem Umstieg auf OLED beim Macbook Pro häufen sich Klagen in Onlineforen. (Macbook, Apple)",
+      "source": "Golem.de",
+      "url": "https://www.golem.de/news/neues-macbook-pro-loest-apples-oled-display-kopfschmerzen-aus-2611-215779.html",
+      "publishedAt": "2026-11-28T11:20:01.000Z"
     },
     {
       "id": "n_0bb27ffcb7",
@@ -200,70 +266,59 @@
       "publishedAt": "2026-11-28T10:28:02.000Z"
     },
     {
-      "id": "n_0693075a4b",
+      "id": "n_7f3a66d555",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Verbraucherpreise: Festplatten kosten 40,8 Prozent mehr als vor einem Jahr",
-      "summary": "PC-Hardware ist teuer geworden, das spüren viele. Nun zeigen amtliche Zahlen, wie heftig der Anstieg tatsächlich ausfällt. (Statistisches Bundesamt, Speichermedien)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/verbraucherpreise-festplatten-kosten-40-8-prozent-mehr-als-vor-einem-jahr-2611-215776.html",
-      "publishedAt": "2026-11-28T10:06:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Argentina's bid to stop Falklands oil drilling rejected",
+      "summary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T18:01:05.000Z"
     },
     {
-      "id": "n_d30397c748",
+      "id": "n_2156ceea8d",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Erneuerbare Energie: Finnland hat Zeiten mit negativen Strompreisen minimiert",
-      "summary": "Negative Strom-Preise ergeben sich nicht nur aus Produktionsüberschuss, sie deuten strukturelle Probleme an. Finnland zeigt, wie das zu lösen ist. (Energiewende, Solarenergie)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/erneuerbare-energie-finnland-hat-zeiten-mit-negativen-strompreisen-minimiert-2611-215761.html",
-      "publishedAt": "2026-11-28T09:45:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Dozens killed in Myanmar military strikes on wedding venue and school",
+      "summary": "Air strikes by Myanmar's military government have killed dozens of civilians across the South East Asian nation in recent days.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T16:53:20.000Z"
     },
     {
-      "id": "n_f925580c46",
+      "id": "n_8d6cdbff6f",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: Jetzt Amazon Essentials entdecken und 2.000 Euro mitnehmen",
-      "summary": "Beim Glücksrad-Gewinnspiel zu den Everyday Essentials übernimmt Amazon für zehn Glückliche die Alltagseinkäufe im Dezember. (Amazon, Technik/Hardware)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-jetzt-amazon-essentials-entdecken-und-2-000-euro-mitnehmen-2611-215739.html",
-      "publishedAt": "2026-11-28T09:40:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "A clinic is offering to reassess ADHD and autism diagnoses - and hundreds of people are interested",
+      "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T16:18:58.000Z"
     },
     {
-      "id": "n_01f553a3c4",
+      "id": "n_a7161e8354",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "(g+) KI-gestützte Softwareentwicklung: Wenn das Gedächtnis von Coding-Agenten zum Problem wird",
-      "summary": "Coding-Agenten können auf frühere Projektentscheidungen zurückgreifen. Doch nicht alle sind noch gültig. Wir zeigen, wie Codex mit widersprüchlichen Vorgaben umgeht. Ein Praxistest von Fabian Deitelhoff (Softwareentwicklung, KI)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/ki-gestuetzte-softwareentwicklung-wenn-das-gedaechtnis-von-coding-agenten-zum-problem-wird-2611-215745.html",
-      "publishedAt": "2026-11-28T09:00:01.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+      "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T14:10:01.000Z"
     },
     {
-      "id": "n_0cb9d74bca",
+      "id": "n_83723fd30a",
       "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Defense Radar: Wie Deutschland seine Flugabwehr neu aufstellt",
-      "summary": "IRIS-T-SLM ist bereits im Ukrainekrieg im Einsatz. Welche Rolle das Flugabwehrsystem künftig bei der Bundeswehr spielt, erklären wir in unserem Defense Radar auf Youtube. (Defense Radar, Politik)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/defense-radar-wie-deutschland-seine-luftabwehr-neu-aufstellt-2611-215765.html",
-      "publishedAt": "2026-11-28T08:35:02.000Z"
-    },
-    {
-      "id": "n_9ae87a4f2f",
-      "type": "news",
-      "topic": "tech",
-      "lang": "de",
-      "headline": "Anzeige: 50 Prozent Rabatt auf alle E-Learning-Kurse",
-      "summary": "Netzwerkfehler finden, Linux im Terminal bedienen oder Daten auswerten. In der Black Week gibt es 50 Prozent Rabatt auf alle E-Learning-Kurse der Golem Karrierewelt. (Golem Karrierewelt, Python)",
-      "source": "Golem.de",
-      "url": "https://www.golem.de/news/anzeige-50-prozent-rabatt-auf-alle-e-learning-kurse-2611-215773.html",
-      "publishedAt": "2026-11-28T07:30:02.000Z"
+      "topic": "general",
+      "lang": "en",
+      "headline": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+      "summary": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T11:35:34.000Z"
     },
     {
       "id": "n_8310d66685",
@@ -275,17 +330,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-28T10:34:58.000Z"
-    },
-    {
-      "id": "n_a7161e8354",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Seven students killed and nearly 100 injured in explosion in Afghanistan, official says",
-      "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-28T10:14:37.000Z"
     },
     {
       "id": "n_21263e86da",
@@ -310,50 +354,6 @@
       "publishedAt": "2026-11-28T04:19:16.000Z"
     },
     {
-      "id": "n_6815b669d4",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
-      "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-28T04:13:45.000Z"
-    },
-    {
-      "id": "n_dd0b7a8a7e",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "Nigeria's acting legend who was loved across Africa and beyond",
-      "summary": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-28T01:20:35.000Z"
-    },
-    {
-      "id": "n_013919c687",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
-      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-28T00:56:55.000Z"
-    },
-    {
-      "id": "n_3941eb83ee",
-      "type": "news",
-      "topic": "general",
-      "lang": "en",
-      "headline": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
-      "summary": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-28T00:50:11.000Z"
-    },
-    {
       "id": "n_12e93693f2",
       "type": "news",
       "topic": "tech",
@@ -362,7 +362,7 @@
       "summary": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-28T09:10:32.000Z"
+      "publishedAt": "2026-11-28T16:01:09.000Z"
     },
     {
       "id": "n_ecd790245e",
@@ -431,15 +431,15 @@
       "publishedAt": "2026-11-25T10:52:09.000Z"
     },
     {
-      "id": "n_64f5f4c679",
+      "id": "n_e5aa967d6a",
       "type": "news",
       "topic": "tech",
       "lang": "en",
-      "headline": "EA adds AI-generated John Motson to FC 27 video game",
-      "summary": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-25T10:11:34.000Z"
+      "headline": "2026 Kindle Paperwhite review: Page-turn buttons are back, for a price",
+      "summary": "Kindles are getting costlier faster than they're getting better.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/",
+      "publishedAt": "2026-11-28T12:00:20.000Z"
     },
     {
       "id": "n_a3a64e2095",
@@ -519,15 +519,15 @@
       "publishedAt": "2026-11-26T12:00:14.000Z"
     },
     {
-      "id": "n_3e56a8e6d4",
+      "id": "n_73f44d865d",
       "type": "news",
-      "topic": "tech",
+      "topic": "ai",
       "lang": "en",
-      "headline": "European spacecraft finds chaotic scene after asteroid deflection experiment",
-      "summary": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-      "publishedAt": "2026-11-25T22:36:45.000Z"
+      "headline": "Samsung is testing a feature that changes the angle of photos you’ve already taken",
+      "summary": "Android Authority found code in the beta for One UI 9.5 referring to a feature called Recompose that might let you change the angle of a photo after you've taken it. The code is part of Samsung's Photo Editor app and builds on the existing Move tool. Users would be able to toggle",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1045337/samsung-recompose-ai-camera",
+      "publishedAt": "2026-11-28T18:54:58.000Z"
     },
     {
       "id": "n_2464471310",
@@ -605,17 +605,6 @@
       "source": "The Verge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
       "publishedAt": "2026-11-25T13:00:00.000Z"
-    },
-    {
-      "id": "n_32af257829",
-      "type": "news",
-      "topic": "ai",
-      "lang": "en",
-      "headline": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
-      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Time",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-      "publishedAt": "2026-11-24T20:02:03.000Z"
     },
     {
       "id": "n_cb4782794f",
